@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Mary Shurtleff collection, 1848-1915 (scattered dates)</titleproper>
       <author>Finding aid created by <lb/>Krista Gray, August 2013</author>
     </titlepage>
@@ -104,21 +104,21 @@ Mary Shurtleff collection, Bentley Historical Library, University of Michigan.</
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <subject source="lcsh" encodinganalog="650">Business records.</subject>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n83128558.html">Cross Village (Mich.)</geogname>
-        <subject source="lcsh" encodinganalog="650">General stores--Michigan--Cross Village.</subject>
-        <subject source="lcsh" encodinganalog="650">Indians of North America--Michigan.</subject>
-        <subject source="lcsh" encodinganalog="650">Indians of North America--Government relations--Michigan.</subject>
-        <subject source="lcsh" encodinganalog="650">Land grants--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5784">Business records.</subject>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n83128558.html" ref="/subjects/1067">Cross Village (Mich.)</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/10067">General stores--Michigan--Cross Village.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6072">Indians of North America--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/10068">Indians of North America--Government relations--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/10069">Land grants--Michigan.</subject>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Materials:</head>
-        <geogname source="lctgm" encodinganalog="651">Cross Village (Mich.)--Lumber industry.</geogname>
-        <geogname source="lctgm" encodinganalog="651">Cross Village (Mich.)--Waterfronts.</geogname>
-        <subject source="lctgm" encodinganalog="650">Land subdivision--Michigan--Cross Village.</subject>
-        <subject source="lctgm" encodinganalog="650">Lumber industry--Michigan--Cross Village.</subject>
+        <geogname source="lctgm" encodinganalog="651" ref="/subjects/672">Cross Village (Mich.)--Lumber industry.</geogname>
+        <geogname source="lctgm" encodinganalog="651" ref="/subjects/673">Cross Village (Mich.)--Waterfronts.</geogname>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/5299">Land subdivision--Michigan--Cross Village.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/5300">Lumber industry--Michigan--Cross Village.</subject>
         <persname source="lcnaf" encodinganalog="600">Sifferath, N. L.</persname>
-        <subject source="lctgm" encodinganalog="650">Waterfronts--Michigan--Cross Village.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/5301">Waterfronts--Michigan--Cross Village.</subject>
       </controlaccess>
       <controlaccess>
         <head>Contributors:</head>
@@ -126,8 +126,8 @@ Mary Shurtleff collection, Bentley Historical Library, University of Michigan.</
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
-        <genreform source="aat" encodinganalog="655">Plats (maps)</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3365">Plats (maps)</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -140,37 +140,37 @@ Mary Shurtleff collection, Bentley Historical Library, University of Michigan.</
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [35504163424959165987089]">1</container>
             <unittitle>Daybook <unitdate type="inclusive" normal="1903/1904">1903-1904</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [35504163424959165987089]">1</container>
             <unittitle>Financial records of items by category, late <unitdate type="inclusive" normal="1800/1809" certainty="approximate">1800s</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [35504163424959165987089]">1</container>
             <unittitle>Record book of accounts paid by name and month <unitdate type="inclusive" normal="1900">1900</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [35504163424959165987089]">1</container>
             <unittitle>Shurtleff's automobile expenses <unitdate type="inclusive" normal="1914/1915">1914-1915</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [35504163424959165987089]">1</container>
             <unittitle>Financial records of items by category as well as lists of "personal property on farm", "real estate" and "fixtures", late <unitdate type="inclusive" normal="1800/1809" certainty="approximate">1800s</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [35504163424959165987089]">1</container>
             <unittitle>Ledgers <unitdate type="inclusive" normal="1903/1905">1903-1905</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">3 volumes</extent>
@@ -187,13 +187,13 @@ Mary Shurtleff collection, Bentley Historical Library, University of Michigan.</
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [35504163424959165987089]">1</container>
             <unittitle>Land patents to Cross Village Indians <unitdate type="inclusive" normal="1848/1878">1848-1878</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [35504163424959165987089]">1</container>
             <unittitle>Letter from Father N. Louis Sifferath to W. Shurtleff and friends <unitdate type="inclusive" normal="1871">1871</unitdate></unittitle>
           </did>
         </c02>
@@ -207,15 +207,15 @@ Mary Shurtleff collection, Bentley Historical Library, University of Michigan.</
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [35504163424959165987089]">1</container>
             <unittitle>Portrait of Fr. N. Louis Sifferath (photograph; includes note on his background) <unitdate type="inclusive" normal="1890/1899" certainty="approximate">circa 1890s</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="folder" label="Oversize Folder">1</container>
+            <container type="folder" label="Oversize Folder [36459534996818031]">1</container>
             <unittitle>Panoramic view of Cross Village Township, Mich. (showing sawmill and waterfront) <unitdate type="inclusive" normal="1890/1899" certainty="approximate">circa 1890s</unitdate></unittitle>
-            <dao href="http://hdl.handle.net/2027.42/99553" show="new" actuate="onrequest">
+            <dao href="http://hdl.handle.net/2027.42/99553" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/8799">
               <daodesc>
                 <p>[view item]</p>
               </daodesc>
@@ -226,7 +226,7 @@ Mary Shurtleff collection, Bentley Historical Library, University of Michigan.</
           <did>
             <physloc>Online</physloc>
             <unittitle>Plat map showing land ownership of Cross Village Township, Mich. <unitdate type="inclusive" normal="1900" certainty="approximate">circa 1900</unitdate></unittitle>
-            <dao href="http://hdl.handle.net/2027.42/99554" show="new" actuate="onrequest">
+            <dao href="http://hdl.handle.net/2027.42/99554" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/8800">
               <daodesc>
                 <p>[view item]</p>
               </daodesc>

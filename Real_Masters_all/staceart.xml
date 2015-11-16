@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Arthur W. Stace papers, 1927-1950</titleproper>
       <author>Finding aid created by <lb/>Michigan Historical Collections staff</author>
     </titlepage>
@@ -79,23 +79,23 @@ Arthur W. Stace papers, Bentley Historical Library, University of Michigan</p>
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <subject source="lcsh" encodinganalog="630">Ann Arbor news.</subject>
-        <subject source="lcsh" encodinganalog="630">The Bay City times.</subject>
+        <subject source="lcsh" encodinganalog="630" ref="/subjects/6470">Ann Arbor news.</subject>
+        <subject source="lcsh" encodinganalog="630" ref="/subjects/10186">The Bay City times.</subject>
         <corpname source="lcnaf" encodinganalog="610">Booth Newspapers, Inc.</corpname>
-        <subject source="local" encodinganalog="690">Burton Tower (University of Michigan)</subject>
-        <subject source="lcsh" encodinganalog="650">Civil service.</subject>
+        <subject source="local" encodinganalog="690" ref="/subjects/3557">Burton Tower (University of Michigan)</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7242">Civil service.</subject>
         <persname source="lcnaf" encodinganalog="600">East, Ben.</persname>
-        <subject source="lcsh" encodinganalog="630">The Grand Rapids press.</subject>
-        <subject source="lcsh" encodinganalog="630">Jackson citizen patriot.</subject>
-        <subject source="lcsh" encodinganalog="650">Journalists--Michigan--Ann Arbor.</subject>
-        <subject source="lcsh" encodinganalog="630">Kalamazoo gazette.</subject>
+        <subject source="lcsh" encodinganalog="630" ref="/subjects/10187">The Grand Rapids press.</subject>
+        <subject source="lcsh" encodinganalog="630" ref="/subjects/9973">Jackson citizen patriot.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7888">Journalists--Michigan--Ann Arbor.</subject>
+        <subject source="lcsh" encodinganalog="630" ref="/subjects/6950">Kalamazoo gazette.</subject>
         <corpname source="lcnaf" encodinganalog="610">Michigan Outdoor Writers Association.</corpname>
-        <subject source="lcsh" encodinganalog="630">The Muskegon chronicle.</subject>
-        <subject source="lcsh" encodinganalog="650">Newspaper editors--Michigan.</subject>
-        <subject source="lcsh" encodinganalog="630">Saginaw news.</subject>
+        <subject source="lcsh" encodinganalog="630" ref="/subjects/10188">The Muskegon chronicle.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/10189">Newspaper editors--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="630" ref="/subjects/6957">Saginaw news.</subject>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n83065961">Smith, Gerald L. K. (Gerald Lyman Kenneth), 1898-1976</persname>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n94090908">Stace, Arthur W. (Arthur William), 1875-1950.</persname>
-        <subject source="lcsh" encodinganalog="650">Tourism.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5903">Tourism.</subject>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan--Buildings.</corpname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n84205455">University of Michigan. Dept. of Journalism.</corpname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan--Students--Social life and customs--1931-1940.</corpname>
@@ -104,16 +104,16 @@ Arthur W. Stace papers, Bentley Historical Library, University of Michigan</p>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Materials:</head>
-        <subject source="lctgm" encodinganalog="650">Agriculture.</subject>
-        <subject source="lctgm" encodinganalog="650">Agricultural machinery.</subject>
-        <subject source="lctgm" encodinganalog="650">Automobiles.</subject>
-        <subject source="lctgm" encodinganalog="650">Chickens.</subject>
-        <subject source="lctgm" encodinganalog="650">Dairying--Michigan.</subject>
-        <subject source="lctgm" encodinganalog="650">Electricity.</subject>
-        <subject source="lctgm" encodinganalog="650">Farms.</subject>
-        <subject source="lctgm" encodinganalog="650">Irrigation.</subject>
-        <subject source="lctgm" encodinganalog="650">Roads--Michigan--Upper Peninsula.</subject>
-        <geogname source="lcsh" encodinganalog="651">Upper Peninsula (Mich.)</geogname>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3916">Agriculture.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3846">Agricultural machinery.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4145">Automobiles.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4860">Chickens.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/5370">Dairying--Michigan.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/5371">Electricity.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4333">Farms.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4584">Irrigation.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4289">Roads--Michigan--Upper Peninsula.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/938">Upper Peninsula (Mich.)</geogname>
       </controlaccess>
       <controlaccess>
         <head>Contributors:</head>
@@ -139,7 +139,7 @@ Arthur W. Stace papers, Bentley Historical Library, University of Michigan</p>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -149,7 +149,7 @@ Arthur W. Stace papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [602995564181005463741]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1918">1918</unitdate>
               <unitdate type="inclusive" normal="1927/1950">1927-1950</unitdate>
@@ -161,7 +161,7 @@ Arthur W. Stace papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [602995564181005463741]">1</container>
             <unittitle>Correspondence and clippings concerning Ben East lecture tours <unitdate type="inclusive" normal="1937/1943">1937-1943</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">6 folders</extent>
@@ -175,7 +175,7 @@ Arthur W. Stace papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [9728604147806103923]">2</container>
             <unittitle>Ann Arbor News Manager's Reports</unittitle>
             <unitdate type="inclusive" normal="1941">1941</unitdate>
             <unitdate type="inclusive" normal="1945/1947">1945-1947</unitdate>
@@ -183,7 +183,7 @@ Arthur W. Stace papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [9728604147806103923]">2</container>
             <unittitle>Ann Arbor News Editorial Department Reports <unitdate type="inclusive" normal="1935/1948">1935-1948</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -192,7 +192,7 @@ Arthur W. Stace papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [9728604147806103923]">2</container>
             <unittitle>Booth Newspapers Ann Arbor Bureau Reports <unitdate type="inclusive" normal="1935/1948">1935-1948</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -205,7 +205,7 @@ Arthur W. Stace papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [9728604147806103923]">2</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1935/1939">1935-1939</unitdate>
               </unittitle>
@@ -213,7 +213,7 @@ Arthur W. Stace papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [9728604147806103923]">2</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1946/1949">1946-1949</unitdate>
               </unittitle>
@@ -222,7 +222,7 @@ Arthur W. Stace papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [9728604147806103923]">2</container>
             <unittitle>Articles and addresses by Washington correspondent Mark Foote</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -231,31 +231,31 @@ Arthur W. Stace papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [9728604147806103923]">2</container>
             <unittitle>Report on Civil Service in Michigan prepared for Booth Newspapers by Edward Litchfield <unitdate type="inclusive" normal="1940">1940</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [9728604147806103923]">2</container>
             <unittitle>Historical sketch of Ann Arbor newspaper service <unitdate type="inclusive" normal="1920/1945">1920-1945</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [9728604147806103923]">2</container>
             <unittitle>New building of the Ann Arbor News <unitdate type="inclusive" normal="1936">1936</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [9728604147806103923]">2</container>
             <unittitle>Booth Newspapers group life insurance plan <unitdate type="inclusive" normal="1940">1940</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [9728604147806103923]">2</container>
             <unittitle>Miscellaneous papers concerning the Booth Newspapers miscellaneous</unittitle>
           </did>
         </c02>
@@ -266,25 +266,25 @@ Arthur W. Stace papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [9728604147806103923]">2</container>
             <unittitle>Gerald L.K. Smith <unitdate type="inclusive" normal="1942">1942</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [9728604147806103923]">2</container>
             <unittitle>University of Michigan Department of Journalism <unitdate type="inclusive" normal="1946">1946</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [9728604147806103923]">2</container>
             <unittitle>Harry Kipke <unitdate type="inclusive" normal="1936/1937">1936-1937</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [9728604147806103923]">2</container>
             <unittitle>Wesley Maurer</unittitle>
             <unitdate type="inclusive" normal="1932">1932</unitdate>
             <unitdate type="inclusive" normal="1949">1949</unitdate>
@@ -292,73 +292,73 @@ Arthur W. Stace papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [9728604147806103923]">2</container>
             <unittitle>Construction of U.S. 23</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [9728604147806103923]">2</container>
             <unittitle>Michigan Outdoor Writers Association <unitdate type="inclusive" normal="1944/1949">1944-1949</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [9728604147806103923]">2</container>
             <unittitle>Magazine of Michigan <unitdate type="inclusive" normal="1928/1930">1928-1930</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [9728604147806103923]">2</container>
             <unittitle>Waterloo project</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [9728604147806103923]">2</container>
             <unittitle>Construction of Burton Tower at the University of Michigan</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [9728604147806103923]">2</container>
             <unittitle>University Press Club of Michigan <unitdate type="inclusive" normal="1932/1947">1932-1947</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [9728604147806103923]">2</container>
             <unittitle>Alexander G. Ruthven testimonial dinner <unitdate type="inclusive" normal="1939">1939</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [9728604147806103923]">2</container>
             <unittitle>Arthur H. Vandenberg <unitdate type="inclusive" normal="1940/1947">1940-1947</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [9728604147806103923]">2</container>
             <unittitle>American Newspaper Guild <unitdate type="inclusive" normal="1936/1937">1936-1937</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [9728604147806103923]">2</container>
             <unittitle>National Student League at the University of Michigan <unitdate type="inclusive" normal="1935/1936">1935-1936</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [9728604147806103923]">2</container>
             <unittitle>Radical activities at the University of Michigan <unitdate type="inclusive" normal="1940/1941">1940-1941</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [9728604147806103923]">2</container>
             <unittitle>Michigan Tourist Council</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">6 folders</extent>
@@ -372,7 +372,7 @@ Arthur W. Stace papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [9728604147806103923]">2</container>
             <unittitle>Miscellaneous papers</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -381,13 +381,13 @@ Arthur W. Stace papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [9728604147806103923]">2</container>
             <unittitle>Newspaper clippings</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [9728604147806103923]">2</container>
             <unittitle>Tape recording: "Theirs was the news" Program 7 in series featuring Arthur W. Stace (produced by Wayne State University)</unittitle>
             <physdesc>
               <physfacet>7 in.; 7 1/2 ips</physfacet>
@@ -396,25 +396,25 @@ Arthur W. Stace papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [9728604147806103923]">2</container>
             <unittitle>Copies of science articles by R. Ray Baker <unitdate type="inclusive" normal="1938/1942">1938-1942</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [17759642171867946861]">3</container>
             <unittitle>Copies of articles produced by the Ann Arbor Bureau of Booth Newspapers <unitdate type="inclusive" normal="1935/1942">1935-1942</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [17759642171867946861]">3</container>
             <unittitle>Copies of articles by Stace and R. Ray Baker</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [17759642171867946861]">3</container>
             <unittitle>
               <genreform normal="Photographs">Photographs</genreform>
             </unittitle>

@@ -31,7 +31,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>E. O. Haven pamphlets and reprints, 1838-1881</titleproper>
       <author>Finding aid created by <lb/>Michigan Historical Collections staff</author>
     </titlepage>
@@ -85,8 +85,8 @@ E. O. Haven pamphlets and reprints, Bentley Historical Library, University of Mi
         <head>Subjects:</head>
         <persname encodinganalog="600" source="lcnaf" authfilenumber="http://id.loc.gov/authorities/names/n85363436">Haven, E. O. (Erastus Otis), 1820-1881.</persname>
         <corpname encodinganalog="610" source="lcnaf">University of Michigan--History.</corpname>
-        <geogname encodinganalog="650" source="lcsh">Universities and colleges--Michigan--Religion.</geogname>
-        <geogname encodinganalog="650" source="lcsh">Methodism.</geogname>
+        <geogname encodinganalog="650" source="lcsh" ref="/subjects/1999">Universities and colleges--Michigan--Religion.</geogname>
+        <geogname encodinganalog="650" source="lcsh" ref="/subjects/2000">Methodism.</geogname>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -96,7 +96,7 @@ E. O. Haven pamphlets and reprints, Bentley Historical Library, University of Mi
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [3690478428320299227463]">1</container>
             <unittitle>The true object of a seminary. A farewell address, delivered at Amenia seminary <unitdate type="inclusive" normal="1848">1848</unitdate></unittitle>
           </did>
         </c02>

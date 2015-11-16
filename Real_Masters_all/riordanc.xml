@@ -31,7 +31,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>C. E. Riordan papers, 1919</titleproper>
       <author>Finding aid created by <lb/>Olga Virakhovskaya</author>
     </titlepage>
@@ -81,10 +81,10 @@ C. E. Riordan papers, Bentley Historical Library, University of Michigan</p>
       <controlaccess>
         <head>Subjects:</head>
         <persname encodinganalog="600" source="lcnaf">Riordan, C. E.</persname>
-        <geogname encodinganalog="651" source="lcsh">Soviet Union--History--Allied intervention, 1918-1920.</geogname>
+        <geogname encodinganalog="651" source="lcsh" ref="/subjects/883">Soviet Union--History--Allied intervention, 1918-1920.</geogname>
         <corpname encodinganalog="610" source="lcnaf">United States. Army. Judge Advocate General's Dept.</corpname>
-        <subject source="lcsh" encodinganalog="650">World War, 1914-1918.</subject>
-        <subject source="local" encodinganalog="690" authfilenumber="http://id.loc.gov/authorities/names/n2008059426">Polar Bear Expedition.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5712">World War, 1914-1918.</subject>
+        <subject source="local" encodinganalog="690" authfilenumber="http://id.loc.gov/authorities/names/n2008059426" ref="/subjects/3518">Polar Bear Expedition.</subject>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -94,12 +94,12 @@ C. E. Riordan papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="folder" label="Folder">1</container>
+            <container type="folder" label="Folder [9546414424801306516251]">1</container>
             <unittitle>Correspondence</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">3 items</extent>
             </physdesc>
-            <dao href="riordan0001" show="new" actuate="onrequest">
+            <dao href="riordan0001" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/8756">
               <daodesc>
                 <p>[view items]</p>
               </daodesc>

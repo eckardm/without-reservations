@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>George Washington Merrill photographs, ca. 1874-1918</titleproper>
       <author>Finding aid created by <lb/>Michigan Historical Collections Staff</author>
     </titlepage>
@@ -80,24 +80,24 @@ George Washington Merrill photographs, Bentley Historical Library, University of
       <controlaccess>
         <head>Subjects - Visual Materials:</head>
         <persname source="lcnaf" encodinganalog="600">Merrill, George Washington, 1856-1937.</persname>
-        <subject source="lctgm" encodinganalog="650">City &amp; town life--Michigan--Detroit.</subject>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n79045539.html">Detroit (Mich.)</geogname>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4789">City &amp; town life--Michigan--Detroit.</subject>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n79045539.html" ref="/subjects/933">Detroit (Mich.)</geogname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n84076025">Grand Army of the Republic.</corpname>
-        <subject source="lctgm" encodinganalog="650">Cities &amp; towns--Michigan--Detroit.</subject>
-        <subject source="lctgm" encodinganalog="650">Ice skating--Michigan.</subject>
-        <subject source="lctgm" encodinganalog="650">Business districts--Michigan--Detroit.</subject>
-        <geogname source="lcsh" encodinganalog="651">Belle Isle (Detroit, Mich.)</geogname>
-        <subject source="lctgm" encodinganalog="650">Parades--Michigan--Detroit.</subject>
-        <subject source="lctgm" encodinganalog="650">Patriotism--Michigan--Detroit.</subject>
-        <subject source="lctgm" encodinganalog="650">War rallies--Michigan--Detroit.</subject>
-        <subject source="lctgm" encodinganalog="650">Veterans--Michigan--Detroit.</subject>
-        <genreform source="aat" encodinganalog="655">Glass negatives.</genreform>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4790">Cities &amp; towns--Michigan--Detroit.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4535">Ice skating--Michigan.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4791">Business districts--Michigan--Detroit.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1405">Belle Isle (Detroit, Mich.)</geogname>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3930">Parades--Michigan--Detroit.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4792">Patriotism--Michigan--Detroit.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4793">War rallies--Michigan--Detroit.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4794">Veterans--Michigan--Detroit.</subject>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3328">Glass negatives.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Glass negatives.</genreform>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3328">Glass negatives.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -107,7 +107,7 @@ George Washington Merrill photographs, Bentley Historical Library, University of
         </did>
         <c02 level="file">
           <did>
-            <container label="Box" type="box">1</container>
+            <container label="Box [185047650483993151318]" type="box">1</container>
             <unittitle>Glass Negatives</unittitle>
           </did>
         </c02>
@@ -117,7 +117,7 @@ George Washington Merrill photographs, Bentley Historical Library, University of
           </did>
           <c03 level="file">
             <did>
-              <container label="Box" type="box">1</container>
+              <container label="Box [185047650483993151318]" type="box">1</container>
               <unittitle>Prints made from scanned glass negatives</unittitle>
             </did>
           </c03>
@@ -127,12 +127,12 @@ George Washington Merrill photographs, Bentley Historical Library, University of
             </did>
             <c04 level="file">
               <did>
-                <container label="Box" type="box">1</container>
+                <container label="Box [185047650483993151318]" type="box">1</container>
                 <unittitle>Detroit Street Views</unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">3 folders</extent>
                 </physdesc>
-                <dao href="0738-1" show="new" actuate="onrequest">
+                <dao href="0738-1" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/4032">
                   <daodesc>
                     <p>[view selected images]</p>
                   </daodesc>
@@ -141,9 +141,9 @@ George Washington Merrill photographs, Bentley Historical Library, University of
             </c04>
             <c04 level="file">
               <did>
-                <container label="Box" type="box">1</container>
+                <container label="Box [185047650483993151318]" type="box">1</container>
                 <unittitle>Belle Isle and other water views</unittitle>
-                <dao href="0738-2" show="new" actuate="onrequest">
+                <dao href="0738-2" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/4033">
                   <daodesc>
                     <p>[view selected images]</p>
                   </daodesc>
@@ -152,12 +152,12 @@ George Washington Merrill photographs, Bentley Historical Library, University of
             </c04>
             <c04 level="file">
               <did>
-                <container label="Box" type="box">1</container>
+                <container label="Box [185047650483993151318]" type="box">1</container>
                 <unittitle>Grand Army of the Republic Parade <unitdate type="inclusive" normal="1891">1891</unitdate></unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">2 folders</extent>
                 </physdesc>
-                <dao href="0738-3" show="new" actuate="onrequest">
+                <dao href="0738-3" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/4034">
                   <daodesc>
                     <p>[view selected images]</p>
                   </daodesc>
@@ -166,12 +166,12 @@ George Washington Merrill photographs, Bentley Historical Library, University of
             </c04>
             <c04 level="file">
               <did>
-                <container label="Box" type="box">1</container>
+                <container label="Box [185047650483993151318]" type="box">1</container>
                 <unittitle>Liberty Bond Rally and promotion</unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">4 folders</extent>
                 </physdesc>
-                <dao href="0738-4" show="new" actuate="onrequest">
+                <dao href="0738-4" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/4035">
                   <daodesc>
                     <p>[view selected images]</p>
                   </daodesc>
@@ -182,7 +182,7 @@ George Washington Merrill photographs, Bentley Historical Library, University of
         </c02>
         <c02 level="file">
           <did>
-            <container label="Box" type="box">1</container>
+            <container label="Box [185047650483993151318]" type="box">1</container>
             <unittitle>Digital photographic copies of images</unittitle>
             <physdesc altrender="part">
               <extent altrender="materialtype spaceoccupied">1 optical disks</extent>

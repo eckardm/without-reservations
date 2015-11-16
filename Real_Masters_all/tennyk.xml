@@ -26,7 +26,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Katharine Tennyson Papers, 1969-1973</titleproper>
       <author>Finding aid created by <lb/>Mary Kenney, March 2005</author>
     </titlepage>
@@ -77,15 +77,15 @@ Katharine Tennyson Papers, Bentley Historical Library, University of Michigan</p
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <subject source="lcsh" encodinganalog="650">Abortion--Michigan.</subject>
-        <subject source="lcsh" encodinganalog="650">Abortion--Law and legislation--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/8663">Abortion--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6218">Abortion--Law and legislation--Michigan.</subject>
         <corpname source="lcnaf" encodinganalog="610">Michigan Abortion Referendum Committee.</corpname>
         <corpname source="lcnaf" encodinganalog="610">Michigan Organization for the Repeal of Abortion Laws.</corpname>
-        <geogname source="lcsh" encodinganalog="651">Michigan--Politics and government--1951-</geogname>
-        <geogname source="local" encodinganalog="691">Michigan--Politics and government--1971-1980.</geogname>
-        <subject source="lcsh" encodinganalog="650">Pro-choice movement--Michigan.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/910">Michigan--Politics and government--1951-</geogname>
+        <geogname source="local" encodinganalog="691" ref="/subjects/801">Michigan--Politics and government--1971-1980.</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/9248">Pro-choice movement--Michigan.</subject>
         <persname source="lcnaf" encodinganalog="600">Tennyson, Katharine.</persname>
-        <subject source="lcsh" encodinganalog="650">Women's rights--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6223">Women's rights--Michigan.</subject>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -98,31 +98,31 @@ Katharine Tennyson Papers, Bentley Historical Library, University of Michigan</p
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [356655204108064503890]">1</container>
             <unittitle>Michigan Organization for the Repeal of Abortion Laws (MORAL) <unitdate type="inclusive" normal="1969/1970">1969-1970</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [356655204108064503890]">1</container>
             <unittitle>Detroit Women's Abortion Action Coalition (DWAAC) <unitdate type="inclusive" normal="1971">1971</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [356655204108064503890]">1</container>
             <unittitle>Women's National Abortion Action Coalition (WONAAC)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [356655204108064503890]">1</container>
             <unittitle>Michigan Coordinating Committee for Abortion Reform <unitdate type="inclusive" normal="1971/1972">1971-1972</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [356655204108064503890]">1</container>
             <unittitle>Michigan Abortion Law Suit <unitdate type="inclusive" normal="1971/1972">1971-1972</unitdate></unittitle>
           </did>
         </c02>
@@ -136,7 +136,7 @@ Katharine Tennyson Papers, Bentley Historical Library, University of Michigan</p
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [356655204108064503890]">1</container>
             <unittitle>MARC Lansing <unitdate type="inclusive" normal="1972/1973">1972-1973</unitdate></unittitle>
           </did>
         </c02>
@@ -146,31 +146,31 @@ Katharine Tennyson Papers, Bentley Historical Library, University of Michigan</p
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [356655204108064503890]">1</container>
               <unittitle>Correspondence <unitdate type="inclusive" normal="1971/1973">1971-1973</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [356655204108064503890]">1</container>
               <unittitle>DBA and lease <unitdate type="inclusive" normal="1972">1972</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [356655204108064503890]">1</container>
               <unittitle>Financial records <unitdate type="inclusive" normal="1972">1972</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [356655204108064503890]">1</container>
               <unittitle>Job Description, county coordinator</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [356655204108064503890]">1</container>
               <unittitle>Minutes and notes <unitdate type="inclusive" normal="1971/1972">1971-1972</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -179,13 +179,13 @@ Katharine Tennyson Papers, Bentley Historical Library, University of Michigan</p
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [356655204108064503890]">1</container>
               <unittitle>State program information <unitdate type="inclusive" normal="1972">1972</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [356655204108064503890]">1</container>
               <unittitle>Wayne County Petition Drive income and expense <unitdate type="inclusive" normal="1972">1972</unitdate></unittitle>
             </did>
           </c03>

@@ -31,7 +31,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Michigan Dental Association records, 1856-2006</titleproper>
       <author>Finding aid created by <lb/>Michigan Historical Collections staff</author>
     </titlepage>
@@ -89,18 +89,18 @@ Michigan Dental Association records, Bentley Historical Library, University of M
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <subject source="lcsh" encodinganalog="650">Dentistry--Michigan.</subject>
-        <subject source="lcsh" encodinganalog="650">Dentists--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7203">Dentistry--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/9311">Dentists--Michigan.</subject>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n86076218">Michigan Dental Association.</corpname>
         <corpname source="lcnaf" encodinganalog="610">Michigan Dental Association. Women's Auxiliary.</corpname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n86076218">Michigan State Dental Association.</corpname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n85129645">University of Michigan. School of Dentistry.</corpname>
-        <subject source="lcsh" encodinganalog="650">Women--Michigan--Societies and clubs.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6649">Women--Michigan--Societies and clubs.</subject>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Materials:</head>
         <corpname source="lcnaf" encodinganalog="610">Michigan Dental Association. Women's Auxiliary.</corpname>
-        <subject source="lctgm" encodinganalog="650">Women--Organizations.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3631">Women--Organizations.</subject>
       </controlaccess>
       <controlaccess>
         <head>Contributors:</head>
@@ -108,8 +108,8 @@ Michigan Dental Association records, Bentley Historical Library, University of M
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
-        <genreform source="aat" encodinganalog="655">Scrapbooks.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3139">Scrapbooks.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -123,13 +123,13 @@ Michigan Dental Association records, Bentley Historical Library, University of M
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [8775578445029110092]">1</container>
               <unittitle>Text <unitdate type="inclusive" normal="1886/1907">1886-1907</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [8775578445029110092]">1</container>
               <unittitle>Committee <unitdate type="inclusive" normal="1948/1962">1948-1962</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">4 folders</extent>
@@ -143,7 +143,7 @@ Michigan Dental Association records, Bentley Historical Library, University of M
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [8775578445029110092]">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1930">1930</unitdate>
                 <unitdate type="inclusive" normal="1931">1931</unitdate>
@@ -152,7 +152,7 @@ Michigan Dental Association records, Bentley Historical Library, University of M
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [8775578445029110092]">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1935">1935</unitdate>
                 <unitdate type="inclusive" normal="1936">1936</unitdate>
@@ -161,7 +161,7 @@ Michigan Dental Association records, Bentley Historical Library, University of M
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [8775578445029110092]">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1938">1938</unitdate>
               </unittitle>
@@ -169,7 +169,7 @@ Michigan Dental Association records, Bentley Historical Library, University of M
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [8775578445029110092]">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1939">1939</unitdate>
               </unittitle>
@@ -177,7 +177,7 @@ Michigan Dental Association records, Bentley Historical Library, University of M
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [8775578445029110092]">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1959">1959</unitdate>
               </unittitle>
@@ -190,7 +190,7 @@ Michigan Dental Association records, Bentley Historical Library, University of M
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [8775578445029110092]">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1969">1969</unitdate>
               </unittitle>
@@ -201,7 +201,7 @@ Michigan Dental Association records, Bentley Historical Library, University of M
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [8775578445029110092]">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1970">1970</unitdate>
               </unittitle>
@@ -209,7 +209,7 @@ Michigan Dental Association records, Bentley Historical Library, University of M
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [8775578445029110092]">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1972/1974">1972-1974</unitdate>
               </unittitle>
@@ -218,61 +218,61 @@ Michigan Dental Association records, Bentley Historical Library, University of M
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8775578445029110092]">1</container>
             <unittitle>Executive Council <unitdate type="inclusive" normal="1937">1937</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8775578445029110092]">1</container>
             <unittitle>Health Education, Council on <unitdate type="inclusive" normal="1942/1948">1942-1948</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8775578445029110092]">1</container>
             <unittitle>History by Walter McBride (1912-1917), written in <unitdate type="inclusive" normal="1947/1948">1947-1948</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8775578445029110092]">1</container>
             <unittitle>Incorporation Papers <unitdate type="inclusive" normal="1876/1958">1876-1958</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8775578445029110092]">1</container>
             <unittitle>Legislation, Ad Hoc Committee to Develop <unitdate type="inclusive" normal="1971">1971</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8775578445029110092]">1</container>
             <unittitle>Miscellaneous <unitdate type="inclusive" normal="1950/1969" certainty="approximate">1950s-1960s</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8775578445029110092]">1</container>
             <unittitle>"Official Record," <unitdate type="inclusive" normal="1856/1903">1856-1903</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8775578445029110092]">1</container>
             <unittitle>Orthodontic Costs <unitdate type="inclusive" normal="1943">1943</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8775578445029110092]">1</container>
             <unittitle>Public Relations Committee <unitdate type="inclusive" normal="1940/1941">1940-1941</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8775578445029110092]">1</container>
             <unittitle>Survey Coordinating Committee <unitdate type="inclusive" normal="1977/1979">1977-1979</unitdate></unittitle>
           </did>
         </c02>
@@ -283,7 +283,7 @@ Michigan Dental Association records, Bentley Historical Library, University of M
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8775578445029110092]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1856/1880">1856-1880</unitdate>
             </unittitle>
@@ -291,7 +291,7 @@ Michigan Dental Association records, Bentley Historical Library, University of M
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8775578445029110092]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1881/1904">1881-1904</unitdate>
             </unittitle>
@@ -299,7 +299,7 @@ Michigan Dental Association records, Bentley Historical Library, University of M
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [64352498165456]">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1905/1923">1905-1923</unitdate>
             </unittitle>
@@ -307,7 +307,7 @@ Michigan Dental Association records, Bentley Historical Library, University of M
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [64352498165456]">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1924/1927">1924-1927</unitdate>
             </unittitle>
@@ -315,7 +315,7 @@ Michigan Dental Association records, Bentley Historical Library, University of M
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [64352498165456]">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1928/1933">1928-1933</unitdate>
             </unittitle>
@@ -323,7 +323,7 @@ Michigan Dental Association records, Bentley Historical Library, University of M
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [64352498165456]">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1934/1938">1934-1938</unitdate>
             </unittitle>
@@ -331,7 +331,7 @@ Michigan Dental Association records, Bentley Historical Library, University of M
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [64352498165456]">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1939/1950">1939-1950</unitdate>
             </unittitle>
@@ -339,7 +339,7 @@ Michigan Dental Association records, Bentley Historical Library, University of M
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [64352498165456]">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1951/1956">1951-1956</unitdate>
             </unittitle>
@@ -352,7 +352,7 @@ Michigan Dental Association records, Bentley Historical Library, University of M
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [86408563435489734]">3</container>
             <unittitle>
               <unitdate type="inclusive" normal="1956/1987">1956-1987</unitdate>
             </unittitle>
@@ -366,7 +366,7 @@ Michigan Dental Association records, Bentley Historical Library, University of M
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [32026458634383169]">4</container>
             <unittitle>
               <unitdate type="inclusive" normal="1987/2006">1987-2006</unitdate>
             </unittitle>
@@ -380,7 +380,7 @@ Michigan Dental Association records, Bentley Historical Library, University of M
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [32026458634383169]">4</container>
             <unittitle>Microfiche of minute books of annual meetings 1856-1956 and of board of trustees, 1956-1988</unittitle>
             <unitdate type="inclusive" normal="1856/1956">1856-1956</unitdate>
             <unitdate type="inclusive" normal="1956/1988">1956-1988</unitdate>
@@ -395,7 +395,7 @@ Michigan Dental Association records, Bentley Historical Library, University of M
         </did>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">1</container>
+            <container type="volume" label="Oversize Volume [93183787449786592149836]">1</container>
             <unittitle>Women's Auxiliary of the Michigan Dental Association <unitdate type="inclusive" normal="1946/1980">1946-1980</unitdate></unittitle>
           </did>
           <odd>
@@ -404,19 +404,7 @@ Michigan Dental Association records, Bentley Historical Library, University of M
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">2</container>
-            <unittitle>Women's Auxiliary of the Michigan Dental Association <unitdate type="inclusive" normal="1946/1980">1946-1980</unitdate></unittitle>
-          </did>
-          <odd>
-            <p>(include <genreform normal="Photographs">photographs</genreform>)</p>
-          </odd>
-          <odd>
-            <p>(continued)</p>
-          </odd>
-        </c02>
-        <c02 level="file">
-          <did>
-            <container type="volume" label="Oversize Volume">3</container>
+            <container type="volume" label="Oversize Volume [01722709469909299564770]">2</container>
             <unittitle>Women's Auxiliary of the Michigan Dental Association <unitdate type="inclusive" normal="1946/1980">1946-1980</unitdate></unittitle>
           </did>
           <odd>
@@ -428,7 +416,19 @@ Michigan Dental Association records, Bentley Historical Library, University of M
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">4</container>
+            <container type="volume" label="Oversize Volume [317832477991688356]">3</container>
+            <unittitle>Women's Auxiliary of the Michigan Dental Association <unitdate type="inclusive" normal="1946/1980">1946-1980</unitdate></unittitle>
+          </did>
+          <odd>
+            <p>(include <genreform normal="Photographs">photographs</genreform>)</p>
+          </odd>
+          <odd>
+            <p>(continued)</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="volume" label="Oversize Volume [915754764937288284311533]">4</container>
             <unittitle>Women's Auxiliary of the Michigan Dental Association <unitdate type="inclusive" normal="1946/1980">1946-1980</unitdate></unittitle>
           </did>
           <odd>

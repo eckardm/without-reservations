@@ -31,7 +31,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Jay Cassidy photograph collection, 1967-1970</titleproper>
       <author>Finding aid created by <lb/>Alexis A. Antracoli, 2011</author>
     </titlepage>
@@ -125,22 +125,22 @@ Jay Cassidy photograph collection, Bentley Historical Library, University of Mic
         <corpname source="lcnaf" encodinganalog="610">University of Michigan--Students--Social life and customs--1961-1970.</corpname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/no2010194423">Ann Arbor Blues Festival.</corpname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/nr00008089">Democratic National Convention (1968 : Chicago, Ill.)</corpname>
-        <subject source="lcsh" encodinganalog="630">Michigan daily.</subject>
-        <subject source="lcsh" encodinganalog="630">Michiganensian.</subject>
-        <subject source="lctgm" encodinganalog="650">Homecomings--Michigan--Ann Arbor.</subject>
-        <subject source="lctgm" encodinganalog="650">Music festivals--Michigan--Ann Arbor.</subject>
-        <subject source="lcsh" encodinganalog="650">Poor People's Campaign.</subject>
-        <subject source="lctgm" encodinganalog="650">Presidential elections--United States--1968.</subject>
-        <subject source="lcsh" encodinganalog="650">Vietnam War, 1961-1975--Protest movements.</subject>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n79022219.html">Ann Arbor (Mich.)</geogname>
-        <geogname source="lcsh" encodinganalog="651">Chicago (Ill.)</geogname>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n79055094.html">Indianapolis (Ind.)</geogname>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n79018774.html">Washington (D.C.)</geogname>
+        <subject source="lcsh" encodinganalog="630" ref="/subjects/6185">Michigan daily.</subject>
+        <subject source="lcsh" encodinganalog="630" ref="/subjects/6694">Michiganensian.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4023">Homecomings--Michigan--Ann Arbor.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4024">Music festivals--Michigan--Ann Arbor.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6695">Poor People's Campaign.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4025">Presidential elections--United States--1968.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6696">Vietnam War, 1961-1975--Protest movements.</subject>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n79022219.html" ref="/subjects/860">Ann Arbor (Mich.)</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1451">Chicago (Ill.)</geogname>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n79055094.html" ref="/subjects/1452">Indianapolis (Ind.)</geogname>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n79018774.html" ref="/subjects/1453">Washington (D.C.)</geogname>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
-        <genreform source="aat" encodinganalog="655">Digital files.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3220">Digital files.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -153,13 +153,13 @@ Jay Cassidy photograph collection, Bentley Historical Library, University of Mic
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [4471794332438898505877]">1</container>
             <unittitle>Inventory</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [4471794332438898505877]">1</container>
             <unittitle>Background notes</unittitle>
           </did>
         </c02>
@@ -173,7 +173,7 @@ Jay Cassidy photograph collection, Bentley Historical Library, University of Mic
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [4471794332438898505877]">1</container>
             <unittitle>Data DVDs of Digitized Negatives</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">37 optical disks</extent>
@@ -188,7 +188,7 @@ Jay Cassidy photograph collection, Bentley Historical Library, University of Mic
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">4882 items</extent>
             </physdesc>
-            <dao href="cassidyjaymd" show="new" actuate="onrequest">
+            <dao href="cassidyjaymd" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/1905">
               <daodesc>
                 <p>[view /search images]</p>
               </daodesc>
@@ -198,7 +198,7 @@ Jay Cassidy photograph collection, Bentley Historical Library, University of Mic
       </c01>
       <c01 level="series">
         <did>
-          <container type="box" label="Box">2</container>
+          <container type="box" label="Box [97880554424964210499134]">2</container>
           <unittitle>Original 35mm Camera Negatives <unitdate type="inclusive" normal="1967/1970">1967-1970</unitdate></unittitle>
         </did>
         <scopecontent>
@@ -206,56 +206,56 @@ Jay Cassidy photograph collection, Bentley Historical Library, University of Mic
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [97880554424964210499134]">2</container>
             <unittitle>RFK_68001-68017</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [97880554424964210499134]">2</container>
             <unittitle>DNC_68001-68026</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [97880554424964210499134]">2</container>
             <unittitle>MNCN_0001-0067</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [6017227284112511404]">3</container>
             <unittitle>MD_67001-67005</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [6017227284112511404]">3</container>
             <unittitle>MD_68001-68059</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [6017227284112511404]">3</container>
             <unittitle>DC_69001-69038</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [6017227284112511404]">3</container>
             <unittitle>MD_69001-69070</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [6017227284112511404]">3</container>
             <unittitle>MD_70001-70034</unittitle>
           </did>
         </c02>
       </c01>
       <c01 level="series">
         <did>
-          <container type="box" label="Box">4</container>
+          <container type="box" label="Box [6258568748351193]">4</container>
           <unittitle>Printed Catalogue of Digital Scans <unitdate type="inclusive" normal="1967/1970">1967-1970</unitdate></unittitle>
         </did>
         <scopecontent>
@@ -263,55 +263,55 @@ Jay Cassidy photograph collection, Bentley Historical Library, University of Mic
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [6258568748351193]">4</container>
             <unittitle>RFK_68001-68017</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [6258568748351193]">4</container>
             <unittitle>DNC_68001-68026</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [7520101490820317591]">5</container>
             <unittitle>MD_67001-67005</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [7520101490820317591]">5</container>
             <unittitle>MD_68001-68059</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [7342147650449584175769021]">6</container>
             <unittitle>DC_69001-69038</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">7</container>
+            <container type="box" label="Box [1891584763370759116]">7</container>
             <unittitle>MD_68001-69039</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">8</container>
+            <container type="box" label="Box [759109561449820748830]">8</container>
             <unittitle>MD_68043-69070</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">9</container>
+            <container type="box" label="Box [491989640976670700]">9</container>
             <unittitle>MD_70001-70030</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">9</container>
+            <container type="box" label="Box [491989640976670700]">9</container>
             <unittitle>MNCN_0038-0067</unittitle>
           </did>
         </c02>
@@ -325,7 +325,7 @@ Jay Cassidy photograph collection, Bentley Historical Library, University of Mic
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">10</container>
+            <container type="box" label="Box [290471048718136241]">10</container>
             <unittitle>Various <unitdate type="inclusive" normal="1967/1970">1967-1970</unitdate></unittitle>
           </did>
           <odd>
@@ -334,7 +334,7 @@ Jay Cassidy photograph collection, Bentley Historical Library, University of Mic
         </c02>
         <c02 level="file">
           <did>
-            <container type="folder" label="Oversize Folder">UAl</container>
+            <container type="folder" label="Oversize Folder [9371307493943716837038]">UAl</container>
             <unittitle>"Chicago <unitdate type="inclusive" normal="1968">1968</unitdate>"</unittitle>
           </did>
         </c02>

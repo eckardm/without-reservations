@@ -26,7 +26,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Schuler's Restaurant Records, 1944-2002</titleproper>
       <author>Finding aid created by <lb/>Polly Reynolds, September 2005</author>
     </titlepage>
@@ -89,27 +89,27 @@ Schuler's Restaurant Records
       <controlaccess>
         <head>Subjects:</head>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n2003008945">Schuler's (Restaurant)</corpname>
-        <subject source="lcsh" encodinganalog="650">Restaurants--Michigan--Marshall.</subject>
-        <geogname source="lcsh" encodinganalog="651">Marshall (Mich.)--Commerce.</geogname>
-        <subject source="lcsh" encodinganalog="650">Cookery, American.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6925">Restaurants--Michigan--Marshall.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/2790">Marshall (Mich.)--Commerce.</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/10008">Cookery, American.</subject>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Materials:</head>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n2003008945">Schuler's (Restaurant)</corpname>
-        <subject source="lctgm" encodinganalog="650">Restaurants--Michigan--Marshall.</subject>
-        <subject source="lctgm" encodinganalog="650">Restaurants--Michigan.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/5275">Restaurants--Michigan--Marshall.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/5276">Restaurants--Michigan.</subject>
         <persname source="lcnaf" encodinganalog="600">Schuler, Hans.</persname>
         <persname source="lcnaf" encodinganalog="600">Schuler, Win.</persname>
         <famname source="lcnaf" encodinganalog="600">Schuler family.</famname>
-        <geogname source="lctgm" encodinganalog="651">Marshall (Mich.)--Restaurants.</geogname>
+        <geogname source="lctgm" encodinganalog="651" ref="/subjects/669">Marshall (Mich.)--Restaurants.</geogname>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="lctgm" encodinganalog="655">Menus.</genreform>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
-        <genreform source="aat" encodinganalog="655">Scrapbooks.</genreform>
-        <genreform source="aat" encodinganalog="655">Slides (photographs)</genreform>
-        <genreform source="aat" encodinganalog="655">Videotapes.</genreform>
+        <genreform source="lctgm" encodinganalog="655" ref="/subjects/3425">Menus.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3139">Scrapbooks.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3246">Slides (photographs)</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3140">Videotapes.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -122,7 +122,7 @@ Schuler's Restaurant Records
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8492054898186862600]">1</container>
             <unittitle>Awards and recognition</unittitle>
           </did>
           <odd>
@@ -131,61 +131,61 @@ Schuler's Restaurant Records
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8492054898186862600]">1</container>
             <unittitle>Banquets</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8492054898186862600]">1</container>
             <unittitle>Board of Directors</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8492054898186862600]">1</container>
             <unittitle>Corporate Controls Systems</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8492054898186862600]">1</container>
             <unittitle>Cost evaluations</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8492054898186862600]">1</container>
             <unittitle>Food lists (?)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8492054898186862600]">1</container>
             <unittitle>Handbooks and manuals</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8492054898186862600]">1</container>
             <unittitle>Hans Schuler biography</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8492054898186862600]">1</container>
             <unittitle>History</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8492054898186862600]">1</container>
             <unittitle>Newsletters</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8492054898186862600]">1</container>
             <unittitle>Public relations</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -202,7 +202,7 @@ Schuler's Restaurant Records
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [8492054898186862600]">1</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1986">1986</unitdate>
                 </unittitle>
@@ -210,7 +210,7 @@ Schuler's Restaurant Records
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [8492054898186862600]">1</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1988">1988</unitdate>
                 </unittitle>
@@ -223,13 +223,13 @@ Schuler's Restaurant Records
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [8492054898186862600]">1</container>
                 <unittitle>Advertising and planning</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [8492054898186862600]">1</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1985">1985</unitdate>
                 </unittitle>
@@ -237,7 +237,7 @@ Schuler's Restaurant Records
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [8492054898186862600]">1</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1986">1986</unitdate>
                 </unittitle>
@@ -246,7 +246,7 @@ Schuler's Restaurant Records
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [8492054898186862600]">1</container>
               <unittitle>Michigan week</unittitle>
             </did>
           </c03>
@@ -257,19 +257,19 @@ Schuler's Restaurant Records
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [8492054898186862600]">1</container>
               <unittitle>General</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [8492054898186862600]">1</container>
               <unittitle>Condolence letters <unitdate type="inclusive" normal="1993">1993</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [8492054898186862600]">1</container>
               <unittitle>Quotes</unittitle>
             </did>
           </c03>
@@ -288,13 +288,13 @@ Schuler's Restaurant Records
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [251002046733968397]">2</container>
               <unittitle><unitdate type="inclusive" normal="1975/1977">1975-1977</unitdate> Jackson</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [251002046733968397]">2</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1979/1980">1979-1980</unitdate>
               </unittitle>
@@ -302,7 +302,7 @@ Schuler's Restaurant Records
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [251002046733968397]">2</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1981">1981</unitdate>
               </unittitle>
@@ -310,7 +310,7 @@ Schuler's Restaurant Records
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [251002046733968397]">2</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1983">1983</unitdate>
               </unittitle>
@@ -318,7 +318,7 @@ Schuler's Restaurant Records
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [251002046733968397]">2</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1984">1984</unitdate>
               </unittitle>
@@ -326,7 +326,7 @@ Schuler's Restaurant Records
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [251002046733968397]">2</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1986">1986</unitdate>
               </unittitle>
@@ -335,7 +335,7 @@ Schuler's Restaurant Records
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [9471284389825812]">3</container>
             <unittitle>Advertisements, promotions, etc.</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -347,7 +347,7 @@ Schuler's Restaurant Records
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [9471284389825812]">3</container>
             <unittitle>Articles</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -359,7 +359,7 @@ Schuler's Restaurant Records
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [9471284389825812]">3</container>
             <unittitle>Bar Scheeze</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -368,25 +368,25 @@ Schuler's Restaurant Records
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [9471284389825812]">3</container>
             <unittitle>Postcards</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [9471284389825812]">3</container>
             <unittitle>Press releases</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [9471284389825812]">3</container>
             <unittitle>Promotion ideas</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [9471284389825812]">3</container>
             <unittitle>Skittles</unittitle>
           </did>
         </c02>
@@ -406,19 +406,19 @@ Schuler's Restaurant Records
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [9471284389825812]">3</container>
               <unittitle>General</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [9471284389825812]">3</container>
               <unittitle>Mini-menu design</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">20</container>
+              <container type="box" label="Box [1998883943894838834]">20</container>
               <unittitle>Original menu artwork</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -427,7 +427,7 @@ Schuler's Restaurant Records
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [9471284389825812]">3</container>
               <unittitle>Skittles artwork</unittitle>
             </did>
           </c03>
@@ -438,13 +438,13 @@ Schuler's Restaurant Records
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [9471284389825812]">3</container>
               <unittitle>Placemats</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [9471284389825812]">3</container>
               <unittitle>Table tents</unittitle>
             </did>
           </c03>
@@ -455,7 +455,7 @@ Schuler's Restaurant Records
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [949024942327154459]">4</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1946">1946</unitdate>
               </unittitle>
@@ -463,7 +463,7 @@ Schuler's Restaurant Records
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [949024942327154459]">4</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1950">1950</unitdate>
               </unittitle>
@@ -471,7 +471,7 @@ Schuler's Restaurant Records
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [949024942327154459]">4</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1951">1951</unitdate>
               </unittitle>
@@ -479,7 +479,7 @@ Schuler's Restaurant Records
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [949024942327154459]">4</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1952">1952</unitdate>
               </unittitle>
@@ -487,7 +487,7 @@ Schuler's Restaurant Records
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [949024942327154459]">4</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1953">1953</unitdate>
               </unittitle>
@@ -495,7 +495,7 @@ Schuler's Restaurant Records
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [949024942327154459]">4</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1955">1955</unitdate>
               </unittitle>
@@ -503,7 +503,7 @@ Schuler's Restaurant Records
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [949024942327154459]">4</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1957">1957</unitdate>
               </unittitle>
@@ -511,7 +511,7 @@ Schuler's Restaurant Records
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [949024942327154459]">4</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1958">1958</unitdate>
               </unittitle>
@@ -519,7 +519,7 @@ Schuler's Restaurant Records
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [949024942327154459]">4</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1959">1959</unitdate>
               </unittitle>
@@ -527,7 +527,7 @@ Schuler's Restaurant Records
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [949024942327154459]">4</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1960">1960</unitdate>
               </unittitle>
@@ -538,7 +538,7 @@ Schuler's Restaurant Records
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [949024942327154459]">4</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1961">1961</unitdate>
               </unittitle>
@@ -546,7 +546,7 @@ Schuler's Restaurant Records
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [949024942327154459]">4</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1962">1962</unitdate>
               </unittitle>
@@ -554,7 +554,7 @@ Schuler's Restaurant Records
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [949024942327154459]">4</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1963">1963</unitdate>
               </unittitle>
@@ -562,7 +562,7 @@ Schuler's Restaurant Records
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [949024942327154459]">4</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1964">1964</unitdate>
               </unittitle>
@@ -570,7 +570,7 @@ Schuler's Restaurant Records
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [949024942327154459]">4</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1965">1965</unitdate>
               </unittitle>
@@ -578,7 +578,7 @@ Schuler's Restaurant Records
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [949024942327154459]">4</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1966">1966</unitdate>
               </unittitle>
@@ -586,7 +586,7 @@ Schuler's Restaurant Records
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [949024942327154459]">4</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1967">1967</unitdate>
               </unittitle>
@@ -594,7 +594,7 @@ Schuler's Restaurant Records
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [949024942327154459]">4</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1968">1968</unitdate>
               </unittitle>
@@ -602,7 +602,7 @@ Schuler's Restaurant Records
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [949024942327154459]">4</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1969">1969</unitdate>
               </unittitle>
@@ -610,7 +610,7 @@ Schuler's Restaurant Records
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [949024942327154459]">4</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1970">1970</unitdate>
               </unittitle>
@@ -621,7 +621,7 @@ Schuler's Restaurant Records
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [949024942327154459]">4</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1971">1971</unitdate>
               </unittitle>
@@ -629,7 +629,7 @@ Schuler's Restaurant Records
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [949024942327154459]">4</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1972">1972</unitdate>
               </unittitle>
@@ -637,7 +637,7 @@ Schuler's Restaurant Records
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [392247766497903385436]">5</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1973">1973</unitdate>
               </unittitle>
@@ -648,7 +648,7 @@ Schuler's Restaurant Records
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [392247766497903385436]">5</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1974">1974</unitdate>
               </unittitle>
@@ -656,7 +656,7 @@ Schuler's Restaurant Records
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [392247766497903385436]">5</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1975">1975</unitdate>
               </unittitle>
@@ -667,7 +667,7 @@ Schuler's Restaurant Records
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [392247766497903385436]">5</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1976">1976</unitdate>
               </unittitle>
@@ -675,7 +675,7 @@ Schuler's Restaurant Records
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [392247766497903385436]">5</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1977">1977</unitdate>
               </unittitle>
@@ -683,7 +683,7 @@ Schuler's Restaurant Records
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [392247766497903385436]">5</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1978">1978</unitdate>
               </unittitle>
@@ -691,7 +691,7 @@ Schuler's Restaurant Records
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [392247766497903385436]">5</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1979">1979</unitdate>
               </unittitle>
@@ -705,7 +705,7 @@ Schuler's Restaurant Records
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [392247766497903385436]">5</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1980">1980</unitdate>
               </unittitle>
@@ -716,7 +716,7 @@ Schuler's Restaurant Records
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [684683584297458402487788]">6</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1981">1981</unitdate>
               </unittitle>
@@ -724,7 +724,7 @@ Schuler's Restaurant Records
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [684683584297458402487788]">6</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1982">1982</unitdate>
               </unittitle>
@@ -732,7 +732,7 @@ Schuler's Restaurant Records
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [684683584297458402487788]">6</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1983">1983</unitdate>
               </unittitle>
@@ -743,7 +743,7 @@ Schuler's Restaurant Records
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [684683584297458402487788]">6</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1986">1986</unitdate>
               </unittitle>
@@ -751,7 +751,7 @@ Schuler's Restaurant Records
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [684683584297458402487788]">6</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1987">1987</unitdate>
               </unittitle>
@@ -759,7 +759,7 @@ Schuler's Restaurant Records
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [684683584297458402487788]">6</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1988">1988</unitdate>
               </unittitle>
@@ -767,7 +767,7 @@ Schuler's Restaurant Records
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [684683584297458402487788]">6</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1989">1989</unitdate>
               </unittitle>
@@ -775,7 +775,7 @@ Schuler's Restaurant Records
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [684683584297458402487788]">6</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1992">1992</unitdate>
               </unittitle>
@@ -783,7 +783,7 @@ Schuler's Restaurant Records
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [684683584297458402487788]">6</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1993">1993</unitdate>
               </unittitle>
@@ -794,7 +794,7 @@ Schuler's Restaurant Records
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [684683584297458402487788]">6</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1995">1995</unitdate>
               </unittitle>
@@ -802,7 +802,7 @@ Schuler's Restaurant Records
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [684683584297458402487788]">6</container>
               <unittitle>
                 <unitdate type="inclusive" normal="2000">2000</unitdate>
               </unittitle>
@@ -810,7 +810,7 @@ Schuler's Restaurant Records
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [684683584297458402487788]">6</container>
               <unittitle>
                 <unitdate type="inclusive" normal="2002">2002</unitdate>
               </unittitle>
@@ -818,7 +818,7 @@ Schuler's Restaurant Records
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">19</container>
+              <container type="box" label="Box [302913381045788203723828]">19</container>
               <unittitle>Outsize menus</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">1 folders</extent>
@@ -832,31 +832,31 @@ Schuler's Restaurant Records
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [684683584297458402487788]">6</container>
               <unittitle>Banquet menus</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [684683584297458402487788]">6</container>
               <unittitle>Breakfast menus</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [684683584297458402487788]">6</container>
               <unittitle>Children's menus</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [684683584297458402487788]">6</container>
               <unittitle>Dessert menus</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [684683584297458402487788]">6</container>
               <unittitle>Dinner menus</unittitle>
             </did>
             <odd>
@@ -865,25 +865,25 @@ Schuler's Restaurant Records
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [684683584297458402487788]">6</container>
               <unittitle>Drink and wine menus</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [684683584297458402487788]">6</container>
               <unittitle>Football menus</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [684683584297458402487788]">6</container>
               <unittitle>Harvest menus</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [684683584297458402487788]">6</container>
               <unittitle>Holiday/special menus</unittitle>
             </did>
             <odd>
@@ -892,19 +892,19 @@ Schuler's Restaurant Records
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [684683584297458402487788]">6</container>
               <unittitle>Lunch menus</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [684683584297458402487788]">6</container>
               <unittitle>Miscellaneous</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [684683584297458402487788]">6</container>
               <unittitle>Pub menus</unittitle>
             </did>
             <odd>
@@ -913,13 +913,13 @@ Schuler's Restaurant Records
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [684683584297458402487788]">6</container>
               <unittitle>Specials, clip-ons, etc.</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">19</container>
+              <container type="box" label="Box [302913381045788203723828]">19</container>
               <unittitle>Outsize menus--undated</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">1 folders</extent>
@@ -937,7 +937,7 @@ Schuler's Restaurant Records
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">7</container>
+                <container type="box" label="Box [256284758908863]">7</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1974">1974</unitdate>
                 </unittitle>
@@ -945,7 +945,7 @@ Schuler's Restaurant Records
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">7</container>
+                <container type="box" label="Box [256284758908863]">7</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1975">1975</unitdate>
                 </unittitle>
@@ -953,7 +953,7 @@ Schuler's Restaurant Records
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">7</container>
+                <container type="box" label="Box [256284758908863]">7</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1977">1977</unitdate>
                 </unittitle>
@@ -964,7 +964,7 @@ Schuler's Restaurant Records
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">7</container>
+                <container type="box" label="Box [256284758908863]">7</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1978">1978</unitdate>
                 </unittitle>
@@ -972,7 +972,7 @@ Schuler's Restaurant Records
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">7</container>
+                <container type="box" label="Box [256284758908863]">7</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1979">1979</unitdate>
                 </unittitle>
@@ -980,7 +980,7 @@ Schuler's Restaurant Records
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">7</container>
+                <container type="box" label="Box [256284758908863]">7</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1980">1980</unitdate>
                 </unittitle>
@@ -988,7 +988,7 @@ Schuler's Restaurant Records
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">7</container>
+                <container type="box" label="Box [256284758908863]">7</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1981">1981</unitdate>
                 </unittitle>
@@ -999,7 +999,7 @@ Schuler's Restaurant Records
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">7</container>
+                <container type="box" label="Box [256284758908863]">7</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1982">1982</unitdate>
                 </unittitle>
@@ -1012,7 +1012,7 @@ Schuler's Restaurant Records
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">7</container>
+                <container type="box" label="Box [256284758908863]">7</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1977">1977</unitdate>
                 </unittitle>
@@ -1020,7 +1020,7 @@ Schuler's Restaurant Records
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">7</container>
+                <container type="box" label="Box [256284758908863]">7</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1978">1978</unitdate>
                 </unittitle>
@@ -1028,7 +1028,7 @@ Schuler's Restaurant Records
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">7</container>
+                <container type="box" label="Box [256284758908863]">7</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1979">1979</unitdate>
                 </unittitle>
@@ -1036,7 +1036,7 @@ Schuler's Restaurant Records
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">7</container>
+                <container type="box" label="Box [256284758908863]">7</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1980">1980</unitdate>
                 </unittitle>
@@ -1044,7 +1044,7 @@ Schuler's Restaurant Records
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">7</container>
+                <container type="box" label="Box [256284758908863]">7</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1981">1981</unitdate>
                 </unittitle>
@@ -1055,7 +1055,7 @@ Schuler's Restaurant Records
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">7</container>
+                <container type="box" label="Box [256284758908863]">7</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1982">1982</unitdate>
                 </unittitle>
@@ -1063,7 +1063,7 @@ Schuler's Restaurant Records
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">7</container>
+                <container type="box" label="Box [256284758908863]">7</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1983">1983</unitdate>
                 </unittitle>
@@ -1074,7 +1074,7 @@ Schuler's Restaurant Records
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">7</container>
+                <container type="box" label="Box [256284758908863]">7</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1985">1985</unitdate>
                 </unittitle>
@@ -1085,7 +1085,7 @@ Schuler's Restaurant Records
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">7</container>
+                <container type="box" label="Box [256284758908863]">7</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1986">1986</unitdate>
                 </unittitle>
@@ -1093,7 +1093,7 @@ Schuler's Restaurant Records
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">7</container>
+                <container type="box" label="Box [256284758908863]">7</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1987">1987</unitdate>
                 </unittitle>
@@ -1106,7 +1106,7 @@ Schuler's Restaurant Records
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">7</container>
+                <container type="box" label="Box [256284758908863]">7</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1977">1977</unitdate>
                 </unittitle>
@@ -1114,7 +1114,7 @@ Schuler's Restaurant Records
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">7</container>
+                <container type="box" label="Box [256284758908863]">7</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1978">1978</unitdate>
                 </unittitle>
@@ -1122,7 +1122,7 @@ Schuler's Restaurant Records
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">7</container>
+                <container type="box" label="Box [256284758908863]">7</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1979">1979</unitdate>
                 </unittitle>
@@ -1130,7 +1130,7 @@ Schuler's Restaurant Records
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">7</container>
+                <container type="box" label="Box [256284758908863]">7</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1980">1980</unitdate>
                 </unittitle>
@@ -1138,7 +1138,7 @@ Schuler's Restaurant Records
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">7</container>
+                <container type="box" label="Box [256284758908863]">7</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1981">1981</unitdate>
                 </unittitle>
@@ -1146,7 +1146,7 @@ Schuler's Restaurant Records
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">7</container>
+                <container type="box" label="Box [256284758908863]">7</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1983">1983</unitdate>
                 </unittitle>
@@ -1154,7 +1154,7 @@ Schuler's Restaurant Records
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">7</container>
+                <container type="box" label="Box [256284758908863]">7</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1984">1984</unitdate>
                 </unittitle>
@@ -1162,7 +1162,7 @@ Schuler's Restaurant Records
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">7</container>
+                <container type="box" label="Box [256284758908863]">7</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1985">1985</unitdate>
                 </unittitle>
@@ -1171,7 +1171,7 @@ Schuler's Restaurant Records
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">7</container>
+              <container type="box" label="Box [256284758908863]">7</container>
               <unittitle>Fort Wayne</unittitle>
             </did>
           </c03>
@@ -1181,13 +1181,13 @@ Schuler's Restaurant Records
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">7</container>
+                <container type="box" label="Box [256284758908863]">7</container>
                 <unittitle>pub menu</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">7</container>
+                <container type="box" label="Box [256284758908863]">7</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1977">1977</unitdate>
                 </unittitle>
@@ -1198,7 +1198,7 @@ Schuler's Restaurant Records
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">7</container>
+                <container type="box" label="Box [256284758908863]">7</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1978">1978</unitdate>
                 </unittitle>
@@ -1206,7 +1206,7 @@ Schuler's Restaurant Records
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">7</container>
+                <container type="box" label="Box [256284758908863]">7</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1979">1979</unitdate>
                 </unittitle>
@@ -1214,7 +1214,7 @@ Schuler's Restaurant Records
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">7</container>
+                <container type="box" label="Box [256284758908863]">7</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1980">1980</unitdate>
                 </unittitle>
@@ -1225,7 +1225,7 @@ Schuler's Restaurant Records
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">7</container>
+                <container type="box" label="Box [256284758908863]">7</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1981">1981</unitdate>
                 </unittitle>
@@ -1236,7 +1236,7 @@ Schuler's Restaurant Records
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">8</container>
+                <container type="box" label="Box [933470449048511301112]">8</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1982">1982</unitdate>
                 </unittitle>
@@ -1244,13 +1244,13 @@ Schuler's Restaurant Records
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">8</container>
+                <container type="box" label="Box [933470449048511301112]">8</container>
                 <unittitle><unitdate type="inclusive" normal="1982">1982</unitdate> Skittles (restaurant)</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">8</container>
+                <container type="box" label="Box [933470449048511301112]">8</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1984">1984</unitdate>
                 </unittitle>
@@ -1258,7 +1258,7 @@ Schuler's Restaurant Records
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">8</container>
+                <container type="box" label="Box [933470449048511301112]">8</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1985">1985</unitdate>
                 </unittitle>
@@ -1266,7 +1266,7 @@ Schuler's Restaurant Records
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">8</container>
+                <container type="box" label="Box [933470449048511301112]">8</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1986">1986</unitdate>
                 </unittitle>
@@ -1274,7 +1274,7 @@ Schuler's Restaurant Records
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">8</container>
+                <container type="box" label="Box [933470449048511301112]">8</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1987">1987</unitdate>
                 </unittitle>
@@ -1282,7 +1282,7 @@ Schuler's Restaurant Records
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">8</container>
+                <container type="box" label="Box [933470449048511301112]">8</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1988">1988</unitdate>
                 </unittitle>
@@ -1296,32 +1296,32 @@ Schuler's Restaurant Records
               </did>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">8</container>
+                  <container type="box" label="Box [933470449048511301112]">8</container>
                   <unittitle>lunch menus</unittitle>
                 </did>
               </c05>
               <c05 level="item">
                 <did>
-                  <container type="box" label="Box">8</container>
+                  <container type="box" label="Box [933470449048511301112]">8</container>
                   <unittitle>dinner menus</unittitle>
                 </did>
               </c05>
               <c05 level="item">
                 <did>
-                  <container type="box" label="Box">8</container>
+                  <container type="box" label="Box [933470449048511301112]">8</container>
                   <unittitle>holiday/special menus</unittitle>
                 </did>
               </c05>
               <c05 level="item">
                 <did>
-                  <container type="box" label="Box">8</container>
+                  <container type="box" label="Box [933470449048511301112]">8</container>
                   <unittitle>wine menu</unittitle>
                 </did>
               </c05>
             </c04>
             <c04 level="item">
               <did>
-                <container type="box" label="Box">8</container>
+                <container type="box" label="Box [933470449048511301112]">8</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1992">1992</unitdate>
                 </unittitle>
@@ -1334,7 +1334,7 @@ Schuler's Restaurant Records
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">8</container>
+                <container type="box" label="Box [933470449048511301112]">8</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1979/1986">1979-1986</unitdate>
                 </unittitle>
@@ -1350,7 +1350,7 @@ Schuler's Restaurant Records
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">8</container>
+                <container type="box" label="Box [933470449048511301112]">8</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1977">1977</unitdate>
                 </unittitle>
@@ -1361,7 +1361,7 @@ Schuler's Restaurant Records
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">8</container>
+                <container type="box" label="Box [933470449048511301112]">8</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1978">1978</unitdate>
                 </unittitle>
@@ -1369,7 +1369,7 @@ Schuler's Restaurant Records
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">8</container>
+                <container type="box" label="Box [933470449048511301112]">8</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1979">1979</unitdate>
                 </unittitle>
@@ -1377,7 +1377,7 @@ Schuler's Restaurant Records
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">9</container>
+                <container type="box" label="Box [02179642888844608398251]">9</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1980">1980</unitdate>
                 </unittitle>
@@ -1385,7 +1385,7 @@ Schuler's Restaurant Records
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">9</container>
+                <container type="box" label="Box [02179642888844608398251]">9</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1981">1981</unitdate>
                 </unittitle>
@@ -1396,7 +1396,7 @@ Schuler's Restaurant Records
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">9</container>
+                <container type="box" label="Box [02179642888844608398251]">9</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1982">1982</unitdate>
                 </unittitle>
@@ -1407,7 +1407,7 @@ Schuler's Restaurant Records
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">9</container>
+                <container type="box" label="Box [02179642888844608398251]">9</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1983">1983</unitdate>
                 </unittitle>
@@ -1418,7 +1418,7 @@ Schuler's Restaurant Records
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">9</container>
+                <container type="box" label="Box [02179642888844608398251]">9</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1984">1984</unitdate>
                 </unittitle>
@@ -1426,7 +1426,7 @@ Schuler's Restaurant Records
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">9</container>
+                <container type="box" label="Box [02179642888844608398251]">9</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1985">1985</unitdate>
                 </unittitle>
@@ -1434,7 +1434,7 @@ Schuler's Restaurant Records
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">9</container>
+                <container type="box" label="Box [02179642888844608398251]">9</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1986">1986</unitdate>
                 </unittitle>
@@ -1442,13 +1442,13 @@ Schuler's Restaurant Records
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">9</container>
+                <container type="box" label="Box [02179642888844608398251]">9</container>
                 <unittitle><unitdate type="inclusive" normal="1986">1986</unitdate> wine lists</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">9</container>
+                <container type="box" label="Box [02179642888844608398251]">9</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1987">1987</unitdate>
                 </unittitle>
@@ -1456,13 +1456,13 @@ Schuler's Restaurant Records
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">9</container>
+                <container type="box" label="Box [02179642888844608398251]">9</container>
                 <unittitle><unitdate type="inclusive" normal="1987">1987</unitdate> wine lists</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">9</container>
+                <container type="box" label="Box [02179642888844608398251]">9</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1988">1988</unitdate>
                 </unittitle>
@@ -1470,7 +1470,7 @@ Schuler's Restaurant Records
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">9</container>
+                <container type="box" label="Box [02179642888844608398251]">9</container>
                 <unittitle><unitdate type="inclusive" normal="1988">1988</unitdate> wine lists</unittitle>
               </did>
             </c04>
@@ -1482,38 +1482,38 @@ Schuler's Restaurant Records
               </did>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">9</container>
+                  <container type="box" label="Box [02179642888844608398251]">9</container>
                   <unittitle>Lunch menus</unittitle>
                 </did>
               </c05>
               <c05 level="item">
                 <did>
-                  <container type="box" label="Box">9</container>
+                  <container type="box" label="Box [02179642888844608398251]">9</container>
                   <unittitle>Dinner menus</unittitle>
                 </did>
               </c05>
               <c05 level="item">
                 <did>
-                  <container type="box" label="Box">9</container>
+                  <container type="box" label="Box [02179642888844608398251]">9</container>
                   <unittitle>Dessert</unittitle>
                 </did>
               </c05>
               <c05 level="item">
                 <did>
-                  <container type="box" label="Box">9</container>
+                  <container type="box" label="Box [02179642888844608398251]">9</container>
                   <unittitle>Holiday/special menus</unittitle>
                 </did>
               </c05>
               <c05 level="item">
                 <did>
-                  <container type="box" label="Box">9</container>
+                  <container type="box" label="Box [02179642888844608398251]">9</container>
                   <unittitle>Wine menus</unittitle>
                 </did>
               </c05>
             </c04>
             <c04 level="item">
               <did>
-                <container type="box" label="Box">9</container>
+                <container type="box" label="Box [02179642888844608398251]">9</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1992">1992</unitdate>
                 </unittitle>
@@ -1521,7 +1521,7 @@ Schuler's Restaurant Records
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">9</container>
+                <container type="box" label="Box [02179642888844608398251]">9</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1993">1993</unitdate>
                 </unittitle>
@@ -1534,7 +1534,7 @@ Schuler's Restaurant Records
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">9</container>
+                <container type="box" label="Box [02179642888844608398251]">9</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1977/1981">1977-1981</unitdate>
                 </unittitle>
@@ -1545,7 +1545,7 @@ Schuler's Restaurant Records
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">9</container>
+                <container type="box" label="Box [02179642888844608398251]">9</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1983">1983</unitdate>
                 </unittitle>
@@ -1561,7 +1561,7 @@ Schuler's Restaurant Records
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">10</container>
+                <container type="box" label="Box [720932845839455404]">10</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1977">1977</unitdate>
                 </unittitle>
@@ -1572,7 +1572,7 @@ Schuler's Restaurant Records
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">10</container>
+                <container type="box" label="Box [720932845839455404]">10</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1978">1978</unitdate>
                 </unittitle>
@@ -1580,7 +1580,7 @@ Schuler's Restaurant Records
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">10</container>
+                <container type="box" label="Box [720932845839455404]">10</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1979">1979</unitdate>
                 </unittitle>
@@ -1588,7 +1588,7 @@ Schuler's Restaurant Records
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">10</container>
+                <container type="box" label="Box [720932845839455404]">10</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1980">1980</unitdate>
                 </unittitle>
@@ -1596,7 +1596,7 @@ Schuler's Restaurant Records
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">10</container>
+                <container type="box" label="Box [720932845839455404]">10</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1981">1981</unitdate>
                 </unittitle>
@@ -1607,7 +1607,7 @@ Schuler's Restaurant Records
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">10</container>
+                <container type="box" label="Box [720932845839455404]">10</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1982">1982</unitdate>
                 </unittitle>
@@ -1615,7 +1615,7 @@ Schuler's Restaurant Records
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">10</container>
+                <container type="box" label="Box [720932845839455404]">10</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1983">1983</unitdate>
                 </unittitle>
@@ -1626,7 +1626,7 @@ Schuler's Restaurant Records
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">10</container>
+                <container type="box" label="Box [720932845839455404]">10</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1984">1984</unitdate>
                 </unittitle>
@@ -1634,7 +1634,7 @@ Schuler's Restaurant Records
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">10</container>
+                <container type="box" label="Box [720932845839455404]">10</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1985">1985</unitdate>
                 </unittitle>
@@ -1642,7 +1642,7 @@ Schuler's Restaurant Records
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">10</container>
+                <container type="box" label="Box [720932845839455404]">10</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1986">1986</unitdate>
                 </unittitle>
@@ -1650,7 +1650,7 @@ Schuler's Restaurant Records
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">10</container>
+                <container type="box" label="Box [720932845839455404]">10</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1987">1987</unitdate>
                 </unittitle>
@@ -1658,7 +1658,7 @@ Schuler's Restaurant Records
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">10</container>
+                <container type="box" label="Box [720932845839455404]">10</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1988">1988</unitdate>
                 </unittitle>
@@ -1672,19 +1672,19 @@ Schuler's Restaurant Records
               </did>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">10</container>
+                  <container type="box" label="Box [720932845839455404]">10</container>
                   <unittitle>Lunch menus</unittitle>
                 </did>
               </c05>
               <c05 level="item">
                 <did>
-                  <container type="box" label="Box">10</container>
+                  <container type="box" label="Box [720932845839455404]">10</container>
                   <unittitle>Dinner menus</unittitle>
                 </did>
               </c05>
               <c05 level="item">
                 <did>
-                  <container type="box" label="Box">10</container>
+                  <container type="box" label="Box [720932845839455404]">10</container>
                   <unittitle>Holiday/special menus</unittitle>
                 </did>
               </c05>
@@ -1696,7 +1696,7 @@ Schuler's Restaurant Records
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">10</container>
+                <container type="box" label="Box [720932845839455404]">10</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1977">1977</unitdate>
                 </unittitle>
@@ -1707,7 +1707,7 @@ Schuler's Restaurant Records
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">10</container>
+                <container type="box" label="Box [720932845839455404]">10</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1978/1982">1978-1982</unitdate>
                 </unittitle>
@@ -1718,7 +1718,7 @@ Schuler's Restaurant Records
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">10</container>
+                <container type="box" label="Box [720932845839455404]">10</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1983">1983</unitdate>
                 </unittitle>
@@ -1730,7 +1730,7 @@ Schuler's Restaurant Records
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">19</container>
+              <container type="box" label="Box [302913381045788203723828]">19</container>
               <unittitle>Outsize menus--by location</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">1 folders</extent>
@@ -1757,37 +1757,37 @@ Schuler's Restaurant Records
           </scopecontent>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">11</container>
+              <container type="box" label="Box [194657894349224401813430]">11</container>
               <unittitle>Awards</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">11</container>
+              <container type="box" label="Box [194657894349224401813430]">11</container>
               <unittitle>Banquets</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">11</container>
+              <container type="box" label="Box [194657894349224401813430]">11</container>
               <unittitle>Bar Cheese Marketing</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">11</container>
+              <container type="box" label="Box [194657894349224401813430]">11</container>
               <unittitle>Brunch</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">11</container>
+              <container type="box" label="Box [194657894349224401813430]">11</container>
               <unittitle>Centennial Room</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">11</container>
+              <container type="box" label="Box [194657894349224401813430]">11</container>
               <unittitle>Cheese Plant</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -1796,151 +1796,151 @@ Schuler's Restaurant Records
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">11</container>
+              <container type="box" label="Box [194657894349224401813430]">11</container>
               <unittitle>Cheese Plant Buildings and Trucks</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">11</container>
+              <container type="box" label="Box [194657894349224401813430]">11</container>
               <unittitle>Coloring Book</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">11</container>
+              <container type="box" label="Box [194657894349224401813430]">11</container>
               <unittitle>Dishline</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">11</container>
+              <container type="box" label="Box [194657894349224401813430]">11</container>
               <unittitle>Drinks</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">11</container>
+              <container type="box" label="Box [194657894349224401813430]">11</container>
               <unittitle>Food</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">11</container>
+              <container type="box" label="Box [194657894349224401813430]">11</container>
               <unittitle>Fort Wayne</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">11</container>
+              <container type="box" label="Box [194657894349224401813430]">11</container>
               <unittitle>Gift Certificates</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">11</container>
+              <container type="box" label="Box [194657894349224401813430]">11</container>
               <unittitle>Glasses</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">11</container>
+              <container type="box" label="Box [194657894349224401813430]">11</container>
               <unittitle>Golf Outing</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">11</container>
+              <container type="box" label="Box [194657894349224401813430]">11</container>
               <unittitle>Guests</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">11</container>
+              <container type="box" label="Box [194657894349224401813430]">11</container>
               <unittitle>Hans/Larry/Win</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">11</container>
+              <container type="box" label="Box [194657894349224401813430]">11</container>
               <unittitle>Holidays</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">11</container>
+              <container type="box" label="Box [194657894349224401813430]">11</container>
               <unittitle>Host/Hostess</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">11</container>
+              <container type="box" label="Box [194657894349224401813430]">11</container>
               <unittitle>Jackson</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">11</container>
+              <container type="box" label="Box [194657894349224401813430]">11</container>
               <unittitle>Kitchen</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">11</container>
+              <container type="box" label="Box [194657894349224401813430]">11</container>
               <unittitle>Lobby</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">11</container>
+              <container type="box" label="Box [194657894349224401813430]">11</container>
               <unittitle>Logos and Billboards</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">11</container>
+              <container type="box" label="Box [194657894349224401813430]">11</container>
               <unittitle>Memorabilia</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">11</container>
+              <container type="box" label="Box [194657894349224401813430]">11</container>
               <unittitle>Menus</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">11</container>
+              <container type="box" label="Box [194657894349224401813430]">11</container>
               <unittitle>Michigan week</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">11</container>
+              <container type="box" label="Box [194657894349224401813430]">11</container>
               <unittitle>Mug shots</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">11</container>
+              <container type="box" label="Box [194657894349224401813430]">11</container>
               <unittitle>News articles</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">11</container>
+              <container type="box" label="Box [194657894349224401813430]">11</container>
               <unittitle>Outside Schulers</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">11</container>
+              <container type="box" label="Box [194657894349224401813430]">11</container>
               <unittitle>Packaged Bar cheese</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">11</container>
+              <container type="box" label="Box [194657894349224401813430]">11</container>
               <unittitle>Promos</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -1949,25 +1949,25 @@ Schuler's Restaurant Records
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">11</container>
+              <container type="box" label="Box [194657894349224401813430]">11</container>
               <unittitle>Pub/Bar</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">11</container>
+              <container type="box" label="Box [194657894349224401813430]">11</container>
               <unittitle>Richland</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">11</container>
+              <container type="box" label="Box [194657894349224401813430]">11</container>
               <unittitle>Rochester</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">11</container>
+              <container type="box" label="Box [194657894349224401813430]">11</container>
               <unittitle>Training</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -1976,13 +1976,13 @@ Schuler's Restaurant Records
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">11</container>
+              <container type="box" label="Box [194657894349224401813430]">11</container>
               <unittitle>Wait staff</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">11</container>
+              <container type="box" label="Box [194657894349224401813430]">11</container>
               <unittitle>West Bloomfield</unittitle>
             </did>
           </c03>
@@ -1992,13 +1992,13 @@ Schuler's Restaurant Records
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">11</container>
+                <container type="box" label="Box [194657894349224401813430]">11</container>
                 <unittitle>35 mm</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">12</container>
+                <container type="box" label="Box [04267754584723996711]">12</container>
                 <unittitle>35 mm</unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">2 volumes</extent>
@@ -2007,7 +2007,7 @@ Schuler's Restaurant Records
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">12</container>
+                <container type="box" label="Box [04267754584723996711]">12</container>
                 <unittitle>2.75" x 2.75"</unittitle>
               </did>
             </c04>
@@ -2028,13 +2028,13 @@ Schuler's Restaurant Records
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">13</container>
+                <container type="box" label="Box [896617779042380018016317]">13</container>
                 <unittitle>4-H stock sales butcher shop</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">13</container>
+                <container type="box" label="Box [896617779042380018016317]">13</container>
                 <unittitle>AAA "souper" bowl <unitdate type="inclusive" normal="1989">1989</unitdate></unittitle>
               </did>
             </c04>
@@ -2044,13 +2044,13 @@ Schuler's Restaurant Records
               </did>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">13</container>
+                  <container type="box" label="Box [896617779042380018016317]">13</container>
                   <unittitle>70th</unittitle>
                 </did>
               </c05>
               <c05 level="item">
                 <did>
-                  <container type="box" label="Box">13</container>
+                  <container type="box" label="Box [896617779042380018016317]">13</container>
                   <unittitle>75th</unittitle>
                   <physdesc altrender="whole">
                     <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -2059,19 +2059,19 @@ Schuler's Restaurant Records
               </c05>
               <c05 level="item">
                 <did>
-                  <container type="box" label="Box">13</container>
+                  <container type="box" label="Box [896617779042380018016317]">13</container>
                   <unittitle>80th</unittitle>
                 </did>
               </c05>
               <c05 level="item">
                 <did>
-                  <container type="box" label="Box">13</container>
+                  <container type="box" label="Box [896617779042380018016317]">13</container>
                   <unittitle>85th</unittitle>
                 </did>
               </c05>
               <c05 level="item">
                 <did>
-                  <container type="box" label="Box">13</container>
+                  <container type="box" label="Box [896617779042380018016317]">13</container>
                   <unittitle>90th</unittitle>
                   <physdesc altrender="whole">
                     <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -2085,26 +2085,26 @@ Schuler's Restaurant Records
               </did>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">13</container>
+                  <container type="box" label="Box [896617779042380018016317]">13</container>
                   <unittitle>General</unittitle>
                 </did>
               </c05>
               <c05 level="item">
                 <did>
-                  <container type="box" label="Box">13</container>
+                  <container type="box" label="Box [896617779042380018016317]">13</container>
                   <unittitle>Chamber music, Emily Byrens and Linda Jo Scott <unitdate type="inclusive" normal="1985">1985</unitdate></unittitle>
                 </did>
               </c05>
               <c05 level="item">
                 <did>
-                  <container type="box" label="Box">13</container>
+                  <container type="box" label="Box [896617779042380018016317]">13</container>
                   <unittitle>Christmas carolers</unittitle>
                 </did>
               </c05>
             </c04>
             <c04 level="item">
               <did>
-                <container type="box" label="Box">13</container>
+                <container type="box" label="Box [896617779042380018016317]">13</container>
                 <unittitle>Fly-in (?) <unitdate type="inclusive" normal="1996-07-21">July 21, 1996</unitdate></unittitle>
               </did>
             </c04>
@@ -2114,13 +2114,13 @@ Schuler's Restaurant Records
               </did>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">13</container>
+                  <container type="box" label="Box [896617779042380018016317]">13</container>
                   <unittitle>General</unittitle>
                 </did>
               </c05>
               <c05 level="item">
                 <did>
-                  <container type="box" label="Box">13</container>
+                  <container type="box" label="Box [896617779042380018016317]">13</container>
                   <unittitle>Bar Scheeze open <unitdate type="inclusive" normal="1977">1977</unitdate></unittitle>
                 </did>
               </c05>
@@ -2131,7 +2131,7 @@ Schuler's Restaurant Records
               </did>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">13</container>
+                  <container type="box" label="Box [896617779042380018016317]">13</container>
                   <unittitle>
                     <unitdate type="inclusive" normal="1985">1985</unitdate>
                   </unittitle>
@@ -2139,7 +2139,7 @@ Schuler's Restaurant Records
               </c05>
               <c05 level="item">
                 <did>
-                  <container type="box" label="Box">13</container>
+                  <container type="box" label="Box [896617779042380018016317]">13</container>
                   <unittitle>
                     <unitdate type="inclusive" normal="1986">1986</unitdate>
                   </unittitle>
@@ -2147,26 +2147,26 @@ Schuler's Restaurant Records
               </c05>
               <c05 level="item">
                 <did>
-                  <container type="box" label="Box">13</container>
+                  <container type="box" label="Box [896617779042380018016317]">13</container>
                   <unittitle>Food</unittitle>
                 </did>
               </c05>
               <c05 level="item">
                 <did>
-                  <container type="box" label="Box">13</container>
+                  <container type="box" label="Box [896617779042380018016317]">13</container>
                   <unittitle>Governor Blanchard</unittitle>
                 </did>
               </c05>
             </c04>
             <c04 level="item">
               <did>
-                <container type="box" label="Box">13</container>
+                <container type="box" label="Box [896617779042380018016317]">13</container>
                 <unittitle>Michigan week</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">13</container>
+                <container type="box" label="Box [896617779042380018016317]">13</container>
                 <unittitle>Miscellaneous events</unittitle>
               </did>
             </c04>
@@ -2176,61 +2176,61 @@ Schuler's Restaurant Records
               </did>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">13</container>
+                  <container type="box" label="Box [896617779042380018016317]">13</container>
                   <unittitle>General</unittitle>
                 </did>
               </c05>
               <c05 level="item">
                 <did>
-                  <container type="box" label="Box">13</container>
+                  <container type="box" label="Box [896617779042380018016317]">13</container>
                   <unittitle>Awards dinner <unitdate type="inclusive" normal="1979">1979</unitdate></unittitle>
                 </did>
               </c05>
               <c05 level="item">
                 <did>
-                  <container type="box" label="Box">13</container>
+                  <container type="box" label="Box [896617779042380018016317]">13</container>
                   <unittitle>Banquet <unitdate type="inclusive" normal="1987">1987</unitdate></unittitle>
                 </did>
               </c05>
               <c05 level="item">
                 <did>
-                  <container type="box" label="Box">13</container>
+                  <container type="box" label="Box [896617779042380018016317]">13</container>
                   <unittitle>Inaugural banquet</unittitle>
                 </did>
               </c05>
               <c05 level="item">
                 <did>
-                  <container type="box" label="Box">13</container>
+                  <container type="box" label="Box [896617779042380018016317]">13</container>
                   <unittitle>Leukemia celebrity luncheon <unitdate type="inclusive" normal="1989-11-08">November 8, 1989</unitdate></unittitle>
                 </did>
               </c05>
               <c05 level="item">
                 <did>
-                  <container type="box" label="Box">13</container>
+                  <container type="box" label="Box [896617779042380018016317]">13</container>
                   <unittitle>Leukemia Society of America party <unitdate type="inclusive">undated</unitdate></unittitle>
                 </did>
               </c05>
               <c05 level="item">
                 <did>
-                  <container type="box" label="Box">13</container>
+                  <container type="box" label="Box [896617779042380018016317]">13</container>
                   <unittitle>Miscellaneous awards banquets</unittitle>
                 </did>
               </c05>
               <c05 level="item">
                 <did>
-                  <container type="box" label="Box">13</container>
+                  <container type="box" label="Box [896617779042380018016317]">13</container>
                   <unittitle>Parties</unittitle>
                 </did>
               </c05>
               <c05 level="item">
                 <did>
-                  <container type="box" label="Box">13</container>
+                  <container type="box" label="Box [896617779042380018016317]">13</container>
                   <unittitle>Taste of Detroit <unitdate type="inclusive" normal="1978">1978</unitdate> or <unitdate type="inclusive" normal="1979" certainty="approximate">1979</unitdate></unittitle>
                 </did>
               </c05>
               <c05 level="item">
                 <did>
-                  <container type="box" label="Box">13</container>
+                  <container type="box" label="Box [896617779042380018016317]">13</container>
                   <unittitle>S.A.F.E. dinner <unitdate type="inclusive" normal="1989">1989</unitdate></unittitle>
                 </did>
               </c05>
@@ -2240,7 +2240,7 @@ Schuler's Restaurant Records
                 </did>
                 <c06 level="file">
                   <did>
-                    <container type="box" label="Box">14</container>
+                    <container type="box" label="Box [38179901466324019697983]">14</container>
                     <unittitle>
                       <unitdate type="inclusive" normal="1986">1986</unitdate>
                     </unittitle>
@@ -2248,7 +2248,7 @@ Schuler's Restaurant Records
                 </c06>
                 <c06 level="file">
                   <did>
-                    <container type="box" label="Box">14</container>
+                    <container type="box" label="Box [38179901466324019697983]">14</container>
                     <unittitle>
                       <unitdate type="inclusive" normal="1988">1988</unitdate>
                     </unittitle>
@@ -2259,7 +2259,7 @@ Schuler's Restaurant Records
                 </c06>
                 <c06 level="file">
                   <did>
-                    <container type="box" label="Box">14</container>
+                    <container type="box" label="Box [38179901466324019697983]">14</container>
                     <unittitle>
                       <unitdate type="inclusive" normal="1989">1989</unitdate>
                     </unittitle>
@@ -2268,14 +2268,14 @@ Schuler's Restaurant Records
               </c05>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">14</container>
+                  <container type="box" label="Box [38179901466324019697983]">14</container>
                   <unittitle>Win at banquets with employees, etc.</unittitle>
                 </did>
               </c05>
             </c04>
             <c04 level="item">
               <did>
-                <container type="box" label="Box">14</container>
+                <container type="box" label="Box [38179901466324019697983]">14</container>
                 <unittitle>Sports</unittitle>
               </did>
             </c04>
@@ -2286,19 +2286,19 @@ Schuler's Restaurant Records
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">14</container>
+                <container type="box" label="Box [38179901466324019697983]">14</container>
                 <unittitle>General</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">14</container>
+                <container type="box" label="Box [38179901466324019697983]">14</container>
                 <unittitle>Commissary</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">14</container>
+                <container type="box" label="Box [38179901466324019697983]">14</container>
                 <unittitle>Bar scheeze/Bar schips</unittitle>
               </did>
             </c04>
@@ -2308,7 +2308,7 @@ Schuler's Restaurant Records
               </did>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">14</container>
+                  <container type="box" label="Box [38179901466324019697983]">14</container>
                   <unittitle>
                     <unitdate type="inclusive" normal="1990/1991">1990-1991</unitdate>
                   </unittitle>
@@ -2316,7 +2316,7 @@ Schuler's Restaurant Records
               </c05>
               <c05 level="item">
                 <did>
-                  <container type="box" label="Box">14</container>
+                  <container type="box" label="Box [38179901466324019697983]">14</container>
                   <unittitle>
                     <unitdate type="inclusive" normal="1992">1992</unitdate>
                   </unittitle>
@@ -2324,7 +2324,7 @@ Schuler's Restaurant Records
               </c05>
               <c05 level="item">
                 <did>
-                  <container type="box" label="Box">14</container>
+                  <container type="box" label="Box [38179901466324019697983]">14</container>
                   <unittitle>Food art</unittitle>
                 </did>
               </c05>
@@ -2340,7 +2340,7 @@ Schuler's Restaurant Records
               </did>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">14</container>
+                  <container type="box" label="Box [38179901466324019697983]">14</container>
                   <unittitle>General</unittitle>
                   <physdesc altrender="whole">
                     <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -2349,7 +2349,7 @@ Schuler's Restaurant Records
               </c05>
               <c05 level="item">
                 <did>
-                  <container type="box" label="Box">14</container>
+                  <container type="box" label="Box [38179901466324019697983]">14</container>
                   <unittitle>Albert Schuler</unittitle>
                 </did>
               </c05>
@@ -2359,7 +2359,7 @@ Schuler's Restaurant Records
                 </did>
                 <c06 level="file">
                   <did>
-                    <container type="box" label="Box">14</container>
+                    <container type="box" label="Box [38179901466324019697983]">14</container>
                     <unittitle>General</unittitle>
                   </did>
                   <odd>
@@ -2368,7 +2368,7 @@ Schuler's Restaurant Records
                 </c06>
                 <c06 level="file">
                   <did>
-                    <container type="box" label="Box">14</container>
+                    <container type="box" label="Box [38179901466324019697983]">14</container>
                     <unittitle>
                       <unitdate type="inclusive" normal="1985">1985</unitdate>
                     </unittitle>
@@ -2376,7 +2376,7 @@ Schuler's Restaurant Records
                 </c06>
                 <c06 level="file">
                   <did>
-                    <container type="box" label="Box">14</container>
+                    <container type="box" label="Box [38179901466324019697983]">14</container>
                     <unittitle>
                       <unitdate type="inclusive" normal="1986">1986</unitdate>
                     </unittitle>
@@ -2384,7 +2384,7 @@ Schuler's Restaurant Records
                 </c06>
                 <c06 level="file">
                   <did>
-                    <container type="box" label="Box">14</container>
+                    <container type="box" label="Box [38179901466324019697983]">14</container>
                     <unittitle>
                       <unitdate type="inclusive" normal="1987">1987</unitdate>
                     </unittitle>
@@ -2392,44 +2392,44 @@ Schuler's Restaurant Records
                 </c06>
                 <c06 level="file">
                   <did>
-                    <container type="box" label="Box">14</container>
+                    <container type="box" label="Box [38179901466324019697983]">14</container>
                     <unittitle>Governor Blanchard <unitdate type="inclusive" normal="1985">1985</unitdate></unittitle>
                   </did>
                 </c06>
                 <c06 level="file">
                   <did>
-                    <container type="box" label="Box">14</container>
+                    <container type="box" label="Box [38179901466324019697983]">14</container>
                     <unittitle>Hans and Larry Schuler with wine <unitdate type="inclusive" normal="1987">1987</unitdate></unittitle>
                   </did>
                 </c06>
                 <c06 level="file">
                   <did>
-                    <container type="box" label="Box">14</container>
+                    <container type="box" label="Box [38179901466324019697983]">14</container>
                     <unittitle>Hans and Dan Hugelier</unittitle>
                   </did>
                 </c06>
                 <c06 level="file">
                   <did>
-                    <container type="box" label="Box">14</container>
+                    <container type="box" label="Box [38179901466324019697983]">14</container>
                     <unittitle>Posed</unittitle>
                   </did>
                 </c06>
                 <c06 level="file">
                   <did>
-                    <container type="box" label="Box">14</container>
+                    <container type="box" label="Box [38179901466324019697983]">14</container>
                     <unittitle>Travel Holiday award photographs <unitdate type="inclusive" normal="1982">1982</unitdate></unittitle>
                   </did>
                 </c06>
                 <c06 level="file">
                   <did>
-                    <container type="box" label="Box">14</container>
+                    <container type="box" label="Box [38179901466324019697983]">14</container>
                     <unittitle>With others, general and awards</unittitle>
                   </did>
                 </c06>
               </c05>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">15</container>
+                  <container type="box" label="Box [0768978478082271534]">15</container>
                   <unittitle>Larry Schuler</unittitle>
                 </did>
               </c05>
@@ -2439,7 +2439,7 @@ Schuler's Restaurant Records
                 </did>
                 <c06 level="file">
                   <did>
-                    <container type="box" label="Box">15</container>
+                    <container type="box" label="Box [0768978478082271534]">15</container>
                     <unittitle>General</unittitle>
                     <physdesc altrender="whole">
                       <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -2448,19 +2448,19 @@ Schuler's Restaurant Records
                 </c06>
                 <c06 level="file">
                   <did>
-                    <container type="box" label="Box">15</container>
+                    <container type="box" label="Box [0768978478082271534]">15</container>
                     <unittitle>General photographs with people</unittitle>
                   </did>
                 </c06>
                 <c06 level="file">
                   <did>
-                    <container type="box" label="Box">15</container>
+                    <container type="box" label="Box [0768978478082271534]">15</container>
                     <unittitle>Posed</unittitle>
                   </did>
                 </c06>
                 <c06 level="file">
                   <did>
-                    <container type="box" label="Box">15</container>
+                    <container type="box" label="Box [0768978478082271534]">15</container>
                     <unittitle>Win and Hans Schuler with guests</unittitle>
                   </did>
                 </c06>
@@ -2472,7 +2472,7 @@ Schuler's Restaurant Records
               </did>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">15</container>
+                  <container type="box" label="Box [0768978478082271534]">15</container>
                   <unittitle>
                     <unitdate type="inclusive" normal="1984">1984</unitdate>
                   </unittitle>
@@ -2484,7 +2484,7 @@ Schuler's Restaurant Records
                 </did>
                 <c06 level="file">
                   <did>
-                    <container type="box" label="Box">15</container>
+                    <container type="box" label="Box [0768978478082271534]">15</container>
                     <unittitle>
                       <unitdate type="inclusive" normal="1984">1984</unitdate>
                     </unittitle>
@@ -2492,26 +2492,26 @@ Schuler's Restaurant Records
                 </c06>
                 <c06 level="file">
                   <did>
-                    <container type="box" label="Box">15</container>
+                    <container type="box" label="Box [0768978478082271534]">15</container>
                     <unittitle>Detroit News</unittitle>
                   </did>
                 </c06>
                 <c06 level="file">
                   <did>
-                    <container type="box" label="Box">15</container>
+                    <container type="box" label="Box [0768978478082271534]">15</container>
                     <unittitle>Olympics</unittitle>
                   </did>
                 </c06>
               </c05>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">15</container>
+                  <container type="box" label="Box [0768978478082271534]">15</container>
                   <unittitle>Hans with chefs (and hunting)</unittitle>
                 </did>
               </c05>
               <c05 level="item">
                 <did>
-                  <container type="box" label="Box">15</container>
+                  <container type="box" label="Box [0768978478082271534]">15</container>
                   <unittitle>Workshops</unittitle>
                 </did>
               </c05>
@@ -2522,25 +2522,25 @@ Schuler's Restaurant Records
               </did>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">15</container>
+                  <container type="box" label="Box [0768978478082271534]">15</container>
                   <unittitle>Employees</unittitle>
                 </did>
               </c05>
               <c05 level="item">
                 <did>
-                  <container type="box" label="Box">15</container>
+                  <container type="box" label="Box [0768978478082271534]">15</container>
                   <unittitle>Milliken</unittitle>
                 </did>
               </c05>
               <c05 level="item">
                 <did>
-                  <container type="box" label="Box">15</container>
+                  <container type="box" label="Box [0768978478082271534]">15</container>
                   <unittitle>President Nixon at Marriott Inn</unittitle>
                 </did>
               </c05>
               <c05 level="item">
                 <did>
-                  <container type="box" label="Box">15</container>
+                  <container type="box" label="Box [0768978478082271534]">15</container>
                   <unittitle>Unidentified and other individuals</unittitle>
                 </did>
               </c05>
@@ -2552,7 +2552,7 @@ Schuler's Restaurant Records
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">15</container>
+                <container type="box" label="Box [0768978478082271534]">15</container>
                 <unittitle>Schuler history</unittitle>
               </did>
             </c04>
@@ -2562,7 +2562,7 @@ Schuler's Restaurant Records
               </did>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">15</container>
+                  <container type="box" label="Box [0768978478082271534]">15</container>
                   <unittitle>General</unittitle>
                   <physdesc altrender="whole">
                     <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -2571,14 +2571,14 @@ Schuler's Restaurant Records
               </c05>
               <c05 level="item">
                 <did>
-                  <container type="box" label="Box">15</container>
+                  <container type="box" label="Box [0768978478082271534]">15</container>
                   <unittitle>Groundbreaking</unittitle>
                 </did>
               </c05>
             </c04>
             <c04 level="item">
               <did>
-                <container type="box" label="Box">15</container>
+                <container type="box" label="Box [0768978478082271534]">15</container>
                 <unittitle>East Lansing</unittitle>
               </did>
             </c04>
@@ -2588,13 +2588,13 @@ Schuler's Restaurant Records
               </did>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">15</container>
+                  <container type="box" label="Box [0768978478082271534]">15</container>
                   <unittitle>General</unittitle>
                 </did>
               </c05>
               <c05 level="item">
                 <did>
-                  <container type="box" label="Box">15</container>
+                  <container type="box" label="Box [0768978478082271534]">15</container>
                   <unittitle>Renderings</unittitle>
                 </did>
               </c05>
@@ -2605,20 +2605,20 @@ Schuler's Restaurant Records
               </did>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">15</container>
+                  <container type="box" label="Box [0768978478082271534]">15</container>
                   <unittitle>Grand opening</unittitle>
                 </did>
               </c05>
               <c05 level="item">
                 <did>
-                  <container type="box" label="Box">15</container>
+                  <container type="box" label="Box [0768978478082271534]">15</container>
                   <unittitle>Pre-1972 remodeling</unittitle>
                 </did>
               </c05>
             </c04>
             <c04 level="item">
               <did>
-                <container type="box" label="Box">15</container>
+                <container type="box" label="Box [0768978478082271534]">15</container>
                 <unittitle>Grand Rapids</unittitle>
               </did>
             </c04>
@@ -2628,37 +2628,37 @@ Schuler's Restaurant Records
               </did>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">15</container>
+                  <container type="box" label="Box [0768978478082271534]">15</container>
                   <unittitle>Black Jack Tavern</unittitle>
                 </did>
               </c05>
               <c05 level="item">
                 <did>
-                  <container type="box" label="Box">15</container>
+                  <container type="box" label="Box [0768978478082271534]">15</container>
                   <unittitle>English newspapers</unittitle>
                 </did>
               </c05>
               <c05 level="item">
                 <did>
-                  <container type="box" label="Box">15</container>
+                  <container type="box" label="Box [0768978478082271534]">15</container>
                   <unittitle>Exterior</unittitle>
                 </did>
               </c05>
               <c05 level="item">
                 <did>
-                  <container type="box" label="Box">15</container>
+                  <container type="box" label="Box [0768978478082271534]">15</container>
                   <unittitle>Inn signs</unittitle>
                 </did>
               </c05>
               <c05 level="item">
                 <did>
-                  <container type="box" label="Box">15</container>
+                  <container type="box" label="Box [0768978478082271534]">15</container>
                   <unittitle>Interior</unittitle>
                 </did>
               </c05>
               <c05 level="item">
                 <did>
-                  <container type="box" label="Box">15</container>
+                  <container type="box" label="Box [0768978478082271534]">15</container>
                   <unittitle>Renderings</unittitle>
                 </did>
               </c05>
@@ -2669,13 +2669,13 @@ Schuler's Restaurant Records
               </did>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">15</container>
+                  <container type="box" label="Box [0768978478082271534]">15</container>
                   <unittitle>General</unittitle>
                 </did>
               </c05>
               <c05 level="item">
                 <did>
-                  <container type="box" label="Box">15</container>
+                  <container type="box" label="Box [0768978478082271534]">15</container>
                   <unittitle>
                     <unitdate type="inclusive" normal="1979">1979</unitdate>
                   </unittitle>
@@ -2688,13 +2688,13 @@ Schuler's Restaurant Records
               </did>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">16</container>
+                  <container type="box" label="Box [298847443766540701]">16</container>
                   <unittitle>General</unittitle>
                 </did>
               </c05>
               <c05 level="item">
                 <did>
-                  <container type="box" label="Box">16</container>
+                  <container type="box" label="Box [298847443766540701]">16</container>
                   <unittitle>
                     <unitdate type="inclusive" normal="1985">1985</unitdate>
                   </unittitle>
@@ -2702,7 +2702,7 @@ Schuler's Restaurant Records
               </c05>
               <c05 level="item">
                 <did>
-                  <container type="box" label="Box">16</container>
+                  <container type="box" label="Box [298847443766540701]">16</container>
                   <unittitle>
                     <unitdate type="inclusive" normal="1986">1986</unitdate>
                   </unittitle>
@@ -2710,7 +2710,7 @@ Schuler's Restaurant Records
               </c05>
               <c05 level="item">
                 <did>
-                  <container type="box" label="Box">16</container>
+                  <container type="box" label="Box [298847443766540701]">16</container>
                   <unittitle>
                     <unitdate type="inclusive" normal="1987">1987</unitdate>
                   </unittitle>
@@ -2718,50 +2718,50 @@ Schuler's Restaurant Records
               </c05>
               <c05 level="item">
                 <did>
-                  <container type="box" label="Box">16</container>
+                  <container type="box" label="Box [298847443766540701]">16</container>
                   <unittitle>Centennial Room <unitdate type="inclusive" normal="1988">1988</unitdate></unittitle>
                 </did>
               </c05>
               <c05 level="item">
                 <did>
-                  <container type="box" label="Box">16</container>
+                  <container type="box" label="Box [298847443766540701]">16</container>
                   <unittitle>Gift shop</unittitle>
                 </did>
               </c05>
               <c05 level="item">
                 <did>
-                  <container type="box" label="Box">16</container>
+                  <container type="box" label="Box [298847443766540701]">16</container>
                   <unittitle>Heritage room</unittitle>
                 </did>
               </c05>
               <c05 level="item">
                 <did>
-                  <container type="box" label="Box">16</container>
+                  <container type="box" label="Box [298847443766540701]">16</container>
                   <unittitle>Hotel (interior)</unittitle>
                 </did>
               </c05>
               <c05 level="item">
                 <did>
-                  <container type="box" label="Box">16</container>
+                  <container type="box" label="Box [298847443766540701]">16</container>
                   <unittitle>Hotel Schuler (exterior)</unittitle>
                 </did>
               </c05>
               <c05 level="item">
                 <did>
-                  <container type="box" label="Box">16</container>
+                  <container type="box" label="Box [298847443766540701]">16</container>
                   <unittitle>Interior</unittitle>
                 </did>
               </c05>
               <c05 level="item">
                 <did>
-                  <container type="box" label="Box">16</container>
+                  <container type="box" label="Box [298847443766540701]">16</container>
                   <unittitle>Stadium rooms</unittitle>
                 </did>
               </c05>
             </c04>
             <c04 level="item">
               <did>
-                <container type="box" label="Box">16</container>
+                <container type="box" label="Box [298847443766540701]">16</container>
                 <unittitle>Rochester</unittitle>
               </did>
             </c04>
@@ -2771,13 +2771,13 @@ Schuler's Restaurant Records
               </did>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">16</container>
+                  <container type="box" label="Box [298847443766540701]">16</container>
                   <unittitle>General</unittitle>
                 </did>
               </c05>
               <c05 level="item">
                 <did>
-                  <container type="box" label="Box">16</container>
+                  <container type="box" label="Box [298847443766540701]">16</container>
                   <unittitle>
                     <unitdate type="inclusive" normal="1984/1987">1984-1987</unitdate>
                   </unittitle>
@@ -2788,7 +2788,7 @@ Schuler's Restaurant Records
               </c05>
               <c05 level="item">
                 <did>
-                  <container type="box" label="Box">16</container>
+                  <container type="box" label="Box [298847443766540701]">16</container>
                   <unittitle>Historic fire</unittitle>
                 </did>
               </c05>
@@ -2799,25 +2799,25 @@ Schuler's Restaurant Records
               </did>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">16</container>
+                  <container type="box" label="Box [298847443766540701]">16</container>
                   <unittitle>Construction</unittitle>
                 </did>
               </c05>
               <c05 level="item">
                 <did>
-                  <container type="box" label="Box">16</container>
+                  <container type="box" label="Box [298847443766540701]">16</container>
                   <unittitle>Exterior</unittitle>
                 </did>
               </c05>
               <c05 level="item">
                 <did>
-                  <container type="box" label="Box">16</container>
+                  <container type="box" label="Box [298847443766540701]">16</container>
                   <unittitle>Interior (pre-1972 remodeling)</unittitle>
                 </did>
               </c05>
               <c05 level="item">
                 <did>
-                  <container type="box" label="Box">16</container>
+                  <container type="box" label="Box [298847443766540701]">16</container>
                   <unittitle>Samuel Johnson</unittitle>
                 </did>
               </c05>
@@ -2828,7 +2828,7 @@ Schuler's Restaurant Records
               </did>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">16</container>
+                  <container type="box" label="Box [298847443766540701]">16</container>
                   <unittitle>Renderings</unittitle>
                 </did>
               </c05>
@@ -2839,13 +2839,13 @@ Schuler's Restaurant Records
               </did>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">16</container>
+                  <container type="box" label="Box [298847443766540701]">16</container>
                   <unittitle>General</unittitle>
                 </did>
               </c05>
               <c05 level="item">
                 <did>
-                  <container type="box" label="Box">16</container>
+                  <container type="box" label="Box [298847443766540701]">16</container>
                   <unittitle>Interior <unitdate type="inclusive" normal="1984">1984</unitdate></unittitle>
                 </did>
               </c05>
@@ -2856,37 +2856,37 @@ Schuler's Restaurant Records
               </did>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">16</container>
+                  <container type="box" label="Box [298847443766540701]">16</container>
                   <unittitle>Architectural pictures</unittitle>
                 </did>
               </c05>
               <c05 level="item">
                 <did>
-                  <container type="box" label="Box">16</container>
+                  <container type="box" label="Box [298847443766540701]">16</container>
                   <unittitle>Billboards</unittitle>
                 </did>
               </c05>
               <c05 level="item">
                 <did>
-                  <container type="box" label="Box">16</container>
+                  <container type="box" label="Box [298847443766540701]">16</container>
                   <unittitle>Historic buildings</unittitle>
                 </did>
               </c05>
               <c05 level="item">
                 <did>
-                  <container type="box" label="Box">16</container>
+                  <container type="box" label="Box [298847443766540701]">16</container>
                   <unittitle>Kitchen</unittitle>
                 </did>
               </c05>
               <c05 level="item">
                 <did>
-                  <container type="box" label="Box">16</container>
+                  <container type="box" label="Box [298847443766540701]">16</container>
                   <unittitle>Photos by Tines</unittitle>
                 </did>
               </c05>
               <c05 level="item">
                 <did>
-                  <container type="box" label="Box">16</container>
+                  <container type="box" label="Box [298847443766540701]">16</container>
                   <unittitle>Restaurant renderings</unittitle>
                 </did>
                 <odd>
@@ -2895,7 +2895,7 @@ Schuler's Restaurant Records
               </c05>
               <c05 level="item">
                 <did>
-                  <container type="box" label="Box">16</container>
+                  <container type="box" label="Box [298847443766540701]">16</container>
                   <unittitle>Wait persons, uniforms, tables, kitchen staff</unittitle>
                 </did>
               </c05>
@@ -2907,37 +2907,37 @@ Schuler's Restaurant Records
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">16</container>
+                <container type="box" label="Box [298847443766540701]">16</container>
                 <unittitle>Antiques</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">16</container>
+                <container type="box" label="Box [298847443766540701]">16</container>
                 <unittitle>Art by Drausby</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">16</container>
+                <container type="box" label="Box [298847443766540701]">16</container>
                 <unittitle>City of Marshall homes and buildings</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">16</container>
+                <container type="box" label="Box [298847443766540701]">16</container>
                 <unittitle>Coaches and football games</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">16</container>
+                <container type="box" label="Box [298847443766540701]">16</container>
                 <unittitle>Helicopter</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">16</container>
+                <container type="box" label="Box [298847443766540701]">16</container>
                 <unittitle>Miscellaneous</unittitle>
               </did>
             </c04>
@@ -2952,13 +2952,13 @@ Schuler's Restaurant Records
           </scopecontent>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">16</container>
+              <container type="box" label="Box [298847443766540701]">16</container>
               <unittitle>Schuler's restaurant 90th Anniversary <unitdate type="inclusive" normal="1999">1999</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">16</container>
+              <container type="box" label="Box [298847443766540701]">16</container>
               <unittitle>What's cooking with Burt Wolf? Schuler's roasted chicken</unittitle>
             </did>
           </c03>
@@ -2979,13 +2979,13 @@ Schuler's Restaurant Records
           </did>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">1</container>
+              <container type="volume" label="Oversize Volume [0299149346632051780]">1</container>
               <unittitle>Win Schuler personal <unitdate type="inclusive" normal="1944">1944</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">2</container>
+              <container type="volume" label="Oversize Volume [070420949006138]">2</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1949/1973">1949-1973 (scattered)</unitdate>
               </unittitle>
@@ -2993,7 +2993,7 @@ Schuler's Restaurant Records
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">3</container>
+              <container type="volume" label="Oversize Volume [959611727440020900548]">3</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1963/1975">1963-1975 (scattered)</unitdate>
               </unittitle>
@@ -3001,7 +3001,7 @@ Schuler's Restaurant Records
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">6</container>
+              <container type="volume" label="Oversize Volume [4454909645809931060957]">6</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1954/1974" certainty="approximate">circa 1954-1974</unitdate>
               </unittitle>
@@ -3009,7 +3009,7 @@ Schuler's Restaurant Records
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">7</container>
+              <container type="volume" label="Oversize Volume [62160744949283]">7</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1960/1969" certainty="approximate">1960s</unitdate>
               </unittitle>
@@ -3017,13 +3017,13 @@ Schuler's Restaurant Records
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">17</container>
+              <container type="box" label="Box [49075234971915934465872]">17</container>
               <unittitle>Michigan Week <unitdate type="inclusive" normal="1962">1962</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">18</container>
+              <container type="box" label="Box [2440594938922905011]">18</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1962/1966">1962-1966</unitdate>
               </unittitle>
@@ -3031,7 +3031,7 @@ Schuler's Restaurant Records
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">4</container>
+              <container type="volume" label="Oversize Volume [9999260419243932689135119]">4</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1971/1976">1971-1976</unitdate>
               </unittitle>
@@ -3039,7 +3039,7 @@ Schuler's Restaurant Records
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">5</container>
+              <container type="volume" label="Oversize Volume [4592708749909542731556]">5</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1972/1973">1972-1973</unitdate>
               </unittitle>
@@ -3047,7 +3047,7 @@ Schuler's Restaurant Records
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">8</container>
+              <container type="volume" label="Oversize Volume [540958408068189532467]">8</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1975/1978">1975-1978</unitdate>
               </unittitle>
@@ -3055,7 +3055,7 @@ Schuler's Restaurant Records
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">9</container>
+              <container type="volume" label="Oversize Volume [65162721043286034682115]">9</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1977/1985">1977-1985</unitdate>
               </unittitle>

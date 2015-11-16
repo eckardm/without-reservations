@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Arthur W. Haydon diaries, 1865-1879 and 1888-1915</titleproper>
       <author>Finding aid created by <lb/>Christopher A. Poterala, 1993</author>
     </titlepage>
@@ -84,28 +84,28 @@ Arthur W. Haydon diaries, Bentley Historical Library, University of Michigan</p>
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <subject source="lcsh" encodinganalog="650">Agriculture.</subject>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/no2008151759.html">Decatur (Mich.)</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7238">Agriculture.</subject>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/no2008151759.html" ref="/subjects/2004">Decatur (Mich.)</geogname>
         <persname source="lcnaf" encodinganalog="600">Haydon, Arthur W., 1844-1918.</persname>
-        <subject source="lcsh" encodinganalog="650">Horse breeders.</subject>
-        <subject source="lcsh" encodinganalog="650">Sheep.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/8161">Horse breeders.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/8162">Sheep.</subject>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan--Students--1861-1870.</corpname>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Materials:</head>
-        <subject source="lctgm" encodinganalog="650">Barns--Michigan--Hamilton (Van Buren County : Township)</subject>
-        <subject source="lctgm" encodinganalog="650">Construction.</subject>
-        <subject source="lctgm" encodinganalog="650">Dwellings--Michigan--Hamilton (Van Buren County : Township)</subject>
-        <geogname source="lctgm" encodinganalog="651">Hamilton (Van Buren County, Mich. : Township)--Barns.</geogname>
-        <geogname source="lctgm" encodinganalog="651">Hamilton (Van Buren County, Mich. : Township)--Dwellings.</geogname>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4490">Barns--Michigan--Hamilton (Van Buren County : Township)</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3761">Construction.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4491">Dwellings--Michigan--Hamilton (Van Buren County : Township)</subject>
+        <geogname source="lctgm" encodinganalog="651" ref="/subjects/327">Hamilton (Van Buren County, Mich. : Township)--Barns.</geogname>
+        <geogname source="lctgm" encodinganalog="651" ref="/subjects/328">Hamilton (Van Buren County, Mich. : Township)--Dwellings.</geogname>
         <persname source="lcnaf" encodinganalog="600">Haydon, Arthur W., 1844-1918.</persname>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="gmgpc" encodinganalog="655">Ambrotypes.</genreform>
-        <genreform source="gmgpc" encodinganalog="655">Cyanotypes.</genreform>
-        <genreform source="aat" encodinganalog="655">Diaries.</genreform>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="gmgpc" encodinganalog="655" ref="/subjects/3469">Ambrotypes.</genreform>
+        <genreform source="gmgpc" encodinganalog="655" ref="/subjects/3474">Cyanotypes.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3150">Diaries.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -117,7 +117,7 @@ Arthur W. Haydon diaries, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [66716487959609562]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1864/1867">1864-1867</unitdate>
             </unittitle>
@@ -125,7 +125,7 @@ Arthur W. Haydon diaries, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [66716487959609562]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1865/1866">1865-1866</unitdate>
             </unittitle>
@@ -133,7 +133,7 @@ Arthur W. Haydon diaries, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [66716487959609562]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1866/1878">1866-1878</unitdate>
             </unittitle>
@@ -141,7 +141,7 @@ Arthur W. Haydon diaries, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [66716487959609562]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1879">1879</unitdate>
             </unittitle>
@@ -152,7 +152,7 @@ Arthur W. Haydon diaries, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [66716487959609562]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1888">1888</unitdate>
             </unittitle>
@@ -160,7 +160,7 @@ Arthur W. Haydon diaries, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [66716487959609562]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1889">1889</unitdate>
             </unittitle>
@@ -168,7 +168,7 @@ Arthur W. Haydon diaries, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [66716487959609562]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1890">1890</unitdate>
             </unittitle>
@@ -176,7 +176,7 @@ Arthur W. Haydon diaries, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [66716487959609562]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1891">1891</unitdate>
             </unittitle>
@@ -184,7 +184,7 @@ Arthur W. Haydon diaries, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [66716487959609562]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1892">1892</unitdate>
             </unittitle>
@@ -192,7 +192,7 @@ Arthur W. Haydon diaries, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [66716487959609562]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1893">1893</unitdate>
             </unittitle>
@@ -200,7 +200,7 @@ Arthur W. Haydon diaries, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [66716487959609562]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1894">1894</unitdate>
             </unittitle>
@@ -208,7 +208,7 @@ Arthur W. Haydon diaries, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [66716487959609562]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1895">1895</unitdate>
             </unittitle>
@@ -216,7 +216,7 @@ Arthur W. Haydon diaries, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [66716487959609562]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1896">1896</unitdate>
             </unittitle>
@@ -224,7 +224,7 @@ Arthur W. Haydon diaries, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [66716487959609562]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1897">1897</unitdate>
             </unittitle>
@@ -232,7 +232,7 @@ Arthur W. Haydon diaries, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [66716487959609562]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1898">1898</unitdate>
             </unittitle>
@@ -240,7 +240,7 @@ Arthur W. Haydon diaries, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [66716487959609562]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1899">1899</unitdate>
             </unittitle>
@@ -248,7 +248,7 @@ Arthur W. Haydon diaries, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [66716487959609562]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1900">1900</unitdate>
             </unittitle>
@@ -256,7 +256,7 @@ Arthur W. Haydon diaries, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [66716487959609562]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1901">1901</unitdate>
             </unittitle>
@@ -264,7 +264,7 @@ Arthur W. Haydon diaries, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [66716487959609562]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1902">1902</unitdate>
             </unittitle>
@@ -272,7 +272,7 @@ Arthur W. Haydon diaries, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [66716487959609562]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1903">1903</unitdate>
             </unittitle>
@@ -280,7 +280,7 @@ Arthur W. Haydon diaries, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [66716487959609562]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1904">1904</unitdate>
             </unittitle>
@@ -288,7 +288,7 @@ Arthur W. Haydon diaries, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [66716487959609562]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1905">1905</unitdate>
             </unittitle>
@@ -296,7 +296,7 @@ Arthur W. Haydon diaries, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [66716487959609562]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1906">1906</unitdate>
             </unittitle>
@@ -304,7 +304,7 @@ Arthur W. Haydon diaries, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [66716487959609562]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1907">1907</unitdate>
             </unittitle>
@@ -312,7 +312,7 @@ Arthur W. Haydon diaries, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [66716487959609562]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1908">1908</unitdate>
             </unittitle>
@@ -320,7 +320,7 @@ Arthur W. Haydon diaries, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [66716487959609562]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1909">1909</unitdate>
             </unittitle>
@@ -328,7 +328,7 @@ Arthur W. Haydon diaries, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [66716487959609562]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1910">1910</unitdate>
             </unittitle>
@@ -336,7 +336,7 @@ Arthur W. Haydon diaries, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [66716487959609562]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1911">1911</unitdate>
             </unittitle>
@@ -344,7 +344,7 @@ Arthur W. Haydon diaries, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [740005654205569353776]">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1912">1912</unitdate>
             </unittitle>
@@ -352,7 +352,7 @@ Arthur W. Haydon diaries, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [740005654205569353776]">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1913">1913</unitdate>
             </unittitle>
@@ -360,7 +360,7 @@ Arthur W. Haydon diaries, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [740005654205569353776]">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1914">1914</unitdate>
             </unittitle>
@@ -371,7 +371,7 @@ Arthur W. Haydon diaries, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [740005654205569353776]">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1915">1915</unitdate>
             </unittitle>
@@ -384,13 +384,13 @@ Arthur W. Haydon diaries, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [740005654205569353776]">2</container>
             <unittitle>Miscellaneous (newspaper clippings, personal letters, graduation invitations, etc.)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [740005654205569353776]">2</container>
             <unittitle><genreform normal="Photographs">Photographs</genreform> of Haydon's house and farm buildings and barn construction</unittitle>
           </did>
           <odd>

@@ -26,7 +26,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Gorman Family Papers, 1886-1970</titleproper>
       <author>Finding aid created by <lb/>Catherine Mary Arnott, 1987</author>
     </titlepage>
@@ -75,15 +75,15 @@ Gorman Family Papers, Bentley Historical Library, University of Michigan</p>
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n85064194.html">Chelsea (Mich.)</geogname>
-        <geogname source="lcsh" encodinganalog="651">Dexter (Mich.)</geogname>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n85064194.html" ref="/subjects/1059">Chelsea (Mich.)</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1013">Dexter (Mich.)</geogname>
         <famname source="lcnaf" encodinganalog="600">Gorman family.</famname>
         <corpname source="lcnaf" encodinganalog="610">Michigan. Legislature. Senate.</corpname>
-        <subject source="lcsh" encodinganalog="650">Undertakers and undertaking--Michigan--Dexter.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/8008">Undertakers and undertaking--Michigan--Dexter.</subject>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n79107874">United States. Congress. House.</corpname>
-        <subject source="lcsh" encodinganalog="650">Women--Michigan--Dexter.</subject>
-        <subject source="lcsh" encodinganalog="650">Women--Michigan--Chelsea.</subject>
-        <subject source="lcsh" encodinganalog="650">Legislators' spouses--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/8009">Women--Michigan--Dexter.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/8010">Women--Michigan--Chelsea.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/8011">Legislators' spouses--Michigan.</subject>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Materials:</head>
@@ -97,7 +97,7 @@ Gorman Family Papers, Bentley Historical Library, University of Michigan</p>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -107,13 +107,13 @@ Gorman Family Papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [91542942928274399]">1</container>
             <unittitle>Biographical and genealogical information</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [91542942928274399]">1</container>
             <unittitle>Letters 1886-1970, undated, scattered dates</unittitle>
             <unitdate type="inclusive" normal="1886/1970">1886-1970</unitdate>
             <unitdate type="inclusive">undated</unitdate>
@@ -124,7 +124,7 @@ Gorman Family Papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [91542942928274399]">1</container>
             <unittitle>Gorman Estate</unittitle>
           </did>
         </c02>
@@ -134,38 +134,38 @@ Gorman Family Papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [91542942928274399]">1</container>
               <unittitle>Mortuary records</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [91542942928274399]">1</container>
               <unittitle>School papers</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [91542942928274399]">1</container>
               <unittitle>Tuition receipts (also includes Nellie Bingham Gorman's)</unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [91542942928274399]">1</container>
             <unittitle>Announcements, invitations, programs</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [91542942928274399]">1</container>
             <unittitle>Newspaper clippings</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [91542942928274399]">1</container>
             <unittitle>
               <genreform normal="Photographs">Photographs</genreform>
             </unittitle>

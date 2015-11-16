@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Detroit, Mackinac &amp; Marquette Land Company <lb/>records, 1879-1919</titleproper>
       <author>Finding aid created by <lb/>Michigan Historical Collections staff</author>
     </titlepage>
@@ -81,16 +81,16 @@ Detroit, Mackinac &amp; Marquette Land Company records, Bentley Historical Libra
         <head>Subjects:</head>
         <corpname source="lcnaf" encodinganalog="610">Detroit, Mackinac &amp; Marquette Land Company.</corpname>
         <corpname source="lcnaf" encodinganalog="610">Detroit, Mackinac &amp; Marquette Railroad Company.</corpname>
-        <subject source="lcsh" encodinganalog="650">Forests and forestry--Michigan--Upper Peninsula.</subject>
-        <subject source="lcsh" encodinganalog="650">Land use--Michigan--Upper Peninsula.</subject>
-        <subject source="lcsh" encodinganalog="650">Railroad land grants--Michigan--Upper Peninsula.</subject>
-        <subject source="lcsh" encodinganalog="650">Railroads--Michigan--Upper Peninsula.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7251">Forests and forestry--Michigan--Upper Peninsula.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7252">Land use--Michigan--Upper Peninsula.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7253">Railroad land grants--Michigan--Upper Peninsula.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7254">Railroads--Michigan--Upper Peninsula.</subject>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
       <c01 level="series">
         <did>
-          <container type="volume" label="Oversize Volume">1</container>
+          <container type="volume" label="Oversize Volume [788355641212174855266]">1</container>
           <unittitle>Timber Survey <unitdate type="inclusive" normal="1890/1919">1890-1919</unitdate></unittitle>
         </did>
         <scopecontent>
@@ -259,7 +259,7 @@ Detroit, Mackinac &amp; Marquette Land Company records, Bentley Historical Libra
       </c01>
       <c01 level="series">
         <did>
-          <container type="volume" label="Oversize Volume">2</container>
+          <container type="volume" label="Oversize Volume [7895972384780411320059]">2</container>
           <unittitle>Applications</unittitle>
         </did>
         <scopecontent>
@@ -308,7 +308,7 @@ Detroit, Mackinac &amp; Marquette Land Company records, Bentley Historical Libra
       </c01>
       <c01 level="series">
         <did>
-          <container type="volume" label="Oversize Volume">3</container>
+          <container type="volume" label="Oversize Volume [6479847024389500112921]">3</container>
           <unittitle>Tax Books <unitdate type="inclusive" normal="1898/1915">1898-1915</unitdate></unittitle>
         </did>
         <scopecontent>

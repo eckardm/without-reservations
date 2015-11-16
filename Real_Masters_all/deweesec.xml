@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Carroll DeWeese digital map collection, 1838-1926</titleproper>
       <author>Finding aid created by <lb/>Carroll DeWeese, revised by Leon Coombs, 2010</author>
     </titlepage>
@@ -81,11 +81,11 @@ Carroll DeWeese digital map collection, Bentley Historical Library, University o
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <geogname source="lcsh" encodinganalog="651">Detroit (Mich.)--Maps.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1701">Detroit (Mich.)--Maps.</geogname>
         <persname source="lcnaf" encodinganalog="600">DeWeese, Carroll.</persname>
-        <geogname source="lcsh" encodinganalog="651">Livingston County (Mich.)--Maps.</geogname>
-        <geogname source="lcsh" encodinganalog="651">Michigan--Maps.</geogname>
-        <geogname source="lcsh" encodinganalog="651">Resder, Jerome &amp; Duffield's Subdivision (Detroit, Mich.)--Maps.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1702">Livingston County (Mich.)--Maps.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1703">Michigan--Maps.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1704">Resder, Jerome &amp; Duffield's Subdivision (Detroit, Mich.)--Maps.</geogname>
       </controlaccess>
       <controlaccess>
         <head>Contributors:</head>
@@ -101,7 +101,7 @@ Carroll DeWeese digital map collection, Bentley Historical Library, University o
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="DVD Box">7</container>
+            <container type="box" label="DVD Box [8258194174334491581010]">7</container>
             <unittitle>1857 Oakland Map</unittitle>
           </did>
           <scopecontent>

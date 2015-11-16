@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Shaw Family (Adrian, Mich.) papers, 1840-1938</titleproper>
       <author>Finding aid created by <lb/>Michigan Historical Collections staff</author>
     </titlepage>
@@ -88,33 +88,33 @@ Shaw Family (Adrian, Mich.) papers, Bentley Historical Library, University of Mi
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n83163898.html">Adrian (Mich.)</geogname>
-        <subject source="lcsh" encodinganalog="650">Dentistry--Michigan.</subject>
-        <subject source="lcsh" encodinganalog="650">Homeopathy--Michigan.</subject>
-        <geogname source="lcsh" encodinganalog="651">Kansas.</geogname>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n81018695.html">Lenawee County (Mich.)</geogname>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n83163898.html" ref="/subjects/977">Adrian (Mich.)</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7203">Dentistry--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/8210">Homeopathy--Michigan.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/918">Kansas.</geogname>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n81018695.html" ref="/subjects/1311">Lenawee County (Mich.)</geogname>
         <corpname source="lcnaf" encodinganalog="610">Michigan. Legislature (25th : 1869-1870)</corpname>
         <corpname source="lcnaf" encodinganalog="610">Michigan. Legislature (31st : 1881-1882)</corpname>
         <corpname source="lcnaf" encodinganalog="610">Michigan. Legislature (32nd : 1883)</corpname>
-        <geogname source="local" encodinganalog="691">Michigan--Politics and government--1866-1876.</geogname>
-        <geogname source="local" encodinganalog="691">Michigan--Politics and government--1877-1898.</geogname>
-        <subject source="lcsh" encodinganalog="650">Missionaries.</subject>
+        <geogname source="local" encodinganalog="691" ref="/subjects/804">Michigan--Politics and government--1866-1876.</geogname>
+        <geogname source="local" encodinganalog="691" ref="/subjects/805">Michigan--Politics and government--1877-1898.</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6352">Missionaries.</subject>
         <corpname source="lcnaf" encodinganalog="610">Presbyterian Church--Michigan.</corpname>
-        <subject source="lcsh" encodinganalog="650">Prisons--Michigan.</subject>
-        <subject source="lcsh" encodinganalog="650">Prohibition--Michigan.</subject>
-        <subject source="lcsh" encodinganalog="650">Railroads--Michigan.</subject>
-        <subject source="lcsh" encodinganalog="650">Reformatories--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5755">Prisons--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6499">Prohibition--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6680">Railroads--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/10033">Reformatories--Michigan.</subject>
         <corpname source="lcnaf" encodinganalog="610">Republican Party (Mich.)</corpname>
-        <subject source="lcsh" encodinganalog="650">Temperance--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6208">Temperance--Michigan.</subject>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n91046457">United States. Army. Indiana Infantry Regiment, 29th (1861-1865)</corpname>
-        <geogname source="lcsh" encodinganalog="651">United States--History--Civil War, 1861-1865.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/909">United States--History--Civil War, 1861-1865.</geogname>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/no2008116613">Begole, Josiah Williams, 1815-1896.</persname>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/nr90009135">Chandler, Zachariah, 1813-1879.</persname>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n80061185">Eakins, Thomas, 1844-1916.</persname>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n91070136">Palmer, Thomas Witherell, 1830-1913.</persname>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n79032293">Whistler, James McNeill, 1834-1903.</persname>
-        <geogname source="lcsh" encodinganalog="651">Michigan--Politics and government--1837-1950.</geogname>
-        <subject source="lcsh" encodinganalog="650">Women--Michigan--Adrian.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/884">Michigan--Politics and government--1837-1950.</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/9832">Women--Michigan--Adrian.</subject>
       </controlaccess>
       <controlaccess>
         <head>Contributors:</head>
@@ -135,7 +135,7 @@ Shaw Family (Adrian, Mich.) papers, Bentley Historical Library, University of Mi
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [9300549324374085]">1</container>
             <unittitle>
               <unitdate type="inclusive">Undated</unitdate>
               <unitdate type="inclusive" normal="1840/1859" certainty="approximate">1840s-1859</unitdate>
@@ -144,19 +144,19 @@ Shaw Family (Adrian, Mich.) papers, Bentley Historical Library, University of Mi
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [9300549324374085]">1</container>
             <unittitle>Miscellaneous and <unitdate type="inclusive">undated</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [9300549324374085]">1</container>
             <unittitle>Letters from Horatio W. Shaw to his brother Brackley Shaw <unitdate type="inclusive" normal="1845/1848">1845-1848</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [9300549324374085]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1840/1849" certainty="approximate">1840s</unitdate>
             </unittitle>
@@ -164,7 +164,7 @@ Shaw Family (Adrian, Mich.) papers, Bentley Historical Library, University of Mi
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [9300549324374085]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1850/1859">1850-1859</unitdate>
             </unittitle>
@@ -172,7 +172,7 @@ Shaw Family (Adrian, Mich.) papers, Bentley Historical Library, University of Mi
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [9300549324374085]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1861/1862">1861-1862</unitdate>
             </unittitle>
@@ -180,7 +180,7 @@ Shaw Family (Adrian, Mich.) papers, Bentley Historical Library, University of Mi
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [9300549324374085]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1863">1863</unitdate>
             </unittitle>
@@ -188,7 +188,7 @@ Shaw Family (Adrian, Mich.) papers, Bentley Historical Library, University of Mi
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [9300549324374085]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1864">1864</unitdate>
             </unittitle>
@@ -196,7 +196,7 @@ Shaw Family (Adrian, Mich.) papers, Bentley Historical Library, University of Mi
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [9300549324374085]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1865">1865</unitdate>
             </unittitle>
@@ -204,7 +204,7 @@ Shaw Family (Adrian, Mich.) papers, Bentley Historical Library, University of Mi
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [9300549324374085]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1866">1866</unitdate>
             </unittitle>
@@ -212,7 +212,7 @@ Shaw Family (Adrian, Mich.) papers, Bentley Historical Library, University of Mi
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [9300549324374085]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1867">1867</unitdate>
             </unittitle>
@@ -220,7 +220,7 @@ Shaw Family (Adrian, Mich.) papers, Bentley Historical Library, University of Mi
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [9300549324374085]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1868">1868</unitdate>
             </unittitle>
@@ -228,7 +228,7 @@ Shaw Family (Adrian, Mich.) papers, Bentley Historical Library, University of Mi
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [9300549324374085]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1869">1869</unitdate>
             </unittitle>
@@ -236,7 +236,7 @@ Shaw Family (Adrian, Mich.) papers, Bentley Historical Library, University of Mi
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [9300549324374085]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1870">1870</unitdate>
             </unittitle>
@@ -244,7 +244,7 @@ Shaw Family (Adrian, Mich.) papers, Bentley Historical Library, University of Mi
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [9300549324374085]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1871">1871</unitdate>
             </unittitle>
@@ -252,7 +252,7 @@ Shaw Family (Adrian, Mich.) papers, Bentley Historical Library, University of Mi
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [9300549324374085]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1872">1872</unitdate>
             </unittitle>
@@ -260,7 +260,7 @@ Shaw Family (Adrian, Mich.) papers, Bentley Historical Library, University of Mi
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [9300549324374085]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1873">1873</unitdate>
             </unittitle>
@@ -268,7 +268,7 @@ Shaw Family (Adrian, Mich.) papers, Bentley Historical Library, University of Mi
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [9300549324374085]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1874">1874</unitdate>
             </unittitle>
@@ -276,7 +276,7 @@ Shaw Family (Adrian, Mich.) papers, Bentley Historical Library, University of Mi
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [9300549324374085]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1875/1876">1875-1876</unitdate>
             </unittitle>
@@ -284,7 +284,7 @@ Shaw Family (Adrian, Mich.) papers, Bentley Historical Library, University of Mi
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [9300549324374085]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1877/1879">1877-1879</unitdate>
             </unittitle>
@@ -292,7 +292,7 @@ Shaw Family (Adrian, Mich.) papers, Bentley Historical Library, University of Mi
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [9300549324374085]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1880-01/1880-10">January-October 1880</unitdate>
             </unittitle>
@@ -300,7 +300,7 @@ Shaw Family (Adrian, Mich.) papers, Bentley Historical Library, University of Mi
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [9300549324374085]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1880-11/1880-12">November-December 1880</unitdate>
             </unittitle>
@@ -308,7 +308,7 @@ Shaw Family (Adrian, Mich.) papers, Bentley Historical Library, University of Mi
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [9300549324374085]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1881-01/1881-02">January-February 1881</unitdate>
             </unittitle>
@@ -316,7 +316,7 @@ Shaw Family (Adrian, Mich.) papers, Bentley Historical Library, University of Mi
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [9300549324374085]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1881-03">March 1881</unitdate>
             </unittitle>
@@ -324,7 +324,7 @@ Shaw Family (Adrian, Mich.) papers, Bentley Historical Library, University of Mi
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [9300549324374085]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1881-04/1881-06">April-June 1881</unitdate>
             </unittitle>
@@ -332,7 +332,7 @@ Shaw Family (Adrian, Mich.) papers, Bentley Historical Library, University of Mi
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [9300549324374085]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1881-07/1881-12">July-December 1881</unitdate>
             </unittitle>
@@ -340,7 +340,7 @@ Shaw Family (Adrian, Mich.) papers, Bentley Historical Library, University of Mi
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [9300549324374085]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1882-01/1882-02">January-February 1882</unitdate>
             </unittitle>
@@ -348,7 +348,7 @@ Shaw Family (Adrian, Mich.) papers, Bentley Historical Library, University of Mi
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [9300549324374085]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1882-03/1882-10">March-October 1882</unitdate>
             </unittitle>
@@ -356,7 +356,7 @@ Shaw Family (Adrian, Mich.) papers, Bentley Historical Library, University of Mi
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [9300549324374085]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1882-11/1882-12">November-December 1882</unitdate>
             </unittitle>
@@ -364,7 +364,7 @@ Shaw Family (Adrian, Mich.) papers, Bentley Historical Library, University of Mi
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [9300549324374085]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1883-01-01/1883-01-15">January 1-15, 1883</unitdate>
             </unittitle>
@@ -372,7 +372,7 @@ Shaw Family (Adrian, Mich.) papers, Bentley Historical Library, University of Mi
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [9300549324374085]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1883-01-16/1883-01-31">January 16-31, 1883</unitdate>
             </unittitle>
@@ -380,7 +380,7 @@ Shaw Family (Adrian, Mich.) papers, Bentley Historical Library, University of Mi
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [9300549324374085]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1883-02">February 1883</unitdate>
             </unittitle>
@@ -388,7 +388,7 @@ Shaw Family (Adrian, Mich.) papers, Bentley Historical Library, University of Mi
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [9300549324374085]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1883-03">March 1883</unitdate>
             </unittitle>
@@ -396,7 +396,7 @@ Shaw Family (Adrian, Mich.) papers, Bentley Historical Library, University of Mi
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [9300549324374085]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1883-04">April 1883</unitdate>
             </unittitle>
@@ -404,7 +404,7 @@ Shaw Family (Adrian, Mich.) papers, Bentley Historical Library, University of Mi
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [9300549324374085]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1883-05">May, 1883</unitdate>
             </unittitle>
@@ -412,7 +412,7 @@ Shaw Family (Adrian, Mich.) papers, Bentley Historical Library, University of Mi
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [9300549324374085]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1883-06/1883-12">June-December 1883</unitdate>
             </unittitle>
@@ -420,7 +420,7 @@ Shaw Family (Adrian, Mich.) papers, Bentley Historical Library, University of Mi
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [9300549324374085]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1884">1884</unitdate>
             </unittitle>
@@ -428,7 +428,7 @@ Shaw Family (Adrian, Mich.) papers, Bentley Historical Library, University of Mi
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [9300549324374085]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1885">1885</unitdate>
             </unittitle>
@@ -436,7 +436,7 @@ Shaw Family (Adrian, Mich.) papers, Bentley Historical Library, University of Mi
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [9300549324374085]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1886/1890">1886-1890</unitdate>
             </unittitle>
@@ -444,7 +444,7 @@ Shaw Family (Adrian, Mich.) papers, Bentley Historical Library, University of Mi
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [9300549324374085]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1891/1900">1891-1900</unitdate>
             </unittitle>
@@ -452,7 +452,7 @@ Shaw Family (Adrian, Mich.) papers, Bentley Historical Library, University of Mi
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [9300549324374085]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1901/1911">1901-1911</unitdate>
             </unittitle>
@@ -460,7 +460,7 @@ Shaw Family (Adrian, Mich.) papers, Bentley Historical Library, University of Mi
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [9300549324374085]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1935/1938">1935-1938</unitdate>
             </unittitle>

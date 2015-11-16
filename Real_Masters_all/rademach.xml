@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Paul Rademacher diary, 1918-1919.</titleproper>
       <author>Finding aid created by <lb/>Len Coombs, 2013</author>
     </titlepage>
@@ -83,7 +83,7 @@
       <controlaccess>
         <head>Subjects:</head>
         <persname source="lcnaf" encodinganalog="600">Rademacher, Paul.</persname>
-        <geogname source="lcnaf" encodinganalog="651.">Soviet Union--History--Allied intervention, 1918-1920.</geogname>
+        <geogname source="lcnaf" encodinganalog="651." ref="/subjects/760">Soviet Union--History--Allied intervention, 1918-1920.</geogname>
         <corpname encodinganalog="690" source="lcnaf" authfilenumber="http://id.loc.gov/authorities/names/n2008059426">Polar Bear Expedition.</corpname>
         <corpname source="lcnaf" encodinganalog="610">United States. Army. Engineer Regiment, 310th.</corpname>
       </controlaccess>
@@ -95,14 +95,14 @@
         </did>
         <c02 level="file">
           <did>
-            <container type="folder" label="Folder">1</container>
+            <container type="folder" label="Folder [8570438070648]">1</container>
             <unittitle>Diary, <unitdate normal="1918/1919" type="inclusive">1918-1919</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
             <unittitle>Diary, <unitdate normal="1918/1919" type="inclusive">1918-1919</unitdate> (online transcription)</unittitle>
-            <dao href="rademachepr-1" show="new" actuate="onrequest">
+            <dao href="rademachepr-1" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/8539">
               <daodesc>
                 <p>[View transcript]</p>
               </daodesc>

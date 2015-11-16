@@ -26,7 +26,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Bird Family Papers, 1835-1914</titleproper>
       <author>Finding aid created by <lb/>Michigan Historical Collections staff, 1981</author>
     </titlepage>
@@ -70,11 +70,11 @@ Bird Family Papers, Bentley Historical Library, University of Michigan</p>
       <controlaccess>
         <head>Subjects:</head>
         <corpname source="lcnaf" encodinganalog="610">Bird General Store (Clayton, Mich.)</corpname>
-        <geogname source="lcsh" encodinganalog="651">Clayton (Mich.)</geogname>
-        <subject source="lcsh" encodinganalog="650">Freemasonry--Michigan.</subject>
-        <subject source="lcsh" encodinganalog="650">General stores--Michigan--Clayton.</subject>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n81018695.html">Lenawee County (Mich.)</geogname>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n81074440.html">Trenton (Mich.)</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1310">Clayton (Mich.)</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6061">Freemasonry--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6334">General stores--Michigan--Clayton.</subject>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n81018695.html" ref="/subjects/1311">Lenawee County (Mich.)</geogname>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n81074440.html" ref="/subjects/1244">Trenton (Mich.)</geogname>
       </controlaccess>
       <controlaccess>
         <head>Contributors:</head>
@@ -84,8 +84,8 @@ Bird Family Papers, Bentley Historical Library, University of Michigan</p>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Scrapbooks.</genreform>
-        <genreform source="aat" encodinganalog="655">Diaries.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3139">Scrapbooks.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3150">Diaries.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -95,7 +95,7 @@ Bird Family Papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [1540970439898381328]">1</container>
             <unittitle>Papers <unitdate type="inclusive" normal="1837/1857">1837-1857</unitdate></unittitle>
           </did>
           <odd>
@@ -113,7 +113,7 @@ Bird Family Papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [1540970439898381328]">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1835/1853">1835-1853</unitdate>
                 <unitdate type="inclusive" normal="1861">1861</unitdate>
@@ -122,7 +122,7 @@ Bird Family Papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [1540970439898381328]">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1872/1874">1872-1874</unitdate>
               </unittitle>
@@ -130,7 +130,7 @@ Bird Family Papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [1540970439898381328]">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1875/1880">1875-1880</unitdate>
               </unittitle>
@@ -138,7 +138,7 @@ Bird Family Papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [1540970439898381328]">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1881/1882">1881-1882</unitdate>
               </unittitle>
@@ -147,25 +147,25 @@ Bird Family Papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [1540970439898381328]">1</container>
             <unittitle>Legal materials concerning seizure of a horse owned by Bird <unitdate type="inclusive" normal="1872">1872</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [1540970439898381328]">1</container>
             <unittitle>Account book <unitdate type="inclusive" normal="1870/1873">1870-1873</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [1540970439898381328]">1</container>
             <unittitle>Business cards and advertisements</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [1540970439898381328]">1</container>
             <unittitle>Miscellaneous (including newspaper obituary)</unittitle>
           </did>
         </c02>
@@ -179,7 +179,7 @@ Bird Family Papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [1540970439898381328]">1</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1836/1843">1836-1843</unitdate>
                 </unittitle>
@@ -187,7 +187,7 @@ Bird Family Papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [1540970439898381328]">1</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1844/1845">1844-1845</unitdate>
                 </unittitle>
@@ -195,7 +195,7 @@ Bird Family Papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [1540970439898381328]">1</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1848/1853">1848-1853</unitdate>
                 </unittitle>
@@ -203,7 +203,7 @@ Bird Family Papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [1540970439898381328]">1</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1850/1860">1850-1860</unitdate>
                 </unittitle>
@@ -211,7 +211,7 @@ Bird Family Papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [1540970439898381328]">1</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1869/1873">1869-1873</unitdate>
                 </unittitle>
@@ -220,7 +220,7 @@ Bird Family Papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [1540970439898381328]">1</container>
               <unittitle>Cash book <unitdate type="inclusive" normal="1866/1870">1866-1870</unitdate></unittitle>
             </did>
             <odd>
@@ -229,13 +229,13 @@ Bird Family Papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [1540970439898381328]">1</container>
               <unittitle>Plats for Clayton, Mich., ca. <unitdate type="inclusive" normal="1838">1838</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [1540970439898381328]">1</container>
               <unittitle>Tax assessment roll for Hudson Township, Lenawee County <unitdate type="inclusive" normal="1840">1840</unitdate></unittitle>
             </did>
           </c03>
@@ -247,7 +247,7 @@ Bird Family Papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [1540970439898381328]">1</container>
             <unittitle><genreform normal="Diaries">Diary</genreform>, January-February 1872 and account book, 1874-1877</unittitle>
             <unitdate type="inclusive" normal="1872-01/1872-02">January-February 1872</unitdate>
             <unitdate type="inclusive" normal="1874/1877">1874-1877</unitdate>
@@ -255,7 +255,7 @@ Bird Family Papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [1540970439898381328]">1</container>
             <unittitle><genreform normal="Scrapbooks">Scrapbook</genreform> containing obituaries of family and friends, ca. <unitdate type="inclusive" normal="1876/1914">1876-1914</unitdate></unittitle>
           </did>
         </c02>
@@ -266,7 +266,7 @@ Bird Family Papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [1540970439898381328]">1</container>
             <unittitle>Receipts, mortgages, notes, etc.</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">4 folders</extent>
@@ -275,7 +275,7 @@ Bird Family Papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [1540970439898381328]">1</container>
             <unittitle>Anti-Masonic printed material</unittitle>
           </did>
         </c02>

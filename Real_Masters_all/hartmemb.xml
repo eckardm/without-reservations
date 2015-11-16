@@ -46,7 +46,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding Aid for <lb/>Hartford Memorial Baptist Church, Detroit, Mich. <lb/>Records, <date type="inclusive">1922-2011</date></titleproper>
       <author>Finding aid prepared by: <lb/>Anne Frantilla</author>
     </titlepage>
@@ -99,15 +99,15 @@
       <controlaccess>
         <head>Subjects:</head>
         <corpname source="lcnaf" encodinganalog="610">Hartford Memorial Baptist Church (Detroit, Mich.)</corpname>
-        <subject source="lcsh" encodinganalog="650">African American churches--Michigan--Detroit.</subject>
-        <subject source="lcsh" encodinganalog="650">African Americans--Michigan--Detroit.</subject>
-        <subject source="lcsh" encodinganalog="650">Baptists, Black--Michigan--Detroit.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6290">African American churches--Michigan--Detroit.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5910">African Americans--Michigan--Detroit.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7858">Baptists, Black--Michigan--Detroit.</subject>
         <persname source="lcnaf" encodinganalog="600">Hill, Charles A. (Charles Andrew), 1893-1970.</persname>
         <persname source="lcnaf" encodinganalog="600">Adams, Charles G. (Charles Gilchrist), 1936-</persname>
       </controlaccess>
       <controlaccess>
         <head>Genre/Form:</head>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -120,7 +120,7 @@
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [28872747366671905]">1</container>
             <unittitle>Annual Reports</unittitle>
             <unitdate type="inclusive" normal="1959">1959</unitdate>
             <unitdate type="inclusive" normal="1977/1980">1977-1980</unitdate>
@@ -129,7 +129,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [28872747366671905]">1</container>
             <unittitle>Constitution and bylaws</unittitle>
             <unitdate type="inclusive" normal="1967">1967</unitdate>
             <unitdate type="inclusive">undated</unitdate>
@@ -137,13 +137,13 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [28872747366671905]">1</container>
             <unittitle>Deacon Board Manual <unitdate type="inclusive" normal="1986">1986</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [28872747366671905]">1</container>
             <unittitle>Diaconate annual report <unitdate type="inclusive" normal="1999">1999</unitdate></unittitle>
           </did>
         </c02>
@@ -153,7 +153,7 @@
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [28872747366671905]">1</container>
               <unittitle>Ledger <unitdate type="inclusive" normal="1922/1929">1922-1929</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -165,25 +165,25 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [28872747366671905]">1</container>
               <unittitle>Ledger <unitdate type="inclusive" normal="1929/1936">1929-1936</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [28872747366671905]">1</container>
               <unittitle>Mortgages <unitdate type="inclusive" normal="1923/1940">1923-1940 (scattered dates)</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [28872747366671905]">1</container>
               <unittitle>Reports and Miscellaneous <unitdate type="inclusive" normal="1922/1929">1922-1929</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [28872747366671905]">1</container>
               <unittitle>Hartford Economic Development Corporation Financial Statements <unitdate type="inclusive" normal="1986/1987">1986-1987</unitdate></unittitle>
             </did>
           </c03>
@@ -194,7 +194,7 @@
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [28872747366671905]">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1968/1975">1968-1975</unitdate>
               </unittitle>
@@ -202,7 +202,7 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [28872747366671905]">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1976/1995">1976-1995 (scattered dates)</unitdate>
               </unittitle>
@@ -211,49 +211,49 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [28872747366671905]">1</container>
             <unittitle>Membership Directory <unitdate type="inclusive" normal="1976">1976</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [28872747366671905]">1</container>
             <unittitle>Membership Register and Church Records <unitdate type="inclusive" normal="1970/1971">1970-1971</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [28872747366671905]">1</container>
             <unittitle>Name Change <unitdate type="inclusive" normal="1981/1982">1981-1982</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [28872747366671905]">1</container>
             <unittitle>New Member Information <unitdate type="inclusive">undated</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [28872747366671905]">1</container>
             <unittitle>Officers (Officiary) <unitdate type="inclusive" normal="1976/1999">1976-1999 (scattered)</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [28872747366671905]">1</container>
             <unittitle>Personnel Policy manual <unitdate type="inclusive" normal="1985">1985</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [28872747366671905]">1</container>
             <unittitle>Policies and Guidelines <unitdate type="inclusive" normal="1970/1987">1970-1987 (scattered dates)</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [28872747366671905]">1</container>
             <unittitle>Guidelines for Church Leaders</unittitle>
             <unitdate type="inclusive" normal="1976">1976</unitdate>
             <unitdate type="inclusive" normal="1990">1990</unitdate>
@@ -262,7 +262,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [28872747366671905]">1</container>
             <unittitle>Other Policies</unittitle>
             <unitdate type="inclusive" normal="1986/1987">1986-1987</unitdate>
             <unitdate type="inclusive">undated</unitdate>
@@ -270,7 +270,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [28872747366671905]">1</container>
             <unittitle>Trustee Minutes <unitdate type="inclusive" normal="1966/1972">1966-1972</unitdate></unittitle>
           </did>
         </c02>
@@ -284,13 +284,13 @@
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [28872747366671905]">1</container>
             <unittitle>Birthmonth Clubs <unitdate type="inclusive" normal="1970/1996">1970-1996 (scattered dates)</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [28872747366671905]">1</container>
             <unittitle>Building Administration Committee, (includes floor plans)</unittitle>
             <unitdate type="inclusive" normal="1991">1991</unitdate>
             <unitdate type="inclusive" normal="1994">1994</unitdate>
@@ -299,31 +299,31 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [28872747366671905]">1</container>
             <unittitle>Children's Church <unitdate type="inclusive" normal="1999">1999</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [28872747366671905]">1</container>
             <unittitle>Endowment Fund Committee <unitdate type="inclusive" normal="1991">1991</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [28872747366671905]">1</container>
             <unittitle>Food Services Committee <unitdate type="inclusive" normal="1991">1991</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [28872747366671905]">1</container>
             <unittitle>Hartford Agape House <unitdate type="inclusive" normal="1989/1999">1989-1999 (scattered)</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [28872747366671905]">1</container>
             <unittitle>Hartford Institute of Biblical Studies <unitdate type="inclusive" normal="1988/1993">1988-1993</unitdate></unittitle>
           </did>
         </c02>
@@ -333,13 +333,13 @@
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [8306294170887507854]">2</container>
               <unittitle>General <unitdate type="inclusive" normal="1978/1996">1978-1996 (scattered dates)</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [8306294170887507854]">2</container>
               <unittitle>Mentoring Program <unitdate type="inclusive" normal="1996">1996</unitdate></unittitle>
             </did>
           </c03>
@@ -350,32 +350,32 @@
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [8306294170887507854]">2</container>
               <unittitle>Minutes <unitdate type="inclusive" normal="1979/1981">1979-1981</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [8306294170887507854]">2</container>
               <unittitle>Other <unitdate type="inclusive" normal="1978/1996">1978-1996 (scattered dates)</unitdate></unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [8306294170887507854]">2</container>
             <unittitle>Head Start <unitdate type="inclusive" normal="1971/1978">1971-1978</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [8306294170887507854]">2</container>
             <unittitle>Histories of Church Organizations <unitdate type="inclusive" normal="1945/1995">1945-1995 (scattered dates)</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [8306294170887507854]">2</container>
             <unittitle>Kentake and KAFO Academies <unitdate type="inclusive">undated</unitdate></unittitle>
           </did>
         </c02>
@@ -385,13 +385,13 @@
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [8306294170887507854]">2</container>
               <unittitle>General <unitdate type="inclusive" normal="1982/1986">1982-1986</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [8306294170887507854]">2</container>
               <unittitle>Concert Programs <unitdate type="inclusive" normal="1979/1995">1979-1995 (scattered dates)</unitdate></unittitle>
             </did>
             <odd>
@@ -400,7 +400,7 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [8306294170887507854]">2</container>
               <unittitle>Senior Choir; Inspirational Chorus <unitdate type="inclusive" normal="1952/1963">1952-1963</unitdate></unittitle>
             </did>
           </c03>
@@ -415,13 +415,13 @@
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [8306294170887507854]">2</container>
             <unittitle>American African Events <unitdate type="inclusive" normal="1980/1994">1980-1994 (scattered dates)</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [8306294170887507854]">2</container>
             <unittitle>Anniversary Celebrations <unitdate type="inclusive" normal="1963/2002">1963-2002 (scattered dates)</unitdate></unittitle>
           </did>
           <odd>
@@ -430,7 +430,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [8306294170887507854]">2</container>
             <unittitle>Calendar of Activities</unittitle>
             <unitdate type="inclusive" normal="1985">1985</unitdate>
             <unitdate type="inclusive" normal="1993">1993</unitdate>
@@ -438,19 +438,19 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [8306294170887507854]">2</container>
             <unittitle>Christian Debutante Pageant <unitdate type="inclusive" normal="1980">1980</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [8306294170887507854]">2</container>
             <unittitle>Cornerstone Laying <unitdate type="inclusive" normal="1945-04-01">April 1, 1945</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [8306294170887507854]">2</container>
             <unittitle>Drama Group Presentations</unittitle>
             <unitdate type="inclusive" normal="1985">1985</unitdate>
             <unitdate type="inclusive" normal="1995">1995</unitdate>
@@ -458,37 +458,37 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [8306294170887507854]">2</container>
             <unittitle>Economic Awareness and Empowerment Day <unitdate type="inclusive" normal="1984">1984</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [8306294170887507854]">2</container>
             <unittitle>Harambee Fellowship Dinner <unitdate type="inclusive" normal="1994/1995">1994-1995</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [8306294170887507854]">2</container>
             <unittitle>Martin Luther King, Jr. Memorial Birthday Celebration <unitdate type="inclusive" normal="1985">1985</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [8306294170887507854]">2</container>
             <unittitle>Religious Freedom Celebration <unitdate type="inclusive" normal="1993">1993</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [8306294170887507854]">2</container>
             <unittitle>Welcome Dinners <unitdate type="inclusive" normal="1991">1991</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [8306294170887507854]">2</container>
             <unittitle>Other Events</unittitle>
           </did>
         </c02>
@@ -502,13 +502,13 @@
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [8306294170887507854]">2</container>
             <unittitle>Lenten and Easter Services <unitdate type="inclusive" normal="1977/1998">1977-1998 (scattered dates)</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [8306294170887507854]">2</container>
             <unittitle>Revivals</unittitle>
             <unitdate type="inclusive" normal="1990">1990</unitdate>
             <unitdate type="inclusive" normal="1996">1996</unitdate>
@@ -516,13 +516,13 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [8306294170887507854]">2</container>
             <unittitle>Saturday Services <unitdate type="inclusive" normal="1996">1996</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [8306294170887507854]">2</container>
             <unittitle>Special Services <unitdate type="inclusive" normal="1980/1998">1980-1998 (scattered dates)</unitdate></unittitle>
           </did>
         </c02>
@@ -540,13 +540,13 @@
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [8306294170887507854]">2</container>
               <unittitle>Biographical Material and Other <unitdate type="inclusive" normal="1985/1998">1985-1998</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [8306294170887507854]">2</container>
               <unittitle>Speeches and Writings <unitdate type="inclusive" normal="1965/1985">1965-1985 (scattered dates)</unitdate></unittitle>
             </did>
             <odd>
@@ -555,26 +555,26 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [8306294170887507854]">2</container>
               <unittitle>Programs from services where Adams was the speaker</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [8306294170887507854]">2</container>
               <unittitle>50th Year Ministry Celebration <unitdate type="inclusive" normal="2004">2004</unitdate></unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [887646435365712509]">3</container>
             <unittitle>Hill, Charles A. (Biographical Material, 1945)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [887646435365712509]">3</container>
             <unittitle>Histories</unittitle>
             <unitdate type="inclusive" normal="1977">1977</unitdate>
             <unitdate type="inclusive">undated</unitdate>
@@ -586,26 +586,26 @@
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [887646435365712509]">3</container>
               <unittitle>General <unitdate type="inclusive" normal="1997/1998">1997-1998</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [887646435365712509]">3</container>
               <unittitle>Detroit Planning Commission Meeting on Re-Zoning Area for Super K-Mart <unitdate type="inclusive" normal="1997">1997</unitdate></unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [887646435365712509]">3</container>
             <unittitle>Memorials <unitdate type="inclusive" normal="1952">1952</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [887646435365712509]">3</container>
             <unittitle>Pioneers of Church</unittitle>
           </did>
         </c02>
@@ -623,13 +623,13 @@
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [887646435365712509]">3</container>
               <unittitle>Birthday and Wedding Anniversary Calendar</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [887646435365712509]">3</container>
               <unittitle>
                 <title render="italic">Griot</title>
               </unittitle>
@@ -640,13 +640,13 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [887646435365712509]">3</container>
               <unittitle>Hartford Business Association Directories <unitdate type="inclusive" normal="1985/2001">1985-2001 (scattered dates)</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [887646435365712509]">3</container>
               <unittitle>Souvenir Bulletins <unitdate type="inclusive" normal="1962/1998">1962-1998 (scattered dates)</unitdate></unittitle>
             </did>
           </c03>
@@ -660,7 +660,7 @@
           </odd>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [887646435365712509]">3</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1929/1971">1929-1971</unitdate>
               </unittitle>
@@ -668,7 +668,7 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [52149153508713]">4</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1972/1977">1972-1977</unitdate>
               </unittitle>
@@ -676,7 +676,7 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [499795428880079703569]">5</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1978">1978</unitdate>
                 <unitdate type="inclusive" normal="1982/1986">1982-1986</unitdate>
@@ -685,7 +685,7 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [6853547229821509]">6</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1987/1991">1987-1991</unitdate>
               </unittitle>
@@ -693,7 +693,7 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">7</container>
+              <container type="box" label="Box [6852549127794712193438]">7</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1992/1994">1992-1994</unitdate>
               </unittitle>
@@ -701,7 +701,7 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">8</container>
+              <container type="box" label="Box [3260312246910523007133500]">8</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1995/1997">1995-1997</unitdate>
               </unittitle>
@@ -709,7 +709,7 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">9</container>
+              <container type="box" label="Box [696920342579665195295]">9</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1998/2000-03">1998-March 2000</unitdate>
               </unittitle>
@@ -717,7 +717,7 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">15</container>
+              <container type="box" label="Box [5296143842826670511]">15</container>
               <unittitle>
                 <unitdate type="inclusive" normal="2000-04/2002">April 2000-2002</unitdate>
               </unittitle>
@@ -725,7 +725,7 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">16</container>
+              <container type="box" label="Box [75392078584993112652891]">16</container>
               <unittitle>
                 <unitdate type="inclusive" normal="2003/2006">2003-2006</unitdate>
               </unittitle>
@@ -733,7 +733,7 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">18</container>
+              <container type="box" label="Box [0366327842183847]">18</container>
               <unittitle>
                 <unitdate type="inclusive" normal="2007/2008">2007-2008</unitdate>
               </unittitle>
@@ -741,7 +741,7 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">18</container>
+              <container type="box" label="Box [0366327842183847]">18</container>
               <unittitle>
                 <unitdate type="inclusive" normal="2010/2011">2010-2011</unitdate>
               </unittitle>
@@ -754,7 +754,7 @@
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">10</container>
+              <container type="box" label="Box [6933990040888570776154018]">10</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1970/1991">1970-1991 (scattered)</unitdate>
               </unittitle>
@@ -767,7 +767,7 @@
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">11</container>
+              <container type="box" label="Box [15515048885002251534]">11</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1960/1993">1960-1993</unitdate>
               </unittitle>
@@ -775,7 +775,7 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">12</container>
+              <container type="box" label="Box [38076794141123154168874]">12</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1994/2005">1994-2005</unitdate>
               </unittitle>
@@ -783,7 +783,7 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">13</container>
+              <container type="box" label="Box [1191430174489337983259]">13</container>
               <unittitle>
                 <unitdate type="inclusive" normal="2006/2008">2006-2008</unitdate>
               </unittitle>
@@ -796,7 +796,7 @@
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">13</container>
+              <container type="box" label="Box [1191430174489337983259]">13</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1996">1996</unitdate>
                 <unitdate type="inclusive" normal="1999/2008">1999-2008</unitdate>
@@ -817,7 +817,7 @@
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">14</container>
+            <container type="box" label="Box [63596982418799517069666]">14</container>
             <unittitle>New members</unittitle>
             <unitdate type="inclusive" normal="1959/1967">1959-1967</unitdate>
             <unitdate type="inclusive" normal="1978/1979">1978-1979</unitdate>
@@ -828,7 +828,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">14</container>
+            <container type="box" label="Box [63596982418799517069666]">14</container>
             <unittitle>Deaths and funerals <unitdate type="inclusive" normal="1981/1997">1981-1997</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -837,13 +837,13 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">14</container>
+            <container type="box" label="Box [63596982418799517069666]">14</container>
             <unittitle>Letters of transfer <unitdate type="inclusive" normal="1988/1994">1988-1994</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">14</container>
+            <container type="box" label="Box [63596982418799517069666]">14</container>
             <unittitle>Forms and mimeographed mailings <unitdate type="inclusive" normal="1985">1985</unitdate></unittitle>
             <physdesc altrender="part">
               <extent altrender="materialtype spaceoccupied">11 folders</extent>
@@ -855,25 +855,25 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">14</container>
+            <container type="box" label="Box [63596982418799517069666]">14</container>
             <unittitle>Athletic Ministry <unitdate type="inclusive" normal="1999/2001">1999-2001</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">14</container>
+            <container type="box" label="Box [63596982418799517069666]">14</container>
             <unittitle>Autoporium Developments Plans <unitdate type="inclusive" normal="1991">1991</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">14</container>
+            <container type="box" label="Box [63596982418799517069666]">14</container>
             <unittitle>Cotillion Club <unitdate type="inclusive" normal="1973">1973</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">14</container>
+            <container type="box" label="Box [63596982418799517069666]">14</container>
             <unittitle>Hartford Economic Development Corporation proposal <unitdate type="inclusive" normal="1984">1984</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -882,7 +882,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">14</container>
+            <container type="box" label="Box [63596982418799517069666]">14</container>
             <unittitle>Hill family papers <unitdate type="inclusive" normal="2000">2000</unitdate></unittitle>
           </did>
           <odd>
@@ -891,7 +891,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">14</container>
+            <container type="box" label="Box [63596982418799517069666]">14</container>
             <unittitle>Hill family. Funeral and obituary of Bermecia Morrow-McCoy <unitdate type="inclusive" normal="2002">2002</unitdate></unittitle>
           </did>
           <odd>
@@ -900,7 +900,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">17</container>
+            <container type="box" label="Box [35970087448516616798333]">17</container>
             <unittitle>Progressive National Baptist (and Michigan Progressive Baptist) publications</unittitle>
           </did>
           <odd>
@@ -909,13 +909,13 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">17</container>
+            <container type="box" label="Box [35970087448516616798333]">17</container>
             <unittitle>Quilting Sisters Ministry</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">17</container>
+            <container type="box" label="Box [35970087448516616798333]">17</container>
             <unittitle>Record of pledges</unittitle>
             <unitdate type="inclusive" normal="1965">1965</unitdate>
             <unitdate type="inclusive" normal="1976">1976</unitdate>
@@ -924,19 +924,19 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">17</container>
+            <container type="box" label="Box [35970087448516616798333]">17</container>
             <unittitle>Roster and Telephone Book, ca. <unitdate type="inclusive" normal="1973">1973</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">17</container>
+            <container type="box" label="Box [35970087448516616798333]">17</container>
             <unittitle>Senior Citizen Retirement/Shopping Center Village <unitdate type="inclusive" normal="1991">1991</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">17</container>
+            <container type="box" label="Box [35970087448516616798333]">17</container>
             <unittitle>Planners for church events and other scheduling materials</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -945,7 +945,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">17</container>
+            <container type="box" label="Box [35970087448516616798333]">17</container>
             <unittitle>Miscellaneous</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>

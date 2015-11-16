@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Andrew Dickson White papers, 1857-1867 [microform]</titleproper>
       <author>Finding aid created by <lb/>Michigan Historical Collections staff</author>
     </titlepage>
@@ -83,16 +83,16 @@ Andrew Dickson White papers, 1857-1867 [microform], Bentley Historical Library, 
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n79022219.html">Ann Arbor (Mich.)</geogname>
-        <subject source="lcsh" encodinganalog="650">Education--Michigan--Ann Arbor.</subject>
-        <geogname source="lcsh" encodinganalog="651">Europe.</geogname>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n79022219.html" ref="/subjects/860">Ann Arbor (Mich.)</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5679">Education--Michigan--Ann Arbor.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/984">Europe.</geogname>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n90682762">Evans, E. P. (Edward Payson), 1831-1917.</persname>
         <corpname source="lcnaf" encodinganalog="610">Republican Party (Mich.)</corpname>
-        <geogname source="lcsh" encodinganalog="651">Russia.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/3095">Russia.</geogname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n79054636">Stanford University.</corpname>
-        <subject source="lcsh" encodinganalog="650">Voyages and travels.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6009">Voyages and travels.</subject>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n50017038">Tyler, Moses Coit, 1835-1900.</persname>
-        <subject source="lcsh" encodinganalog="650">Universities and colleges--United States.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6244">Universities and colleges--United States.</subject>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n79058404">University of Chicago.</corpname>
       </controlaccess>
       <controlaccess>
@@ -125,7 +125,7 @@ Andrew Dickson White papers, 1857-1867 [microform], Bentley Historical Library, 
         </did>
         <c02 level="file">
           <did>
-            <container type="reel" label="Roll">1</container>
+            <container type="reel" label="Roll [280858074358385339878]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1857-01/1857-11">January 1857-November 1857</unitdate>
             </unittitle>
@@ -133,7 +133,7 @@ Andrew Dickson White papers, 1857-1867 [microform], Bentley Historical Library, 
         </c02>
         <c02 level="file">
           <did>
-            <container type="reel" label="Roll">2</container>
+            <container type="reel" label="Roll [942038468047769851649524]">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1857-12/1860-05">December 1857-May 1860</unitdate>
             </unittitle>
@@ -141,7 +141,7 @@ Andrew Dickson White papers, 1857-1867 [microform], Bentley Historical Library, 
         </c02>
         <c02 level="file">
           <did>
-            <container type="reel" label="Roll">3</container>
+            <container type="reel" label="Roll [500918024992900300]">3</container>
             <unittitle>
               <unitdate type="inclusive" normal="1860-06/1862-10">June 1860-October 1862</unitdate>
             </unittitle>
@@ -149,7 +149,7 @@ Andrew Dickson White papers, 1857-1867 [microform], Bentley Historical Library, 
         </c02>
         <c02 level="file">
           <did>
-            <container type="reel" label="Roll">4</container>
+            <container type="reel" label="Roll [3169019494130506290301]">4</container>
             <unittitle>
               <unitdate type="inclusive" normal="1862-10/1864-03">October 1862-March 1864</unitdate>
             </unittitle>
@@ -157,7 +157,7 @@ Andrew Dickson White papers, 1857-1867 [microform], Bentley Historical Library, 
         </c02>
         <c02 level="file">
           <did>
-            <container type="reel" label="Roll">5</container>
+            <container type="reel" label="Roll [84613789048207762794741]">5</container>
             <unittitle>
               <unitdate type="inclusive" normal="1864-03/1865-12">March 1864-December 1865</unitdate>
             </unittitle>
@@ -165,7 +165,7 @@ Andrew Dickson White papers, 1857-1867 [microform], Bentley Historical Library, 
         </c02>
         <c02 level="file">
           <did>
-            <container type="reel" label="Roll">6</container>
+            <container type="reel" label="Roll [513224488342901736]">6</container>
             <unittitle>
               <unitdate type="inclusive" normal="1865-12/1866-11">December 1865-November 1866</unitdate>
             </unittitle>
@@ -173,7 +173,7 @@ Andrew Dickson White papers, 1857-1867 [microform], Bentley Historical Library, 
         </c02>
         <c02 level="file">
           <did>
-            <container type="reel" label="Roll">7</container>
+            <container type="reel" label="Roll [87308724604788185944430]">7</container>
             <unittitle>
               <unitdate type="inclusive" normal="1866-11/1867-07">November 1866-July 1867</unitdate>
             </unittitle>
@@ -181,7 +181,7 @@ Andrew Dickson White papers, 1857-1867 [microform], Bentley Historical Library, 
         </c02>
         <c02 level="file">
           <did>
-            <container type="reel" label="Roll">8</container>
+            <container type="reel" label="Roll [05051406272402686298]">8</container>
             <unittitle>
               <unitdate type="inclusive" normal="1867-07/1867-12">July 1867-December 1867</unitdate>
             </unittitle>

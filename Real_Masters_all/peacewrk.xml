@@ -31,7 +31,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Michigan Peaceworks records, 2001-2011</titleproper>
       <author>Finding aid created by <lb/>Julia Corrin, January 2012</author>
     </titlepage>
@@ -85,24 +85,24 @@ Michigan Peaceworks, Bentley Historical Library, University of Michigan</p>
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n79022219.html">Ann Arbor (Mich.)</geogname>
-        <subject source="lcsh" encodinganalog="650">Iraq War, 2003--Protest movements--Michigan--Ann Arbor.</subject>
-        <subject source="lcsh" encodinganalog="650">Peace--Societies, etc.</subject>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n79022219.html" ref="/subjects/860">Ann Arbor (Mich.)</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/9699">Iraq War, 2003--Protest movements--Michigan--Ann Arbor.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5751">Peace--Societies, etc.</subject>
         <corpname source="lcnaf" encodinganalog="610">Michigan Peaceworks.</corpname>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Materials:</head>
-        <subject source="lctgm" encodinganalog="650">Demonstrations--Michigan--Ann Arbor.</subject>
-        <subject source="lcsh" encodinganalog="650">Iraq War, 2003--Protest movements--Michigan--Ann Arbor.</subject>
-        <subject source="lctgm" encodinganalog="650">Protest movements--Michigan--Ann Arbor.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3641">Demonstrations--Michigan--Ann Arbor.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/9699">Iraq War, 2003--Protest movements--Michigan--Ann Arbor.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/5127">Protest movements--Michigan--Ann Arbor.</subject>
         <corpname source="lcnaf" encodinganalog="610">Michigan Peaceworks.</corpname>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">CD-ROMs.</genreform>
-        <genreform source="aat" encodinganalog="655">DVDs.</genreform>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
-        <genreform source="aat" encodinganalog="655">Posters.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3151">CD-ROMs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3160">DVDs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3144">Posters.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -115,13 +115,13 @@ Michigan Peaceworks, Bentley Historical Library, University of Michigan</p>
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [94326443163648849]">1</container>
             <unittitle>Album</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [94326443163648849]">1</container>
             <unittitle>A Moveable Peace Funding Prospectus <unitdate type="inclusive" normal="2011">2011</unitdate></unittitle>
           </did>
         </c02>
@@ -131,31 +131,31 @@ Michigan Peaceworks, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [94326443163648849]">1</container>
               <unittitle>Final Report</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [94326443163648849]">1</container>
               <unittitle>General</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [94326443163648849]">1</container>
               <unittitle>Strategic Committee Meeting <unitdate type="inclusive" normal="2002">2002</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [94326443163648849]">1</container>
               <unittitle>Strategy <unitdate type="inclusive" normal="2003">2003</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [94326443163648849]">1</container>
               <unittitle>Structure Meeting <unitdate type="inclusive" normal="2002">2002</unitdate></unittitle>
             </did>
           </c03>
@@ -166,13 +166,13 @@ Michigan Peaceworks, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [94326443163648849]">1</container>
               <unittitle>Agendas, Minutes, and Reports <unitdate type="inclusive" normal="2006">2006</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [94326443163648849]">1</container>
               <unittitle>Agendas, Meetings, and Minutes <unitdate type="inclusive" normal="2007/2011">2007-2011</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -181,56 +181,56 @@ Michigan Peaceworks, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [94326443163648849]">1</container>
               <unittitle>Meeting notes and agendas <unitdate type="inclusive" normal="2005/2006">2005-2006</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [94326443163648849]">1</container>
               <unittitle>Meetings <unitdate type="inclusive" normal="2010">2010</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [94326443163648849]">1</container>
               <unittitle>Meeting Agendas <unitdate type="inclusive" normal="2005/2006">2005-2006</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [94326443163648849]">1</container>
               <unittitle>Member Materials <unitdate type="inclusive" normal="2007">2007</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [94326443163648849]">1</container>
               <unittitle>Member Materials <unitdate type="inclusive" normal="2009">2009</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [94326443163648849]">1</container>
               <unittitle>Members Binder <unitdate type="inclusive" normal="2003/2011">2003-2011</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [94326443163648849]">1</container>
               <unittitle>Organizational and Business Documents <unitdate type="inclusive" normal="2003/2008">2003-2008</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [94326443163648849]">1</container>
               <unittitle>Retreat <unitdate type="inclusive" normal="2010">2010</unitdate></unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [94326443163648849]">1</container>
             <unittitle>Chronological Files <unitdate type="inclusive" normal="2001/2006">2001-2006</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">6 folders</extent>
@@ -239,97 +239,97 @@ Michigan Peaceworks, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [94326443163648849]">1</container>
             <unittitle>Elected Official Correspondence <unitdate type="inclusive" normal="2002/2004">2002-2004</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [94326443163648849]">1</container>
             <unittitle>Executive Director Transition</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [94326443163648849]">1</container>
             <unittitle>Fundraising Committee <unitdate type="inclusive" normal="2006">2006</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [94326443163648849]">1</container>
             <unittitle>History</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [94326443163648849]">1</container>
             <unittitle>Liberty Bell Award <unitdate type="inclusive" normal="2009">2009</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [94326443163648849]">1</container>
             <unittitle>Logos</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [94326443163648849]">1</container>
             <unittitle>March and Rally Planning</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [94326443163648849]">1</container>
             <unittitle>Media Consultancy <unitdate type="inclusive" normal="2003">2003</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [94326443163648849]">1</container>
             <unittitle>Michigan Peace Network -- General <unitdate type="inclusive" normal="2007">2007</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [94326443163648849]">1</container>
             <unittitle>Michigan Peace Network Meeting <unitdate type="inclusive" normal="2006">2006</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [94326443163648849]">1</container>
             <unittitle>Middle East statement <unitdate type="inclusive" normal="2004">2004</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [94326443163648849]">1</container>
             <unittitle>Miscellaneous</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [94326443163648849]">1</container>
             <unittitle>Student Activism Survey <unitdate type="inclusive" normal="2006">2006</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [94326443163648849]">1</container>
             <unittitle>Summer Activist Training <unitdate type="inclusive" normal="2008">2008</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [76257245808208440]">2</container>
             <unittitle>Staff reports <unitdate type="inclusive" normal="2003/2008">2003-2008</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [76257245808208440]">2</container>
             <unittitle>Task lists <unitdate type="inclusive" normal="2006">2006</unitdate></unittitle>
           </did>
         </c02>
@@ -343,13 +343,13 @@ Michigan Peaceworks, Bentley Historical Library, University of Michigan</p>
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [76257245808208440]">2</container>
             <unittitle>4th of July Parade <unitdate type="inclusive" normal="2002/2006">2002-2006</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [76257245808208440]">2</container>
             <unittitle>Brewing Peace <unitdate type="inclusive" normal="2004/2007">2004-2007</unitdate></unittitle>
           </did>
         </c02>
@@ -359,104 +359,104 @@ Michigan Peaceworks, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [76257245808208440]">2</container>
               <unittitle>9/11 Vigils <unitdate type="inclusive" normal="2002/2003">2002-2003</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [76257245808208440]">2</container>
               <unittitle>No More War Victims -- Candlelight Vigil for Peace <unitdate type="inclusive" normal="2003">2003</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [76257245808208440]">2</container>
               <unittitle>1,000 Deaths in Iraq <unitdate type="inclusive" normal="2004">2004</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [76257245808208440]">2</container>
               <unittitle>2,000 Deaths in Iraq <unitdate type="inclusive" normal="2005">2005</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [76257245808208440]">2</container>
               <unittitle>Candlelight Vigil for Peace and a Ceasefire in the Middle East <unitdate type="inclusive" normal="2006">2006</unitdate></unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [76257245808208440]">2</container>
             <unittitle>Day of War Demonstration <unitdate type="inclusive" normal="2003">2003</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [76257245808208440]">2</container>
             <unittitle>Dingell Roundtable <unitdate type="inclusive" normal="2003">2003</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [76257245808208440]">2</container>
             <unittitle><title render="italic">Fahrenheit 9/11</title> screening, <unitdate type="inclusive" normal="2004">2004</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [76257245808208440]">2</container>
             <unittitle>Five Year Birthday Party <unitdate type="inclusive" normal="2006">2006</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [76257245808208440]">2</container>
             <unittitle>Get Out the Vote (GOTV) <unitdate type="inclusive" normal="2004">2004</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [76257245808208440]">2</container>
             <unittitle>Halloween Party <unitdate type="inclusive" normal="2003">2003</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [76257245808208440]">2</container>
             <unittitle><title render="italic">Hotel Rwanda</title> screening, <unitdate type="inclusive" normal="2005">2005</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [76257245808208440]">2</container>
             <unittitle><title render="italic">In My Country</title> screening, <unitdate type="inclusive" normal="2005">2005</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [76257245808208440]">2</container>
             <unittitle>Iraq Exit Roundtable <unitdate type="inclusive" normal="2005">2005</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [76257245808208440]">2</container>
             <unittitle>Iraq: Soldiers Saying No to War <unitdate type="inclusive" normal="2006">2006</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [76257245808208440]">2</container>
             <unittitle>Iraq Water Project <unitdate type="inclusive" normal="2009">2009</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [76257245808208440]">2</container>
             <unittitle><title render="italic">Living for 32</title> screening, <unitdate type="inclusive" normal="2007">2007</unitdate></unittitle>
           </did>
         </c02>
@@ -466,128 +466,128 @@ Michigan Peaceworks, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [76257245808208440]">2</container>
               <unittitle>National Day of Action <unitdate type="inclusive" normal="2002">2002</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [76257245808208440]">2</container>
               <unittitle>Peace Parade <unitdate type="inclusive" normal="2003">2003</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [76257245808208440]">2</container>
               <unittitle>Peace <unitdate type="inclusive" normal="2005-03">March, 2005</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [76257245808208440]">2</container>
               <unittitle>Funeral <unitdate type="inclusive" normal="2008-03">March, 2008</unitdate></unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [76257245808208440]">2</container>
             <unittitle>Merton Center <unitdate type="inclusive" normal="2006">2006</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [76257245808208440]">2</container>
             <unittitle>Organizing for Change Conference</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [76257245808208440]">2</container>
             <unittitle>Peace Cafes</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [76257245808208440]">2</container>
             <unittitle>Presidential Debate Forum <unitdate type="inclusive" normal="2004">2004</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [76257245808208440]">2</container>
             <unittitle>September 11th Families Event <unitdate type="inclusive" normal="2002">2002</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [76257245808208440]">2</container>
             <unittitle>Sheehan Rally <unitdate type="inclusive" normal="2005">2005</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [76257245808208440]">2</container>
             <unittitle>SOUP -- State of the Union <unitdate type="inclusive" normal="2006">2006</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [76257245808208440]">2</container>
             <unittitle>Spy-In <unitdate type="inclusive" normal="2006">2006</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [76257245808208440]">2</container>
             <unittitle>Stop the War Day of Action <unitdate type="inclusive" normal="2005">2005</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [76257245808208440]">2</container>
             <unittitle>Stop the War Rally <unitdate type="inclusive" normal="2006">2006</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [76257245808208440]">2</container>
             <unittitle>"The Real About Race"</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [76257245808208440]">2</container>
             <unittitle>True State of the Union <unitdate type="inclusive" normal="2004">2004</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [76257245808208440]">2</container>
             <unittitle>The World Still Says No to War <unitdate type="inclusive" normal="2004">2004</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [76257245808208440]">2</container>
             <unittitle>War Rally <unitdate type="inclusive" normal="2010">2010</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [76257245808208440]">2</container>
             <unittitle>"Working for Peace and Social Justice in Michigan" <unitdate type="inclusive" normal="2010">2010</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [76257245808208440]">2</container>
             <unittitle>Youth Outreach Training <unitdate type="inclusive" normal="2006">2006</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [76257245808208440]">2</container>
             <unittitle>Youth Peace Summit <unitdate type="inclusive" normal="2007">2007</unitdate></unittitle>
           </did>
         </c02>
@@ -597,7 +597,7 @@ Michigan Peaceworks, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [76257245808208440]">2</container>
               <unittitle>Event Flyers</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -606,7 +606,7 @@ Michigan Peaceworks, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [76257245808208440]">2</container>
               <unittitle>Event Programs</unittitle>
             </did>
           </c03>
@@ -621,115 +621,115 @@ Michigan Peaceworks, Bentley Historical Library, University of Michigan</p>
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [76257245808208440]">2</container>
             <unittitle>Ad <unitdate type="inclusive" normal="2003-02-02">February 2, 2003</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [76257245808208440]">2</container>
             <unittitle><title render="italic">Armistice</title> Zine, <unitdate type="inclusive" normal="2007">2007</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [76257245808208440]">2</container>
             <unittitle>Big Lie Campaign <unitdate type="inclusive" normal="2003">2003</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [69772570489674139]">3</container>
             <unittitle>Bumper stickers</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [69772570489674139]">3</container>
             <unittitle>Buttons <unitdate type="inclusive" normal="2011">2011</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [69772570489674139]">3</container>
             <unittitle>Flyers</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [69772570489674139]">3</container>
             <unittitle>Fundraising solicitations <unitdate type="inclusive" normal="2006">2006</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [69772570489674139]">3</container>
             <unittitle>Immigration</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [69772570489674139]">3</container>
             <unittitle>Letters to the Editor <unitdate type="inclusive" normal="2001/2005">2001-2005</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [69772570489674139]">3</container>
             <unittitle>Member mail <unitdate type="inclusive" normal="2002">2002</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [69772570489674139]">3</container>
             <unittitle>Misleader ad <unitdate type="inclusive" normal="2003">2003</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [69772570489674139]">3</container>
             <unittitle>Peace card and Peace ad <unitdate type="inclusive" normal="2001">2001</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [69772570489674139]">3</container>
             <unittitle>Peace post cards</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [69772570489674139]">3</container>
             <unittitle>Podcasts <unitdate type="inclusive" normal="2006">2006</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [69772570489674139]">3</container>
             <unittitle>Post 9/11 Mailing <unitdate type="inclusive" normal="2002">2002</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [69772570489674139]">3</container>
             <unittitle>Press Conference <unitdate type="inclusive" normal="2003">2003</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [69772570489674139]">3</container>
             <unittitle>Press Pack</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [69772570489674139]">3</container>
             <unittitle>Press Releases</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [69772570489674139]">3</container>
             <unittitle>Safety op-ed <unitdate type="inclusive" normal="2005">2005</unitdate></unittitle>
           </did>
         </c02>
@@ -739,50 +739,50 @@ Michigan Peaceworks, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [69772570489674139]">3</container>
               <unittitle>Signature Ad Plans</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [69772570489674139]">3</container>
               <unittitle>Signature Ad <unitdate type="inclusive" normal="2002">2002</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [69772570489674139]">3</container>
               <unittitle>Iraq <unitdate type="inclusive" normal="2004">2004</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [69772570489674139]">3</container>
               <unittitle>July 4th Ad <unitdate type="inclusive" normal="2004/2004">2004-2004</unitdate></unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [69772570489674139]">3</container>
             <unittitle>Talks and Presentations <unitdate type="inclusive" normal="2003/2006">2003-2006</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [69772570489674139]">3</container>
             <unittitle>Tuesday Working Group <unitdate type="inclusive" normal="2009">2009</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [69772570489674139]">3</container>
             <unittitle>Veterans for Peace Press Packet <unitdate type="inclusive" normal="2004">2004</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [69772570489674139]">3</container>
             <unittitle>Yard Signs <unitdate type="inclusive" normal="2004/2005">2004-2005</unitdate></unittitle>
           </did>
         </c02>
@@ -796,103 +796,103 @@ Michigan Peaceworks, Bentley Historical Library, University of Michigan</p>
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [69772570489674139]">3</container>
             <unittitle>Afghanistan <unitdate type="inclusive" normal="2001/2002">2001-2002</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [69772570489674139]">3</container>
             <unittitle>A. J. Muste Memorial Institute Essay Series: Martin Luther King, Jr.</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [69772570489674139]">3</container>
             <unittitle>Amnesty International Report <unitdate type="inclusive" normal="2003">2003</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [69772570489674139]">3</container>
             <unittitle>Bring the Troops Home Campaign Toolkit</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [69772570489674139]">3</container>
             <unittitle>Department of Justice Interview <unitdate type="inclusive" normal="2001">2001</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [69772570489674139]">3</container>
             <unittitle>Guantanamo <unitdate type="inclusive" normal="2005/2006">2005-2006</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [69772570489674139]">3</container>
             <unittitle>Gun Violence <unitdate type="inclusive" normal="2011">2011</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [69772570489674139]">3</container>
             <unittitle>Hate mail <unitdate type="inclusive" normal="2002/2008">2002-2008</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [69772570489674139]">3</container>
             <unittitle>Hellopeace,org <unitdate type="inclusive" normal="2006">2006</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [69772570489674139]">3</container>
             <unittitle>Impeachment <unitdate type="inclusive" normal="2005/2006">2005-2006</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [69772570489674139]">3</container>
             <unittitle>Iraq War <unitdate type="inclusive" normal="2010">2010</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [69772570489674139]">3</container>
             <unittitle>Military Families Speak Out <unitdate type="inclusive" normal="2003">2003</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [69772570489674139]">3</container>
             <unittitle>Needmor Fund <unitdate type="inclusive" normal="2005">2005</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [69772570489674139]">3</container>
             <unittitle>Non-Violent Dialogue</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [69772570489674139]">3</container>
             <unittitle>Palestine</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [69772570489674139]">3</container>
             <unittitle>Peace movement <unitdate type="inclusive" normal="2001/2003">2001-2003</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [69772570489674139]">3</container>
             <unittitle>Peru <unitdate type="inclusive" normal="1989/2011">1989-2011</unitdate></unittitle>
           </did>
         </c02>
@@ -902,13 +902,13 @@ Michigan Peaceworks, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [69772570489674139]">3</container>
               <unittitle>Ad-Hoc Activities <unitdate type="inclusive" normal="2001/2003">2001-2003</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [69772570489674139]">3</container>
               <unittitle>General</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -917,56 +917,56 @@ Michigan Peaceworks, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [88737279042988389532]">4</container>
               <unittitle>M20 Media <unitdate type="inclusive" normal="2002/2004">2002-2004</unitdate></unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [88737279042988389532]">4</container>
             <unittitle>Rabih Haddad Case <unitdate type="inclusive" normal="2002">2002</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [88737279042988389532]">4</container>
             <unittitle>Religious Freedom <unitdate type="inclusive" normal="2010">2010</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [88737279042988389532]">4</container>
             <unittitle>School of the Americas <unitdate type="inclusive" normal="2010">2010</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [88737279042988389532]">4</container>
             <unittitle>Senior Advocacy <unitdate type="inclusive" normal="2007">2007</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [88737279042988389532]">4</container>
             <unittitle>Sweat Free Michigan <unitdate type="inclusive" normal="2006/2008">2006-2008</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [88737279042988389532]">4</container>
             <unittitle>Torture <unitdate type="inclusive" normal="2004/2005">2004-2005</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [88737279042988389532]">4</container>
             <unittitle>Voting machines <unitdate type="inclusive" normal="2003">2003</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [88737279042988389532]">4</container>
             <unittitle>Youth activism <unitdate type="inclusive" normal="2004/2006">2004-2006</unitdate></unittitle>
           </did>
         </c02>
@@ -986,19 +986,19 @@ Michigan Peaceworks, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [88737279042988389532]">4</container>
               <unittitle>5th Annual Iraq War March Video</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [88737279042988389532]">4</container>
               <unittitle>Ann Arbor Winter Soldier Event <unitdate type="inclusive" normal="2008">2008</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [88737279042988389532]">4</container>
               <unittitle>Concert for Peace <unitdate type="inclusive" normal="2008">2008</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">3 optical disks</extent>
@@ -1008,19 +1008,19 @@ Michigan Peaceworks, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [88737279042988389532]">4</container>
               <unittitle>Extraordinary Rendition <unitdate type="inclusive" normal="2009">2009</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [88737279042988389532]">4</container>
               <unittitle>PeaceJam Overview and Interview with Shirin Ebadi</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [88737279042988389532]">4</container>
               <unittitle>Rageism <unitdate type="inclusive" normal="2008">2008</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 optical disks</extent>
@@ -1030,7 +1030,7 @@ Michigan Peaceworks, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [88737279042988389532]">4</container>
               <unittitle>Voices of Youth Peace DVD <unitdate type="inclusive" normal="2005">2005</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 optical disks</extent>
@@ -1047,7 +1047,7 @@ Michigan Peaceworks, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [88737279042988389532]">4</container>
               <unittitle>4th of July Parade photographs <unitdate type="inclusive" normal="2005">2005</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 optical disks</extent>
@@ -1057,7 +1057,7 @@ Michigan Peaceworks, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [88737279042988389532]">4</container>
               <unittitle>Ann Arbor Musicians for Peace <unitdate type="inclusive" normal="2004">2004</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 optical disks</extent>
@@ -1067,43 +1067,43 @@ Michigan Peaceworks, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [88737279042988389532]">4</container>
               <unittitle>Arlington Midwest <unitdate type="inclusive" normal="2004">2004</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [88737279042988389532]">4</container>
               <unittitle>Chicago Media <unitdate type="inclusive" normal="2007-10-27">October 27, 2007</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [88737279042988389532]">4</container>
               <unittitle>Cindy Sheehan Support Rally Photographs <unitdate type="inclusive" normal="2005">2005</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [88737279042988389532]">4</container>
               <unittitle>Gregory Fox Photography <unitdate type="inclusive" normal="2004">2004</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [88737279042988389532]">4</container>
               <unittitle>Michigan Peaceworks July 4th <unitdate type="inclusive" normal="2006-03">March, 2006</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [88737279042988389532]">4</container>
               <unittitle>MPW photographs <unitdate type="inclusive" normal="2004/2010">2004-2010</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [88737279042988389532]">4</container>
               <unittitle>Peace March photographs <unitdate type="inclusive" normal="2005">2005</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 optical disks</extent>
@@ -1113,19 +1113,19 @@ Michigan Peaceworks, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [88737279042988389532]">4</container>
               <unittitle>Peace Rally photographs <unitdate type="inclusive" normal="2004">2004</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [88737279042988389532]">4</container>
               <unittitle>Peace Vigil Photographs <unitdate type="inclusive" normal="2007">2007</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [88737279042988389532]">4</container>
               <unittitle>Stop the War March photographs and "Turn Yourself In" mugshots <unitdate type="inclusive" normal="2006">2006</unitdate></unittitle>
             </did>
           </c03>
@@ -1146,25 +1146,25 @@ Michigan Peaceworks, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [88737279042988389532]">4</container>
               <unittitle>Halloween</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [88737279042988389532]">4</container>
               <unittitle>Rabih Haddad vigils</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [88737279042988389532]">4</container>
               <unittitle>Worlds Largest Peace Sign</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [88737279042988389532]">4</container>
               <unittitle>Miscellaneous photographs</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -1178,13 +1178,13 @@ Michigan Peaceworks, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [88737279042988389532]">4</container>
               <unittitle>Archived decor</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [88737279042988389532]">4</container>
               <unittitle>Display Boards</unittitle>
             </did>
           </c03>
@@ -1194,31 +1194,31 @@ Michigan Peaceworks, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [88737279042988389532]">4</container>
                 <unittitle>Bulletin Boards, prior to removal of photographs (CD-R)</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [88737279042988389532]">4</container>
                 <unittitle>Candlelight Vigil for Remembrance and Peace <unitdate type="inclusive" normal="2002">2002</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [88737279042988389532]">4</container>
                 <unittitle>MPW Float <unitdate type="inclusive" normal="2006-07-04">July 4, 2006</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [88737279042988389532]">4</container>
                 <unittitle>Youth Peace Night <unitdate type="inclusive" normal="2006-05-05">May 5, 2006</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [88737279042988389532]">4</container>
                 <unittitle>Unlabelled panel </unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -1227,25 +1227,25 @@ Michigan Peaceworks, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [88737279042988389532]">4</container>
                 <unittitle>Jobs Not War in <unitdate type="inclusive" normal="2004-07">July 2004</unitdate> 4, <unitdate type="inclusive" normal="2004">2004</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [88737279042988389532]">4</container>
                 <unittitle>Unlabelled panel</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [88737279042988389532]">4</container>
                 <unittitle>The World Still Say No to War <unitdate type="inclusive" normal="2004-03-20">March 20, 2004</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [88737279042988389532]">4</container>
                 <unittitle>The Cradle of Civilization</unittitle>
                 <physdesc>
                   <physfacet>does not include photographs</physfacet>
@@ -1260,31 +1260,31 @@ Michigan Peaceworks, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [5214870794697932392598]">5</container>
               <unittitle>Armistice Zine</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [5214870794697932392598]">5</container>
               <unittitle>Iraq Water Project</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [5214870794697932392598]">5</container>
               <unittitle>Publicity Album</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [5214870794697932392598]">5</container>
               <unittitle>Signs, Posters, and Oversized Newspaper Clippings</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [69064955940369528731]">6</container>
               <unittitle>Rolled informational banners and timeline of organization's activities</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">10 rolls</extent>

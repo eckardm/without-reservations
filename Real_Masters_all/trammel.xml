@@ -26,7 +26,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding Aid for <lb/>Dausie W. Trammell papers, <date>1915-1934</date></titleproper>
       <author>Finding aid prepared by: <lb/>Polly Reynolds</author>
     </titlepage>
@@ -75,13 +75,13 @@
       <controlaccess>
         <head>Subjects</head>
         <persname source="lcnaf" encodinganalog="600">Trammell, Dausie W.</persname>
-        <geogname source="lcsh" encodinganalog="651">Soviet Union--History--Allied intervention, 1918-1920.</geogname>
-        <subject source="lcsh" encodinganalog="650">World War, 1914-1918.</subject>
-        <subject source="local" encodinganalog="690" authfilenumber="http://id.loc.gov/authorities/names/n2008059426">Polar Bear Expedition.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/883">Soviet Union--History--Allied intervention, 1918-1920.</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5712">World War, 1914-1918.</subject>
+        <subject source="local" encodinganalog="690" authfilenumber="http://id.loc.gov/authorities/names/n2008059426" ref="/subjects/3518">Polar Bear Expedition.</subject>
       </controlaccess>
       <controlaccess>
         <head>Genre/Form:</head>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -91,11 +91,11 @@
         </did>
         <c02 level="file">
           <did>
-            <container label="Folder" type="folder">1</container>
+            <container label="Folder [8077760687465492333497]" type="folder">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1915/1934">1915-1934</unitdate>
             </unittitle>
-            <dao href="trammell0001" show="new" actuate="onrequest">
+            <dao href="trammell0001" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/9178">
               <daodesc>
                 <p>[view items]</p>
               </daodesc>

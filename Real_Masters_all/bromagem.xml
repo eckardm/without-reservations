@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Mary C. Bromage papers, 1862-1994</titleproper>
       <author>Finding aid created by <lb/>Sara Aichele, 1995</author>
     </titlepage>
@@ -89,18 +89,18 @@ Mary C. Bromage papers, Bentley Historical Library, University of Michigan</p>
       <controlaccess>
         <head>Subjects:</head>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n79138618">Bromage, Mary Cogan.</persname>
-        <subject source="lcsh" encodinganalog="630">Ann Arbor news.</subject>
+        <subject source="lcsh" encodinganalog="630" ref="/subjects/6470">Ann Arbor news.</subject>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/nr2003027797">Bromage, Arthur W. (Arthur Watson), 1904-1979.</persname>
-        <geogname source="lcsh" encodinganalog="651">Ireland.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1363">Ireland.</geogname>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n80082592">De Valera, Eamonn, 1882-1975.</persname>
-        <geogname source="lcsh" encodinganalog="651">Bavaria (Germany)--Politics and government--1945.</geogname>
-        <subject source="lcsh" encodinganalog="650">World War, 1939-1945.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1364">Bavaria (Germany)--Politics and government--1945.</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5681">World War, 1939-1945.</subject>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Materials:</head>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n79138618">Bromage, Mary Cogan.</persname>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/nr2003027797">Bromage, Arthur W. (Arthur Watson), 1904-1979.</persname>
-        <subject source="lcsh" encodinganalog="650">World War, 1939-1945.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5681">World War, 1939-1945.</subject>
       </controlaccess>
       <controlaccess>
         <head>Contributors:</head>
@@ -110,8 +110,8 @@ Mary C. Bromage papers, Bentley Historical Library, University of Michigan</p>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Diaries.</genreform>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3150">Diaries.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -124,7 +124,7 @@ Mary C. Bromage papers, Bentley Historical Library, University of Michigan</p>
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [7789962440619120641]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1942/1962">1942-1962</unitdate>
             </unittitle>
@@ -132,7 +132,7 @@ Mary C. Bromage papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [7789962440619120641]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1963/1978">1963-1978</unitdate>
             </unittitle>
@@ -140,7 +140,7 @@ Mary C. Bromage papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [7789962440619120641]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1963/1993">1963-1993</unitdate>
             </unittitle>
@@ -152,13 +152,13 @@ Mary C. Bromage papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [7789962440619120641]">1</container>
               <unittitle>Excerpts <unitdate type="inclusive" normal="1944-02/1945-08">February 1944-August 1945</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [7789962440619120641]">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1936">1936</unitdate>
               </unittitle>
@@ -166,7 +166,7 @@ Mary C. Bromage papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [7789962440619120641]">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1944-01/1944-02">January-February, 1944</unitdate>
               </unittitle>
@@ -174,7 +174,7 @@ Mary C. Bromage papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [7789962440619120641]">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1944-03/1944-04">March-April, 1944</unitdate>
               </unittitle>
@@ -182,7 +182,7 @@ Mary C. Bromage papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [7789962440619120641]">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1944-05/1944-06">May-June, 1944</unitdate>
               </unittitle>
@@ -190,7 +190,7 @@ Mary C. Bromage papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [7789962440619120641]">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1944-07/1944-08">July-August, 1944</unitdate>
               </unittitle>
@@ -198,7 +198,7 @@ Mary C. Bromage papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [7789962440619120641]">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1944-09/1944-10">September-October, 1944</unitdate>
               </unittitle>
@@ -206,7 +206,7 @@ Mary C. Bromage papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [7789962440619120641]">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1944-11/1944-12">November-December, 1944</unitdate>
               </unittitle>
@@ -214,7 +214,7 @@ Mary C. Bromage papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [7789962440619120641]">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1945-01/1945-02">January-February, 1945</unitdate>
               </unittitle>
@@ -222,7 +222,7 @@ Mary C. Bromage papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [7789962440619120641]">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1945-03/1945-04">March-April, 1945</unitdate>
               </unittitle>
@@ -230,7 +230,7 @@ Mary C. Bromage papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [7789962440619120641]">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1945-05/1945-06">May-June, 1945</unitdate>
               </unittitle>
@@ -238,7 +238,7 @@ Mary C. Bromage papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [7789962440619120641]">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1945-07/1945-10">July-October, 1945</unitdate>
               </unittitle>
@@ -247,7 +247,7 @@ Mary C. Bromage papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [7789962440619120641]">1</container>
             <unittitle>Coffey, Ruth B.</unittitle>
             <unitdate type="inclusive" normal="1964">1964</unitdate>
             <unitdate type="inclusive" normal="1975">1975</unitdate>
@@ -255,49 +255,49 @@ Mary C. Bromage papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [7789962440619120641]">1</container>
             <unittitle>Cogan, David <unitdate type="inclusive" normal="1957/1993">1957-1993</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [7789962440619120641]">1</container>
             <unittitle>Cogan, James and S. Edith <unitdate type="inclusive" normal="1937/1953">1937-1953</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [7789962440619120641]">1</container>
             <unittitle>DeValera, Eamon and Sile <unitdate type="inclusive" normal="1961/1981">1961-1981</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [7789962440619120641]">1</container>
             <unittitle>Grandchildren <unitdate type="inclusive" normal="1976/1995">1976-1995</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [7789962440619120641]">1</container>
             <unittitle>Ives, James E. (Uncle Ned) <unitdate type="inclusive" normal="1933/1938">1933-1938</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [7789962440619120641]">1</container>
             <unittitle>McGraw-Hill <unitdate type="inclusive" normal="1993">1993</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [7789962440619120641]">1</container>
             <unittitle>O'Brien, Sophie <unitdate type="inclusive" normal="1954">1954</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [7789962440619120641]">1</container>
             <unittitle>Paterson, Susanna Bromage <unitdate type="inclusive" normal="1953/1993">1953-1993</unitdate></unittitle>
           </did>
         </c02>
@@ -311,31 +311,31 @@ Mary C. Bromage papers, Bentley Historical Library, University of Michigan</p>
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [7789962440619120641]">1</container>
             <unittitle>Biography</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [7789962440619120641]">1</container>
             <unittitle>Bromage, Arthur (written by Mary C. Bromage for great grandchildren) <unitdate type="inclusive">undated</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [7789962440619120641]">1</container>
             <unittitle>Bromage, Mary Cogan, transcript and cassette tapes of an interview <unitdate type="inclusive" normal="1990">1990</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [7789962440619120641]">1</container>
             <unittitle>Bromage, Susanna and John Paterson</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [847792340291112533825850]">2</container>
             <unittitle>Cogan, James J. (father)</unittitle>
             <physdesc>
               <physfacet>5 inch reel recording</physfacet>
@@ -344,55 +344,55 @@ Mary C. Bromage papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [847792340291112533825850]">2</container>
             <unittitle>Cogan, Sarah Edith Ives (mother)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [847792340291112533825850]">2</container>
             <unittitle>Education <unitdate type="inclusive" normal="1921/1928">1921-1928</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [847792340291112533825850]">2</container>
             <unittitle>Fall River and Beyond</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [847792340291112533825850]">2</container>
             <unittitle>Ives and Cogan Family Tree</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [847792340291112533825850]">2</container>
             <unittitle>Ives, J.T. Bostock (grandfather) <unitdate type="inclusive" normal="1862">1862</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [847792340291112533825850]">2</container>
             <unittitle>Ives, S. Mary (aunt)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [847792340291112533825850]">2</container>
             <unittitle>Manor Lodge (the Ives Home) <unitdate type="inclusive" normal="1977/1979">1977-1979</unitdate> (<genreform normal="Photographs">photograph</genreform>)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [847792340291112533825850]">2</container>
             <unittitle>Summary Written by Mary C. Bromage <unitdate type="inclusive" normal="1989">1989</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [847792340291112533825850]">2</container>
             <unittitle>Wedding Prayer Written by James J. Cogan <unitdate type="inclusive" normal="1941">1941</unitdate></unittitle>
           </did>
         </c02>
@@ -406,7 +406,7 @@ Mary C. Bromage papers, Bentley Historical Library, University of Michigan</p>
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [847792340291112533825850]">2</container>
             <unittitle>
               <unitdate type="inclusive">Undated</unitdate>
             </unittitle>
@@ -414,13 +414,13 @@ Mary C. Bromage papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [847792340291112533825850]">2</container>
             <unittitle>Unpublished</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [847792340291112533825850]">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1950">1950</unitdate>
             </unittitle>
@@ -428,7 +428,7 @@ Mary C. Bromage papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [847792340291112533825850]">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1951">1951</unitdate>
             </unittitle>
@@ -436,7 +436,7 @@ Mary C. Bromage papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [847792340291112533825850]">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1952/1953">1952-1953</unitdate>
             </unittitle>
@@ -444,7 +444,7 @@ Mary C. Bromage papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [847792340291112533825850]">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1953">1953</unitdate>
             </unittitle>
@@ -452,7 +452,7 @@ Mary C. Bromage papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [847792340291112533825850]">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1954">1954</unitdate>
             </unittitle>
@@ -473,13 +473,13 @@ Mary C. Bromage papers, Bentley Historical Library, University of Michigan</p>
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [847792340291112533825850]">2</container>
             <unittitle>Bromage, Arthur <unitdate type="inclusive" normal="1911/1970">1911-1970</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [847792340291112533825850]">2</container>
             <unittitle>Bromage Family</unittitle>
             <unitdate type="inclusive" normal="1946">1946</unitdate>
             <unitdate type="inclusive">undated</unitdate>
@@ -487,7 +487,7 @@ Mary C. Bromage papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [364476503472893877417]">3</container>
             <unittitle>Bromage, Arthur and Mary Together</unittitle>
             <unitdate type="inclusive" normal="1925/1928">1925-1928</unitdate>
             <unitdate type="inclusive" normal="1960">1960</unitdate>
@@ -495,7 +495,7 @@ Mary C. Bromage papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [364476503472893877417]">3</container>
             <unittitle>Bromage, Mary C.</unittitle>
             <unitdate type="inclusive" normal="1907/1926">1907-1926</unitdate>
             <unitdate type="inclusive" normal="1930">1930</unitdate>
@@ -504,19 +504,19 @@ Mary C. Bromage papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [364476503472893877417]">3</container>
             <unittitle>Bromage, Mary C. Teaching at the University of Michigan <unitdate type="inclusive" normal="1946/1954">1946-1954</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [364476503472893877417]">3</container>
             <unittitle>Cogan, Edith Ives <unitdate type="inclusive" normal="1891/1931">1891-1931</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [364476503472893877417]">3</container>
             <unittitle>Cogan Family</unittitle>
             <unitdate type="inclusive" normal="1943/1961">1943-1961</unitdate>
             <unitdate type="inclusive">undated</unitdate>
@@ -524,19 +524,19 @@ Mary C. Bromage papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [364476503472893877417]">3</container>
             <unittitle>Friends and Associates <unitdate type="inclusive" normal="1951/1962">1951-1962</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [364476503472893877417]">3</container>
             <unittitle>Ireland <unitdate type="inclusive" normal="1936/1975">1936-1975</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [364476503472893877417]">3</container>
             <unittitle>Ives Family</unittitle>
             <unitdate type="inclusive" normal="1900/1905">1900-1905</unitdate>
             <unitdate type="inclusive">undated</unitdate>
@@ -544,13 +544,13 @@ Mary C. Bromage papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [364476503472893877417]">3</container>
             <unittitle>Paterson, Susanna Bromage and Family <unitdate type="inclusive" normal="1936/1975">1936-1975</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [364476503472893877417]">3</container>
             <unittitle>Writing Seminars (Mary and Arthur Bromage) <unitdate type="inclusive" normal="1961/1988">1961-1988</unitdate></unittitle>
           </did>
         </c02>
@@ -564,13 +564,13 @@ Mary C. Bromage papers, Bentley Historical Library, University of Michigan</p>
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [364476503472893877417]">3</container>
             <unittitle>Article Review, "Defensive Writing," <unitdate type="inclusive" normal="1971">1971</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [364476503472893877417]">3</container>
             <unittitle>Awards</unittitle>
             <unitdate type="inclusive" normal="1950">1950</unitdate>
             <unitdate type="inclusive" normal="1973/1979">1973-1979</unitdate>
@@ -579,7 +579,7 @@ Mary C. Bromage papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [364476503472893877417]">3</container>
             <unittitle>Bibliography</unittitle>
           </did>
         </c02>
@@ -589,44 +589,44 @@ Mary C. Bromage papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [364476503472893877417]">3</container>
               <unittitle>Cases In Written Communication <unitdate type="inclusive">undated</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [364476503472893877417]">3</container>
               <unittitle>Cases In Written Communication II <unitdate type="inclusive" normal="1967">1967</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [364476503472893877417]">3</container>
               <unittitle>Churchill and Ireland <unitdate type="inclusive" normal="1964/1967">1964-1967</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [364476503472893877417]">3</container>
               <unittitle>DeValera and the March of a Nation <unitdate type="inclusive" normal="1956/1957">1956-1957</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [364476503472893877417]">3</container>
               <unittitle>Writing Audit Reports <unitdate type="inclusive" normal="1979/1980">1979-1980</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [364476503472893877417]">3</container>
               <unittitle>Writing for Business <unitdate type="inclusive" normal="1964/1965">1964-1965</unitdate></unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [364476503472893877417]">3</container>
             <unittitle>Bromage, Arthur's Military Experience</unittitle>
           </did>
         </c02>
@@ -638,7 +638,7 @@ Mary C. Bromage papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [364476503472893877417]">3</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1953">1953</unitdate>
               </unittitle>
@@ -646,7 +646,7 @@ Mary C. Bromage papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [364476503472893877417]">3</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1987/1989">1987-1989</unitdate>
               </unittitle>
@@ -658,25 +658,25 @@ Mary C. Bromage papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [364476503472893877417]">3</container>
                 <unittitle>England <unitdate type="inclusive" normal="1973">1973</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [364476503472893877417]">3</container>
                 <unittitle>Korea <unitdate type="inclusive" normal="1979">1979</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [364476503472893877417]">3</container>
                 <unittitle>Moscow <unitdate type="inclusive" normal="1986">1986</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [364476503472893877417]">3</container>
                 <unittitle>Munich <unitdate type="inclusive" normal="1988">1988</unitdate></unittitle>
               </did>
             </c04>
@@ -684,13 +684,13 @@ Mary C. Bromage papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [364476503472893877417]">3</container>
             <unittitle>Distinguished Faculty Achievement Award <unitdate type="inclusive" normal="1976">1976</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [364476503472893877417]">3</container>
             <unittitle>Instructor Contracts <unitdate type="inclusive" normal="1994">1994</unitdate></unittitle>
           </did>
         </c02>
@@ -700,7 +700,7 @@ Mary C. Bromage papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [364476503472893877417]">3</container>
               <unittitle>Autographed Material</unittitle>
               <unitdate type="inclusive" normal="1939">1939</unitdate>
               <unitdate type="inclusive" normal="1957">1957</unitdate>
@@ -713,32 +713,32 @@ Mary C. Bromage papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [364476503472893877417]">3</container>
                 <unittitle>Background <unitdate type="inclusive" normal="1942/1953">1942-1953</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [364476503472893877417]">3</container>
                 <unittitle>Book <unitdate type="inclusive" normal="1963">1963</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [364476503472893877417]">3</container>
                 <unittitle><genreform normal="Photographs">Photographs</genreform>, <unitdate type="inclusive" normal="1918/1955">1918-1955</unitdate></unittitle>
               </did>
             </c04>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [364476503472893877417]">3</container>
               <unittitle><genreform normal="Diaries">Diary</genreform>, <unitdate type="inclusive" normal="1953">1953</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [364476503472893877417]">3</container>
               <unittitle>Lectures <unitdate type="inclusive" normal="1977/1992">1977-1992</unitdate></unittitle>
             </did>
           </c03>
@@ -748,7 +748,7 @@ Mary C. Bromage papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [364476503472893877417]">3</container>
                 <unittitle>Excerpts <unitdate type="inclusive">undated</unitdate></unittitle>
               </did>
             </c04>
@@ -758,19 +758,19 @@ Mary C. Bromage papers, Bentley Historical Library, University of Michigan</p>
               </did>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">3</container>
+                  <container type="box" label="Box [364476503472893877417]">3</container>
                   <unittitle>"An Old Woman's Recollections," <unitdate type="inclusive">undated</unitdate></unittitle>
                 </did>
               </c05>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">3</container>
+                  <container type="box" label="Box [364476503472893877417]">3</container>
                   <unittitle>"Glimpses of a Long Life," <unitdate type="inclusive">undated</unitdate></unittitle>
                 </did>
               </c05>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">3</container>
+                  <container type="box" label="Box [364476503472893877417]">3</container>
                   <unittitle>"Paradise," <unitdate type="inclusive">undated</unitdate></unittitle>
                 </did>
               </c05>
@@ -778,7 +778,7 @@ Mary C. Bromage papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="item">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [127583535584772849377935]">4</container>
               <unittitle>Travel</unittitle>
               <unitdate type="inclusive" normal="1957">1957</unitdate>
               <unitdate type="inclusive" normal="1966">1966</unitdate>
@@ -795,37 +795,37 @@ Mary C. Bromage papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [127583535584772849377935]">4</container>
               <unittitle>"Ireland's Nationalist Leadership is a 20th Century Prototype?" <unitdate type="inclusive">undated</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [127583535584772849377935]">4</container>
               <unittitle>"Lady to the Last," <unitdate type="inclusive">undated</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [127583535584772849377935]">4</container>
               <unittitle>"Nationalist Leadership--The Irish Prototype," <unitdate type="inclusive">undated</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [127583535584772849377935]">4</container>
               <unittitle>"Recollected Glimpses of Eugene O'Neill in Provincetown, Mass." <unitdate type="inclusive" normal="1984">1984</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [127583535584772849377935]">4</container>
               <unittitle>"Sacred Fount," <unitdate type="inclusive">undated</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [127583535584772849377935]">4</container>
               <unittitle>Short Stories <unitdate type="inclusive">undated</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -834,38 +834,38 @@ Mary C. Bromage papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [127583535584772849377935]">4</container>
               <unittitle>Short Stories <unitdate type="inclusive" normal="1924/1979">1924-1979</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [127583535584772849377935]">4</container>
               <unittitle>"The Tenets of Force In The Role of a Nationalist Leader," <unitdate type="inclusive">undated</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [127583535584772849377935]">4</container>
               <unittitle>"Two Short Stories," (submitted for the Major Fiction Award) <unitdate type="inclusive">undated</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [127583535584772849377935]">4</container>
               <unittitle>Untitled and <unitdate type="inclusive">undated</unitdate></unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [127583535584772849377935]">4</container>
             <unittitle>Newspaper Story <unitdate type="inclusive" normal="1923">1923</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [127583535584772849377935]">4</container>
             <unittitle>Passports</unittitle>
             <unitdate type="inclusive" normal="1970">1970</unitdate>
             <unitdate type="inclusive" normal="1977">1977</unitdate>
@@ -874,7 +874,7 @@ Mary C. Bromage papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [127583535584772849377935]">4</container>
             <unittitle>Personal Honors</unittitle>
             <unitdate type="inclusive" normal="1976">1976</unitdate>
             <unitdate type="inclusive" normal="1982">1982</unitdate>
@@ -882,19 +882,19 @@ Mary C. Bromage papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [127583535584772849377935]">4</container>
             <unittitle>Recognition in the Press <unitdate type="inclusive" normal="1978/1992">1978-1992</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [127583535584772849377935]">4</container>
             <unittitle>Speeches <unitdate type="inclusive" normal="1983/1993">1983-1993</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [127583535584772849377935]">4</container>
             <unittitle>Synopsis Pilot Report Writing Seminar <unitdate type="inclusive" normal="1965">1965</unitdate></unittitle>
           </did>
         </c02>
@@ -904,80 +904,80 @@ Mary C. Bromage papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [127583535584772849377935]">4</container>
               <unittitle>Audit Reports <unitdate type="inclusive">undated</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [127583535584772849377935]">4</container>
               <unittitle>Correspondence Course, Business In Writing <unitdate type="inclusive" normal="1992">1992</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [127583535584772849377935]">4</container>
               <unittitle>Correspondence Course, Practical Writing for Business <unitdate type="inclusive" normal="1965">1965</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [127583535584772849377935]">4</container>
               <unittitle>Course Evaluation for Graduate School United States Department of Agriculture <unitdate type="inclusive" normal="1991/1993">1991-1993</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [127583535584772849377935]">4</container>
               <unittitle>Executive Education Center <unitdate type="inclusive">undated</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [127583535584772849377935]">4</container>
               <unittitle>Foreign Communication <unitdate type="inclusive">undated</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [127583535584772849377935]">4</container>
               <unittitle>Government Audit Training Institute <unitdate type="inclusive" normal="1993/1994">1993-1994</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [127583535584772849377935]">4</container>
               <unittitle>Investigative Writings <unitdate type="inclusive" normal="1986">1986</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [127583535584772849377935]">4</container>
               <unittitle>Speaker Evaluation at University of Michigan <unitdate type="inclusive" normal="1989/1991">1989-1991</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [127583535584772849377935]">4</container>
               <unittitle>Transparencies Originals <unitdate type="inclusive">undated</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [127583535584772849377935]">4</container>
               <unittitle>Written Communication <unitdate type="inclusive">undated</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [127583535584772849377935]">4</container>
               <unittitle>Writing and Re-Writing <unitdate type="inclusive">undated</unitdate></unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [127583535584772849377935]">4</container>
             <unittitle>Transcripts of Interviews done for Book on Ire</unittitle>
             <unitdate type="inclusive" normal="1936">1936</unitdate>
             <unitdate type="inclusive" normal="1952/1953">1952-1953</unitdate>
@@ -985,19 +985,19 @@ Mary C. Bromage papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [127583535584772849377935]">4</container>
             <unittitle>Travel in Europe <unitdate type="inclusive" normal="1960">1960</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [127583535584772849377935]">4</container>
             <unittitle>University of Michigan Recognition <unitdate type="inclusive" normal="1962/1992">1962-1992</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [127583535584772849377935]">4</container>
             <unittitle>Workshop and Class Arrangements <unitdate type="inclusive" normal="1991/1994">1991-1994</unitdate></unittitle>
           </did>
         </c02>

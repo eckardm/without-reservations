@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>D. N. Lowell collection <lb/>of pamphlets and publications, 1855-1882</titleproper>
       <author>Finding aid created by <lb/>Michigan Historical Collections staff</author>
     </titlepage>
@@ -85,9 +85,9 @@
         <head>Subjects:</head>
         <corpname encodinganalog="610" source="lcnaf">University of Michigan--History--19th century.</corpname>
         <corpname encodinganalog="610" source="lcnaf">University of Michigan. Dept. of Law.</corpname>
-        <subject encodinganalog="650" source="lcsh">Baccalaureate addresses--University of Michigan.</subject>
-        <subject encodinganalog="650" source="lcsh">Education.</subject>
-        <geogname encodinganalog="651" source="lcsh">Michigan--Politics and government--1837-1950.</geogname>
+        <subject encodinganalog="650" source="lcsh" ref="/subjects/8864">Baccalaureate addresses--University of Michigan.</subject>
+        <subject encodinganalog="650" source="lcsh" ref="/subjects/8865">Education.</subject>
+        <geogname encodinganalog="651" source="lcsh" ref="/subjects/884">Michigan--Politics and government--1837-1950.</geogname>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -99,7 +99,7 @@
         </did>
         <c02 level="file">
           <did>
-            <container type="volume" label="Volume">I</container>
+            <container type="volume" label="Volume [24047649853276949142]">I</container>
             <unittitle>
               <bibref><title render="italic">University of Michigan Thirty-fourth Annual Commencement</title>. <imprint>[Ann Arbor <date type="publication">June 27, 1878</date>]</imprint></bibref>
             </unittitle>
@@ -205,7 +205,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Volume">II</container>
+            <container type="volume" label="Volume [665340803115699713]">II</container>
             <unittitle>
               <bibref>Blaine, James G. <title render="italic">Memorial Address on the Life and Character of James Abram Garfield</title>. <imprint>[Washington, D.C. <date type="publication">1882</date>]</imprint></bibref>
             </unittitle>
@@ -352,7 +352,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Volume">III</container>
+            <container type="volume" label="Volume [843334674488735283679]">III</container>
             <unittitle>
               <bibref>Tappan, Henry P. <title render="italic">The Progress of Educational Development</title>. <imprint>[Ann Arbor <date type="publication">1855</date>]</imprint></bibref>
             </unittitle>
@@ -430,7 +430,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Volume">IV</container>
+            <container type="volume" label="Volume [5884604444980578053]">IV</container>
             <unittitle>
               <bibref>Blair, Austin. <title render="italic">Governors Message, January 19, 1864</title>. <imprint>[Lansing <date type="publication">1864</date>]</imprint></bibref>
             </unittitle>
@@ -518,7 +518,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Volume">V</container>
+            <container type="volume" label="Volume [5689634339929385445376]">V</container>
             <unittitle>
               <bibref>Michigan University. Regents Proceedings, 1858- 1863</bibref>
             </unittitle>
@@ -526,7 +526,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Volume">VI</container>
+            <container type="volume" label="Volume [137572750458479698326]">VI</container>
             <unittitle>
               <bibref>
                 <title>Michigan University. Regents Proceedings, 1864- 1870</title>

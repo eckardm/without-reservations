@@ -30,7 +30,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding Aid for <lb/>Patrick Vincent McMenamy photograph collection, 1918-1919 and 1990s</titleproper>
       <author>Finding aid prepared by: <lb/>Polly Reynolds, Sept. 2005</author>
     </titlepage>
@@ -78,14 +78,14 @@
       <controlaccess>
         <head>Subjects</head>
         <persname source="lcnaf" encodinganalog="600">McMenamy, Patrick Vincent, 1894-1965.</persname>
-        <geogname source="lcsh" encodinganalog="651">Soviet Union--History--Allied intervention, 1918-1920.</geogname>
-        <subject source="local" encodinganalog="690" authfilenumber="http://id.loc.gov/authorities/names/n2008059426">Polar Bear Expedition.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/883">Soviet Union--History--Allied intervention, 1918-1920.</geogname>
+        <subject source="local" encodinganalog="690" authfilenumber="http://id.loc.gov/authorities/names/n2008059426" ref="/subjects/3518">Polar Bear Expedition.</subject>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n82129076">United States. Army. Infantry, 339th.</corpname>
-        <subject source="lctgm" encodinganalog="650">Soldiers--American.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3674">Soldiers--American.</subject>
       </controlaccess>
       <controlaccess>
         <head>Genre/Form:</head>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -95,12 +95,12 @@
         </did>
         <c02 level="file">
           <did>
-            <container label="Oversize Folder" type="folder">1</container>
+            <container label="Oversize Folder [88992614200763066788]" type="folder">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1918/1919">1918-1919</unitdate>
               <unitdate type="inclusive" normal="1990/1999" certainty="approximate">1990s</unitdate>
             </unittitle>
-            <dao href="mcmenamy0001" show="new" actuate="onrequest">
+            <dao href="mcmenamy0001" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/3980">
               <daodesc>
                 <p>[view images]</p>
               </daodesc>

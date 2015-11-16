@@ -35,7 +35,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>University Archives and Records Program <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/2">University Archives and Records Program <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Scientific Expedition to Lake Superior <lb/>Photograph collection</titleproper>
       <author>Finding aid created by <lb/>Michigan Historical Collections staff</author>
     </titlepage>
@@ -90,29 +90,29 @@ Scientific Expedition to Lake Superior photograph collection, Bentley Historical
       </p>
       <controlaccess>
         <head>Subjects - Visual Materials:</head>
-        <subject source="lctgm" encodinganalog="650">Boats.</subject>
-        <subject source="lctgm" encodinganalog="650">Camping.</subject>
-        <subject source="lctgm" encodinganalog="650">Copper mining.</subject>
-        <subject source="lcsh" encodinganalog="650">Indians of North America.</subject>
-        <subject source="lctgm" encodinganalog="650">Iron industry.</subject>
-        <geogname source="lcsh" encodinganalog="651">Isle Royale (Mich.)</geogname>
-        <subject source="lctgm" encodinganalog="650">Lighthouses--Michigan.</subject>
-        <geogname source="lcsh" encodinganalog="651">Marquette (Mich.)</geogname>
-        <geogname source="lcsh" encodinganalog="651">Munising (Mich.)</geogname>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n82062810.html">Negaunee (Mich.)</geogname>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n81144381.html">Ontonagon County (Mich.)</geogname>
-        <geogname source="lcsh" encodinganalog="651">Pictured Rocks (Mich.)--1868.</geogname>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3743">Boats.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3652">Camping.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4178">Copper mining.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6747">Indians of North America.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/5277">Iron industry.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1695">Isle Royale (Mich.)</geogname>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3834">Lighthouses--Michigan.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/997">Marquette (Mich.)</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1170">Munising (Mich.)</geogname>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n82062810.html" ref="/subjects/1173">Negaunee (Mich.)</geogname>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n81144381.html" ref="/subjects/2098">Ontonagon County (Mich.)</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/2791">Pictured Rocks (Mich.)--1868.</geogname>
         <corpname source="lcnaf" encodinganalog="610">Schoolcraft Iron Company.</corpname>
-        <subject source="lctgm" encodinganalog="650">Expeditions and surveys.</subject>
-        <subject source="lctgm" encodinganalog="650">Ships--Great Lakes.</subject>
-        <geogname source="lcsh" encodinganalog="651">Superior, Lake.</geogname>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3862">Expeditions and surveys.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3981">Ships--Great Lakes.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1439">Superior, Lake.</geogname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan. Scientific Expedition to Lake Superior (1868)</corpname>
-        <subject source="lcsh" encodinganalog="650">Waterfalls.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/10016">Waterfalls.</subject>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
-        <genreform source="lctgm" encodinganalog="655">Stereographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
+        <genreform source="lctgm" encodinganalog="655" ref="/subjects/3426">Stereographs.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -124,7 +124,7 @@ Scientific Expedition to Lake Superior photograph collection, Bentley Historical
         </did>
         <c02 level="file">
           <did>
-            <container type="folder" label="Folder">1</container>
+            <container type="folder" label="Folder [778682386496805060152798]">1</container>
             <unittitle>Ontonagon County, Michigan</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">5 cards</extent>
@@ -136,7 +136,7 @@ Scientific Expedition to Lake Superior photograph collection, Bentley Historical
         </c02>
         <c02 level="file">
           <did>
-            <container type="folder" label="Folder">1</container>
+            <container type="folder" label="Folder [778682386496805060152798]">1</container>
             <unittitle>Pigeon River, Minnesota (Pigeon River Falls and rapids)</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">4 cards</extent>
@@ -148,7 +148,7 @@ Scientific Expedition to Lake Superior photograph collection, Bentley Historical
         </c02>
         <c02 level="file">
           <did>
-            <container type="folder" label="Folder">2</container>
+            <container type="folder" label="Folder [04236672052445988791835]">2</container>
             <unittitle>Rock Harbor, Isle Royale, Michigan (views of harbor, U-M expedition party in boats, lighthouse)</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">20 cards</extent>
@@ -160,7 +160,7 @@ Scientific Expedition to Lake Superior photograph collection, Bentley Historical
         </c02>
         <c02 level="file">
           <did>
-            <container type="folder" label="Folder">3</container>
+            <container type="folder" label="Folder [703791840499564944126]">3</container>
             <unittitle>Neepigon Bay, North Shore of Lake Superior (views of shoreline, 1 view of expedition camp)</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">5 cards</extent>
@@ -172,7 +172,7 @@ Scientific Expedition to Lake Superior photograph collection, Bentley Historical
         </c02>
         <c02 level="file">
           <did>
-            <container type="folder" label="Folder">3</container>
+            <container type="folder" label="Folder [703791840499564944126]">3</container>
             <unittitle>St Ignace Island, North Shore of Lake Superior</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">7 cards</extent>
@@ -184,7 +184,7 @@ Scientific Expedition to Lake Superior photograph collection, Bentley Historical
         </c02>
         <c02 level="file">
           <did>
-            <container type="folder" label="Folder">3</container>
+            <container type="folder" label="Folder [703791840499564944126]">3</container>
             <unittitle>Perry's Island, North Shore of Lake Superior</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">3 cards</extent>
@@ -196,7 +196,7 @@ Scientific Expedition to Lake Superior photograph collection, Bentley Historical
         </c02>
         <c02 level="file">
           <did>
-            <container type="folder" label="Folder">4</container>
+            <container type="folder" label="Folder [0485395404086969872472772]">4</container>
             <unittitle>Heck's Island, North Shore of Lake Superior</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 cards</extent>
@@ -208,7 +208,7 @@ Scientific Expedition to Lake Superior photograph collection, Bentley Historical
         </c02>
         <c02 level="file">
           <did>
-            <container type="folder" label="Folder">4</container>
+            <container type="folder" label="Folder [0485395404086969872472772]">4</container>
             <unittitle>St. Ignace Island, North Shore of Lake Superior</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">3 cards</extent>
@@ -220,7 +220,7 @@ Scientific Expedition to Lake Superior photograph collection, Bentley Historical
         </c02>
         <c02 level="file">
           <did>
-            <container type="folder" label="Folder">4</container>
+            <container type="folder" label="Folder [0485395404086969872472772]">4</container>
             <unittitle>Simpson's Island, North Shore of Lake Superior</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">1 cards</extent>
@@ -232,7 +232,7 @@ Scientific Expedition to Lake Superior photograph collection, Bentley Historical
         </c02>
         <c02 level="file">
           <did>
-            <container type="folder" label="Folder">4</container>
+            <container type="folder" label="Folder [0485395404086969872472772]">4</container>
             <unittitle>Thunder Bay, North Shore of Lake Superior</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">3 cards</extent>
@@ -244,7 +244,7 @@ Scientific Expedition to Lake Superior photograph collection, Bentley Historical
         </c02>
         <c02 level="file">
           <did>
-            <container type="folder" label="Folder">5</container>
+            <container type="folder" label="Folder [57167439126354750]">5</container>
             <unittitle>Kaministiquia River, Canada</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">16 cards</extent>
@@ -256,7 +256,7 @@ Scientific Expedition to Lake Superior photograph collection, Bentley Historical
         </c02>
         <c02 level="file">
           <did>
-            <container type="folder" label="Folder">6</container>
+            <container type="folder" label="Folder [3012391397647981482101]">6</container>
             <unittitle>Thunder Cape, North Shore of Lake Superior</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">1 cards</extent>
@@ -268,7 +268,7 @@ Scientific Expedition to Lake Superior photograph collection, Bentley Historical
         </c02>
         <c02 level="file">
           <did>
-            <container type="folder" label="Folder">6</container>
+            <container type="folder" label="Folder [3012391397647981482101]">6</container>
             <unittitle>Isle Royale, Michigan</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 cards</extent>
@@ -280,7 +280,7 @@ Scientific Expedition to Lake Superior photograph collection, Bentley Historical
         </c02>
         <c02 level="file">
           <did>
-            <container type="folder" label="Folder">6</container>
+            <container type="folder" label="Folder [3012391397647981482101]">6</container>
             <unittitle>Rock Harbor, Isle Royale, Michigan, Siskowit Mine building</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">1 cards</extent>
@@ -292,7 +292,7 @@ Scientific Expedition to Lake Superior photograph collection, Bentley Historical
         </c02>
         <c02 level="file">
           <did>
-            <container type="folder" label="Folder">6</container>
+            <container type="folder" label="Folder [3012391397647981482101]">6</container>
             <unittitle>Marquette, Michigan</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">5 cards</extent>
@@ -304,7 +304,7 @@ Scientific Expedition to Lake Superior photograph collection, Bentley Historical
         </c02>
         <c02 level="file">
           <did>
-            <container type="folder" label="Folder">7</container>
+            <container type="folder" label="Folder [14390211473898681870]">7</container>
             <unittitle>Pictured Rocks, Michigan</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">11 cards</extent>
@@ -316,12 +316,12 @@ Scientific Expedition to Lake Superior photograph collection, Bentley Historical
         </c02>
         <c02 level="file">
           <did>
-            <container type="folder" label="Folder">8</container>
+            <container type="folder" label="Folder [553664174195308222]">8</container>
             <unittitle>Munising, Michigan</unittitle>
           </did>
           <c03 level="file">
             <did>
-              <container type="folder" label="Folder">8</container>
+              <container type="folder" label="Folder [553664174195308222]">8</container>
               <unittitle>Schoolcraft Iron Company; buildings and furnace</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">5 cards</extent>
@@ -333,7 +333,7 @@ Scientific Expedition to Lake Superior photograph collection, Bentley Historical
           </c03>
           <c03 level="file">
             <did>
-              <container type="folder" label="Folder">8</container>
+              <container type="folder" label="Folder [553664174195308222]">8</container>
               <unittitle>Cascade</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">1 cards</extent>
@@ -345,7 +345,7 @@ Scientific Expedition to Lake Superior photograph collection, Bentley Historical
           </c03>
           <c03 level="file">
             <did>
-              <container type="folder" label="Folder">8</container>
+              <container type="folder" label="Folder [553664174195308222]">8</container>
               <unittitle>Munising Falls</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 cards</extent>
@@ -358,7 +358,7 @@ Scientific Expedition to Lake Superior photograph collection, Bentley Historical
         </c02>
         <c02 level="file">
           <did>
-            <container type="folder" label="Folder">8</container>
+            <container type="folder" label="Folder [553664174195308222]">8</container>
             <unittitle>Marquette, Michigan, expedition camp</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">1 cards</extent>
@@ -370,7 +370,7 @@ Scientific Expedition to Lake Superior photograph collection, Bentley Historical
         </c02>
         <c02 level="file">
           <did>
-            <container type="folder" label="Folder">8</container>
+            <container type="folder" label="Folder [553664174195308222]">8</container>
             <unittitle>Negaunee, Michigan</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">3 cards</extent>
@@ -382,7 +382,7 @@ Scientific Expedition to Lake Superior photograph collection, Bentley Historical
         </c02>
         <c02 level="file">
           <did>
-            <container type="folder" label="Folder">9</container>
+            <container type="folder" label="Folder [2352594442846649979]">9</container>
             <unittitle>Unnumbered cards</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">4 cards</extent>
@@ -394,7 +394,7 @@ Scientific Expedition to Lake Superior photograph collection, Bentley Historical
         </c02>
         <c02 level="file">
           <did>
-            <container type="folder" label="Folder">10</container>
+            <container type="folder" label="Folder [9298489408501783247]">10</container>
             <unittitle>Duplicate cards (reprints)</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">3 cards</extent>
@@ -403,7 +403,7 @@ Scientific Expedition to Lake Superior photograph collection, Bentley Historical
         </c02>
         <c02 level="file">
           <did>
-            <container type="folder" label="Folder">11</container>
+            <container type="folder" label="Folder [76541444259159256]">11</container>
             <unittitle>Balmer prints</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">8 cards</extent>
@@ -422,7 +422,7 @@ Scientific Expedition to Lake Superior photograph collection, Bentley Historical
         </did>
         <c02 level="file">
           <did>
-            <container type="folder" label="Folder">12</container>
+            <container type="folder" label="Folder [83774078880676760]">12</container>
             <unittitle>Campsite photos</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">5 prints</extent>
@@ -439,7 +439,7 @@ Scientific Expedition to Lake Superior photograph collection, Bentley Historical
         </did>
         <c02 level="file">
           <did>
-            <container type="folder" label="Folder">13</container>
+            <container type="folder" label="Folder [09688458507130467788]">13</container>
             <unittitle>Notes on the Expedition by F. Clever Bald <unitdate type="inclusive" normal="1950" certainty="approximate">circa 1950</unitdate></unittitle>
           </did>
           <odd>

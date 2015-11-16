@@ -31,7 +31,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Julia Bird Martin papers, 1796-1965</titleproper>
       <author>Finding aid created by <lb/>Michigan Historical Collections staff</author>
     </titlepage>
@@ -89,11 +89,11 @@ Julia Bird Martin papers, Bentley Historical Library, University of Michigan</p>
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n79022219.html">Ann Arbor (Mich.)</geogname>
-        <geogname source="lcsh" encodinganalog="651">California--Gold discoveries.</geogname>
-        <geogname source="lcsh" encodinganalog="651">California--Social life and customs.</geogname>
-        <geogname source="lcsh" encodinganalog="651">Washtenaw County (Mich.)</geogname>
-        <subject source="lcsh" encodinganalog="650">Women--Michigan--Ann Arbor.</subject>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n79022219.html" ref="/subjects/860">Ann Arbor (Mich.)</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1298">California--Gold discoveries.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/2296">California--Social life and customs.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/847">Washtenaw County (Mich.)</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5739">Women--Michigan--Ann Arbor.</subject>
         <persname source="lcnaf" encodinganalog="600">Martin, Julia Bird.</persname>
       </controlaccess>
       <controlaccess>
@@ -114,8 +114,8 @@ Julia Bird Martin papers, Bentley Historical Library, University of Michigan</p>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="gmgpc" encodinganalog="655">Daguerreotypes.</genreform>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="gmgpc" encodinganalog="655" ref="/subjects/3480">Daguerreotypes.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -132,7 +132,7 @@ Julia Bird Martin papers, Bentley Historical Library, University of Michigan</p>
           </odd>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [8303305448499701819186]">1</container>
               <unittitle>
                 <unitdate type="inclusive">Undated</unitdate>
               </unittitle>
@@ -140,13 +140,13 @@ Julia Bird Martin papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [8303305448499701819186]">1</container>
               <unittitle><unitdate type="inclusive">Undated</unitdate> fragments</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [8303305448499701819186]">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1796/1840">1796-1840</unitdate>
               </unittitle>
@@ -154,7 +154,7 @@ Julia Bird Martin papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [8303305448499701819186]">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1841/1860">1841-1860</unitdate>
               </unittitle>
@@ -162,7 +162,7 @@ Julia Bird Martin papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [8303305448499701819186]">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1861/1870">1861-1870</unitdate>
               </unittitle>
@@ -170,7 +170,7 @@ Julia Bird Martin papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [8303305448499701819186]">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1871/1875">1871-1875</unitdate>
               </unittitle>
@@ -178,7 +178,7 @@ Julia Bird Martin papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [8303305448499701819186]">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1876/1880">1876-1880</unitdate>
               </unittitle>
@@ -186,7 +186,7 @@ Julia Bird Martin papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [8303305448499701819186]">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1881/1890">1881-1890</unitdate>
               </unittitle>
@@ -194,7 +194,7 @@ Julia Bird Martin papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [8303305448499701819186]">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1891/1965">1891-1965</unitdate>
               </unittitle>
@@ -203,43 +203,43 @@ Julia Bird Martin papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [2036094986327364]">2</container>
             <unittitle>Correspondence and papers <unitdate type="inclusive" normal="1875/1898">1875-1898</unitdate> concerning Northern Pacific Railroad Company</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [2036094986327364]">2</container>
             <unittitle>Clippings concerning the Slatford Bird family of Ann Arbor</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [2036094986327364]">2</container>
             <unittitle>Clippings: largely newspaper front pages with announcements of assassinations of Lincoln, Garfield, etc.</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [2036094986327364]">2</container>
             <unittitle>Christmas cards and miscellaneous postcards</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [2036094986327364]">2</container>
             <unittitle>Miscellanea; include printed material</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [2036094986327364]">2</container>
             <unittitle>Notes and enlarged copies of selected family letters used by Professor Russell Bidlack in his research</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [2036094986327364]">2</container>
             <unittitle>James William Martin genealogical print-outs</unittitle>
           </did>
           <odd>
@@ -254,7 +254,7 @@ Julia Bird Martin papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [2036094986327364]">2</container>
               <unittitle>Family portraits</unittitle>
             </did>
           </c03>

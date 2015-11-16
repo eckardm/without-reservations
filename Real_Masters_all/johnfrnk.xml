@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Frank O. Johnson papers, 1913-1950</titleproper>
       <author>Finding aid created by <lb/>Michigan Historical Collections staff</author>
     </titlepage>
@@ -79,26 +79,26 @@ Frank O. Johnson papers, Bentley Historical Library, University of Michigan</p>
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <subject source="lcsh" encodinganalog="650">Business records.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5784">Business records.</subject>
         <corpname source="lcnaf" encodinganalog="610">Covalt (Ship)</corpname>
-        <geogname source="lcsh" encodinganalog="651">Great Lakes (North America)</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1815">Great Lakes (North America)</geogname>
         <persname source="lcnaf" encodinganalog="600">Johnson, Frank O., 1877-1950.</persname>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n81056721.html">Ludington (Mich.)</geogname>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n81056721.html" ref="/subjects/1151">Ludington (Mich.)</geogname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n87890683">Morton Salt Company.</corpname>
-        <subject source="lcsh" encodinganalog="650">Shipping--Great Lakes (North America)</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6086">Shipping--Great Lakes (North America)</subject>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Materials:</head>
         <corpname source="lcnaf" encodinganalog="610">City of Flint (Ship)</corpname>
-        <subject source="lctgm" encodinganalog="650">Ferries.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3787">Ferries.</subject>
         <corpname source="lcnaf" encodinganalog="610">H.C. Akeley (Ship)</corpname>
         <persname source="lcnaf" encodinganalog="600">Johnson, Frank O., 1877-1950.</persname>
-        <subject source="lctgm" encodinganalog="650">Marine accidents.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4183">Marine accidents.</subject>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
-        <genreform source="aat" encodinganalog="655">Scrapbooks.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3139">Scrapbooks.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -108,43 +108,43 @@ Frank O. Johnson papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [915891484184000262176]">1</container>
             <unittitle>Correspondence <unitdate type="inclusive" normal="1942/1950">1942-1950</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [915891484184000262176]">1</container>
             <unittitle>Reminiscences <unitdate type="inclusive" normal="1928">1928</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [915891484184000262176]">1</container>
             <unittitle><genreform normal="Scrapbooks">Scrapbook</genreform>, <unitdate type="inclusive" normal="1913/1949">1913-1949</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [915891484184000262176]">1</container>
             <unittitle>Miscellaneous materials</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [915891484184000262176]">1</container>
             <unittitle>S.S. Covalt time and payroll book <unitdate type="inclusive" normal="1922/1926">1922-1926</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [915891484184000262176]">1</container>
             <unittitle>S.S. Covalt time and payroll book <unitdate type="inclusive" normal="1926/1935">1926-1935</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [915891484184000262176]">1</container>
             <unittitle>S.S. Covalt timebook</unittitle>
             <unitdate type="inclusive" normal="1926">1926</unitdate>
             <unitdate type="inclusive" normal="1935/1942">1935-1942</unitdate>
@@ -152,7 +152,7 @@ Frank O. Johnson papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [915891484184000262176]">1</container>
             <unittitle>S.S. Craigsmen cashbook 1922-1927; also S.S. Covalt cashbook, 1929-1942</unittitle>
             <unitdate type="inclusive" normal="1922/1927">1922-1927</unitdate>
             <unitdate type="inclusive" normal="1929/1942">1929-1942</unitdate>
@@ -160,31 +160,31 @@ Frank O. Johnson papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [915891484184000262176]">1</container>
             <unittitle>Logbook <unitdate type="inclusive" normal="1929/1942">1929-1942</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [915891484184000262176]">1</container>
             <unittitle>Logbook <unitdate type="inclusive" normal="1941/1942">1941-1942</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [915891484184000262176]">1</container>
             <unittitle>Steamer Marion time and payroll book <unitdate type="inclusive" normal="1919/1921">1919-1921</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [915891484184000262176]">1</container>
             <unittitle>Payroll book <unitdate type="inclusive" normal="1922">1922</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [915891484184000262176]">1</container>
             <unittitle><genreform normal="Photographs">Photographs</genreform>: photos of Johnson and of ships</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 envelopes</extent>

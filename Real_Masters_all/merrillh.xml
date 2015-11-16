@@ -31,7 +31,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Howard E. Merrill Papers, 1917-1924</titleproper>
       <author>Finding aid created by <lb/>Olga Virakhovskaya, September 2012</author>
     </titlepage>
@@ -91,12 +91,12 @@ Howard E. Merrill papers, 1917-1924, Bentley Historical Library, University of M
         <persname encodinganalog="600" source="lcnaf">Merrill, Howard E.</persname>
         <persname encodinganalog="600" source="lcnaf" authfilenumber="http://id.loc.gov/authorities/names/n91088667">Lowrie, Donald A., (Donald Alexander), 1889-1974.</persname>
         <corpname encodinganalog="610" source="lcnaf">Young Men's Christian Associations.</corpname>
-        <subject source="lctgm" encodinganalog="650">Prisoners of war--Germany.</subject>
-        <subject source="lctgm" encodinganalog="650">Prisoners of war--Russia (Federation)</subject>
-        <subject source="lctgm" encodinganalog="650">World War, 1914-1918--Russia.</subject>
-        <subject source="lctgm" encodinganalog="650">World War, 1914-1918--Prisoners and prisons, German.</subject>
-        <geogname source="lctgm" encodinganalog="651">Soviet Union--History--Revolution, 1917-1921.</geogname>
-        <geogname source="lctgm" encodinganalog="651">Poland--History--Wars of 1918-1921.</geogname>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4795">Prisoners of war--Germany.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4495">Prisoners of war--Russia (Federation)</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4796">World War, 1914-1918--Russia.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4797">World War, 1914-1918--Prisoners and prisons, German.</subject>
+        <geogname source="lctgm" encodinganalog="651" ref="/subjects/571">Soviet Union--History--Revolution, 1917-1921.</geogname>
+        <geogname source="lctgm" encodinganalog="651" ref="/subjects/572">Poland--History--Wars of 1918-1921.</geogname>
         <corpname encodinganalog="690" source="lcnaf" authfilenumber="http://id.loc.gov/authorities/names/n2008059426">Polar Bear Expedition.</corpname>
       </controlaccess>
       <controlaccess>
@@ -106,8 +106,8 @@ Howard E. Merrill papers, 1917-1924, Bentley Historical Library, University of M
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat">Photographs.</genreform>
-        <genreform source="aat">Postcards.</genreform>
+        <genreform source="aat" ref="/subjects/3141">Photographs.</genreform>
+        <genreform source="aat" ref="/subjects/3186">Postcards.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -121,7 +121,7 @@ Howard E. Merrill papers, 1917-1924, Bentley Historical Library, University of M
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [0263789694615751520364]">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1917">1917</unitdate>
               </unittitle>
@@ -129,7 +129,7 @@ Howard E. Merrill papers, 1917-1924, Bentley Historical Library, University of M
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [0263789694615751520364]">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1918">1918</unitdate>
               </unittitle>
@@ -140,7 +140,7 @@ Howard E. Merrill papers, 1917-1924, Bentley Historical Library, University of M
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [0263789694615751520364]">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1919">1919</unitdate>
               </unittitle>
@@ -148,7 +148,7 @@ Howard E. Merrill papers, 1917-1924, Bentley Historical Library, University of M
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [0263789694615751520364]">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1920">1920</unitdate>
               </unittitle>
@@ -156,7 +156,7 @@ Howard E. Merrill papers, 1917-1924, Bentley Historical Library, University of M
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [0263789694615751520364]">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1921">1921</unitdate>
               </unittitle>
@@ -167,7 +167,7 @@ Howard E. Merrill papers, 1917-1924, Bentley Historical Library, University of M
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [0263789694615751520364]">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1922">1922</unitdate>
               </unittitle>
@@ -175,7 +175,7 @@ Howard E. Merrill papers, 1917-1924, Bentley Historical Library, University of M
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [0263789694615751520364]">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1923/1924">1923-1924</unitdate>
               </unittitle>
@@ -183,7 +183,7 @@ Howard E. Merrill papers, 1917-1924, Bentley Historical Library, University of M
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [0263789694615751520364]">1</container>
               <unittitle>
                 <unitdate type="inclusive">Undated</unitdate>
               </unittitle>
@@ -192,7 +192,7 @@ Howard E. Merrill papers, 1917-1924, Bentley Historical Library, University of M
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [0263789694615751520364]">1</container>
             <unittitle>Reports <unitdate type="inclusive" normal="1920/1924">1920-1924</unitdate></unittitle>
           </did>
         </c02>
@@ -202,7 +202,7 @@ Howard E. Merrill papers, 1917-1924, Bentley Historical Library, University of M
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [0263789694615751520364]">1</container>
               <unittitle>Russian Theater playbills <unitdate type="inclusive" normal="1920-10/1920-12">October-December 1920</unitdate></unittitle>
             </did>
           </c03>
@@ -212,13 +212,13 @@ Howard E. Merrill papers, 1917-1924, Bentley Historical Library, University of M
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [0263789694615751520364]">1</container>
                 <unittitle><title render="italic">Voskhod</title> (Sunrise), no.1, <unitdate type="inclusive" normal="1920-11-07">November 7, 1920</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [0263789694615751520364]">1</container>
                 <unittitle><title render="italic">Internirovannyi krasnoarmeets</title> (The Internee Red Army soldier), nos. 1-2, <unitdate type="inclusive" normal="1921-01">January 1921</unitdate></unittitle>
               </did>
             </c04>
@@ -230,13 +230,13 @@ Howard E. Merrill papers, 1917-1924, Bentley Historical Library, University of M
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [0263789694615751520364]">1</container>
               <unittitle>Moscow Diary <unitdate type="inclusive" normal="1920-11">November 1920</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [0263789694615751520364]">1</container>
               <unittitle>Writings <unitdate type="inclusive" normal="1920">1920</unitdate></unittitle>
             </did>
           </c03>

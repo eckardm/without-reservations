@@ -34,7 +34,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding Aid for <lb/>Michael J. Macalla papers, <date>1918-1956</date></titleproper>
       <author>Finding aid prepared by: <lb/>Len Coombs</author>
     </titlepage>
@@ -80,9 +80,9 @@
       <controlaccess>
         <head>Subjects</head>
         <persname source="lcnaf" encodinganalog="600">Macalla, Michael J.</persname>
-        <geogname source="lcsh" encodinganalog="651">Soviet Union--History--Allied intervention, 1918-1920.</geogname>
-        <subject source="lcsh" encodinganalog="650">World War, 1914-1918.</subject>
-        <subject source="local" encodinganalog="690" authfilenumber="http://id.loc.gov/authorities/names/n2008059426">Polar Bear Expedition.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/883">Soviet Union--History--Allied intervention, 1918-1920.</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5712">World War, 1914-1918.</subject>
+        <subject source="local" encodinganalog="690" authfilenumber="http://id.loc.gov/authorities/names/n2008059426" ref="/subjects/3518">Polar Bear Expedition.</subject>
         <corpname source="lcnaf" encodinganalog="610">White Chapel Memorial Park Cemetery (Troy, Mich.)</corpname>
         <corpname source="lcnaf" encodinganalog="610">Polar Bear Association.</corpname>
         <persname source="lcnaf" encodinganalog="600">Beozowski, John J.</persname>
@@ -92,7 +92,7 @@
       </controlaccess>
       <controlaccess>
         <head>Genre/Form:</head>
-        <genreform source="aat" encodinganalog="655">Diaries.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3150">Diaries.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -102,7 +102,7 @@
         </did>
         <c02 level="file">
           <did>
-            <container label="Folder" type="folder">1</container>
+            <container label="Folder [9871968704899171]" type="folder">1</container>
             <unittitle>Miscellaneous materials relating to Polar Bear Expedition</unittitle>
             <unitdate type="inclusive" normal="1918/1919">1918-1919</unitdate>
             <unitdate type="inclusive" normal="1941">1941</unitdate>
@@ -113,13 +113,13 @@
         </c02>
         <c02 level="file">
           <did>
-            <container label="Folder" type="folder">2</container>
+            <container label="Folder [60706476821723]" type="folder">2</container>
             <unittitle>Materials relating to Russian trip to recover bodies of Americans <unitdate type="inclusive" normal="1929">1929</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container label="Folder" type="folder">3</container>
+            <container label="Folder [74277110367462831789290]" type="folder">3</container>
             <unittitle>Correspondence relating to Polar Bear Association affairs <unitdate type="inclusive" normal="1919/1949">1919-1949</unitdate></unittitle>
           </did>
           <odd>
@@ -128,7 +128,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container label="Folder" type="folder">4</container>
+            <container label="Folder [394098147584586469]" type="folder">4</container>
             <unittitle>Correspondence <unitdate type="inclusive" normal="1950/1969">1950-1969</unitdate></unittitle>
           </did>
           <odd>
@@ -137,19 +137,19 @@
         </c02>
         <c02 level="file">
           <did>
-            <container label="Folder" type="folder">5</container>
+            <container label="Folder [63526000462684895958633]" type="folder">5</container>
             <unittitle>Speeches, eulogies, and programs, of members of Polar Bear Association <unitdate type="inclusive" normal="1947/1955">1947-1955</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container label="Folder" type="folder">6</container>
+            <container label="Folder [4596121590984959384457989]" type="folder">6</container>
             <unittitle>Polar Bear Association organizational and promotional miscellanea <unitdate type="inclusive" normal="1950/1959" certainty="approximate">1950s</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container label="Folder" type="folder">7</container>
+            <container label="Folder [605207455498421541753]" type="folder">7</container>
             <unittitle>Constitution and bylaws of Victor C. Vaughan Post (formerly Polar Bear Post), V.F.W.; Historical sketch, 1958, and miscellanea of Polar Bear Association; including 30th anniversary brochure</unittitle>
           </did>
         </c02>

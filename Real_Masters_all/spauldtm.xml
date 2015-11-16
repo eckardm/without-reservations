@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Thomas M. Spaulding papers, 1901-1969</titleproper>
       <author>Finding aid created by <lb/>Michigan Historical Collections staff</author>
     </titlepage>
@@ -85,25 +85,25 @@ Thomas M. Spaulding papers, Bentley Historical Library, University of Michigan</
       <controlaccess>
         <head>Subjects:</head>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n79039828">Cosmos Club (Washington, D.C.)</corpname>
-        <geogname source="local" encodinganalog="691">Michigan--Politics and government--1929-1938.</geogname>
-        <geogname source="local" encodinganalog="691">Michigan--Politics and government--1939-1945.</geogname>
-        <geogname source="local" encodinganalog="691">Michigan--Politics and government--1946-1960.</geogname>
+        <geogname source="local" encodinganalog="691" ref="/subjects/803">Michigan--Politics and government--1929-1938.</geogname>
+        <geogname source="local" encodinganalog="691" ref="/subjects/812">Michigan--Politics and government--1939-1945.</geogname>
+        <geogname source="local" encodinganalog="691" ref="/subjects/809">Michigan--Politics and government--1946-1960.</geogname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n79054541">Michigan State University.</corpname>
         <corpname source="lcnaf" encodinganalog="610">Republican Party (Mich.)</corpname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan--Commencements.</corpname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan. Library.</corpname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan--Students--Scholarships, fellowships, etc.</corpname>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n79018774.html">Washington (D.C.)</geogname>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n79018774.html" ref="/subjects/1453">Washington (D.C.)</geogname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n84017513">William L. Clements Library.</corpname>
-        <subject source="lcsh" encodinganalog="650">World War, 1939-1945.</subject>
-        <geogname source="lcsh" encodinganalog="651">Michigan--Politics and government--1837-1950.</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5681">World War, 1939-1945.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/884">Michigan--Politics and government--1837-1950.</geogname>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Materials:</head>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n79039828">Cosmos Club (Washington, D.C.)</corpname>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/no89013050">Fleming, R. W. (Robben Wright), 1916-2010.</persname>
-        <geogname source="lcsh" encodinganalog="651">Great Britain.</geogname>
-        <subject source="lctgm" encodinganalog="650">Interiors.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1344">Great Britain.</geogname>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3689">Interiors.</subject>
         <persname source="lcnaf" encodinganalog="600">Spaulding, Thomas M. (Thomas Marshall), b. 1882.</persname>
         <corpname source="lcnaf" encodinganalog="610">National Archives (U.S.)</corpname>
       </controlaccess>
@@ -133,8 +133,8 @@ Thomas M. Spaulding papers, Bentley Historical Library, University of Michigan</
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Diaries.</genreform>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3150">Diaries.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -144,7 +144,7 @@ Thomas M. Spaulding papers, Bentley Historical Library, University of Michigan</
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [80351465414938955698]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1901/1969">1901-1969</unitdate>
             </unittitle>
@@ -160,7 +160,7 @@ Thomas M. Spaulding papers, Bentley Historical Library, University of Michigan</
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [644364456488362407]">2</container>
             <unittitle>Biographical information</unittitle>
           </did>
           <odd>
@@ -169,13 +169,13 @@ Thomas M. Spaulding papers, Bentley Historical Library, University of Michigan</
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [644364456488362407]">2</container>
             <unittitle>Military Orders</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [644364456488362407]">2</container>
             <unittitle><genreform normal="Diaries">Diaries</genreform>, <unitdate type="inclusive" normal="1941/1944">1941-1944</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 volumes</extent>
@@ -187,13 +187,13 @@ Thomas M. Spaulding papers, Bentley Historical Library, University of Michigan</
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [644364456488362407]">2</container>
             <unittitle>U.S. Military Academy class letters, class of <unitdate type="inclusive" normal="1905">1905</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [644364456488362407]">2</container>
             <unittitle>Miscellaneous</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -207,19 +207,19 @@ Thomas M. Spaulding papers, Bentley Historical Library, University of Michigan</
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [644364456488362407]">2</container>
             <unittitle>Beta Theta Pi materials</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [644364456488362407]">2</container>
             <unittitle>Cosmos Club materials</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [644364456488362407]">2</container>
             <unittitle>Literary Society</unittitle>
           </did>
         </c02>
@@ -230,19 +230,19 @@ Thomas M. Spaulding papers, Bentley Historical Library, University of Michigan</
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [644364456488362407]">2</container>
             <unittitle>Republican National Committee, political notes <unitdate type="inclusive" normal="1936/1938">1936-1938</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [644364456488362407]">2</container>
             <unittitle>Taft for President (Robert Taft) material <unitdate type="inclusive" normal="1951">1951</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [644364456488362407]">2</container>
             <unittitle>Taft-for-President Committee material compiled by Thomas M. Spaulding</unittitle>
           </did>
         </c02>
@@ -253,7 +253,7 @@ Thomas M. Spaulding papers, Bentley Historical Library, University of Michigan</
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [644364456488362407]">2</container>
             <unittitle>Hawaii</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -262,31 +262,31 @@ Thomas M. Spaulding papers, Bentley Historical Library, University of Michigan</
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [644364456488362407]">2</container>
             <unittitle>International Sheep Dog Society</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [644364456488362407]">2</container>
             <unittitle>Military Affairs</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [644364456488362407]">2</container>
             <unittitle>National Cathedral</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [644364456488362407]">2</container>
             <unittitle>Rare Books</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [644364456488362407]">2</container>
             <unittitle>University of Michigan</unittitle>
           </did>
         </c02>
@@ -297,13 +297,13 @@ Thomas M. Spaulding papers, Bentley Historical Library, University of Michigan</
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [644364456488362407]">2</container>
             <unittitle>Reprints of Writings</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [644364456488362407]">2</container>
             <unittitle>Drafts of Writings</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -312,7 +312,7 @@ Thomas M. Spaulding papers, Bentley Historical Library, University of Michigan</
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [644364456488362407]">2</container>
             <unittitle>Military Science articles by T. M. Spaulding</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -321,13 +321,13 @@ Thomas M. Spaulding papers, Bentley Historical Library, University of Michigan</
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [644364456488362407]">2</container>
             <unittitle>Hawaii articles by T. M. Spaulding</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [644364456488362407]">2</container>
             <unittitle>Washington Cathedral Library articles by T. M. Spaulding</unittitle>
           </did>
         </c02>
@@ -338,13 +338,13 @@ Thomas M. Spaulding papers, Bentley Historical Library, University of Michigan</
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [644364456488362407]">2</container>
             <unittitle>The Stephen Spaulding Collection in <unitdate type="inclusive" normal="1957">1957</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [644364456488362407]">2</container>
             <unittitle>Stephen Tucker Spaulding, Miscellaneous</unittitle>
           </did>
         </c02>
@@ -357,31 +357,31 @@ Thomas M. Spaulding papers, Bentley Historical Library, University of Michigan</
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [644364456488362407]">2</container>
             <unittitle>Portraits</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [644364456488362407]">2</container>
             <unittitle>Military class (1905) reunions</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [644364456488362407]">2</container>
             <unittitle>Stephen Tucker Spaulding</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [644364456488362407]">2</container>
             <unittitle>Cosmos Club</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [644364456488362407]">2</container>
             <unittitle>University of Michigan Library presentation</unittitle>
           </did>
         </c02>

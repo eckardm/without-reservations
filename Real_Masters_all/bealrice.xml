@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Rice Aner Beal papers, 1843-1883</titleproper>
       <author>Finding aid created by <lb/>Michigan Historical Collections staff</author>
     </titlepage>
@@ -79,24 +79,24 @@ Rice Aner Beal papers, Bentley Historical Library, University of Michigan</p>
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n79022219.html">Ann Arbor (Mich.)</geogname>
-        <subject source="lcsh" encodinganalog="650">Banks and banking--Michigan--Ann Arbor.</subject>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n79022219.html" ref="/subjects/860">Ann Arbor (Mich.)</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6209">Banks and banking--Michigan--Ann Arbor.</subject>
         <persname source="lcnaf" encodinganalog="600">Beal, Rice Aner, 1823-1883.</persname>
-        <subject source="lcsh" encodinganalog="650">Business records.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5784">Business records.</subject>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n81024666">Chase, A. W. (Alvin Wood), 1817-1885.</persname>
-        <geogname source="lcsh" encodinganalog="651">Dexter (Mich.)</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1013">Dexter (Mich.)</geogname>
         <persname source="lcnaf" encodinganalog="600">Douglas, Silas H. (Silas Hamilton), 1816-1890.</persname>
-        <subject source="lcsh" encodinganalog="650">Elections--Michigan--1878.</subject>
-        <subject source="lcsh" encodinganalog="650">Elections--Michigan--1880.</subject>
-        <subject source="lcsh" encodinganalog="650">Elections--Michigan--1882.</subject>
-        <geogname source="local" encodinganalog="691">Michigan--Politics and government--1877-1898.</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6149">Elections--Michigan--1878.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6210">Elections--Michigan--1880.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6211">Elections--Michigan--1882.</subject>
+        <geogname source="local" encodinganalog="691" ref="/subjects/805">Michigan--Politics and government--1877-1898.</geogname>
         <corpname source="lcnaf" encodinganalog="610">Republican Party (Mich.)</corpname>
         <persname source="lcnaf" encodinganalog="600">Rose, Preston Benjamin, 1834-1912.</persname>
-        <subject source="lcsh" encodinganalog="650">Antislavery movements--United States.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5781">Antislavery movements--United States.</subject>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n97104314">United States. Army. Michigan Infantry Regiment, 13th (1861-1865)</corpname>
-        <geogname source="lcsh" encodinganalog="651">United States--History--Civil War, 1861-1865.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/909">United States--History--Civil War, 1861-1865.</geogname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/nr89016998">University of Michigan. Board of Regents.</corpname>
-        <geogname source="lcsh" encodinganalog="651">Michigan--Politics and government--1837-1950.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/884">Michigan--Politics and government--1837-1950.</geogname>
       </controlaccess>
       <controlaccess>
         <head>Contributors:</head>
@@ -126,7 +126,7 @@ Rice Aner Beal papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [623766142462770999517]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1848/1883">1848-1883</unitdate>
               <unitdate type="inclusive">undated</unitdate>
@@ -146,7 +146,7 @@ Rice Aner Beal papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [623766142462770999517]">1</container>
             <unittitle>Petition <unitdate type="inclusive" normal="1861" certainty="approximate">circa 1861</unitdate> concerning Crittenden Amendment to the U.S. Constitution</unittitle>
           </did>
           <odd>
@@ -155,7 +155,7 @@ Rice Aner Beal papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [623766142462770999517]">1</container>
             <unittitle>Papers <unitdate type="inclusive" normal="1874/1875">1874-1875</unitdate> concerning Rice A. Beal vs. Alvan W. Chase</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">5 folders</extent>
@@ -164,7 +164,7 @@ Rice Aner Beal papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [2640535847485247520]">2</container>
             <unittitle>Papers <unitdate type="inclusive" normal="1876">1876</unitdate> concerning Silas Douglas vs. Rice A. Beal</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -173,19 +173,19 @@ Rice Aner Beal papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [2640535847485247520]">2</container>
             <unittitle>Papers <unitdate type="inclusive" normal="1877">1877</unitdate> concerning the Board of Regents of the University of Michigan vs. Rose, Douglas et al.</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [2640535847485247520]">2</container>
             <unittitle>Ledger <unitdate type="inclusive" normal="1878">1878</unitdate> concerning the Republican State Convention</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [2640535847485247520]">2</container>
             <unittitle>Ledger <unitdate type="inclusive" normal="1880">1880</unitdate> concerning the Republican State Convention</unittitle>
           </did>
         </c02>
@@ -196,31 +196,31 @@ Rice Aner Beal papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [2640535847485247520]">2</container>
             <unittitle>Account books <unitdate type="inclusive" normal="1847/1848">1847-1848</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [2640535847485247520]">2</container>
             <unittitle>Account books <unitdate type="inclusive" normal="1857/1869">1857-1869</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [2640535847485247520]">2</container>
             <unittitle>Account books <unitdate type="inclusive" normal="1879/1885">1879-1885</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [8999443144982941261310]">3</container>
             <unittitle>Account books <unitdate type="inclusive" normal="1843/1881">1843-1881</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [831753447348589841529]">4</container>
             <unittitle>Bills, receipts, deeds, mortgages, and other financial records</unittitle>
           </did>
         </c02>

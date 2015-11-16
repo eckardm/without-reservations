@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>St. Hilda’s Episcopal Church (River Rouge, Mich.) <lb/>Records, 1918-2011</titleproper>
       <author>Finding aid created by <lb/>Michigan Historical Collections staff, November 2012</author>
     </titlepage>
@@ -87,8 +87,8 @@ St. Hilda’s Episcopal Church (River Rouge, Mich.) records, Bentley Historical 
         <head>Subjects:</head>
         <corpname source="lcnaf" encodinganalog="610">Episcopal Church--Michigan--River Rouge.</corpname>
         <corpname source="lcnaf" encodinganalog="610">St. Hilda's Episcopal Church (River Rouge, Mich.)</corpname>
-        <subject source="lcsh" encodinganalog="650">Registers of births, etc.--Michigan--River Rouge.</subject>
-        <geogname source="lcsh" encodinganalog="651">River Rouge (Mich.)--Church history.</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/10239">Registers of births, etc.--Michigan--River Rouge.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/2854">River Rouge (Mich.)--Church history.</geogname>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -98,7 +98,7 @@ St. Hilda’s Episcopal Church (River Rouge, Mich.) records, Bentley Historical 
         </did>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">1</container>
+            <container type="volume" label="Oversize Volume [773706945547679]">1</container>
             <unittitle>July 13, 1925-December 24, 1944 include Communicants, November 1936-December 1942; Baptisms, August 1925-December 1944; Confirmations, December 1925-December 1944; Burials, July 1925-November 1944; Marriages, July 1925-October 1937</unittitle>
             <unitdate type="inclusive" normal="1925-07-13/1944-12-24">July 13, 1925-December 24, 1944</unitdate>
             <unitdate type="inclusive" normal="1936-11/1942-12">November 1936-December 1942</unitdate>
@@ -110,7 +110,7 @@ St. Hilda’s Episcopal Church (River Rouge, Mich.) records, Bentley Historical 
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [1123040544388978491651]">1</container>
             <unittitle>April 27, 1968-May 6, 1979 include Baptisms, November 1971-May 1979; Confirmations, January 1972-May 1978; Marriages, April 1968-February 1979; Burials, January 1971-April 1979</unittitle>
             <unitdate type="inclusive" normal="1968-04-27/1979-05-06">April 27, 1968-May 6, 1979</unitdate>
             <unitdate type="inclusive" normal="1971-11/1979-05">November 1971-May 1979</unitdate>
@@ -126,7 +126,7 @@ St. Hilda’s Episcopal Church (River Rouge, Mich.) records, Bentley Historical 
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [1123040544388978491651]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="2007/2011">2007-2011</unitdate>
             </unittitle>
@@ -143,7 +143,7 @@ St. Hilda’s Episcopal Church (River Rouge, Mich.) records, Bentley Historical 
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [1123040544388978491651]">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1918/1927">1918-1927</unitdate>
               </unittitle>
@@ -151,7 +151,7 @@ St. Hilda’s Episcopal Church (River Rouge, Mich.) records, Bentley Historical 
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [1123040544388978491651]">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1928/1935">1928-1935</unitdate>
               </unittitle>
@@ -159,7 +159,7 @@ St. Hilda’s Episcopal Church (River Rouge, Mich.) records, Bentley Historical 
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [1123040544388978491651]">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1936/1940">1936-1940</unitdate>
               </unittitle>
@@ -167,7 +167,7 @@ St. Hilda’s Episcopal Church (River Rouge, Mich.) records, Bentley Historical 
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [1123040544388978491651]">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1941/1943">1941-1943</unitdate>
               </unittitle>
@@ -180,7 +180,7 @@ St. Hilda’s Episcopal Church (River Rouge, Mich.) records, Bentley Historical 
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [1123040544388978491651]">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1948/1950">1948-1950</unitdate>
               </unittitle>
@@ -188,7 +188,7 @@ St. Hilda’s Episcopal Church (River Rouge, Mich.) records, Bentley Historical 
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [1123040544388978491651]">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1951/1953">1951-1953</unitdate>
               </unittitle>
@@ -196,7 +196,7 @@ St. Hilda’s Episcopal Church (River Rouge, Mich.) records, Bentley Historical 
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [1123040544388978491651]">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1954/1957">1954-1957</unitdate>
               </unittitle>
@@ -204,7 +204,7 @@ St. Hilda’s Episcopal Church (River Rouge, Mich.) records, Bentley Historical 
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [1123040544388978491651]">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1958/1963">1958-1963</unitdate>
               </unittitle>
@@ -212,7 +212,7 @@ St. Hilda’s Episcopal Church (River Rouge, Mich.) records, Bentley Historical 
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [1123040544388978491651]">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1964/1972">1964-1972</unitdate>
               </unittitle>
@@ -220,7 +220,7 @@ St. Hilda’s Episcopal Church (River Rouge, Mich.) records, Bentley Historical 
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [1123040544388978491651]">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1973/1975">1973-1975</unitdate>
               </unittitle>
@@ -228,7 +228,7 @@ St. Hilda’s Episcopal Church (River Rouge, Mich.) records, Bentley Historical 
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [1123040544388978491651]">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1976">1976</unitdate>
               </unittitle>
@@ -236,7 +236,7 @@ St. Hilda’s Episcopal Church (River Rouge, Mich.) records, Bentley Historical 
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [1123040544388978491651]">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1977/1981">1977-1981</unitdate>
               </unittitle>
@@ -244,7 +244,7 @@ St. Hilda’s Episcopal Church (River Rouge, Mich.) records, Bentley Historical 
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [281444504916661518]">2</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1982/1989">1982-1989</unitdate>
               </unittitle>
@@ -252,7 +252,7 @@ St. Hilda’s Episcopal Church (River Rouge, Mich.) records, Bentley Historical 
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [281444504916661518]">2</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1990/2002">1990-2002</unitdate>
               </unittitle>
@@ -260,7 +260,7 @@ St. Hilda’s Episcopal Church (River Rouge, Mich.) records, Bentley Historical 
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [281444504916661518]">2</container>
               <unittitle>
                 <unitdate type="inclusive" normal="2003/2011">2003-2011</unitdate>
               </unittitle>
@@ -273,7 +273,7 @@ St. Hilda’s Episcopal Church (River Rouge, Mich.) records, Bentley Historical 
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [281444504916661518]">2</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1930/1949" certainty="approximate">1930s-1940s</unitdate>
               </unittitle>
@@ -284,7 +284,7 @@ St. Hilda’s Episcopal Church (River Rouge, Mich.) records, Bentley Historical 
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [281444504916661518]">2</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1954/1959">1954-1959</unitdate>
               </unittitle>
@@ -292,7 +292,7 @@ St. Hilda’s Episcopal Church (River Rouge, Mich.) records, Bentley Historical 
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [281444504916661518]">2</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1960/1972">1960-1972</unitdate>
               </unittitle>
@@ -300,7 +300,7 @@ St. Hilda’s Episcopal Church (River Rouge, Mich.) records, Bentley Historical 
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [281444504916661518]">2</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1972/1984">1972-1984</unitdate>
               </unittitle>
@@ -308,7 +308,7 @@ St. Hilda’s Episcopal Church (River Rouge, Mich.) records, Bentley Historical 
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [281444504916661518]">2</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1986/1999">1986-1999</unitdate>
               </unittitle>
@@ -326,13 +326,13 @@ St. Hilda’s Episcopal Church (River Rouge, Mich.) records, Bentley Historical 
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [4763814873815362351643]">3</container>
               <unittitle>Minute book <unitdate type="inclusive" normal="1970/1973">1970-1973</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [4763814873815362351643]">3</container>
               <unittitle>Annual meeting <unitdate type="inclusive" normal="1981">1981</unitdate></unittitle>
             </did>
           </c03>
@@ -343,7 +343,7 @@ St. Hilda’s Episcopal Church (River Rouge, Mich.) records, Bentley Historical 
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [4763814873815362351643]">3</container>
               <unittitle>Minute book <unitdate type="inclusive" normal="1944/1945">1944-1945</unitdate></unittitle>
             </did>
           </c03>
@@ -354,7 +354,7 @@ St. Hilda’s Episcopal Church (River Rouge, Mich.) records, Bentley Historical 
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [4763814873815362351643]">3</container>
               <unittitle>Annual Reports <unitdate type="inclusive" normal="1949/1977">1949-1977</unitdate></unittitle>
             </did>
             <odd>
@@ -363,37 +363,37 @@ St. Hilda’s Episcopal Church (River Rouge, Mich.) records, Bentley Historical 
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [4763814873815362351643]">3</container>
               <unittitle>Minute book <unitdate type="inclusive" normal="1945/1949">1945-1949</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [4763814873815362351643]">3</container>
               <unittitle>Minute book <unitdate type="inclusive" normal="1950/1985">1950-1985</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [4763814873815362351643]">3</container>
               <unittitle>Minute book <unitdate type="inclusive" normal="1986/1998">1986-1998</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [4763814873815362351643]">3</container>
               <unittitle>Minute book <unitdate type="inclusive" normal="1999/2008">1999-2008</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [4763814873815362351643]">3</container>
               <unittitle>Financial records</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [4763814873815362351643]">3</container>
               <unittitle>Miscellaneous</unittitle>
             </did>
           </c03>
@@ -404,7 +404,7 @@ St. Hilda’s Episcopal Church (River Rouge, Mich.) records, Bentley Historical 
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [4763814873815362351643]">3</container>
               <unittitle>Newsletter: Twigs <unitdate type="inclusive" normal="1938/1941">1938-1941</unitdate></unittitle>
             </did>
             <odd>
@@ -413,7 +413,7 @@ St. Hilda’s Episcopal Church (River Rouge, Mich.) records, Bentley Historical 
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [4763814873815362351643]">3</container>
               <unittitle>Reports, programs, and miscellaneous</unittitle>
             </did>
           </c03>
@@ -425,49 +425,49 @@ St. Hilda’s Episcopal Church (River Rouge, Mich.) records, Bentley Historical 
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [4763814873815362351643]">3</container>
             <unittitle>Directories</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [4763814873815362351643]">3</container>
             <unittitle>Baptism information slips and related material</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [4763814873815362351643]">3</container>
             <unittitle>Confirmation information slips</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [4763814873815362351643]">3</container>
             <unittitle>Obituary cards</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [4763814873815362351643]">3</container>
             <unittitle>Weddings -- Information slips and declaration of intention</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [4763814873815362351643]">3</container>
             <unittitle>Acceptance of letters of transfer</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [4763814873815362351643]">3</container>
             <unittitle>Mailing lists</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [7335264848395994938]">4</container>
             <unittitle>Membership and address cards</unittitle>
           </did>
           <odd>
@@ -481,13 +481,13 @@ St. Hilda’s Episcopal Church (River Rouge, Mich.) records, Bentley Historical 
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [7335264848395994938]">4</container>
             <unittitle>The Parish Record <unitdate type="inclusive" normal="1925/1929">1925-1929</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [7335264848395994938]">4</container>
             <unittitle>Weekly bulletins</unittitle>
             <unitdate type="inclusive" normal="1982/1983">1982-1983</unitdate>
             <unitdate type="inclusive" normal="1987/2001">1987-2001</unitdate>
@@ -495,13 +495,13 @@ St. Hilda’s Episcopal Church (River Rouge, Mich.) records, Bentley Historical 
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [115664040855559732293]">5</container>
             <unittitle>Weekly bulletins <unitdate type="inclusive" normal="2002/2011">2002-2011</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [115664040855559732293]">5</container>
             <unittitle>Programs for special occasions</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -515,49 +515,49 @@ St. Hilda’s Episcopal Church (River Rouge, Mich.) records, Bentley Historical 
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [115664040855559732293]">5</container>
             <unittitle>Constitution and by-laws</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [115664040855559732293]">5</container>
             <unittitle>History and anniversary materials</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [115664040855559732293]">5</container>
             <unittitle>Downriver Episcopal Area Ministry (DREAM)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [115664040855559732293]">5</container>
             <unittitle>Contents of safety deposit box: include deeds, surveys, land contract, and related</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [115664040855559732293]">5</container>
             <unittitle>In Remembrance Book</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [115664040855559732293]">5</container>
             <unittitle>St. Hilda's Church School <unitdate type="inclusive" normal="1970/1971">1970-1971</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [115664040855559732293]">5</container>
             <unittitle>Secretary's Book <unitdate type="inclusive" normal="1976/1978">1976-1978</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [115664040855559732293]">5</container>
             <unittitle>
               <genreform normal="Photographs">Photographs</genreform>
             </unittitle>
@@ -565,7 +565,7 @@ St. Hilda’s Episcopal Church (River Rouge, Mich.) records, Bentley Historical 
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [115664040855559732293]">5</container>
             <unittitle>Miscellaneous</unittitle>
           </did>
         </c02>

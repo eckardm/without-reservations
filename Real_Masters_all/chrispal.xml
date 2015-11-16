@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Palmer Christian papers, 1841-1953</titleproper>
       <author>Finding aid created by <lb/>Michigan Historical Collections staff</author>
     </titlepage>
@@ -77,27 +77,27 @@ Palmer Christian papers, Bentley Historical Library, University of Michigan</p>
       <controlaccess>
         <head>Subjects:</head>
         <persname source="lcnaf" encodinganalog="600">Christian, Palmer.</persname>
-        <geogname source="lcsh" encodinganalog="651">Europe--Description and travel.</geogname>
-        <geogname source="lcsh" encodinganalog="651">Hill Auditorium (University of Michigan)</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/972">Europe--Description and travel.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1580">Hill Auditorium (University of Michigan)</geogname>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n85801637">Palmer, Alonzo Benjamin, 1815-1887.</persname>
-        <geogname source="lcsh" encodinganalog="651">Spain--History--Civil War, 1936-1939.</geogname>
-        <subject source="lcsh" encodinganalog="650">Travelers.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1581">Spain--History--Civil War, 1936-1939.</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6010">Travelers.</subject>
         <corpname source="lcnaf" encodinganalog="610">United States. Army. Illinois Infantry Regiment, 76th (1862-1865). Company E.</corpname>
-        <geogname source="lcsh" encodinganalog="651">United States--History--Civil War, 1861-1865.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/909">United States--History--Civil War, 1861-1865.</geogname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n82063886">University of Michigan. School of Music.</corpname>
-        <subject source="lcsh" encodinganalog="650">Voyages and travels.</subject>
-        <subject source="lcsh" encodinganalog="650">World War, 1939-1945.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6009">Voyages and travels.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5681">World War, 1939-1945.</subject>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Materials:</head>
         <persname source="lcnaf" encodinganalog="600">Christian, Palmer.</persname>
         <famname source="lcnaf" encodinganalog="600">Christian family.</famname>
-        <geogname source="lcsh" encodinganalog="651">Europe.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/984">Europe.</geogname>
         <corpname source="lcnaf" encodinganalog="610">Hill Auditorium (University of Michigan)</corpname>
-        <subject source="lctgm" encodinganalog="650">Musicians.</subject>
-        <subject source="lctgm" encodinganalog="650">Organs.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4062">Musicians.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4063">Organs.</subject>
         <famname source="lcnaf" encodinganalog="600">Palmer family.</famname>
-        <subject source="lcsh" encodinganalog="650">Tourism--Europe.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6797">Tourism--Europe.</subject>
       </controlaccess>
       <controlaccess>
         <head>Contributors:</head>
@@ -111,7 +111,7 @@ Palmer Christian papers, Bentley Historical Library, University of Michigan</p>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -121,7 +121,7 @@ Palmer Christian papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [434264444105178]">1</container>
             <unittitle>
               <unitdate type="inclusive">Undated</unitdate>
             </unittitle>
@@ -129,7 +129,7 @@ Palmer Christian papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [434264444105178]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1841/1908">1841-1908</unitdate>
             </unittitle>
@@ -140,7 +140,7 @@ Palmer Christian papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [434264444105178]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1909">1909</unitdate>
             </unittitle>
@@ -151,7 +151,7 @@ Palmer Christian papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [434264444105178]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1910-01/1910-06">January-June 1910</unitdate>
             </unittitle>
@@ -159,7 +159,7 @@ Palmer Christian papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [434264444105178]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1910-07/1910-12">July-December 1910</unitdate>
             </unittitle>
@@ -167,7 +167,7 @@ Palmer Christian papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [434264444105178]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1911">1911</unitdate>
             </unittitle>
@@ -175,7 +175,7 @@ Palmer Christian papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [434264444105178]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1918/1925">1918-1925</unitdate>
             </unittitle>
@@ -186,7 +186,7 @@ Palmer Christian papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [434264444105178]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1928/1934">1928-1934</unitdate>
             </unittitle>
@@ -197,7 +197,7 @@ Palmer Christian papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [434264444105178]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1935/1936">1935-1936</unitdate>
             </unittitle>
@@ -208,7 +208,7 @@ Palmer Christian papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [434264444105178]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1937">1937</unitdate>
             </unittitle>
@@ -216,7 +216,7 @@ Palmer Christian papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [434264444105178]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1938">1938</unitdate>
             </unittitle>
@@ -224,7 +224,7 @@ Palmer Christian papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [434264444105178]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1939/1941">1939-1941</unitdate>
             </unittitle>
@@ -235,7 +235,7 @@ Palmer Christian papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [434264444105178]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1942/1943">1942-1943</unitdate>
             </unittitle>
@@ -243,7 +243,7 @@ Palmer Christian papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [434264444105178]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1944/1945">1944-1945</unitdate>
             </unittitle>
@@ -254,7 +254,7 @@ Palmer Christian papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [434264444105178]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1946">1946</unitdate>
             </unittitle>
@@ -265,7 +265,7 @@ Palmer Christian papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [434264444105178]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1947-01-01/1947-02-20">January 1-February 20, 1947</unitdate>
             </unittitle>
@@ -273,7 +273,7 @@ Palmer Christian papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [434264444105178]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1947-02-21/1947-02-22">February 21-22, 1947</unitdate>
             </unittitle>
@@ -281,7 +281,7 @@ Palmer Christian papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [434264444105178]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1947-02-23/1947-02-24">February 23-24, 1947</unitdate>
             </unittitle>
@@ -292,7 +292,7 @@ Palmer Christian papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [434264444105178]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1947-02-25/1947-02-28">February 25-28, 1947</unitdate>
             </unittitle>
@@ -300,7 +300,7 @@ Palmer Christian papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [434264444105178]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1947-03">March 1947</unitdate>
             </unittitle>
@@ -308,7 +308,7 @@ Palmer Christian papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [434264444105178]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1947-04/1947-05">April-May 1947</unitdate>
             </unittitle>
@@ -316,7 +316,7 @@ Palmer Christian papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [434264444105178]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1948/1953">1948-1953</unitdate>
             </unittitle>
@@ -329,7 +329,7 @@ Palmer Christian papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [434264444105178]">1</container>
             <unittitle>
               <unitdate type="inclusive">Undated</unitdate>
             </unittitle>
@@ -337,7 +337,7 @@ Palmer Christian papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [434264444105178]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1896/1913">1896-1913</unitdate>
             </unittitle>
@@ -345,7 +345,7 @@ Palmer Christian papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [434264444105178]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1914">1914</unitdate>
             </unittitle>
@@ -353,7 +353,7 @@ Palmer Christian papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [434264444105178]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1915/1919">1915-1919</unitdate>
             </unittitle>
@@ -361,7 +361,7 @@ Palmer Christian papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [434264444105178]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1920/1922">1920-1922</unitdate>
             </unittitle>
@@ -369,7 +369,7 @@ Palmer Christian papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [434264444105178]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1923">1923</unitdate>
             </unittitle>
@@ -377,7 +377,7 @@ Palmer Christian papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [434264444105178]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1924">1924</unitdate>
             </unittitle>
@@ -385,7 +385,7 @@ Palmer Christian papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [434264444105178]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1925-01/1925-03">January-March 1925</unitdate>
             </unittitle>
@@ -393,7 +393,7 @@ Palmer Christian papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [434264444105178]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1925-04/1925-12">April-December 1925</unitdate>
             </unittitle>
@@ -401,7 +401,7 @@ Palmer Christian papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [434264444105178]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1926">1926</unitdate>
             </unittitle>
@@ -409,7 +409,7 @@ Palmer Christian papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [434264444105178]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1927">1927</unitdate>
             </unittitle>
@@ -417,7 +417,7 @@ Palmer Christian papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [434264444105178]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1928">1928</unitdate>
             </unittitle>
@@ -425,7 +425,7 @@ Palmer Christian papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [434264444105178]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1929">1929</unitdate>
             </unittitle>
@@ -433,7 +433,7 @@ Palmer Christian papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [434264444105178]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1930">1930</unitdate>
             </unittitle>
@@ -441,7 +441,7 @@ Palmer Christian papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [434264444105178]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1931">1931</unitdate>
             </unittitle>
@@ -449,7 +449,7 @@ Palmer Christian papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [434264444105178]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1932">1932</unitdate>
             </unittitle>
@@ -457,7 +457,7 @@ Palmer Christian papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [434264444105178]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1933">1933</unitdate>
             </unittitle>
@@ -465,7 +465,7 @@ Palmer Christian papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [434264444105178]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1934">1934</unitdate>
             </unittitle>
@@ -473,7 +473,7 @@ Palmer Christian papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [434264444105178]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1935/1939">1935-1939</unitdate>
             </unittitle>
@@ -481,7 +481,7 @@ Palmer Christian papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [434264444105178]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1940/1941">1940-1941</unitdate>
             </unittitle>
@@ -489,7 +489,7 @@ Palmer Christian papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [434264444105178]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1942/1946">1942-1946</unitdate>
             </unittitle>
@@ -497,7 +497,7 @@ Palmer Christian papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [434264444105178]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1947/1950">1947-1950</unitdate>
             </unittitle>
@@ -510,7 +510,7 @@ Palmer Christian papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [434264444105178]">1</container>
             <unittitle>Madrigals</unittitle>
           </did>
         </c02>
@@ -523,49 +523,49 @@ Palmer Christian papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [12474106491186168849708]">2</container>
             <unittitle>Portraits as child</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [12474106491186168849708]">2</container>
             <unittitle>Portraits, formal and informal</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [12474106491186168849708]">2</container>
             <unittitle>Portraits at organ</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [12474106491186168849708]">2</container>
             <unittitle>Palmer and Lois Christian</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [12474106491186168849708]">2</container>
             <unittitle>Christian and Palmer families</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [12474106491186168849708]">2</container>
             <unittitle>Groups</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [12474106491186168849708]">2</container>
             <unittitle>Miscellaneous</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [12474106491186168849708]">2</container>
             <unittitle>Album</unittitle>
           </did>
         </c02>

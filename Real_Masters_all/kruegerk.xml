@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Kermit Krueger papers, ca. 1963-1965</titleproper>
       <author>Finding aid created by <lb/>Maria Smith, March 2014</author>
     </titlepage>
@@ -81,27 +81,27 @@ Kermit Krueger papers, Bentley Historical Library, University of Michigan</p>
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <geogname source="lcsh" encodinganalog="651">East Asia--Description and travel.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/2177">East Asia--Description and travel.</geogname>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/no2006106343">Krueger, Kermit.</persname>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n84037441.html">Maha Sarakham (Thailand : Province)</geogname>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n84037441.html" ref="/subjects/2178">Maha Sarakham (Thailand : Province)</geogname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n79099503">Peace Corps (U.S.)</corpname>
-        <geogname source="lcsh" encodinganalog="651">Southeast Asia--Description and travel.</geogname>
-        <subject source="lcsh" encodinganalog="650">Tales--Thailand.</subject>
-        <subject source="lcsh" encodinganalog="650">Villages--Thailand.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/2179">Southeast Asia--Description and travel.</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/8707">Tales--Thailand.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/8708">Villages--Thailand.</subject>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Materials:</head>
-        <geogname source="lcsh" encodinganalog="651">East Asia--Description and travel.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/2177">East Asia--Description and travel.</geogname>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/no2006106343">Krueger, Kermit.</persname>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n84037441.html">Maha Sarakham (Thailand : Province)</geogname>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n84037441.html" ref="/subjects/2178">Maha Sarakham (Thailand : Province)</geogname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n79099503">Peace Corps (U.S.)</corpname>
-        <geogname source="lcsh" encodinganalog="651">Southeast Asia--Description and travel.</geogname>
-        <subject source="lctgm" encodinganalog="650">Villages--Thailand.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/2179">Southeast Asia--Description and travel.</geogname>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4645">Villages--Thailand.</subject>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
-        <genreform source="aat" encodinganalog="655">Slides (photographs)</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3246">Slides (photographs)</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -114,13 +114,13 @@ Kermit Krueger papers, Bentley Historical Library, University of Michigan</p>
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [0092834610046813590]">1</container>
             <unittitle>Student Drafts <unitdate type="inclusive" normal="1963/1965">1963-1965</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [0092834610046813590]">1</container>
             <unittitle>Story Compilations <unitdate type="inclusive">undated</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -140,7 +140,7 @@ Kermit Krueger papers, Bentley Historical Library, University of Michigan</p>
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [0092834610046813590]">1</container>
             <unittitle>Photographs <unitdate type="inclusive" normal="1963/1965" certainty="approximate">circa 1963-1965</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 envelopes</extent>
@@ -149,7 +149,7 @@ Kermit Krueger papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [0092834610046813590]">1</container>
             <unittitle>Photographic Slides <unitdate type="inclusive" normal="1963/1965" certainty="approximate">circa 1963-1965</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -158,7 +158,7 @@ Kermit Krueger papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [0092834610046813590]">1</container>
             <unittitle>Notes on Slides <unitdate type="inclusive">undated</unitdate></unittitle>
           </did>
         </c02>
@@ -172,7 +172,7 @@ Kermit Krueger papers, Bentley Historical Library, University of Michigan</p>
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [0092834610046813590]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1963-09/1963-12">September-December, 1963</unitdate>
             </unittitle>
@@ -180,7 +180,7 @@ Kermit Krueger papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [0092834610046813590]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1964-01/1964-03">January-March, 1964</unitdate>
             </unittitle>
@@ -188,7 +188,7 @@ Kermit Krueger papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [0092834610046813590]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1964-04/1964-06">April-June, 1964</unitdate>
             </unittitle>
@@ -196,7 +196,7 @@ Kermit Krueger papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [0092834610046813590]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1964-07/1964-09">July-September, 1964</unitdate>
             </unittitle>
@@ -204,7 +204,7 @@ Kermit Krueger papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [0092834610046813590]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1964-10/1964-12">October-December, 1964</unitdate>
             </unittitle>
@@ -212,7 +212,7 @@ Kermit Krueger papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [0092834610046813590]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1965-01/1965-03">January-March, 1965</unitdate>
             </unittitle>
@@ -220,7 +220,7 @@ Kermit Krueger papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [0092834610046813590]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1965-04/1965-08">April-August, 1965</unitdate>
             </unittitle>
@@ -228,7 +228,7 @@ Kermit Krueger papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [0092834610046813590]">1</container>
             <unittitle>Postcards <unitdate type="inclusive" normal="1963/1965" certainty="approximate">circa 1963-1965</unitdate></unittitle>
           </did>
         </c02>
@@ -242,13 +242,13 @@ Kermit Krueger papers, Bentley Historical Library, University of Michigan</p>
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [0092834610046813590]">1</container>
             <unittitle>Thai Artifacts <unitdate type="inclusive" normal="1963/1965" certainty="approximate">circa 1963-1965</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [0092834610046813590]">1</container>
             <unittitle>Travel and Peace Corps Documents <unitdate type="inclusive" normal="1963/1965">1963-1965</unitdate></unittitle>
           </did>
         </c02>

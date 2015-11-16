@@ -26,7 +26,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Ralph Stone Papers, 1882-1956</titleproper>
       <author>Finding aid created by <lb/>Michigan Historical Collection staff</author>
     </titlepage>
@@ -82,14 +82,14 @@ Ralph Stone Papers, Bentley Historical Library, University of Michigan</p>
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <subject source="lcsh" encodinganalog="650">Athletics--Michigan--Ann Arbor.</subject>
-        <subject source="lcsh" encodinganalog="650">Banks and banking--Michigan--Detroit.</subject>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n79045539.html">Detroit (Mich.)</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5965">Athletics--Michigan--Ann Arbor.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/8848">Banks and banking--Michigan--Detroit.</subject>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n79045539.html" ref="/subjects/933">Detroit (Mich.)</geogname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n2003089201">Detroit United Railway.</corpname>
-        <subject source="lcsh" encodinganalog="650">Municipal government--Michigan--Detroit.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7358">Municipal government--Michigan--Detroit.</subject>
         <persname source="lcnaf" encodinganalog="600">Osborn, Chase S. (Chase Salmon), b. 1860.</persname>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n86868022">Pingree, Hazen S., 1840-1901.</persname>
-        <subject source="lcsh" encodinganalog="650">Street-railroads--Michigan--Detroit.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/9468">Street-railroads--Michigan--Detroit.</subject>
         <corpname source="lcnaf" encodinganalog="610">United States. Alien Property Custodian.</corpname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/nr93034095">University of Michigan. Alumni Association.</corpname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan--Sports.</corpname>
@@ -97,7 +97,7 @@ Ralph Stone Papers, Bentley Historical Library, University of Michigan</p>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan. Development Council.</corpname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan--Football.</corpname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan--Students--Social life and customs--1891-1900.</corpname>
-        <subject source="lcsh" encodinganalog="650">World War, 1914-1918.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5712">World War, 1914-1918.</subject>
       </controlaccess>
       <controlaccess>
         <head>Contributors:</head>
@@ -105,7 +105,7 @@ Ralph Stone Papers, Bentley Historical Library, University of Michigan</p>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Scrapbooks.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3139">Scrapbooks.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -115,13 +115,13 @@ Ralph Stone Papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [128368055460839937486228]">1</container>
             <unittitle>Regarding Stone's entrance to the University of Michigan <unitdate type="inclusive" normal="1890/1891">1890-1891</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [128368055460839937486228]">1</container>
             <unittitle>Concerning the Advisory Board of the University Athletic Association <unitdate type="inclusive" normal="1893">1893</unitdate></unittitle>
           </did>
         </c02>
@@ -131,7 +131,7 @@ Ralph Stone Papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [128368055460839937486228]">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1900/1910">1900-1910</unitdate>
               </unittitle>
@@ -139,7 +139,7 @@ Ralph Stone Papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [128368055460839937486228]">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1928/1931">1928-1931</unitdate>
               </unittitle>
@@ -147,7 +147,7 @@ Ralph Stone Papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [128368055460839937486228]">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1932/1934">1932-1934</unitdate>
               </unittitle>
@@ -155,7 +155,7 @@ Ralph Stone Papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [128368055460839937486228]">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1935/1939">1935-1939</unitdate>
               </unittitle>
@@ -163,7 +163,7 @@ Ralph Stone Papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [128368055460839937486228]">1</container>
               <unittitle>
                 <unitdate normal="1940/1943">1940-1943</unitdate>
               </unittitle>
@@ -171,7 +171,7 @@ Ralph Stone Papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [128368055460839937486228]">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1944">1944</unitdate>
               </unittitle>
@@ -179,7 +179,7 @@ Ralph Stone Papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [128368055460839937486228]">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1945">1945</unitdate>
               </unittitle>
@@ -187,7 +187,7 @@ Ralph Stone Papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [128368055460839937486228]">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1946">1946</unitdate>
               </unittitle>
@@ -195,7 +195,7 @@ Ralph Stone Papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [128368055460839937486228]">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1947">1947</unitdate>
               </unittitle>
@@ -203,7 +203,7 @@ Ralph Stone Papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [128368055460839937486228]">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1948">1948</unitdate>
               </unittitle>
@@ -211,7 +211,7 @@ Ralph Stone Papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [128368055460839937486228]">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1949">1949</unitdate>
               </unittitle>
@@ -219,7 +219,7 @@ Ralph Stone Papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [128368055460839937486228]">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1950">1950</unitdate>
               </unittitle>
@@ -227,7 +227,7 @@ Ralph Stone Papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [128368055460839937486228]">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1951">1951</unitdate>
               </unittitle>
@@ -235,7 +235,7 @@ Ralph Stone Papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [128368055460839937486228]">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1952">1952</unitdate>
               </unittitle>
@@ -243,7 +243,7 @@ Ralph Stone Papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [128368055460839937486228]">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1953">1953</unitdate>
               </unittitle>
@@ -251,7 +251,7 @@ Ralph Stone Papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [128368055460839937486228]">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1954/1955">1954-1955</unitdate>
               </unittitle>
@@ -259,7 +259,7 @@ Ralph Stone Papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [128368055460839937486228]">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1956">1956</unitdate>
               </unittitle>
@@ -267,7 +267,7 @@ Ralph Stone Papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [128368055460839937486228]">1</container>
               <unittitle>
                 <unitdate type="inclusive">Undated</unitdate>
               </unittitle>
@@ -281,7 +281,7 @@ Ralph Stone Papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [128368055460839937486228]">1</container>
             <unittitle>"From the Old Scrapbook" <unitdate type="inclusive" normal="1890/1892">1890-1892</unitdate></unittitle>
           </did>
           <odd>
@@ -290,13 +290,13 @@ Ralph Stone Papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [128368055460839937486228]">1</container>
             <unittitle>History of the University of Michigan Detroit alumni groups</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [128368055460839937486228]">1</container>
             <unittitle>"Who was Ruth Waldo?"</unittitle>
           </did>
           <odd>
@@ -305,19 +305,19 @@ Ralph Stone Papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [128368055460839937486228]">1</container>
             <unittitle>"Recollections of the University of Michigan Alumni Fund"</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [128368055460839937486228]">1</container>
             <unittitle>"Liberty loan committee for Detroit and Wayne County in World War I."</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [128368055460839937486228]">1</container>
             <unittitle>"Hazen Pingree, the man-not a statue."</unittitle>
           </did>
         </c02>
@@ -328,7 +328,7 @@ Ralph Stone Papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [128368055460839937486228]">1</container>
             <unittitle>Detroit Street Railways</unittitle>
             <unitdate type="inclusive" normal="1899">1899</unitdate>
             <unitdate type="inclusive" normal="1954">1954</unitdate>
@@ -336,19 +336,19 @@ Ralph Stone Papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [128368055460839937486228]">1</container>
             <unittitle>Student publications at the University of Michigan <unitdate type="inclusive" normal="1893">1893</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [128368055460839937486228]">1</container>
             <unittitle>Development Council at the University of Michigan <unitdate type="inclusive" normal="1951/1952">1951-1952</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [128368055460839937486228]">1</container>
             <unittitle>Alumni Fund and the Development Council <unitdate type="inclusive" normal="1943/1953">1943-1953</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -357,61 +357,61 @@ Ralph Stone Papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [128368055460839937486228]">1</container>
             <unittitle>Intercollegiate Athletic Association of the Northwest <unitdate type="inclusive" normal="1950/1951">1950-1951</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [128368055460839937486228]">1</container>
             <unittitle>Detroit Bureau of Governmental Research <unitdate type="inclusive" normal="1947/1954">1947-1954</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [128368055460839937486228]">1</container>
             <unittitle>Cranbrook Music Project <unitdate type="inclusive" normal="1951/1952">1951-1952</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [984880456565790116]">2</container>
             <unittitle>60th reunion of the <unitdate type="inclusive" normal="1892">1892</unitdate> law class, <unitdate type="inclusive" normal="1952">1952</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [984880456565790116]">2</container>
             <unittitle>Semi-centennial of the Michigan Daily <unitdate type="inclusive" normal="1940">1940</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [984880456565790116]">2</container>
             <unittitle>Advisory Committee on the sale of alien property, minutes <unitdate type="inclusive" normal="1918/1920">1918-1920</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [984880456565790116]">2</container>
             <unittitle>Work of the Advisory Committee, memorandum <unitdate type="inclusive" normal="1920">1920</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [984880456565790116]">2</container>
             <unittitle>Michigan state deficit <unitdate type="inclusive" normal="1953">1953</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [984880456565790116]">2</container>
             <unittitle>Charles E. Wilson's sale of General Motors stock before becoming Secretary of Defense <unitdate type="inclusive" normal="1953">1953</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [984880456565790116]">2</container>
             <unittitle>Miscellanea</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -425,7 +425,7 @@ Ralph Stone Papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [984880456565790116]">2</container>
             <unittitle>Newspaper clippings <unitdate type="inclusive" normal="1887/1893">1887-1893</unitdate></unittitle>
           </did>
         </c02>
@@ -435,7 +435,7 @@ Ralph Stone Papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [984880456565790116]">2</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1889">1889</unitdate>
               </unittitle>
@@ -446,7 +446,7 @@ Ralph Stone Papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [984880456565790116]">2</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1892/1893">1892-1893</unitdate>
               </unittitle>
@@ -457,7 +457,7 @@ Ralph Stone Papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [984880456565790116]">2</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1895/1898">1895-1898</unitdate>
               </unittitle>
@@ -468,7 +468,7 @@ Ralph Stone Papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [984880456565790116]">2</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1899-04/1899-05">April-May 1899</unitdate>
               </unittitle>
@@ -479,7 +479,7 @@ Ralph Stone Papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [984880456565790116]">2</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1899-05/1899-07">May-July 1899</unitdate>
               </unittitle>
@@ -490,7 +490,7 @@ Ralph Stone Papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [302790344797221143]">3</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1899-07-13/1899-07-29">July 13-29, 1899</unitdate>
               </unittitle>
@@ -501,7 +501,7 @@ Ralph Stone Papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [302790344797221143]">3</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1899-07/1899-12">July-December 1899</unitdate>
               </unittitle>
@@ -512,7 +512,7 @@ Ralph Stone Papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [302790344797221143]">3</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1900-02/1900-12">February-December 1900</unitdate>
               </unittitle>
@@ -523,7 +523,7 @@ Ralph Stone Papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [302790344797221143]">3</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1901-02/1910-10">February 1901-October 1910</unitdate>
               </unittitle>
@@ -534,7 +534,7 @@ Ralph Stone Papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [32008574647297381543]">4</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1911-02/1915-12">February 1911-December 1915</unitdate>
               </unittitle>
@@ -545,7 +545,7 @@ Ralph Stone Papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [32008574647297381543]">4</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1915/1919">1915-1919</unitdate>
               </unittitle>
@@ -556,7 +556,7 @@ Ralph Stone Papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [32008574647297381543]">4</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1917">1917</unitdate>
               </unittitle>
@@ -567,7 +567,7 @@ Ralph Stone Papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [32008574647297381543]">4</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1919/1921">1919-1921</unitdate>
               </unittitle>
@@ -591,7 +591,7 @@ Ralph Stone Papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">1</container>
+              <container type="volume" label="Oversize Volume [94427553074660878348434]">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1929/1948">1929-1948</unitdate>
               </unittitle>
@@ -605,7 +605,7 @@ Ralph Stone Papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">2</container>
+              <container type="volume" label="Oversize Volume [352576544403272209898044]">2</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1947/1953">1947-1953</unitdate>
               </unittitle>
@@ -619,7 +619,7 @@ Ralph Stone Papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [32008574647297381543]">4</container>
               <unittitle><unitdate type="inclusive" normal="1882/1890">1882-1890</unitdate> of George W. Stone</unittitle>
             </did>
             <odd>

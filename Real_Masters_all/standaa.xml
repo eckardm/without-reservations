@@ -31,7 +31,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>St. Andrew's Episcopal Church (Ann Arbor, Mich.) <lb/>Records, 1834-1998</titleproper>
       <author>Finding aid created by <lb/>Michigan Historical Collections staff</author>
     </titlepage>
@@ -92,31 +92,31 @@ St. Andrew's Episcopal Church (Ann Arbor, Mich.) records, Bentley Historical Lib
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <geogname source="lcsh" encodinganalog="651">Ann Arbor (Mich.)--Church history.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/882">Ann Arbor (Mich.)--Church history.</geogname>
         <corpname source="lcnaf" encodinganalog="610">Episcopal Church--Michigan--Ann Arbor.</corpname>
         <corpname source="lcnaf" encodinganalog="610">St. Andrew's Episcopal Church (Ann Arbor, Mich.)</corpname>
-        <subject source="lcsh" encodinganalog="650">Registers of births, etc.--Michigan--Ann Arbor.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7752">Registers of births, etc.--Michigan--Ann Arbor.</subject>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Materials:</head>
-        <geogname source="lctgm" encodinganalog="651">Ann Arbor (Mich.)--Churches.</geogname>
-        <subject source="lctgm" encodinganalog="650">Children.</subject>
-        <subject source="lctgm" encodinganalog="650">Churches.</subject>
-        <subject source="lctgm" encodinganalog="650">Clergy.</subject>
-        <subject source="lcsh" encodinganalog="650">Easter.</subject>
+        <geogname source="lctgm" encodinganalog="651" ref="/subjects/211">Ann Arbor (Mich.)--Churches.</geogname>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3622">Children.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3949">Churches.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3950">Clergy.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/10197">Easter.</subject>
         <persname source="lcnaf" encodinganalog="600">Gillespie, George De Normandie, 1819-1909.</persname>
-        <subject source="local" encodinganalog="690">Interiors--Churches.</subject>
+        <subject source="local" encodinganalog="690" ref="/subjects/3531">Interiors--Churches.</subject>
         <persname source="lcnaf" encodinganalog="600">Lewis, Henry, 1893-</persname>
-        <subject source="lctgm" encodinganalog="650">Music--Michigan--Ann Arbor.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3614">Music--Michigan--Ann Arbor.</subject>
         <corpname source="lcnaf" encodinganalog="610">Northside Presbyterian Church (Ann Arbor, Mich.)</corpname>
-        <subject source="lctgm" encodinganalog="650">Religion.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3892">Religion.</subject>
         <corpname source="lcnaf" encodinganalog="610">St. Aidan's Episcopal Church (Ann Arbor, Mich.)</corpname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan--Religion.</corpname>
-        <subject source="lctgm" encodinganalog="650">Weddings.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3686">Weddings.</subject>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -136,7 +136,7 @@ St. Andrew's Episcopal Church (Ann Arbor, Mich.) records, Bentley Historical Lib
           </odd>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [5899109234965479989432]">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1843/1865">1843-1865</unitdate>
               </unittitle>
@@ -144,7 +144,7 @@ St. Andrew's Episcopal Church (Ann Arbor, Mich.) records, Bentley Historical Lib
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [5899109234965479989432]">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1865/1898">1865-1898</unitdate>
               </unittitle>
@@ -152,7 +152,7 @@ St. Andrew's Episcopal Church (Ann Arbor, Mich.) records, Bentley Historical Lib
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [5899109234965479989432]">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1898/1929">1898-1929</unitdate>
               </unittitle>
@@ -160,7 +160,7 @@ St. Andrew's Episcopal Church (Ann Arbor, Mich.) records, Bentley Historical Lib
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [46157251827438613441346]">2</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1930/1954">1930-1954</unitdate>
               </unittitle>
@@ -168,7 +168,7 @@ St. Andrew's Episcopal Church (Ann Arbor, Mich.) records, Bentley Historical Lib
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [60824086447988933619]">3</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1955/1964">1955-1964</unitdate>
               </unittitle>
@@ -176,7 +176,7 @@ St. Andrew's Episcopal Church (Ann Arbor, Mich.) records, Bentley Historical Lib
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [679982424970952156]">4</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1965/1970">1965-1970</unitdate>
               </unittitle>
@@ -184,7 +184,7 @@ St. Andrew's Episcopal Church (Ann Arbor, Mich.) records, Bentley Historical Lib
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [4841798341939388117392]">5</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1971/1977">1971-1977</unitdate>
               </unittitle>
@@ -192,7 +192,7 @@ St. Andrew's Episcopal Church (Ann Arbor, Mich.) records, Bentley Historical Lib
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [971229700452581118169]">6</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1978/1983">1978-1983</unitdate>
               </unittitle>
@@ -200,7 +200,7 @@ St. Andrew's Episcopal Church (Ann Arbor, Mich.) records, Bentley Historical Lib
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">7</container>
+              <container type="box" label="Box [6014544461970483958]">7</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1984/1989">1984-1989</unitdate>
               </unittitle>
@@ -208,7 +208,7 @@ St. Andrew's Episcopal Church (Ann Arbor, Mich.) records, Bentley Historical Lib
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">7</container>
+              <container type="box" label="Box [6014544461970483958]">7</container>
               <unittitle>Notes of Vestry meetings made by Roger Barney <unitdate type="inclusive" normal="1971/1979">1971-1979</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">4 packets</extent>
@@ -222,7 +222,7 @@ St. Andrew's Episcopal Church (Ann Arbor, Mich.) records, Bentley Historical Lib
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">8</container>
+              <container type="box" label="Box [34140601436317974916]">8</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1956/1959">1956-1959</unitdate>
               </unittitle>
@@ -233,7 +233,7 @@ St. Andrew's Episcopal Church (Ann Arbor, Mich.) records, Bentley Historical Lib
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">8</container>
+              <container type="box" label="Box [34140601436317974916]">8</container>
               <unittitle><unitdate type="inclusive" normal="1961/1969">1961-1969</unitdate> (lacks 1960)</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">9 folders</extent>
@@ -242,14 +242,14 @@ St. Andrew's Episcopal Church (Ann Arbor, Mich.) records, Bentley Historical Lib
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">8</container>
+              <container type="box" label="Box [34140601436317974916]">8</container>
               <unittitle><unitdate type="inclusive" normal="1981/1987">1981-1987</unitdate> (lacks 1983)</unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">8</container>
+            <container type="box" label="Box [34140601436317974916]">8</container>
             <unittitle>Register of voters for Vestrymen <unitdate type="inclusive" normal="1935/1945">1935-1945</unitdate></unittitle>
           </did>
         </c02>
@@ -263,7 +263,7 @@ St. Andrew's Episcopal Church (Ann Arbor, Mich.) records, Bentley Historical Lib
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">8</container>
+            <container type="box" label="Box [34140601436317974916]">8</container>
             <unittitle>Record book <unitdate type="inclusive" normal="1844/1877">1844-1877</unitdate></unittitle>
           </did>
           <odd>
@@ -272,13 +272,13 @@ St. Andrew's Episcopal Church (Ann Arbor, Mich.) records, Bentley Historical Lib
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">8</container>
+            <container type="box" label="Box [34140601436317974916]">8</container>
             <unittitle>Parish register: include membership information, candidates for confirmation, baptism, etc. <unitdate type="inclusive" normal="1860/1879" certainty="approximate">1860s-1870s</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">8</container>
+            <container type="box" label="Box [34140601436317974916]">8</container>
             <unittitle>Parish register: include record of baptisms, marriages, burials, communicants, etc. <unitdate type="inclusive" normal="1862/1875">1862-1875</unitdate></unittitle>
           </did>
         </c02>
@@ -288,7 +288,7 @@ St. Andrew's Episcopal Church (Ann Arbor, Mich.) records, Bentley Historical Lib
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">8</container>
+              <container type="box" label="Box [34140601436317974916]">8</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1949/1951">1949-1951</unitdate>
               </unittitle>
@@ -296,7 +296,7 @@ St. Andrew's Episcopal Church (Ann Arbor, Mich.) records, Bentley Historical Lib
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">8</container>
+              <container type="box" label="Box [34140601436317974916]">8</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1952/1962">1952-1962</unitdate>
               </unittitle>
@@ -321,26 +321,26 @@ St. Andrew's Episcopal Church (Ann Arbor, Mich.) records, Bentley Historical Lib
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">9</container>
+                <container type="box" label="Box [6180943649939486313]">9</container>
                 <unittitle>Welcome booklets</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">9</container>
+                <container type="box" label="Box [6180943649939486313]">9</container>
                 <unittitle>Parish directories</unittitle>
               </did>
             </c04>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">9</container>
+              <container type="box" label="Box [6180943649939486313]">9</container>
               <unittitle>Refugees committee</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">9</container>
+              <container type="box" label="Box [6180943649939486313]">9</container>
               <unittitle>Welfare work</unittitle>
             </did>
           </c03>
@@ -351,7 +351,7 @@ St. Andrew's Episcopal Church (Ann Arbor, Mich.) records, Bentley Historical Lib
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">9</container>
+              <container type="box" label="Box [6180943649939486313]">9</container>
               <unittitle>Sunday school reports <unitdate type="inclusive" normal="1862/1874">1862-1874</unitdate></unittitle>
             </did>
           </c03>
@@ -361,7 +361,7 @@ St. Andrew's Episcopal Church (Ann Arbor, Mich.) records, Bentley Historical Lib
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">9</container>
+                <container type="box" label="Box [6180943649939486313]">9</container>
                 <unittitle>St. Andrew's Church Society of the University of Michigan <unitdate type="inclusive" normal="1869/1875">1869-1875</unitdate></unittitle>
               </did>
             </c04>
@@ -371,75 +371,75 @@ St. Andrew's Episcopal Church (Ann Arbor, Mich.) records, Bentley Historical Lib
               </did>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">9</container>
+                  <container type="box" label="Box [6180943649939486313]">9</container>
                   <unittitle>Executive committee <unitdate type="inclusive" normal="1888/1902">1888-1902</unitdate></unittitle>
                 </did>
               </c05>
               <c05 level="file">
                 <did>
-                  <container type="volume" label="Oversize Volume">1</container>
+                  <container type="volume" label="Oversize Volume [69876666341872103463938]">1</container>
                   <unittitle>Register <unitdate type="inclusive" normal="1888/1897">1888-1897</unitdate></unittitle>
                 </did>
               </c05>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">9</container>
+                  <container type="box" label="Box [6180943649939486313]">9</container>
                   <unittitle>Secretary's record <unitdate type="inclusive" normal="1885/1894">1885-1894</unitdate></unittitle>
                 </did>
               </c05>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">9</container>
+                  <container type="box" label="Box [6180943649939486313]">9</container>
                   <unittitle>Secretary's record <unitdate type="inclusive" normal="1905/1915">1905-1915</unitdate></unittitle>
                 </did>
               </c05>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">9</container>
+                  <container type="box" label="Box [6180943649939486313]">9</container>
                   <unittitle>Girl's club <unitdate type="inclusive" normal="1908/1914">1908-1914</unitdate></unittitle>
                 </did>
               </c05>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">9</container>
+                  <container type="box" label="Box [6180943649939486313]">9</container>
                   <unittitle>Library shelf list</unittitle>
                 </did>
               </c05>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">9</container>
+                  <container type="box" label="Box [6180943649939486313]">9</container>
                   <unittitle>Scrapbook <unitdate type="inclusive" normal="1886/1904">1886-1904</unitdate></unittitle>
                 </did>
               </c05>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">9</container>
+                  <container type="box" label="Box [6180943649939486313]">9</container>
                   <unittitle>Miscellaneous</unittitle>
                 </did>
               </c05>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">9</container>
+                <container type="box" label="Box [6180943649939486313]">9</container>
                 <unittitle>Episcopal Student Foundation</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">9</container>
+                <container type="box" label="Box [6180943649939486313]">9</container>
                 <unittitle>Harris Memorial Trust</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">9</container>
+                <container type="box" label="Box [6180943649939486313]">9</container>
                 <unittitle>Student Directories and Harris Hall Brochure</unittitle>
               </did>
             </c04>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">9</container>
+              <container type="box" label="Box [6180943649939486313]">9</container>
               <unittitle>Adult programs</unittitle>
             </did>
           </c03>
@@ -458,7 +458,7 @@ St. Andrew's Episcopal Church (Ann Arbor, Mich.) records, Bentley Historical Lib
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">9</container>
+              <container type="box" label="Box [6180943649939486313]">9</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1834/1862">1834-1862</unitdate>
               </unittitle>
@@ -466,7 +466,7 @@ St. Andrew's Episcopal Church (Ann Arbor, Mich.) records, Bentley Historical Lib
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">9</container>
+              <container type="box" label="Box [6180943649939486313]">9</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1930">1930</unitdate>
               </unittitle>
@@ -474,7 +474,7 @@ St. Andrew's Episcopal Church (Ann Arbor, Mich.) records, Bentley Historical Lib
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">9</container>
+              <container type="box" label="Box [6180943649939486313]">9</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1931">1931</unitdate>
               </unittitle>
@@ -482,7 +482,7 @@ St. Andrew's Episcopal Church (Ann Arbor, Mich.) records, Bentley Historical Lib
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">9</container>
+              <container type="box" label="Box [6180943649939486313]">9</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1932">1932</unitdate>
               </unittitle>
@@ -490,7 +490,7 @@ St. Andrew's Episcopal Church (Ann Arbor, Mich.) records, Bentley Historical Lib
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">9</container>
+              <container type="box" label="Box [6180943649939486313]">9</container>
               <unittitle>Miscellaneous</unittitle>
             </did>
           </c03>
@@ -501,7 +501,7 @@ St. Andrew's Episcopal Church (Ann Arbor, Mich.) records, Bentley Historical Lib
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">9</container>
+              <container type="box" label="Box [6180943649939486313]">9</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1860/1874">1860-1874</unitdate>
               </unittitle>
@@ -509,7 +509,7 @@ St. Andrew's Episcopal Church (Ann Arbor, Mich.) records, Bentley Historical Lib
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">9</container>
+              <container type="box" label="Box [6180943649939486313]">9</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1889/1891">1889-1891</unitdate>
               </unittitle>
@@ -517,7 +517,7 @@ St. Andrew's Episcopal Church (Ann Arbor, Mich.) records, Bentley Historical Lib
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">9</container>
+              <container type="box" label="Box [6180943649939486313]">9</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1892/1895">1892-1895</unitdate>
               </unittitle>
@@ -525,7 +525,7 @@ St. Andrew's Episcopal Church (Ann Arbor, Mich.) records, Bentley Historical Lib
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">10</container>
+              <container type="box" label="Box [762324058599101802]">10</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1896/1902">1896-1902</unitdate>
               </unittitle>
@@ -533,7 +533,7 @@ St. Andrew's Episcopal Church (Ann Arbor, Mich.) records, Bentley Historical Lib
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">10</container>
+              <container type="box" label="Box [762324058599101802]">10</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1903/1905">1903-1905</unitdate>
               </unittitle>
@@ -541,7 +541,7 @@ St. Andrew's Episcopal Church (Ann Arbor, Mich.) records, Bentley Historical Lib
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">10</container>
+              <container type="box" label="Box [762324058599101802]">10</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1906/1908">1906-1908</unitdate>
               </unittitle>
@@ -549,7 +549,7 @@ St. Andrew's Episcopal Church (Ann Arbor, Mich.) records, Bentley Historical Lib
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">10</container>
+              <container type="box" label="Box [762324058599101802]">10</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1909/1911">1909-1911</unitdate>
               </unittitle>
@@ -557,7 +557,7 @@ St. Andrew's Episcopal Church (Ann Arbor, Mich.) records, Bentley Historical Lib
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">10</container>
+              <container type="box" label="Box [762324058599101802]">10</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1912/1915">1912-1915</unitdate>
               </unittitle>
@@ -565,7 +565,7 @@ St. Andrew's Episcopal Church (Ann Arbor, Mich.) records, Bentley Historical Lib
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">10</container>
+              <container type="box" label="Box [762324058599101802]">10</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1916/1918">1916-1918</unitdate>
               </unittitle>
@@ -573,7 +573,7 @@ St. Andrew's Episcopal Church (Ann Arbor, Mich.) records, Bentley Historical Lib
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">10</container>
+              <container type="box" label="Box [762324058599101802]">10</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1919/1921">1919-1921</unitdate>
               </unittitle>
@@ -586,7 +586,7 @@ St. Andrew's Episcopal Church (Ann Arbor, Mich.) records, Bentley Historical Lib
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">10</container>
+              <container type="box" label="Box [762324058599101802]">10</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1849">1849</unitdate>
               </unittitle>
@@ -594,7 +594,7 @@ St. Andrew's Episcopal Church (Ann Arbor, Mich.) records, Bentley Historical Lib
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">10</container>
+              <container type="box" label="Box [762324058599101802]">10</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1896/1897">1896-1897</unitdate>
               </unittitle>
@@ -602,7 +602,7 @@ St. Andrew's Episcopal Church (Ann Arbor, Mich.) records, Bentley Historical Lib
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">10</container>
+              <container type="box" label="Box [762324058599101802]">10</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1897/1898">1897-1898</unitdate>
               </unittitle>
@@ -610,7 +610,7 @@ St. Andrew's Episcopal Church (Ann Arbor, Mich.) records, Bentley Historical Lib
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">10</container>
+              <container type="box" label="Box [762324058599101802]">10</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1901/1903">1901-1903</unitdate>
               </unittitle>
@@ -623,26 +623,26 @@ St. Andrew's Episcopal Church (Ann Arbor, Mich.) records, Bentley Historical Lib
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">10</container>
+              <container type="box" label="Box [762324058599101802]">10</container>
               <unittitle>Parsonage and church bell <unitdate type="inclusive" normal="1840" certainty="approximate">circa 1840</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">10</container>
+              <container type="box" label="Box [762324058599101802]">10</container>
               <unittitle>Parish hall and chapel <unitdate type="inclusive" normal="1949">1949</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">10</container>
+              <container type="box" label="Box [762324058599101802]">10</container>
               <unittitle>Parish house <unitdate type="inclusive" normal="1950">1950</unitdate></unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">10</container>
+            <container type="box" label="Box [762324058599101802]">10</container>
             <unittitle>Proposed sale of Harris Hall <unitdate type="inclusive" normal="1945" certainty="approximate">circa 1945</unitdate></unittitle>
           </did>
         </c02>
@@ -652,7 +652,7 @@ St. Andrew's Episcopal Church (Ann Arbor, Mich.) records, Bentley Historical Lib
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">10</container>
+              <container type="box" label="Box [762324058599101802]">10</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1928">1928</unitdate>
               </unittitle>
@@ -660,7 +660,7 @@ St. Andrew's Episcopal Church (Ann Arbor, Mich.) records, Bentley Historical Lib
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">10</container>
+              <container type="box" label="Box [762324058599101802]">10</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1932">1932</unitdate>
               </unittitle>
@@ -668,7 +668,7 @@ St. Andrew's Episcopal Church (Ann Arbor, Mich.) records, Bentley Historical Lib
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">10</container>
+              <container type="box" label="Box [762324058599101802]">10</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1935/1939">1935-1939</unitdate>
               </unittitle>
@@ -676,7 +676,7 @@ St. Andrew's Episcopal Church (Ann Arbor, Mich.) records, Bentley Historical Lib
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">10</container>
+              <container type="box" label="Box [762324058599101802]">10</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1941">1941</unitdate>
               </unittitle>
@@ -684,7 +684,7 @@ St. Andrew's Episcopal Church (Ann Arbor, Mich.) records, Bentley Historical Lib
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">10</container>
+              <container type="box" label="Box [762324058599101802]">10</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1945">1945</unitdate>
               </unittitle>
@@ -692,7 +692,7 @@ St. Andrew's Episcopal Church (Ann Arbor, Mich.) records, Bentley Historical Lib
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">10</container>
+              <container type="box" label="Box [762324058599101802]">10</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1947">1947</unitdate>
               </unittitle>
@@ -700,7 +700,7 @@ St. Andrew's Episcopal Church (Ann Arbor, Mich.) records, Bentley Historical Lib
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">10</container>
+              <container type="box" label="Box [762324058599101802]">10</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1948">1948</unitdate>
               </unittitle>
@@ -708,13 +708,13 @@ St. Andrew's Episcopal Church (Ann Arbor, Mich.) records, Bentley Historical Lib
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">10</container>
+              <container type="box" label="Box [762324058599101802]">10</container>
               <unittitle><unitdate type="inclusive" normal="1949">1949</unitdate> (Membership gifts) "The Memorials &amp; Gifts at St. Andrew's Church"</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">10</container>
+              <container type="box" label="Box [762324058599101802]">10</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1951">1951</unitdate>
               </unittitle>
@@ -722,7 +722,7 @@ St. Andrew's Episcopal Church (Ann Arbor, Mich.) records, Bentley Historical Lib
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">10</container>
+              <container type="box" label="Box [762324058599101802]">10</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1952">1952</unitdate>
               </unittitle>
@@ -730,7 +730,7 @@ St. Andrew's Episcopal Church (Ann Arbor, Mich.) records, Bentley Historical Lib
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">10</container>
+              <container type="box" label="Box [762324058599101802]">10</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1955">1955</unitdate>
               </unittitle>
@@ -744,25 +744,25 @@ St. Andrew's Episcopal Church (Ann Arbor, Mich.) records, Bentley Historical Lib
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">10</container>
+                <container type="box" label="Box [762324058599101802]">10</container>
                 <unittitle>Minutes</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">10</container>
+                <container type="box" label="Box [762324058599101802]">10</container>
                 <unittitle>Well's Clients School program</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">10</container>
+                <container type="box" label="Box [762324058599101802]">10</container>
                 <unittitle>Pledges</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">10</container>
+                <container type="box" label="Box [762324058599101802]">10</container>
                 <unittitle>Miscellaneous material</unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">4 folders</extent>
@@ -772,7 +772,7 @@ St. Andrew's Episcopal Church (Ann Arbor, Mich.) records, Bentley Historical Lib
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">10</container>
+              <container type="box" label="Box [762324058599101802]">10</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1957">1957</unitdate>
               </unittitle>
@@ -785,7 +785,7 @@ St. Andrew's Episcopal Church (Ann Arbor, Mich.) records, Bentley Historical Lib
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">10</container>
+              <container type="box" label="Box [762324058599101802]">10</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1835/1839">1835-1839</unitdate>
               </unittitle>
@@ -793,7 +793,7 @@ St. Andrew's Episcopal Church (Ann Arbor, Mich.) records, Bentley Historical Lib
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">10</container>
+              <container type="box" label="Box [762324058599101802]">10</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1840/1845">1840-1845</unitdate>
               </unittitle>
@@ -801,13 +801,13 @@ St. Andrew's Episcopal Church (Ann Arbor, Mich.) records, Bentley Historical Lib
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">10</container>
+              <container type="box" label="Box [762324058599101802]">10</container>
               <unittitle><unitdate type="inclusive" normal="1840/1848">1840-1848</unitdate> (Finance committee)</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">10</container>
+              <container type="box" label="Box [762324058599101802]">10</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1850/1860">1850-1860</unitdate>
               </unittitle>
@@ -815,13 +815,13 @@ St. Andrew's Episcopal Church (Ann Arbor, Mich.) records, Bentley Historical Lib
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">10</container>
+              <container type="box" label="Box [762324058599101802]">10</container>
               <unittitle><unitdate type="inclusive" normal="1854">1854</unitdate> (church repairs)</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">10</container>
+              <container type="box" label="Box [762324058599101802]">10</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1862/1863">1862-1863</unitdate>
               </unittitle>
@@ -829,13 +829,13 @@ St. Andrew's Episcopal Church (Ann Arbor, Mich.) records, Bentley Historical Lib
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">10</container>
+              <container type="box" label="Box [762324058599101802]">10</container>
               <unittitle><unitdate type="inclusive" normal="1869">1869</unitdate> (history of church)</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">10</container>
+              <container type="box" label="Box [762324058599101802]">10</container>
               <unittitle>Miscellaneous</unittitle>
             </did>
           </c03>
@@ -846,13 +846,13 @@ St. Andrew's Episcopal Church (Ann Arbor, Mich.) records, Bentley Historical Lib
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">11</container>
+              <container type="box" label="Box [765150244822387249]">11</container>
               <unittitle>Church Works Association <unitdate type="inclusive" normal="1866/1874">1866-1874</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">11</container>
+              <container type="box" label="Box [765150244822387249]">11</container>
               <unittitle>Young Ladies Aid Society <unitdate type="inclusive" normal="1876/1878">1876-1878</unitdate></unittitle>
             </did>
           </c03>
@@ -862,7 +862,7 @@ St. Andrew's Episcopal Church (Ann Arbor, Mich.) records, Bentley Historical Lib
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">11</container>
+                <container type="box" label="Box [765150244822387249]">11</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1896/1910">1896-1910</unitdate>
                 </unittitle>
@@ -870,7 +870,7 @@ St. Andrew's Episcopal Church (Ann Arbor, Mich.) records, Bentley Historical Lib
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">11</container>
+                <container type="box" label="Box [765150244822387249]">11</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1911/1916">1911-1916</unitdate>
                 </unittitle>
@@ -878,7 +878,7 @@ St. Andrew's Episcopal Church (Ann Arbor, Mich.) records, Bentley Historical Lib
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">11</container>
+                <container type="box" label="Box [765150244822387249]">11</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1917/1928">1917-1928</unitdate>
                 </unittitle>
@@ -887,13 +887,13 @@ St. Andrew's Episcopal Church (Ann Arbor, Mich.) records, Bentley Historical Lib
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">11</container>
+              <container type="box" label="Box [765150244822387249]">11</container>
               <unittitle>Brotherhood of the Episcopal Church <unitdate type="inclusive" normal="1914/1917">1914-1917</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">11</container>
+              <container type="box" label="Box [765150244822387249]">11</container>
               <unittitle>Men's Club</unittitle>
             </did>
           </c03>
@@ -904,7 +904,7 @@ St. Andrew's Episcopal Church (Ann Arbor, Mich.) records, Bentley Historical Lib
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">11</container>
+              <container type="box" label="Box [765150244822387249]">11</container>
               <unittitle>125th Parish anniversary/30th anniversary of Rev. Henry Lewis' Ordination</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -913,26 +913,26 @@ St. Andrew's Episcopal Church (Ann Arbor, Mich.) records, Bentley Historical Lib
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">11</container>
+              <container type="box" label="Box [765150244822387249]">11</container>
               <unittitle>Miscellaneous</unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">11</container>
+            <container type="box" label="Box [765150244822387249]">11</container>
             <unittitle>Newspaper clipping</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">11</container>
+            <container type="box" label="Box [765150244822387249]">11</container>
             <unittitle>Parish histories</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">11</container>
+            <container type="box" label="Box [765150244822387249]">11</container>
             <unittitle>Miscellaneous</unittitle>
           </did>
         </c02>
@@ -946,7 +946,7 @@ St. Andrew's Episcopal Church (Ann Arbor, Mich.) records, Bentley Historical Lib
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">11</container>
+            <container type="box" label="Box [765150244822387249]">11</container>
             <unittitle>Founding-1894</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -955,7 +955,7 @@ St. Andrew's Episcopal Church (Ann Arbor, Mich.) records, Bentley Historical Lib
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">11</container>
+            <container type="box" label="Box [765150244822387249]">11</container>
             <unittitle>
               <unitdate type="inclusive" normal="1895/1904">1895-1904</unitdate>
             </unittitle>
@@ -966,7 +966,7 @@ St. Andrew's Episcopal Church (Ann Arbor, Mich.) records, Bentley Historical Lib
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">11</container>
+            <container type="box" label="Box [765150244822387249]">11</container>
             <unittitle>
               <unitdate type="inclusive" normal="1905/1912">1905-1912</unitdate>
             </unittitle>
@@ -974,7 +974,7 @@ St. Andrew's Episcopal Church (Ann Arbor, Mich.) records, Bentley Historical Lib
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">11</container>
+            <container type="box" label="Box [765150244822387249]">11</container>
             <unittitle>
               <unitdate type="inclusive" normal="1913/1922">1913-1922</unitdate>
             </unittitle>
@@ -985,7 +985,7 @@ St. Andrew's Episcopal Church (Ann Arbor, Mich.) records, Bentley Historical Lib
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">12</container>
+            <container type="box" label="Box [82120705448942413231]">12</container>
             <unittitle>
               <unitdate type="inclusive" normal="1923/1925">1923-1925</unitdate>
             </unittitle>
@@ -996,7 +996,7 @@ St. Andrew's Episcopal Church (Ann Arbor, Mich.) records, Bentley Historical Lib
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">12</container>
+            <container type="box" label="Box [82120705448942413231]">12</container>
             <unittitle>
               <unitdate type="inclusive" normal="1926/1930">1926-1930</unitdate>
             </unittitle>
@@ -1007,7 +1007,7 @@ St. Andrew's Episcopal Church (Ann Arbor, Mich.) records, Bentley Historical Lib
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">12</container>
+            <container type="box" label="Box [82120705448942413231]">12</container>
             <unittitle>
               <unitdate type="inclusive" normal="1931/1933">1931-1933</unitdate>
             </unittitle>
@@ -1018,7 +1018,7 @@ St. Andrew's Episcopal Church (Ann Arbor, Mich.) records, Bentley Historical Lib
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">12</container>
+            <container type="box" label="Box [82120705448942413231]">12</container>
             <unittitle>
               <unitdate type="inclusive" normal="1934/1943">1934-1943</unitdate>
             </unittitle>
@@ -1026,7 +1026,7 @@ St. Andrew's Episcopal Church (Ann Arbor, Mich.) records, Bentley Historical Lib
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">12</container>
+            <container type="box" label="Box [82120705448942413231]">12</container>
             <unittitle>
               <unitdate type="inclusive" normal="1944/1949">1944-1949</unitdate>
             </unittitle>
@@ -1034,7 +1034,7 @@ St. Andrew's Episcopal Church (Ann Arbor, Mich.) records, Bentley Historical Lib
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">12</container>
+            <container type="box" label="Box [82120705448942413231]">12</container>
             <unittitle>
               <unitdate type="inclusive" normal="1949/1954">1949-1954</unitdate>
             </unittitle>
@@ -1042,7 +1042,7 @@ St. Andrew's Episcopal Church (Ann Arbor, Mich.) records, Bentley Historical Lib
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">12</container>
+            <container type="box" label="Box [82120705448942413231]">12</container>
             <unittitle>
               <unitdate type="inclusive" normal="1954/1956">1954-1956</unitdate>
             </unittitle>
@@ -1050,7 +1050,7 @@ St. Andrew's Episcopal Church (Ann Arbor, Mich.) records, Bentley Historical Lib
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">12</container>
+            <container type="box" label="Box [82120705448942413231]">12</container>
             <unittitle>
               <unitdate type="inclusive" normal="1890/1904">1890-1904</unitdate>
             </unittitle>
@@ -1070,7 +1070,7 @@ St. Andrew's Episcopal Church (Ann Arbor, Mich.) records, Bentley Historical Lib
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">13</container>
+              <container type="box" label="Box [785581914743216337]">13</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1938">1938</unitdate>
               </unittitle>
@@ -1078,7 +1078,7 @@ St. Andrew's Episcopal Church (Ann Arbor, Mich.) records, Bentley Historical Lib
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">13</container>
+              <container type="box" label="Box [785581914743216337]">13</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1939">1939</unitdate>
               </unittitle>
@@ -1086,7 +1086,7 @@ St. Andrew's Episcopal Church (Ann Arbor, Mich.) records, Bentley Historical Lib
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">13</container>
+              <container type="box" label="Box [785581914743216337]">13</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1946">1946</unitdate>
               </unittitle>
@@ -1094,7 +1094,7 @@ St. Andrew's Episcopal Church (Ann Arbor, Mich.) records, Bentley Historical Lib
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">13</container>
+              <container type="box" label="Box [785581914743216337]">13</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1948">1948</unitdate>
               </unittitle>
@@ -1102,7 +1102,7 @@ St. Andrew's Episcopal Church (Ann Arbor, Mich.) records, Bentley Historical Lib
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">13</container>
+              <container type="box" label="Box [785581914743216337]">13</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1949">1949</unitdate>
               </unittitle>
@@ -1111,19 +1111,19 @@ St. Andrew's Episcopal Church (Ann Arbor, Mich.) records, Bentley Historical Lib
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">13</container>
+            <container type="box" label="Box [785581914743216337]">13</container>
             <unittitle>Sermons of Bishop Richard S. Emrich</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">13</container>
+            <container type="box" label="Box [785581914743216337]">13</container>
             <unittitle>Miscellaneous Diocese of Michigan material</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">13</container>
+            <container type="box" label="Box [785581914743216337]">13</container>
             <unittitle>Catalogue, Theological Seminary of the Diocese of Virginia <unitdate type="inclusive" normal="1844">1844</unitdate></unittitle>
           </did>
         </c02>
@@ -1141,7 +1141,7 @@ St. Andrew's Episcopal Church (Ann Arbor, Mich.) records, Bentley Historical Lib
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">13</container>
+              <container type="box" label="Box [785581914743216337]">13</container>
               <unitdate type="inclusive" normal="1919">1919</unitdate>
               <unitdate type="inclusive" normal="1931">1931</unitdate>
               <unitdate type="inclusive" normal="1934">1934</unitdate>
@@ -1149,7 +1149,7 @@ St. Andrew's Episcopal Church (Ann Arbor, Mich.) records, Bentley Historical Lib
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">13</container>
+              <container type="box" label="Box [785581914743216337]">13</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1941/1942">1941-1942</unitdate>
               </unittitle>
@@ -1157,7 +1157,7 @@ St. Andrew's Episcopal Church (Ann Arbor, Mich.) records, Bentley Historical Lib
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">13</container>
+              <container type="box" label="Box [785581914743216337]">13</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1985/1995">1985-1995</unitdate>
               </unittitle>
@@ -1168,56 +1168,56 @@ St. Andrew's Episcopal Church (Ann Arbor, Mich.) records, Bentley Historical Lib
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">13</container>
+              <container type="box" label="Box [785581914743216337]">13</container>
               <unittitle>Miscellaneous</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">13</container>
+              <container type="box" label="Box [785581914743216337]">13</container>
               <unittitle>By Henry Lewis</unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">13</container>
+            <container type="box" label="Box [785581914743216337]">13</container>
             <unittitle>Advent and Christmas</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">13</container>
+            <container type="box" label="Box [785581914743216337]">13</container>
             <unittitle>Lent</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">13</container>
+            <container type="box" label="Box [785581914743216337]">13</container>
             <unittitle>Holy Week</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">13</container>
+            <container type="box" label="Box [785581914743216337]">13</container>
             <unittitle>Nineteenth Century programs</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">13</container>
+            <container type="box" label="Box [785581914743216337]">13</container>
             <unittitle>Wartime (W.W. II) Liturgies and Prayers</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">13</container>
+            <container type="box" label="Box [785581914743216337]">13</container>
             <unittitle>Miscellaneous prayers</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">13</container>
+            <container type="box" label="Box [785581914743216337]">13</container>
             <unittitle>Lectures on the Liturgy</unittitle>
           </did>
         </c02>
@@ -1235,7 +1235,7 @@ St. Andrew's Episcopal Church (Ann Arbor, Mich.) records, Bentley Historical Lib
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">14</container>
+              <container type="box" label="Box [28253254118255915]">14</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1922/1951">1922-1951</unitdate>
               </unittitle>
@@ -1246,7 +1246,7 @@ St. Andrew's Episcopal Church (Ann Arbor, Mich.) records, Bentley Historical Lib
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">15</container>
+              <container type="box" label="Box [9390466640792936319452]">15</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1952/1973">1952-1973</unitdate>
               </unittitle>
@@ -1257,7 +1257,7 @@ St. Andrew's Episcopal Church (Ann Arbor, Mich.) records, Bentley Historical Lib
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">16</container>
+              <container type="box" label="Box [1057317454225978251295309]">16</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1974/1996">1974-1996</unitdate>
               </unittitle>
@@ -1269,7 +1269,7 @@ St. Andrew's Episcopal Church (Ann Arbor, Mich.) records, Bentley Historical Lib
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">17</container>
+            <container type="box" label="Box [4662244633906694235]">17</container>
             <unittitle>Weekly Children's bulletin</unittitle>
             <unitdate type="inclusive" normal="1940/1947">1940-1947</unitdate>
             <unitdate type="inclusive" normal="1952/1953">1952-1953</unitdate>
@@ -1280,7 +1280,7 @@ St. Andrew's Episcopal Church (Ann Arbor, Mich.) records, Bentley Historical Lib
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">17</container>
+            <container type="box" label="Box [4662244633906694235]">17</container>
             <unittitle>"A Letter from St. Andrew's" <unitdate type="inclusive" normal="1957/1961">1957-1961</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">5 folders</extent>
@@ -1289,7 +1289,7 @@ St. Andrew's Episcopal Church (Ann Arbor, Mich.) records, Bentley Historical Lib
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">17</container>
+            <container type="box" label="Box [4662244633906694235]">17</container>
             <unittitle>"Cross Currents" <unitdate type="inclusive" normal="1962/1969">1962-1969</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">8 folders</extent>
@@ -1298,7 +1298,7 @@ St. Andrew's Episcopal Church (Ann Arbor, Mich.) records, Bentley Historical Lib
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">17</container>
+            <container type="box" label="Box [4662244633906694235]">17</container>
             <unittitle>Newsletters, etc.</unittitle>
             <unitdate type="inclusive" normal="1935/1974">1935-1974</unitdate>
             <unitdate type="inclusive" normal="1978/1998">1978-1998</unitdate>
@@ -1323,44 +1323,44 @@ St. Andrew's Episcopal Church (Ann Arbor, Mich.) records, Bentley Historical Lib
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">18</container>
+              <container type="box" label="Box [24780488633547904]">18</container>
               <unittitle>Adults</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">18</container>
+              <container type="box" label="Box [24780488633547904]">18</container>
               <unittitle>Children</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">18</container>
+              <container type="box" label="Box [24780488633547904]">18</container>
               <unittitle>Choirs</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">18</container>
+              <container type="box" label="Box [24780488633547904]">18</container>
               <unittitle>125th anniversary</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">18</container>
+              <container type="box" label="Box [24780488633547904]">18</container>
               <unittitle>University students</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">18</container>
+              <container type="box" label="Box [24780488633547904]">18</container>
               <unittitle>Worship and associated activities</unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">18</container>
+            <container type="box" label="Box [24780488633547904]">18</container>
             <unittitle>Bishops of Michigan</unittitle>
           </did>
         </c02>
@@ -1370,25 +1370,25 @@ St. Andrew's Episcopal Church (Ann Arbor, Mich.) records, Bentley Historical Lib
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">18</container>
+              <container type="box" label="Box [24780488633547904]">18</container>
               <unittitle>Exteriors</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">18</container>
+              <container type="box" label="Box [24780488633547904]">18</container>
               <unittitle>Exteriors (other than St. Andrew's)</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">18</container>
+              <container type="box" label="Box [24780488633547904]">18</container>
               <unittitle>Interiors</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">18</container>
+              <container type="box" label="Box [24780488633547904]">18</container>
               <unittitle>Windows</unittitle>
             </did>
           </c03>
@@ -1399,38 +1399,38 @@ St. Andrew's Episcopal Church (Ann Arbor, Mich.) records, Bentley Historical Lib
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">18</container>
+              <container type="box" label="Box [24780488633547904]">18</container>
               <unittitle>Gillespie, George D.</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">18</container>
+              <container type="box" label="Box [24780488633547904]">18</container>
               <unittitle>Lewis, Henry</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">18</container>
+              <container type="box" label="Box [24780488633547904]">18</container>
               <unittitle>Miscellaneous</unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">18</container>
+            <container type="box" label="Box [24780488633547904]">18</container>
             <unittitle>Groups, Miscellaneous</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">18</container>
+            <container type="box" label="Box [24780488633547904]">18</container>
             <unittitle>Individuals, Miscellaneous and unidentified</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">18</container>
+            <container type="box" label="Box [24780488633547904]">18</container>
             <unittitle>Northside Church</unittitle>
           </did>
         </c02>
@@ -1443,32 +1443,32 @@ St. Andrew's Episcopal Church (Ann Arbor, Mich.) records, Bentley Historical Lib
           </odd>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">18</container>
+              <container type="box" label="Box [24780488633547904]">18</container>
               <unittitle>Activities</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">18</container>
+              <container type="box" label="Box [24780488633547904]">18</container>
               <unittitle>Bishops, clergy, groups, individuals</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">18</container>
+              <container type="box" label="Box [24780488633547904]">18</container>
               <unittitle>Building</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">18</container>
+              <container type="box" label="Box [24780488633547904]">18</container>
               <unittitle>Autographs of clergy removed from scrapbook</unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">18</container>
+            <container type="box" label="Box [24780488633547904]">18</container>
             <unittitle>Snapshots taken of areas of the church building needing repair and / or restoration</unittitle>
             <physdesc altrender="part">
               <extent altrender="materialtype spaceoccupied">1 folders</extent>

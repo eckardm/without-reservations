@@ -26,7 +26,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Peter Yates Photograph Collection, 1978-1990</titleproper>
       <author>Finding aid created by <lb/>Lisa B. Hum, 1995</author>
     </titlepage>
@@ -80,20 +80,20 @@ Peter Yates Photograph Collection, Bentley Historical Library, University of Mic
       </p>
       <controlaccess>
         <head>Subjects - Visual Materials:</head>
-        <subject source="lcsh" encodinganalog="611">Ann Arbor observer.</subject>
-        <geogname source="lctgm" encodinganalog="651">Ann Arbor (Mich.)--Buildings.</geogname>
-        <geogname source="lctgm" encodinganalog="651">Ann Arbor (Mich.)--Business enterprises.</geogname>
-        <geogname source="lctgm" encodinganalog="651">Ann Arbor (Mich.)--Dwellings.</geogname>
-        <geogname source="lctgm" encodinganalog="651">Ann Arbor (Mich.)--Residential streets.</geogname>
-        <subject source="lctgm" encodinganalog="650">Buildings--Michigan--Ann Arbor.</subject>
-        <subject source="lctgm" encodinganalog="650">Business enterprises--Michigan--Ann Arbor.</subject>
-        <subject source="lctgm" encodinganalog="650">Dwellings--Michigan--Ann Arbor.</subject>
-        <subject source="lctgm" encodinganalog="650">Residential streets--Michigan--Ann Arbor.</subject>
+        <subject source="lcsh" encodinganalog="611" ref="/subjects/10826">Ann Arbor observer.</subject>
+        <geogname source="lctgm" encodinganalog="651" ref="/subjects/214">Ann Arbor (Mich.)--Buildings.</geogname>
+        <geogname source="lctgm" encodinganalog="651" ref="/subjects/210">Ann Arbor (Mich.)--Business enterprises.</geogname>
+        <geogname source="lctgm" encodinganalog="651" ref="/subjects/207">Ann Arbor (Mich.)--Dwellings.</geogname>
+        <geogname source="lctgm" encodinganalog="651" ref="/subjects/748">Ann Arbor (Mich.)--Residential streets.</geogname>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3588">Buildings--Michigan--Ann Arbor.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3589">Business enterprises--Michigan--Ann Arbor.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3572">Dwellings--Michigan--Ann Arbor.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3602">Residential streets--Michigan--Ann Arbor.</subject>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan--Faculty.</corpname>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -106,7 +106,7 @@ Peter Yates Photograph Collection, Bentley Historical Library, University of Mic
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [07670374430332095802]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1978-02/1982-12">February 1978-December 1982</unitdate>
             </unittitle>
@@ -114,7 +114,7 @@ Peter Yates Photograph Collection, Bentley Historical Library, University of Mic
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [6060194478666748592]">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1983-01/1987-12">January 1983-December 1987</unitdate>
             </unittitle>
@@ -122,7 +122,7 @@ Peter Yates Photograph Collection, Bentley Historical Library, University of Mic
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [7857810584142853662518]">3</container>
             <unittitle>
               <unitdate type="inclusive" normal="1988-01/1991-02">January 1988-February 1991</unitdate>
             </unittitle>

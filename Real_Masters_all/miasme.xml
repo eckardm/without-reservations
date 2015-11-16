@@ -31,7 +31,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Michigan Association for Media in Education <lb/>Records, 1949-1999</titleproper>
       <author>Finding aid created by <lb/>Marlee Horrocks, April 1992 <lb/>Bentley Historical Library staff, 2009</author>
     </titlepage>
@@ -90,8 +90,8 @@ Michigan Association for Media in Education records, Bentley Historical Library,
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <subject source="lcsh" encodinganalog="650">Authors, American--Michigan.</subject>
-        <subject source="lcsh" encodinganalog="650">Libraries--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6071">Authors, American--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/9247">Libraries--Michigan.</subject>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n78023875">Michigan Association for Media in Education.</corpname>
         <corpname source="lcnaf" encodinganalog="610">Michigan Association of School Librarians.</corpname>
         <corpname source="lcnaf" encodinganalog="610">Michigan Audio-Visual Association.</corpname>
@@ -103,8 +103,8 @@ Michigan Association for Media in Education records, Bentley Historical Library,
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
-        <genreform source="aat" encodinganalog="655">Scrapbooks.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3139">Scrapbooks.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -117,12 +117,12 @@ Michigan Association for Media in Education records, Bentley Historical Library,
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6622534046027639650767]">1</container>
             <unittitle>Records <unitdate type="inclusive" normal="1949/1973">1949-1973</unitdate></unittitle>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [6622534046027639650767]">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1949/1962">1949-Spring 1962</unitdate>
               </unittitle>
@@ -133,7 +133,7 @@ Michigan Association for Media in Education records, Bentley Historical Library,
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [78756534994698887114094]">2</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1962/1970">Fall 1962-Spring 1970</unitdate>
               </unittitle>
@@ -144,7 +144,7 @@ Michigan Association for Media in Education records, Bentley Historical Library,
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [689095451810983388]">3</container>
               <unittitle>Records <unitdate type="inclusive" normal="1970/1973">Fall 1970-1973</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">4 volumes</extent>
@@ -154,7 +154,7 @@ Michigan Association for Media in Education records, Bentley Historical Library,
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [689095451810983388]">3</container>
             <unittitle>Newsletters, Volume I, Number 1-Volume XI, Number 1 <unitdate type="inclusive" normal="1956/1971">1956-Fall 1971</unitdate></unittitle>
           </did>
           <odd>
@@ -163,49 +163,49 @@ Michigan Association for Media in Education records, Bentley Historical Library,
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [689095451810983388]">3</container>
             <unittitle><title render="italic">Forward</title> [journal] Official File, <unitdate type="inclusive" normal="1951/1973">November 1951-Fall 1973</unitdate>)</unittitle>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [689095451810983388]">3</container>
               <unittitle>Volume I, Number 1-Volume XVIII, Number 3 <unitdate type="inclusive" normal="1951/1969">November 1951-Spring 1969</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [689095451810983388]">3</container>
               <unittitle>Volume XIX, Number 1-Volume XX, Number 2 <unitdate type="inclusive" normal="1969/1971">Fall 1969-Spring 1971</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [689095451810983388]">3</container>
               <unittitle>Volume XXI, Number 1-Volume XXXI, Number 1 <unitdate type="inclusive" normal="1971/1973">Fall 1971-Fall 1973</unitdate></unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [689095451810983388]">3</container>
             <unittitle>Miscellaneous <unitdate type="inclusive" normal="1973/1974">1973-1974</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">1</container>
+            <container type="volume" label="Oversize Volume [5751637474919223101591]">1</container>
             <unittitle>Scrapbook #1 <unitdate type="inclusive" normal="1950/1960">1950-1960</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">2</container>
+            <container type="volume" label="Oversize Volume [880504794353656729]">2</container>
             <unittitle>Scrapbook #2 <unitdate type="inclusive" normal="1960/1968">1960-Spring 1968</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">3</container>
+            <container type="volume" label="Oversize Volume [4679475524798688679531378]">3</container>
             <unittitle>Scrapbook #3 <unitdate type="inclusive" normal="1968/1973">1968-1973</unitdate></unittitle>
           </did>
         </c02>
@@ -219,7 +219,7 @@ Michigan Association for Media in Education records, Bentley Historical Library,
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [689095451810983388]">3</container>
             <unittitle>Constitution December 1, 1950; Charter Members, 1950-1951 Officers</unittitle>
             <unitdate type="inclusive" normal="1950-12-01">December 1, 1950</unitdate>
             <unitdate type="inclusive" normal="1950/1951">1950-1951</unitdate>
@@ -227,13 +227,13 @@ Michigan Association for Media in Education records, Bentley Historical Library,
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [689095451810983388]">3</container>
             <unittitle>History <unitdate type="inclusive" normal="1950/1963">1950-Spring 1963</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [9544174154185032671404]">4</container>
             <unittitle>History <unitdate type="inclusive" normal="1963/1973">Fall 1963-1973</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">9 volumes</extent>
@@ -242,7 +242,7 @@ Michigan Association for Media in Education records, Bentley Historical Library,
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [9544174154185032671404]">4</container>
             <unittitle>Newsletters <unitdate type="inclusive" normal="1963/1972">1963-1972</unitdate></unittitle>
           </did>
         </c02>
@@ -256,13 +256,13 @@ Michigan Association for Media in Education records, Bentley Historical Library,
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [9544174154185032671404]">4</container>
             <unittitle>Combined Conference Reports <unitdate type="inclusive" normal="1973">1973</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [9544174154185032671404]">4</container>
             <unittitle>Constitutional Committee <unitdate type="inclusive" normal="1972/1973">1972-1973</unitdate></unittitle>
           </did>
         </c02>
@@ -276,7 +276,7 @@ Michigan Association for Media in Education records, Bentley Historical Library,
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [9544174154185032671404]">4</container>
             <unittitle>Michigan Newsletter, March and <unitdate type="inclusive" normal="1974-06">June 1974</unitdate></unittitle>
           </did>
         </c02>
@@ -289,7 +289,7 @@ Michigan Association for Media in Education records, Bentley Historical Library,
           </odd>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [260294416950196291]">5</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1974/1975">1974-1975</unitdate>
               </unittitle>
@@ -297,7 +297,7 @@ Michigan Association for Media in Education records, Bentley Historical Library,
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [826081534269978280]">6</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1976/1978">1976-1978</unitdate>
               </unittitle>
@@ -305,7 +305,7 @@ Michigan Association for Media in Education records, Bentley Historical Library,
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">7</container>
+              <container type="box" label="Box [9679743835356049]">7</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1979/1981">1979-1981</unitdate>
               </unittitle>
@@ -313,7 +313,7 @@ Michigan Association for Media in Education records, Bentley Historical Library,
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">8</container>
+              <container type="box" label="Box [847288826649489395907778]">8</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1982/1984">1982-1984</unitdate>
               </unittitle>
@@ -321,7 +321,7 @@ Michigan Association for Media in Education records, Bentley Historical Library,
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">9</container>
+              <container type="box" label="Box [43164483392237]">9</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1985/1987">1985-1987</unitdate>
               </unittitle>
@@ -329,7 +329,7 @@ Michigan Association for Media in Education records, Bentley Historical Library,
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">10</container>
+              <container type="box" label="Box [2020327479336949]">10</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1988/1990">1988-1990</unitdate>
               </unittitle>
@@ -337,7 +337,7 @@ Michigan Association for Media in Education records, Bentley Historical Library,
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">11</container>
+              <container type="box" label="Box [299213419306870603]">11</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1991/1993">1991-1993</unitdate>
               </unittitle>
@@ -345,7 +345,7 @@ Michigan Association for Media in Education records, Bentley Historical Library,
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">12</container>
+              <container type="box" label="Box [9887368941484091599]">12</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1994/1996">1994-1996</unitdate>
               </unittitle>
@@ -353,7 +353,7 @@ Michigan Association for Media in Education records, Bentley Historical Library,
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">13</container>
+              <container type="box" label="Box [652016248276526342084]">13</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1997/1999">1997-1999</unitdate>
               </unittitle>
@@ -369,7 +369,7 @@ Michigan Association for Media in Education records, Bentley Historical Library,
           </odd>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">14</container>
+              <container type="box" label="Box [76199504602810233417]">14</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1974/1977">1974-1977</unitdate>
               </unittitle>
@@ -377,7 +377,7 @@ Michigan Association for Media in Education records, Bentley Historical Library,
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">15</container>
+              <container type="box" label="Box [437533145487941527176]">15</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1978/1980">1978-1980</unitdate>
               </unittitle>
@@ -385,7 +385,7 @@ Michigan Association for Media in Education records, Bentley Historical Library,
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">16</container>
+              <container type="box" label="Box [3748804338457309]">16</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1981/1984">1981-1984</unitdate>
               </unittitle>
@@ -393,7 +393,7 @@ Michigan Association for Media in Education records, Bentley Historical Library,
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">17</container>
+              <container type="box" label="Box [79936128497074592151]">17</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1985/1988">1985-1988</unitdate>
               </unittitle>
@@ -401,7 +401,7 @@ Michigan Association for Media in Education records, Bentley Historical Library,
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">18</container>
+              <container type="box" label="Box [5792766704369299979139]">18</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1989/1991">1989-1991</unitdate>
               </unittitle>
@@ -409,7 +409,7 @@ Michigan Association for Media in Education records, Bentley Historical Library,
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">19</container>
+              <container type="box" label="Box [43045984955411521044662]">19</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1992/1994">1992-1994</unitdate>
               </unittitle>
@@ -417,7 +417,7 @@ Michigan Association for Media in Education records, Bentley Historical Library,
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">20</container>
+              <container type="box" label="Box [813052320411687539026]">20</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1995/1997">1995-1997</unitdate>
               </unittitle>
@@ -425,7 +425,7 @@ Michigan Association for Media in Education records, Bentley Historical Library,
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">21</container>
+              <container type="box" label="Box [8315428992498245]">21</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1998/1999">1998-1999</unitdate>
               </unittitle>
@@ -438,7 +438,7 @@ Michigan Association for Media in Education records, Bentley Historical Library,
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">22</container>
+              <container type="box" label="Box [127274606434871048]">22</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1974/1976">1974-1976</unitdate>
               </unittitle>
@@ -457,12 +457,12 @@ Michigan Association for Media in Education records, Bentley Historical Library,
           </odd>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">23</container>
+              <container type="box" label="Box [7538368554264699079559]">23</container>
               <unittitle>Region 9, Saginaw County</unittitle>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">23</container>
+                <container type="box" label="Box [7538368554264699079559]">23</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1975/1979">1975-1979</unitdate>
                 </unittitle>
@@ -470,7 +470,7 @@ Michigan Association for Media in Education records, Bentley Historical Library,
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">23</container>
+                <container type="box" label="Box [7538368554264699079559]">23</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1980/1992">1980-1992</unitdate>
                 </unittitle>
@@ -479,7 +479,7 @@ Michigan Association for Media in Education records, Bentley Historical Library,
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">23</container>
+              <container type="box" label="Box [7538368554264699079559]">23</container>
               <unittitle>Region II <unitdate type="inclusive" normal="1974/1989" certainty="approximate">1974-late 1980s</unitdate></unittitle>
             </did>
           </c03>
@@ -490,7 +490,7 @@ Michigan Association for Media in Education records, Bentley Historical Library,
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">23</container>
+              <container type="box" label="Box [7538368554264699079559]">23</container>
               <unittitle>
                 <title render="italic">Before and After the Censor: a resource manual on intellectual freedom</title>
                 <date>Fall 1987</date>
@@ -499,32 +499,32 @@ Michigan Association for Media in Education records, Bentley Historical Library,
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">23</container>
+              <container type="box" label="Box [7538368554264699079559]">23</container>
               <unittitle><title render="italic">Selection Policies: a guide to updating and writing</title> (Intellectual Freedom Committee; <date>1978</date>)</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">23</container>
+              <container type="box" label="Box [7538368554264699079559]">23</container>
               <unittitle><title render="italic">Who's Where in Books</title> (Michigan Association of School Librarians)</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">23</container>
+              <container type="box" label="Box [7538368554264699079559]">23</container>
               <unittitle><title render="italic">Bicentennial Broadside; an annotated bibliography &amp; resource guide</title> (<date>1975</date>)</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">23</container>
+              <container type="box" label="Box [7538368554264699079559]">23</container>
               <unittitle><title render="italic">Recommended materials for a professional library in the school</title> (<date>1962</date>)</unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">23</container>
+            <container type="box" label="Box [7538368554264699079559]">23</container>
             <unittitle>Miscellaneous sound cassettes, filmstrips, and photographic slides</unittitle>
           </did>
         </c02>

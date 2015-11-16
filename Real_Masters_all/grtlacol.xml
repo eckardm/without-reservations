@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Great Lakes Colleges Association Records, 1961-1982</titleproper>
       <author>Finding aid created by <lb/>Michael Shallcross, 2009</author>
     </titlepage>
@@ -82,8 +82,8 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <subject source="lcsh" encodinganalog="650">Education--Middle West.</subject>
-        <subject source="lcsh" encodinganalog="650">Universities and colleges--Middle West.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/8072">Education--Middle West.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/8073">Universities and colleges--Middle West.</subject>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -100,7 +100,7 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [45405178242097866667239]">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1962-01/1974-12">January 1962-December 1974</unitdate>
               </unittitle>
@@ -111,7 +111,7 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [604424638200482653]">2</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1975-02/1980-04">February 1975-April 1980</unitdate>
               </unittitle>
@@ -123,7 +123,7 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [604424638200482653]">2</container>
             <unittitle>Presidents' meetings: agendas, minutes, and related materials <unitdate type="inclusive" normal="1966/1980">1966-1980</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -132,7 +132,7 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [604424638200482653]">2</container>
             <unittitle>Faculty Council: meeting materials, correspondence, and assorted proposals <unitdate type="inclusive" normal="1966/1970">1966-1970</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">10 folders</extent>
@@ -145,7 +145,7 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [9356883794207760602]">3</container>
               <unittitle>Meeting materials, correspondence, and assorted proposals <unitdate type="inclusive" normal="1970-06/1979-10">June 1970-October 1979</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">9 folders</extent>
@@ -154,7 +154,7 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [9356883794207760602]">3</container>
               <unittitle>Executive Committee of the Academic Council <unitdate type="inclusive" normal="1968/1976">1968-1976</unitdate></unittitle>
             </did>
           </c03>
@@ -169,7 +169,7 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [9356883794207760602]">3</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1965-05/1977-10">May 1965-October 1977</unitdate>
                 </unittitle>
@@ -180,7 +180,7 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [6751543653402094214887]">4</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1978-03/1980-06">March 1978-June 1980</unitdate>
                 </unittitle>
@@ -192,7 +192,7 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [6751543653402094214887]">4</container>
               <unittitle>General Correspondence <unitdate type="inclusive" normal="1976/1978">1976-1978</unitdate></unittitle>
             </did>
           </c03>
@@ -207,7 +207,7 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [6751543653402094214887]">4</container>
                 <unittitle>General Correspondence <unitdate type="inclusive" normal="1962/1964">1962-1964</unitdate></unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -220,7 +220,7 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
               </did>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">4</container>
+                  <container type="box" label="Box [6751543653402094214887]">4</container>
                   <unittitle>Albion College to Earlham College <unitdate type="inclusive" normal="1962/1966">1962-1966</unitdate></unittitle>
                   <physdesc altrender="whole">
                     <extent altrender="materialtype spaceoccupied">9 folders</extent>
@@ -229,7 +229,7 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
               </c05>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">5</container>
+                  <container type="box" label="Box [480125499705097726]">5</container>
                   <unittitle>Hope College to College of Wooster <unitdate type="inclusive" normal="1962/1966">1962-1966</unitdate></unittitle>
                   <physdesc altrender="whole">
                     <extent altrender="materialtype spaceoccupied">14 folders</extent>
@@ -244,7 +244,7 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">6</container>
+                <container type="box" label="Box [583936684499814081019491]">6</container>
                 <unittitle>Correspondence with GLCA schools and administrators <unitdate type="inclusive" normal="1968/1973">1968-1973</unitdate></unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">12 folders</extent>
@@ -256,7 +256,7 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">6</container>
+                <container type="box" label="Box [583936684499814081019491]">6</container>
                 <unittitle>Glassick (Charles): vice-presidential correspondence <unitdate type="inclusive" normal="1968/1969">1968-1969</unitdate></unittitle>
               </did>
             </c04>
@@ -267,13 +267,13 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">6</container>
+                <container type="box" label="Box [583936684499814081019491]">6</container>
                 <unittitle>Washington reception <unitdate type="inclusive" normal="1974">1974</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">6</container>
+                <container type="box" label="Box [583936684499814081019491]">6</container>
                 <unittitle>Maintaining academic integrity <unitdate type="inclusive" normal="1977">1977</unitdate></unittitle>
               </did>
             </c04>
@@ -283,7 +283,7 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
               </did>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">6</container>
+                  <container type="box" label="Box [583936684499814081019491]">6</container>
                   <unittitle>
                     <unitdate type="inclusive" normal="1980-12/1981-07">December 1980-July 1981</unitdate>
                   </unittitle>
@@ -294,7 +294,7 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
               </c05>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">6</container>
+                  <container type="box" label="Box [583936684499814081019491]">6</container>
                   <unittitle>
                     <unitdate type="inclusive" normal="1981-08/1981-10">August 1981-October 1981</unitdate>
                   </unittitle>
@@ -306,7 +306,7 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">7</container>
+                <container type="box" label="Box [741410824554546507540]">7</container>
                 <unittitle>Neal (Don) vice-presidential correspondence <unitdate type="inclusive" normal="1976/1979">1976-1979</unitdate></unittitle>
               </did>
             </c04>
@@ -317,7 +317,7 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">7</container>
+                <container type="box" label="Box [741410824554546507540]">7</container>
                 <unittitle>Albion College <unitdate type="inclusive" normal="1962/1978">1962-1978</unitdate></unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -326,7 +326,7 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">7</container>
+                <container type="box" label="Box [741410824554546507540]">7</container>
                 <unittitle>Antioch College <unitdate type="inclusive" normal="1962/1978">1962-1978</unitdate></unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -335,7 +335,7 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">7</container>
+                <container type="box" label="Box [741410824554546507540]">7</container>
                 <unittitle>Denison University <unitdate type="inclusive" normal="1966/1978">1966-1978</unitdate></unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -344,7 +344,7 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">7</container>
+                <container type="box" label="Box [741410824554546507540]">7</container>
                 <unittitle>Depauw University <unitdate type="inclusive" normal="1962/1978">1962-1978</unitdate></unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -353,7 +353,7 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">7</container>
+                <container type="box" label="Box [741410824554546507540]">7</container>
                 <unittitle>Earlham College <unitdate type="inclusive" normal="1963/1978">1963-1978</unitdate></unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -362,13 +362,13 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">8</container>
+                <container type="box" label="Box [4174924078895170234]">8</container>
                 <unittitle>Earlham College <unitdate type="inclusive" normal="1973/1978">1973-1978</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">8</container>
+                <container type="box" label="Box [4174924078895170234]">8</container>
                 <unittitle>Hope College <unitdate type="inclusive" normal="1965/1978">1965-1978</unitdate></unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -377,7 +377,7 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">8</container>
+                <container type="box" label="Box [4174924078895170234]">8</container>
                 <unittitle>Kalamazoo College <unitdate type="inclusive" normal="1966/1978">1966-1978</unitdate></unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -386,7 +386,7 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">8</container>
+                <container type="box" label="Box [4174924078895170234]">8</container>
                 <unittitle>Kenyon College <unitdate type="inclusive" normal="1963/1978">1963-1978</unitdate></unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -395,7 +395,7 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">8</container>
+                <container type="box" label="Box [4174924078895170234]">8</container>
                 <unittitle>Oberlin College <unitdate type="inclusive" normal="1962/1978">1962-1978</unitdate></unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -404,7 +404,7 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">8</container>
+                <container type="box" label="Box [4174924078895170234]">8</container>
                 <unittitle>Ohio Wesleyan University <unitdate type="inclusive" normal="1963/1978">1963-1978</unitdate></unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -413,7 +413,7 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">8</container>
+                <container type="box" label="Box [4174924078895170234]">8</container>
                 <unittitle>Wabash College <unitdate type="inclusive" normal="1966/1978">1966-1978</unitdate></unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -422,7 +422,7 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">8</container>
+                <container type="box" label="Box [4174924078895170234]">8</container>
                 <unittitle>College of Wooster <unitdate type="inclusive" normal="1966/1978">1966-1978</unitdate></unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -431,13 +431,13 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">8</container>
+                <container type="box" label="Box [4174924078895170234]">8</container>
                 <unittitle>Miscellaneous <unitdate type="inclusive" normal="1965/1969">1965-1969</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">9</container>
+                <container type="box" label="Box [5386320164808865440787]">9</container>
                 <unittitle>Miscellaneous <unitdate type="inclusive" normal="1969/1975">1969-1975</unitdate></unittitle>
               </did>
             </c04>
@@ -449,7 +449,7 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">9</container>
+              <container type="box" label="Box [5386320164808865440787]">9</container>
               <unittitle>Administrative Salary Survey (GLCA-ACM) <unitdate type="inclusive" normal="1962/1979">1962-1979</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">6 folders</extent>
@@ -462,7 +462,7 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">9</container>
+                <container type="box" label="Box [5386320164808865440787]">9</container>
                 <unittitle>Meeting materials, correspondence, and reports <unitdate type="inclusive" normal="1962/1980">1962-1980</unitdate></unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">5 folders</extent>
@@ -471,32 +471,32 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">9</container>
+                <container type="box" label="Box [5386320164808865440787]">9</container>
                 <unittitle>Monthly admissions summaries <unitdate type="inclusive" normal="1973/1980">1973-1980</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">9</container>
+                <container type="box" label="Box [5386320164808865440787]">9</container>
                 <unittitle>Philadelphia College fair <unitdate type="inclusive" normal="1979/1980">1979-1980</unitdate></unittitle>
               </did>
             </c04>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">9</container>
+              <container type="box" label="Box [5386320164808865440787]">9</container>
               <unittitle>Affirmative Action <unitdate type="inclusive" normal="1973">1973</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">9</container>
+              <container type="box" label="Box [5386320164808865440787]">9</container>
               <unittitle>Air Charter <unitdate type="inclusive" normal="1964/1967">1964-1967</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">9</container>
+              <container type="box" label="Box [5386320164808865440787]">9</container>
               <unittitle>Athletic Directors' Meeting Materials <unitdate type="inclusive" normal="1968/1980">1968-1980</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -505,19 +505,19 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">9</container>
+              <container type="box" label="Box [5386320164808865440787]">9</container>
               <unittitle>Audiovisual Equipment Survey <unitdate type="inclusive" normal="1974">1974</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">9</container>
+              <container type="box" label="Box [5386320164808865440787]">9</container>
               <unittitle>Black Students (recruitment and enrollment) <unitdate type="inclusive" normal="1968">1968</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">10</container>
+              <container type="box" label="Box [438346648927217326]">10</container>
               <unittitle>Budget Review Committee <unitdate type="inclusive" normal="1971/1979">1971-1979</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">7 folders</extent>
@@ -526,7 +526,7 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">10</container>
+              <container type="box" label="Box [438346648927217326]">10</container>
               <unittitle>Business Officers' Meeting materials <unitdate type="inclusive" normal="1965/1980">1965-1980</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">7 folders</extent>
@@ -535,49 +535,49 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">10</container>
+              <container type="box" label="Box [438346648927217326]">10</container>
               <unittitle>Career Planning and Placement Officers materials <unitdate type="inclusive" normal="1977/1980">1977-1980</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">10</container>
+              <container type="box" label="Box [438346648927217326]">10</container>
               <unittitle>Communications Council <unitdate type="inclusive" normal="1967/1969">1967-1969</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">10</container>
+              <container type="box" label="Box [438346648927217326]">10</container>
               <unittitle>Data Sharing <unitdate type="inclusive" normal="1975/1979">1975-1979</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">10</container>
+              <container type="box" label="Box [438346648927217326]">10</container>
               <unittitle>Deans' Newsletter <unitdate type="inclusive" normal="1971/1973">1971-1973</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">10</container>
+              <container type="box" label="Box [438346648927217326]">10</container>
               <unittitle>Deans of Students: meetings and correspondence <unitdate type="inclusive" normal="1976/1979">1976-1979</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">10</container>
+              <container type="box" label="Box [438346648927217326]">10</container>
               <unittitle>Development Officers <unitdate type="inclusive" normal="1975/1979">1975-1979</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">10</container>
+              <container type="box" label="Box [438346648927217326]">10</container>
               <unittitle>Fact Book <unitdate type="inclusive" normal="1971">1971</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">11</container>
+              <container type="box" label="Box [4909919746008735891]">11</container>
               <unittitle>Faculty Development: meeting materials, correspondence, and reports <unitdate type="inclusive" normal="1963/1978">1963-1978</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">11 folders</extent>
@@ -589,19 +589,19 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">11</container>
+              <container type="box" label="Box [4909919746008735891]">11</container>
               <unittitle>Faculty Exchange <unitdate type="inclusive" normal="1971/1973">1971-1973</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">11</container>
+              <container type="box" label="Box [4909919746008735891]">11</container>
               <unittitle>Faculty Newsletter <unitdate type="inclusive" normal="1967/1982">1967-1982</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">11</container>
+              <container type="box" label="Box [4909919746008735891]">11</container>
               <unittitle>Faculty Salary Survey <unitdate type="inclusive" normal="1973/1979">1973-1979</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">5 folders</extent>
@@ -610,13 +610,13 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">11</container>
+              <container type="box" label="Box [4909919746008735891]">11</container>
               <unittitle>Financial Aid Officers <unitdate type="inclusive" normal="1978/1980">1978-1980</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">12</container>
+              <container type="box" label="Box [40472546194640163976]">12</container>
               <unittitle>Grading Systems1971-1980</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -625,13 +625,13 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">12</container>
+              <container type="box" label="Box [40472546194640163976]">12</container>
               <unittitle><title render="italic">Great Lakes Anthology</title> literary magazine: planning materials and correspondence, <unitdate type="inclusive" normal="1962/1964">1962-1964</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">12</container>
+              <container type="box" label="Box [40472546194640163976]">12</container>
               <unittitle>Higher Education Bill of Rights <unitdate type="inclusive" normal="1968/1969">1968-1969</unitdate></unittitle>
             </did>
           </c03>
@@ -641,7 +641,7 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">12</container>
+                <container type="box" label="Box [40472546194640163976]">12</container>
                 <unittitle>Audiotapes: interviews with current and former administrators about the history and formation of GLCA <unitdate type="inclusive" normal="1980" certainty="approximate">circa 1980</unitdate></unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">15 audiocassettes</extent>
@@ -650,7 +650,7 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">12</container>
+                <container type="box" label="Box [40472546194640163976]">12</container>
                 <unittitle>"The Great Lakes Colleges Association: Twenty-One Years of Cooperation in Higher Education"</unittitle>
               </did>
               <odd>
@@ -663,13 +663,13 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
               </did>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">12</container>
+                  <container type="box" label="Box [40472546194640163976]">12</container>
                   <unittitle>Interviews <unitdate type="inclusive" normal="1981" certainty="approximate">circa 1981</unitdate></unittitle>
                 </did>
               </c05>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">12</container>
+                  <container type="box" label="Box [40472546194640163976]">12</container>
                   <unittitle>Notes <unitdate type="inclusive" normal="1981" certainty="approximate">circa 1981</unitdate></unittitle>
                   <physdesc altrender="whole">
                     <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -678,51 +678,51 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
               </c05>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">12</container>
+                  <container type="box" label="Box [40472546194640163976]">12</container>
                   <unittitle>Related correspondence <unitdate type="inclusive" normal="1981/1982">1981-1982</unitdate></unittitle>
                 </did>
               </c05>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">12</container>
+                <container type="box" label="Box [40472546194640163976]">12</container>
                 <unittitle>Institutional profiles, undated <unitdate type="inclusive" normal="1972">1972</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">12</container>
+                <container type="box" label="Box [40472546194640163976]">12</container>
                 <unittitle>Nature of consortia <unitdate type="inclusive" normal="1965/1976">1965-1976</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">12</container>
+                <container type="box" label="Box [40472546194640163976]">12</container>
                 <unittitle>Origins <unitdate type="inclusive" normal="1960/1980">1960-1980</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">12</container>
+                <container type="box" label="Box [40472546194640163976]">12</container>
                 <unittitle>Program brochures and reports <unitdate type="inclusive" normal="1962/1982">1962-1982</unitdate></unittitle>
               </did>
             </c04>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">12</container>
+              <container type="box" label="Box [40472546194640163976]">12</container>
               <unittitle>Institutional Research <unitdate type="inclusive" normal="1969/1972">1969-1972</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">12</container>
+              <container type="box" label="Box [40472546194640163976]">12</container>
               <unittitle>Insurance <unitdate type="inclusive" normal="1970/1971">1970-1971</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">13</container>
+              <container type="box" label="Box [80350156490596966988428]">13</container>
               <unittitle>Off-Campus Programs: brochures, fee information, correspondence and reports <unitdate type="inclusive" normal="1970/1979">1970-1979</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">7 folders</extent>
@@ -731,13 +731,13 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">13</container>
+              <container type="box" label="Box [80350156490596966988428]">13</container>
               <unittitle>Peace Corps program development <unitdate type="inclusive" normal="1965/1969">1965-1969</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">13</container>
+              <container type="box" label="Box [80350156490596966988428]">13</container>
               <unittitle><genreform normal="Photographs">Photographs</genreform>, <unitdate type="inclusive" normal="1969">1969</unitdate></unittitle>
             </did>
             <odd>
@@ -746,7 +746,7 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">13</container>
+              <container type="box" label="Box [80350156490596966988428]">13</container>
               <unittitle>Presidents' Book on Liberal Arts Education <unitdate type="inclusive" normal="1976/1980">1976-1980</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -755,7 +755,7 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">13</container>
+              <container type="box" label="Box [80350156490596966988428]">13</container>
               <unittitle>Public Relations Audit of GLCA <unitdate type="inclusive" normal="1962/1978">1962-1978</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">4 folders</extent>
@@ -764,7 +764,7 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">14</container>
+              <container type="box" label="Box [1552407481742789798860]">14</container>
               <unittitle>Rauh-Ford Study: correspondence and reports <unitdate type="inclusive" normal="1971/1973">1971-1973</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -773,13 +773,13 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">14</container>
+              <container type="box" label="Box [1552407481742789798860]">14</container>
               <unittitle>Sensitivity Training <unitdate type="inclusive" normal="1968">1968</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">14</container>
+              <container type="box" label="Box [1552407481742789798860]">14</container>
               <unittitle>Teaching Associates <unitdate type="inclusive" normal="1967/1971">1967-1971</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -791,13 +791,13 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">14</container>
+              <container type="box" label="Box [1552407481742789798860]">14</container>
               <unittitle>Trustees <unitdate type="inclusive" normal="1973/1975">1973-1975</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">14</container>
+              <container type="box" label="Box [1552407481742789798860]">14</container>
               <unittitle>Tuition Remission plans, policies, and correspondence <unitdate type="inclusive" normal="1971/1980">1971-1980</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -806,7 +806,7 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">14</container>
+              <container type="box" label="Box [1552407481742789798860]">14</container>
               <unittitle>Tuition Survey <unitdate type="inclusive" normal="1977/1978">1977-1978</unitdate></unittitle>
             </did>
           </c03>
@@ -821,13 +821,13 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">14</container>
+            <container type="box" label="Box [1552407481742789798860]">14</container>
             <unittitle>Aberdeen Program (University of Aberdeen) <unitdate type="inclusive" normal="1971/1978">1971-1978</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">14</container>
+            <container type="box" label="Box [1552407481742789798860]">14</container>
             <unittitle>Africa: correspondence, programs, and meetings <unitdate type="inclusive" normal="1964/1973">1964-1973</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -840,20 +840,20 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">14</container>
+              <container type="box" label="Box [1552407481742789798860]">14</container>
               <unittitle>United States Information Agency shows <unitdate type="inclusive" normal="1970/1974">1970-1974</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">14</container>
+              <container type="box" label="Box [1552407481742789798860]">14</container>
               <unittitle>Invitational exhibitions <unitdate type="inclusive" normal="1977/1978">1977-1978</unitdate></unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">15</container>
+            <container type="box" label="Box [4354713147425252650844]">15</container>
             <unittitle>Beirut Program (American University of Beirut): program proposals, planning documents, and correspondence <unitdate type="inclusive" normal="1963/1976">1963-1976</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">7 folders</extent>
@@ -862,31 +862,31 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">15</container>
+            <container type="box" label="Box [4354713147425252650844]">15</container>
             <unittitle>Black Studies: planning materials, questionnaires, and correspondence <unitdate type="inclusive" normal="1968/1973">1968-1973</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">15</container>
+            <container type="box" label="Box [4354713147425252650844]">15</container>
             <unittitle>Buddhism <unitdate type="inclusive" normal="1967/1968">1967-1968</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">15</container>
+            <container type="box" label="Box [4354713147425252650844]">15</container>
             <unittitle>Classics programs: meeting materials, surveys, and correspondence <unitdate type="inclusive" normal="1971/1973">1971-1973</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">15</container>
+            <container type="box" label="Box [4354713147425252650844]">15</container>
             <unittitle>Computing and computer-assisted planning: proposals, seminar materials, and correspondence <unitdate type="inclusive" normal="1969">1969</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">16</container>
+            <container type="box" label="Box [074227723942849228141]">16</container>
             <unittitle>East Asian Studies: grant proposals, meeting materials, and correspondence <unitdate type="inclusive" normal="1964/1979">1964-1979</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">10 folders</extent>
@@ -898,7 +898,7 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">17</container>
+            <container type="box" label="Box [1280334451576568]">17</container>
             <unittitle>East Asian Studies (cont.): grant proposals, meeting materials, and correspondence <unitdate type="inclusive" normal="1964/1979">1964-1979</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">10 folders</extent>
@@ -910,31 +910,31 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">18</container>
+            <container type="box" label="Box [49896222482431059925]">18</container>
             <unittitle>Environmental Studies: reports, correspondence, and teach-in materials <unitdate type="inclusive" normal="1969/1970">1969-1970</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">18</container>
+            <container type="box" label="Box [49896222482431059925]">18</container>
             <unittitle>Film Studies: proposals, conference materials, correspondence, etc. <unitdate type="inclusive" normal="1967/1976">1967-1976</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">18</container>
+            <container type="box" label="Box [49896222482431059925]">18</container>
             <unittitle>Fresh Water Research: conference materials, correspondence, and reports, 1970-76</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">18</container>
+            <container type="box" label="Box [49896222482431059925]">18</container>
             <unittitle>Graduate Education: meeting materials, correspondence, and surveys <unitdate type="inclusive" normal="1962/1964">1962-1964</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">18</container>
+            <container type="box" label="Box [49896222482431059925]">18</container>
             <unittitle>Higher Education Compact: proposals, meeting materials, and correspondence <unitdate type="inclusive" normal="1970/1973">1970-1973</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -943,7 +943,7 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">18</container>
+            <container type="box" label="Box [49896222482431059925]">18</container>
             <unittitle>Humanities Program: grant proposals, meeting materials, correspondence and financial statements <unitdate type="inclusive" normal="1965/1969">1965-1969</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">4 folders</extent>
@@ -952,7 +952,7 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">19</container>
+            <container type="box" label="Box [3593107349788453710]">19</container>
             <unittitle>Humanities Program (cont.): grant proposals, meeting materials, correspondence and financial statements <unitdate type="inclusive" normal="1969/1973">1969-1973</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -961,7 +961,7 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">19</container>
+            <container type="box" label="Box [3593107349788453710]">19</container>
             <unittitle>India Program: planning materials, financial statements, correspondence, etc. <unitdate type="inclusive" normal="1965/1977">1965-1977</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">4 folders</extent>
@@ -970,7 +970,7 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">19</container>
+            <container type="box" label="Box [3593107349788453710]">19</container>
             <unittitle>International Education: grant proposals, reports, correspondence, etc. <unitdate type="inclusive" normal="1962/1968">1962-1968</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">6 folders</extent>
@@ -982,7 +982,7 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">20</container>
+            <container type="box" label="Box [4421145459432218347]">20</container>
             <unittitle>International Education (cont.): grant proposals, reports, correspondence, etc. <unitdate type="inclusive" normal="1966/1973">1966-1973</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">9 folders</extent>
@@ -994,7 +994,7 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">21</container>
+            <container type="box" label="Box [4874373845722220120454]">21</container>
             <unittitle>International Education (cont.): grant proposals, reports, correspondence, etc. <unitdate type="inclusive" normal="1971/1977">1971-1977</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">8 folders</extent>
@@ -1006,13 +1006,13 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">21</container>
+            <container type="box" label="Box [4874373845722220120454]">21</container>
             <unittitle>Israel Program <unitdate type="inclusive" normal="1971/1974">1971-1974</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">21</container>
+            <container type="box" label="Box [4874373845722220120454]">21</container>
             <unittitle>Japan Program: meeting materials, finances, and correspondence <unitdate type="inclusive" normal="1963/1973">1963-1973</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">5 folders</extent>
@@ -1021,7 +1021,7 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">22</container>
+            <container type="box" label="Box [29817117649833301579897]">22</container>
             <unittitle>Japan Program: meeting materials, finances, and correspondence <unitdate type="inclusive" normal="1974/1978">1974-1978</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">5 folders</extent>
@@ -1030,7 +1030,7 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">22</container>
+            <container type="box" label="Box [29817117649833301579897]">22</container>
             <unittitle>Language and Area Studies: meeting materials, reports, and correspondence <unitdate type="inclusive" normal="1964/1968">1964-1968</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -1039,7 +1039,7 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">22</container>
+            <container type="box" label="Box [29817117649833301579897]">22</container>
             <unittitle>Latin American Program: meeting materials, finances, correspondence related to programs in Mexico, Colombia, etc. <unitdate type="inclusive" normal="1962/1968">1962-1968</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -1048,7 +1048,7 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">23</container>
+            <container type="box" label="Box [79743194521570051848]">23</container>
             <unittitle>Latin American Program (cont.): meeting materials, finances, correspondence related to programs in Mexico, Colombia, etc. <unitdate type="inclusive" normal="1968/1977">1968-1977</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">4 folders</extent>
@@ -1057,13 +1057,13 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">23</container>
+            <container type="box" label="Box [79743194521570051848]">23</container>
             <unittitle>Librarians <unitdate type="inclusive" normal="1964/1978">1964-1978</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">23</container>
+            <container type="box" label="Box [79743194521570051848]">23</container>
             <unittitle>Marine Biology: grant proposals, meeting materials, and correspondence <unitdate type="inclusive" normal="1961/1977">1961-1977</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">7 folders</extent>
@@ -1075,37 +1075,37 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">24</container>
+            <container type="box" label="Box [67980012047499083339]">24</container>
             <unittitle>Marshall Scholars <unitdate type="inclusive" normal="1976/1980">1976-1980</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">24</container>
+            <container type="box" label="Box [67980012047499083339]">24</container>
             <unittitle>Medical Education Report <unitdate type="inclusive" normal="1975">1975</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">24</container>
+            <container type="box" label="Box [67980012047499083339]">24</container>
             <unittitle>Music Departments <unitdate type="inclusive" normal="1978">1978</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">24</container>
+            <container type="box" label="Box [67980012047499083339]">24</container>
             <unittitle>NEH East Asia Institutes: proposals, evaluations, and correspondence <unitdate type="inclusive" normal="1975/1978">1975-1978</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">24</container>
+            <container type="box" label="Box [67980012047499083339]">24</container>
             <unittitle>Newberry Library Program: reports, correspondence, and meeting materials <unitdate type="inclusive" normal="1974/1977">1974-1977</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">24</container>
+            <container type="box" label="Box [67980012047499083339]">24</container>
             <unittitle>New Writer's Award: meeting materials, press releases, and correspondence <unitdate type="inclusive" normal="1968/1980">1968-1980</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">5 folders</extent>
@@ -1114,7 +1114,7 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">24</container>
+            <container type="box" label="Box [67980012047499083339]">24</container>
             <unittitle>New York Arts Program: correspondence, reports, and student information <unitdate type="inclusive" normal="1967/1972">1967-1972</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -1123,7 +1123,7 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">25</container>
+            <container type="box" label="Box [55858694014356133596412]">25</container>
             <unittitle>New York Arts Program (cont.): correspondence, reports, and student information <unitdate type="inclusive" normal="1972/1978">1972-1978</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">4 folders</extent>
@@ -1132,7 +1132,7 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">25</container>
+            <container type="box" label="Box [55858694014356133596412]">25</container>
             <unittitle>Oak Ridge National Laboratory (ORNL): correspondence, reports, and financial materials <unitdate type="inclusive" normal="1969/1977">1969-1977</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">5 folders</extent>
@@ -1141,7 +1141,7 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">26</container>
+            <container type="box" label="Box [28768153664490808720571]">26</container>
             <unittitle>Oak Ridge National Laboratory (ORNL) (cont.): correspondence, reports, and financial materials <unitdate type="inclusive" normal="1976/1978">1976-1978</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -1150,7 +1150,7 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">26</container>
+            <container type="box" label="Box [28768153664490808720571]">26</container>
             <unittitle>Philadelphia Urban Semester Program: meeting materials, reports, and correspondence <unitdate type="inclusive" normal="1967/1971">1967-1971</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">5 folders</extent>
@@ -1159,7 +1159,7 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">27</container>
+            <container type="box" label="Box [93374078039545590508]">27</container>
             <unittitle>Philadelphia Urban Semester Program (cont.): meeting materials, reports, and correspondence <unitdate type="inclusive" normal="1969/1978">1969-1978</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">8 folders</extent>
@@ -1168,7 +1168,7 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">28</container>
+            <container type="box" label="Box [6626890456856895093342]">28</container>
             <unittitle>Philadelphia Urban Semester Program (cont.): meeting materials, reports, and correspondence <unitdate type="inclusive" normal="1976/1981">1976-1981</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -1177,7 +1177,7 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">28</container>
+            <container type="box" label="Box [6626890456856895093342]">28</container>
             <unittitle>Poland Seminar: grants materials, correspondence, and reports <unitdate type="inclusive" normal="1973/1975">1973-1975</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">6 folders</extent>
@@ -1186,7 +1186,7 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">28</container>
+            <container type="box" label="Box [6626890456856895093342]">28</container>
             <unittitle>Programmed Instruction Project: correspondence, reports, and financial materials <unitdate type="inclusive" normal="1962/1966">1962-1966</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">5 folders</extent>
@@ -1195,13 +1195,13 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">29</container>
+            <container type="box" label="Box [254464431212980875]">29</container>
             <unittitle>Russian Studies Center: meeting materials and correspondence <unitdate type="inclusive" normal="1968/1970">1968-1970</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">29</container>
+            <container type="box" label="Box [254464431212980875]">29</container>
             <unittitle>Science Faculty Committee: meeting materials and correspondence <unitdate type="inclusive" normal="1961/1969">1961-1969</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -1210,43 +1210,43 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">29</container>
+            <container type="box" label="Box [254464431212980875]">29</container>
             <unittitle>Social Science, Philosophy of: conference materials and correspondence <unitdate type="inclusive" normal="1971/1972">1971-1972</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">29</container>
+            <container type="box" label="Box [254464431212980875]">29</container>
             <unittitle>Social Work Education <unitdate type="inclusive" normal="1968/1969">1968-1969</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">29</container>
+            <container type="box" label="Box [254464431212980875]">29</container>
             <unittitle>Speech and Theater Departments: proposals and correspondence <unitdate type="inclusive" normal="1969/1972">1969-1972</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">29</container>
+            <container type="box" label="Box [254464431212980875]">29</container>
             <unittitle>Teaching and Learning Committee: meeting materials, correspondence, and reports <unitdate type="inclusive" normal="1967/1972">1967-1972</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">29</container>
+            <container type="box" label="Box [254464431212980875]">29</container>
             <unittitle>Undergraduate Science Education <unitdate type="inclusive" normal="1963/1964">1963-1964</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">29</container>
+            <container type="box" label="Box [254464431212980875]">29</container>
             <unittitle>Underprivileged, Task Force on the: meeting materials and correspondence <unitdate type="inclusive" normal="1968/1969">1968-1969</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">29</container>
+            <container type="box" label="Box [254464431212980875]">29</container>
             <unittitle>Urban Studies Program: reports, meeting materials, and correspondence <unitdate type="inclusive" normal="1968/1975">1968-1975</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">7 folders</extent>
@@ -1258,7 +1258,7 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">30</container>
+            <container type="box" label="Box [168363148956975]">30</container>
             <unittitle>Wilderness Program: proposals, correspondence, and reports, 1973-75</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">7 folders</extent>
@@ -1267,7 +1267,7 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">30</container>
+            <container type="box" label="Box [168363148956975]">30</container>
             <unittitle>Women's Studies Program: proposals, conference materials, correspondence, etc. <unitdate type="inclusive" normal="1976/1980">1976-1980</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">11 folders</extent>
@@ -1276,7 +1276,7 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">30</container>
+            <container type="box" label="Box [168363148956975]">30</container>
             <unittitle>Yugoslavia (Urban Studies) Program: seminar materials, reports, and correspondence <unitdate type="inclusive" normal="1968/1970">1968-1970</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -1285,7 +1285,7 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">31</container>
+            <container type="box" label="Box [47100191476982227367]">31</container>
             <unittitle>Yugoslavia (Urban Studies) Program (cont.): seminar materials, reports, and correspondence <unitdate type="inclusive" normal="1972/1976">1972-1976</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -1294,7 +1294,7 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">31</container>
+            <container type="box" label="Box [47100191476982227367]">31</container>
             <unittitle>Miscellaneous <unitdate type="inclusive" normal="1964/1979">1964-1979</unitdate></unittitle>
           </did>
           <odd>
@@ -1311,7 +1311,7 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">31</container>
+            <container type="box" label="Box [47100191476982227367]">31</container>
             <unittitle>American Association for Higher Education (AAHE) <unitdate type="inclusive" normal="1970/1978">1970-1978</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">4 folders</extent>
@@ -1320,7 +1320,7 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">31</container>
+            <container type="box" label="Box [47100191476982227367]">31</container>
             <unittitle>American Council on Education (ACE) <unitdate type="inclusive" normal="1966/1978">1966-1978</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -1329,7 +1329,7 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">31</container>
+            <container type="box" label="Box [47100191476982227367]">31</container>
             <unittitle>American Institute of Indian Studies <unitdate type="inclusive" normal="1962/1970">1962-1970</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -1338,25 +1338,25 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">31</container>
+            <container type="box" label="Box [47100191476982227367]">31</container>
             <unittitle>Ann Arbor Schools <unitdate type="inclusive" normal="1971/1972">1971-1972</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">31</container>
+            <container type="box" label="Box [47100191476982227367]">31</container>
             <unittitle>Argonne Universities Association <unitdate type="inclusive" normal="1968/1970">1968-1970</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">31</container>
+            <container type="box" label="Box [47100191476982227367]">31</container>
             <unittitle>Associated Colleges of the Midwest (ACM) <unitdate type="inclusive" normal="1962/1968">1962-1968</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">32</container>
+            <container type="box" label="Box [47525242690677497404]">32</container>
             <unittitle>Associated Colleges of the Midwest (ACM) (cont.) <unitdate type="inclusive" normal="1969/1979">1969-1979</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">7 folders</extent>
@@ -1365,7 +1365,7 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">32</container>
+            <container type="box" label="Box [47525242690677497404]">32</container>
             <unittitle>Associated Colleges of the Midwest (ACM) GLCA Merger Discussions <unitdate type="inclusive" normal="1973">1973</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -1374,7 +1374,7 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">32</container>
+            <container type="box" label="Box [47525242690677497404]">32</container>
             <unittitle>Association of American Colleges (AAC) <unitdate type="inclusive" normal="1963/1972">1963-1972</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -1383,7 +1383,7 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">33</container>
+            <container type="box" label="Box [20730655042820718318]">33</container>
             <unittitle>Association of American Colleges (AAC) (cont.) <unitdate type="inclusive" normal="1973/1979">1973-1979</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -1392,19 +1392,19 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">33</container>
+            <container type="box" label="Box [20730655042820718318]">33</container>
             <unittitle>Association of Governing Boards (AGB) <unitdate type="inclusive" normal="1974/1978">1974-1978</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">33</container>
+            <container type="box" label="Box [20730655042820718318]">33</container>
             <unittitle>Center for Research and Development in Higher Education <unitdate type="inclusive" normal="1967/1971">1967-1971</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">33</container>
+            <container type="box" label="Box [20730655042820718318]">33</container>
             <unittitle>College Center of the Finger Lakes <unitdate type="inclusive" normal="1962/1971">1962-1971</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -1413,13 +1413,13 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">33</container>
+            <container type="box" label="Box [20730655042820718318]">33</container>
             <unittitle>Council for Advancement and Support of Education (CASE) <unitdate type="inclusive" normal="1978">1978</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">33</container>
+            <container type="box" label="Box [20730655042820718318]">33</container>
             <unittitle>Council for Intercultural Studies and Programs (CISP) <unitdate type="inclusive" normal="1972/1974">1972-1974</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -1428,19 +1428,19 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">33</container>
+            <container type="box" label="Box [20730655042820718318]">33</container>
             <unittitle>Council for Interinstitutional Leadership <unitdate type="inclusive" normal="1976/1978">1976-1978</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">33</container>
+            <container type="box" label="Box [20730655042820718318]">33</container>
             <unittitle>Council on International Educational Exchange (CIEE) <unitdate type="inclusive" normal="1963/1970">1963-1970</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">34</container>
+            <container type="box" label="Box [0665347778776755]">34</container>
             <unittitle>Council on International Educational Exchange (CIEE) (cont.) <unitdate type="inclusive" normal="1970/1979">1970-1979</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -1449,31 +1449,31 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">34</container>
+            <container type="box" label="Box [0665347778776755]">34</container>
             <unittitle>Detroit Public Schools <unitdate type="inclusive" normal="1965/1966">1965-1966</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">34</container>
+            <container type="box" label="Box [0665347778776755]">34</container>
             <unittitle>Institute for Architecture and Urban Studies <unitdate type="inclusive" normal="1975/1976">1975-1976</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">34</container>
+            <container type="box" label="Box [0665347778776755]">34</container>
             <unittitle>Inter-University Consortium for Political and Social Research-ICPSR (U of M) <unitdate type="inclusive" normal="1975/1978">1975-1978</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">34</container>
+            <container type="box" label="Box [0665347778776755]">34</container>
             <unittitle>Kansas City Regional Council for Higher Education <unitdate type="inclusive" normal="1971/1978">1971-1978</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">34</container>
+            <container type="box" label="Box [0665347778776755]">34</container>
             <unittitle>National Advisory Council on Women's Educational Programs (NACWEP) <unitdate type="inclusive" normal="1977/1980">1977-1980</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">5 folders</extent>
@@ -1482,7 +1482,7 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">35</container>
+            <container type="box" label="Box [6454481473687798135661]">35</container>
             <unittitle>National Association of Independent Colleges and Universities-NAICU <unitdate type="inclusive" normal="1976/1979">1976-1979</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -1491,13 +1491,13 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">35</container>
+            <container type="box" label="Box [6454481473687798135661]">35</container>
             <unittitle>National Center for Higher Education <unitdate type="inclusive" normal="1970/1976">1970-1976</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">35</container>
+            <container type="box" label="Box [6454481473687798135661]">35</container>
             <unittitle>National Council of Associations for International Studies (NCAIS) <unitdate type="inclusive" normal="1969/1972">1969-1972</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -1506,19 +1506,19 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">35</container>
+            <container type="box" label="Box [6454481473687798135661]">35</container>
             <unittitle>Netherlands Information Service <unitdate type="inclusive" normal="1967/1973">1967-1973</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">35</container>
+            <container type="box" label="Box [6454481473687798135661]">35</container>
             <unittitle>Pomona College <unitdate type="inclusive" normal="1974/1979">1974-1979</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">35</container>
+            <container type="box" label="Box [6454481473687798135661]">35</container>
             <unittitle>University of Michigan <unitdate type="inclusive" normal="1969/1978">1969-1978</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -1527,31 +1527,31 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">35</container>
+            <container type="box" label="Box [6454481473687798135661]">35</container>
             <unittitle>University of Toledo (Center for the Study of Higher Education) <unitdate type="inclusive" normal="1969/1971">1969-1971</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">36</container>
+            <container type="box" label="Box [276574408769038951347]">36</container>
             <unittitle>Washington University <unitdate type="inclusive" normal="1975/1978">1975-1978</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">36</container>
+            <container type="box" label="Box [276574408769038951347]">36</container>
             <unittitle>White Freedom School <unitdate type="inclusive" normal="1968/1971">1968-1971</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">36</container>
+            <container type="box" label="Box [276574408769038951347]">36</container>
             <unittitle>Wittenberg University <unitdate type="inclusive" normal="1976/1977">1976-1977</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">36</container>
+            <container type="box" label="Box [276574408769038951347]">36</container>
             <unittitle>Miscellaneous: other institutions <unitdate type="inclusive" normal="1962/1979">1962-1979</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">5 folders</extent>
@@ -1568,25 +1568,25 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">36</container>
+            <container type="box" label="Box [276574408769038951347]">36</container>
             <unittitle>Arthur Vining Davis Foundation <unitdate type="inclusive" normal="1967/1969">1967-1969</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">36</container>
+            <container type="box" label="Box [276574408769038951347]">36</container>
             <unittitle>Asia Foundation <unitdate type="inclusive" normal="1962/1975">1962-1975</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">36</container>
+            <container type="box" label="Box [276574408769038951347]">36</container>
             <unittitle>Carnegie Corporation <unitdate type="inclusive" normal="1962/1973">1962-1973</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">36</container>
+            <container type="box" label="Box [276574408769038951347]">36</container>
             <unittitle>Danforth Foundation <unitdate type="inclusive" normal="1963/1979">1963-1979</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -1595,13 +1595,13 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">36</container>
+            <container type="box" label="Box [276574408769038951347]">36</container>
             <unittitle>Dupont Corporation <unitdate type="inclusive" normal="1967/1968">1967-1968</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">36</container>
+            <container type="box" label="Box [276574408769038951347]">36</container>
             <unittitle>Ford Foundation <unitdate type="inclusive" normal="1961/1973">1961-1973</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">5 folders</extent>
@@ -1610,7 +1610,7 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">37</container>
+            <container type="box" label="Box [20210990414990947848965]">37</container>
             <unittitle>Ford Foundation <unitdate type="inclusive" normal="1961/1973">1961-1973</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">6 folders</extent>
@@ -1619,19 +1619,19 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">37</container>
+            <container type="box" label="Box [20210990414990947848965]">37</container>
             <unittitle>Johnson Foundation <unitdate type="inclusive" normal="1962/1972">1962-1972</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">37</container>
+            <container type="box" label="Box [20210990414990947848965]">37</container>
             <unittitle>IBM Math Seminar <unitdate type="inclusive" normal="1970/1971">1970-1971</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">37</container>
+            <container type="box" label="Box [20210990414990947848965]">37</container>
             <unittitle>Kettering Foundation <unitdate type="inclusive" normal="1964/1969">1964-1969</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -1640,7 +1640,7 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">37</container>
+            <container type="box" label="Box [20210990414990947848965]">37</container>
             <unittitle>Lilly Endowment <unitdate type="inclusive" normal="1971/1978">1971-1978</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -1649,13 +1649,13 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">37</container>
+            <container type="box" label="Box [20210990414990947848965]">37</container>
             <unittitle>National Endowment for the Arts <unitdate type="inclusive" normal="1967/1978">1967-1978</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">37</container>
+            <container type="box" label="Box [20210990414990947848965]">37</container>
             <unittitle>National Endowment for the Humanities <unitdate type="inclusive" normal="1967/1980">1967-1980</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">7 folders</extent>
@@ -1664,7 +1664,7 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">37</container>
+            <container type="box" label="Box [20210990414990947848965]">37</container>
             <unittitle>Miscellaneous grant requests <unitdate type="inclusive" normal="1968/1969">1968-1969</unitdate></unittitle>
           </did>
         </c02>
@@ -1678,25 +1678,25 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">38</container>
+            <container type="box" label="Box [93166348345170682859]">38</container>
             <unittitle>Action <unitdate type="inclusive" normal="1972">1972</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">38</container>
+            <container type="box" label="Box [93166348345170682859]">38</container>
             <unittitle>Ahead (Dept. of Defense) <unitdate type="inclusive" normal="1975">1975</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">38</container>
+            <container type="box" label="Box [93166348345170682859]">38</container>
             <unittitle>Energy Research and Development Administration (ERDA) <unitdate type="inclusive" normal="1976">1976</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">38</container>
+            <container type="box" label="Box [93166348345170682859]">38</container>
             <unittitle>
               <unitdate type="inclusive" normal="1977">1977</unitdate>
             </unittitle>
@@ -1704,25 +1704,25 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">38</container>
+            <container type="box" label="Box [93166348345170682859]">38</container>
             <unittitle>Federal Student Financial Aid <unitdate type="inclusive" normal="1973/1976">1973-1976</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">38</container>
+            <container type="box" label="Box [93166348345170682859]">38</container>
             <unittitle>Fund for the Improvement of Post-Secondary Education (FIPSE) <unitdate type="inclusive" normal="1976/1979">1976-1979</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">38</container>
+            <container type="box" label="Box [93166348345170682859]">38</container>
             <unittitle>Handicapped Education <unitdate type="inclusive" normal="1977">1977</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">38</container>
+            <container type="box" label="Box [93166348345170682859]">38</container>
             <unittitle>Health, Education, and Welfare (HEW) <unitdate type="inclusive" normal="1971/1977">1971-1977</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -1731,13 +1731,13 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">38</container>
+            <container type="box" label="Box [93166348345170682859]">38</container>
             <unittitle>Higher Education Financing (joint ACM-GLCA initiative) <unitdate type="inclusive" normal="1969/1973">1969-1973</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">38</container>
+            <container type="box" label="Box [93166348345170682859]">38</container>
             <unittitle>Independent Colleges Office (ICO) <unitdate type="inclusive" normal="1976/1980">1976-1980</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">4 folders</extent>
@@ -1746,13 +1746,13 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">38</container>
+            <container type="box" label="Box [93166348345170682859]">38</container>
             <unittitle>Midwestern College Office (MCO) <unitdate type="inclusive" normal="1971/1973">1971-1973</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">39</container>
+            <container type="box" label="Box [9912676540880763358943]">39</container>
             <unittitle>Midwestern College Office (MCO) (cont.) <unitdate type="inclusive" normal="1972/1976">1972-1976</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">6 folders</extent>
@@ -1761,7 +1761,7 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">39</container>
+            <container type="box" label="Box [9912676540880763358943]">39</container>
             <unittitle>National Defense Education Act (NDEA) <unitdate type="inclusive" normal="1975/1976">1975-1976</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -1770,7 +1770,7 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">39</container>
+            <container type="box" label="Box [9912676540880763358943]">39</container>
             <unittitle>National Science Foundation (NSF) <unitdate type="inclusive" normal="1966/1979">1966-1979</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">4 folders</extent>
@@ -1779,13 +1779,13 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">39</container>
+            <container type="box" label="Box [9912676540880763358943]">39</container>
             <unittitle>State Department <unitdate type="inclusive" normal="1962/1970">1962-1970</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">40</container>
+            <container type="box" label="Box [70170510485595332117]">40</container>
             <unittitle>Testimony Related to Legislation <unitdate type="inclusive" normal="1969/1979">1969-1979</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">5 folders</extent>
@@ -1794,13 +1794,13 @@ Great Lakes Colleges Association Records, Bentley Historical Library, University
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">40</container>
+            <container type="box" label="Box [70170510485595332117]">40</container>
             <unittitle>Washington Representation <unitdate type="inclusive" normal="1975/1976">1975-1976</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">40</container>
+            <container type="box" label="Box [70170510485595332117]">40</container>
             <unittitle>Miscellaneous <unitdate type="inclusive" normal="1966/1978">1966-1978</unitdate></unittitle>
           </did>
         </c02>

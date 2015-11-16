@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Fred Hammond collection, 1957-1992.</titleproper>
       <author>Finding aid created by <lb/>Patricia Ryan, May 2014.</author>
     </titlepage>
@@ -87,18 +87,18 @@ Fred Hammond collection, Bentley Historical Library, University of Michigan</p>
       </controlaccess>
       <controlaccess>
         <head>Subject - Visual materials:</head>
-        <subject source="lctgm" encodinganalog="650">Astronomy.</subject>
-        <subject source="lctgm" encodinganalog="650">Churches--Michigan.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3736">Astronomy.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3829">Churches--Michigan.</subject>
         <corpname source="lcnaf" encodinganalog="610">Faith Lutheran Church (Okemos, Mich.)</corpname>
         <corpname source="lcnaf" encodinganalog="610">Michigan.--Department of Transportation.</corpname>
-        <subject source="lctgm" encodinganalog="650">Nature--Michigan.</subject>
-        <subject source="lctgm" encodinganalog="650">Road construction--Michigan.</subject>
-        <subject source="lctgm" encodinganalog="650">Tourism--Michigan.</subject>
-        <subject source="lctgm" encodinganalog="650">Transportation--Michigan.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4466">Nature--Michigan.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4000">Road construction--Michigan.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4467">Tourism--Michigan.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3842">Transportation--Michigan.</subject>
       </controlaccess>
       <controlaccess>
         <head>Genre/Form:</head>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -108,7 +108,7 @@ Fred Hammond collection, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [13075264774228099235]">1</container>
             <unittitle>Astronomy</unittitle>
             <unitdate type="inclusive">undated</unitdate>
             <unitdate type="inclusive" normal="1957">1957</unitdate>
@@ -116,19 +116,19 @@ Fred Hammond collection, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [13075264774228099235]">1</container>
             <unittitle>Buildings and structures <unitdate type="inclusive">undated</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [13075264774228099235]">1</container>
             <unittitle>Construction <unitdate type="inclusive" normal="1958/1960">1958-1960</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [13075264774228099235]">1</container>
             <unittitle>Highway patrol photo shop pictures</unittitle>
             <unitdate type="inclusive" normal="1984">1984</unitdate>
             <unitdate type="inclusive">undated</unitdate>
@@ -136,7 +136,7 @@ Fred Hammond collection, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [13075264774228099235]">1</container>
             <unittitle>Photos from Faith Lutheran Church</unittitle>
             <unitdate type="inclusive" normal="1964">1964</unitdate>
             <unitdate type="inclusive">undated</unitdate>
@@ -144,31 +144,31 @@ Fred Hammond collection, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [13075264774228099235]">1</container>
             <unittitle>Programs and publications <unitdate type="inclusive" normal="1957/1964">1957-1964</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [13075264774228099235]">1</container>
             <unittitle>Scenes of nature <unitdate type="inclusive">undated</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [13075264774228099235]">1</container>
             <unittitle>Severe weather <unitdate type="inclusive">undated</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [13075264774228099235]">1</container>
             <unittitle>Tourist scenes <unitdate type="inclusive">undated</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [13075264774228099235]">1</container>
             <unittitle>Transportation</unittitle>
             <unitdate type="inclusive">undated</unitdate>
             <unitdate type="inclusive" normal="1962">1962</unitdate>
@@ -176,7 +176,7 @@ Fred Hammond collection, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [274074540861262]">2</container>
             <unittitle>Buildings and structures</unittitle>
             <unitdate type="inclusive">undated</unitdate>
             <unitdate type="inclusive" normal="1963">1963</unitdate>
@@ -184,37 +184,37 @@ Fred Hammond collection, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [274074540861262]">2</container>
             <unittitle>Construction <unitdate type="inclusive">undated</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [274074540861262]">2</container>
             <unittitle>Michigan Department of Transportation publications <unitdate type="inclusive" normal="1978/1992">1978-1992</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [40818546095457345]">3</container>
             <unittitle>Portraits <unitdate type="inclusive">undated</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [40818546095457345]">3</container>
             <unittitle>Scenes of nature <unitdate type="inclusive">undated</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [40818546095457345]">3</container>
             <unittitle>Tourist scenes <unitdate type="inclusive">undated</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [40818546095457345]">3</container>
             <unittitle>Transportation <unitdate type="inclusive">undated</unitdate></unittitle>
           </did>
         </c02>

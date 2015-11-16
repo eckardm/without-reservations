@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Gotthelf Carl Huber papers, 1874-1943</titleproper>
       <author>Finding aid created by <lb/>Michigan Historical Collections staff</author>
     </titlepage>
@@ -84,13 +84,13 @@ Gotthelf Carl Huber papers, Bentley Historical Library, University of Michigan</
       <controlaccess>
         <head>Subjects:</head>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan. Graduate School.</corpname>
-        <subject source="lcsh" encodinganalog="650">Medicine--Study and teaching--Michigan.</subject>
-        <subject source="lcsh" encodinganalog="650">Physicians--Michigan--Ann Arbor.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7165">Medicine--Study and teaching--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6031">Physicians--Michigan--Ann Arbor.</subject>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan. Dept. of Anatomy.</corpname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan--Faculty.</corpname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan. Medical School--Faculty.</corpname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan--Student notebooks.</corpname>
-        <subject source="lcsh" encodinganalog="650">Women--Michigan--Ann Arbor.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5739">Women--Michigan--Ann Arbor.</subject>
         <persname source="lcnaf" encodinganalog="700">Huber, Lucy Parker.</persname>
       </controlaccess>
       <controlaccess>
@@ -102,8 +102,8 @@ Gotthelf Carl Huber papers, Bentley Historical Library, University of Michigan</
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Diaries.</genreform>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3150">Diaries.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -113,7 +113,7 @@ Gotthelf Carl Huber papers, Bentley Historical Library, University of Michigan</
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [156757749484144183]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1884/1899">1884-1899</unitdate>
             </unittitle>
@@ -124,7 +124,7 @@ Gotthelf Carl Huber papers, Bentley Historical Library, University of Michigan</
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [6473537146542434197]">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1900/1911-06">1900-June 1911</unitdate>
             </unittitle>
@@ -135,7 +135,7 @@ Gotthelf Carl Huber papers, Bentley Historical Library, University of Michigan</
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [9428020424678977213738]">3</container>
             <unittitle>
               <unitdate type="inclusive" normal="1911-07/1916">July 1911-1916</unitdate>
             </unittitle>
@@ -146,7 +146,7 @@ Gotthelf Carl Huber papers, Bentley Historical Library, University of Michigan</
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [0711082344362716852645850]">4</container>
             <unittitle>
               <unitdate type="inclusive" normal="1917/1923-07">1917-July 1923</unitdate>
             </unittitle>
@@ -157,7 +157,7 @@ Gotthelf Carl Huber papers, Bentley Historical Library, University of Michigan</
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [275165631749253006201239]">5</container>
             <unittitle>
               <unitdate type="inclusive" normal="1923-08/1928-03">August 1923-March 1928</unitdate>
             </unittitle>
@@ -168,7 +168,7 @@ Gotthelf Carl Huber papers, Bentley Historical Library, University of Michigan</
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [972871444495257810503]">6</container>
             <unittitle>
               <unitdate type="inclusive" normal="1928-04/1934">April 1928-1934</unitdate>
             </unittitle>
@@ -179,7 +179,7 @@ Gotthelf Carl Huber papers, Bentley Historical Library, University of Michigan</
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [972871444495257810503]">6</container>
             <unittitle>Family Correspondence <unitdate type="inclusive" normal="1935/1937">1935-1937</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">11 folders</extent>
@@ -188,7 +188,7 @@ Gotthelf Carl Huber papers, Bentley Historical Library, University of Michigan</
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">7</container>
+            <container type="box" label="Box [7832476545998651434959]">7</container>
             <unittitle>Family Correspondence</unittitle>
             <unitdate type="inclusive" normal="1938/1945">1938-1945</unitdate>
             <unitdate type="inclusive">undated</unitdate>
@@ -204,7 +204,7 @@ Gotthelf Carl Huber papers, Bentley Historical Library, University of Michigan</
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">7</container>
+            <container type="box" label="Box [7832476545998651434959]">7</container>
             <unittitle>Miscellaneous subject files</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">14 folders</extent>
@@ -213,25 +213,25 @@ Gotthelf Carl Huber papers, Bentley Historical Library, University of Michigan</
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">8</container>
+            <container type="box" label="Box [31395274846888670887]">8</container>
             <unittitle>Miscellaneous medical notes</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">8</container>
+            <container type="box" label="Box [31395274846888670887]">8</container>
             <unittitle><genreform normal="Diaries">Diaries</genreform>, <unitdate type="inclusive" normal="1894/1938">1894-1938</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">8</container>
+            <container type="box" label="Box [31395274846888670887]">8</container>
             <unittitle>Student notebooks</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">8</container>
+            <container type="box" label="Box [31395274846888670887]">8</container>
             <unittitle><genreform normal="Photographs">Photographs</genreform>: portraits of Huber, family and friends; and other photos relating to Huber's life and career; and group portrait of Lucy Parker with Parker and Huber family members.</unittitle>
           </did>
           <odd>
@@ -240,7 +240,7 @@ Gotthelf Carl Huber papers, Bentley Historical Library, University of Michigan</
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">9</container>
+            <container type="box" label="Box [9067404931688313]">9</container>
             <unittitle>Student notebooks on courses taught by Edward S. Dunster, Alonzo B. Palmer, Volney M. Spalding, Joseph B. Steere, and Victor C. Vaughan</unittitle>
           </did>
         </c02>

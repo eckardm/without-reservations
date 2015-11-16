@@ -39,7 +39,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Milan Area Historical Society collection, 1833-2008</titleproper>
       <author>Finding aid created by <lb/>Michigan Historical Collections staff</author>
     </titlepage>
@@ -97,31 +97,31 @@ Milan Area Historical Society collection, Bentley Historical Library, University
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <subject source="lcsh" encodinganalog="650">Fraternal organizations--Michigan--Milan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/9345">Fraternal organizations--Michigan--Milan.</subject>
         <persname source="lcnaf" encodinganalog="600">Hack, Bethuel.</persname>
         <famname source="lcnaf" encodinganalog="600">Mead family.</famname>
         <corpname source="lcnaf" encodinganalog="610">Independent Order of Odd Fellows. Wolverine Lodge no. 197 (Milan, Mich.)</corpname>
-        <geogname source="lcsh" encodinganalog="651">Milan (Mich.)--Biography.</geogname>
-        <geogname source="lcsh" encodinganalog="651">Milan (Mich.)--Buildings, structures, etc.</geogname>
-        <geogname source="lcsh" encodinganalog="651">Milan (Mich.)--Commerce.</geogname>
-        <geogname source="lcsh" encodinganalog="651">Milan (Mich.)--History.</geogname>
-        <geogname source="lcsh" encodinganalog="651">Milan (Mich.)--Social life and customs.</geogname>
-        <subject source="lcsh" encodinganalog="650">Registers of births, etc.--Michigan--Milan.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/2374">Milan (Mich.)--Biography.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/2375">Milan (Mich.)--Buildings, structures, etc.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/2376">Milan (Mich.)--Commerce.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/2377">Milan (Mich.)--History.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/2378">Milan (Mich.)--Social life and customs.</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/9346">Registers of births, etc.--Michigan--Milan.</subject>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Materials:</head>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n82066430.html">Milan (Mich.)</geogname>
-        <subject source="lcsh" encodinganalog="650">Postcards--Michigan--Milan.</subject>
-        <subject source="lctgm" encodinganalog="650">Butchers--Michigan--Milan.</subject>
-        <subject source="lctgm" encodinganalog="650">Business enterprises--Michigan--Milan.</subject>
-        <subject source="lctgm" encodinganalog="650">Farming--Michigan--Milan.</subject>
-        <subject source="lctgm" encodinganalog="650">Dwellings--Michigan--Milan.</subject>
-        <subject source="lctgm" encodinganalog="650">Laborers--Michigan--Milan.</subject>
-        <subject source="lctgm" encodinganalog="650">Baseball--Michigan--Milan.</subject>
-        <subject source="lctgm" encodinganalog="650">Theatrical productions--Michigan--Milan.</subject>
-        <subject source="lctgm" encodinganalog="650">Clothing stores--Michigan--Milan.</subject>
-        <subject source="lctgm" encodinganalog="650">Parades--Michigan--Milan.</subject>
-        <subject source="lctgm" encodinganalog="650">School children--Michigan--Milan.</subject>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n82066430.html" ref="/subjects/2127">Milan (Mich.)</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/9347">Postcards--Michigan--Milan.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4944">Butchers--Michigan--Milan.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4945">Business enterprises--Michigan--Milan.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4946">Farming--Michigan--Milan.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4947">Dwellings--Michigan--Milan.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4948">Laborers--Michigan--Milan.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4949">Baseball--Michigan--Milan.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4950">Theatrical productions--Michigan--Milan.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4951">Clothing stores--Michigan--Milan.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4952">Parades--Michigan--Milan.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4953">School children--Michigan--Milan.</subject>
       </controlaccess>
       <controlaccess>
         <head>Contributors: Visual Materials</head>
@@ -129,10 +129,10 @@ Milan Area Historical Society collection, Bentley Historical Library, University
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">CD-ROMs.</genreform>
-        <genreform source="aat" encodinganalog="655">Group portraits.</genreform>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
-        <genreform source="aat" encodinganalog="655">Postcards.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3151">CD-ROMs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3330">Group portraits.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3186">Postcards.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -142,7 +142,7 @@ Milan Area Historical Society collection, Bentley Historical Library, University
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [508173941884639078309]">1</container>
             <unittitle>Photographs (some with identifications) by Martha Churchill detailing the history and development of downtown Milan <unitdate type="inclusive" normal="2007">2007</unitdate></unittitle>
             <physdesc>
               <physfacet>
@@ -176,7 +176,7 @@ Milan Area Historical Society collection, Bentley Historical Library, University
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [508173941884639078309]">1</container>
               <unittitle>Index to images</unittitle>
               <physdesc>
                 <physfacet>print-out and <genreform normal="CD-ROMs">CD-ROM</genreform></physfacet>
@@ -185,115 +185,115 @@ Milan Area Historical Society collection, Bentley Historical Library, University
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [508173941884639078309]">1</container>
               <unittitle>Businesses</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [508173941884639078309]">1</container>
               <unittitle>Churches</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [508173941884639078309]">1</container>
               <unittitle>Costume Party</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [508173941884639078309]">1</container>
               <unittitle>Crooked Tree</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [508173941884639078309]">1</container>
               <unittitle>Depot, etc.</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [508173941884639078309]">1</container>
               <unittitle>Factories -- Foundries</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [508173941884639078309]">1</container>
               <unittitle>Ford Complex</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [508173941884639078309]">1</container>
               <unittitle>Homes</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [508173941884639078309]">1</container>
               <unittitle>Main Street, East</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [508173941884639078309]">1</container>
               <unittitle>Main Street, West</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [508173941884639078309]">1</container>
               <unittitle>Orchestras</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [508173941884639078309]">1</container>
               <unittitle>River Street</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [508173941884639078309]">1</container>
               <unittitle>Schools</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [508173941884639078309]">1</container>
               <unittitle>Village Hall Firebarn</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [508173941884639078309]">1</container>
               <unittitle>Wabash Street</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [508173941884639078309]">1</container>
               <unittitle>Water -- Sewer Work</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [508173941884639078309]">1</container>
               <unittitle>Water Tower, etc.</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [508173941884639078309]">1</container>
               <unittitle>Wilson Mill</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [508173941884639078309]">1</container>
               <unittitle>Miscellaneous</unittitle>
             </did>
           </c03>
@@ -313,12 +313,12 @@ Milan Area Historical Society collection, Bentley Historical Library, University
             </odd>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [91746780417961563984]">2</container>
                 <unittitle>Business establishments</unittitle>
               </did>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">2</container>
+                  <container type="box" label="Box [91746780417961563984]">2</container>
                   <unittitle>Exteriors</unittitle>
                   <physdesc altrender="whole">
                     <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -330,7 +330,7 @@ Milan Area Historical Society collection, Bentley Historical Library, University
               </c05>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">2</container>
+                  <container type="box" label="Box [91746780417961563984]">2</container>
                   <unittitle>Interiors</unittitle>
                   <physdesc altrender="whole">
                     <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -339,20 +339,20 @@ Milan Area Historical Society collection, Bentley Historical Library, University
               </c05>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">2</container>
+                  <container type="box" label="Box [91746780417961563984]">2</container>
                   <unittitle>Business district/Main Street general</unittitle>
                 </did>
               </c05>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">2</container>
+                  <container type="box" label="Box [91746780417961563984]">2</container>
                   <unittitle>Garrick's Movie Theatre/Milan Theatre</unittitle>
                 </did>
               </c05>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [91746780417961563984]">2</container>
                 <unittitle>Dunsmore family (?)</unittitle>
               </did>
               <odd>
@@ -367,7 +367,7 @@ Milan Area Historical Society collection, Bentley Historical Library, University
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [91746780417961563984]">2</container>
                 <unittitle>Events various</unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -376,7 +376,7 @@ Milan Area Historical Society collection, Bentley Historical Library, University
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [91746780417961563984]">2</container>
                 <unittitle>Family groupings</unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -388,19 +388,19 @@ Milan Area Historical Society collection, Bentley Historical Library, University
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [91746780417961563984]">2</container>
                 <unittitle>Farm life</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [91746780417961563984]">2</container>
                 <unittitle>Individuals</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [91746780417961563984]">2</container>
                 <unittitle>Laborers</unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -409,31 +409,31 @@ Milan Area Historical Society collection, Bentley Historical Library, University
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [91746780417961563984]">2</container>
                 <unittitle>Milan area (out of town); includes various mills; also Cone, MI</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [91746780417961563984]">2</container>
                 <unittitle>Milan Band, ca. <unitdate type="inclusive" normal="1908">1908</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [91746780417961563984]">2</container>
                 <unittitle>Milan train wrecks</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [91746780417961563984]">2</container>
                 <unittitle>Miller Family, about <unitdate type="inclusive" normal="1897">1897</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [91746780417961563984]">2</container>
                 <unittitle>Parades, outdoor events, bands and other musical groups</unittitle>
               </did>
               <odd>
@@ -442,19 +442,19 @@ Milan Area Historical Society collection, Bentley Historical Library, University
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [91746780417961563984]">2</container>
                 <unittitle>Patterson Family <unitdate type="inclusive" normal="1897">1897</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [91746780417961563984]">2</container>
                 <unittitle>Residences</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [91746780417961563984]">2</container>
                 <unittitle>School building</unittitle>
               </did>
               <odd>
@@ -470,49 +470,49 @@ Milan Area Historical Society collection, Bentley Historical Library, University
               </odd>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">2</container>
+                  <container type="box" label="Box [91746780417961563984]">2</container>
                   <unittitle>Azalia School, Dundee, Michigan <unitdate type="inclusive" normal="1925">1925</unitdate></unittitle>
                 </did>
               </c05>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">2</container>
+                  <container type="box" label="Box [91746780417961563984]">2</container>
                   <unittitle>First Mead School <unitdate type="inclusive" normal="1887">1887</unitdate></unittitle>
                 </did>
               </c05>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">2</container>
+                  <container type="box" label="Box [91746780417961563984]">2</container>
                   <unittitle>Second Mead School</unittitle>
                 </did>
               </c05>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">2</container>
+                  <container type="box" label="Box [91746780417961563984]">2</container>
                   <unittitle>Fryberg School</unittitle>
                 </did>
               </c05>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">2</container>
+                  <container type="box" label="Box [91746780417961563984]">2</container>
                   <unittitle>Lewis School <unitdate type="inclusive" normal="1890/1899" certainty="approximate">1890s</unitdate></unittitle>
                 </did>
               </c05>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">2</container>
+                  <container type="box" label="Box [91746780417961563984]">2</container>
                   <unittitle>Mooreville School</unittitle>
                 </did>
               </c05>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">2</container>
+                  <container type="box" label="Box [91746780417961563984]">2</container>
                   <unittitle>Palmer School <unitdate type="inclusive" normal="1926">1926</unitdate></unittitle>
                 </did>
               </c05>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">2</container>
+                  <container type="box" label="Box [91746780417961563984]">2</container>
                   <unittitle>Raleighville School</unittitle>
                 </did>
               </c05>
@@ -525,7 +525,7 @@ Milan Area Historical Society collection, Bentley Historical Library, University
                 </odd>
                 <c06 level="file">
                   <did>
-                    <container type="box" label="Box">2</container>
+                    <container type="box" label="Box [91746780417961563984]">2</container>
                     <unittitle>
                       <unitdate type="inclusive">undated</unitdate>
                       <unitdate type="inclusive" normal="1897">1897</unitdate>
@@ -534,7 +534,7 @@ Milan Area Historical Society collection, Bentley Historical Library, University
                 </c06>
                 <c06 level="file">
                   <did>
-                    <container type="box" label="Box">2</container>
+                    <container type="box" label="Box [91746780417961563984]">2</container>
                     <unittitle>
                       <unitdate type="inclusive" normal="1906/1927">1906-1927</unitdate>
                     </unittitle>
@@ -542,7 +542,7 @@ Milan Area Historical Society collection, Bentley Historical Library, University
                 </c06>
                 <c06 level="file">
                   <did>
-                    <container type="box" label="Box">2</container>
+                    <container type="box" label="Box [91746780417961563984]">2</container>
                     <unittitle>
                       <unitdate type="inclusive" normal="1932/1953" certainty="approximate">1932-1953</unitdate>
                     </unittitle>
@@ -555,19 +555,19 @@ Milan Area Historical Society collection, Bentley Historical Library, University
                 </did>
                 <c06 level="file">
                   <did>
-                    <container type="box" label="Box">3</container>
+                    <container type="box" label="Box [03107605728403549534]">3</container>
                     <unittitle>Athletics -- Boys</unittitle>
                   </did>
                 </c06>
                 <c06 level="file">
                   <did>
-                    <container type="box" label="Box">3</container>
+                    <container type="box" label="Box [03107605728403549534]">3</container>
                     <unittitle>Athletics -- Girls</unittitle>
                   </did>
                 </c06>
                 <c06 level="file">
                   <did>
-                    <container type="box" label="Box">3</container>
+                    <container type="box" label="Box [03107605728403549534]">3</container>
                     <unittitle>Class pictures</unittitle>
                     <physdesc altrender="whole">
                       <extent altrender="materialtype spaceoccupied">5 folders</extent>
@@ -579,25 +579,25 @@ Milan Area Historical Society collection, Bentley Historical Library, University
                 </c06>
                 <c06 level="file">
                   <did>
-                    <container type="box" label="Box">3</container>
+                    <container type="box" label="Box [03107605728403549534]">3</container>
                     <unittitle>Graduation Photos</unittitle>
                   </did>
                 </c06>
                 <c06 level="file">
                   <did>
-                    <container type="box" label="Box">3</container>
+                    <container type="box" label="Box [03107605728403549534]">3</container>
                     <unittitle>School picture, 9th-12th grade <unitdate type="inclusive" normal="1905">1905</unitdate></unittitle>
                   </did>
                 </c06>
                 <c06 level="file">
                   <did>
-                    <container type="box" label="Box">3</container>
+                    <container type="box" label="Box [03107605728403549534]">3</container>
                     <unittitle>Old Milan School building <unitdate type="inclusive" normal="1895">1895</unitdate> and newer building, <unitdate type="inclusive" normal="1940" certainty="approximate">circa 1940</unitdate></unittitle>
                   </did>
                 </c06>
                 <c06 level="file">
                   <did>
-                    <container type="box" label="Box">3</container>
+                    <container type="box" label="Box [03107605728403549534]">3</container>
                     <unittitle>Drake (Byron) school pictures</unittitle>
                   </did>
                 </c06>
@@ -605,13 +605,13 @@ Milan Area Historical Society collection, Bentley Historical Library, University
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [03107605728403549534]">3</container>
                 <unittitle>Sports teams: Ideal Furnace Co. baseball team and other teams; also hunting photos</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [03107605728403549534]">3</container>
                 <unittitle>Theatricals -- cast members of local productions on stage</unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -620,19 +620,19 @@ Milan Area Historical Society collection, Bentley Historical Library, University
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [03107605728403549534]">3</container>
                 <unittitle>Tile yard</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [03107605728403549534]">3</container>
                 <unittitle>Tornado "Cyclone" <unitdate type="inclusive" normal="1920">1920</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [03107605728403549534]">3</container>
                 <unittitle>Veterans and other fraternal organizations</unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -644,25 +644,25 @@ Milan Area Historical Society collection, Bentley Historical Library, University
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [03107605728403549534]">3</container>
                 <unittitle>Wagons, trucks, and other vehicles</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [03107605728403549534]">3</container>
                 <unittitle>Wilson family (include tintype and daguerreotype)</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [03107605728403549534]">3</container>
                 <unittitle>Women's groups</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [03107605728403549534]">3</container>
                 <unittitle>Non-family groupings</unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -671,19 +671,19 @@ Milan Area Historical Society collection, Bentley Historical Library, University
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [03107605728403549534]">3</container>
                 <unittitle>Miscellaneous</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [03107605728403549534]">3</container>
                 <unittitle>Copy prints of earlier images</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [03107605728403549534]">3</container>
                 <unittitle>Tintypes</unittitle>
               </did>
             </c04>
@@ -694,85 +694,85 @@ Milan Area Historical Society collection, Bentley Historical Library, University
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [5011912340799000244335530]">4</container>
                 <unittitle>American Boiler &amp; Foundry Co., fire <unitdate type="inclusive" normal="1948">1948</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [5011912340799000244335530]">4</container>
                 <unittitle>Buildings (snapshots) <unitdate type="inclusive" normal="1940/1989" certainty="approximate">1940s-1980s</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [5011912340799000244335530]">4</container>
                 <unittitle>Buildings (snapshots) <unitdate type="inclusive" normal="1990/1999" certainty="approximate">1990s</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [5011912340799000244335530]">4</container>
                 <unittitle>Business enterprises -- downtown views</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [5011912340799000244335530]">4</container>
                 <unittitle>Churches</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [5011912340799000244335530]">4</container>
                 <unittitle>Community events</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [5011912340799000244335530]">4</container>
                 <unittitle>Events</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [5011912340799000244335530]">4</container>
                 <unittitle>Girl Scouts, late <unitdate type="inclusive" normal="1940/1959" certainty="approximate">1940s-1950s</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [5011912340799000244335530]">4</container>
                 <unittitle>Groups: firemen, businessmen, etc.</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [5011912340799000244335530]">4</container>
                 <unittitle>Immaculate Conception Catholic Church</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [5011912340799000244335530]">4</container>
                 <unittitle>Junior Chamber of Commerce</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [5011912340799000244335530]">4</container>
                 <unittitle>Homes</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [5011912340799000244335530]">4</container>
                 <unittitle>Individuals, some non-family groupings</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [5011912340799000244335530]">4</container>
                 <unittitle>Inland-Scholz groundbreaking <unitdate type="inclusive" normal="1971">1971</unitdate></unittitle>
               </did>
               <odd>
@@ -781,139 +781,139 @@ Milan Area Historical Society collection, Bentley Historical Library, University
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [5011912340799000244335530]">4</container>
                 <unittitle>Klak open house</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [5011912340799000244335530]">4</container>
                 <unittitle>Mead family photos</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [5011912340799000244335530]">4</container>
                 <unittitle>Memorial Day <unitdate type="inclusive" normal="1950">1950</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [5011912340799000244335530]">4</container>
                 <unittitle>Mendelsohn Choir <unitdate type="inclusive" normal="1939/1940">1939-1940</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [5011912340799000244335530]">4</container>
                 <unittitle>Methodist Church</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [5011912340799000244335530]">4</container>
                 <unittitle>Milan Theater</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [5011912340799000244335530]">4</container>
                 <unittitle>Milan Village presidents</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [5011912340799000244335530]">4</container>
                 <unittitle>Miscellaneous</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [5011912340799000244335530]">4</container>
                 <unittitle>Old Shack -- tavern</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [5011912340799000244335530]">4</container>
                 <unittitle>Pepper Pontoon Boats</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [5011912340799000244335530]">4</container>
                 <unittitle>Post Office related</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [5011912340799000244335530]">4</container>
                 <unittitle>Railway/Rail station</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [5011912340799000244335530]">4</container>
                 <unittitle>Red Feather Queen <unitdate type="inclusive" normal="1951">1951</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [5011912340799000244335530]">4</container>
                 <unittitle>Residences</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [5011912340799000244335530]">4</container>
                 <unittitle>School class pictures; high school athletics</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [5011912340799000244335530]">4</container>
                 <unittitle>Servicemen (portraits of Milan servicemen who served in World War II)</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [5011912340799000244335530]">4</container>
                 <unittitle>Silk family photos</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [5011912340799000244335530]">4</container>
                 <unittitle>Sinkule Motors</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [5011912340799000244335530]">4</container>
                 <unittitle>Teachers</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [5011912340799000244335530]">4</container>
                 <unittitle>Tornado <unitdate type="inclusive" normal="1979-08">August 1979</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [5011912340799000244335530]">4</container>
                 <unittitle>Trains</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [5011912340799000244335530]">4</container>
                 <unittitle>Troop family</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [5011912340799000244335530]">4</container>
                 <unittitle>Wilson Park</unittitle>
               </did>
             </c04>
@@ -928,7 +928,7 @@ Milan Area Historical Society collection, Bentley Historical Library, University
           </odd>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [19266900749933423548035]">5</container>
               <unittitle>Negatives <unitdate type="inclusive" normal="1945/1976">1945-1976</unitdate> include images taken for Milan newspapers, also private commissions; subjects relate to community events, high school athletics, the Milan Fair, Milan businesses and community groups</unittitle>
             </did>
             <odd>
@@ -943,7 +943,7 @@ Milan Area Historical Society collection, Bentley Historical Library, University
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [100724491822106624]">6</container>
             <unittitle>Bassitt scrapbook/ <genreform normal="Photographs">photograph</genreform> album</unittitle>
           </did>
           <odd>
@@ -952,49 +952,49 @@ Milan Area Historical Society collection, Bentley Historical Library, University
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [100724491822106624]">6</container>
             <unittitle>Birman Motor Sales <unitdate type="inclusive" normal="1930/1939" certainty="approximate">1930s</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [100724491822106624]">6</container>
             <unittitle>Ciesielski, Muriel J. (programs <genreform normal="Photographs">photographs</genreform>, etc.)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [100724491822106624]">6</container>
             <unittitle>Civil War veterans from Milan area</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [100724491822106624]">6</container>
             <unittitle>Conde, John E., account book <unitdate type="inclusive" normal="1840/1859" certainty="approximate">1840s-1850s</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [100724491822106624]">6</container>
             <unittitle>"Crooked Tree" (information about)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [100724491822106624]">6</container>
             <unittitle>Dare Aircraft Company</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [100724491822106624]">6</container>
             <unittitle>DeTar (Dr. John)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [100724491822106624]">6</container>
             <unittitle>Drake (D.D.) and family -- ledgers, letterpress book <genreform normal="Photographs">photographs</genreform> and photograph album, <unitdate type="inclusive" normal="1855/1919">1855-1919 (scattered)</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -1006,43 +1006,43 @@ Milan Area Historical Society collection, Bentley Historical Library, University
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [100724491822106624]">6</container>
             <unittitle>Envotech (hazardous waste dispute)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [100724491822106624]">6</container>
             <unittitle>Family information (response to newspaper request from the Milan Area Historical Society for residents to provide genealogical information about their families)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">7</container>
+            <container type="box" label="Box [56883874067869512511089]">7</container>
             <unittitle>Farrington-Moore family</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">7</container>
+            <container type="box" label="Box [56883874067869512511089]">7</container>
             <unittitle>Frisbie family</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">7</container>
+            <container type="box" label="Box [56883874067869512511089]">7</container>
             <unittitle>Grainger (Thomas) account books <unitdate type="inclusive" normal="1880/1899" certainty="approximate">1880s-1890s</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">7</container>
+            <container type="box" label="Box [56883874067869512511089]">7</container>
             <unittitle>Gay (Donald) and family</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">7</container>
+            <container type="box" label="Box [56883874067869512511089]">7</container>
             <unittitle>Hack House material</unittitle>
           </did>
         </c02>
@@ -1052,19 +1052,19 @@ Milan Area Historical Society collection, Bentley Historical Library, University
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">7</container>
+              <container type="box" label="Box [56883874067869512511089]">7</container>
               <unittitle>Genealogical information and typescript of letter written to his children <unitdate type="inclusive" normal="1836-04-19">April 19, 1836</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="folder" label="Oversize Folder">1</container>
+              <container type="folder" label="Oversize Folder [104834830666777]">1</container>
               <unittitle>Letter from Bethuel and Sally Hack to family members <unitdate type="inclusive" normal="1836">1836</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="folder" label="Oversize Folder">2</container>
+              <container type="folder" label="Oversize Folder [73544378854758229]">2</container>
               <unittitle>Letter from Bethuel and Sally Hack to family members <unitdate type="inclusive" normal="1836">1836</unitdate></unittitle>
             </did>
             <odd>
@@ -1074,13 +1074,13 @@ Milan Area Historical Society collection, Bentley Historical Library, University
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">7</container>
+            <container type="box" label="Box [56883874067869512511089]">7</container>
             <unittitle>Hill, Alice Putnam autograph album <unitdate type="inclusive" normal="1882/1884">1882-1884</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">7</container>
+            <container type="box" label="Box [56883874067869512511089]">7</container>
             <unittitle>Hoffman, Alexander, pocket diaries</unittitle>
             <unitdate type="inclusive" normal="1852">1852</unitdate>
             <unitdate type="inclusive" normal="1873">1873</unitdate>
@@ -1091,13 +1091,13 @@ Milan Area Historical Society collection, Bentley Historical Library, University
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">7</container>
+            <container type="box" label="Box [56883874067869512511089]">7</container>
             <unittitle>Holland family</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">7</container>
+            <container type="box" label="Box [56883874067869512511089]">7</container>
             <unittitle>Hooker family</unittitle>
           </did>
         </c02>
@@ -1107,19 +1107,19 @@ Milan Area Historical Society collection, Bentley Historical Library, University
           </did>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">1</container>
+              <container type="volume" label="Oversize Volume [00844674681070629585137]">1</container>
               <unittitle>Record book: initiatory work, degree work, financial records <unitdate type="inclusive" normal="1872/1880">1872-1880</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">2</container>
+              <container type="volume" label="Oversize Volume [0168839349442876411871]">2</container>
               <unittitle>Minute book <unitdate type="inclusive" normal="1917/1919">1917-1919</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">3</container>
+              <container type="volume" label="Oversize Volume [5032466283978480]">3</container>
               <unittitle>Minute book <unitdate type="inclusive" normal="1923/1926">1923-1926</unitdate></unittitle>
             </did>
           </c03>
@@ -1130,20 +1130,20 @@ Milan Area Historical Society collection, Bentley Historical Library, University
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">7</container>
+              <container type="box" label="Box [56883874067869512511089]">7</container>
               <unittitle>Insurance Company of North America, Ledgerbook kept by Mel Barnes, Agent</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">7</container>
+              <container type="box" label="Box [56883874067869512511089]">7</container>
               <unittitle>Hartford Fire Insurance Co. Ledger from <unitdate type="inclusive" normal="1882/1895">1882-1895</unitdate></unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">7</container>
+            <container type="box" label="Box [56883874067869512511089]">7</container>
             <unittitle>Janny, Jacob and Esther Betts marriage record <unitdate type="inclusive" normal="1820-10-11">October 11, 1820</unitdate></unittitle>
           </did>
           <odd>
@@ -1152,7 +1152,7 @@ Milan Area Historical Society collection, Bentley Historical Library, University
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">7</container>
+            <container type="box" label="Box [56883874067869512511089]">7</container>
             <unittitle>Johnston (Allen) and family -- personal ledgers, record of hours worked, diaries</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -1161,13 +1161,13 @@ Milan Area Historical Society collection, Bentley Historical Library, University
         </c02>
         <c02 level="file">
           <did>
-            <container type="folder" label="Oversize Folder">1</container>
+            <container type="folder" label="Oversize Folder [104834830666777]">1</container>
             <unittitle>Ladies of the Maccabees for Michigan, charter of the Mooreville Hive No. 375 <unitdate type="inclusive" normal="1891-12-10">December 10, 1891</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="folder" label="Oversize Folder">2</container>
+            <container type="folder" label="Oversize Folder [73544378854758229]">2</container>
             <unittitle>Ladies of the Maccabees for Michigan, charter of the Mooreville Hive No. 375 <unitdate type="inclusive" normal="1891-12-10">December 10, 1891</unitdate></unittitle>
           </did>
           <odd>
@@ -1176,13 +1176,13 @@ Milan Area Historical Society collection, Bentley Historical Library, University
         </c02>
         <c02 level="file">
           <did>
-            <container type="folder" label="Oversize Folder">1</container>
+            <container type="folder" label="Oversize Folder [104834830666777]">1</container>
             <unittitle>Mead family history</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="folder" label="Oversize Folder">2</container>
+            <container type="folder" label="Oversize Folder [73544378854758229]">2</container>
             <unittitle>Mead family history</unittitle>
           </did>
           <odd>
@@ -1191,13 +1191,13 @@ Milan Area Historical Society collection, Bentley Historical Library, University
         </c02>
         <c02 level="file">
           <did>
-            <container type="folder" label="Oversize Folder">1</container>
+            <container type="folder" label="Oversize Folder [104834830666777]">1</container>
             <unittitle>Mead School register of students <unitdate type="inclusive" normal="1895">1895</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="folder" label="Oversize Folder">2</container>
+            <container type="folder" label="Oversize Folder [73544378854758229]">2</container>
             <unittitle>Mead School register of students <unitdate type="inclusive" normal="1895">1895</unitdate></unittitle>
           </did>
           <odd>
@@ -1206,13 +1206,13 @@ Milan Area Historical Society collection, Bentley Historical Library, University
         </c02>
         <c02 level="file">
           <did>
-            <container type="folder" label="Oversize Folder">1</container>
+            <container type="folder" label="Oversize Folder [104834830666777]">1</container>
             <unittitle>Michigan Bridget (woman who participated in the Civil War)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="folder" label="Oversize Folder">2</container>
+            <container type="folder" label="Oversize Folder [73544378854758229]">2</container>
             <unittitle>Michigan Bridget (woman who participated in the Civil War)</unittitle>
           </did>
           <odd>
@@ -1221,13 +1221,13 @@ Milan Area Historical Society collection, Bentley Historical Library, University
         </c02>
         <c02 level="file">
           <did>
-            <container type="folder" label="Oversize Folder">1</container>
+            <container type="folder" label="Oversize Folder [104834830666777]">1</container>
             <unittitle>Milan Area Historical Society miscellaneous materials</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="folder" label="Oversize Folder">2</container>
+            <container type="folder" label="Oversize Folder [73544378854758229]">2</container>
             <unittitle>Milan Area Historical Society miscellaneous materials</unittitle>
           </did>
           <odd>
@@ -1236,7 +1236,7 @@ Milan Area Historical Society collection, Bentley Historical Library, University
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">8</container>
+            <container type="box" label="Box [52754289478585523]">8</container>
             <unittitle>Milan businesses advertisements</unittitle>
           </did>
         </c02>
@@ -1246,7 +1246,7 @@ Milan Area Historical Society collection, Bentley Historical Library, University
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">8</container>
+              <container type="box" label="Box [52754289478585523]">8</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1945/1949">1945-1949</unitdate>
               </unittitle>
@@ -1257,14 +1257,14 @@ Milan Area Historical Society collection, Bentley Historical Library, University
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">8</container>
+              <container type="box" label="Box [52754289478585523]">8</container>
               <unittitle>Clippings</unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">8</container>
+            <container type="box" label="Box [52754289478585523]">8</container>
             <unittitle>Milan Fair</unittitle>
             <unitdate type="inclusive" normal="1958">1958</unitdate>
             <unitdate type="inclusive" normal="1961/1967">1961-1967</unitdate>
@@ -1275,7 +1275,7 @@ Milan Area Historical Society collection, Bentley Historical Library, University
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">8</container>
+            <container type="box" label="Box [52754289478585523]">8</container>
             <unittitle>Milan Fourth of July celebration program <unitdate type="inclusive" normal="1924">1924</unitdate></unittitle>
           </did>
         </c02>
@@ -1285,37 +1285,37 @@ Milan Area Historical Society collection, Bentley Historical Library, University
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">8</container>
+              <container type="box" label="Box [52754289478585523]">8</container>
               <unittitle>Class of <unitdate type="inclusive" normal="1975">1975</unitdate> yearbook</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">8</container>
+              <container type="box" label="Box [52754289478585523]">8</container>
               <unittitle>Commencement programs</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">8</container>
+              <container type="box" label="Box [52754289478585523]">8</container>
               <unittitle>Dedication and Open House <unitdate type="inclusive" normal="1958">1958</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">8</container>
+              <container type="box" label="Box [52754289478585523]">8</container>
               <unittitle>Football and basketball programs <unitdate type="inclusive" normal="1945/1965">1945-1965 (scattered)</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">8</container>
+              <container type="box" label="Box [52754289478585523]">8</container>
               <unittitle>Literary Society secretary's book <unitdate type="inclusive" normal="1887/1888">1887-1888</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">8</container>
+              <container type="box" label="Box [52754289478585523]">8</container>
               <unittitle>Reunion</unittitle>
             </did>
           </c03>
@@ -1325,69 +1325,69 @@ Milan Area Historical Society collection, Bentley Historical Library, University
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">8</container>
+                <container type="box" label="Box [52754289478585523]">8</container>
                 <unittitle>Milan High Life <unitdate type="inclusive" normal="1919">1919</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">8</container>
+                <container type="box" label="Box [52754289478585523]">8</container>
                 <unittitle>Mi-Hi News <unitdate type="inclusive" normal="1927">1927</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">8</container>
+                <container type="box" label="Box [52754289478585523]">8</container>
                 <unittitle>Milan High Life <unitdate type="inclusive" normal="1934">1934</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">8</container>
+                <container type="box" label="Box [52754289478585523]">8</container>
                 <unittitle>Milan High Life <unitdate type="inclusive" normal="1935">1935</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">8</container>
+                <container type="box" label="Box [52754289478585523]">8</container>
                 <unittitle>Milan High Life <unitdate type="inclusive" normal="1936">1936</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">8</container>
+                <container type="box" label="Box [52754289478585523]">8</container>
                 <unittitle>Milan High Life <unitdate type="inclusive" normal="1938">1938</unitdate></unittitle>
               </did>
             </c04>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">8</container>
+              <container type="box" label="Box [52754289478585523]">8</container>
               <unittitle>Scrapbook and memorabilia</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">8</container>
+              <container type="box" label="Box [52754289478585523]">8</container>
               <unittitle>Yearbook <unitdate type="inclusive" normal="1938">1938</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">8</container>
+              <container type="box" label="Box [52754289478585523]">8</container>
               <unittitle>Miscellaneous</unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">8</container>
+            <container type="box" label="Box [52754289478585523]">8</container>
             <unittitle>Milan history -- general</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">8</container>
+            <container type="box" label="Box [52754289478585523]">8</container>
             <unittitle>Milan Opera House programs</unittitle>
           </did>
         </c02>
@@ -1397,7 +1397,7 @@ Milan Area Historical Society collection, Bentley Historical Library, University
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">8</container>
+              <container type="box" label="Box [52754289478585523]">8</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1907/1912">1907-1912</unitdate>
               </unittitle>
@@ -1405,7 +1405,7 @@ Milan Area Historical Society collection, Bentley Historical Library, University
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">8</container>
+              <container type="box" label="Box [52754289478585523]">8</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1912/1915">1912-1915</unitdate>
               </unittitle>
@@ -1414,13 +1414,13 @@ Milan Area Historical Society collection, Bentley Historical Library, University
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">8</container>
+            <container type="box" label="Box [52754289478585523]">8</container>
             <unittitle>Milan school system history</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">8</container>
+            <container type="box" label="Box [52754289478585523]">8</container>
             <unittitle>Milan Serviceman Committee <unitdate type="inclusive" normal="1953/1958">1953-1958</unitdate></unittitle>
           </did>
           <odd>
@@ -1429,25 +1429,25 @@ Milan Area Historical Society collection, Bentley Historical Library, University
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">8</container>
+            <container type="box" label="Box [52754289478585523]">8</container>
             <unittitle>Milan Union Church Society</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">8</container>
+            <container type="box" label="Box [52754289478585523]">8</container>
             <unittitle>Milan warranty deeds, indentures, etc.</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">8</container>
+            <container type="box" label="Box [52754289478585523]">8</container>
             <unittitle>Miscellaneous Materials</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">9</container>
+            <container type="box" label="Box [129094234861218070]">9</container>
             <unittitle>Monroe County Circuit Court -- lawyer's calendar <unitdate type="inclusive" normal="1913">1913</unitdate></unittitle>
           </did>
           <odd>
@@ -1456,43 +1456,43 @@ Milan Area Historical Society collection, Bentley Historical Library, University
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">9</container>
+            <container type="box" label="Box [129094234861218070]">9</container>
             <unittitle>Monroe County Country Schools (clippings about)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">9</container>
+            <container type="box" label="Box [129094234861218070]">9</container>
             <unittitle>Moores of Mooreville</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">9</container>
+            <container type="box" label="Box [129094234861218070]">9</container>
             <unittitle>Murray (Robert and Donald), article about</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">9</container>
+            <container type="box" label="Box [129094234861218070]">9</container>
             <unittitle>Noble family miscellaneous</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">9</container>
+            <container type="box" label="Box [129094234861218070]">9</container>
             <unittitle>Old Fire Barn restoration</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">9</container>
+            <container type="box" label="Box [129094234861218070]">9</container>
             <unittitle>Osborn (Thelma) scrapbook/album</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">9</container>
+            <container type="box" label="Box [129094234861218070]">9</container>
             <unittitle>Overholt (Marion) scrapbook of high school activities <unitdate type="inclusive" normal="1917/1918">1917-1918</unitdate></unittitle>
           </did>
           <odd>
@@ -1501,19 +1501,19 @@ Milan Area Historical Society collection, Bentley Historical Library, University
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">9</container>
+            <container type="box" label="Box [129094234861218070]">9</container>
             <unittitle>Peoples Church, Milan</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">9</container>
+            <container type="box" label="Box [129094234861218070]">9</container>
             <unittitle>Political candidate advertisement cards</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">9</container>
+            <container type="box" label="Box [129094234861218070]">9</container>
             <unittitle>Post Office and postal miscellaneous</unittitle>
           </did>
           <odd>
@@ -1522,13 +1522,13 @@ Milan Area Historical Society collection, Bentley Historical Library, University
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">9</container>
+            <container type="box" label="Box [129094234861218070]">9</container>
             <unittitle>Putnam, Alice E. autograph album <unitdate type="inclusive" normal="1879/1882">1879-1882</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">9</container>
+            <container type="box" label="Box [129094234861218070]">9</container>
             <unittitle>Reeves family</unittitle>
           </did>
           <odd>
@@ -1537,31 +1537,31 @@ Milan Area Historical Society collection, Bentley Historical Library, University
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">9</container>
+            <container type="box" label="Box [129094234861218070]">9</container>
             <unittitle>Rendell (Oscar) scrapbook containing obituary notices of Milan residents <unitdate type="inclusive" normal="1900/1950" certainty="approximate">circa 1900-1950</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">9</container>
+            <container type="box" label="Box [129094234861218070]">9</container>
             <unittitle>Rose, La Veta, letters to</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">9</container>
+            <container type="box" label="Box [129094234861218070]">9</container>
             <unittitle>Sanford, Iva (transcript of diary) <unitdate type="inclusive" normal="1909/1916">1909-1916</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">9</container>
+            <container type="box" label="Box [129094234861218070]">9</container>
             <unittitle>Stebbins family miscellaneous</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">9</container>
+            <container type="box" label="Box [129094234861218070]">9</container>
             <unittitle>Stebbins (Phyllis) scrapbooks</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -1570,13 +1570,13 @@ Milan Area Historical Society collection, Bentley Historical Library, University
         </c02>
         <c02 level="file">
           <did>
-            <container type="folder" label="Oversize Folder">1</container>
+            <container type="folder" label="Oversize Folder [104834830666777]">1</container>
             <unittitle>Stimpson Hotel, possibly of the Knights of Pythias</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="folder" label="Oversize Folder">2</container>
+            <container type="folder" label="Oversize Folder [73544378854758229]">2</container>
             <unittitle>Stimpson Hotel, possibly of the Knights of Pythias</unittitle>
           </did>
           <odd>
@@ -1585,13 +1585,13 @@ Milan Area Historical Society collection, Bentley Historical Library, University
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">9</container>
+            <container type="box" label="Box [129094234861218070]">9</container>
             <unittitle>Stony Creek, information about</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">9</container>
+            <container type="box" label="Box [129094234861218070]">9</container>
             <unittitle>Thompson (Hiram), ledger <unitdate type="inclusive" normal="1830/1839" certainty="approximate">1830s</unitdate></unittitle>
             <physdesc>
               <physfacet>photocopy</physfacet>
@@ -1600,13 +1600,13 @@ Milan Area Historical Society collection, Bentley Historical Library, University
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">9</container>
+            <container type="box" label="Box [129094234861218070]">9</container>
             <unittitle>Throop Family</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">9</container>
+            <container type="box" label="Box [129094234861218070]">9</container>
             <unittitle>Veterans of Foreign Wars, Milan Post 1224, membership cards</unittitle>
           </did>
           <odd>
@@ -1615,48 +1615,48 @@ Milan Area Historical Society collection, Bentley Historical Library, University
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">4</container>
+            <container type="volume" label="Oversize Volume [37645844317673]">4</container>
             <unittitle>Weigel family scrapbook containing newspaper obituaries, wedding and anniversary announcements, and memorabilia <unitdate type="inclusive" normal="1920/1949" certainty="approximate">1920s-1940s</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">9</container>
+            <container type="box" label="Box [129094234861218070]">9</container>
             <unittitle>Wilcox Family, Probate Court Record <unitdate type="inclusive" normal="1886">1886</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">9</container>
+            <container type="box" label="Box [129094234861218070]">9</container>
             <unittitle>Wilson (Thomas), citizenship document <unitdate type="inclusive" normal="1849">1849</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">9</container>
+            <container type="box" label="Box [129094234861218070]">9</container>
             <unittitle>World War I diary (unknown author)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">9</container>
+            <container type="box" label="Box [129094234861218070]">9</container>
             <unittitle>Miscellaneous and anonymous</unittitle>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">9</container>
+              <container type="box" label="Box [129094234861218070]">9</container>
               <unittitle>Diary describing work activities unloading and hauling <unitdate type="inclusive" normal="1909/1912">1909-1912</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">9</container>
+              <container type="box" label="Box [129094234861218070]">9</container>
               <unittitle>Scrapbook of newspaper articles, about <unitdate type="inclusive" normal="1894/1934">1894-1934</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">9</container>
+              <container type="box" label="Box [129094234861218070]">9</container>
               <unittitle>Scrapbook of obituaries of Milan residents, scattered dates</unittitle>
               <physdesc>
                 <physfacet>photocopy</physfacet>
@@ -1665,13 +1665,13 @@ Milan Area Historical Society collection, Bentley Historical Library, University
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">10</container>
+              <container type="box" label="Box [3767775437009967404964]">10</container>
               <unittitle>Scrapbook pages containing obituaries of Milan residents <unitdate type="inclusive" normal="1897/1914" certainty="approximate">circa 1897-1914</unitdate>, scattered dates</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">11</container>
+              <container type="box" label="Box [5773558624588706211540]">11</container>
               <unittitle>Milan Leader (scattered issues of newspaper)</unittitle>
             </did>
           </c03>

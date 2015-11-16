@@ -31,7 +31,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>University Archives and Records Program <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/2">University Archives and Records Program <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Dept. of Psychiatry <lb/>(University of Michigan) <lb/>records, 1959-2013</titleproper>
       <author>Finding aid created by <lb/>Jennifer Jacobs, 1999; <lb/>Melissa Hernandez-Duran, November 2014.</author>
     </titlepage>
@@ -135,16 +135,16 @@ Department of Psychiatry (University of Michigan) records, Bentley Historical Li
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <subject encodinganalog="650" source="lcsh">Mental health.</subject>
-        <subject encodinganalog="650" source="lcsh">Psychiatry.</subject>
+        <subject encodinganalog="650" source="lcsh" ref="/subjects/6115">Mental health.</subject>
+        <subject encodinganalog="650" source="lcsh" ref="/subjects/6113">Psychiatry.</subject>
         <corpname encodinganalog="630" source="lcnaf">Raymond R. Waggoner Lectureship.</corpname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n87842574">University of Michigan. Department of Psychiatry.</corpname>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Bulletins.</genreform>
-        <genreform source="aat" encodinganalog="655">Digital moving image formats.</genreform>
-        <genreform source="aat" encodinganalog="655">Pamphlets.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3153">Bulletins.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3306">Digital moving image formats.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3152">Pamphlets.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -157,7 +157,7 @@ Department of Psychiatry (University of Michigan) records, Bentley Historical Li
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [195657113461884657671368]">1</container>
             <unittitle>About Raymond W. Waggoner</unittitle>
           </did>
         </c02>
@@ -167,7 +167,7 @@ Department of Psychiatry (University of Michigan) records, Bentley Historical Li
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [195657113461884657671368]">1</container>
               <unittitle>Background material</unittitle>
             </did>
           </c03>
@@ -178,7 +178,7 @@ Department of Psychiatry (University of Michigan) records, Bentley Historical Li
               <physdesc>
                 <physfacet>.ZIP file</physfacet>
               </physdesc>
-              <dao href="http://hdl.handle.net/2027.42/110292" show="new" actuate="onrequest">
+              <dao href="http://hdl.handle.net/2027.42/110292" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/8514">
                 <daodesc>
                   <p>[view item]</p>
                 </daodesc>
@@ -192,7 +192,7 @@ Department of Psychiatry (University of Michigan) records, Bentley Historical Li
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [195657113461884657671368]">1</container>
               <unittitle>Background materials</unittitle>
             </did>
           </c03>
@@ -203,7 +203,7 @@ Department of Psychiatry (University of Michigan) records, Bentley Historical Li
               <physdesc>
                 <physfacet>.ZIP file</physfacet>
               </physdesc>
-              <dao href="http://hdl.handle.net/2027.42/110293" show="new" actuate="onrequest">
+              <dao href="http://hdl.handle.net/2027.42/110293" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/8515">
                 <daodesc>
                   <p>[view item]</p>
                 </daodesc>
@@ -217,7 +217,7 @@ Department of Psychiatry (University of Michigan) records, Bentley Historical Li
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [195657113461884657671368]">1</container>
               <unittitle>Background material</unittitle>
             </did>
           </c03>
@@ -228,7 +228,7 @@ Department of Psychiatry (University of Michigan) records, Bentley Historical Li
               <physdesc>
                 <physfacet>.ZIP file</physfacet>
               </physdesc>
-              <dao href="http://hdl.handle.net/2027.42/110294" show="new" actuate="onrequest">
+              <dao href="http://hdl.handle.net/2027.42/110294" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/8516">
                 <daodesc>
                   <p>[view item]</p>
                 </daodesc>
@@ -242,7 +242,7 @@ Department of Psychiatry (University of Michigan) records, Bentley Historical Li
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [195657113461884657671368]">1</container>
               <unittitle>Background materials</unittitle>
             </did>
           </c03>
@@ -253,7 +253,7 @@ Department of Psychiatry (University of Michigan) records, Bentley Historical Li
               <physdesc>
                 <physfacet>.ZIP file</physfacet>
               </physdesc>
-              <dao href="http://hdl.handle.net/2027.42/110295" show="new" actuate="onrequest">
+              <dao href="http://hdl.handle.net/2027.42/110295" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/8517">
                 <daodesc>
                   <p>[view item]</p>
                 </daodesc>
@@ -267,7 +267,7 @@ Department of Psychiatry (University of Michigan) records, Bentley Historical Li
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [195657113461884657671368]">1</container>
               <unittitle>Background material</unittitle>
             </did>
           </c03>
@@ -278,7 +278,7 @@ Department of Psychiatry (University of Michigan) records, Bentley Historical Li
               <physdesc>
                 <physfacet>.ZIP file</physfacet>
               </physdesc>
-              <dao href="http://hdl.handle.net/2027.42/110296" show="new" actuate="onrequest">
+              <dao href="http://hdl.handle.net/2027.42/110296" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/8518">
                 <daodesc>
                   <p>[view item]</p>
                 </daodesc>
@@ -292,7 +292,7 @@ Department of Psychiatry (University of Michigan) records, Bentley Historical Li
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [195657113461884657671368]">1</container>
               <unittitle>Background material</unittitle>
             </did>
           </c03>
@@ -303,7 +303,7 @@ Department of Psychiatry (University of Michigan) records, Bentley Historical Li
               <physdesc>
                 <physfacet>.ZIP file</physfacet>
               </physdesc>
-              <dao href="http://hdl.handle.net/2027.42/110297" show="new" actuate="onrequest">
+              <dao href="http://hdl.handle.net/2027.42/110297" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/8519">
                 <daodesc>
                   <p>[view item]</p>
                 </daodesc>
@@ -317,7 +317,7 @@ Department of Psychiatry (University of Michigan) records, Bentley Historical Li
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [195657113461884657671368]">1</container>
               <unittitle>Background material</unittitle>
             </did>
           </c03>
@@ -328,7 +328,7 @@ Department of Psychiatry (University of Michigan) records, Bentley Historical Li
               <physdesc>
                 <physfacet>.ZIP file</physfacet>
               </physdesc>
-              <dao href="http://hdl.handle.net/2027.42/110298" show="new" actuate="onrequest">
+              <dao href="http://hdl.handle.net/2027.42/110298" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/8520">
                 <daodesc>
                   <p>[view item]</p>
                 </daodesc>
@@ -342,7 +342,7 @@ Department of Psychiatry (University of Michigan) records, Bentley Historical Li
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [195657113461884657671368]">1</container>
               <unittitle>Background material</unittitle>
             </did>
           </c03>
@@ -353,7 +353,7 @@ Department of Psychiatry (University of Michigan) records, Bentley Historical Li
               <physdesc>
                 <physfacet>.ZIP file</physfacet>
               </physdesc>
-              <dao href="http://hdl.handle.net/2027.42/110299" show="new" actuate="onrequest">
+              <dao href="http://hdl.handle.net/2027.42/110299" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/8521">
                 <daodesc>
                   <p>[view item]</p>
                 </daodesc>
@@ -367,7 +367,7 @@ Department of Psychiatry (University of Michigan) records, Bentley Historical Li
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [195657113461884657671368]">1</container>
               <unittitle>Background material</unittitle>
             </did>
           </c03>
@@ -378,7 +378,7 @@ Department of Psychiatry (University of Michigan) records, Bentley Historical Li
               <physdesc>
                 <physfacet>.ZIP file</physfacet>
               </physdesc>
-              <dao href="http://hdl.handle.net/2027.42/110282" show="new" actuate="onrequest">
+              <dao href="http://hdl.handle.net/2027.42/110282" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/8522">
                 <daodesc>
                   <p>[view item]</p>
                 </daodesc>
@@ -392,7 +392,7 @@ Department of Psychiatry (University of Michigan) records, Bentley Historical Li
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [195657113461884657671368]">1</container>
               <unittitle>Background material</unittitle>
             </did>
           </c03>
@@ -403,7 +403,7 @@ Department of Psychiatry (University of Michigan) records, Bentley Historical Li
               <physdesc>
                 <physfacet>.ZIP file</physfacet>
               </physdesc>
-              <dao href="http://hdl.handle.net/2027.42/110283" show="new" actuate="onrequest">
+              <dao href="http://hdl.handle.net/2027.42/110283" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/8523">
                 <daodesc>
                   <p>[view item]</p>
                 </daodesc>
@@ -417,7 +417,7 @@ Department of Psychiatry (University of Michigan) records, Bentley Historical Li
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [195657113461884657671368]">1</container>
               <unittitle>Background material</unittitle>
             </did>
           </c03>
@@ -428,7 +428,7 @@ Department of Psychiatry (University of Michigan) records, Bentley Historical Li
               <physdesc>
                 <physfacet>.ZIP file</physfacet>
               </physdesc>
-              <dao href="http://hdl.handle.net/2027.42/110284" show="new" actuate="onrequest">
+              <dao href="http://hdl.handle.net/2027.42/110284" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/8524">
                 <daodesc>
                   <p>[view item]</p>
                 </daodesc>
@@ -442,7 +442,7 @@ Department of Psychiatry (University of Michigan) records, Bentley Historical Li
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [168243420520181671]">2</container>
               <unittitle>Background material</unittitle>
             </did>
           </c03>
@@ -453,7 +453,7 @@ Department of Psychiatry (University of Michigan) records, Bentley Historical Li
               <physdesc>
                 <physfacet>.ZIP file</physfacet>
               </physdesc>
-              <dao href="http://hdl.handle.net/2027.42/110285" show="new" actuate="onrequest">
+              <dao href="http://hdl.handle.net/2027.42/110285" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/8525">
                 <daodesc>
                   <p>[view item]</p>
                 </daodesc>
@@ -467,7 +467,7 @@ Department of Psychiatry (University of Michigan) records, Bentley Historical Li
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [168243420520181671]">2</container>
               <unittitle>Background material</unittitle>
             </did>
           </c03>
@@ -478,7 +478,7 @@ Department of Psychiatry (University of Michigan) records, Bentley Historical Li
               <physdesc>
                 <physfacet>.ZIP file</physfacet>
               </physdesc>
-              <dao href="http://hdl.handle.net/2027.42/110286" show="new" actuate="onrequest">
+              <dao href="http://hdl.handle.net/2027.42/110286" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/8526">
                 <daodesc>
                   <p>[view item]</p>
                 </daodesc>
@@ -492,7 +492,7 @@ Department of Psychiatry (University of Michigan) records, Bentley Historical Li
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [168243420520181671]">2</container>
               <unittitle>Background material</unittitle>
             </did>
           </c03>
@@ -503,7 +503,7 @@ Department of Psychiatry (University of Michigan) records, Bentley Historical Li
               <physdesc>
                 <physfacet>.ZIP file</physfacet>
               </physdesc>
-              <dao href="http://hdl.handle.net/2027.42/110287" show="new" actuate="onrequest">
+              <dao href="http://hdl.handle.net/2027.42/110287" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/8527">
                 <daodesc>
                   <p>[view item]</p>
                 </daodesc>
@@ -517,7 +517,7 @@ Department of Psychiatry (University of Michigan) records, Bentley Historical Li
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [168243420520181671]">2</container>
               <unittitle>Background material</unittitle>
             </did>
           </c03>
@@ -528,7 +528,7 @@ Department of Psychiatry (University of Michigan) records, Bentley Historical Li
               <physdesc>
                 <physfacet>.ZIP file</physfacet>
               </physdesc>
-              <dao href="http://hdl.handle.net/2027.42/110288" show="new" actuate="onrequest">
+              <dao href="http://hdl.handle.net/2027.42/110288" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/8528">
                 <daodesc>
                   <p>[view item]</p>
                 </daodesc>
@@ -542,7 +542,7 @@ Department of Psychiatry (University of Michigan) records, Bentley Historical Li
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [168243420520181671]">2</container>
               <unittitle>Background material</unittitle>
             </did>
           </c03>
@@ -553,7 +553,7 @@ Department of Psychiatry (University of Michigan) records, Bentley Historical Li
               <physdesc>
                 <physfacet>.ZIP file</physfacet>
               </physdesc>
-              <dao href="http://hdl.handle.net/2027.42/110289" show="new" actuate="onrequest">
+              <dao href="http://hdl.handle.net/2027.42/110289" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/8529">
                 <daodesc>
                   <p>[view item]</p>
                 </daodesc>
@@ -567,7 +567,7 @@ Department of Psychiatry (University of Michigan) records, Bentley Historical Li
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [168243420520181671]">2</container>
               <unittitle>Background material</unittitle>
             </did>
           </c03>
@@ -578,7 +578,7 @@ Department of Psychiatry (University of Michigan) records, Bentley Historical Li
               <physdesc>
                 <physfacet>.ZIP file</physfacet>
               </physdesc>
-              <dao href="http://hdl.handle.net/2027.42/110290" show="new" actuate="onrequest">
+              <dao href="http://hdl.handle.net/2027.42/110290" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/8530">
                 <daodesc>
                   <p>[view item]</p>
                 </daodesc>
@@ -592,7 +592,7 @@ Department of Psychiatry (University of Michigan) records, Bentley Historical Li
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [168243420520181671]">2</container>
               <unittitle>Background material</unittitle>
             </did>
           </c03>
@@ -603,7 +603,7 @@ Department of Psychiatry (University of Michigan) records, Bentley Historical Li
               <physdesc>
                 <physfacet>.ZIP file</physfacet>
               </physdesc>
-              <dao href="http://hdl.handle.net/2027.42/110291" show="new" actuate="onrequest">
+              <dao href="http://hdl.handle.net/2027.42/110291" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/8531">
                 <daodesc>
                   <p>[view item]</p>
                 </daodesc>
@@ -621,13 +621,13 @@ Department of Psychiatry (University of Michigan) records, Bentley Historical Li
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [168243420520181671]">2</container>
             <unittitle>Annual Reports</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [168243420520181671]">2</container>
             <unittitle><title render="italic">Annual Progress Report</title>, <unitdate type="inclusive" normal="1988/1989">1988-1989</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -636,13 +636,13 @@ Department of Psychiatry (University of Michigan) records, Bentley Historical Li
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [168243420520181671]">2</container>
             <unittitle><title render="italic">Annual Report</title>, <unitdate type="inclusive" normal="1986">1986</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [168243420520181671]">2</container>
             <unittitle>Brochures</unittitle>
             <unitdate type="inclusive" normal="1970">1970</unitdate>
             <unitdate type="inclusive" normal="2006">2006</unitdate>
@@ -650,13 +650,13 @@ Department of Psychiatry (University of Michigan) records, Bentley Historical Li
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [168243420520181671]">2</container>
             <unittitle>Bulletins</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [168243420520181671]">2</container>
             <unittitle>
               <title render="italic">Department of Psychiatry</title>
             </unittitle>
@@ -669,7 +669,7 @@ Department of Psychiatry (University of Michigan) records, Bentley Historical Li
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [168243420520181671]">2</container>
             <unittitle>
               <title render="italic">Residency Programs in Psychiatry at the University of Michigan Medical Center, c.1966</title>
             </unittitle>
@@ -677,25 +677,25 @@ Department of Psychiatry (University of Michigan) records, Bentley Historical Li
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [168243420520181671]">2</container>
             <unittitle>Programs <unitdate type="inclusive" normal="1998">1998</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [168243420520181671]">2</container>
             <unittitle>Scientific Publications <unitdate type="inclusive" normal="1993/1994">1993-1994</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [168243420520181671]">2</container>
             <unittitle>Sixth Annual Albert J. Silverman Research Conference <unitdate type="inclusive" normal="1995">1995</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [168243420520181671]">2</container>
             <unittitle>Youth --Nominated Support Team Intervention Manual <unitdate type="inclusive" normal="2001">2001</unitdate></unittitle>
           </did>
         </c02>

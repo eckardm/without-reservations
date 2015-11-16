@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Edward Young papers, ca. 1928-ca. 1940</titleproper>
       <author>Finding aid created by <lb/>Michigan Historical Collections staff</author>
     </titlepage>
@@ -82,18 +82,18 @@ Edward Young papers, Bentley Historical Library, University of Michigan</p>
       </p>
       <controlaccess>
         <head>Subjects - Visual Materials:</head>
-        <geogname source="lcsh" encodinganalog="651">Camp Davis (University of Michigan)</geogname>
-        <geogname source="lcsh" encodinganalog="651">Douglas Lake (Mich.)</geogname>
-        <subject source="lctgm" encodinganalog="650">Surveying--Wyoming.</subject>
-        <subject source="lctgm" encodinganalog="650">Surveying--Michigan.</subject>
-        <geogname source="lcsh" encodinganalog="651">Wyoming.</geogname>
-        <geogname source="lcsh" encodinganalog="651">Yellowstone National Park.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1609">Camp Davis (University of Michigan)</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1608">Douglas Lake (Mich.)</geogname>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4076">Surveying--Wyoming.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4077">Surveying--Michigan.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1610">Wyoming.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1646">Yellowstone National Park.</geogname>
         <persname source="lcnaf" encodinganalog="600">Young, Edward, 1887-1964.</persname>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Motion pictures.</genreform>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3167">Motion pictures.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -103,7 +103,7 @@ Edward Young papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="folder" label="Folder">1</container>
+            <container type="folder" label="Folder [17210449856681897]">1</container>
             <unittitle>Photos</unittitle>
           </did>
           <odd>
@@ -130,7 +130,7 @@ Edward Young papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="otherlevel" otherlevel="item-part">
             <did>
-              <container type="box" label="DVD Box">10</container>
+              <container type="box" label="DVD Box [7001840493884460242]">10</container>
               <unittitle>Use Copy</unittitle>
               <physdesc>
                 <physfacet>DVD</physfacet>
@@ -143,7 +143,7 @@ Edward Young papers, Bentley Historical Library, University of Michigan</p>
               <physdesc>
                 <physfacet>flash</physfacet>
               </physdesc>
-              <dao href="07182-1" show="new" actuate="onrequest">
+              <dao href="07182-1" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/9897">
                 <daodesc>
                   <p>[view video]</p>
                 </daodesc>
@@ -166,7 +166,7 @@ Edward Young papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="otherlevel" otherlevel="item-part">
             <did>
-              <container type="box" label="DVD Box">10</container>
+              <container type="box" label="DVD Box [7001840493884460242]">10</container>
               <unittitle>Use Copy</unittitle>
               <physdesc>
                 <physfacet>DVD</physfacet>
@@ -179,7 +179,7 @@ Edward Young papers, Bentley Historical Library, University of Michigan</p>
               <physdesc>
                 <physfacet>flash</physfacet>
               </physdesc>
-              <dao href="07182-2" show="new" actuate="onrequest">
+              <dao href="07182-2" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/9898">
                 <daodesc>
                   <p>[view video]</p>
                 </daodesc>
@@ -202,7 +202,7 @@ Edward Young papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="otherlevel" otherlevel="item-part">
             <did>
-              <container type="box" label="DVD Box">10</container>
+              <container type="box" label="DVD Box [7001840493884460242]">10</container>
               <unittitle>Use Copy</unittitle>
               <physdesc>
                 <physfacet>DVD</physfacet>
@@ -215,7 +215,7 @@ Edward Young papers, Bentley Historical Library, University of Michigan</p>
               <physdesc>
                 <physfacet>flash</physfacet>
               </physdesc>
-              <dao href="07182-3" show="new" actuate="onrequest">
+              <dao href="07182-3" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/9899">
                 <daodesc>
                   <p>[view video]</p>
                 </daodesc>
@@ -238,7 +238,7 @@ Edward Young papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="otherlevel" otherlevel="item-part">
             <did>
-              <container type="box" label="DVD Box">10</container>
+              <container type="box" label="DVD Box [7001840493884460242]">10</container>
               <unittitle>Use Copy</unittitle>
               <physdesc>
                 <physfacet>DVD</physfacet>
@@ -251,7 +251,7 @@ Edward Young papers, Bentley Historical Library, University of Michigan</p>
               <physdesc>
                 <physfacet>flash</physfacet>
               </physdesc>
-              <dao href="07182-4" show="new" actuate="onrequest">
+              <dao href="07182-4" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/9900">
                 <daodesc>
                   <p>[view video]</p>
                 </daodesc>
@@ -274,7 +274,7 @@ Edward Young papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="otherlevel" otherlevel="item-part">
             <did>
-              <container type="box" label="DVD Box">10</container>
+              <container type="box" label="DVD Box [7001840493884460242]">10</container>
               <unittitle>Use Copy</unittitle>
               <physdesc>
                 <physfacet>DVD</physfacet>
@@ -297,7 +297,7 @@ Edward Young papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="otherlevel" otherlevel="item-part">
             <did>
-              <container type="box" label="DVD Box">10</container>
+              <container type="box" label="DVD Box [7001840493884460242]">10</container>
               <unittitle>Use Copy</unittitle>
               <physdesc>
                 <physfacet>DVD</physfacet>
@@ -329,7 +329,7 @@ Edward Young papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="otherlevel" otherlevel="item-part">
             <did>
-              <container type="box" label="DVD Box">10</container>
+              <container type="box" label="DVD Box [7001840493884460242]">10</container>
               <unittitle>Use Copy</unittitle>
               <physdesc>
                 <physfacet>DVD</physfacet>
@@ -361,7 +361,7 @@ Edward Young papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="otherlevel" otherlevel="item-part">
             <did>
-              <container type="box" label="DVD Box">10</container>
+              <container type="box" label="DVD Box [7001840493884460242]">10</container>
               <unittitle>Use Copy</unittitle>
               <physdesc>
                 <physfacet>DVD</physfacet>
@@ -392,7 +392,7 @@ Edward Young papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="otherlevel" otherlevel="item-part">
             <did>
-              <container type="box" label="DVD Box">10</container>
+              <container type="box" label="DVD Box [7001840493884460242]">10</container>
               <unittitle>Use Copy</unittitle>
               <physdesc>
                 <physfacet>DVD</physfacet>
@@ -424,7 +424,7 @@ Edward Young papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="otherlevel" otherlevel="item-part">
             <did>
-              <container type="box" label="DVD Box">10</container>
+              <container type="box" label="DVD Box [7001840493884460242]">10</container>
               <unittitle>Use Copy</unittitle>
               <physdesc>
                 <physfacet>DVD</physfacet>
@@ -455,7 +455,7 @@ Edward Young papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="otherlevel" otherlevel="item-part">
             <did>
-              <container type="box" label="DVD Box">10</container>
+              <container type="box" label="DVD Box [7001840493884460242]">10</container>
               <unittitle>Use Copy</unittitle>
               <physdesc>
                 <physfacet>DVD</physfacet>
@@ -487,7 +487,7 @@ Edward Young papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="otherlevel" otherlevel="item-part">
             <did>
-              <container type="box" label="DVD Box">10</container>
+              <container type="box" label="DVD Box [7001840493884460242]">10</container>
               <unittitle>Use Copy</unittitle>
               <physdesc>
                 <physfacet>DVD</physfacet>
@@ -518,7 +518,7 @@ Edward Young papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="otherlevel" otherlevel="item-part">
             <did>
-              <container type="box" label="DVD Box">10</container>
+              <container type="box" label="DVD Box [7001840493884460242]">10</container>
               <unittitle>Use Copy</unittitle>
               <physdesc>
                 <physfacet>DVD</physfacet>
@@ -531,7 +531,7 @@ Edward Young papers, Bentley Historical Library, University of Michigan</p>
               <physdesc>
                 <physfacet>flash</physfacet>
               </physdesc>
-              <dao href="07182-13" show="new" actuate="onrequest">
+              <dao href="07182-13" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/9901">
                 <daodesc>
                   <p>[view video]</p>
                 </daodesc>
@@ -554,7 +554,7 @@ Edward Young papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="otherlevel" otherlevel="item-part">
             <did>
-              <container type="box" label="DVD Box">10</container>
+              <container type="box" label="DVD Box [7001840493884460242]">10</container>
               <unittitle>Use Copy</unittitle>
               <physdesc>
                 <physfacet>DVD</physfacet>
@@ -585,7 +585,7 @@ Edward Young papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="otherlevel" otherlevel="item-part">
             <did>
-              <container type="box" label="DVD Box">10</container>
+              <container type="box" label="DVD Box [7001840493884460242]">10</container>
               <unittitle>Use Copy</unittitle>
               <physdesc>
                 <physfacet>DVD</physfacet>
@@ -616,7 +616,7 @@ Edward Young papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="otherlevel" otherlevel="item-part">
             <did>
-              <container type="box" label="DVD Box">10</container>
+              <container type="box" label="DVD Box [7001840493884460242]">10</container>
               <unittitle>Use Copy</unittitle>
               <physdesc>
                 <physfacet>DVD</physfacet>
@@ -647,7 +647,7 @@ Edward Young papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="otherlevel" otherlevel="item-part">
             <did>
-              <container type="box" label="DVD Box">10</container>
+              <container type="box" label="DVD Box [7001840493884460242]">10</container>
               <unittitle>Use Copy</unittitle>
               <physdesc>
                 <physfacet>DVD</physfacet>

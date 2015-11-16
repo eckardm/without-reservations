@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>James H. Cissel papers, 1934-1943</titleproper>
       <author>Finding aid created by <lb/>Lanette K. Chisnell, 1993</author>
     </titlepage>
@@ -82,19 +82,19 @@ James H. Cissel papers, Bentley Historical Library, University of Michigan</p>
       <controlaccess>
         <head>Subjects:</head>
         <persname source="lcnaf" encodinganalog="600">Cissel, James H. (James Harlan), b. 1889.</persname>
-        <subject source="lcsh" encodinganalog="650">Bridges--Michigan.</subject>
-        <subject source="lcsh" encodinganalog="650">Engineers--Michigan--Ann Arbor.</subject>
-        <geogname source="lcsh" encodinganalog="651">Mackinac Bridge (Mich.)</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6188">Bridges--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6399">Engineers--Michigan--Ann Arbor.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1374">Mackinac Bridge (Mich.)</geogname>
         <corpname source="lcnaf" encodinganalog="610">Michigan. Mackinac Straits Bridge Authority.</corpname>
-        <subject source="lcsh" encodinganalog="650">Traffic engineering--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6813">Traffic engineering--Michigan.</subject>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n80094504">University of Michigan. College of Engineering.</corpname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan--Faculty.</corpname>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Materials:</head>
-        <subject source="lctgm" encodinganalog="650">Ferries.</subject>
-        <geogname source="lcsh" encodinganalog="651">Mackinac, Straits of (Mich.)</geogname>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n88268193.html">Mackinaw City (Mich.)</geogname>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3787">Ferries.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1585">Mackinac, Straits of (Mich.)</geogname>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n88268193.html" ref="/subjects/1005">Mackinaw City (Mich.)</geogname>
       </controlaccess>
       <controlaccess>
         <head>Contributors:</head>
@@ -103,7 +103,7 @@ James H. Cissel papers, Bentley Historical Library, University of Michigan</p>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -116,7 +116,7 @@ James H. Cissel papers, Bentley Historical Library, University of Michigan</p>
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [256716341268195805]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1934/1936">1934-1936</unitdate>
             </unittitle>
@@ -124,7 +124,7 @@ James H. Cissel papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [256716341268195805]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1937">1937</unitdate>
             </unittitle>
@@ -132,7 +132,7 @@ James H. Cissel papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [256716341268195805]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1938">1938</unitdate>
             </unittitle>
@@ -140,7 +140,7 @@ James H. Cissel papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [256716341268195805]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1939">1939</unitdate>
             </unittitle>
@@ -148,7 +148,7 @@ James H. Cissel papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [256716341268195805]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1940">1940</unitdate>
             </unittitle>
@@ -164,7 +164,7 @@ James H. Cissel papers, Bentley Historical Library, University of Michigan</p>
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [256716341268195805]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1934/1935">1934-1935</unitdate>
             </unittitle>
@@ -172,7 +172,7 @@ James H. Cissel papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [256716341268195805]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1936">1936</unitdate>
             </unittitle>
@@ -183,7 +183,7 @@ James H. Cissel papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [256716341268195805]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1937">1937</unitdate>
             </unittitle>
@@ -191,7 +191,7 @@ James H. Cissel papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [256716341268195805]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1938">1938</unitdate>
             </unittitle>
@@ -199,7 +199,7 @@ James H. Cissel papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [256716341268195805]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1939">1939</unitdate>
             </unittitle>
@@ -207,7 +207,7 @@ James H. Cissel papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [256716341268195805]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1940">1940</unitdate>
             </unittitle>
@@ -223,7 +223,7 @@ James H. Cissel papers, Bentley Historical Library, University of Michigan</p>
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [256716341268195805]">1</container>
             <unittitle>Ferry Boat Operation Data for the years <unitdate type="inclusive" normal="1923/1938">1923-1938</unitdate></unittitle>
           </did>
           <odd>
@@ -232,7 +232,7 @@ James H. Cissel papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [256716341268195805]">1</container>
             <unittitle>Traffic Data of Michigan State Ferry for the years <unitdate type="inclusive" normal="1923/1943">1923-1943</unitdate></unittitle>
           </did>
         </c02>
@@ -246,7 +246,7 @@ James H. Cissel papers, Bentley Historical Library, University of Michigan</p>
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [256716341268195805]">1</container>
             <unittitle>Mackinac Straits Bridge Authority</unittitle>
           </did>
         </c02>
@@ -260,7 +260,7 @@ James H. Cissel papers, Bentley Historical Library, University of Michigan</p>
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [256716341268195805]">1</container>
             <unittitle>Comparative Studies of Cost for Three Proposed Routes (with exhibits) <unitdate type="inclusive" normal="1934">1934</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -269,19 +269,19 @@ James H. Cissel papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [256716341268195805]">1</container>
             <unittitle>"A Report Showing the Comparative Costs of Three Routes Crossing the Straits of Mackinac" by Glenn L. Alt and A.A. Jakkula <unitdate type="inclusive" normal="1934">1934</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [256716341268195805]">1</container>
             <unittitle>Studies for alternate routes and designs <unitdate type="inclusive" normal="1934">1934</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [256716341268195805]">1</container>
             <unittitle>Report of Modjeski and Masters, consulting engineers, on Mackinac Straits Bridge</unittitle>
           </did>
         </c02>
@@ -295,7 +295,7 @@ James H. Cissel papers, Bentley Historical Library, University of Michigan</p>
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [256716341268195805]">1</container>
             <unittitle>Magazine articles and theses regarding effort to build bridge</unittitle>
           </did>
         </c02>
@@ -311,7 +311,7 @@ James H. Cissel papers, Bentley Historical Library, University of Michigan</p>
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [256716341268195805]">1</container>
             <unittitle>Proposed Bridge over Straits of Mackinac</unittitle>
           </did>
         </c02>
@@ -321,13 +321,13 @@ James H. Cissel papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [256716341268195805]">1</container>
               <unittitle>Borings and Foundations</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [256716341268195805]">1</container>
               <unittitle>Proposed Bridge over Straits of Mackinac</unittitle>
             </did>
           </c03>

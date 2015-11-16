@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Peter Olaus Okkelberg papers, 1910-1950</titleproper>
       <author>Finding aid created by <lb/>Michigan Historical Collections staff</author>
     </titlepage>
@@ -88,11 +88,11 @@ Peter Olaus Okkelberg papers, Bentley Historical Library, University of Michigan
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Materials:</head>
-        <subject source="lctgm" encodinganalog="650">Laboratories.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3792">Laboratories.</subject>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan. Dept. of Zoology.</corpname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan--Students.</corpname>
-        <subject source="lctgm" encodinganalog="650">Zoology.</subject>
-        <subject source="lctgm" encodinganalog="650">Classrooms--Michigan--Ann Arbor.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3817">Zoology.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3593">Classrooms--Michigan--Ann Arbor.</subject>
       </controlaccess>
       <controlaccess>
         <head>Contributors:</head>
@@ -103,7 +103,7 @@ Peter Olaus Okkelberg papers, Bentley Historical Library, University of Michigan
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -113,7 +113,7 @@ Peter Olaus Okkelberg papers, Bentley Historical Library, University of Michigan
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8694789419312259]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1910/1931">1910-1931</unitdate>
             </unittitle>
@@ -121,7 +121,7 @@ Peter Olaus Okkelberg papers, Bentley Historical Library, University of Michigan
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [787658402320646316]">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1932/1941">1932-1941</unitdate>
             </unittitle>
@@ -129,7 +129,7 @@ Peter Olaus Okkelberg papers, Bentley Historical Library, University of Michigan
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [95848168475094838712]">3</container>
             <unittitle>
               <unitdate type="inclusive" normal="1942/1950">1942-1950</unitdate>
             </unittitle>
@@ -142,13 +142,13 @@ Peter Olaus Okkelberg papers, Bentley Historical Library, University of Michigan
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [95848168475094838712]">3</container>
             <unittitle>Biographical sketch and history of the Hesselberg family.</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [95848168475094838712]">3</container>
             <unittitle><genreform normal="Photographs">Photographs</genreform> of students working in zoology laboratories and classrooms</unittitle>
           </did>
         </c02>

@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Boyd family papers, 1761-1945</titleproper>
       <author>Finding aid created by <lb/>Michigan Historical Collections staff</author>
     </titlepage>
@@ -82,11 +82,11 @@ Boyd family papers, Bentley Historical Library, University of Michigan</p>
         <head>Subjects:</head>
         <famname source="lcnaf" encodinganalog="600">Boyd family.</famname>
         <corpname source="lcnaf" encodinganalog="610">First Presbyterian Church (Monroe, Mich.)</corpname>
-        <geogname source="lcsh" encodinganalog="651">Monroe (Mich.)</geogname>
-        <subject source="lcsh" encodinganalog="650">Women--Michigan--Monroe.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1164">Monroe (Mich.)</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6411">Women--Michigan--Monroe.</subject>
         <corpname source="lcnaf" encodinganalog="610">Presbyterian Church--Michigan--Monroe.</corpname>
-        <subject source="lcsh" encodinganalog="650">Antislavery movements--United States.</subject>
-        <subject source="lcsh" encodinganalog="650">Temperance--Michigan--Monroe.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5781">Antislavery movements--United States.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6412">Temperance--Michigan--Monroe.</subject>
         <persname source="lcnaf" encodinganalog="700">Boyd, Carrie Lucy, 1864-1949.</persname>
         <persname source="lcnaf" encodinganalog="700">Boyd, Irving Payson, 1851-1923.</persname>
         <persname source="lcnaf" encodinganalog="700">Boyd, William Augustus, 1785-1854.</persname>
@@ -102,8 +102,8 @@ Boyd family papers, Bentley Historical Library, University of Michigan</p>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Diaries.</genreform>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3150">Diaries.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -113,7 +113,7 @@ Boyd family papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [685594794197965599090]">1</container>
             <unittitle>
               <unitdate type="inclusive">Undated</unitdate>
             </unittitle>
@@ -121,7 +121,7 @@ Boyd family papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [685594794197965599090]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1832/1859">1832-1859</unitdate>
             </unittitle>
@@ -132,7 +132,7 @@ Boyd family papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [685594794197965599090]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1860/1869">1860-1869</unitdate>
             </unittitle>
@@ -140,7 +140,7 @@ Boyd family papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [685594794197965599090]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1870/1878">1870-1878</unitdate>
             </unittitle>
@@ -148,7 +148,7 @@ Boyd family papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [685594794197965599090]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1881/1884">1881-1884</unitdate>
             </unittitle>
@@ -156,7 +156,7 @@ Boyd family papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [685594794197965599090]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1885/1889">1885-1889</unitdate>
             </unittitle>
@@ -164,7 +164,7 @@ Boyd family papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [685594794197965599090]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1890/1899">1890-1899</unitdate>
             </unittitle>
@@ -172,7 +172,7 @@ Boyd family papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [685594794197965599090]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1900/1904">1900-1904</unitdate>
             </unittitle>
@@ -180,7 +180,7 @@ Boyd family papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [685594794197965599090]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1905/1910">1905-1910</unitdate>
             </unittitle>
@@ -188,7 +188,7 @@ Boyd family papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [685594794197965599090]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1912/1945">1912-1945</unitdate>
             </unittitle>
@@ -201,19 +201,19 @@ Boyd family papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [685594794197965599090]">1</container>
             <unittitle>Genealogical material</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [685594794197965599090]">1</container>
             <unittitle>Deeds and legal agreements <unitdate type="inclusive" normal="1761/1855">1761-1855</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [685594794197965599090]">1</container>
             <unittitle>Notes of William H. Boyd while a student at Rensselaer School <unitdate type="inclusive" normal="1832">1832</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -222,31 +222,31 @@ Boyd family papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [685594794197965599090]">1</container>
             <unittitle>Speeches and notes of William H. Boyd</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [685594794197965599090]">1</container>
             <unittitle>Addresses and notes on temperance by William H. Boyd</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [685594794197965599090]">1</container>
             <unittitle>History of the Presbyterian Church of Monroe by Carrie Boyd</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [685594794197965599090]">1</container>
             <unittitle>Presbyterian Church historical material</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [685594794197965599090]">1</container>
             <unittitle>Miscellaneous addresses and notes</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -255,13 +255,13 @@ Boyd family papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [685594794197965599090]">1</container>
             <unittitle><genreform normal="Photographs">Photographs</genreform>: portraits of family members and friends</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [685594794197965599090]">1</container>
             <unittitle>Business ledger and cash book</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">3 volumes</extent>
@@ -270,7 +270,7 @@ Boyd family papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [685594794197965599090]">1</container>
             <unittitle>Scrapbooks, notebooks, expense book, etc.</unittitle>
           </did>
         </c02>
@@ -282,13 +282,13 @@ Boyd family papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [685594794197965599090]">1</container>
               <unittitle>Diary of Irving Payson Boyd <unitdate type="inclusive" normal="1865">1865</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [685594794197965599090]">1</container>
               <unittitle>Diary of Carrie L. Boyd <unitdate type="inclusive" normal="1876">1876</unitdate></unittitle>
             </did>
           </c03>

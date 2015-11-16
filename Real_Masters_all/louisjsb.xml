@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Joe Louis scrapbooks and papers, 1935-1941 and 1948-1951</titleproper>
       <author>Finding aid created by <lb/>Michigan Historical Collections staff</author>
     </titlepage>
@@ -87,15 +87,15 @@ Joe Louis scrapbooks and papers, Bentley Historical Library, University of Michi
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <subject source="lcsh" encodinganalog="650">African Americans--Michigan.</subject>
-        <subject source="lcsh" encodinganalog="650">Athletics--United States.</subject>
-        <subject source="lcsh" encodinganalog="650">Boxing.</subject>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n79045539.html">Detroit (Mich.)</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5756">African Americans--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/8860">Athletics--United States.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6563">Boxing.</subject>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n79045539.html" ref="/subjects/933">Detroit (Mich.)</geogname>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n80024557">Louis, Joe, 1914-1981.</persname>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Materials:</head>
-        <subject source="lctgm" encodinganalog="650">Boxing.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4706">Boxing.</subject>
         <persname source="lcnaf" encodinganalog="600">Braddock, Jim.</persname>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n50041744">La Guardia, Fiorello H. (Fiorello Henry), 1882-1947.</persname>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n80024557">Louis, Joe, 1914-1981.</persname>
@@ -103,10 +103,10 @@ Joe Louis scrapbooks and papers, Bentley Historical Library, University of Michi
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="gmgpc" encodinganalog="655">Cartoons.</genreform>
-        <genreform source="gmgpc" encodinganalog="655">Paintings.</genreform>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
-        <genreform source="aat" encodinganalog="655">Scrapbooks.</genreform>
+        <genreform source="gmgpc" encodinganalog="655" ref="/subjects/3457">Cartoons.</genreform>
+        <genreform source="gmgpc" encodinganalog="655" ref="/subjects/3465">Paintings.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3139">Scrapbooks.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -122,73 +122,73 @@ Joe Louis scrapbooks and papers, Bentley Historical Library, University of Michi
           </did>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">1</container>
+              <container type="volume" label="Oversize Volume [2676594686905903457451]">1</container>
               <unittitle>Vol. 1, Primo Carnera</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">2</container>
+              <container type="volume" label="Oversize Volume [92294074054521125]">2</container>
               <unittitle>Vol. 2, Primo Carnera</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">3</container>
+              <container type="volume" label="Oversize Volume [1119303440931856722]">3</container>
               <unittitle>Vol. 3, King Levinsky</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">4</container>
+              <container type="volume" label="Oversize Volume [63253613475758195040]">4</container>
               <unittitle>Vol. 4, King Levinsky/Max Baer</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">5</container>
+              <container type="volume" label="Oversize Volume [8830936244495771289579]">5</container>
               <unittitle>Vol. 5, Max Baer</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">6</container>
+              <container type="volume" label="Oversize Volume [92103304443432858715]">6</container>
               <unittitle>Vol. 6, Max Baer</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">7</container>
+              <container type="volume" label="Oversize Volume [5165325241256895730]">7</container>
               <unittitle>Vol. 7, Max Baer</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">8</container>
+              <container type="volume" label="Oversize Volume [09676408291402]">8</container>
               <unittitle>Vol. 8, Max Baer</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">9</container>
+              <container type="volume" label="Oversize Volume [564553544893701052]">9</container>
               <unittitle>Vol. 9, Max Baer</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">10</container>
+              <container type="volume" label="Oversize Volume [042491240649163242]">10</container>
               <unittitle>Vol. 10, Paulino Uzcudun</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">11</container>
+              <container type="volume" label="Oversize Volume [006642489937803837]">11</container>
               <unittitle>Vol. 11, Paulino Uzcudun</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">12</container>
+              <container type="volume" label="Oversize Volume [1227468631779150]">12</container>
               <unittitle>Vol. 12, Paulino Uzcudun</unittitle>
             </did>
           </c03>
@@ -201,97 +201,97 @@ Joe Louis scrapbooks and papers, Bentley Historical Library, University of Michi
           </did>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">13</container>
+              <container type="volume" label="Oversize Volume [5883954474687653877078]">13</container>
               <unittitle>Vol. 13, Paulino Uzcudun</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">14</container>
+              <container type="volume" label="Oversize Volume [380007480479007897582]">14</container>
               <unittitle>Vol. 14, Paulino Uzcudun</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">15</container>
+              <container type="volume" label="Oversize Volume [24556894462821012189]">15</container>
               <unittitle>Vol. 15, Chas. Retzlaff</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">16</container>
+              <container type="volume" label="Oversize Volume [5823435998936065957]">16</container>
               <unittitle>Vol. 16, Chas. Retzlaff</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">17</container>
+              <container type="volume" label="Oversize Volume [8826674452238480577]">17</container>
               <unittitle>Vol. 17, Chas. Retzlaff</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">18</container>
+              <container type="volume" label="Oversize Volume [4786234002962138975615]">18</container>
               <unittitle>Vol. 18, Max Schmeling</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">19</container>
+              <container type="volume" label="Oversize Volume [0765705278949278208096167]">19</container>
               <unittitle>Vol. 19, Max Schmeling</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">20</container>
+              <container type="volume" label="Oversize Volume [88474096412447268768981]">20</container>
               <unittitle>Vol. 20, Max Schmeling</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">21</container>
+              <container type="volume" label="Oversize Volume [25030104134045038237576342]">21</container>
               <unittitle>Vol. 21, Max Schmeling</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">22</container>
+              <container type="volume" label="Oversize Volume [2162944695743993131]">22</container>
               <unittitle>Vol. 22, Max Schmeling</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">23</container>
+              <container type="volume" label="Oversize Volume [0633108074449074213715723]">23</container>
               <unittitle>Vol. 23, Max Schmeling</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">24</container>
+              <container type="volume" label="Oversize Volume [213714745537046]">24</container>
               <unittitle>Vol. 24, Max Schmeling</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">25</container>
+              <container type="volume" label="Oversize Volume [951483694081786982]">25</container>
               <unittitle>Vol. 25, Max Schmeling</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">26</container>
+              <container type="volume" label="Oversize Volume [2453104495670951841]">26</container>
               <unittitle>Vol. 26, Jack Sharkey</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">27</container>
+              <container type="volume" label="Oversize Volume [5933944449373398]">27</container>
               <unittitle>Vol. 27, Jack Sharkey</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">28</container>
+              <container type="volume" label="Oversize Volume [5139549905885407701]">28</container>
               <unittitle>Vol. 28, Al Ettore</unittitle>
             </did>
           </c03>
@@ -304,109 +304,109 @@ Joe Louis scrapbooks and papers, Bentley Historical Library, University of Michi
           </did>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">29</container>
+              <container type="volume" label="Oversize Volume [7738784433802208377]">29</container>
               <unittitle>Vol. 29, Jorge Brescia</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">30</container>
+              <container type="volume" label="Oversize Volume [6417925641352588433]">30</container>
               <unittitle>Vol. 30, Eddie Simms</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">31</container>
+              <container type="volume" label="Oversize Volume [92113949862341412]">31</container>
               <unittitle>Vol. 31, Bob Pastor</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">32</container>
+              <container type="volume" label="Oversize Volume [979263008487406389848839]">32</container>
               <unittitle>Vol. 32, Natie Brown</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">33</container>
+              <container type="volume" label="Oversize Volume [39202304648596154835995]">33</container>
               <unittitle>Vol. 33, James J. Braddock</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">34</container>
+              <container type="volume" label="Oversize Volume [151820156477491109990]">34</container>
               <unittitle>Vol. 34, James J. Braddock</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">35</container>
+              <container type="volume" label="Oversize Volume [7598988421992843]">35</container>
               <unittitle>Vol. 35, James J. Braddock</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">36</container>
+              <container type="volume" label="Oversize Volume [09176054483309557751]">36</container>
               <unittitle>Vol. 36, James J. Braddock</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">37</container>
+              <container type="volume" label="Oversize Volume [848798641865360]">37</container>
               <unittitle>Vol. 37, James J. Braddock</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">38</container>
+              <container type="volume" label="Oversize Volume [3635649604931461]">38</container>
               <unittitle>Vol. 38, James J. Braddock</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">39</container>
+              <container type="volume" label="Oversize Volume [832957367147856804576]">39</container>
               <unittitle>Vol. 39, James J. Braddock</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">40</container>
+              <container type="volume" label="Oversize Volume [2474448257245307191]">40</container>
               <unittitle>Vol. 40, James J. Braddock</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">41</container>
+              <container type="volume" label="Oversize Volume [3608041198427956462511]">41</container>
               <unittitle>Vol. 41, James J. Braddock</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">42</container>
+              <container type="volume" label="Oversize Volume [31981534542612729]">42</container>
               <unittitle>Vol. 42, James J. Braddock</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">43</container>
+              <container type="volume" label="Oversize Volume [6032014541220274]">43</container>
               <unittitle>Vol. 43, Tommy Farr</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">44</container>
+              <container type="volume" label="Oversize Volume [726639431443068064983]">44</container>
               <unittitle>Vol. 44, Tommy Farr</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">45</container>
+              <container type="volume" label="Oversize Volume [1523931461913294223]">45</container>
               <unittitle>Vol. 45, Tommy Farr</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">46</container>
+              <container type="volume" label="Oversize Volume [7616278470828037796]">46</container>
               <unittitle>Vol. 46, Tommy Farr</unittitle>
             </did>
           </c03>
@@ -419,13 +419,13 @@ Joe Louis scrapbooks and papers, Bentley Historical Library, University of Michi
           </did>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">47</container>
+              <container type="volume" label="Oversize Volume [53182409744146863866990]">47</container>
               <unittitle>Vol. 47, Tommy Farr</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">48</container>
+              <container type="volume" label="Oversize Volume [6720870406818966797958879]">48</container>
               <unittitle>Vol. 48</unittitle>
             </did>
             <odd>
@@ -434,55 +434,55 @@ Joe Louis scrapbooks and papers, Bentley Historical Library, University of Michi
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">49</container>
+              <container type="volume" label="Oversize Volume [923311664383457220756]">49</container>
               <unittitle>Vol. 49, Nathan Mann</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">50</container>
+              <container type="volume" label="Oversize Volume [40907024043580304945]">50</container>
               <unittitle>Vol. 50, Harry Thomas</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">51</container>
+              <container type="volume" label="Oversize Volume [136881408943946917]">51</container>
               <unittitle>Vol. 51, Max Schmeling</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">52</container>
+              <container type="volume" label="Oversize Volume [52271342288693879]">52</container>
               <unittitle>Vol. 52, Max Schmeling</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">53</container>
+              <container type="volume" label="Oversize Volume [6050865049821355103]">53</container>
               <unittitle>Vol. 53, Max Schmeling</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">54</container>
+              <container type="volume" label="Oversize Volume [355614928342380601824]">54</container>
               <unittitle>Vol. 54, Max Schmeling</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">55</container>
+              <container type="volume" label="Oversize Volume [69779574875294442225]">55</container>
               <unittitle>Vol. 55, Max Schmeling</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">56</container>
+              <container type="volume" label="Oversize Volume [33750236840598228008259626]">56</container>
               <unittitle>Vol. 56, Max Schmeling</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">57</container>
+              <container type="volume" label="Oversize Volume [565753154447985607290]">57</container>
               <unittitle>Vol. 57, Max Schmeling</unittitle>
             </did>
           </c03>
@@ -495,73 +495,73 @@ Joe Louis scrapbooks and papers, Bentley Historical Library, University of Michi
           </did>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">58</container>
+              <container type="volume" label="Oversize Volume [8390826478620329915523]">58</container>
               <unittitle>Vol. 58, Max Schmeling</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">59</container>
+              <container type="volume" label="Oversize Volume [45813702245504297845]">59</container>
               <unittitle>Vol. 59, John Henry Lewis</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">60</container>
+              <container type="volume" label="Oversize Volume [83980847472751208]">60</container>
               <unittitle>Vol. 60, John Henry Lewis</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">61</container>
+              <container type="volume" label="Oversize Volume [5165963324017883761]">61</container>
               <unittitle>Vol. 61, John Henry Lewis</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">62</container>
+              <container type="volume" label="Oversize Volume [5051868549852061]">62</container>
               <unittitle>Vol. 62, John Henry Lewis</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">63</container>
+              <container type="volume" label="Oversize Volume [6724738476961673732278]">63</container>
               <unittitle>Vol. 63, Jack Roper</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">64</container>
+              <container type="volume" label="Oversize Volume [811329641976915276353]">64</container>
               <unittitle>Vol. 64, Jack Roper</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">65</container>
+              <container type="volume" label="Oversize Volume [8004084534880379422]">65</container>
               <unittitle>Vol. 65, Tony Galento</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">66</container>
+              <container type="volume" label="Oversize Volume [653011629944987654667]">66</container>
               <unittitle>Vol. 66, Tony Galento</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">67</container>
+              <container type="volume" label="Oversize Volume [2497844424459970718363]">67</container>
               <unittitle>Vol. 67, Tony Galento</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">68</container>
+              <container type="volume" label="Oversize Volume [8890223049072112239]">68</container>
               <unittitle>Vol. 68, Tony Galento</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">69</container>
+              <container type="volume" label="Oversize Volume [967722444136624955]">69</container>
               <unittitle>Vol. 69, Tony Galento</unittitle>
             </did>
           </c03>
@@ -574,73 +574,73 @@ Joe Louis scrapbooks and papers, Bentley Historical Library, University of Michi
           </did>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">70</container>
+              <container type="volume" label="Oversize Volume [6262419401355449319]">70</container>
               <unittitle>Vol. 70, Bob Pastor</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">71</container>
+              <container type="volume" label="Oversize Volume [360306498960042]">71</container>
               <unittitle>Vol. 71, Bob Pastor</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">72</container>
+              <container type="volume" label="Oversize Volume [4858042456849772632571]">72</container>
               <unittitle>Vol. 72, Arturo Godoy</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">73</container>
+              <container type="volume" label="Oversize Volume [462197949093760088]">73</container>
               <unittitle>Vol. 73, Arturo Godoy</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">74</container>
+              <container type="volume" label="Oversize Volume [157900357451441735349]">74</container>
               <unittitle>Vol. 74, Arturo Godoy</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">75</container>
+              <container type="volume" label="Oversize Volume [72470375440648977772]">75</container>
               <unittitle>Vol. 75, Johnny Paycheck</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">76</container>
+              <container type="volume" label="Oversize Volume [9275114089045584600]">76</container>
               <unittitle>Vol. 76, Johnny Paycheck</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">77</container>
+              <container type="volume" label="Oversize Volume [780322140853621514895]">77</container>
               <unittitle>Vol. 77, Arturo Godoy</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">78</container>
+              <container type="volume" label="Oversize Volume [693252424977988802964]">78</container>
               <unittitle>Vol. 78, Arturo Godoy</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">79</container>
+              <container type="volume" label="Oversize Volume [809004344504339759]">79</container>
               <unittitle>Vol. 79, Arturo Godoy</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">80</container>
+              <container type="volume" label="Oversize Volume [653492447689285818678]">80</container>
               <unittitle>Vol. 80, Arturo Godoy</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">81</container>
+              <container type="volume" label="Oversize Volume [4082459348314]">81</container>
               <unittitle>Vol. 81, Arturo Godoy</unittitle>
             </did>
           </c03>
@@ -653,79 +653,79 @@ Joe Louis scrapbooks and papers, Bentley Historical Library, University of Michi
           </did>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">82</container>
+              <container type="volume" label="Oversize Volume [17893704421695366464583559]">82</container>
               <unittitle>Vol. 82, Al McCoy</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">83</container>
+              <container type="volume" label="Oversize Volume [804968648506540075732402]">83</container>
               <unittitle>Vol. 83, Al McCoy</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">84</container>
+              <container type="volume" label="Oversize Volume [536123258544095673661021]">84</container>
               <unittitle>Vol. 84, Red Burman</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">85</container>
+              <container type="volume" label="Oversize Volume [227194269653837950]">85</container>
               <unittitle>Vol. 85, Gus Dorazio</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">86</container>
+              <container type="volume" label="Oversize Volume [04035197441097705658]">86</container>
               <unittitle>Vol. 86, Abe Simon</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">87</container>
+              <container type="volume" label="Oversize Volume [8800038430875045612290]">87</container>
               <unittitle>Vol. 87, Tony Musto</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">88</container>
+              <container type="volume" label="Oversize Volume [3892160894595323305133]">88</container>
               <unittitle>Vol. 88, Buddy Baer</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">89</container>
+              <container type="volume" label="Oversize Volume [7131351524885338346284]">89</container>
               <unittitle>Vol. 89, Buddy Baer</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">90</container>
+              <container type="volume" label="Oversize Volume [78581042484396614]">90</container>
               <unittitle>Vol. 90, Billy Conn</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">91</container>
+              <container type="volume" label="Oversize Volume [5180522945395996669518]">91</container>
               <unittitle>Vol. 91, Billy Conn</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">92</container>
+              <container type="volume" label="Oversize Volume [96944042504816209]">92</container>
               <unittitle>Vol. 92, Lou Nova</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">93</container>
+              <container type="volume" label="Oversize Volume [0208714209853437208]">93</container>
               <unittitle>Vol. 93, Lou Nova</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">94</container>
+              <container type="volume" label="Oversize Volume [218932043482274758]">94</container>
               <unittitle>Vol. 94, Lou Nova</unittitle>
             </did>
           </c03>
@@ -737,7 +737,7 @@ Joe Louis scrapbooks and papers, Bentley Historical Library, University of Michi
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [86238854446731444866505]">1</container>
             <unittitle>Loose clippings</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">5 folders</extent>
@@ -746,7 +746,7 @@ Joe Louis scrapbooks and papers, Bentley Historical Library, University of Michi
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [86238854446731444866505]">1</container>
             <unittitle><genreform normal="Photographs">Photographs</genreform> and other visual materials</unittitle>
           </did>
           <odd>

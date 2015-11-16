@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Albert D. English papers, 1839-1957</titleproper>
       <author>Finding aid created by <lb/>Randall Jimerson, 1975</author>
     </titlepage>
@@ -79,25 +79,25 @@ Albert D. English papers, Bentley Historical Library, University of Michigan</p>
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <subject source="lcsh" encodinganalog="650">Agriculture--Michigan--Washtenaw County.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6650">Agriculture--Michigan--Washtenaw County.</subject>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n83163731">Democratic Party (Mich.)</corpname>
         <corpname source="lcnaf" encodinganalog="610">Free Will Baptists (1780?-1911)--Michigan--Manchester.</corpname>
-        <subject source="lcsh" encodinganalog="650">Freedmen--West Virginia.</subject>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n85149703.html">Manchester (Mich.)</geogname>
-        <geogname source="lcsh" encodinganalog="651">Manchester (Mich. : Township)</geogname>
-        <subject source="lcsh" encodinganalog="650">Roads--Michigan--Manchester (Township)</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7423">Freedmen--West Virginia.</subject>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n85149703.html" ref="/subjects/1154">Manchester (Mich.)</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1770">Manchester (Mich. : Township)</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7424">Roads--Michigan--Manchester (Township)</subject>
         <corpname source="lcnaf" encodinganalog="610">Southern Washtenaw Farmers' Club.</corpname>
-        <geogname source="lcsh" encodinganalog="651">Washtenaw County (Mich.)</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/847">Washtenaw County (Mich.)</geogname>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Materials:</head>
-        <geogname source="lctgm" encodinganalog="651">India--Missions.</geogname>
-        <subject source="lctgm" encodinganalog="650">Missionaries--India.</subject>
-        <subject source="lctgm" encodinganalog="650">Missions--India.</subject>
+        <geogname source="lctgm" encodinganalog="651" ref="/subjects/286">India--Missions.</geogname>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3895">Missionaries--India.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4263">Missions--India.</subject>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -107,7 +107,7 @@ Albert D. English papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [633984249828635317822]">1</container>
             <unittitle>Miscellaneous</unittitle>
           </did>
         </c02>
@@ -121,7 +121,7 @@ Albert D. English papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [633984249828635317822]">1</container>
             <unittitle>
               <unitdate type="inclusive">Undated</unitdate>
             </unittitle>
@@ -129,7 +129,7 @@ Albert D. English papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [633984249828635317822]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1844">1844</unitdate>
               <unitdate type="inclusive" normal="1873/1875">1873-1875</unitdate>
@@ -138,7 +138,7 @@ Albert D. English papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [633984249828635317822]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1886/1887">1886-1887</unitdate>
             </unittitle>
@@ -146,7 +146,7 @@ Albert D. English papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [633984249828635317822]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1888">1888</unitdate>
             </unittitle>
@@ -154,7 +154,7 @@ Albert D. English papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [633984249828635317822]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1889">1889</unitdate>
             </unittitle>
@@ -162,7 +162,7 @@ Albert D. English papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [633984249828635317822]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1890">1890</unitdate>
             </unittitle>
@@ -170,7 +170,7 @@ Albert D. English papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [633984249828635317822]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1891">1891</unitdate>
             </unittitle>
@@ -178,7 +178,7 @@ Albert D. English papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [633984249828635317822]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1892">1892</unitdate>
             </unittitle>
@@ -186,7 +186,7 @@ Albert D. English papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [633984249828635317822]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1893">1893</unitdate>
             </unittitle>
@@ -194,7 +194,7 @@ Albert D. English papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [633984249828635317822]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1894">1894</unitdate>
             </unittitle>
@@ -202,7 +202,7 @@ Albert D. English papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [633984249828635317822]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1895">1895</unitdate>
             </unittitle>
@@ -210,7 +210,7 @@ Albert D. English papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [633984249828635317822]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1896">1896</unitdate>
             </unittitle>
@@ -218,7 +218,7 @@ Albert D. English papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [633984249828635317822]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1897">1897</unitdate>
             </unittitle>
@@ -226,7 +226,7 @@ Albert D. English papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [633984249828635317822]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1898">1898</unitdate>
             </unittitle>
@@ -234,7 +234,7 @@ Albert D. English papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [633984249828635317822]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1899">1899</unitdate>
             </unittitle>
@@ -242,7 +242,7 @@ Albert D. English papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [633984249828635317822]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1900">1900</unitdate>
             </unittitle>
@@ -250,7 +250,7 @@ Albert D. English papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [633984249828635317822]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1901">1901</unitdate>
             </unittitle>
@@ -258,13 +258,13 @@ Albert D. English papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [633984249828635317822]">1</container>
             <unittitle><unitdate type="inclusive" normal="1901-02-05">February 5, 1901</unitdate> (letter from former slave)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [633984249828635317822]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1902">1902</unitdate>
             </unittitle>
@@ -272,7 +272,7 @@ Albert D. English papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [633984249828635317822]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1903">1903</unitdate>
             </unittitle>
@@ -280,7 +280,7 @@ Albert D. English papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [633984249828635317822]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1904">1904</unitdate>
             </unittitle>
@@ -288,7 +288,7 @@ Albert D. English papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [633984249828635317822]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1905">1905</unitdate>
             </unittitle>
@@ -296,7 +296,7 @@ Albert D. English papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [633984249828635317822]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1906">1906</unitdate>
             </unittitle>
@@ -304,7 +304,7 @@ Albert D. English papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [633984249828635317822]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1907">1907</unitdate>
             </unittitle>
@@ -312,7 +312,7 @@ Albert D. English papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [633984249828635317822]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1908">1908</unitdate>
             </unittitle>
@@ -320,7 +320,7 @@ Albert D. English papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [633984249828635317822]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1909">1909</unitdate>
             </unittitle>
@@ -328,7 +328,7 @@ Albert D. English papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [633984249828635317822]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1910">1910</unitdate>
             </unittitle>
@@ -336,7 +336,7 @@ Albert D. English papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [633984249828635317822]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1911">1911</unitdate>
             </unittitle>
@@ -344,7 +344,7 @@ Albert D. English papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [633984249828635317822]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1912">1912</unitdate>
             </unittitle>
@@ -352,7 +352,7 @@ Albert D. English papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [633984249828635317822]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1913/1914">1913-1914</unitdate>
             </unittitle>
@@ -360,7 +360,7 @@ Albert D. English papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [633984249828635317822]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1915/1920">1915-1920</unitdate>
               <unitdate type="inclusive" normal="1948">1948</unitdate>
@@ -377,25 +377,25 @@ Albert D. English papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [633984249828635317822]">1</container>
             <unittitle>Church records and printed material <unitdate type="inclusive" normal="1885/1912" certainty="approximate">circa 1885-1912</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [633984249828635317822]">1</container>
             <unittitle>Committee reports <unitdate type="inclusive" normal="1885/1910" certainty="approximate">circa 1885-1910</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [633984249828635317822]">1</container>
             <unittitle>Sunday school and young people's groups, materials <unitdate type="inclusive" normal="1885/1910" certainty="approximate">circa 1885-1910</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [633984249828635317822]">1</container>
             <unittitle>Essays on church and religious concerns <unitdate type="inclusive" normal="1886/1910" certainty="approximate">1886-circa 1910</unitdate></unittitle>
           </did>
         </c02>
@@ -406,37 +406,37 @@ Albert D. English papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [633984249828635317822]">1</container>
             <unittitle>Manchester Union school papers <unitdate type="inclusive" normal="1881/1906">1881-1906</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [633984249828635317822]">1</container>
             <unittitle>Southern Washtenaw Farmers' Club materials, and papers on agriculture <unitdate type="inclusive" normal="1888/1905" certainty="approximate">circa 1888-1905</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [633984249828635317822]">1</container>
             <unittitle>Manchester Overseer of Highways papers <unitdate type="inclusive" normal="1907/1908">1907-1908</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [633984249828635317822]">1</container>
             <unittitle>Essays- <unitdate type="inclusive" normal="1885/1910" certainty="approximate">circa 1885-1910</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [633984249828635317822]">1</container>
             <unittitle>Newspapers Writings and Poems <unitdate type="inclusive" normal="1885/1910" certainty="approximate">circa 1885-1910</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [633984249828635317822]">1</container>
             <unittitle>Documents</unittitle>
             <unitdate type="inclusive" normal="1836">1836</unitdate>
             <unitdate type="inclusive" normal="1901/1934">1901-1934</unitdate>
@@ -444,13 +444,13 @@ Albert D. English papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [633984249828635317822]">1</container>
             <unittitle>Miscellaneous papers</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [633984249828635317822]">1</container>
             <unittitle>Postal cards</unittitle>
             <unitdate type="inclusive" normal="1887/1913">1887-1913</unitdate>
             <unitdate type="inclusive" normal="1921">1921</unitdate>
@@ -460,25 +460,25 @@ Albert D. English papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [633984249828635317822]">1</container>
             <unittitle>Scrapbook of Miss Lucy English <unitdate type="inclusive" normal="1885/1890">1885-1890</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [633984249828635317822]">1</container>
             <unittitle>Scrapbook containing newspaper clippings concerning Southern Washtenaw Farmers' Club and Manchester local events <unitdate type="inclusive" normal="1887/1893">1887-1893</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [633984249828635317822]">1</container>
             <unittitle>Reports of Overseer of Highways, Manchester Township <unitdate type="inclusive" normal="1903/1907">1903-1907</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [633984249828635317822]">1</container>
             <unittitle><genreform normal="Photographs">Photographs</genreform> relating to American missionary work in India by members of the English family</unittitle>
           </did>
         </c02>
@@ -489,7 +489,7 @@ Albert D. English papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [1454674079694247]">2</container>
             <unittitle>Ready Reference Books</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">18 volumes</extent>
@@ -498,43 +498,43 @@ Albert D. English papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [1454674079694247]">2</container>
             <unittitle>Account book of Francis Baldwin <unitdate type="inclusive" normal="1839/1846">1839-1846</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [1454674079694247]">2</container>
             <unittitle>Account book of Francis Baldwin <unitdate type="inclusive" normal="1849/1893">1849-1893</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [1454674079694247]">2</container>
             <unittitle>Account book of Benjamin G. English <unitdate type="inclusive" normal="1858/1872">1858-1872</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [1454674079694247]">2</container>
             <unittitle>Account book of Albert D. English <unitdate type="inclusive" normal="1887/1902">1887-1902</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [1454674079694247]">2</container>
             <unittitle>Account book of Albert D. English <unitdate type="inclusive" normal="1900/1947">1900-1947</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [1454674079694247]">2</container>
             <unittitle>Account book of John C. Mahrle <unitdate type="inclusive" normal="1881/1887">1881-1887</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [1454674079694247]">2</container>
             <unittitle>Assessor's Book, Manchester School District no. 8</unittitle>
             <unitdate type="inclusive" normal="1871/1877">1871-1877</unitdate>
             <unitdate type="inclusive" normal="1887/1934">1887-1934</unitdate>
@@ -542,13 +542,13 @@ Albert D. English papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [1454674079694247]">2</container>
             <unittitle>River Raisin Women's Missionary Society Treasurer's Book <unitdate type="inclusive" normal="1884/1896">1884-1896</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [1454674079694247]">2</container>
             <unittitle>Composition Books</unittitle>
             <unitdate type="inclusive">undated</unitdate>
             <unitdate type="inclusive" normal="1886">1886</unitdate>
@@ -559,13 +559,13 @@ Albert D. English papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [1454674079694247]">2</container>
             <unittitle>Journal containing lecture notes on metaphysics</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [1454674079694247]">2</container>
             <unittitle>Personal Diary of Lucy English <unitdate type="inclusive" normal="1875">1875</unitdate></unittitle>
           </did>
         </c02>

@@ -30,7 +30,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding Aid for <lb/>Raymond J. Smit Papers, <date type="inclusive">1960-1975</date></titleproper>
       <author>Finding aid prepared by: <lb/>Michigan Historical Collections staff</author>
     </titlepage>
@@ -83,39 +83,39 @@
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <geogname source="lcsh" encodinganalog="651">Ann Arbor (Mich.)--Politics and government.</geogname>
-        <subject source="lcsh" encodinganalog="650">Elections--Michigan--1968.</subject>
-        <subject source="lcsh" encodinganalog="650">Elections--Michigan--1970.</subject>
-        <subject source="lcsh" encodinganalog="650">Elections--Michigan--1972.</subject>
-        <subject source="lcsh" encodinganalog="650">Environmental protection--Michigan.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/857">Ann Arbor (Mich.)--Politics and government.</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7194">Elections--Michigan--1968.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7195">Elections--Michigan--1970.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6884">Elections--Michigan--1972.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6628">Environmental protection--Michigan.</subject>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n79059059">Michigan. Legislature.</corpname>
-        <geogname source="lcsh" encodinganalog="651">Michigan--Politics and government--1951-</geogname>
-        <geogname source="local" encodinganalog="691">Michigan--Politics and government--1961-1970.</geogname>
-        <geogname source="local" encodinganalog="691">Michigan--Politics and government--1971-1980.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/910">Michigan--Politics and government--1951-</geogname>
+        <geogname source="local" encodinganalog="691" ref="/subjects/810">Michigan--Politics and government--1961-1970.</geogname>
+        <geogname source="local" encodinganalog="691" ref="/subjects/801">Michigan--Politics and government--1971-1980.</geogname>
         <corpname source="lcnaf" encodinganalog="610">Republican Party (Mich.)</corpname>
         <persname source="lcnaf" encodinganalog="600">Smit, Raymond J., 1928-</persname>
-        <geogname source="lcsh" encodinganalog="651">Washtenaw County (Mich.)--Politics and government.</geogname>
-        <subject source="lcsh" encodinganalog="650">Water.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/2034">Washtenaw County (Mich.)--Politics and government.</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7094">Water.</subject>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Material:</head>
-        <subject source="lctgm" encodinganalog="650">Cement industries--Michigan--Detroit.</subject>
-        <subject source="lctgm" encodinganalog="650">Detroit (Mich.)--Cement industries.</subject>
-        <geogname source="lctgm" encodinganalog="651">Detroit (Mich.)--Industrial buildings.</geogname>
-        <subject source="lctgm" encodinganalog="650">Industrial buildings--Michigan--Detroit.</subject>
-        <subject source="lctgm" encodinganalog="650">Interiors.</subject>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n82062804.html">Madison Heights (Mich.)</geogname>
-        <geogname source="lctgm" encodinganalog="651">Madison Heights (Mich.)--Waterworks.</geogname>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/5337">Cement industries--Michigan--Detroit.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/5338">Detroit (Mich.)--Cement industries.</subject>
+        <geogname source="lctgm" encodinganalog="651" ref="/subjects/680">Detroit (Mich.)--Industrial buildings.</geogname>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/5339">Industrial buildings--Michigan--Detroit.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3689">Interiors.</subject>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n82062804.html" ref="/subjects/2259">Madison Heights (Mich.)</geogname>
+        <geogname source="lctgm" encodinganalog="651" ref="/subjects/681">Madison Heights (Mich.)--Waterworks.</geogname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n79059059">Michigan. Legislature.</corpname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n94088046">Peerless Cement Company (Detroit, Mich.)</corpname>
-        <subject source="lctgm" encodinganalog="650">Political elections.</subject>
-        <geogname source="lcsh" encodinganalog="651">Red Run Drain (Mich.)</geogname>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4117">Political elections.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/2822">Red Run Drain (Mich.)</geogname>
         <persname source="lcnaf" encodinganalog="600">Smit, Raymond J., 1928-</persname>
-        <subject source="lctgm" encodinganalog="650">Waterworks--Michigan--Madison Heights.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/5340">Waterworks--Michigan--Madison Heights.</subject>
       </controlaccess>
       <controlaccess>
         <head>Genre/Form:</head>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -160,7 +160,7 @@
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [2045876428965046249]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1967">1967</unitdate>
             </unittitle>
@@ -168,7 +168,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [5553043227101486]">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1967">1967</unitdate>
             </unittitle>
@@ -176,7 +176,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [5553043227101486]">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1968">1968</unitdate>
             </unittitle>
@@ -184,7 +184,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [02850191584997744694921]">3</container>
             <unittitle>
               <unitdate type="inclusive" normal="1968">1968</unitdate>
             </unittitle>
@@ -192,127 +192,127 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [02850191584997744694921]">3</container>
             <unittitle><unitdate type="inclusive" normal="1969">1969</unitdate> (numbered files, 7-9)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [3304846499529798]">4</container>
             <unittitle><unitdate type="inclusive" normal="1969">1969</unitdate> (numbered files, 9-14)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [711598044259618075]">5</container>
             <unittitle><unitdate type="inclusive" normal="1969">1969</unitdate> (numbered files, 14-25)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [4666405434098628302471]">6</container>
             <unittitle><unitdate type="inclusive" normal="1969">1969</unitdate> (numbered files, 26-29)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [4666405434098628302471]">6</container>
             <unittitle><unitdate type="inclusive" normal="1970">1970</unitdate> (numbered files, 3-9)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">7</container>
+            <container type="box" label="Box [942383924573875021191]">7</container>
             <unittitle><unitdate type="inclusive" normal="1970">1970</unitdate> (numbered files, 9-18)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">8</container>
+            <container type="box" label="Box [9203354099391124166]">8</container>
             <unittitle><unitdate type="inclusive" normal="1970">1970</unitdate> (numbered files, 18-28)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">8</container>
+            <container type="box" label="Box [9203354099391124166]">8</container>
             <unittitle><unitdate type="inclusive" normal="1971/1972">1971-1972</unitdate> (numbered files, 2-9)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">9</container>
+            <container type="box" label="Box [2433804092835670]">9</container>
             <unittitle><unitdate type="inclusive" normal="1971/1972">1971-1972</unitdate> (numbered files, 9-15)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">10</container>
+            <container type="box" label="Box [256635480844332105699]">10</container>
             <unittitle><unitdate type="inclusive" normal="1971/1972">1971-1972</unitdate> (numbered files, 16-26)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">10</container>
+            <container type="box" label="Box [256635480844332105699]">10</container>
             <unittitle><unitdate type="inclusive" normal="1971/1972">1971-1972</unitdate> (bills file)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">11</container>
+            <container type="box" label="Box [7089231672432305767768]">11</container>
             <unittitle><unitdate type="inclusive" normal="1971/1972">1971-1972</unitdate> (bills file)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">12</container>
+            <container type="box" label="Box [64591204475688405977492]">12</container>
             <unittitle><unitdate type="inclusive" normal="1971/1972">1971-1972</unitdate> (bills file)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">12</container>
+            <container type="box" label="Box [64591204475688405977492]">12</container>
             <unittitle><unitdate type="inclusive" normal="1973/1974">1973-1974</unitdate> Committee on Conservation, Environment, and Recreation</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">12</container>
+            <container type="box" label="Box [64591204475688405977492]">12</container>
             <unittitle><unitdate type="inclusive" normal="1973/1974">1973-1974</unitdate> Committee to Study Northwestern Highway Extension</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">12</container>
+            <container type="box" label="Box [64591204475688405977492]">12</container>
             <unittitle><unitdate type="inclusive" normal="1973/1974">1973-1974</unitdate> (numbered files, 1-7)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">13</container>
+            <container type="box" label="Box [2186614193134397197]">13</container>
             <unittitle><unitdate type="inclusive" normal="1973/1974">1973-1974</unitdate> (numbered files, 8-14)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">14</container>
+            <container type="box" label="Box [4223714981485767064]">14</container>
             <unittitle><unitdate type="inclusive" normal="1973/1974">1973-1974</unitdate> (numbered files, 14-23)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">15</container>
+            <container type="box" label="Box [5936364489651731671]">15</container>
             <unittitle><unitdate type="inclusive" normal="1973/1974">1973-1974</unitdate> (numbered files, 24-28)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">15</container>
+            <container type="box" label="Box [5936364489651731671]">15</container>
             <unittitle><unitdate type="inclusive" normal="1973/1974">1973-1974</unitdate> (bills file)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">16</container>
+            <container type="box" label="Box [1604855458881746150]">16</container>
             <unittitle><unitdate type="inclusive" normal="1973/1974">1973-1974</unitdate> (bills file)</unittitle>
           </did>
         </c02>
@@ -326,7 +326,7 @@
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">16</container>
+            <container type="box" label="Box [1604855458881746150]">16</container>
             <unittitle>Biographical Sketches and news clippings</unittitle>
           </did>
         </c02>
@@ -344,19 +344,19 @@
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">16</container>
+              <container type="box" label="Box [1604855458881746150]">16</container>
               <unittitle>City Hall Bond Issue <unitdate type="inclusive" normal="1960">1960</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">16</container>
+              <container type="box" label="Box [1604855458881746150]">16</container>
               <unittitle>Civil Rights and Fair Housing Laws <unitdate type="inclusive" normal="1963">1963</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">16</container>
+              <container type="box" label="Box [1604855458881746150]">16</container>
               <unittitle>Lakewood Street Improvements <unitdate type="inclusive" normal="1960">1960</unitdate></unittitle>
             </did>
           </c03>
@@ -370,7 +370,7 @@
               </did>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">16</container>
+                  <container type="box" label="Box [1604855458881746150]">16</container>
                   <unittitle>
                     <unitdate type="inclusive" normal="1960">Spring 1960</unitdate>
                   </unittitle>
@@ -378,7 +378,7 @@
               </c05>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">16</container>
+                  <container type="box" label="Box [1604855458881746150]">16</container>
                   <unittitle>
                     <unitdate type="inclusive" normal="1960">Fall 1960</unitdate>
                   </unittitle>
@@ -386,7 +386,7 @@
               </c05>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">16</container>
+                  <container type="box" label="Box [1604855458881746150]">16</container>
                   <unittitle>
                     <unitdate type="inclusive" normal="1961">Spring 1961</unitdate>
                   </unittitle>
@@ -394,7 +394,7 @@
               </c05>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">16</container>
+                  <container type="box" label="Box [1604855458881746150]">16</container>
                   <unittitle>
                     <unitdate type="inclusive" normal="1962">Spring 1962</unitdate>
                   </unittitle>
@@ -402,7 +402,7 @@
               </c05>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">16</container>
+                  <container type="box" label="Box [1604855458881746150]">16</container>
                   <unittitle>
                     <unitdate type="inclusive" normal="1962">Fall 1962</unitdate>
                   </unittitle>
@@ -410,7 +410,7 @@
               </c05>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">17</container>
+                  <container type="box" label="Box [8147974456793115620995]">17</container>
                   <unittitle>
                     <unitdate type="inclusive" normal="1963">Spring 1963</unitdate>
                   </unittitle>
@@ -421,7 +421,7 @@
               </c05>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">17</container>
+                  <container type="box" label="Box [8147974456793115620995]">17</container>
                   <unittitle>
                     <unitdate type="inclusive" normal="1964">Spring 1964</unitdate>
                   </unittitle>
@@ -432,7 +432,7 @@
               </c05>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">17</container>
+                  <container type="box" label="Box [8147974456793115620995]">17</container>
                   <unittitle>
                     <unitdate type="inclusive" normal="1964">Fall 1964</unitdate>
                   </unittitle>
@@ -444,25 +444,25 @@
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">17</container>
+                <container type="box" label="Box [8147974456793115620995]">17</container>
                 <unittitle>Finances <unitdate type="inclusive" normal="1961/1962">1961-1962</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">17</container>
+                <container type="box" label="Box [8147974456793115620995]">17</container>
                 <unittitle>Platforms <unitdate type="inclusive" normal="1961/1963">1961-1963</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">17</container>
+                <container type="box" label="Box [8147974456793115620995]">17</container>
                 <unittitle>Social Activities <unitdate type="inclusive" normal="1962/1963">1962-1963</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">17</container>
+                <container type="box" label="Box [8147974456793115620995]">17</container>
                 <unittitle>Structure/Organization <unitdate type="inclusive" normal="1962">1962</unitdate></unittitle>
               </did>
             </c04>
@@ -479,7 +479,7 @@
               </did>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">17</container>
+                  <container type="box" label="Box [8147974456793115620995]">17</container>
                   <unittitle>
                     <unitdate type="inclusive" normal="1964-03">March 1964</unitdate>
                   </unittitle>
@@ -487,7 +487,7 @@
               </c05>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">17</container>
+                  <container type="box" label="Box [8147974456793115620995]">17</container>
                   <unittitle>
                     <unitdate type="inclusive" normal="1964-09">September 1964</unitdate>
                   </unittitle>
@@ -496,20 +496,20 @@
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">17</container>
+                <container type="box" label="Box [8147974456793115620995]">17</container>
                 <unittitle>Papers (general) <unitdate type="inclusive" normal="1962/1965">1962-1965</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">17</container>
+                <container type="box" label="Box [8147974456793115620995]">17</container>
                 <unittitle>Papers (general) <unitdate type="inclusive" normal="1974">1974</unitdate></unittitle>
               </did>
             </c04>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">17</container>
+              <container type="box" label="Box [8147974456793115620995]">17</container>
               <unittitle>School Board <unitdate type="inclusive" normal="1963/1964">1963-1964</unitdate></unittitle>
             </did>
           </c03>
@@ -520,31 +520,31 @@
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">17</container>
+              <container type="box" label="Box [8147974456793115620995]">17</container>
               <unittitle>Citizens for Michigan <unitdate type="inclusive" normal="1961">1961</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">17</container>
+              <container type="box" label="Box [8147974456793115620995]">17</container>
               <unittitle>Correspondence <unitdate type="inclusive" normal="1971/1972">1971-1972</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">17</container>
+              <container type="box" label="Box [8147974456793115620995]">17</container>
               <unittitle>Correspondence <unitdate type="inclusive" normal="1973/1974">1973-1974</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">17</container>
+              <container type="box" label="Box [8147974456793115620995]">17</container>
               <unittitle>Environmental Protection Agency <unitdate type="inclusive" normal="1973">1973</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">17</container>
+              <container type="box" label="Box [8147974456793115620995]">17</container>
               <unittitle>Great Lakes Shoreland Conference <unitdate type="inclusive" normal="1974">1974</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -553,7 +553,7 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">17</container>
+              <container type="box" label="Box [8147974456793115620995]">17</container>
               <unittitle>Griffin, Robert P. (Senate Campaign Committee) <unitdate type="inclusive" normal="1972">1972</unitdate></unittitle>
             </did>
           </c03>
@@ -571,31 +571,31 @@
                 </did>
                 <c06 level="file">
                   <did>
-                    <container type="box" label="Box">17</container>
+                    <container type="box" label="Box [8147974456793115620995]">17</container>
                     <unittitle>Announcement</unittitle>
                   </did>
                 </c06>
                 <c06 level="file">
                   <did>
-                    <container type="box" label="Box">17</container>
+                    <container type="box" label="Box [8147974456793115620995]">17</container>
                     <unittitle>Finances</unittitle>
                   </did>
                 </c06>
                 <c06 level="file">
                   <did>
-                    <container type="box" label="Box">17</container>
+                    <container type="box" label="Box [8147974456793115620995]">17</container>
                     <unittitle>Lists</unittitle>
                   </did>
                 </c06>
                 <c06 level="file">
                   <did>
-                    <container type="box" label="Box">17</container>
+                    <container type="box" label="Box [8147974456793115620995]">17</container>
                     <unittitle>Parties</unittitle>
                   </did>
                 </c06>
                 <c06 level="file">
                   <did>
-                    <container type="box" label="Box">17</container>
+                    <container type="box" label="Box [8147974456793115620995]">17</container>
                     <unittitle>Publicity</unittitle>
                   </did>
                 </c06>
@@ -606,19 +606,19 @@
                 </did>
                 <c06 level="file">
                   <did>
-                    <container type="box" label="Box">17</container>
+                    <container type="box" label="Box [8147974456793115620995]">17</container>
                     <unittitle>Lists</unittitle>
                   </did>
                 </c06>
                 <c06 level="file">
                   <did>
-                    <container type="box" label="Box">17</container>
+                    <container type="box" label="Box [8147974456793115620995]">17</container>
                     <unittitle>Papers (general)</unittitle>
                   </did>
                 </c06>
                 <c06 level="file">
                   <did>
-                    <container type="box" label="Box">17</container>
+                    <container type="box" label="Box [8147974456793115620995]">17</container>
                     <unittitle>Petitions</unittitle>
                   </did>
                 </c06>
@@ -629,43 +629,43 @@
                 </did>
                 <c06 level="file">
                   <did>
-                    <container type="box" label="Box">18</container>
+                    <container type="box" label="Box [0032654413945145]">18</container>
                     <unittitle>Analysis</unittitle>
                   </did>
                 </c06>
                 <c06 level="file">
                   <did>
-                    <container type="box" label="Box">18</container>
+                    <container type="box" label="Box [0032654413945145]">18</container>
                     <unittitle>Announcement</unittitle>
                   </did>
                 </c06>
                 <c06 level="file">
                   <did>
-                    <container type="box" label="Box">18</container>
+                    <container type="box" label="Box [0032654413945145]">18</container>
                     <unittitle>Campaign Committee</unittitle>
                   </did>
                 </c06>
                 <c06 level="file">
                   <did>
-                    <container type="box" label="Box">18</container>
+                    <container type="box" label="Box [0032654413945145]">18</container>
                     <unittitle>Campus Advisory Committee</unittitle>
                   </did>
                 </c06>
                 <c06 level="file">
                   <did>
-                    <container type="box" label="Box">18</container>
+                    <container type="box" label="Box [0032654413945145]">18</container>
                     <unittitle>Finances</unittitle>
                   </did>
                 </c06>
                 <c06 level="file">
                   <did>
-                    <container type="box" label="Box">18</container>
+                    <container type="box" label="Box [0032654413945145]">18</container>
                     <unittitle>Lists</unittitle>
                   </did>
                 </c06>
                 <c06 level="file">
                   <did>
-                    <container type="box" label="Box">18</container>
+                    <container type="box" label="Box [0032654413945145]">18</container>
                     <unittitle>Papers (general)</unittitle>
                     <physdesc altrender="whole">
                       <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -674,13 +674,13 @@
                 </c06>
                 <c06 level="file">
                   <did>
-                    <container type="box" label="Box">18</container>
+                    <container type="box" label="Box [0032654413945145]">18</container>
                     <unittitle>Questionnaires</unittitle>
                   </did>
                 </c06>
                 <c06 level="file">
                   <did>
-                    <container type="box" label="Box">18</container>
+                    <container type="box" label="Box [0032654413945145]">18</container>
                     <unittitle>Publicity</unittitle>
                   </did>
                 </c06>
@@ -688,19 +688,19 @@
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">18</container>
+                <container type="box" label="Box [0032654413945145]">18</container>
                 <unittitle>Office Hours and District Tours <unitdate type="inclusive" normal="1973/1974">1973-1974</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">18</container>
+                <container type="box" label="Box [0032654413945145]">18</container>
                 <unittitle>Press Releases <unitdate type="inclusive" normal="1967/1968">1967-1968</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">18</container>
+                <container type="box" label="Box [0032654413945145]">18</container>
                 <unittitle>Retirement Announcement <unitdate type="inclusive" normal="1974">1974</unitdate></unittitle>
               </did>
             </c04>
@@ -710,13 +710,13 @@
               </did>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">18</container>
+                  <container type="box" label="Box [0032654413945145]">18</container>
                   <unittitle>Legislative Dinners <unitdate type="inclusive" normal="1969/1974">1969-1974</unitdate></unittitle>
                 </did>
               </c05>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">18</container>
+                  <container type="box" label="Box [0032654413945145]">18</container>
                   <unittitle>Lame Duck Party <unitdate type="inclusive" normal="1974">1974</unitdate></unittitle>
                 </did>
               </c05>
@@ -728,26 +728,26 @@
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">18</container>
+                <container type="box" label="Box [0032654413945145]">18</container>
                 <unittitle>Campaign Committee <unitdate type="inclusive" normal="1974">1974</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">18</container>
+                <container type="box" label="Box [0032654413945145]">18</container>
                 <unittitle>Speech before U.S. House of Representatives Subcommittee on Water Resources, Public Works Committee <unitdate type="inclusive" normal="1973">1973</unitdate></unittitle>
               </did>
             </c04>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">18</container>
+              <container type="box" label="Box [0032654413945145]">18</container>
               <unittitle>Portage Lake <unitdate type="inclusive" normal="1974">1974</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">18</container>
+              <container type="box" label="Box [0032654413945145]">18</container>
               <unittitle>Republican National Convention Alternate Delegate <unitdate type="inclusive" normal="1964">1964</unitdate></unittitle>
             </did>
           </c03>
@@ -757,13 +757,13 @@
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">18</container>
+                <container type="box" label="Box [0032654413945145]">18</container>
                 <unittitle>State Appointments <unitdate type="inclusive" normal="1963/1964">1963-1964</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">18</container>
+                <container type="box" label="Box [0032654413945145]">18</container>
                 <unittitle>Task Force on Water Rights, Use, and Pollution Control <unitdate type="inclusive" normal="1965">1965</unitdate></unittitle>
               </did>
             </c04>
@@ -774,7 +774,7 @@
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">18</container>
+                <container type="box" label="Box [0032654413945145]">18</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1965/1966">1965-1966</unitdate>
                 </unittitle>
@@ -782,7 +782,7 @@
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">18</container>
+                <container type="box" label="Box [0032654413945145]">18</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1967/1971">1967-1971</unitdate>
                 </unittitle>
@@ -790,7 +790,7 @@
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">18</container>
+                <container type="box" label="Box [0032654413945145]">18</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1972/1973">1972-1973</unitdate>
                 </unittitle>
@@ -798,7 +798,7 @@
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">18</container>
+                <container type="box" label="Box [0032654413945145]">18</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1974/1975">1974-1975</unitdate>
                 </unittitle>
@@ -816,7 +816,7 @@
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">18</container>
+            <container type="box" label="Box [0032654413945145]">18</container>
             <unittitle><unitdate type="inclusive" normal="1967">1967</unitdate> Session, Conflict of Interest</unittitle>
           </did>
         </c02>
@@ -826,19 +826,19 @@
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">18</container>
+              <container type="box" label="Box [0032654413945145]">18</container>
               <unittitle>Clean Water Bond Issue</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">18</container>
+              <container type="box" label="Box [0032654413945145]">18</container>
               <unittitle>Sewage Treatment Facilities, HB 2646</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">19</container>
+              <container type="box" label="Box [978227047874591795]">19</container>
               <unittitle>Water Pollution Finance Study Committee</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -860,39 +860,39 @@
               </did>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">19</container>
+                  <container type="box" label="Box [978227047874591795]">19</container>
                   <unittitle>HB 2097</unittitle>
                 </did>
               </c05>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">19</container>
+                  <container type="box" label="Box [978227047874591795]">19</container>
                   <unittitle>HB 2098</unittitle>
                 </did>
               </c05>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">19</container>
+                  <container type="box" label="Box [978227047874591795]">19</container>
                   <unittitle>HB 2282-2288</unittitle>
                 </did>
               </c05>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">19</container>
+                  <container type="box" label="Box [978227047874591795]">19</container>
                   <unittitle>SB 107</unittitle>
                 </did>
               </c05>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">19</container>
+                <container type="box" label="Box [978227047874591795]">19</container>
                 <unittitle>Outline of Clean Water Bond Program</unittitle>
               </did>
             </c04>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">19</container>
+              <container type="box" label="Box [978227047874591795]">19</container>
               <unittitle>Inland Lake Improvement Act Amendment</unittitle>
             </did>
           </c03>
@@ -907,19 +907,19 @@
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">19</container>
+                <container type="box" label="Box [978227047874591795]">19</container>
                 <unittitle>General Papers and Statistics</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">19</container>
+                <container type="box" label="Box [978227047874591795]">19</container>
                 <unittitle>Manistee Lake</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">19</container>
+                <container type="box" label="Box [978227047874591795]">19</container>
                 <unittitle>Water Resources Commission</unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -934,7 +934,7 @@
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">19</container>
+              <container type="box" label="Box [978227047874591795]">19</container>
               <unittitle>Special Legislative Committee on Peerless Cement Company</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -948,13 +948,13 @@
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">19</container>
+              <container type="box" label="Box [978227047874591795]">19</container>
               <unittitle>Conflict of Interest (Joint Committee Transcript)</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">19</container>
+              <container type="box" label="Box [978227047874591795]">19</container>
               <unittitle>Ecorse Creek, HR 618</unittitle>
             </did>
           </c03>
@@ -965,7 +965,7 @@
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">19</container>
+              <container type="box" label="Box [978227047874591795]">19</container>
               <unittitle>Bills, Reports, and Papers <unitdate type="inclusive" normal="1974">1974</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -974,13 +974,13 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">19</container>
+              <container type="box" label="Box [978227047874591795]">19</container>
               <unittitle>Republican House Office (Summary of Legislation)</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">19</container>
+              <container type="box" label="Box [978227047874591795]">19</container>
               <unittitle>Waste Disposal on State Lands</unittitle>
             </did>
           </c03>
@@ -997,37 +997,37 @@
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">19</container>
+            <container type="box" label="Box [978227047874591795]">19</container>
             <unittitle>Highways and waterways</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">19</container>
+            <container type="box" label="Box [978227047874591795]">19</container>
             <unittitle>Industry</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">19</container>
+            <container type="box" label="Box [978227047874591795]">19</container>
             <unittitle>Legislative groups</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">19</container>
+            <container type="box" label="Box [978227047874591795]">19</container>
             <unittitle>Peerless Cement Co.</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">19</container>
+            <container type="box" label="Box [978227047874591795]">19</container>
             <unittitle>Portraits</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">19</container>
+            <container type="box" label="Box [978227047874591795]">19</container>
             <unittitle>Romney, George</unittitle>
           </did>
         </c02>

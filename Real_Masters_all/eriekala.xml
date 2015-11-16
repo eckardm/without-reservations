@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Erie and Kalamazoo Railroad records, 1834-1968</titleproper>
       <author>Finding aid created by <lb/>Michigan Historical Collections staff</author>
     </titlepage>
@@ -83,17 +83,17 @@ Erie and Kalamazoo Railroad records, Bentley Historical Library, University of M
       <controlaccess>
         <head>Subjects:</head>
         <corpname source="lcnaf" encodinganalog="610">Erie and Kalamazoo Railroad.</corpname>
-        <subject source="lcsh" encodinganalog="650">Railroads--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6680">Railroads--Michigan.</subject>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Materials:</head>
         <corpname source="lcnaf" encodinganalog="610">Erie and Kalamazoo Railroad.</corpname>
-        <subject source="lctgm" encodinganalog="650">Railroads--Michigan.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3839">Railroads--Michigan.</subject>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
-        <genreform source="gmgpc" encodinganalog="655">Prints.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
+        <genreform source="gmgpc" encodinganalog="655" ref="/subjects/3461">Prints.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -103,13 +103,13 @@ Erie and Kalamazoo Railroad records, Bentley Historical Library, University of M
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6408828442947949448]">1</container>
             <unittitle>Minute book <unitdate type="inclusive" normal="1834/1919">1834-1919</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6408828442947949448]">1</container>
             <unittitle>Correspondence <unitdate type="inclusive" normal="1840/1952">1840-1952</unitdate></unittitle>
           </did>
           <c03 level="file">
@@ -124,7 +124,7 @@ Erie and Kalamazoo Railroad records, Bentley Historical Library, University of M
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [8983549959105948572]">2</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1915/1939">1915-1939</unitdate>
               </unittitle>
@@ -135,7 +135,7 @@ Erie and Kalamazoo Railroad records, Bentley Historical Library, University of M
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [5905724423975807]">3</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1939/1952">1939-1952</unitdate>
                 <unitdate type="inclusive">undated</unitdate>
@@ -148,7 +148,7 @@ Erie and Kalamazoo Railroad records, Bentley Historical Library, University of M
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [060927261945881169921]">4</container>
             <unittitle>Business papers <unitdate type="inclusive" normal="1834/1918">1834-1918</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">47 folders</extent>
@@ -160,7 +160,7 @@ Erie and Kalamazoo Railroad records, Bentley Historical Library, University of M
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [718203910491289699887188]">5</container>
             <unittitle>Business papers <unitdate type="inclusive" normal="1919/1952">1919-1952</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">33 folders</extent>
@@ -172,19 +172,19 @@ Erie and Kalamazoo Railroad records, Bentley Historical Library, University of M
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [539820746309994461725]">6</container>
             <unittitle>Annual Reports to Interstate Commerce Commission</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [539820746309994461725]">6</container>
             <unittitle>Annual Reports to the Public Utilities Commission of Ohio</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">7</container>
+            <container type="box" label="Box [966762414142837181391]">7</container>
             <unittitle>Annual Reports to the Railroad Commission of the State of Michigan</unittitle>
             <unitdate type="inclusive" normal="1915/1918">1915-1918</unitdate>
             <unitdate type="inclusive" normal="1935/1938">1935-1938</unitdate>
@@ -192,19 +192,19 @@ Erie and Kalamazoo Railroad records, Bentley Historical Library, University of M
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">7</container>
+            <container type="box" label="Box [966762414142837181391]">7</container>
             <unittitle>Minutes of meetings of company stockholders <unitdate type="inclusive" normal="1921/1959">1921-1959</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">7</container>
+            <container type="box" label="Box [966762414142837181391]">7</container>
             <unittitle>Ledger <unitdate type="inclusive" normal="1848/1849">1848-1849</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">7</container>
+            <container type="box" label="Box [966762414142837181391]">7</container>
             <unittitle>Journal <unitdate type="inclusive" normal="1848/1849">1848-1849</unitdate></unittitle>
           </did>
         </c02>
@@ -214,38 +214,38 @@ Erie and Kalamazoo Railroad records, Bentley Historical Library, University of M
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">7</container>
+              <container type="box" label="Box [966762414142837181391]">7</container>
               <unittitle>Leases and contracts</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">7</container>
+              <container type="box" label="Box [966762414142837181391]">7</container>
               <unittitle>Mortgages</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">7</container>
+              <container type="box" label="Box [966762414142837181391]">7</container>
               <unittitle>Miscellaneous: notes and research material, etc.</unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">7</container>
+            <container type="box" label="Box [966762414142837181391]">7</container>
             <unittitle>Michigan Historical Collections file (re transfer of records to the library)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">7</container>
+            <container type="box" label="Box [966762414142837181391]">7</container>
             <unittitle>Postcards containing <genreform normal="Prints">print</genreform> image of the railroad</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">8</container>
+            <container type="box" label="Box [9342241476927208]">8</container>
             <unittitle>Letterpress books <unitdate type="inclusive" normal="1902/1913">1902-1913</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 volumes</extent>
@@ -254,37 +254,37 @@ Erie and Kalamazoo Railroad records, Bentley Historical Library, University of M
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">8</container>
+            <container type="box" label="Box [9342241476927208]">8</container>
             <unittitle>Miscellaneous business papers</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">9</container>
+            <container type="box" label="Box [003702364187661726886761]">9</container>
             <unittitle>Check registers</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">10</container>
+            <container type="box" label="Box [8138400604268958271386]">10</container>
             <unittitle>Check registers</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">10</container>
+            <container type="box" label="Box [8138400604268958271386]">10</container>
             <unittitle>Stock certificate books</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">11</container>
+            <container type="box" label="Box [656023910499019243090315]">11</container>
             <unittitle>Check registers</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">12</container>
+            <container type="box" label="Box [127321804159199427472]">12</container>
             <unittitle>Correspondence and unprocessed miscellanea <unitdate type="inclusive" normal="1943/1968" certainty="approximate">circa 1943-1968</unitdate></unittitle>
           </did>
         </c02>
@@ -294,7 +294,7 @@ Erie and Kalamazoo Railroad records, Bentley Historical Library, University of M
           </did>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">1</container>
+              <container type="volume" label="Oversize Volume [7241708840200742969]">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1885/1922">1885-1922</unitdate>
               </unittitle>
@@ -302,7 +302,7 @@ Erie and Kalamazoo Railroad records, Bentley Historical Library, University of M
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">2</container>
+              <container type="volume" label="Oversize Volume [84907616349808380667681]">2</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1939/1946">1939-1946</unitdate>
               </unittitle>
@@ -310,7 +310,7 @@ Erie and Kalamazoo Railroad records, Bentley Historical Library, University of M
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">12</container>
+              <container type="box" label="Box [127321804159199427472]">12</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1946/1948">1946-1948</unitdate>
               </unittitle>

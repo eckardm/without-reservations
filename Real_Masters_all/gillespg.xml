@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Glenn C. Gillespie papers, 1905-1959</titleproper>
       <author>Finding aid created by <lb/>Michigan Historical Collections Staff</author>
     </titlepage>
@@ -91,32 +91,32 @@ Glenn C. Gillespie papers, Bentley Historical Library, University of Michigan</p
       <controlaccess>
         <head>Subjects:</head>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n85218917">Gillespie, Glenn C. (Glenn Carlton), 1885-1959</persname>
-        <subject source="lcsh" encodinganalog="650">Judges--Michigan--Oakland County.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7964">Judges--Michigan--Oakland County.</subject>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/no2011048802">Michigan. Circuit Court (Oakland County)</corpname>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Materials:</head>
-        <subject source="lctgm" encodinganalog="650">Airplanes.</subject>
-        <subject source="lctgm" encodinganalog="650">Airships.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4173">Airplanes.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4174">Airships.</subject>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n85218917">Gillespie, Glenn C. (Glenn Carlton), 1885-1959</persname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n79096922">Graf Zeppelin (Airship)</corpname>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/no2008183293">Green, Fred Warren, 1872-1936.</persname>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n81139923.html">Mackinac Island (Mich.)</geogname>
-        <subject source="lctgm" encodinganalog="650">Deer hunting--Michigan.</subject>
-        <subject source="lctgm" encodinganalog="650">Fishing--Michigan.</subject>
-        <geogname source="lcsh" encodinganalog="651">Houghton Lake (Mich.)</geogname>
-        <subject source="lctgm" encodinganalog="650">Hunting--Michigan.</subject>
-        <geogname source="lcsh" encodinganalog="651">Isle Royale (Mich.)</geogname>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n88268193.html">Mackinaw City (Mich.)</geogname>
-        <subject source="lctgm" encodinganalog="650">Oil wells--Michigan--Genesee County.</subject>
-        <subject source="lctgm" encodinganalog="650">Oil wells--Texas--Ranger.</subject>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n83052665.html">Ranger (Tex.)</geogname>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n81139923.html" ref="/subjects/949">Mackinac Island (Mich.)</geogname>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4050">Deer hunting--Michigan.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3937">Fishing--Michigan.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1903">Houghton Lake (Mich.)</geogname>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3664">Hunting--Michigan.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1695">Isle Royale (Mich.)</geogname>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n88268193.html" ref="/subjects/1005">Mackinaw City (Mich.)</geogname>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4387">Oil wells--Michigan--Genesee County.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4388">Oil wells--Texas--Ranger.</subject>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n83052665.html" ref="/subjects/1904">Ranger (Tex.)</geogname>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="lcsh" encodinganalog="655">Motion pictures.</genreform>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
-        <genreform source="aat" encodinganalog="655">DVDs.</genreform>
+        <genreform source="lcsh" encodinganalog="655" ref="/subjects/3432">Motion pictures.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3160">DVDs.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -126,13 +126,13 @@ Glenn C. Gillespie papers, Bentley Historical Library, University of Michigan</p
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [843550467430694934683]">1</container>
             <unittitle>Clippings</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [843550467430694934683]">1</container>
             <unittitle>Account Book <unitdate type="inclusive" normal="1908/1910">1908-1910</unitdate></unittitle>
           </did>
         </c02>
@@ -142,13 +142,13 @@ Glenn C. Gillespie papers, Bentley Historical Library, University of Michigan</p
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [843550467430694934683]">1</container>
               <unittitle>Portraits and group photos</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [843550467430694934683]">1</container>
               <unittitle>Copy prints from photo album</unittitle>
             </did>
           </c03>
@@ -162,20 +162,20 @@ Glenn C. Gillespie papers, Bentley Historical Library, University of Michigan</p
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [843550467430694934683]">1</container>
               <unittitle>Ca. <unitdate type="inclusive" normal="1906/1922">1906-1922</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [843550467430694934683]">1</container>
               <unittitle>Ca. <unitdate type="inclusive" normal="1921/1935">1921-1935</unitdate></unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [29947010142348997520]">2</container>
             <unittitle>Judicial Opinions <unitdate type="inclusive" normal="1921/1934">1921-1934</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">7 volumes</extent>
@@ -202,7 +202,7 @@ Glenn C. Gillespie papers, Bentley Historical Library, University of Michigan</p
           </c03>
           <c03 level="otherlevel" otherlevel="item-part">
             <did>
-              <container type="box" label="Box">D-1</container>
+              <container type="box" label="Box [196976474645882548666768]">D-1</container>
               <unittitle>Use Copy:</unittitle>
               <physdesc>
                 <physfacet>DVD</physfacet>
@@ -215,7 +215,7 @@ Glenn C. Gillespie papers, Bentley Historical Library, University of Michigan</p
               <physdesc>
                 <physfacet>flash-flv</physfacet>
               </physdesc>
-              <dao href="9182-1" show="new" actuate="onrequest">
+              <dao href="9182-1" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/2789">
                 <daodesc>
                   <p>[view video]</p>
                 </daodesc>
@@ -238,7 +238,7 @@ Glenn C. Gillespie papers, Bentley Historical Library, University of Michigan</p
           </c03>
           <c03 level="otherlevel" otherlevel="item-part">
             <did>
-              <container type="box" label="Box">D-1</container>
+              <container type="box" label="Box [196976474645882548666768]">D-1</container>
               <unittitle>Use Copy:</unittitle>
               <physdesc>
                 <physfacet>DVD</physfacet>

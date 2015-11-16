@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>John Panchuk papers, 1913-1981</titleproper>
       <author>Finding aid created by <lb/>Helmi Raaska (1982); Nancy Bartlett (later accession)</author>
     </titlepage>
@@ -88,22 +88,22 @@ John Panchuk papers, Bentley Historical Library, University of Michigan</p>
         <head>Subjects:</head>
         <corpname source="lcnaf" encodinganalog="610">Democratic National Convention (1960 : Los Angeles)</corpname>
         <corpname source="lcnaf" encodinganalog="610">Michigan. Displaced Persons Commission.</corpname>
-        <subject source="lcsh" encodinganalog="650">Nazis.</subject>
-        <subject source="lcsh" encodinganalog="650">Refugees--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/9659">Nazis.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/9660">Refugees--Michigan.</subject>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n79119044">Shevchenko, Taras, 1814-1861.</persname>
-        <subject source="lcsh" encodinganalog="650">Ukrainian Americans--Michigan.</subject>
-        <geogname source="lcsh" encodinganalog="651">United States--Politics and government--1953-1961.</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/9661">Ukrainian Americans--Michigan.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1272">United States--Politics and government--1953-1961.</geogname>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Materials:</head>
-        <subject source="lctgm" encodinganalog="650">Costumes--Ukrainian.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/5110">Costumes--Ukrainian.</subject>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n83163731">Democratic Party (Mich.)</corpname>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n79066408">Eisenhower, Dwight D. (Dwight David), 1890-1969.</persname>
-        <subject source="lctgm" encodinganalog="650">Families.</subject>
-        <subject source="lctgm" encodinganalog="650">Funeral rites and ceremonies.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3923">Families.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3699">Funeral rites and ceremonies.</subject>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/no99034020">Panchuk, John, 1904-1981.</persname>
         <famname source="lcnaf" encodinganalog="600">Panchuk family.</famname>
-        <subject source="lcsh" encodinganalog="650">Ukrainian Americans--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/9661">Ukrainian Americans--Michigan.</subject>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan. College of Literature, Science and the Arts. Class of 1926.</corpname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan. Law School. Class of 1928.</corpname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan--Students--Social life and customs--1921-1930.</corpname>
@@ -112,7 +112,7 @@ John Panchuk papers, Bentley Historical Library, University of Michigan</p>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -122,19 +122,19 @@ John Panchuk papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [0815544323498217]">1</container>
             <unittitle>Vita</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [0815544323498217]">1</container>
             <unittitle>Biographical clippings</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [0815544323498217]">1</container>
             <unittitle>Civic and professional honors</unittitle>
           </did>
           <odd>
@@ -143,19 +143,19 @@ John Panchuk papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [0815544323498217]">1</container>
             <unittitle>Oral history interview <unitdate type="inclusive" normal="1977-10-26">October 26, 1977</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [0815544323498217]">1</container>
             <unittitle>Panchuk family history: <title render="italic">Descendants of Mihelo (Michael) Panchuk of Onut, Bukowina, Ukraine</title> (1975); <title render="italic">Bukowinian Settlements in Southern Manitoba Gardenton Area)</title> (1971)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [0815544323498217]">1</container>
             <unittitle>Panchuk/Panchuk family get-togethers</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -164,43 +164,43 @@ John Panchuk papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [0815544323498217]">1</container>
             <unittitle>Panchuk family: Michael Panchuk earlier personal documents</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [0815544323498217]">1</container>
             <unittitle>Publications</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [0815544323498217]">1</container>
             <unittitle>Manuscripts of published articles and pamphlets</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [0815544323498217]">1</container>
             <unittitle>Retirement</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [0815544323498217]">1</container>
             <unittitle>Letters to the editor</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [0815544323498217]">1</container>
             <unittitle>Speeches by John Panchuk</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [0815544323498217]">1</container>
             <unittitle>Miscellaneous</unittitle>
           </did>
         </c02>
@@ -214,7 +214,7 @@ John Panchuk papers, Bentley Historical Library, University of Michigan</p>
         </odd>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [0815544323498217]">1</container>
             <unittitle>
               <unitdate type="inclusive">Undated</unitdate>
             </unittitle>
@@ -222,7 +222,7 @@ John Panchuk papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [0815544323498217]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1913/1924">1913-1924</unitdate>
             </unittitle>
@@ -230,7 +230,7 @@ John Panchuk papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [0815544323498217]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1925/1929">1925-1929</unitdate>
             </unittitle>
@@ -238,7 +238,7 @@ John Panchuk papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [0815544323498217]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1930/1934">1930-1934</unitdate>
             </unittitle>
@@ -246,7 +246,7 @@ John Panchuk papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [0815544323498217]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1935/1936">1935-1936</unitdate>
             </unittitle>
@@ -254,7 +254,7 @@ John Panchuk papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [0815544323498217]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1937/1939">1937-1939</unitdate>
             </unittitle>
@@ -262,7 +262,7 @@ John Panchuk papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [0815544323498217]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1940/1942">1940-1942</unitdate>
             </unittitle>
@@ -270,13 +270,13 @@ John Panchuk papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [0815544323498217]">1</container>
             <unittitle><unitdate type="inclusive" normal="1943/1944">1943-1944</unitdate> (undated)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [0815544323498217]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1943">1943</unitdate>
             </unittitle>
@@ -284,7 +284,7 @@ John Panchuk papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [0815544323498217]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1944">1944</unitdate>
             </unittitle>
@@ -292,13 +292,13 @@ John Panchuk papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [0815544323498217]">1</container>
             <unittitle><unitdate type="inclusive" normal="1945/1949">1945-1949</unitdate> (undated)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [0815544323498217]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1945">1945</unitdate>
             </unittitle>
@@ -306,7 +306,7 @@ John Panchuk papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [0815544323498217]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1946">1946</unitdate>
             </unittitle>
@@ -314,7 +314,7 @@ John Panchuk papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [0815544323498217]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1947">1947</unitdate>
             </unittitle>
@@ -322,7 +322,7 @@ John Panchuk papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [0815544323498217]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1948">1948</unitdate>
             </unittitle>
@@ -330,7 +330,7 @@ John Panchuk papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [0815544323498217]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1949">1949</unitdate>
             </unittitle>
@@ -338,13 +338,13 @@ John Panchuk papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [0815544323498217]">1</container>
             <unittitle><unitdate type="inclusive" normal="1950/1955">1950-1955</unitdate> (undated)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [0815544323498217]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1950">1950</unitdate>
             </unittitle>
@@ -352,7 +352,7 @@ John Panchuk papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [0815544323498217]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1951">1951</unitdate>
             </unittitle>
@@ -360,7 +360,7 @@ John Panchuk papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [0815544323498217]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1952/1955">1952-1955</unitdate>
             </unittitle>
@@ -368,7 +368,7 @@ John Panchuk papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [0815544323498217]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1956/1957">1956-1957</unitdate>
             </unittitle>
@@ -376,7 +376,7 @@ John Panchuk papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [0815544323498217]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1958/1959">1958-1959</unitdate>
             </unittitle>
@@ -384,7 +384,7 @@ John Panchuk papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [0815544323498217]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1960">1960</unitdate>
             </unittitle>
@@ -392,7 +392,7 @@ John Panchuk papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [0815544323498217]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1961/1962">1961-1962</unitdate>
             </unittitle>
@@ -400,7 +400,7 @@ John Panchuk papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [0815544323498217]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1963/1965">1963-1965</unitdate>
             </unittitle>
@@ -408,7 +408,7 @@ John Panchuk papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [0815544323498217]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1966/1967">1966-1967</unitdate>
             </unittitle>
@@ -416,7 +416,7 @@ John Panchuk papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [0815544323498217]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1968">1968</unitdate>
             </unittitle>
@@ -424,7 +424,7 @@ John Panchuk papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [0815544323498217]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1969">1969</unitdate>
             </unittitle>
@@ -432,7 +432,7 @@ John Panchuk papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [0815544323498217]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1970/1973">1970-1973</unitdate>
             </unittitle>
@@ -440,7 +440,7 @@ John Panchuk papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [0815544323498217]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1974/1975">1974-1975</unitdate>
             </unittitle>
@@ -448,7 +448,7 @@ John Panchuk papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [0815544323498217]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1977/1980">1977-1980</unitdate>
             </unittitle>
@@ -461,13 +461,13 @@ John Panchuk papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [5171580540890506571]">2</container>
             <unittitle>Detroit City Planning Commission <unitdate type="inclusive" normal="1942/1945">1942-1945</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [5171580540890506571]">2</container>
             <unittitle>Michigan Commission on Displaced Persons and Refugees <unitdate type="inclusive" normal="1949/1960">1949-1960</unitdate></unittitle>
           </did>
         </c02>
@@ -477,32 +477,32 @@ John Panchuk papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [5171580540890506571]">2</container>
               <unittitle>Chubety correspondence</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [5171580540890506571]">2</container>
               <unittitle>Fik correspondence</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [5171580540890506571]">2</container>
               <unittitle>Panchuk correspondence</unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [5171580540890506571]">2</container>
             <unittitle>Ukrainian American Federation of Michigan, testimonial banquet for Panchuk <unitdate type="inclusive" normal="1947-04-27">April 27, 1947</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [5171580540890506571]">2</container>
             <unittitle>Ukrainian-American Relief Committee, Initiative Committee</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -511,7 +511,7 @@ John Panchuk papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [5171580540890506571]">2</container>
             <unittitle>Ukrainian Bandurists Chorus</unittitle>
           </did>
         </c02>
@@ -521,51 +521,51 @@ John Panchuk papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [5171580540890506571]">2</container>
               <unittitle>"Rebirth and Reorganization of Ukrainian Congress Committee of America 1943-1944 Documentary Miscellany from the Archives of John Panchuk," 1943-1944</unittitle>
               <unitdate type="inclusive" normal="1943/1944">1943-1944</unitdate>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [5171580540890506571]">2</container>
               <unittitle>"Three Decades of UCCA: 1940-1970"</unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [5171580540890506571]">2</container>
             <unittitle>Ukrainian Graduates of Detroit and Windsor</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [5171580540890506571]">2</container>
             <unittitle>Ukrainian National Association Lodge 146, premium payment book <unitdate type="inclusive" normal="1932">1932</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [5171580540890506571]">2</container>
             <unittitle>Ukrainian Professional Society of North America</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [5171580540890506571]">2</container>
             <unittitle>Ukrainian War Relief and United Ukrainian American Relief Committee</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [5171580540890506571]">2</container>
             <unittitle>Ukrainian Youth League of North America, papers (clippings and published material) <unitdate type="inclusive" normal="1933/1975" certainty="approximate">circa 1933-1975</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [5171580540890506571]">2</container>
             <unittitle>Ukrainian Youth League Congress (meeting in Detroit August 31, 1935-September 1, 1935), registration book (with clippings, 1930-1940 re. Ukrainian associations)</unittitle>
             <unitdate type="inclusive" normal="1935-08-31/1935-09-01">August 31, 1935-September 1, 1935</unitdate>
             <unitdate type="inclusive" normal="1930/1940">1930-1940</unitdate>
@@ -573,7 +573,7 @@ John Panchuk papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [5171580540890506571]">2</container>
             <unittitle>YKKA <unitdate type="inclusive" normal="1943">1943</unitdate></unittitle>
           </did>
         </c02>
@@ -588,38 +588,38 @@ John Panchuk papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [5171580540890506571]">2</container>
               <unittitle>Correspondence</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [5171580540890506571]">2</container>
               <unittitle>Nationalities Division of Democratic National Committee</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [5171580540890506571]">2</container>
               <unittitle>Michigan delegation to Democratic National Convention</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [5171580540890506571]">2</container>
               <unittitle>Kennedy trip to Michigan</unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [5171580540890506571]">2</container>
             <unittitle>Miscellaneous <unitdate type="inclusive" normal="1958/1960">1958-1960</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [5171580540890506571]">2</container>
             <unittitle>Miscellaneous printed material</unittitle>
           </did>
         </c02>
@@ -630,7 +630,7 @@ John Panchuk papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [5171580540890506571]">2</container>
             <unittitle>Taras Shevchenko statue, Washington, D.C. clippings</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">5 folders</extent>
@@ -639,25 +639,25 @@ John Panchuk papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [5171580540890506571]">2</container>
             <unittitle>Taras Shevchenko statue, Winnipeg, Canada, clippings</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [5171580540890506571]">2</container>
             <unittitle>Printed material re. Ukraine and Ukrainians</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [5171580540890506571]">2</container>
             <unittitle>Broadsides and posters re. Ukrainian activities <unitdate type="inclusive" normal="1922/1932">1922-1932</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [5171580540890506571]">2</container>
             <unittitle>Translations from Ukranian by Panchuk</unittitle>
           </did>
         </c02>
@@ -667,115 +667,115 @@ John Panchuk papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [22112848537438610]">3</container>
               <unittitle>Bhahun, Evherua</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [22112848537438610]">3</container>
               <unittitle>Bozyk, Olga</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [22112848537438610]">3</container>
               <unittitle>Briodok</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [22112848537438610]">3</container>
               <unittitle>Buryk, Ivan</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [22112848537438610]">3</container>
               <unittitle>Christmas greetings (various)</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [22112848537438610]">3</container>
               <unittitle>Hutzul, Lasia</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [22112848537438610]">3</container>
               <unittitle>Kommisar, Wasylyna</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [22112848537438610]">3</container>
               <unittitle>Lopatniuk, Domka</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [22112848537438610]">3</container>
               <unittitle>Mihayehuk, George</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [22112848537438610]">3</container>
               <unittitle>Myshuha (also newspaper clippings)</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [22112848537438610]">3</container>
               <unittitle>Oleynik, Domka</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [22112848537438610]">3</container>
               <unittitle>Onut distant relatives</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [22112848537438610]">3</container>
               <unittitle>Panchuk, Elpeaiphor; Cherninty: Buknnua and son Ivor</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [22112848537438610]">3</container>
               <unittitle>Panchuk, Hrytzko</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [22112848537438610]">3</container>
               <unittitle>Panchukjakuir (grandchildren and children of)</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [22112848537438610]">3</container>
               <unittitle>Permanent Mission of the Ukrainian Soviet Socialist Republic to the United Nations</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [22112848537438610]">3</container>
               <unittitle>[school teacher acquaintance]</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [22112848537438610]">3</container>
               <unittitle>Tanaseyehuk, Stefan</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [22112848537438610]">3</container>
               <unittitle>Tihley, Lesia (including biography and publication)</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -784,31 +784,31 @@ John Panchuk papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [22112848537438610]">3</container>
               <unittitle>Tihley, Lesia (the mother of)</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [22112848537438610]">3</container>
               <unittitle>Turkerich, Wasyl</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [22112848537438610]">3</container>
               <unittitle>[visiting artists from the Ukraine]</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [22112848537438610]">3</container>
               <unittitle>Zozuliak, W</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [22112848537438610]">3</container>
               <unittitle>Miscellaneous letters and other materials in Ukrainian</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">7 folders</extent>
@@ -823,7 +823,7 @@ John Panchuk papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [22112848537438610]">3</container>
             <unittitle>Letters from Waldemar Hunold, member of the Hitler Youth, to Florence Lightfoot <unitdate type="inclusive" normal="1936/1937">1936-1937</unitdate></unittitle>
             <physdesc>
               <physfacet>photocopies</physfacet>
@@ -832,13 +832,13 @@ John Panchuk papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [22112848537438610]">3</container>
             <unittitle>Loose items from scrapbook</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">1</container>
+            <container type="volume" label="Oversize Volume [703356149580452878254]">1</container>
             <unittitle>Scrapbook <unitdate type="inclusive" normal="1918/1938">1918-1938</unitdate></unittitle>
           </did>
         </c02>
@@ -854,25 +854,25 @@ John Panchuk papers, Bentley Historical Library, University of Michigan</p>
         </odd>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [22112848537438610]">3</container>
             <unittitle>Ukrainians and Refugee Relief</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [22112848537438610]">3</container>
             <unittitle>Political Subjects</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [22112848537438610]">3</container>
             <unittitle>Ukrainian Family and Friends (USSR and Canada)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [22112848537438610]">3</container>
             <unittitle>Miscellaneous</unittitle>
           </did>
         </c02>

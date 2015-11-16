@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Holy Cross Church (Cross Village, Mich.) records, 1847-1930</titleproper>
       <author>Finding aid created by <lb/>Michigan Historical Collections staff</author>
     </titlepage>
@@ -82,14 +82,14 @@ Holy Cross Church (Cross Village, Mich.) records, Bentley Historical Library, Un
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n83128558.html">Cross Village (Mich.)</geogname>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n83128558.html" ref="/subjects/1067">Cross Village (Mich.)</geogname>
         <corpname source="lcnaf" encodinganalog="610">Catholic Church--Missions--Michigan--Cross Village.</corpname>
         <corpname source="lcnaf" encodinganalog="610">Catholic Church--Michigan--Cross Village.</corpname>
         <corpname source="lcnaf" encodinganalog="610">Holy Cross Church (Cross Village, Mich.).</corpname>
-        <subject source="lcsh" encodinganalog="650">Indians of North America--Missions--Michigan--Cross Village.</subject>
-        <subject source="lcsh" encodinganalog="650">Indians of North America--Michigan--Cross Village.</subject>
-        <geogname source="lcsh" encodinganalog="651">Emmet County (Mich.)</geogname>
-        <subject source="lcsh" encodinganalog="650">Registers of births, etc.--Michigan--Cross Village.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/8294">Indians of North America--Missions--Michigan--Cross Village.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/8295">Indians of North America--Michigan--Cross Village.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1685">Emmet County (Mich.)</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/8296">Registers of births, etc.--Michigan--Cross Village.</subject>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -99,13 +99,13 @@ Holy Cross Church (Cross Village, Mich.) records, Bentley Historical Library, Un
         </did>
         <c02 level="file">
           <did>
-            <container type="reel" label="Roll">1</container>
+            <container type="reel" label="Roll [31270944935102835132]">1</container>
             <unittitle>Historical notes</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="reel" label="Roll">1</container>
+            <container type="reel" label="Roll [31270944935102835132]">1</container>
             <unittitle>Baptismal records <unitdate type="inclusive" normal="1847/1868">1847-1868</unitdate></unittitle>
           </did>
           <odd>
@@ -114,7 +114,7 @@ Holy Cross Church (Cross Village, Mich.) records, Bentley Historical Library, Un
         </c02>
         <c02 level="file">
           <did>
-            <container type="reel" label="Roll">1</container>
+            <container type="reel" label="Roll [31270944935102835132]">1</container>
             <unittitle>Marriage, birth and death records <unitdate type="inclusive" normal="1847/1868">1847-1868</unitdate></unittitle>
           </did>
           <odd>
@@ -123,7 +123,7 @@ Holy Cross Church (Cross Village, Mich.) records, Bentley Historical Library, Un
         </c02>
         <c02 level="file">
           <did>
-            <container type="reel" label="Roll">1</container>
+            <container type="reel" label="Roll [31270944935102835132]">1</container>
             <unittitle>Death records <unitdate type="inclusive" normal="1847/1868">1847-1868</unitdate></unittitle>
           </did>
           <odd>
@@ -132,7 +132,7 @@ Holy Cross Church (Cross Village, Mich.) records, Bentley Historical Library, Un
         </c02>
         <c02 level="file">
           <did>
-            <container type="reel" label="Roll">1</container>
+            <container type="reel" label="Roll [31270944935102835132]">1</container>
             <unittitle>Church records <unitdate type="inclusive" normal="1867/1870">1867-1870</unitdate></unittitle>
           </did>
           <odd>
@@ -141,7 +141,7 @@ Holy Cross Church (Cross Village, Mich.) records, Bentley Historical Library, Un
         </c02>
         <c02 level="file">
           <did>
-            <container type="reel" label="Roll">1</container>
+            <container type="reel" label="Roll [31270944935102835132]">1</container>
             <unittitle>Church records <unitdate type="inclusive" normal="1868/1895" certainty="approximate">circa 1868-1895</unitdate></unittitle>
           </did>
           <odd>
@@ -150,7 +150,7 @@ Holy Cross Church (Cross Village, Mich.) records, Bentley Historical Library, Un
         </c02>
         <c02 level="file">
           <did>
-            <container type="reel" label="Roll">1</container>
+            <container type="reel" label="Roll [31270944935102835132]">1</container>
             <unittitle>Church records <unitdate type="inclusive" normal="1901/1908">1901-1908</unitdate></unittitle>
           </did>
           <odd>
@@ -159,7 +159,7 @@ Holy Cross Church (Cross Village, Mich.) records, Bentley Historical Library, Un
         </c02>
         <c02 level="file">
           <did>
-            <container type="reel" label="Roll">1</container>
+            <container type="reel" label="Roll [31270944935102835132]">1</container>
             <unittitle>Church records <unitdate type="inclusive" normal="1908/1920">1908-1920</unitdate></unittitle>
           </did>
           <odd>
@@ -168,7 +168,7 @@ Holy Cross Church (Cross Village, Mich.) records, Bentley Historical Library, Un
         </c02>
         <c02 level="file">
           <did>
-            <container type="reel" label="Roll">1</container>
+            <container type="reel" label="Roll [31270944935102835132]">1</container>
             <unittitle>Church records <unitdate type="inclusive" normal="1921/1930">1921-1930</unitdate></unittitle>
           </did>
           <odd>
@@ -177,19 +177,19 @@ Holy Cross Church (Cross Village, Mich.) records, Bentley Historical Library, Un
         </c02>
         <c02 level="file">
           <did>
-            <container type="reel" label="Roll">1</container>
+            <container type="reel" label="Roll [31270944935102835132]">1</container>
             <unittitle>Miscellaneous church records</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="reel" label="Roll">1</container>
+            <container type="reel" label="Roll [31270944935102835132]">1</container>
             <unittitle>Photographs</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="reel" label="Roll">1</container>
+            <container type="reel" label="Roll [31270944935102835132]">1</container>
             <unittitle>Newspaper clippings and printed histories</unittitle>
           </did>
         </c02>

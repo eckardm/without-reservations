@@ -31,7 +31,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Carol H. Tice Papers, 1970-2012</titleproper>
       <author>Finding aid created by <lb/>Caitlin Moriarty, October 2014 <lb/>Last update: April 2015</author>
     </titlepage>
@@ -107,22 +107,22 @@ Carol H. Tice papers, Bentley Historical Library, University of Michigan</p>
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <subject source="lcsh" encodinganalog="650">Education--Michigan--Ann Arbor.</subject>
-        <subject source="lcsh" encodinganalog="650">Intergenerational relations--Michigan--Ann Arbor.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5679">Education--Michigan--Ann Arbor.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/10364">Intergenerational relations--Michigan--Ann Arbor.</subject>
         <corpname source="lcnaf" encodinganalog="610">Lifespan Resources, Inc.</corpname>
-        <subject source="lcsh" encodinganalog="650">Schools--Michigan--Ann Arbor.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5698">Schools--Michigan--Ann Arbor.</subject>
         <persname source="lcnaf" encodinganalog="600">Tice, Carol H.</persname>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Materials:</head>
-        <subject source="lctgm" encodinganalog="650">Older people--Michigan--Ann Arbor.</subject>
-        <subject source="lctgm" encodinganalog="650">School children--Michigan--Ann Arbor.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/5444">Older people--Michigan--Ann Arbor.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4980">School children--Michigan--Ann Arbor.</subject>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Digital moving image formats.</genreform>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
-        <genreform source="aat" encodinganalog="655">Videotapes.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3306">Digital moving image formats.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3140">Videotapes.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -135,7 +135,7 @@ Carol H. Tice papers, Bentley Historical Library, University of Michigan</p>
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [62124426429185360]">1</container>
             <unittitle>Administrative Materials <unitdate type="inclusive" normal="1974/2012">1974-2012</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">85 folders</extent>
@@ -144,7 +144,7 @@ Carol H. Tice papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [2907829341404469]">2</container>
             <unittitle>Correspondence <unitdate type="inclusive" normal="1980/2006">1980-2006</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">60 folders</extent>
@@ -157,7 +157,7 @@ Carol H. Tice papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [2907829341404469]">2</container>
               <unittitle>Eva Jessye Concert <unitdate type="inclusive" normal="1978">1978</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -170,7 +170,7 @@ Carol H. Tice papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [2907829341404469]">2</container>
                 <unittitle>Related materials <unitdate type="inclusive" normal="1976">1976</unitdate></unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">4 folders</extent>
@@ -184,7 +184,7 @@ Carol H. Tice papers, Bentley Historical Library, University of Michigan</p>
                 <physdesc>
                   <physfacet>.MP4 and .ZIP files</physfacet>
                 </physdesc>
-                <dao href="http://hdl.handle.net/2027.42/110517" show="new" actuate="onrequest">
+                <dao href="http://hdl.handle.net/2027.42/110517" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/9153">
                   <daodesc>
                     <p>[view item]</p>
                   </daodesc>
@@ -202,7 +202,7 @@ Carol H. Tice papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [939183234562746588193]">3</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1971/1988">1971-1988</unitdate>
               </unittitle>
@@ -217,7 +217,7 @@ Carol H. Tice papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [350941924871322612]">4</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1991/2006">1991-2006</unitdate>
               </unittitle>
@@ -232,12 +232,12 @@ Carol H. Tice papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [9540034597014426185]">5</container>
             <unittitle>Informational materials</unittitle>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [9540034597014426185]">5</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1970/1992">1970-1992</unitdate>
               </unittitle>
@@ -248,7 +248,7 @@ Carol H. Tice papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [382366416950928504615]">6</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1993/2000">1993-2000</unitdate>
               </unittitle>
@@ -259,7 +259,7 @@ Carol H. Tice papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">10</container>
+              <container type="box" label="Box [2535254372255272]">10</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1970/2000">1970-2000</unitdate>
               </unittitle>
@@ -267,7 +267,7 @@ Carol H. Tice papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="folder" label="Oversize Folder">1</container>
+              <container type="folder" label="Oversize Folder [7824649547083281952221]">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1980" certainty="approximate">circa 1980</unitdate>
               </unittitle>
@@ -288,7 +288,7 @@ Carol H. Tice papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [382366416950928504615]">6</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1973/1976">1973-1976</unitdate>
               </unittitle>
@@ -299,7 +299,7 @@ Carol H. Tice papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">7</container>
+              <container type="box" label="Box [838141417453041690]">7</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1977/2007">1977-2007</unitdate>
               </unittitle>
@@ -311,7 +311,7 @@ Carol H. Tice papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">8</container>
+            <container type="box" label="Box [88266044367862016468947]">8</container>
             <unittitle>Related Projects <unitdate type="inclusive" normal="1974/1994">1974-1994</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">26 folders</extent>
@@ -320,7 +320,7 @@ Carol H. Tice papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">8</container>
+            <container type="box" label="Box [88266044367862016468947]">8</container>
             <unittitle>Reference Materials <unitdate type="inclusive" normal="1979/2004">1979-2004</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">15 folders</extent>
@@ -334,7 +334,7 @@ Carol H. Tice papers, Bentley Historical Library, University of Michigan</p>
             <physdesc>
               <physfacet>.MP4 and .ZIP files</physfacet>
             </physdesc>
-            <dao href="http://hdl.handle.net/2027.42/110518" show="new" actuate="onrequest">
+            <dao href="http://hdl.handle.net/2027.42/110518" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/9154">
               <daodesc>
                 <p>[view item]</p>
               </daodesc>
@@ -354,7 +354,7 @@ Carol H. Tice papers, Bentley Historical Library, University of Michigan</p>
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">9</container>
+            <container type="box" label="Box [95870474419927626401208]">9</container>
             <unittitle>
               <unitdate type="inclusive" normal="1979/2001">1979-2001</unitdate>
             </unittitle>

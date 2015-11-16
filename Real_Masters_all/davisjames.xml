@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>James Edward Davis Papers, 1929-2014</titleproper>
       <author>Finding aid created by <lb/>Devon Proudfoot, February 2015</author>
     </titlepage>
@@ -82,20 +82,20 @@ James Edward Davis papers, Bentley Historical Library, University of Michigan</p
       <controlaccess>
         <head>Subjects:</head>
         <corpname source="lcnaf" encodinganalog="610">Cherry Hill United Presbyterian Church (Dearborn, Mich.)</corpname>
-        <subject source="lcsh" encodinganalog="650">Christian communities--Michigan.</subject>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n85189101.html">Clinton (Lenawee County, Mich.)</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7147">Christian communities--Michigan.</subject>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n85189101.html" ref="/subjects/917">Clinton (Lenawee County, Mich.)</geogname>
         <persname source="lcnaf" encodinganalog="600">Davis, William Franklin.</persname>
         <famname source="lcnaf" encodinganalog="600">Davis family.</famname>
-        <geogname source="lcsh" encodinganalog="651">Public schools--Michigan.</geogname>
-        <subject source="lcsh" encodinganalog="650">Public schools--Michigan--Dearborn.</subject>
-        <subject source="lcsh" encodinganalog="650">Radicalism--Michigan--Ann Arbor.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1673">Public schools--Michigan.</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7148">Public schools--Michigan--Dearborn.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5801">Radicalism--Michigan--Ann Arbor.</subject>
         <corpname source="lcnaf" encodinganalog="610">United Church of Christ--Michigan--Clinton.</corpname>
         <corpname source="lcnaf" encodinganalog="610">United Church of Christ (Clinton, Mich.)</corpname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan--Students--Political activity.</corpname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan--Students--Social life and customs--1961-1970.</corpname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan--Students--Social life and customs--1971-1980.</corpname>
-        <subject source="lcsh" encodinganalog="650">Demonstrations--Michigan--Ann Arbor.</subject>
-        <geogname source="lcsh" encodinganalog="651">Dexter (Mich.)</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6258">Demonstrations--Michigan--Ann Arbor.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1013">Dexter (Mich.)</geogname>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -108,7 +108,7 @@ James Edward Davis papers, Bentley Historical Library, University of Michigan</p
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [5739842983479828]">1</container>
             <unittitle>Personal/Biographical materials</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">17 folders</extent>
@@ -117,7 +117,7 @@ James Edward Davis papers, Bentley Historical Library, University of Michigan</p
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [83837624844327772608]">5</container>
             <unittitle>Personal/ Biographical materials</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">8 folders</extent>
@@ -137,7 +137,7 @@ James Edward Davis papers, Bentley Historical Library, University of Michigan</p
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [5739842983479828]">1</container>
             <unittitle>Family papers</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">5 folders</extent>
@@ -146,7 +146,7 @@ James Edward Davis papers, Bentley Historical Library, University of Michigan</p
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [30928884078822907938]">2</container>
             <unittitle>Family papers</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">11 folders</extent>
@@ -155,7 +155,7 @@ James Edward Davis papers, Bentley Historical Library, University of Michigan</p
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [83837624844327772608]">5</container>
             <unittitle>Family papers</unittitle>
           </did>
           <accessrestrict>
@@ -172,7 +172,7 @@ James Edward Davis papers, Bentley Historical Library, University of Michigan</p
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [30928884078822907938]">2</container>
             <unittitle>Arts</unittitle>
           </did>
         </c02>
@@ -182,7 +182,7 @@ James Edward Davis papers, Bentley Historical Library, University of Michigan</p
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [30928884078822907938]">2</container>
               <unittitle>Cherry Hill United Presbyterian Church</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">9 folders</extent>
@@ -191,7 +191,7 @@ James Edward Davis papers, Bentley Historical Library, University of Michigan</p
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [63337388473945902]">3</container>
               <unittitle>Dexter Churches</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -200,7 +200,7 @@ James Edward Davis papers, Bentley Historical Library, University of Michigan</p
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [63337388473945902]">3</container>
               <unittitle>Dexter United Methodist Church</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -209,13 +209,13 @@ James Edward Davis papers, Bentley Historical Library, University of Michigan</p
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [63337388473945902]">3</container>
               <unittitle>Michigan Miscellaneous churches</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [63337388473945902]">3</container>
               <unittitle>St. Joseph's Catholic Parish</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -225,7 +225,7 @@ James Edward Davis papers, Bentley Historical Library, University of Michigan</p
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [63337388473945902]">3</container>
             <unittitle>Michigan political materials</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">11 folders</extent>
@@ -234,7 +234,7 @@ James Edward Davis papers, Bentley Historical Library, University of Michigan</p
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [63337388473945902]">3</container>
             <unittitle>Newspaper clippings</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -243,7 +243,7 @@ James Edward Davis papers, Bentley Historical Library, University of Michigan</p
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [83837624844327772608]">5</container>
             <unittitle>Newspaper clippings</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -255,30 +255,30 @@ James Edward Davis papers, Bentley Historical Library, University of Michigan</p
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [63337388473945902]">3</container>
             <unittitle>Schools</unittitle>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [63337388473945902]">3</container>
               <unittitle>25+ Club</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [63337388473945902]">3</container>
               <unittitle>Dearborn Board of Education</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [63337388473945902]">3</container>
               <unittitle>Dearborn Junior High School</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [8921774597716004652]">4</container>
               <unittitle>Dearborn Public Schools</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">10 folders</extent>
@@ -287,7 +287,7 @@ James Edward Davis papers, Bentley Historical Library, University of Michigan</p
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [83837624844327772608]">5</container>
               <unittitle>Dearborn Strike</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -299,19 +299,19 @@ James Edward Davis papers, Bentley Historical Library, University of Michigan</p
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [8921774597716004652]">4</container>
               <unittitle>Edsel Ford High School</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [8921774597716004652]">4</container>
               <unittitle>Fordson High School</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [8921774597716004652]">4</container>
               <unittitle>Lowrey High School</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -320,20 +320,20 @@ James Edward Davis papers, Bentley Historical Library, University of Michigan</p
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [8921774597716004652]">4</container>
               <unittitle>Metropolitan Detroit Schools</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [8921774597716004652]">4</container>
               <unittitle>Wayne County School District</unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [8921774597716004652]">4</container>
             <unittitle>Washtenaw County</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>

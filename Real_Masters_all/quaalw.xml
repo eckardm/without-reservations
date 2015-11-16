@@ -30,7 +30,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Ward L. Quaal Papers, 1941-2004</titleproper>
       <author>Finding aid created by <lb/>Thomas E. Powers, January 2006</author>
     </titlepage>
@@ -83,15 +83,15 @@ Ward L. Quaal Papers, Bentley Historical Library, University of Michigan</p>
       <controlaccess>
         <head>Subjects:</head>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n98000152">Quaal, Ward L.</persname>
-        <subject source="lcsh" encodinganalog="650">Broadcasting--United States.</subject>
-        <subject source="lcsh" encodinganalog="650">Radio broadcasting--United States--Management.</subject>
-        <subject source="lcsh" encodinganalog="650">Television broadcasting--United States--Management.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/9829">Broadcasting--United States.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/9830">Radio broadcasting--United States--Management.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/9831">Television broadcasting--United States--Management.</subject>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n92033568">WGN (Radio station : Chicago, Ill.)</corpname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n50045420">WGN (Television station : Chicago, Ill.)</corpname>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -101,7 +101,7 @@ Ward L. Quaal Papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">1</container>
+            <container type="volume" label="Oversize Volume [916252404240567858922444]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1941/1961">1941-1961</unitdate>
             </unittitle>
@@ -109,7 +109,7 @@ Ward L. Quaal Papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">2</container>
+            <container type="volume" label="Oversize Volume [9778608485750857]">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1961/1962">1961-1962</unitdate>
             </unittitle>
@@ -117,7 +117,7 @@ Ward L. Quaal Papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">3</container>
+            <container type="volume" label="Oversize Volume [559023640090917529224]">3</container>
             <unittitle>
               <unitdate type="inclusive" normal="1962/1964">1962-1964</unitdate>
             </unittitle>
@@ -125,7 +125,7 @@ Ward L. Quaal Papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">4</container>
+            <container type="volume" label="Oversize Volume [1642374900802810760315]">4</container>
             <unittitle>
               <unitdate type="inclusive" normal="1964/1966">1964-1966</unitdate>
             </unittitle>
@@ -133,7 +133,7 @@ Ward L. Quaal Papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">5</container>
+            <container type="volume" label="Oversize Volume [5064137466859107776]">5</container>
             <unittitle>
               <unitdate type="inclusive" normal="1966/1968">1966-1968</unitdate>
             </unittitle>
@@ -141,7 +141,7 @@ Ward L. Quaal Papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">6</container>
+            <container type="volume" label="Oversize Volume [511488201409431401090]">6</container>
             <unittitle>
               <unitdate type="inclusive" normal="1968/1970">1968-1970</unitdate>
             </unittitle>
@@ -149,7 +149,7 @@ Ward L. Quaal Papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">7</container>
+            <container type="volume" label="Oversize Volume [01827855439543283446]">7</container>
             <unittitle>
               <unitdate type="inclusive" normal="1970/1973">1970-1973</unitdate>
             </unittitle>
@@ -157,7 +157,7 @@ Ward L. Quaal Papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">8</container>
+            <container type="volume" label="Oversize Volume [547566624612382974]">8</container>
             <unittitle>
               <unitdate type="inclusive" normal="1973/1985">1973-1985</unitdate>
             </unittitle>
@@ -165,7 +165,7 @@ Ward L. Quaal Papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">9</container>
+            <container type="volume" label="Oversize Volume [5468072987415491972431439]">9</container>
             <unittitle>1985-2004</unittitle>
           </did>
         </c02>
@@ -176,13 +176,13 @@ Ward L. Quaal Papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6796842859242507610029]">1</container>
             <unittitle>Index to the scrapbooks</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6796842859242507610029]">1</container>
             <unittitle>Photocopies of letters from US Presidents and other public figures</unittitle>
           </did>
           <odd>
@@ -191,13 +191,13 @@ Ward L. Quaal Papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6796842859242507610029]">1</container>
             <unittitle>Biographical miscellaneous</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6796842859242507610029]">1</container>
             <unittitle>Ward Quaal Tribute</unittitle>
             <physdesc altrender="part">
               <extent altrender="materialtype spaceoccupied">1 optical disks</extent>

@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>First Presbyterian Church (Ann Arbor, Mich.) records, 1872-1972</titleproper>
       <author>Finding aid created by <lb/>Michigan Historical Collections staff</author>
     </titlepage>
@@ -85,25 +85,25 @@ First Presbyterian Church (Ann Arbor, Mich.) records, Bentley Historical Library
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n79022219.html">Ann Arbor (Mich.)</geogname>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n79022219.html" ref="/subjects/860">Ann Arbor (Mich.)</geogname>
         <corpname source="lcnaf" encodinganalog="610">United Presbyterian Church in the U.S.A.--Michigan--Ann Arbor.</corpname>
         <corpname source="lcnaf" encodinganalog="610">Presbyterian Corporation of the University of Michigan.</corpname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan--Religion.</corpname>
-        <subject source="lcsh" encodinganalog="650">Women--Michigan--Ann Arbor--Societies and clubs.</subject>
-        <subject source="lcsh" encodinganalog="650">Youth--Michigan--Ann Arbor.</subject>
-        <subject source="lcsh" encodinganalog="650">Women--Religious life--Michigan--Ann Arbor.</subject>
-        <subject source="lcsh" encodinganalog="650">Youth--Religious life--Michigan--Ann Arbor.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5672">Women--Michigan--Ann Arbor--Societies and clubs.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6300">Youth--Michigan--Ann Arbor.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6301">Women--Religious life--Michigan--Ann Arbor.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6302">Youth--Religious life--Michigan--Ann Arbor.</subject>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Materials:</head>
-        <geogname source="lctgm" encodinganalog="651">Ann Arbor (Mich.)--Churches.</geogname>
-        <subject source="lctgm" encodinganalog="650">Churches--Michigan--Ann Arbor.</subject>
+        <geogname source="lctgm" encodinganalog="651" ref="/subjects/211">Ann Arbor (Mich.)--Churches.</geogname>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3591">Churches--Michigan--Ann Arbor.</subject>
         <corpname source="lcnaf" encodinganalog="610">First Presbyterian Church (Ann Arbor, Mich.)</corpname>
-        <subject source="lctgm" encodinganalog="650">Presbyterian churches--Michigan--Ann Arbor.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4337">Presbyterian churches--Michigan--Ann Arbor.</subject>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -113,7 +113,7 @@ First Presbyterian Church (Ann Arbor, Mich.) records, Bentley Historical Library
         </did>
         <c02 level="file">
           <did>
-            <container type="reel" label="Roll">1</container>
+            <container type="reel" label="Roll [92443538430186883448640]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1872-05-03/1957-01-08">May 3, 1872-January 8, 1957</unitdate>
             </unittitle>
@@ -121,7 +121,7 @@ First Presbyterian Church (Ann Arbor, Mich.) records, Bentley Historical Library
         </c02>
         <c02 level="file">
           <did>
-            <container type="reel" label="Roll">2</container>
+            <container type="reel" label="Roll [75172319440680821898626]">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1957-01-31/1972-01-13">January 31, 1957-January 13, 1972</unitdate>
             </unittitle>
@@ -134,13 +134,13 @@ First Presbyterian Church (Ann Arbor, Mich.) records, Bentley Historical Library
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [508223064041497935838]">1</container>
             <unittitle>Historical sketch <unitdate type="inclusive">undated</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [508223064041497935838]">1</container>
             <unittitle>Papers, undated</unittitle>
             <unitdate type="inclusive" normal="1887/1895">1887-1895</unitdate>
             <unitdate type="inclusive" normal="1903/1929-06">1903-June 1929</unitdate>
@@ -151,7 +151,7 @@ First Presbyterian Church (Ann Arbor, Mich.) records, Bentley Historical Library
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [7348934625300496182]">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1929-07/1959">July 1929-1959</unitdate>
             </unittitle>
@@ -167,19 +167,19 @@ First Presbyterian Church (Ann Arbor, Mich.) records, Bentley Historical Library
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [7348934625300496182]">2</container>
             <unittitle>Minute book of the First Presbyterian Society <unitdate type="inclusive" normal="1883/1908">1883-1908</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [7348934625300496182]">2</container>
             <unittitle>Secretary's Record of the Women's Foreign Missionary Society <unitdate type="inclusive" normal="1915/1926">1915-1926</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [7348934625300496182]">2</container>
             <unittitle>Christian Endeavor Society records <unitdate type="inclusive" normal="1897/1910">1897-1910</unitdate></unittitle>
           </did>
         </c02>
@@ -189,26 +189,26 @@ First Presbyterian Church (Ann Arbor, Mich.) records, Bentley Historical Library
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [284648794708923786764]">3</container>
               <unittitle>Minute book <unitdate type="inclusive" normal="1890/1917">1890-1917</unitdate> (TPHA)</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [284648794708923786764]">3</container>
               <unittitle>Minute book <unitdate type="inclusive" normal="1917/1923">1917-1923</unitdate> (TPHA)</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [284648794708923786764]">3</container>
               <unittitle>Records <unitdate type="inclusive" normal="1922/1933">1922-1933</unitdate> (UMPC)</unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [284648794708923786764]">3</container>
             <unittitle>Westminster Guild records <unitdate type="inclusive" normal="1949/1953">1949-1953</unitdate></unittitle>
           </did>
         </c02>
@@ -221,13 +221,13 @@ First Presbyterian Church (Ann Arbor, Mich.) records, Bentley Historical Library
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [284648794708923786764]">3</container>
             <unittitle>Photographs of exterior of church buildings and miscellaneous</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container label="Oversize Folder" type="folder">UBAm</container>
+            <container label="Oversize Folder [6015144384410257254854]" type="folder">UBAm</container>
             <unittitle>Church personalities</unittitle>
           </did>
         </c02>

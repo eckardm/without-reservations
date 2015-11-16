@@ -26,7 +26,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding Aid for <lb/>John Percey Clock papers, <date>1918-2010</date></titleproper>
       <author>Finding aid prepared by: <lb/>Len Coombs</author>
     </titlepage>
@@ -82,16 +82,16 @@
         <persname source="lcnaf" encodinganalog="600">Clock, John Percey.</persname>
         <persname source="lcnaf" encodinganalog="600">Montgomery, Lawrence K.</persname>
         <corpname source="lcnaf" encodinganalog="610">Polar Bear Association.</corpname>
-        <geogname source="lcsh" encodinganalog="651">Soviet Union--History--Allied intervention, 1918-1920.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/883">Soviet Union--History--Allied intervention, 1918-1920.</geogname>
         <corpname source="lcnaf" encodinganalog="610">United States. Army. Ambulance Company, 337th.</corpname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n82129076">United States. Army. Infantry, 339th.</corpname>
-        <subject source="lcsh" encodinganalog="650">World War, 1914-1918.</subject>
-        <subject source="local" encodinganalog="690" authfilenumber="http://id.loc.gov/authorities/names/n2008059426">Polar Bear Expedition.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5712">World War, 1914-1918.</subject>
+        <subject source="local" encodinganalog="690" authfilenumber="http://id.loc.gov/authorities/names/n2008059426" ref="/subjects/3518">Polar Bear Expedition.</subject>
       </controlaccess>
       <controlaccess>
         <head>Genre/Form:</head>
-        <genreform source="aat" encodinganalog="655" normal="Oral histories.">Oral histories.</genreform>
-        <genreform source="aat" encodinganalog="655">Sound recordings.</genreform>
+        <genreform source="aat" encodinganalog="655" normal="Oral histories." ref="/subjects/3161">Oral histories.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3143">Sound recordings.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -101,14 +101,14 @@
         </did>
         <c02 level="file">
           <did>
-            <container type="folder" label="Folder">1</container>
+            <container type="folder" label="Folder [964918368422854730502486]">1</container>
             <unittitle>Digitized sound recording of interview</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">4 digital files</extent>
               <extent altrender="carrier">(in 1 zip file)</extent>
               <physfacet>MP3 files</physfacet>
             </physdesc>
-            <dao show="new" actuate="onrequest" href="clock0001">
+            <dao show="new" actuate="onRequest" href="clock0001" ref="/repositories/2/digital_objects/1968">
               <daodesc>
                 <p>[download file]</p>
               </daodesc>
@@ -117,19 +117,19 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="folder" label="Folder">2</container>
+            <container type="folder" label="Folder [9480863840629778102383843]">2</container>
             <unittitle>Interview transcript</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="folder" label="Folder">3</container>
+            <container type="folder" label="Folder [421695543373194248978]">3</container>
             <unittitle><corpname normal="Polar Bear Association.">Polar Bear Association</corpname> publications</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="folder" label="Folder">4</container>
+            <container type="folder" label="Folder [22186390444801496655401]">4</container>
             <unittitle>Miscellaneous papers</unittitle>
           </did>
         </c02>

@@ -30,7 +30,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding Aid for <lb/>William H. Withington Papers [microform], 1853-1909</titleproper>
       <author>Finding aid prepared by: <lb/>Sheon Montgomery and Ann Flowers</author>
     </titlepage>
@@ -81,16 +81,16 @@
     <controlaccess>
       <controlaccess>
         <head>Subjects:</head>
-        <subject source="lcsh" encodinganalog="650">Business records.</subject>
-        <geogname source="lcsh" encodinganalog="651">Europe--Description and travel.</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5784">Business records.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/972">Europe--Description and travel.</geogname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n84076025">Grand Army of the Republic.</corpname>
-        <geogname source="lcsh" encodinganalog="651">Jackson (Mich.)</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/924">Jackson (Mich.)</geogname>
         <corpname source="lcnaf" encodinganalog="610">Republican Party (Mich.)</corpname>
         <corpname source="lcnaf" encodinganalog="610">United States. Army. Michigan Infantry Regiment, 1st (1861). Company B.</corpname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n88106525">United States. Army. Michigan Infantry Regiment, 17th (1862-1865)</corpname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n79022161">United States. Congress. Senate.</corpname>
-        <geogname source="lcsh" encodinganalog="651">United States--History--Civil War, 1861-1865.</geogname>
-        <subject source="lcsh" encodinganalog="650">Voyages and travels.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/909">United States--History--Civil War, 1861-1865.</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6009">Voyages and travels.</subject>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n2007052748">Withington, William Herbert, 1835-1903.</persname>
         <corpname source="lcnaf" encodinganalog="610">Withington and Cooley Manufacturing Company.</corpname>
       </controlaccess>
@@ -117,13 +117,13 @@
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Material:</head>
-        <geogname source="lctgm" encodinganalog="651">Battlefields--Virginia.</geogname>
-        <geogname source="lcsh" encodinganalog="651">Camp Crosswell (Mich.)</geogname>
+        <geogname source="lctgm" encodinganalog="651" ref="/subjects/741">Battlefields--Virginia.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/3123">Camp Crosswell (Mich.)</geogname>
         <corpname source="lcnaf" encodinganalog="610">Michigan. State Troops (1862-1893)</corpname>
-        <subject source="lctgm" encodinganalog="650">Military camps.</subject>
-        <subject source="lctgm" encodinganalog="650">Soldiers--American.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3747">Military camps.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3674">Soldiers--American.</subject>
         <corpname source="lcnaf" encodinganalog="610">United States. Army. Michigan Infantry Regiment, 1st (1861). Company B.</corpname>
-        <geogname source="lcsh" encodinganalog="651">United States--History--Civil War, 1861-1865.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/909">United States--History--Civil War, 1861-1865.</geogname>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n2007052748">Withington, William Herbert, 1835-1903.</persname>
       </controlaccess>
       <controlaccess>
@@ -132,9 +132,9 @@
       </controlaccess>
       <controlaccess>
         <head>Genre/Form:</head>
-        <genreform source="aat" encodinganalog="655">Account books.</genreform>
-        <genreform source="aat" encodinganalog="655">Diaries.</genreform>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3257">Account books.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3150">Diaries.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -147,7 +147,7 @@
         </scopecontent>
         <c02 level="file">
           <did>
-            <container label="Roll" type="reel">1</container>
+            <container label="Roll [86266034329441511332]" type="reel">1</container>
             <unittitle>Diary <unitdate type="inclusive" normal="1861">1861</unitdate></unittitle>
           </did>
         </c02>
@@ -157,7 +157,7 @@
           </did>
           <c03 level="file">
             <did>
-              <container label="Roll" type="reel">1</container>
+              <container label="Roll [86266034329441511332]" type="reel">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1861">1861</unitdate>
               </unittitle>
@@ -165,7 +165,7 @@
           </c03>
           <c03 level="file">
             <did>
-              <container label="Roll" type="reel">1</container>
+              <container label="Roll [86266034329441511332]" type="reel">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1862">1862</unitdate>
               </unittitle>
@@ -173,7 +173,7 @@
           </c03>
           <c03 level="file">
             <did>
-              <container label="Roll" type="reel">1</container>
+              <container label="Roll [86266034329441511332]" type="reel">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1863">1863</unitdate>
               </unittitle>
@@ -181,7 +181,7 @@
           </c03>
           <c03 level="file">
             <did>
-              <container label="Roll" type="reel">1</container>
+              <container label="Roll [86266034329441511332]" type="reel">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1864">1864</unitdate>
               </unittitle>
@@ -194,7 +194,7 @@
           </did>
           <c03 level="file">
             <did>
-              <container label="Roll" type="reel">1</container>
+              <container label="Roll [86266034329441511332]" type="reel">1</container>
               <unittitle>Military <unitdate type="inclusive" normal="1861">1861</unitdate></unittitle>
             </did>
           </c03>
@@ -204,7 +204,7 @@
             </did>
             <c04 level="file">
               <did>
-                <container label="Roll" type="reel">1</container>
+                <container label="Roll [86266034329441511332]" type="reel">1</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1860/1861">1860-1861</unitdate>
                 </unittitle>
@@ -215,7 +215,7 @@
             </c04>
             <c04 level="file">
               <did>
-                <container label="Roll" type="reel">1</container>
+                <container label="Roll [86266034329441511332]" type="reel">1</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1863">1863</unitdate>
                 </unittitle>
@@ -225,19 +225,19 @@
         </c02>
         <c02 level="file">
           <did>
-            <container label="Roll" type="reel">1</container>
+            <container label="Roll [86266034329441511332]" type="reel">1</container>
             <unittitle><title render="italic">Remembrance as P.O.W.</title>, <unitdate type="inclusive" normal="1861-07/1862-01">July 1861-January 1862</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container label="Roll" type="reel">1</container>
+            <container label="Roll [86266034329441511332]" type="reel">1</container>
             <unittitle>Miscellanea <unitdate type="inclusive" normal="1861/1863">1861-1863</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container label="Roll" type="reel">1</container>
+            <container label="Roll [86266034329441511332]" type="reel">1</container>
             <unittitle>
               <genreform source="aat" normal="Photographs">Photographs</genreform>
             </unittitle>
@@ -252,19 +252,19 @@
           </did>
           <c03 level="file">
             <did>
-              <container label="Roll" type="reel">1</container>
+              <container label="Roll [86266034329441511332]" type="reel">1</container>
               <unittitle>Grand Army of the Republic and Memorial Hall Committee <unitdate type="inclusive" normal="1892/1893">1892-1893</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container label="Roll" type="reel">1</container>
+              <container label="Roll [86266034329441511332]" type="reel">1</container>
               <unittitle>War Memorial Work <unitdate type="inclusive" normal="1894/1898">1894-1898</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container label="Roll" type="reel">1</container>
+              <container label="Roll [86266034329441511332]" type="reel">1</container>
               <unittitle>"The First Call of the Civil War: Personal Recollections of Michigan's Response" read by Gen. W. H. Withington <unitdate type="inclusive" normal="1897">1897</unitdate></unittitle>
             </did>
           </c03>
@@ -279,31 +279,31 @@
         </scopecontent>
         <c02 level="file">
           <did>
-            <container label="Roll" type="reel">1</container>
+            <container label="Roll [86266034329441511332]" type="reel">1</container>
             <unittitle>Correspondence and Other Papers <unitdate type="inclusive" normal="1866/1890">1866-1890</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container label="Roll" type="reel">1</container>
+            <container label="Roll [86266034329441511332]" type="reel">1</container>
             <unittitle>Michigan State Senate <unitdate type="inclusive" normal="1891/1892">1891-1892</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container label="Roll" type="reel">1</container>
+            <container label="Roll [86266034329441511332]" type="reel">1</container>
             <unittitle>Attempted U.S. Senate Appointment <unitdate type="inclusive" normal="1894-05">May 1894</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container label="Roll" type="reel">1</container>
+            <container label="Roll [86266034329441511332]" type="reel">1</container>
             <unittitle>Withington's Views on Money Issue <unitdate type="inclusive" normal="1896">1896</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container label="Roll" type="reel">1</container>
+            <container label="Roll [86266034329441511332]" type="reel">1</container>
             <unittitle>Miscellanea</unittitle>
             <unitdate type="inclusive" normal="1859/1909">1859-1909</unitdate>
             <unitdate>undated</unitdate>
@@ -326,7 +326,7 @@
           </odd>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [2181286524757835279347]">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1853/1878">1853-1878</unitdate>
               </unittitle>
@@ -337,7 +337,7 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [2181286524757835279347]">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1879/1902">1879-1902</unitdate>
               </unittitle>
@@ -349,25 +349,25 @@
         </c02>
         <c02 level="file">
           <did>
-            <container label="Roll" type="reel">1</container>
+            <container label="Roll [86266034329441511332]" type="reel">1</container>
             <unittitle>Accounts <unitdate type="inclusive" normal="1857/1858">1857-1858</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container label="Roll" type="reel">1</container>
+            <container label="Roll [86266034329441511332]" type="reel">1</container>
             <unittitle>Business Journal <unitdate type="inclusive" normal="1889/1903">1889-1903</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container label="Roll" type="reel">1</container>
+            <container label="Roll [86266034329441511332]" type="reel">1</container>
             <unittitle>Ledger <unitdate type="inclusive" normal="1894/1903">1894-1903</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container label="Roll" type="reel">1</container>
+            <container label="Roll [86266034329441511332]" type="reel">1</container>
             <unittitle>Miscellanea <unitdate type="inclusive" normal="1859/1902">1859-1902</unitdate></unittitle>
           </did>
         </c02>
@@ -381,7 +381,7 @@
         </scopecontent>
         <c02 level="file">
           <did>
-            <container label="Roll" type="reel">2</container>
+            <container label="Roll [9762661438958955499]" type="reel">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1861">1861</unitdate>
             </unittitle>
@@ -389,7 +389,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container label="Roll" type="reel">2</container>
+            <container label="Roll [9762661438958955499]" type="reel">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1861/1862">1861-1862</unitdate>
             </unittitle>
@@ -400,7 +400,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container label="Roll" type="reel">2</container>
+            <container label="Roll [9762661438958955499]" type="reel">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1862/1863">1862-1863</unitdate>
             </unittitle>
@@ -411,7 +411,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container label="Roll" type="reel">2</container>
+            <container label="Roll [9762661438958955499]" type="reel">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1861/1902">1861-1902</unitdate>
             </unittitle>
@@ -419,7 +419,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container label="Roll" type="reel">2</container>
+            <container label="Roll [9762661438958955499]" type="reel">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1881/1990">1881-1990</unitdate>
             </unittitle>
@@ -427,7 +427,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container label="Roll" type="reel">2</container>
+            <container label="Roll [9762661438958955499]" type="reel">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1903-06/1903-08">June-August, 1903</unitdate>
             </unittitle>

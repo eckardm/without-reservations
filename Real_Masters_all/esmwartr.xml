@@ -26,7 +26,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>University Archives and Records Program <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/2">University Archives and Records Program <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Engineering Science and Management War Training Program <lb/>(University of Michigan) <lb/>Records, 1940-1945</titleproper>
       <author>Finding aid created by <lb/>Bentley Historical Library Staff</author>
     </titlepage>
@@ -80,8 +80,8 @@ Engineering Science and Management War Training Program (University of Michigan)
       <controlaccess>
         <head>Subjects:</head>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan. Engineering Science and Management War Training Program.</corpname>
-        <subject source="lcsh" encodinganalog="650">World War, 1939-1945--Education and the war.</subject>
-        <subject source="lcsh" encodinganalog="650">World War, 1939-1945--Michigan--Ann Arbor.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6044">World War, 1939-1945--Education and the war.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6045">World War, 1939-1945--Michigan--Ann Arbor.</subject>
       </controlaccess>
       <controlaccess>
         <head>Contributors:</head>
@@ -89,7 +89,7 @@ Engineering Science and Management War Training Program (University of Michigan)
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Diaries.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3150">Diaries.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -99,7 +99,7 @@ Engineering Science and Management War Training Program (University of Michigan)
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [1970344497324589728]">1</container>
             <unittitle>Diaries of Robert Sherlock <unitdate type="inclusive" normal="1941/1945">1941-1945</unitdate></unittitle>
           </did>
         </c02>
@@ -111,13 +111,13 @@ Engineering Science and Management War Training Program (University of Michigan)
         <c02 level="file">
           <did>
             <unittitle>Engineering Training Program <unitdate type="inclusive" normal="1940/1941">1940-1941</unitdate></unittitle>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [1466802966409347156611736]">2</container>
           </did>
         </c02>
         <c02 level="file">
           <did>
             <unittitle>Engineering Training Program <unitdate type="inclusive" normal="1940/1941">1940-1941</unitdate></unittitle>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [2469044403964970996]">3</container>
           </did>
           <odd>
             <p>(continued)</p>
@@ -126,22 +126,13 @@ Engineering Science and Management War Training Program (University of Michigan)
         <c02 level="file">
           <did>
             <unittitle>Engineering Science and Management Defense Training Program <unitdate type="inclusive" normal="1941/1942">1941-1942</unitdate></unittitle>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [34542344206424317574]">4</container>
           </did>
         </c02>
         <c02 level="file">
           <did>
             <unittitle>Engineering Science and Management Defense Training Program <unitdate type="inclusive" normal="1941/1942">1941-1942</unitdate></unittitle>
-            <container type="box" label="Box">5</container>
-          </did>
-          <odd>
-            <p>(continued)</p>
-          </odd>
-        </c02>
-        <c02 level="file">
-          <did>
-            <unittitle>Engineering Science and Management Defense Training Program <unitdate type="inclusive" normal="1941/1942">1941-1942</unitdate></unittitle>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [40488340943779298457600205]">5</container>
           </did>
           <odd>
             <p>(continued)</p>
@@ -150,7 +141,16 @@ Engineering Science and Management War Training Program (University of Michigan)
         <c02 level="file">
           <did>
             <unittitle>Engineering Science and Management Defense Training Program <unitdate type="inclusive" normal="1941/1942">1941-1942</unitdate></unittitle>
-            <container type="box" label="Box">7</container>
+            <container type="box" label="Box [7163063727141085026755887]">6</container>
+          </did>
+          <odd>
+            <p>(continued)</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did>
+            <unittitle>Engineering Science and Management Defense Training Program <unitdate type="inclusive" normal="1941/1942">1941-1942</unitdate></unittitle>
+            <container type="box" label="Box [549970404798235335088]">7</container>
           </did>
           <odd>
             <p>(continued)</p>
@@ -165,7 +165,7 @@ Engineering Science and Management War Training Program (University of Michigan)
               <unittitle>
                 <unitdate type="inclusive" normal="1942/1943">1942-1943</unitdate>
               </unittitle>
-              <container type="box" label="Box">8</container>
+              <container type="box" label="Box [031362427642870336363]">8</container>
             </did>
           </c03>
           <c03 level="file">
@@ -173,18 +173,7 @@ Engineering Science and Management War Training Program (University of Michigan)
               <unittitle>
                 <unitdate type="inclusive" normal="1942/1943">1942-1943</unitdate>
               </unittitle>
-              <container type="box" label="Box">9</container>
-            </did>
-            <odd>
-              <p>(continued)</p>
-            </odd>
-          </c03>
-          <c03 level="file">
-            <did>
-              <unittitle>
-                <unitdate type="inclusive" normal="1942/1943">1942-1943</unitdate>
-              </unittitle>
-              <container type="box" label="Box">10</container>
+              <container type="box" label="Box [015881439865563515]">9</container>
             </did>
             <odd>
               <p>(continued)</p>
@@ -195,7 +184,7 @@ Engineering Science and Management War Training Program (University of Michigan)
               <unittitle>
                 <unitdate type="inclusive" normal="1942/1943">1942-1943</unitdate>
               </unittitle>
-              <container type="box" label="Box">11</container>
+              <container type="box" label="Box [97878484771620941]">10</container>
             </did>
             <odd>
               <p>(continued)</p>
@@ -206,7 +195,7 @@ Engineering Science and Management War Training Program (University of Michigan)
               <unittitle>
                 <unitdate type="inclusive" normal="1942/1943">1942-1943</unitdate>
               </unittitle>
-              <container type="box" label="Box">12</container>
+              <container type="box" label="Box [8006669745483348977974]">11</container>
             </did>
             <odd>
               <p>(continued)</p>
@@ -217,7 +206,18 @@ Engineering Science and Management War Training Program (University of Michigan)
               <unittitle>
                 <unitdate type="inclusive" normal="1942/1943">1942-1943</unitdate>
               </unittitle>
-              <container type="box" label="Box">13</container>
+              <container type="box" label="Box [436417606141049613]">12</container>
+            </did>
+            <odd>
+              <p>(continued)</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>
+                <unitdate type="inclusive" normal="1942/1943">1942-1943</unitdate>
+              </unittitle>
+              <container type="box" label="Box [825169664939093696378]">13</container>
             </did>
             <odd>
               <p>(continued)</p>
@@ -228,7 +228,7 @@ Engineering Science and Management War Training Program (University of Michigan)
               <unittitle>
                 <unitdate type="inclusive" normal="1943/1944">1943-1944</unitdate>
               </unittitle>
-              <container type="box" label="Box">14</container>
+              <container type="box" label="Box [7526087840951114351230]">14</container>
             </did>
           </c03>
           <c03 level="file">
@@ -236,18 +236,7 @@ Engineering Science and Management War Training Program (University of Michigan)
               <unittitle>
                 <unitdate type="inclusive" normal="1943/1944">1943-1944</unitdate>
               </unittitle>
-              <container type="box" label="Box">15</container>
-            </did>
-            <odd>
-              <p>(continued)</p>
-            </odd>
-          </c03>
-          <c03 level="file">
-            <did>
-              <unittitle>
-                <unitdate type="inclusive" normal="1943/1944">1943-1944</unitdate>
-              </unittitle>
-              <container type="box" label="Box">16</container>
+              <container type="box" label="Box [579681431752300547]">15</container>
             </did>
             <odd>
               <p>(continued)</p>
@@ -258,7 +247,18 @@ Engineering Science and Management War Training Program (University of Michigan)
               <unittitle>
                 <unitdate type="inclusive" normal="1943/1944">1943-1944</unitdate>
               </unittitle>
-              <container type="box" label="Box">17</container>
+              <container type="box" label="Box [662301248418373452]">16</container>
+            </did>
+            <odd>
+              <p>(continued)</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>
+                <unitdate type="inclusive" normal="1943/1944">1943-1944</unitdate>
+              </unittitle>
+              <container type="box" label="Box [6218750643896555209]">17</container>
             </did>
             <odd>
               <p>(continued)</p>
@@ -269,7 +269,7 @@ Engineering Science and Management War Training Program (University of Michigan)
               <unittitle>
                 <unitdate type="inclusive" normal="1944/1945">1944-1945</unitdate>
               </unittitle>
-              <container type="box" label="Box">18</container>
+              <container type="box" label="Box [2780650546480898731]">18</container>
             </did>
           </c03>
           <c03 level="file">
@@ -277,7 +277,7 @@ Engineering Science and Management War Training Program (University of Michigan)
               <unittitle>
                 <unitdate type="inclusive" normal="1944/1945">1944-1945</unitdate>
               </unittitle>
-              <container type="box" label="Box">19</container>
+              <container type="box" label="Box [3786253465188220188]">19</container>
             </did>
             <odd>
               <p>(continued)</p>
@@ -288,7 +288,7 @@ Engineering Science and Management War Training Program (University of Michigan)
               <unittitle>
                 <unitdate type="inclusive" normal="1944/1945">1944-1945</unitdate>
               </unittitle>
-              <container type="box" label="Box">20</container>
+              <container type="box" label="Box [80358464863120893]">20</container>
             </did>
             <odd>
               <p>(continued)</p>
@@ -297,19 +297,19 @@ Engineering Science and Management War Training Program (University of Michigan)
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">21</container>
+            <container type="box" label="Box [59834862443876029113]">21</container>
             <unittitle>Ordnance Materials Inspection Course, Student File</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">22</container>
+            <container type="box" label="Box [04348693484325890495]">22</container>
             <unittitle>Trainee File</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">23</container>
+            <container type="box" label="Box [0707540904421387102]">23</container>
             <unittitle>Ivan Crawford file</unittitle>
           </did>
         </c02>

@@ -30,7 +30,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>William Harlan Stoneman Papers, 1928-1974</titleproper>
       <author>Finding aid created by <lb/>Michigan Historical Collections staff, 1974</author>
     </titlepage>
@@ -80,24 +80,24 @@ William Harlan Stoneman Papers, Bentley Historical Library, University of Michig
       <controlaccess>
         <head>Subjects:</head>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n97090844">Chicago daily news.</corpname>
-        <geogname source="lcsh" encodinganalog="651">Ethiopia.</geogname>
-        <geogname source="lcsh" encodinganalog="651">France.</geogname>
-        <geogname source="lcsh" encodinganalog="651">Great Britain.</geogname>
-        <geogname source="lcsh" encodinganalog="651">Hungary.</geogname>
-        <subject source="lcsh" encodinganalog="650">Italo-Ethiopian War, 1935-1936.</subject>
-        <subject source="lcsh" encodinganalog="650">Journalists--Illinois--Chicago.</subject>
-        <subject source="lcsh" encodinganalog="650">American newspapers--Illinois--Chicago.</subject>
-        <geogname source="lcsh" encodinganalog="651">Soviet Union.</geogname>
-        <subject source="lcsh" encodinganalog="650">World War, 1939-1945.</subject>
-        <subject source="lcsh" encodinganalog="650">Foreign correspondents--United States.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/2862">Ethiopia.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1768">France.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1344">Great Britain.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/2842">Hungary.</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/10251">Italo-Ethiopian War, 1935-1936.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/10252">Journalists--Illinois--Chicago.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/10253">American newspapers--Illinois--Chicago.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1294">Soviet Union.</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5681">World War, 1939-1945.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7317">Foreign correspondents--United States.</subject>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Materials:</head>
         <persname source="lcnaf" encodinganalog="600">Stoneman, William Harlan, 1904-</persname>
-        <subject source="lcsh" encodinganalog="650">Foreign correspondents--United States.</subject>
-        <geogname source="lcsh" encodinganalog="651">Hungary--History--Revolution, 1956.</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7317">Foreign correspondents--United States.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/2863">Hungary--History--Revolution, 1956.</geogname>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n80021705">Khrushchev, Nikita Sergeevich, 1894-1971.</persname>
-        <subject source="lctgm" encodinganalog="650">War correspondents--American.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/5398">War correspondents--American.</subject>
       </controlaccess>
       <controlaccess>
         <head>Contributors</head>
@@ -118,8 +118,8 @@ William Harlan Stoneman Papers, Bentley Historical Library, University of Michig
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
-        <genreform source="aat" encodinganalog="655">Scrapbooks.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3139">Scrapbooks.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -129,7 +129,7 @@ William Harlan Stoneman Papers, Bentley Historical Library, University of Michig
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [601063442956293721]">1</container>
             <unittitle>
               <unitdate type="inclusive">Undated</unitdate>
             </unittitle>
@@ -137,7 +137,7 @@ William Harlan Stoneman Papers, Bentley Historical Library, University of Michig
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [601063442956293721]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1931/1935">1931-1935</unitdate>
             </unittitle>
@@ -145,7 +145,7 @@ William Harlan Stoneman Papers, Bentley Historical Library, University of Michig
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [601063442956293721]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1936/1940">1936-1940</unitdate>
             </unittitle>
@@ -153,7 +153,7 @@ William Harlan Stoneman Papers, Bentley Historical Library, University of Michig
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [601063442956293721]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1941/1950">1941-1950</unitdate>
             </unittitle>
@@ -161,7 +161,7 @@ William Harlan Stoneman Papers, Bentley Historical Library, University of Michig
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [601063442956293721]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1951/1955">1951-1955</unitdate>
             </unittitle>
@@ -169,7 +169,7 @@ William Harlan Stoneman Papers, Bentley Historical Library, University of Michig
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [601063442956293721]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1956/1960">1956-1960</unitdate>
             </unittitle>
@@ -177,7 +177,7 @@ William Harlan Stoneman Papers, Bentley Historical Library, University of Michig
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [601063442956293721]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1961/1965">1961-1965</unitdate>
             </unittitle>
@@ -185,7 +185,7 @@ William Harlan Stoneman Papers, Bentley Historical Library, University of Michig
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [601063442956293721]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1966/1970">1966-1970</unitdate>
             </unittitle>
@@ -198,49 +198,49 @@ William Harlan Stoneman Papers, Bentley Historical Library, University of Michig
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [601063442956293721]">1</container>
             <unittitle>Personal publicity <unitdate type="inclusive" normal="1925/1969">1925-1969</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [601063442956293721]">1</container>
             <unittitle>Papers concerning activities in France <unitdate type="inclusive" normal="1939">1939</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [601063442956293721]">1</container>
             <unittitle>Papers concerning the "Sitzkreig" in France <unitdate type="inclusive" normal="1939/1940">1939-1940</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [601063442956293721]">1</container>
             <unittitle>Diary notes on London at the beginning of the war <unitdate type="inclusive" normal="1939-09">September 1939</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [601063442956293721]">1</container>
             <unittitle>Notes on Russia <unitdate type="inclusive" normal="1932/1935">1932-1935</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [601063442956293721]">1</container>
             <unittitle>Papers concerning the war in Ethiopia <unitdate type="inclusive" normal="1935/1936">1935-1936</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [601063442956293721]">1</container>
             <unittitle>Miscellaneous clippings, speeches, and talks</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [601063442956293721]">1</container>
             <unittitle>Stoneman autobiography</unittitle>
           </did>
         </c02>
@@ -254,13 +254,13 @@ William Harlan Stoneman Papers, Bentley Historical Library, University of Michig
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [601063442956293721]">1</container>
             <unittitle>Photograph album concerning "Hungarian Rebellion" <unitdate type="inclusive" normal="1956">1956</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [601063442956293721]">1</container>
             <unittitle>Photograph album of visit of Nikita Khrushchev to Oslo in 1964 and of his visit to Finland in 1957</unittitle>
             <unitdate type="inclusive" normal="1964">1964</unitdate>
             <unitdate type="inclusive" normal="1957">1957</unitdate>
@@ -268,7 +268,7 @@ William Harlan Stoneman Papers, Bentley Historical Library, University of Michig
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [601063442956293721]">1</container>
             <unittitle>Photograph album from Foreign Ministers Conference in Berlin <unitdate type="inclusive" normal="1954-01/1954-02">January-February 1954</unitdate></unittitle>
           </did>
           <odd>
@@ -277,7 +277,7 @@ William Harlan Stoneman Papers, Bentley Historical Library, University of Michig
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [601063442956293721]">1</container>
             <unittitle>Albums of personal and professional photographs highlighting his career, colleagues and acquaintances <unitdate type="inclusive" normal="1928/1969" certainty="approximate">circa 1928-1960s</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">3 volumes</extent>
@@ -286,7 +286,7 @@ William Harlan Stoneman Papers, Bentley Historical Library, University of Michig
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [601063442956293721]">1</container>
             <unittitle>Album containing passports and relating miscellanea</unittitle>
           </did>
         </c02>
@@ -300,7 +300,7 @@ William Harlan Stoneman Papers, Bentley Historical Library, University of Michig
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [47582187949825064819]">2</container>
             <unittitle>Scrapbooks <unitdate type="inclusive" normal="1928-08/1939-05">August 1928-May 1939</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">10 volumes</extent>
@@ -309,7 +309,7 @@ William Harlan Stoneman Papers, Bentley Historical Library, University of Michig
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [8074102424313788]">3</container>
             <unittitle>Scrapbooks</unittitle>
             <unitdate type="inclusive" normal="1939-05/1946-03">May 1939-March 1946</unitdate>
             <unitdate type="inclusive" normal="1949-05/1951-06">May 1949-June 1951</unitdate>
@@ -320,7 +320,7 @@ William Harlan Stoneman Papers, Bentley Historical Library, University of Michig
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [21358224390814520977]">4</container>
             <unittitle>Scrapbooks <unitdate type="inclusive" normal="1951-07/1958-03">July 1951-March 1958</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">6 volumes</extent>
@@ -329,7 +329,7 @@ William Harlan Stoneman Papers, Bentley Historical Library, University of Michig
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [0171276466658663]">5</container>
             <unittitle>Scrapbooks <unitdate type="inclusive" normal="1958-04/1963-02">April 1958-February 1963</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">4 volumes</extent>
@@ -338,7 +338,7 @@ William Harlan Stoneman Papers, Bentley Historical Library, University of Michig
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [67703797499848611]">6</container>
             <unittitle>Scrapbooks <unitdate type="inclusive" normal="1963-02/1973">February 1963-1973</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">3 volumes</extent>

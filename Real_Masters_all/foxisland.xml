@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Fox Island Lighthouse Association Records, 1875-2012</titleproper>
       <author>Finding aid created by <lb/>John Wells, Fox Island Lighthouse Association, 2013; Krista Gray, Bentley Historical Library, 2013</author>
     </titlepage>
@@ -93,24 +93,24 @@ Fox Island Lighthouse Association records, Bentley Historical Library, Universit
       <controlaccess>
         <head>Subjects:</head>
         <corpname source="lcnaf" encodinganalog="610">Fox Island Lighthouse Association.</corpname>
-        <subject source="lcsh" encodinganalog="650">Lighthouses--Michigan--Conservation and restoration.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7835">Lighthouses--Michigan--Conservation and restoration.</subject>
         <corpname source="lcnaf" encodinganalog="610">South Fox Island Light Station (Mich.)</corpname>
-        <geogname source="lcsh" encodinganalog="651">South Fox Island (Mich.)</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1879">South Fox Island (Mich.)</geogname>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Materials:</head>
         <corpname source="lcnaf" encodinganalog="610">Fox Island Lighthouse Association.</corpname>
-        <subject source="lctgm" encodinganalog="650">Conservation &amp; restoration.</subject>
-        <subject source="lctgm" encodinganalog="650">Lighthouses--Michigan.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4336">Conservation &amp; restoration.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3834">Lighthouses--Michigan.</subject>
         <corpname source="lcnaf" encodinganalog="610">South Fox Island Light Station (Mich.)</corpname>
-        <geogname source="lcsh" encodinganalog="651">South Fox Island (Mich.)</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1879">South Fox Island (Mich.)</geogname>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Digital images.</genreform>
-        <genreform source="aat" encodinganalog="655">Maps (documents)</genreform>
-        <genreform source="aat" encodinganalog="655">Oral histories.</genreform>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3149">Digital images.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3280">Maps (documents)</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3161">Oral histories.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -127,7 +127,7 @@ Fox Island Lighthouse Association records, Bentley Historical Library, Universit
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [981122374154749757130789633]">1</container>
               <unittitle>Brochure, restoration notes, and award program <unitdate type="inclusive" normal="2004/2011">2004-2011</unitdate></unittitle>
             </did>
           </c03>
@@ -138,7 +138,7 @@ Fox Island Lighthouse Association records, Bentley Historical Library, Universit
               <physdesc>
                 <physfacet>.ZIP file</physfacet>
               </physdesc>
-              <dao href="http://hdl.handle.net/2027.42/99721" show="new" actuate="onrequest">
+              <dao href="http://hdl.handle.net/2027.42/99721" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/2753">
                 <daodesc>
                   <p>[download item]</p>
                 </daodesc>
@@ -152,7 +152,7 @@ Fox Island Lighthouse Association records, Bentley Historical Library, Universit
               <physdesc>
                 <physfacet>.ZIP file</physfacet>
               </physdesc>
-              <dao href="http://hdl.handle.net/2027.42/99722" show="new" actuate="onrequest">
+              <dao href="http://hdl.handle.net/2027.42/99722" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/2754">
                 <daodesc>
                   <p>[download item]</p>
                 </daodesc>
@@ -166,7 +166,7 @@ Fox Island Lighthouse Association records, Bentley Historical Library, Universit
               <physdesc>
                 <physfacet>.ZIP file</physfacet>
               </physdesc>
-              <dao href="http://hdl.handle.net/2027.42/99723" show="new" actuate="onrequest">
+              <dao href="http://hdl.handle.net/2027.42/99723" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/2755">
                 <daodesc>
                   <p>[download item]</p>
                 </daodesc>
@@ -175,7 +175,7 @@ Fox Island Lighthouse Association records, Bentley Historical Library, Universit
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [981122374154749757130789633]">1</container>
               <unittitle>Newsletters <unitdate type="inclusive" normal="2008/2012">2008-2012</unitdate></unittitle>
             </did>
           </c03>
@@ -186,7 +186,7 @@ Fox Island Lighthouse Association records, Bentley Historical Library, Universit
               <physdesc>
                 <physfacet>.ZIP file</physfacet>
               </physdesc>
-              <dao href="http://hdl.handle.net/2027.42/99724" show="new" actuate="onrequest">
+              <dao href="http://hdl.handle.net/2027.42/99724" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/2756">
                 <daodesc>
                   <p>[download item]</p>
                 </daodesc>
@@ -200,7 +200,7 @@ Fox Island Lighthouse Association records, Bentley Historical Library, Universit
               <physdesc>
                 <physfacet>.ZIP file</physfacet>
               </physdesc>
-              <dao href="http://hdl.handle.net/2027.42/99725" show="new" actuate="onrequest">
+              <dao href="http://hdl.handle.net/2027.42/99725" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/2757">
                 <daodesc>
                   <p>[download item]</p>
                 </daodesc>
@@ -214,7 +214,7 @@ Fox Island Lighthouse Association records, Bentley Historical Library, Universit
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [981122374154749757130789633]">1</container>
               <unittitle>Administrative materials, architectural diagrams and plans, images, and feedback <unitdate type="inclusive" normal="2010/2012">2010-2012</unitdate></unittitle>
             </did>
           </c03>
@@ -225,7 +225,7 @@ Fox Island Lighthouse Association records, Bentley Historical Library, Universit
               <physdesc>
                 <physfacet>.ZIP file</physfacet>
               </physdesc>
-              <dao href="http://hdl.handle.net/2027.42/99726" show="new" actuate="onrequest">
+              <dao href="http://hdl.handle.net/2027.42/99726" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/2758">
                 <daodesc>
                   <p>[download item]</p>
                 </daodesc>
@@ -239,7 +239,7 @@ Fox Island Lighthouse Association records, Bentley Historical Library, Universit
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [981122374154749757130789633]">1</container>
               <unittitle>News releases/notes and clippings <unitdate type="inclusive" normal="1978/2012">1978-2012</unitdate></unittitle>
             </did>
           </c03>
@@ -249,7 +249,7 @@ Fox Island Lighthouse Association records, Bentley Historical Library, Universit
               <physdesc>
                 <physfacet>.ZIP file</physfacet>
               </physdesc>
-              <dao href="http://hdl.handle.net/2027.42/99727" show="new" actuate="onrequest">
+              <dao href="http://hdl.handle.net/2027.42/99727" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/2759">
                 <daodesc>
                   <p>[download item]</p>
                 </daodesc>
@@ -299,7 +299,7 @@ Fox Island Lighthouse Association records, Bentley Historical Library, Universit
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [981122374154749757130789633]">1</container>
               <unittitle>Administrative records, diagrams, and photographs <unitdate type="inclusive" normal="1907/1971">1907-1971</unitdate></unittitle>
             </did>
           </c03>
@@ -310,7 +310,7 @@ Fox Island Lighthouse Association records, Bentley Historical Library, Universit
               <physdesc>
                 <physfacet>.ZIP file</physfacet>
               </physdesc>
-              <dao href="http://hdl.handle.net/2027.42/99728" show="new" actuate="onrequest">
+              <dao href="http://hdl.handle.net/2027.42/99728" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/2760">
                 <daodesc>
                   <p>[download item]</p>
                 </daodesc>
@@ -324,7 +324,7 @@ Fox Island Lighthouse Association records, Bentley Historical Library, Universit
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [981122374154749757130789633]">1</container>
               <unittitle>Records, maps, and additional correspondence</unittitle>
               <unitdate type="inclusive" normal="1884/1907">1884-1907</unitdate>
               <unitdate type="inclusive">undated</unitdate>
@@ -337,7 +337,7 @@ Fox Island Lighthouse Association records, Bentley Historical Library, Universit
               <physdesc>
                 <physfacet>.PDF file and .ZIP file</physfacet>
               </physdesc>
-              <dao href="http://hdl.handle.net/2027.42/99729" show="new" actuate="onrequest">
+              <dao href="http://hdl.handle.net/2027.42/99729" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/2761">
                 <daodesc>
                   <p>[download item]</p>
                 </daodesc>
@@ -350,12 +350,12 @@ Fox Island Lighthouse Association records, Bentley Historical Library, Universit
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [981122374154749757130789633]">1</container>
                 <unittitle>Engineer or Naval Secretary to the Engineer of the 9th Light-House District <unitdate type="inclusive" normal="1891/1904">1891-1904</unitdate></unittitle>
                 <physdesc>
                   <physfacet>.PDF file and .ZIP file</physfacet>
                 </physdesc>
-                <dao href="http://hdl.handle.net/2027.42/99730" show="new" actuate="onrequest">
+                <dao href="http://hdl.handle.net/2027.42/99730" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/2762">
                   <daodesc>
                     <p>[download item]</p>
                   </daodesc>
@@ -364,12 +364,12 @@ Fox Island Lighthouse Association records, Bentley Historical Library, Universit
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [981122374154749757130789633]">1</container>
                 <unittitle>Lighthouse Board to the Lighthouse Inspector <unitdate type="inclusive" normal="1887/1907">1887-1907</unitdate></unittitle>
                 <physdesc>
                   <physfacet>.PDF file and .ZIP file</physfacet>
                 </physdesc>
-                <dao href="http://hdl.handle.net/2027.42/99731" show="new" actuate="onrequest">
+                <dao href="http://hdl.handle.net/2027.42/99731" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/2763">
                   <daodesc>
                     <p>[download item]</p>
                   </daodesc>
@@ -378,12 +378,12 @@ Fox Island Lighthouse Association records, Bentley Historical Library, Universit
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [981122374154749757130789633]">1</container>
                 <unittitle>Lighthouse Inspector to the Lighthouse Keeper or Assistant Keeper <unitdate type="inclusive" normal="1891/1905">1891-1905</unitdate></unittitle>
                 <physdesc>
                   <physfacet>.PDF file and .ZIP file</physfacet>
                 </physdesc>
-                <dao href="http://hdl.handle.net/2027.42/99732" show="new" actuate="onrequest">
+                <dao href="http://hdl.handle.net/2027.42/99732" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/2764">
                   <daodesc>
                     <p>[download item]</p>
                   </daodesc>
@@ -392,14 +392,14 @@ Fox Island Lighthouse Association records, Bentley Historical Library, Universit
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [981122374154749757130789633]">1</container>
                 <unittitle>Lighthouse Keeper or Assistant Keeper to Lighthouse Inspector</unittitle>
                 <unitdate type="inclusive" normal="1891">1891</unitdate>
                 <unitdate type="inclusive" normal="1897/1906">1897-1906</unitdate>
                 <physdesc>
                   <physfacet>.PDF file and .ZIP file</physfacet>
                 </physdesc>
-                <dao href="http://hdl.handle.net/2027.42/99733" show="new" actuate="onrequest">
+                <dao href="http://hdl.handle.net/2027.42/99733" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/2765">
                   <daodesc>
                     <p>[download item]</p>
                   </daodesc>
@@ -410,7 +410,7 @@ Fox Island Lighthouse Association records, Bentley Historical Library, Universit
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [981122374154749757130789633]">1</container>
             <unittitle>Lighthouse keepers' material, personnel information, photographs, diagrams, and maps</unittitle>
             <unitdate type="inclusive" normal="1884">1884</unitdate>
             <unitdate type="inclusive" normal="1907">1907</unitdate>
@@ -441,7 +441,7 @@ Fox Island Lighthouse Association records, Bentley Historical Library, Universit
             <physdesc>
               <physfacet>.ZIP file</physfacet>
             </physdesc>
-            <dao href="http://hdl.handle.net/2027.42/99735" show="new" actuate="onrequest">
+            <dao href="http://hdl.handle.net/2027.42/99735" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/2766">
               <daodesc>
                 <p>[download item]</p>
               </daodesc>
@@ -459,7 +459,7 @@ Fox Island Lighthouse Association records, Bentley Historical Library, Universit
               <physdesc>
                 <physfacet>.ZIP file</physfacet>
               </physdesc>
-              <dao href="http://hdl.handle.net/2027.42/99734" show="new" actuate="onrequest">
+              <dao href="http://hdl.handle.net/2027.42/99734" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/2767">
                 <daodesc>
                   <p>[download item]</p>
                 </daodesc>
@@ -468,7 +468,7 @@ Fox Island Lighthouse Association records, Bentley Historical Library, Universit
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [981122374154749757130789633]">1</container>
               <unittitle>Notes, transcript, and correspondence <unitdate type="inclusive" normal="2010/2011">2010-2011</unitdate></unittitle>
             </did>
           </c03>
@@ -484,7 +484,7 @@ Fox Island Lighthouse Association records, Bentley Historical Library, Universit
               <physdesc>
                 <physfacet>.ZIP file</physfacet>
               </physdesc>
-              <dao href="http://hdl.handle.net/2027.42/99736" show="new" actuate="onrequest">
+              <dao href="http://hdl.handle.net/2027.42/99736" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/2768">
                 <daodesc>
                   <p>[download item]</p>
                 </daodesc>
@@ -493,7 +493,7 @@ Fox Island Lighthouse Association records, Bentley Historical Library, Universit
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [981122374154749757130789633]">1</container>
               <unittitle>Summary, notes, and correspondence <unitdate type="inclusive" normal="2011">2011</unitdate></unittitle>
             </did>
           </c03>
@@ -509,7 +509,7 @@ Fox Island Lighthouse Association records, Bentley Historical Library, Universit
               <physdesc>
                 <physfacet>.ZIP file</physfacet>
               </physdesc>
-              <dao href="http://hdl.handle.net/2027.42/99737" show="new" actuate="onrequest">
+              <dao href="http://hdl.handle.net/2027.42/99737" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/2769">
                 <daodesc>
                   <p>[download item]</p>
                 </daodesc>
@@ -518,7 +518,7 @@ Fox Island Lighthouse Association records, Bentley Historical Library, Universit
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [981122374154749757130789633]">1</container>
               <unittitle>Photographs, summary, correspondence, and diagrams</unittitle>
               <unitdate type="inclusive" normal="1953">1953</unitdate>
               <unitdate type="inclusive" normal="2010/2011">2010-2011</unitdate>
@@ -531,12 +531,12 @@ Fox Island Lighthouse Association records, Bentley Historical Library, Universit
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [981122374154749757130789633]">1</container>
               <unittitle>Transcript <unitdate type="inclusive" normal="2011">2011</unitdate></unittitle>
               <physdesc>
                 <physfacet>.ZIP file</physfacet>
               </physdesc>
-              <dao href="http://hdl.handle.net/2027.42/99738" show="new" actuate="onrequest">
+              <dao href="http://hdl.handle.net/2027.42/99738" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/2770">
                 <daodesc>
                   <p>[download item]</p>
                 </daodesc>
@@ -555,7 +555,7 @@ Fox Island Lighthouse Association records, Bentley Historical Library, Universit
               <physdesc>
                 <physfacet>.ZIP file</physfacet>
               </physdesc>
-              <dao href="http://hdl.handle.net/2027.42/99739" show="new" actuate="onrequest">
+              <dao href="http://hdl.handle.net/2027.42/99739" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/2771">
                 <daodesc>
                   <p>[download item]</p>
                 </daodesc>
@@ -564,7 +564,7 @@ Fox Island Lighthouse Association records, Bentley Historical Library, Universit
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [981122374154749757130789633]">1</container>
               <unittitle>Notes, transcript, and correspondence <unitdate type="inclusive" normal="2011">2011</unitdate></unittitle>
             </did>
           </c03>
@@ -575,18 +575,18 @@ Fox Island Lighthouse Association records, Bentley Historical Library, Universit
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [981122374154749757130789633]">1</container>
               <unittitle>Notes from Interview <unitdate type="inclusive" normal="2009">2009</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [981122374154749757130789633]">1</container>
               <unittitle>Interview transcript <unitdate type="inclusive" normal="2009">2009</unitdate></unittitle>
               <physdesc>
                 <physfacet>.ZIP file</physfacet>
               </physdesc>
-              <dao href="http://hdl.handle.net/2027.42/99740" show="new" actuate="onrequest">
+              <dao href="http://hdl.handle.net/2027.42/99740" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/2772">
                 <daodesc>
                   <p>[download item]</p>
                 </daodesc>
@@ -600,7 +600,7 @@ Fox Island Lighthouse Association records, Bentley Historical Library, Universit
               <physdesc>
                 <physfacet>.ZIP file</physfacet>
               </physdesc>
-              <dao href="http://hdl.handle.net/2027.42/99741" show="new" actuate="onrequest">
+              <dao href="http://hdl.handle.net/2027.42/99741" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/2773">
                 <daodesc>
                   <p>[download item]</p>
                 </daodesc>
@@ -614,7 +614,7 @@ Fox Island Lighthouse Association records, Bentley Historical Library, Universit
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [981122374154749757130789633]">1</container>
               <unittitle>Transcript and correspondence <unitdate type="inclusive" normal="2010">2010</unitdate></unittitle>
             </did>
           </c03>
@@ -625,7 +625,7 @@ Fox Island Lighthouse Association records, Bentley Historical Library, Universit
               <physdesc>
                 <physfacet>.ZIP file</physfacet>
               </physdesc>
-              <dao href="http://hdl.handle.net/2027.42/99742" show="new" actuate="onrequest">
+              <dao href="http://hdl.handle.net/2027.42/99742" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/2774">
                 <daodesc>
                   <p>[download item]</p>
                 </daodesc>
@@ -656,7 +656,7 @@ Fox Island Lighthouse Association records, Bentley Historical Library, Universit
               <physdesc>
                 <physfacet>.ZIP file</physfacet>
               </physdesc>
-              <dao href="http://hdl.handle.net/2027.42/99743" show="new" actuate="onrequest">
+              <dao href="http://hdl.handle.net/2027.42/99743" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/2775">
                 <daodesc>
                   <p>[download item]</p>
                 </daodesc>
@@ -670,7 +670,7 @@ Fox Island Lighthouse Association records, Bentley Historical Library, Universit
               <physdesc>
                 <physfacet>.ZIP file</physfacet>
               </physdesc>
-              <dao href="http://hdl.handle.net/2027.42/99744" show="new" actuate="onrequest">
+              <dao href="http://hdl.handle.net/2027.42/99744" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/2776">
                 <daodesc>
                   <p>[download item]</p>
                 </daodesc>
@@ -684,7 +684,7 @@ Fox Island Lighthouse Association records, Bentley Historical Library, Universit
               <physdesc>
                 <physfacet>.ZIP file</physfacet>
               </physdesc>
-              <dao href="http://hdl.handle.net/2027.42/99745" show="new" actuate="onrequest">
+              <dao href="http://hdl.handle.net/2027.42/99745" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/2777">
                 <daodesc>
                   <p>[download item]</p>
                 </daodesc>
@@ -704,7 +704,7 @@ Fox Island Lighthouse Association records, Bentley Historical Library, Universit
                 <physdesc>
                   <physfacet>.ZIP file</physfacet>
                 </physdesc>
-                <dao href="http://hdl.handle.net/2027.42/99746" show="new" actuate="onrequest">
+                <dao href="http://hdl.handle.net/2027.42/99746" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/2778">
                   <daodesc>
                     <p>[download item]</p>
                   </daodesc>
@@ -718,7 +718,7 @@ Fox Island Lighthouse Association records, Bentley Historical Library, Universit
                 <physdesc>
                   <physfacet>.ZIP file</physfacet>
                 </physdesc>
-                <dao href="http://hdl.handle.net/2027.42/99747" show="new" actuate="onrequest">
+                <dao href="http://hdl.handle.net/2027.42/99747" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/2779">
                   <daodesc>
                     <p>[download item]</p>
                   </daodesc>
@@ -733,7 +733,7 @@ Fox Island Lighthouse Association records, Bentley Historical Library, Universit
             <physdesc>
               <physfacet>.ZIP file</physfacet>
             </physdesc>
-            <dao href="http://hdl.handle.net/2027.42/99749" show="new" actuate="onrequest">
+            <dao href="http://hdl.handle.net/2027.42/99749" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/2780">
               <daodesc>
                 <p>[download item]</p>
               </daodesc>
@@ -823,7 +823,7 @@ Fox Island Lighthouse Association records, Bentley Historical Library, Universit
               <physdesc>
                 <physfacet>.ZIP file</physfacet>
               </physdesc>
-              <dao href="http://hdl.handle.net/2027.42/99750" show="new" actuate="onrequest">
+              <dao href="http://hdl.handle.net/2027.42/99750" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/2781">
                 <daodesc>
                   <p>[download item]</p>
                 </daodesc>
@@ -839,7 +839,7 @@ Fox Island Lighthouse Association records, Bentley Historical Library, Universit
               <physdesc>
                 <physfacet>.ZIP file</physfacet>
               </physdesc>
-              <dao href="http://hdl.handle.net/2027.42/99751" show="new" actuate="onrequest">
+              <dao href="http://hdl.handle.net/2027.42/99751" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/2782">
                 <daodesc>
                   <p>[download item]</p>
                 </daodesc>
@@ -853,7 +853,7 @@ Fox Island Lighthouse Association records, Bentley Historical Library, Universit
               <physdesc>
                 <physfacet>.ZIP file</physfacet>
               </physdesc>
-              <dao href="http://hdl.handle.net/2027.42/99752" show="new" actuate="onrequest">
+              <dao href="http://hdl.handle.net/2027.42/99752" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/2783">
                 <daodesc>
                   <p>[download item]</p>
                 </daodesc>
@@ -867,7 +867,7 @@ Fox Island Lighthouse Association records, Bentley Historical Library, Universit
             <physdesc>
               <physfacet>.ZIP file</physfacet>
             </physdesc>
-            <dao href="http://hdl.handle.net/2027.42/99753" show="new" actuate="onrequest">
+            <dao href="http://hdl.handle.net/2027.42/99753" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/2784">
               <daodesc>
                 <p>[download item]</p>
               </daodesc>

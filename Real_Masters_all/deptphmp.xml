@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>University Archives and Records Program <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/2">University Archives and Records Program <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Department of Physical Medicine and Rehabilitation <lb/>(University of Michigan) <lb/>Publications, 1988-1991</titleproper>
       <author>Finding aid created by <lb/>Jennifer Jacobs, 1999 <lb/>Polly Reynolds, January 2007.</author>
     </titlepage>
@@ -86,7 +86,7 @@ Department of Physical Medicine and Rehabilitation (University of Michigan) publ
         <head>Subjects:</head>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan. Dept. of Physical Medicine and Rehabilitation.</corpname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan. Parkview Rehabilitation Unit.</corpname>
-        <subject source="lcsh" encodinganalog="650">Rehabilitation--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7213">Rehabilitation--Michigan.</subject>
       </controlaccess>
       <controlaccess>
         <head>Contributors:</head>
@@ -94,8 +94,8 @@ Department of Physical Medicine and Rehabilitation (University of Michigan) publ
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Annual reports.</genreform>
-        <genreform source="aat" encodinganalog="655">Pamphlets.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3197">Annual reports.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3152">Pamphlets.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -109,7 +109,7 @@ Department of Physical Medicine and Rehabilitation (University of Michigan) publ
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [63859422908961136754]">1</container>
               <unittitle><title render="italic">Annual Report</title>, <unitdate type="inclusive" normal="1988/1991">1988-1991</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -123,7 +123,7 @@ Department of Physical Medicine and Rehabilitation (University of Michigan) publ
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [63859422908961136754]">1</container>
               <unittitle><title render="italic">Physical Medicine and Rehabilitation</title>, <unitdate type="inclusive" normal="1990" certainty="approximate">circa 1990</unitdate></unittitle>
             </did>
           </c03>
@@ -134,13 +134,13 @@ Department of Physical Medicine and Rehabilitation (University of Michigan) publ
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [63859422908961136754]">1</container>
               <unittitle><title render="italic">Rehabilitation clinic</title>, <unitdate type="inclusive" normal="1989">1989</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [63859422908961136754]">1</container>
               <unittitle><title render="italic">Rehabilitation frontiers</title>, <unitdate type="inclusive" normal="1988/1989">1988-1989</unitdate></unittitle>
             </did>
           </c03>
@@ -156,7 +156,7 @@ Department of Physical Medicine and Rehabilitation (University of Michigan) publ
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [63859422908961136754]">1</container>
               <unittitle>Brochures <unitdate type="inclusive">undated</unitdate></unittitle>
             </did>
           </c03>
@@ -167,7 +167,7 @@ Department of Physical Medicine and Rehabilitation (University of Michigan) publ
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [63859422908961136754]">1</container>
               <unittitle>Brochures <unitdate type="inclusive">undated</unitdate></unittitle>
             </did>
           </c03>

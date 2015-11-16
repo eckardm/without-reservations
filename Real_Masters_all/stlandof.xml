@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Michigan State Land Office Board records, 1816-1924</titleproper>
       <author>Finding aid created by <lb/>Michigan Historical Collections staff. (Revised Sept. 1993, Leonard A. Coombs)</author>
     </titlepage>
@@ -85,11 +85,11 @@ Michigan State Land Office Board records, Bentley Historical Library, University
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <subject source="lcsh" encodinganalog="650">Forests and forestry--Michigan.</subject>
-        <subject source="lcsh" encodinganalog="650">Land titles--Michigan.</subject>
-        <subject source="lcsh" encodinganalog="650">Land use--Michigan.</subject>
-        <subject source="lcsh" encodinganalog="650">Public lands--Michigan.</subject>
-        <subject source="lcsh" encodinganalog="650">Surveyors--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6733">Forests and forestry--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/10241">Land titles--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7039">Land use--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/8244">Public lands--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6657">Surveyors--Michigan.</subject>
       </controlaccess>
       <controlaccess>
         <head>Contributors:</head>
@@ -790,7 +790,7 @@ Michigan State Land Office Board records, Bentley Historical Library, University
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [24662946086538177815]">1</container>
               <unittitle>Alcona County</unittitle>
               <unitdate type="inclusive" normal="1838/1846">1838-1846</unitdate>
               <unitdate type="inclusive" normal="1854">1854</unitdate>
@@ -798,7 +798,7 @@ Michigan State Land Office Board records, Bentley Historical Library, University
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [24662946086538177815]">1</container>
               <unittitle>Allegan County</unittitle>
               <unitdate type="inclusive" normal="1826/1832">1826-1832</unitdate>
               <unitdate type="inclusive" normal="1850">1850</unitdate>
@@ -806,7 +806,7 @@ Michigan State Land Office Board records, Bentley Historical Library, University
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [24662946086538177815]">1</container>
               <unittitle>Alpena County</unittitle>
               <unitdate type="inclusive" normal="1839/1840">1839-1840</unitdate>
               <unitdate type="inclusive" normal="1854/1857">1854-1857</unitdate>
@@ -816,7 +816,7 @@ Michigan State Land Office Board records, Bentley Historical Library, University
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [9405134289956630]">2</container>
               <unittitle>Antrim County</unittitle>
               <unitdate type="inclusive" normal="1839/1840">1839-1840</unitdate>
               <unitdate type="inclusive" normal="1850/1857">1850-1857</unitdate>
@@ -827,7 +827,7 @@ Michigan State Land Office Board records, Bentley Historical Library, University
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [9405134289956630]">2</container>
               <unittitle>Arenac County</unittitle>
               <unitdate type="inclusive" normal="1822">1822</unitdate>
               <unitdate type="inclusive" normal="1831">1831</unitdate>
@@ -837,7 +837,7 @@ Michigan State Land Office Board records, Bentley Historical Library, University
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [9405134289956630]">2</container>
               <unittitle>Barry County</unittitle>
               <unitdate type="inclusive" normal="1826/1831">1826-1831</unitdate>
               <unitdate type="inclusive" normal="1856">1856</unitdate>
@@ -848,7 +848,7 @@ Michigan State Land Office Board records, Bentley Historical Library, University
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [5919634540695216700521]">3</container>
               <unittitle>Bay County</unittitle>
               <unitdate type="inclusive" normal="1822">1822</unitdate>
               <unitdate type="inclusive" normal="1831/1846">1831-1846</unitdate>
@@ -860,7 +860,7 @@ Michigan State Land Office Board records, Bentley Historical Library, University
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [5919634540695216700521]">3</container>
               <unittitle>Benzie County</unittitle>
               <unitdate type="inclusive" normal="1838/1839">1838-1839</unitdate>
               <unitdate type="inclusive" normal="1850/1851">1850-1851</unitdate>
@@ -868,13 +868,13 @@ Michigan State Land Office Board records, Bentley Historical Library, University
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [5919634540695216700521]">3</container>
               <unittitle>Berrien County <unitdate type="inclusive" normal="1828/1846">1828-1846</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [5919634540695216700521]">3</container>
               <unittitle>Branch County</unittitle>
               <unitdate type="inclusive" normal="1825/1829">1825-1829</unitdate>
               <unitdate type="inclusive" normal="1846">1846</unitdate>
@@ -882,7 +882,7 @@ Michigan State Land Office Board records, Bentley Historical Library, University
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [5919634540695216700521]">3</container>
               <unittitle>Calhoun County</unittitle>
               <unitdate type="inclusive" normal="1825/1826">1825-1826</unitdate>
               <unitdate type="inclusive" normal="1856">1856</unitdate>
@@ -890,7 +890,7 @@ Michigan State Land Office Board records, Bentley Historical Library, University
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [1902667436586987636575]">4</container>
               <unittitle>Cass County</unittitle>
               <unitdate type="inclusive" normal="1828/1830">1828-1830</unitdate>
               <unitdate type="inclusive" normal="1846">1846</unitdate>
@@ -901,7 +901,7 @@ Michigan State Land Office Board records, Bentley Historical Library, University
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [1902667436586987636575]">4</container>
               <unittitle>Charlevoix County</unittitle>
               <unitdate type="inclusive" normal="1839/1856">1839-1856</unitdate>
               <unitdate type="inclusive" normal="1888">1888</unitdate>
@@ -913,7 +913,7 @@ Michigan State Land Office Board records, Bentley Historical Library, University
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [1902667436586987636575]">4</container>
               <unittitle>Cheboygan County</unittitle>
               <unitdate type="inclusive" normal="1840/1856">1840-1856</unitdate>
               <unitdate type="inclusive" normal="1904">1904</unitdate>
@@ -922,7 +922,7 @@ Michigan State Land Office Board records, Bentley Historical Library, University
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [939488851348]">5</container>
               <unittitle>Clare County</unittitle>
               <unitdate type="inclusive" normal="1837/1856">1837-1856</unitdate>
               <unitdate type="inclusive" normal="1923/1924">1923-1924</unitdate>
@@ -930,19 +930,19 @@ Michigan State Land Office Board records, Bentley Historical Library, University
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [939488851348]">5</container>
               <unittitle>Clinton County <unitdate type="inclusive" normal="1826/1855">1826-1855</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [939488851348]">5</container>
               <unittitle>Crawford County <unitdate type="inclusive" normal="1836/1857">1836-1857</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [939488851348]">5</container>
               <unittitle>Eaton County</unittitle>
               <unitdate type="inclusive" normal="1825/1827">1825-1827</unitdate>
               <unitdate type="inclusive" normal="1855/1856">1855-1856</unitdate>
@@ -950,7 +950,7 @@ Michigan State Land Office Board records, Bentley Historical Library, University
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [401228604521833540]">6</container>
               <unittitle>Emmet County</unittitle>
               <unitdate type="inclusive" normal="1840/1841">1840-1841</unitdate>
               <unitdate type="inclusive" normal="1922">1922</unitdate>
@@ -961,7 +961,7 @@ Michigan State Land Office Board records, Bentley Historical Library, University
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [401228604521833540]">6</container>
               <unittitle>Genesee County</unittitle>
               <unitdate type="inclusive" normal="1822/1823">1822-1823</unitdate>
               <unitdate type="inclusive" normal="1839">1839</unitdate>
@@ -971,7 +971,7 @@ Michigan State Land Office Board records, Bentley Historical Library, University
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [401228604521833540]">6</container>
               <unittitle>Gladwin County</unittitle>
               <unitdate type="inclusive" normal="1831/1856">1831-1856</unitdate>
               <unitdate type="inclusive" normal="1877">1877</unitdate>
@@ -979,7 +979,7 @@ Michigan State Land Office Board records, Bentley Historical Library, University
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [401228604521833540]">6</container>
               <unittitle>Grand Traverse County</unittitle>
               <unitdate type="inclusive" normal="1836/1852">1836-1852</unitdate>
               <unitdate type="inclusive" normal="1900/1904">1900-1904</unitdate>
@@ -990,7 +990,7 @@ Michigan State Land Office Board records, Bentley Historical Library, University
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">7</container>
+              <container type="box" label="Box [957607806048096994446063]">7</container>
               <unittitle>Gratiot County</unittitle>
               <unitdate type="inclusive" normal="1831/1832">1831-1832</unitdate>
               <unitdate type="inclusive" normal="1852">1852</unitdate>
@@ -998,7 +998,7 @@ Michigan State Land Office Board records, Bentley Historical Library, University
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">7</container>
+              <container type="box" label="Box [957607806048096994446063]">7</container>
               <unittitle>Hillsdale County <unitdate type="inclusive" normal="1824/1837">1824-1837</unitdate></unittitle>
             </did>
             <odd>
@@ -1007,7 +1007,7 @@ Michigan State Land Office Board records, Bentley Historical Library, University
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">7</container>
+              <container type="box" label="Box [957607806048096994446063]">7</container>
               <unittitle>Huron County</unittitle>
               <unitdate type="inclusive" normal="1834/1835">1834-1835</unitdate>
               <unitdate type="inclusive" normal="1853">1853</unitdate>
@@ -1015,7 +1015,7 @@ Michigan State Land Office Board records, Bentley Historical Library, University
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">8</container>
+              <container type="box" label="Box [768940694490873754868]">8</container>
               <unittitle>Ingham County</unittitle>
               <unitdate type="inclusive" normal="1825/1827">1825-1827</unitdate>
               <unitdate type="inclusive" normal="1856">1856</unitdate>
@@ -1023,7 +1023,7 @@ Michigan State Land Office Board records, Bentley Historical Library, University
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">8</container>
+              <container type="box" label="Box [768940694490873754868]">8</container>
               <unittitle>Ionia County</unittitle>
               <unitdate type="inclusive" normal="1826/1837">1826-1837</unitdate>
               <unitdate type="inclusive" normal="1855/1856">1855-1856</unitdate>
@@ -1032,7 +1032,7 @@ Michigan State Land Office Board records, Bentley Historical Library, University
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">8</container>
+              <container type="box" label="Box [768940694490873754868]">8</container>
               <unittitle>Iosco County</unittitle>
               <unitdate type="inclusive" normal="1837/1845">1837-1845</unitdate>
               <unitdate type="inclusive" normal="1907/1921">1907-1921</unitdate>
@@ -1040,7 +1040,7 @@ Michigan State Land Office Board records, Bentley Historical Library, University
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">9</container>
+              <container type="box" label="Box [051522137417382851048]">9</container>
               <unittitle>Isabella County</unittitle>
               <unitdate type="inclusive" normal="1830/1838">1830-1838</unitdate>
               <unitdate type="inclusive" normal="1847">1847</unitdate>
@@ -1049,7 +1049,7 @@ Michigan State Land Office Board records, Bentley Historical Library, University
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">9</container>
+              <container type="box" label="Box [051522137417382851048]">9</container>
               <unittitle>Jackson County</unittitle>
               <unitdate type="inclusive" normal="1824/1825">1824-1825</unitdate>
               <unitdate type="inclusive" normal="1855">1855</unitdate>
@@ -1057,7 +1057,7 @@ Michigan State Land Office Board records, Bentley Historical Library, University
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">9</container>
+              <container type="box" label="Box [051522137417382851048]">9</container>
               <unittitle>Kalamazoo County</unittitle>
               <unitdate type="inclusive" normal="1826/1830">1826-1830</unitdate>
               <unitdate type="inclusive" normal="1850">1850</unitdate>
@@ -1066,7 +1066,7 @@ Michigan State Land Office Board records, Bentley Historical Library, University
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">9</container>
+              <container type="box" label="Box [051522137417382851048]">9</container>
               <unittitle>Kalkaska County <unitdate type="inclusive" normal="1837/1853">1837-1853</unitdate></unittitle>
             </did>
             <odd>
@@ -1075,7 +1075,7 @@ Michigan State Land Office Board records, Bentley Historical Library, University
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">10</container>
+              <container type="box" label="Box [499730640577573359]">10</container>
               <unittitle>Kent County</unittitle>
               <unitdate type="inclusive" normal="1830/1838">1830-1838</unitdate>
               <unitdate type="inclusive" normal="1855/1856">1855-1856</unitdate>
@@ -1085,7 +1085,7 @@ Michigan State Land Office Board records, Bentley Historical Library, University
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">10</container>
+              <container type="box" label="Box [499730640577573359]">10</container>
               <unittitle>Lake County</unittitle>
               <unitdate type="inclusive" normal="1837/1839">1837-1839</unitdate>
               <unitdate type="inclusive" normal="1905">1905</unitdate>
@@ -1093,7 +1093,7 @@ Michigan State Land Office Board records, Bentley Historical Library, University
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">10</container>
+              <container type="box" label="Box [499730640577573359]">10</container>
               <unittitle>Lapeer County <unitdate type="inclusive" normal="1818/1834">1818-1834</unitdate></unittitle>
             </did>
             <odd>
@@ -1102,7 +1102,7 @@ Michigan State Land Office Board records, Bentley Historical Library, University
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">10</container>
+              <container type="box" label="Box [499730640577573359]">10</container>
               <unittitle>Leelanau County</unittitle>
               <unitdate type="inclusive" normal="1839/1855">1839-1855</unitdate>
               <unitdate type="inclusive" normal="1884">1884</unitdate>
@@ -1113,7 +1113,7 @@ Michigan State Land Office Board records, Bentley Historical Library, University
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">11</container>
+              <container type="box" label="Box [959193784883807970088]">11</container>
               <unittitle>Lenawee County</unittitle>
               <unitdate type="inclusive" normal="1815/1824">1815-1824</unitdate>
               <unitdate type="inclusive" normal="1837">1837</unitdate>
@@ -1125,7 +1125,7 @@ Michigan State Land Office Board records, Bentley Historical Library, University
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">11</container>
+              <container type="box" label="Box [959193784883807970088]">11</container>
               <unittitle>Livingston County</unittitle>
               <unitdate type="inclusive" normal="1823/1825">1823-1825</unitdate>
               <unitdate type="inclusive" normal="1849">1849</unitdate>
@@ -1133,7 +1133,7 @@ Michigan State Land Office Board records, Bentley Historical Library, University
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">11</container>
+              <container type="box" label="Box [959193784883807970088]">11</container>
               <unittitle>Mackinac County</unittitle>
               <unitdate type="inclusive" normal="1827">1827</unitdate>
               <unitdate type="inclusive" normal="1844">1844</unitdate>
@@ -1144,7 +1144,7 @@ Michigan State Land Office Board records, Bentley Historical Library, University
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">11</container>
+              <container type="box" label="Box [959193784883807970088]">11</container>
               <unittitle>Macomb County</unittitle>
               <unitdate type="inclusive" normal="1817/1818">1817-1818</unitdate>
               <unitdate type="inclusive" normal="1836">1836</unitdate>
@@ -1152,7 +1152,7 @@ Michigan State Land Office Board records, Bentley Historical Library, University
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">12</container>
+              <container type="box" label="Box [334968184798650908589]">12</container>
               <unittitle>Manistee County</unittitle>
               <unitdate type="inclusive" normal="1837/1839">1837-1839</unitdate>
               <unitdate type="inclusive" normal="1847">1847</unitdate>
@@ -1163,7 +1163,7 @@ Michigan State Land Office Board records, Bentley Historical Library, University
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">12</container>
+              <container type="box" label="Box [334968184798650908589]">12</container>
               <unittitle>Mason County</unittitle>
               <unitdate type="inclusive" normal="1835/1839">1835-1839</unitdate>
               <unitdate type="inclusive" normal="1856">1856</unitdate>
@@ -1172,7 +1172,7 @@ Michigan State Land Office Board records, Bentley Historical Library, University
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">12</container>
+              <container type="box" label="Box [334968184798650908589]">12</container>
               <unittitle>Mecosta County</unittitle>
               <unitdate type="inclusive" normal="1837/1839">1837-1839</unitdate>
               <unitdate type="inclusive" normal="1847">1847</unitdate>
@@ -1182,7 +1182,7 @@ Michigan State Land Office Board records, Bentley Historical Library, University
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">12</container>
+              <container type="box" label="Box [334968184798650908589]">12</container>
               <unittitle>Midland County</unittitle>
               <unitdate type="inclusive" normal="1831/1832">1831-1832</unitdate>
               <unitdate type="inclusive" normal="1839">1839</unitdate>
@@ -1191,7 +1191,7 @@ Michigan State Land Office Board records, Bentley Historical Library, University
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">13</container>
+              <container type="box" label="Box [402740382158400790]">13</container>
               <unittitle>Missaukee County</unittitle>
               <unitdate type="inclusive" normal="1837/1840">1837-1840</unitdate>
               <unitdate type="inclusive" normal="1852/1856">1852-1856</unitdate>
@@ -1201,7 +1201,7 @@ Michigan State Land Office Board records, Bentley Historical Library, University
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">13</container>
+              <container type="box" label="Box [402740382158400790]">13</container>
               <unittitle>Monroe County</unittitle>
               <unitdate type="inclusive" normal="1817/1854">1817-1854</unitdate>
               <unitdate type="inclusive" normal="1865">1865</unitdate>
@@ -1214,7 +1214,7 @@ Michigan State Land Office Board records, Bentley Historical Library, University
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">14</container>
+              <container type="box" label="Box [68245374841669859206]">14</container>
               <unittitle>Montcalm County</unittitle>
               <unitdate type="inclusive" normal="1831/1839">1831-1839</unitdate>
               <unitdate type="inclusive" normal="1848">1848</unitdate>
@@ -1226,7 +1226,7 @@ Michigan State Land Office Board records, Bentley Historical Library, University
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">14</container>
+              <container type="box" label="Box [68245374841669859206]">14</container>
               <unittitle>Montmorency County</unittitle>
               <unitdate type="inclusive" normal="1839/1840">1839-1840</unitdate>
               <unitdate type="inclusive" normal="1850/1857">1850-1857</unitdate>
@@ -1234,13 +1234,13 @@ Michigan State Land Office Board records, Bentley Historical Library, University
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">14</container>
+              <container type="box" label="Box [68245374841669859206]">14</container>
               <unittitle>Muskegon County <unitdate type="inclusive" normal="1836/1838">1836-1838</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">14</container>
+              <container type="box" label="Box [68245374841669859206]">14</container>
               <unittitle>Newaygo County</unittitle>
               <unitdate type="inclusive" normal="1836/1838">1836-1838</unitdate>
               <unitdate type="inclusive" normal="1856/1857">1856-1857</unitdate>
@@ -1249,7 +1249,7 @@ Michigan State Land Office Board records, Bentley Historical Library, University
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">15</container>
+              <container type="box" label="Box [4681650540618966199526]">15</container>
               <unittitle>Oakland County</unittitle>
               <unitdate type="inclusive" normal="1816/1818">1816-1818</unitdate>
               <unitdate type="inclusive" normal="1823">1823</unitdate>
@@ -1260,13 +1260,13 @@ Michigan State Land Office Board records, Bentley Historical Library, University
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">15</container>
+              <container type="box" label="Box [4681650540618966199526]">15</container>
               <unittitle>Oceana County <unitdate type="inclusive" normal="1837/1838">1837-1838</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">15</container>
+              <container type="box" label="Box [4681650540618966199526]">15</container>
               <unittitle>Ogemaw County</unittitle>
               <unitdate type="inclusive" normal="1838/1839">1838-1839</unitdate>
               <unitdate type="inclusive" normal="1845/1846">1845-1846</unitdate>
@@ -1276,7 +1276,7 @@ Michigan State Land Office Board records, Bentley Historical Library, University
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">16</container>
+              <container type="box" label="Box [03069374424160405400]">16</container>
               <unittitle>Osceola County</unittitle>
               <unitdate type="inclusive" normal="1837/1839">1837-1839</unitdate>
               <unitdate type="inclusive" normal="1847/1848">1847-1848</unitdate>
@@ -1285,7 +1285,7 @@ Michigan State Land Office Board records, Bentley Historical Library, University
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">16</container>
+              <container type="box" label="Box [03069374424160405400]">16</container>
               <unittitle>Oscoda County</unittitle>
               <unitdate type="inclusive" normal="1838/1840">1838-1840</unitdate>
               <unitdate type="inclusive" normal="1846">1846</unitdate>
@@ -1293,7 +1293,7 @@ Michigan State Land Office Board records, Bentley Historical Library, University
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">16</container>
+              <container type="box" label="Box [03069374424160405400]">16</container>
               <unittitle>Otsego County</unittitle>
               <unitdate type="inclusive" normal="1839/1840">1839-1840</unitdate>
               <unitdate type="inclusive" normal="1850/1857">1850-1857</unitdate>
@@ -1303,7 +1303,7 @@ Michigan State Land Office Board records, Bentley Historical Library, University
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">16</container>
+              <container type="box" label="Box [03069374424160405400]">16</container>
               <unittitle>Ottawa County</unittitle>
               <unitdate type="inclusive" normal="1831/1832">1831-1832</unitdate>
               <unitdate type="inclusive" normal="1837/1838">1837-1838</unitdate>
@@ -1311,7 +1311,7 @@ Michigan State Land Office Board records, Bentley Historical Library, University
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">17</container>
+              <container type="box" label="Box [1997234767550788823655]">17</container>
               <unittitle>Presque Isle County</unittitle>
               <unitdate type="inclusive" normal="1839/1840">1839-1840</unitdate>
               <unitdate type="inclusive" normal="1850/1857">1850-1857</unitdate>
@@ -1319,7 +1319,7 @@ Michigan State Land Office Board records, Bentley Historical Library, University
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">17</container>
+              <container type="box" label="Box [1997234767550788823655]">17</container>
               <unittitle>Roscommon County</unittitle>
               <unitdate type="inclusive" normal="1837/1840">1837-1840</unitdate>
               <unitdate type="inclusive" normal="1849/1852">1849-1852</unitdate>
@@ -1327,7 +1327,7 @@ Michigan State Land Office Board records, Bentley Historical Library, University
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">17</container>
+              <container type="box" label="Box [1997234767550788823655]">17</container>
               <unittitle>Saginaw County</unittitle>
               <unitdate type="inclusive" normal="1821/1824">1821-1824</unitdate>
               <unitdate type="inclusive" normal="1831/1834">1831-1834</unitdate>
@@ -1340,7 +1340,7 @@ Michigan State Land Office Board records, Bentley Historical Library, University
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">18</container>
+              <container type="box" label="Box [025416964231349562]">18</container>
               <unittitle>St. Clair County</unittitle>
               <unitdate type="inclusive" normal="1817/1818">1817-1818</unitdate>
               <unitdate type="inclusive" normal="1822/1824">1822-1824</unitdate>
@@ -1353,7 +1353,7 @@ Michigan State Land Office Board records, Bentley Historical Library, University
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">18</container>
+              <container type="box" label="Box [025416964231349562]">18</container>
               <unittitle>St. Joseph County</unittitle>
               <unitdate type="inclusive" normal="1826/1829">1826-1829</unitdate>
               <unitdate type="inclusive" normal="1835">1835</unitdate>
@@ -1366,7 +1366,7 @@ Michigan State Land Office Board records, Bentley Historical Library, University
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">18</container>
+              <container type="box" label="Box [025416964231349562]">18</container>
               <unittitle>Sanilac County</unittitle>
               <unitdate type="inclusive" normal="1822/1823">1822-1823</unitdate>
               <unitdate type="inclusive" normal="1834/1835">1834-1835</unitdate>
@@ -1377,7 +1377,7 @@ Michigan State Land Office Board records, Bentley Historical Library, University
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">19</container>
+              <container type="box" label="Box [514397643584644004951872]">19</container>
               <unittitle>Shiawassee County</unittitle>
               <unitdate type="inclusive" normal="1822/1823">1822-1823</unitdate>
               <unitdate type="inclusive" normal="1826">1826</unitdate>
@@ -1387,7 +1387,7 @@ Michigan State Land Office Board records, Bentley Historical Library, University
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">19</container>
+              <container type="box" label="Box [514397643584644004951872]">19</container>
               <unittitle>Tuscola County</unittitle>
               <unitdate type="inclusive" normal="1821/1822">1821-1822</unitdate>
               <unitdate type="inclusive" normal="1834/1839">1834-1839</unitdate>
@@ -1396,7 +1396,7 @@ Michigan State Land Office Board records, Bentley Historical Library, University
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">19</container>
+              <container type="box" label="Box [514397643584644004951872]">19</container>
               <unittitle>Van Buren County</unittitle>
               <unitdate type="inclusive" normal="1829/1830">1829-1830</unitdate>
               <unitdate type="inclusive" normal="1844">1844</unitdate>
@@ -1408,7 +1408,7 @@ Michigan State Land Office Board records, Bentley Historical Library, University
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">20</container>
+              <container type="box" label="Box [0400308774780281888546]">20</container>
               <unittitle>Washtenaw County</unittitle>
               <unitdate type="inclusive" normal="1816/1819">1816-1819</unitdate>
               <unitdate type="inclusive" normal="1824/1825">1824-1825</unitdate>
@@ -1417,7 +1417,7 @@ Michigan State Land Office Board records, Bentley Historical Library, University
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">20</container>
+              <container type="box" label="Box [0400308774780281888546]">20</container>
               <unittitle>Wayne County</unittitle>
               <unitdate type="inclusive" normal="1816/1819">1816-1819</unitdate>
               <unitdate type="inclusive" normal="1824">1824</unitdate>

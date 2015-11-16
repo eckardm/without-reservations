@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>The Budd Company records, 1912-1951</titleproper>
       <author>Finding aid created by <lb/>Cherie Edmonds, 2013</author>
     </titlepage>
@@ -87,13 +87,13 @@ The Budd Company records, Bentley Historical Library, University of Michigan</p>
       <controlaccess>
         <head>Subjects:</head>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n80065806">Budd Company.</corpname>
-        <subject source="lcsh" encodinganalog="650">Automobile industry and trade--United States.</subject>
-        <subject source="lcsh" encodinganalog="650">Automobiles--Parts.</subject>
-        <subject source="lcsh" encodinganalog="650">Manufacturing industries--Michigan--Detroit.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6544">Automobile industry and trade--United States.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6545">Automobiles--Parts.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6546">Manufacturing industries--Michigan--Detroit.</subject>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Ledgers (account books)</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3213">Ledgers (account books)</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -103,7 +103,7 @@ The Budd Company records, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [66598954993117064854]">1</container>
             <unittitle>Budd Supervisor's Manual <unitdate type="inclusive" normal="1946">1946</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -112,7 +112,7 @@ The Budd Company records, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [66598954993117064854]">1</container>
             <unittitle>Contracts relating to the new Ambi-Budd set-up, 1930</unittitle>
           </did>
           <odd>
@@ -121,7 +121,7 @@ The Budd Company records, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [66598954993117064854]">1</container>
             <unittitle>Rockefeller Center, Inc. Lease Agreement <unitdate type="inclusive" normal="1951">1951</unitdate></unittitle>
           </did>
         </c02>
@@ -131,7 +131,7 @@ The Budd Company records, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [003504433405998369779]">2</container>
               <unittitle>Journal Vouchers <unitdate type="inclusive" normal="1921/1922">1921-1922</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">3 volumes</extent>
@@ -140,19 +140,19 @@ The Budd Company records, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [003504433405998369779]">2</container>
               <unittitle>Krouse Fatigue Machine Co. <unitdate type="inclusive" normal="1938">1938</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [003504433405998369779]">2</container>
               <unittitle>Krouse Testing Machine Co. <unitdate type="inclusive" normal="1942">1942</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [003504433405998369779]">2</container>
               <unittitle>Budd Wheel Company <unitdate type="inclusive" normal="1927/1929">1927-1929</unitdate></unittitle>
             </did>
             <odd>
@@ -161,19 +161,19 @@ The Budd Company records, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">1</container>
+              <container type="volume" label="Oversize Volume [0993124104263620632807]">1</container>
               <unittitle>Edward G. Budd Manufacturing Company credit and cash book <unitdate type="inclusive" normal="1912/1913">1912-1913</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">2</container>
+              <container type="volume" label="Oversize Volume [9585515446723800747665]">2</container>
               <unittitle>Edward G. Budd Manufacturing Company Detroit factory credit and cash book <unitdate type="inclusive" normal="1913/1914">1913-1914</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">3</container>
+              <container type="volume" label="Oversize Volume [215557702284637844954135]">3</container>
               <unittitle>Edward G. Budd Manufacturing Company journal C <unitdate type="inclusive" normal="1920/1923">1920-1923</unitdate></unittitle>
             </did>
           </c03>

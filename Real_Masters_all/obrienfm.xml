@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>O’Brien Family (Detroit, Mich.) <lb/>Papers, ca. 1932-1965</titleproper>
       <author>Finding aid created by <lb/>Michigan Historical Collections staff, October 1980</author>
     </titlepage>
@@ -85,11 +85,11 @@ O’Brien Family (Detroit, Mich.) papers, Bentley Historical Library, University
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n79045539.html">Detroit (Mich.)</geogname>
-        <geogname source="lcsh" encodinganalog="651">Menominee (Mich.)</geogname>
-        <subject source="lcsh" encodinganalog="650">Women--Michigan--Detroit.</subject>
-        <geogname source="lcsh" encodinganalog="651">Upper Peninsula (Mich.)</geogname>
-        <subject source="lcsh" encodinganalog="650">American newspapers.</subject>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n79045539.html" ref="/subjects/933">Detroit (Mich.)</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1671">Menominee (Mich.)</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/8335">Women--Michigan--Detroit.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/938">Upper Peninsula (Mich.)</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/8156">American newspapers.</subject>
         <famname source="lcnaf" encodinganalog="600">O'Brien family.</famname>
       </controlaccess>
       <controlaccess>
@@ -108,8 +108,8 @@ O’Brien Family (Detroit, Mich.) papers, Bentley Historical Library, University
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
-        <genreform source="aat" encodinganalog="655">Scrapbooks.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3139">Scrapbooks.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -123,13 +123,13 @@ O’Brien Family (Detroit, Mich.) papers, Bentley Historical Library, University
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [182251694302902264134]">1</container>
               <unittitle>Miscellaneous clippings and political matter</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [182251694302902264134]">1</container>
               <unittitle>Campaign literature, Detroit mayoral election <unitdate type="inclusive" normal="1937">1937</unitdate></unittitle>
             </did>
           </c03>
@@ -140,7 +140,7 @@ O’Brien Family (Detroit, Mich.) papers, Bentley Historical Library, University
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [182251694302902264134]">1</container>
               <unittitle>Clippings and memorabilia</unittitle>
             </did>
           </c03>
@@ -151,19 +151,19 @@ O’Brien Family (Detroit, Mich.) papers, Bentley Historical Library, University
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [182251694302902264134]">1</container>
               <unittitle>Clippings and biographical material</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [182251694302902264134]">1</container>
               <unittitle><genreform normal="Scrapbooks">Scrapbook</genreform> concerning in part political career of Patrick H. O'Brien, <unitdate type="inclusive" normal="1932/1936">1932-1936</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [182251694302902264134]">1</container>
               <unittitle><genreform normal="Scrapbooks">Scrapbook</genreform> largely containing advertising publicity for his insurance firm, <unitdate type="inclusive" normal="1932/1937">1932-1937</unitdate></unittitle>
             </did>
           </c03>
@@ -174,19 +174,19 @@ O’Brien Family (Detroit, Mich.) papers, Bentley Historical Library, University
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [182251694302902264134]">1</container>
               <unittitle><title render="italic">Detroit Times</title> miscellanea</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">1</container>
+              <container type="volume" label="Oversize Volume [43756848960640989]">1</container>
               <unittitle><genreform normal="Scrapbooks">Scrapbook</genreform> concerning campaign for better highways, <unitdate type="inclusive" normal="1952/1957">1952-1957</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [182251694302902264134]">1</container>
               <unittitle><genreform normal="Scrapbooks">Scrapbook</genreform> concerning campaign for better highways, <unitdate type="inclusive" normal="1955/1956">1955-1956</unitdate></unittitle>
             </did>
             <odd>
@@ -195,7 +195,7 @@ O’Brien Family (Detroit, Mich.) papers, Bentley Historical Library, University
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [182251694302902264134]">1</container>
               <unittitle>Miscellanea re. good roads campaign</unittitle>
             </did>
           </c03>
@@ -206,7 +206,7 @@ O’Brien Family (Detroit, Mich.) papers, Bentley Historical Library, University
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [182251694302902264134]">1</container>
               <unittitle>Legislative work for family planning clinics in Michigan <unitdate type="inclusive" normal="1965">1965</unitdate></unittitle>
             </did>
           </c03>
@@ -217,14 +217,14 @@ O’Brien Family (Detroit, Mich.) papers, Bentley Historical Library, University
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [182251694302902264134]">1</container>
               <unittitle>Reminiscences of boyhood in Menominee, Michigan <unitdate type="inclusive" normal="1944">1944</unitdate></unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [182251694302902264134]">1</container>
             <unittitle><genreform normal="Photographs">Photographs</genreform> of Gerald and Patrick O'Brien</unittitle>
           </did>
         </c02>

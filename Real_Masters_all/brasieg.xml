@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Geraldine Brasie Photograph Collection, 1924-1934</titleproper>
       <author>Finding aid created by <lb/>Chris Schunter, July 2014</author>
     </titlepage>
@@ -82,21 +82,21 @@ Geraldine Brasie photograph collection, Bentley Historical Library, University o
       <controlaccess>
         <head>Subjects:</head>
         <persname source="lcnaf" encodinganalog="600">Brasie, Geraldine.</persname>
-        <subject source="lcsh" encodinganalog="650">Voyages and travels.</subject>
-        <subject source="lcsh" encodinganalog="650">Women travelers--20th century.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6009">Voyages and travels.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6443">Women travelers--20th century.</subject>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Materials:</head>
-        <subject source="lctgm" encodinganalog="650">Country life--China.</subject>
-        <subject source="lctgm" encodinganalog="650">Country life--India.</subject>
-        <subject source="lctgm" encodinganalog="650">City &amp; town life--Asia.</subject>
-        <subject source="lctgm" encodinganalog="650">City &amp; town life--Europe.</subject>
-        <subject source="lctgm" encodinganalog="650">City &amp; town life--Japan.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3952">Country life--China.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3953">Country life--India.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3954">City &amp; town life--Asia.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3955">City &amp; town life--Europe.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3956">City &amp; town life--Japan.</subject>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Black-and-white negatives.</genreform>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3147">Black-and-white negatives.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -106,13 +106,13 @@ Geraldine Brasie photograph collection, Bentley Historical Library, University o
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [77705694405312856259]">1</container>
             <unittitle>Biographical <unitdate type="inclusive">undated</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [77705694405312856259]">1</container>
             <unittitle>Letter <unitdate type="inclusive" normal="1931">1931</unitdate></unittitle>
           </did>
           <odd>
@@ -121,13 +121,13 @@ Geraldine Brasie photograph collection, Bentley Historical Library, University o
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [77705694405312856259]">1</container>
             <unittitle>Photographic information <unitdate type="inclusive">undated</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [77705694405312856259]">1</container>
             <unittitle>Postcards <unitdate type="inclusive" normal="1927/1934">1927-1934</unitdate></unittitle>
           </did>
         </c02>
@@ -142,25 +142,25 @@ Geraldine Brasie photograph collection, Bentley Historical Library, University o
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [77705694405312856259]">1</container>
               <unittitle>Bhutan/Tibet/India <unitdate type="inclusive" normal="1932" certainty="approximate">circa 1932</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [77705694405312856259]">1</container>
               <unittitle>Brazil <unitdate type="inclusive">undated</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [77705694405312856259]">1</container>
               <unittitle>Burma <unitdate type="inclusive" normal="1933">1933</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [77705694405312856259]">1</container>
               <unittitle>Cambodia/Thailand-Angkor Wat, Bangkok <unitdate type="inclusive" normal="1933">1933</unitdate></unittitle>
             </did>
           </c03>
@@ -170,7 +170,7 @@ Geraldine Brasie photograph collection, Bentley Historical Library, University o
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [77705694405312856259]">1</container>
                 <unittitle>General <unitdate type="inclusive" normal="1933">1933</unitdate></unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -179,20 +179,20 @@ Geraldine Brasie photograph collection, Bentley Historical Library, University o
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [77705694405312856259]">1</container>
                 <unittitle>Yangtze River <unitdate type="inclusive" normal="1933">1933</unitdate></unittitle>
               </did>
             </c04>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [77705694405312856259]">1</container>
               <unittitle>Dutch East Indies <unitdate type="inclusive" normal="1933" certainty="approximate">circa 1933</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [77705694405312856259]">1</container>
               <unittitle>Egypt <unitdate type="inclusive" normal="1931">1931</unitdate></unittitle>
             </did>
           </c03>
@@ -202,7 +202,7 @@ Geraldine Brasie photograph collection, Bentley Historical Library, University o
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [77705694405312856259]">1</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1926">1926</unitdate>
                 </unittitle>
@@ -210,7 +210,7 @@ Geraldine Brasie photograph collection, Bentley Historical Library, University o
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [77705694405312856259]">1</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1930">1930</unitdate>
                 </unittitle>
@@ -218,7 +218,7 @@ Geraldine Brasie photograph collection, Bentley Historical Library, University o
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [77705694405312856259]">1</container>
                 <unittitle>
                   <unitdate type="inclusive">undated</unitdate>
                 </unittitle>
@@ -227,13 +227,13 @@ Geraldine Brasie photograph collection, Bentley Historical Library, University o
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [77705694405312856259]">1</container>
               <unittitle>France <unitdate type="inclusive" normal="1924">1924</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [77705694405312856259]">1</container>
               <unittitle>France/Holland/Italy/Switzerland/Unidentified <unitdate type="inclusive" normal="1924/1926" certainty="approximate">circa 1924-1926</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -242,7 +242,7 @@ Geraldine Brasie photograph collection, Bentley Historical Library, University o
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [77705694405312856259]">1</container>
               <unittitle>France/Switzerland <unitdate type="inclusive" normal="1924">1924</unitdate></unittitle>
             </did>
           </c03>
@@ -252,7 +252,7 @@ Geraldine Brasie photograph collection, Bentley Historical Library, University o
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [77705694405312856259]">1</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1926">1926</unitdate>
                 </unittitle>
@@ -260,7 +260,7 @@ Geraldine Brasie photograph collection, Bentley Historical Library, University o
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [77705694405312856259]">1</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1931">1931</unitdate>
                 </unittitle>
@@ -269,25 +269,25 @@ Geraldine Brasie photograph collection, Bentley Historical Library, University o
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [77705694405312856259]">1</container>
               <unittitle>Germany (Rothenburg)/Holland <unitdate type="inclusive" normal="1926" certainty="approximate">circa 1926</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [77705694405312856259]">1</container>
               <unittitle>Greece <unitdate type="inclusive" normal="1931">1931</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [6812548465428779876573]">2</container>
               <unittitle>Greece to Syria <unitdate type="inclusive" normal="1931">1931</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [6812548465428779876573]">2</container>
               <unittitle>Holland <unitdate type="inclusive" normal="1926">1926</unitdate></unittitle>
             </did>
           </c03>
@@ -297,7 +297,7 @@ Geraldine Brasie photograph collection, Bentley Historical Library, University o
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [6812548465428779876573]">2</container>
                 <unittitle>General <unitdate type="inclusive" normal="1931/1933">1931-1933</unitdate></unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">4 folders</extent>
@@ -306,86 +306,86 @@ Geraldine Brasie photograph collection, Bentley Historical Library, University o
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [6812548465428779876573]">2</container>
                 <unittitle>Ahmednagar, Rahuri, Ellora, Ajanta, Bombay <unitdate type="inclusive" normal="1931" certainty="approximate">circa 1931</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [6812548465428779876573]">2</container>
                 <unittitle>Blood Sacrifice <unitdate type="inclusive" normal="1930/1935">early 1930s</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [6812548465428779876573]">2</container>
                 <unittitle>Bombay <unitdate type="inclusive" normal="1931">1931</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [6812548465428779876573]">2</container>
                 <unittitle>Calcutta, Udaipur <unitdate type="inclusive" normal="1930/1935">early 1930s</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [6812548465428779876573]">2</container>
                 <unittitle>Delhi, Lehore, Kashmir, Khyber, Sind, Mt. Ahee <unitdate type="inclusive" normal="1932">1932</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [6812548465428779876573]">2</container>
                 <unittitle>Kalimpong <unitdate type="inclusive" normal="1930/1935">early 1930s</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [6812548465428779876573]">2</container>
                 <unittitle>Kashmir/Khyber Pass <unitdate type="inclusive" normal="1932">1932</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [6812548465428779876573]">2</container>
                 <unittitle>Southern <unitdate type="inclusive" normal="1930/1935">early 1930s</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [6812548465428779876573]">2</container>
                 <unittitle>Udaipur, Jaipur, Agra, Delhi <unitdate type="inclusive" normal="1930/1935">early 1930s</unitdate></unittitle>
               </did>
             </c04>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [6812548465428779876573]">2</container>
               <unittitle>India/Burma/Thailand <unitdate type="inclusive" normal="1933">1933</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [6812548465428779876573]">2</container>
               <unittitle>India/Dutch East Indies/Ceylon <unitdate type="inclusive" normal="1931/1933">1931-1933</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [6812548465428779876573]">2</container>
               <unittitle>India/Tibet <unitdate type="inclusive" normal="1932">1932</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [6812548465428779876573]">2</container>
               <unittitle>Ireland <unitdate type="inclusive" normal="1930">1930</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [6812548465428779876573]">2</container>
               <unittitle>Italy <unitdate type="inclusive">undated</unitdate></unittitle>
             </did>
           </c03>
@@ -395,7 +395,7 @@ Geraldine Brasie photograph collection, Bentley Historical Library, University o
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [890989464774073871702]">3</container>
                 <unittitle>General <unitdate type="inclusive" normal="1933">1933</unitdate></unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -404,7 +404,7 @@ Geraldine Brasie photograph collection, Bentley Historical Library, University o
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [890989464774073871702]">3</container>
                 <unittitle>American Families <unitdate type="inclusive" normal="1933">1933</unitdate></unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">5 folders</extent>
@@ -413,32 +413,32 @@ Geraldine Brasie photograph collection, Bentley Historical Library, University o
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [890989464774073871702]">3</container>
                 <unittitle>Hokkaido <unitdate type="inclusive" normal="1933">1933</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [890989464774073871702]">3</container>
                 <unittitle>Journey to <unitdate type="inclusive" normal="1933">1933</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [890989464774073871702]">3</container>
                 <unittitle>Sendai, Kyoto <unitdate type="inclusive" normal="1933">1933</unitdate></unittitle>
               </did>
             </c04>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [890989464774073871702]">3</container>
               <unittitle>Mexico <unitdate type="inclusive">undated</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [890989464774073871702]">3</container>
               <unittitle>Miscellaneous <unitdate type="inclusive">undated</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">6 folders</extent>
@@ -447,37 +447,37 @@ Geraldine Brasie photograph collection, Bentley Historical Library, University o
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [890989464774073871702]">3</container>
               <unittitle>Nepal <unitdate type="inclusive" normal="1932">1932</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [890989464774073871702]">3</container>
               <unittitle>Nepal/Mongolia? <unitdate type="inclusive">undated</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [890989464774073871702]">3</container>
               <unittitle>Palestine <unitdate type="inclusive" normal="1931">1931</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [890989464774073871702]">3</container>
               <unittitle>Philippines <unitdate type="inclusive" normal="1930/1935">early 1930s</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [890989464774073871702]">3</container>
               <unittitle>Saudi Arabia (Jedda) and Ship <unitdate type="inclusive" normal="1931">1931</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [890989464774073871702]">3</container>
               <unittitle>Scotland <unitdate type="inclusive" normal="1930">1930</unitdate></unittitle>
             </did>
           </c03>
@@ -487,7 +487,7 @@ Geraldine Brasie photograph collection, Bentley Historical Library, University o
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [890989464774073871702]">3</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1926">1926</unitdate>
                 </unittitle>
@@ -495,7 +495,7 @@ Geraldine Brasie photograph collection, Bentley Historical Library, University o
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [890989464774073871702]">3</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1930">1930</unitdate>
                 </unittitle>
@@ -504,25 +504,25 @@ Geraldine Brasie photograph collection, Bentley Historical Library, University o
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [890989464774073871702]">3</container>
               <unittitle>Syria <unitdate type="inclusive" normal="1931">1931</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [20159298254967417346488]">4</container>
               <unittitle>Syria/Palestine <unitdate type="inclusive" normal="1931">1931</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [20159298254967417346488]">4</container>
               <unittitle>Syria/Turkey <unitdate type="inclusive" normal="1931">1931</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [20159298254967417346488]">4</container>
               <unittitle>Thailand <unitdate type="inclusive" normal="1933">1933</unitdate></unittitle>
             </did>
             <odd>
@@ -531,7 +531,7 @@ Geraldine Brasie photograph collection, Bentley Historical Library, University o
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [20159298254967417346488]">4</container>
               <unittitle>Tibet <unitdate type="inclusive" normal="1932">1932</unitdate></unittitle>
             </did>
           </c03>
@@ -542,43 +542,43 @@ Geraldine Brasie photograph collection, Bentley Historical Library, University o
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [20159298254967417346488]">4</container>
               <unittitle>Cambodia/Thailand/Singapore-Angkor Wat, Bangkok, Singapore <unitdate type="inclusive" normal="1933">1933</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [20159298254967417346488]">4</container>
               <unittitle>Egypt <unitdate type="inclusive" normal="1931">1931</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [20159298254967417346488]">4</container>
               <unittitle>Egypt/Spain <unitdate type="inclusive" normal="1931" certainty="approximate">circa 1931</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [20159298254967417346488]">4</container>
               <unittitle>Germany-Black Forest (Negatives) <unitdate type="inclusive" normal="1926" certainty="approximate">circa 1926</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [20159298254967417346488]">4</container>
               <unittitle>Germany (Rothenburg)/Switzerland <unitdate type="inclusive" normal="1926" certainty="approximate">circa 1926</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [20159298254967417346488]">4</container>
               <unittitle>India-Kalimpong <unitdate type="inclusive" normal="1930/1935">early 1930s</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [20159298254967417346488]">4</container>
               <unittitle>India/Ceylon <unitdate type="inclusive" normal="1930/1935">early 1930s</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -590,19 +590,19 @@ Geraldine Brasie photograph collection, Bentley Historical Library, University o
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [20159298254967417346488]">4</container>
               <unittitle>Japan <unitdate type="inclusive" normal="1933">1933</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [20159298254967417346488]">4</container>
               <unittitle>Miscellaneous <unitdate type="inclusive">undated</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [20159298254967417346488]">4</container>
               <unittitle>Nepal/Tibet? <unitdate type="inclusive" normal="1932" certainty="approximate">circa 1932</unitdate></unittitle>
             </did>
           </c03>

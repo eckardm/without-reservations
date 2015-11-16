@@ -26,7 +26,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>James H. McFarlan Papers, 1881-1924</titleproper>
       <author>Finding aid created by <lb/>Helmi Raaska, January 1984</author>
     </titlepage>
@@ -79,23 +79,23 @@ James H. McFarlan Papers, Bentley Historical Library, University of Michigan</p>
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <geogname source="lcsh" encodinganalog="651">Flint (Mich.)--Commerce.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/2317">Flint (Mich.)--Commerce.</geogname>
         <corpname source="lcnaf" encodinganalog="610">Flint Land Company.</corpname>
-        <subject source="lcsh" encodinganalog="650">Frontier and pioneer life--South Dakota--White Lake.</subject>
-        <subject source="lcsh" encodinganalog="650">Lawyers--Michigan--Flint.</subject>
-        <subject source="lcsh" encodinganalog="650">Land use--Michigan--Flint.</subject>
-        <geogname source="lcsh" encodinganalog="651">Linden (Mich.)</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/8981">Frontier and pioneer life--South Dakota--White Lake.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6679">Lawyers--Michigan--Flint.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/8982">Land use--Michigan--Flint.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1148">Linden (Mich.)</geogname>
         <persname source="lcnaf" encodinganalog="600">McFarlan, James H. (James Hoyt)</persname>
         <corpname source="lcnaf" encodinganalog="610">McFarlan, Williams and Wilson.</corpname>
-        <subject source="lcsh" encodinganalog="650">Pioneers--South Dakota--White Lake.</subject>
-        <subject source="lcsh" encodinganalog="650">Teachers--Michigan--Linden.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/8983">Pioneers--South Dakota--White Lake.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/8984">Teachers--Michigan--Linden.</subject>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan--Students--Social life and customs--1871-1880.</corpname>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/no2012068844.html">White Lake (S.D.)</geogname>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/no2012068844.html" ref="/subjects/2318">White Lake (S.D.)</geogname>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Business records.</genreform>
-        <genreform source="aat" encodinganalog="655">Diaries.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3177">Business records.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3150">Diaries.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -105,7 +105,7 @@ James H. McFarlan Papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [035825981455563794079]">1</container>
             <unittitle><genreform normal="Diaries">Diary</genreform>, <unitdate type="inclusive" normal="1881/1885">1881-1885</unitdate></unittitle>
           </did>
         </c02>
@@ -115,13 +115,13 @@ James H. McFarlan Papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [035825981455563794079]">1</container>
               <unittitle>Daybook <unitdate type="inclusive" normal="1899-09-23/1903-04-30">September 23, 1899-April 30, 1903</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">1</container>
+              <container type="volume" label="Oversize Volume [3606783466432848822]">1</container>
               <unittitle>Journal <unitdate type="inclusive" normal="1914-01/1924-07">January 1914-July 1924</unitdate></unittitle>
             </did>
           </c03>
@@ -132,7 +132,7 @@ James H. McFarlan Papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [035825981455563794079]">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1897-09-10/1898-01-21">September 10, 1897-January 21, 1898</unitdate>
               </unittitle>
@@ -140,7 +140,7 @@ James H. McFarlan Papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [035825981455563794079]">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1898-01-21/1898-05-07">January 21, 1898-May 7, 1898</unitdate>
               </unittitle>
@@ -148,7 +148,7 @@ James H. McFarlan Papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [035825981455563794079]">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1898-05-07/1898-09-20">May 7, 1898-September 20, 1898</unitdate>
               </unittitle>
@@ -156,7 +156,7 @@ James H. McFarlan Papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [035825981455563794079]">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1898-09-20/1899-03-14">September 20, 1898-March 14, 1899</unitdate>
               </unittitle>
@@ -164,7 +164,7 @@ James H. McFarlan Papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [035825981455563794079]">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1899-03-14/1899-07-15">March 14, 1899-July 15, 1899</unitdate>
               </unittitle>
@@ -172,7 +172,7 @@ James H. McFarlan Papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [663618408469888236]">2</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1899-07-17/1900-03-23">July 17, 1899-March 23, 1900</unitdate>
               </unittitle>
@@ -180,7 +180,7 @@ James H. McFarlan Papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [663618408469888236]">2</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1900-03-24/1900-08-16">March 24, 1900-August 16, 1900</unitdate>
               </unittitle>
@@ -188,7 +188,7 @@ James H. McFarlan Papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [663618408469888236]">2</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1901-12-17/1902-06-10">December 17, 1901-June 10, 1902</unitdate>
               </unittitle>
@@ -196,7 +196,7 @@ James H. McFarlan Papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [663618408469888236]">2</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1902-06-10/1902-12-01">June 10, 1902-December 1, 1902</unitdate>
               </unittitle>
@@ -205,7 +205,7 @@ James H. McFarlan Papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [663618408469888236]">2</container>
             <unittitle>Transcript of court case concerning property in Flint</unittitle>
           </did>
         </c02>

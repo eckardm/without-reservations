@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>George N. Carman papers, 1839-1941</titleproper>
       <author>Finding aid created by <lb/>Michigan Historical Collections staff</author>
     </titlepage>
@@ -83,10 +83,10 @@ George N. Carman papers, Bentley Historical Library, University of Michigan</p>
       <controlaccess>
         <head>Subjects:</head>
         <persname source="lcnaf" encodinganalog="600">Carman, George N., 1856-1941.</persname>
-        <subject source="lcsh" encodinganalog="650">Education--Illinois--Chicago.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6672">Education--Illinois--Chicago.</subject>
         <corpname source="lcnaf" encodinganalog="610">Lewis Institute.</corpname>
-        <subject source="lcsh" encodinganalog="650">Schools--Illinois--Chicago.</subject>
-        <subject source="lcsh" encodinganalog="650">Teachers--Illinois--Chicago.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6673">Schools--Illinois--Chicago.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6674">Teachers--Illinois--Chicago.</subject>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan--Students--Social life and customs--1871-1880.</corpname>
       </controlaccess>
       <controlaccess>
@@ -94,14 +94,14 @@ George N. Carman papers, Bentley Historical Library, University of Michigan</p>
         <persname source="lcnaf" encodinganalog="600">Carman, Ada MacVicar.</persname>
         <persname source="lcnaf" encodinganalog="600">Carman, George N., 1856-1941.</persname>
         <famname source="lcnaf" encodinganalog="600">Carman family.</famname>
-        <subject source="lctgm" encodinganalog="650">Children.</subject>
-        <subject source="lctgm" encodinganalog="650">Offices--1891-1900.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3622">Children.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4018">Offices--1891-1900.</subject>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Diaries.</genreform>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
-        <genreform source="gmgpc" encodinganalog="655">Tintypes.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3150">Diaries.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
+        <genreform source="gmgpc" encodinganalog="655" ref="/subjects/3455">Tintypes.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -111,7 +111,7 @@ George N. Carman papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [32499312574335303158084]">1</container>
             <unittitle>
               <unitdate type="inclusive">Undated</unitdate>
               <unitdate type="inclusive" normal="1839/1893">1839-1893</unitdate>
@@ -120,7 +120,7 @@ George N. Carman papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [9199604148560096356]">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1894/1909">1894-1909</unitdate>
             </unittitle>
@@ -128,7 +128,7 @@ George N. Carman papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [041895234939475324217]">3</container>
             <unittitle>
               <unitdate type="inclusive" normal="1910/1921">1910-1921</unitdate>
             </unittitle>
@@ -136,7 +136,7 @@ George N. Carman papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [79303834289174082114]">4</container>
             <unittitle>
               <unitdate type="inclusive" normal="1922/1932">1922-1932</unitdate>
             </unittitle>
@@ -144,7 +144,7 @@ George N. Carman papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [613612794926277216197]">5</container>
             <unittitle>
               <unitdate type="inclusive" normal="1933/1941">1933-1941</unitdate>
             </unittitle>
@@ -157,31 +157,31 @@ George N. Carman papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [613612794926277216197]">5</container>
             <unittitle>Carman farm materials</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [613612794926277216197]">5</container>
             <unittitle>Income tax returns</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [613612794926277216197]">5</container>
             <unittitle>Autobiography</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [613612794926277216197]">5</container>
             <unittitle>Autobiographical materials</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [613612794926277216197]">5</container>
             <unittitle><genreform normal="Diaries">Diaries</genreform>, <unitdate type="inclusive" normal="1875-09/1880-04">September 1875-April 1880</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">3 volumes</extent>
@@ -193,7 +193,7 @@ George N. Carman papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [613612794926277216197]">5</container>
             <unittitle><genreform normal="Photographs">Photographs</genreform>: portraits of Carman, his wife, and other family members; and other miscellaneous photographs.</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">5 envelopes</extent>
@@ -202,25 +202,25 @@ George N. Carman papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [364017444809088727]">6</container>
             <unittitle>Genealogy</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [364017444809088727]">6</container>
             <unittitle>Student papers</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [364017444809088727]">6</container>
             <unittitle>Graham Taylor articles</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [364017444809088727]">6</container>
             <unittitle>Miscellanea, largely concerning Lewis Institute</unittitle>
           </did>
         </c02>

@@ -26,7 +26,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>University Archives and Records Program <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/2">University Archives and Records Program <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Helen Handy Newberry Residence <lb/>(University of Michigan) <lb/>Records, 1915-1947</titleproper>
       <author>Finding aid created by <lb/>Elena B. Teaford</author>
     </titlepage>
@@ -80,13 +80,13 @@ Helen Handy Newberry Residence(University of Michigan) Records, Bentley Historic
         <head>Subjects:</head>
         <corpname source="lcnaf" encodinganalog="610">Helen Handy Newberry Residence (University of Michigan)</corpname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan--Student housing.</corpname>
-        <subject source="lcsh" encodinganalog="650">Dormitories--Michigan--Ann Arbor.</subject>
-        <subject source="lcsh" encodinganalog="650">Women college students--Michigan--Ann Arbor.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5845">Dormitories--Michigan--Ann Arbor.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5837">Women college students--Michigan--Ann Arbor.</subject>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan--Students.</corpname>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat">Administrative records.</genreform>
+        <genreform source="aat" ref="/subjects/3290">Administrative records.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -96,19 +96,19 @@ Helen Handy Newberry Residence(University of Michigan) Records, Bentley Historic
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [0272171448737611416]">1</container>
             <unittitle>Minutes <unitdate type="inclusive" normal="1915/1925">1915-1925</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [0272171448737611416]">1</container>
             <unittitle>History and Financial Reports <unitdate type="inclusive" normal="1923/1924">1923-1924</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [0272171448737611416]">1</container>
             <unittitle>Budget Reports</unittitle>
             <unitdate type="inclusive" normal="1933">1933</unitdate>
             <unitdate type="inclusive" normal="1945/1946">1945-1946</unitdate>
@@ -116,19 +116,19 @@ Helen Handy Newberry Residence(University of Michigan) Records, Bentley Historic
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [0272171448737611416]">1</container>
             <unittitle>Audits <unitdate type="inclusive" normal="1927/1931">1927-1931</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [0272171448737611416]">1</container>
             <unittitle>Food Service <unitdate type="inclusive" normal="1943/1947">1943-1947</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [0272171448737611416]">1</container>
             <unittitle>Architectural Contracts <unitdate type="inclusive" normal="1922">1922</unitdate></unittitle>
           </did>
         </c02>

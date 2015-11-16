@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>William DeKleine papers, 1914-1955</titleproper>
       <author>Finding aid created by <lb/>Michigan Historical Collections staff</author>
     </titlepage>
@@ -84,26 +84,26 @@ William DeKleine papers, Bentley Historical Library, University of Michigan</p>
       <controlaccess>
         <head>Subjects:</head>
         <corpname source="lcnaf" encodinganalog="610">First Presbyterian Church (Lansing, Mich.)</corpname>
-        <geogname source="lcsh" encodinganalog="651">Lansing (Mich.)</geogname>
-        <subject source="lcsh" encodinganalog="650">Medicine--Michigan.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1140">Lansing (Mich.)</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6030">Medicine--Michigan.</subject>
         <corpname source="lcnaf" encodinganalog="610">Michigan. Dept. of Health.</corpname>
-        <subject source="lcsh" encodinganalog="650">Pellagra.</subject>
-        <subject source="lcsh" encodinganalog="650">Physicians--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7167">Pellagra.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5835">Physicians--Michigan.</subject>
         <corpname source="lcnaf" encodinganalog="610">Presbyterian Church--Michigan--Lansing.</corpname>
-        <subject source="lcsh" encodinganalog="650">Public health--United States.</subject>
-        <subject source="lcsh" encodinganalog="650">Red Cross and Red Crescent--Michigan.</subject>
-        <subject source="lcsh" encodinganalog="650">Roads--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5995">Public health--United States.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7168">Red Cross and Red Crescent--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6404">Roads--Michigan.</subject>
         <corpname source="lcnaf" encodinganalog="610">Soya Corporation of America.</corpname>
         <persname source="lcnaf" encodinganalog="600">DeKleine, William, 1877-1957.</persname>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Materials:</head>
-        <subject source="lctgm" encodinganalog="650">Dwellings--Michigan--Flint.</subject>
-        <subject source="lcsh" encodinganalog="650">Dwellings--Michigan--Flint.</subject>
-        <subject source="lctgm" encodinganalog="650">Physicians--Michigan.</subject>
-        <subject source="lctgm" encodinganalog="650">Poor persons.</subject>
-        <subject source="lcsh" encodinganalog="650">Public health--Michigan.</subject>
-        <subject source="lctgm" encodinganalog="650">Slums--Michigan--Flint.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4161">Dwellings--Michigan--Flint.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7169">Dwellings--Michigan--Flint.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4162">Physicians--Michigan.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4163">Poor persons.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6032">Public health--Michigan.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4164">Slums--Michigan--Flint.</subject>
         <persname source="lcnaf" encodinganalog="600">DeKleine, William, 1877-1957.</persname>
       </controlaccess>
       <controlaccess>
@@ -118,8 +118,8 @@ William DeKleine papers, Bentley Historical Library, University of Michigan</p>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
-        <genreform source="gmgpc" encodinganalog="655">Portraits.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
+        <genreform source="gmgpc" encodinganalog="655" ref="/subjects/3481">Portraits.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -129,7 +129,7 @@ William DeKleine papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8878247800436911]">1</container>
             <unittitle>Biographical materials</unittitle>
             <unitdate type="inclusive" normal="1928/1950">1928-1950</unitdate>
             <unitdate type="inclusive">undated</unitdate>
@@ -141,19 +141,19 @@ William DeKleine papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [8878247800436911]">1</container>
               <unittitle>[Chapters 1-4]</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [8878247800436911]">1</container>
               <unittitle>[Chapters 5-9]</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [8878247800436911]">1</container>
               <unittitle>[Chapters 10-13]</unittitle>
             </did>
           </c03>
@@ -165,7 +165,7 @@ William DeKleine papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8878247800436911]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1914/1947-05">1914-May 1947</unitdate>
             </unittitle>
@@ -176,7 +176,7 @@ William DeKleine papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [62366444145716183028740]">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1947-06/1955">June 1947-1955</unitdate>
             </unittitle>
@@ -192,7 +192,7 @@ William DeKleine papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [62366444145716183028740]">2</container>
             <unittitle>Reports, memoranda, etc.</unittitle>
             <unitdate type="inclusive">undated</unitdate>
             <unitdate type="inclusive" normal="1905/1947">1905-1947</unitdate>
@@ -203,7 +203,7 @@ William DeKleine papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [62366444145716183028740]">2</container>
             <unittitle>Printed materials</unittitle>
             <unitdate type="inclusive" normal="1937/1947">1937-1947</unitdate>
             <unitdate type="inclusive">undated</unitdate>
@@ -214,13 +214,13 @@ William DeKleine papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [62366444145716183028740]">2</container>
             <unittitle>Research papers <unitdate type="inclusive" normal="1930/1949">1930-1949</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [62366444145716183028740]">2</container>
             <unittitle>Papers concerning pellagra <unitdate type="inclusive" normal="1930/1949">1930-1949</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">4 folders</extent>
@@ -229,37 +229,37 @@ William DeKleine papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [62366444145716183028740]">2</container>
             <unittitle>Flint Health Department <unitdate type="inclusive" normal="1922">1922</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [62366444145716183028740]">2</container>
             <unittitle>Selective Service System (health concerns) <unitdate type="inclusive" normal="1939/1943">1939-1943</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [62366444145716183028740]">2</container>
             <unittitle>History of the Good Roads Movement in western Michigan</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [62366444145716183028740]">2</container>
             <unittitle>History of the First Presbyterian Church of Lansing</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [62366444145716183028740]">2</container>
             <unittitle>History of the Red Cross Blood Procurement Program for the Army and Navy in World War II</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [62366444145716183028740]">2</container>
             <unittitle>Holland Club of Washington, D. C. miscellanea <unitdate type="inclusive" normal="1942/1944">1942-1944</unitdate></unittitle>
           </did>
         </c02>
@@ -270,7 +270,7 @@ William DeKleine papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [62366444145716183028740]">2</container>
             <unittitle>
               <unitdate type="inclusive">Undated</unitdate>
               <unitdate type="inclusive" normal="1929/1931">1929-1931</unitdate>
@@ -282,7 +282,7 @@ William DeKleine papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [5053354369949536969]">3</container>
             <unittitle>
               <unitdate type="inclusive" normal="1932/1941">1932-1941</unitdate>
             </unittitle>
@@ -298,7 +298,7 @@ William DeKleine papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [5053354369949536969]">3</container>
             <unittitle>
               <unitdate type="inclusive" normal="1924/1946">1924-1946</unitdate>
               <unitdate type="inclusive">undated</unitdate>
@@ -320,7 +320,7 @@ William DeKleine papers, Bentley Historical Library, University of Michigan</p>
         </odd>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [5053354369949536969]">3</container>
             <unittitle>
               <genreform normal="Portraits">Portraits</genreform>
             </unittitle>
@@ -328,13 +328,13 @@ William DeKleine papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [5053354369949536969]">3</container>
             <unittitle>Groups</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [5053354369949536969]">3</container>
             <unittitle>Flint slums <unitdate type="inclusive" normal="1920" certainty="approximate">circa 1920</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>

@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Daughters of the American Revolution. Ypsilanti Chapter (Ypsilanti, Mich.) records, 1896-1985</titleproper>
       <author>Finding aid created by <lb/>Michigan Historical Collections staff</author>
     </titlepage>
@@ -82,23 +82,23 @@ Daughters of the American Revolution. Ypsilanti Chapter (Ypsilanti, Mich.) recor
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <subject source="lcsh" encodinganalog="650">Cemeteries--Michigan--Saline.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7130">Cemeteries--Michigan--Saline.</subject>
         <corpname source="lcnaf" encodinganalog="610">Daughters of the American Revolution. Ypsilanti Chapter (Ypsilanti, Mich.)</corpname>
-        <subject source="lcsh" encodinganalog="650">Patriotic societies--Michigan--Ypsilanti.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7131">Patriotic societies--Michigan--Ypsilanti.</subject>
         <corpname source="lcnaf" encodinganalog="610">Oakwood Cemetery (Saline, Mich.)</corpname>
-        <subject source="lcsh" encodinganalog="650">Women--Michigan--Ypsilanti--Societies and clubs.</subject>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n80006284.html">Ypsilanti (Mich.)</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7132">Women--Michigan--Ypsilanti--Societies and clubs.</subject>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n80006284.html" ref="/subjects/999">Ypsilanti (Mich.)</geogname>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Materials:</head>
-        <subject source="lctgm" encodinganalog="650">Cemeteries--Michigan--Saline.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4153">Cemeteries--Michigan--Saline.</subject>
         <corpname source="lcnaf" encodinganalog="610">Oakwood Cemetery (Saline, Mich.)</corpname>
-        <subject source="lcsh" encodinganalog="650">Cemeteries--Michigan--Saline.</subject>
-        <subject source="lctgm" encodinganalog="650">Tombs and sepulchral monuments.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7130">Cemeteries--Michigan--Saline.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3978">Tombs and sepulchral monuments.</subject>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -108,7 +108,7 @@ Daughters of the American Revolution. Ypsilanti Chapter (Ypsilanti, Mich.) recor
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [02442414448900961179344]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1896/1902">1896-1902</unitdate>
             </unittitle>
@@ -116,7 +116,7 @@ Daughters of the American Revolution. Ypsilanti Chapter (Ypsilanti, Mich.) recor
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [02442414448900961179344]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1902/1907">1902-1907</unitdate>
             </unittitle>
@@ -124,7 +124,7 @@ Daughters of the American Revolution. Ypsilanti Chapter (Ypsilanti, Mich.) recor
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [02442414448900961179344]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1907/1914">1907-1914</unitdate>
             </unittitle>
@@ -132,7 +132,7 @@ Daughters of the American Revolution. Ypsilanti Chapter (Ypsilanti, Mich.) recor
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [02442414448900961179344]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1914/1921">1914-1921</unitdate>
             </unittitle>
@@ -140,7 +140,7 @@ Daughters of the American Revolution. Ypsilanti Chapter (Ypsilanti, Mich.) recor
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [02442414448900961179344]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1921/1924">1921-1924</unitdate>
             </unittitle>
@@ -148,7 +148,7 @@ Daughters of the American Revolution. Ypsilanti Chapter (Ypsilanti, Mich.) recor
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [02442414448900961179344]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1924/1929">1924-1929</unitdate>
             </unittitle>
@@ -156,7 +156,7 @@ Daughters of the American Revolution. Ypsilanti Chapter (Ypsilanti, Mich.) recor
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [02442414448900961179344]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1929/1932">1929-1932</unitdate>
             </unittitle>
@@ -164,7 +164,7 @@ Daughters of the American Revolution. Ypsilanti Chapter (Ypsilanti, Mich.) recor
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [02442414448900961179344]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1932/1940">1932-1940</unitdate>
             </unittitle>
@@ -172,7 +172,7 @@ Daughters of the American Revolution. Ypsilanti Chapter (Ypsilanti, Mich.) recor
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [02442414448900961179344]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1941/1951">1941-1951</unitdate>
             </unittitle>
@@ -180,7 +180,7 @@ Daughters of the American Revolution. Ypsilanti Chapter (Ypsilanti, Mich.) recor
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [02442414448900961179344]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1951/1962">1951-1962</unitdate>
             </unittitle>
@@ -188,7 +188,7 @@ Daughters of the American Revolution. Ypsilanti Chapter (Ypsilanti, Mich.) recor
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [02442414448900961179344]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1962/1968">1962-1968</unitdate>
             </unittitle>
@@ -196,7 +196,7 @@ Daughters of the American Revolution. Ypsilanti Chapter (Ypsilanti, Mich.) recor
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [02442414448900961179344]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1969/1971">1969-1971</unitdate>
             </unittitle>
@@ -204,7 +204,7 @@ Daughters of the American Revolution. Ypsilanti Chapter (Ypsilanti, Mich.) recor
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [02442414448900961179344]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1974/1985">1974-1985</unitdate>
             </unittitle>
@@ -220,7 +220,7 @@ Daughters of the American Revolution. Ypsilanti Chapter (Ypsilanti, Mich.) recor
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [66563499276125394]">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1896/1918">1896-1918</unitdate>
             </unittitle>
@@ -228,7 +228,7 @@ Daughters of the American Revolution. Ypsilanti Chapter (Ypsilanti, Mich.) recor
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [66563499276125394]">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1918/1927">1918-1927</unitdate>
             </unittitle>
@@ -236,7 +236,7 @@ Daughters of the American Revolution. Ypsilanti Chapter (Ypsilanti, Mich.) recor
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [66563499276125394]">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1927/1936">1927-1936</unitdate>
             </unittitle>
@@ -244,7 +244,7 @@ Daughters of the American Revolution. Ypsilanti Chapter (Ypsilanti, Mich.) recor
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [66563499276125394]">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1936/1954">1936-1954</unitdate>
             </unittitle>
@@ -252,7 +252,7 @@ Daughters of the American Revolution. Ypsilanti Chapter (Ypsilanti, Mich.) recor
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [66563499276125394]">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1954/1970">1954-1970</unitdate>
             </unittitle>
@@ -265,25 +265,25 @@ Daughters of the American Revolution. Ypsilanti Chapter (Ypsilanti, Mich.) recor
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [66563499276125394]">2</container>
             <unittitle>By-laws</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [66563499276125394]">2</container>
             <unittitle>Annual reports <unitdate type="inclusive" normal="1974/1985">1974/1975-1984/1985</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [66563499276125394]">2</container>
             <unittitle>Junior Committee: Secretary-Treasurer's book <unitdate type="inclusive" normal="1946/1952">1946-1952</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [66563499276125394]">2</container>
             <unittitle>Compilation of burials in Oakwood Cemetery, Saline, Michigan <unitdate type="inclusive" normal="1958">1958</unitdate></unittitle>
           </did>
           <odd>
@@ -292,7 +292,7 @@ Daughters of the American Revolution. Ypsilanti Chapter (Ypsilanti, Mich.) recor
         </c02>
         <c02 level="file">
           <did>
-            <container type="folder" label="Oversize Folder">Be.1</container>
+            <container type="folder" label="Oversize Folder [044876974961135306700797]">Be.1</container>
             <unittitle>Diagrams of Oakwood Cemetery</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">6 items</extent>

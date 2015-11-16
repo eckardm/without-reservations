@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Skulda V. Banér papers, 1900-1975</titleproper>
       <author>Finding aid created by <lb/>Andrew F. Anderson and Lisa B. Hum, 1995</author>
     </titlepage>
@@ -85,19 +85,19 @@ Skulda V. Banér papers, Bentley Historical Library, University of Michigan</p>
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <subject source="lcsh" encodinganalog="650">Authors, American--Michigan--Ironwood.</subject>
-        <subject source="lcsh" encodinganalog="650">Women authors, American--Michigan--Ironwood.</subject>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n85064191.html">Ironwood (Mich.)</geogname>
-        <subject source="lcsh" encodinganalog="650">Women--Michigan--Ironwood.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6074">Authors, American--Michigan--Ironwood.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6075">Women authors, American--Michigan--Ironwood.</subject>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n85064191.html" ref="/subjects/995">Ironwood (Mich.)</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6076">Women--Michigan--Ironwood.</subject>
         <persname source="lcnaf" encodinganalog="600">Banér, Skulda V. (Skulda Vanadis)</persname>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Materials:</head>
         <persname source="lcnaf" encodinganalog="600">Banér, Skulda V. (Skulda Vanadis)</persname>
         <famname source="lcnaf" encodinganalog="600">Banér family.</famname>
-        <subject source="lcsh" encodinganalog="650">Dwellings--Michigan--Ironwood.</subject>
-        <subject source="lcsh" encodinganalog="650">Blind persons.</subject>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n85064191.html">Ironwood (Mich.)</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6077">Dwellings--Michigan--Ironwood.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6078">Blind persons.</subject>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n85064191.html" ref="/subjects/995">Ironwood (Mich.)</geogname>
       </controlaccess>
       <controlaccess>
         <head>Contributors:</head>
@@ -121,8 +121,8 @@ Skulda V. Banér papers, Bentley Historical Library, University of Michigan</p>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="lctgm" encodinganalog="655">Photographs.</genreform>
-        <genreform source="aat" encodinganalog="655">Scrapbooks.</genreform>
+        <genreform source="lctgm" encodinganalog="655" ref="/subjects/3401">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3139">Scrapbooks.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -135,7 +135,7 @@ Skulda V. Banér papers, Bentley Historical Library, University of Michigan</p>
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [197142494595054309]">1</container>
             <unittitle>Miscellaneous <unitdate type="inclusive" normal="1944/1964">1944-1964</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -154,7 +154,7 @@ Skulda V. Banér papers, Bentley Historical Library, University of Michigan</p>
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [197142494595054309]">1</container>
             <unittitle>Correspondence, with partial index <unitdate type="inclusive" normal="1915/1964">1915-1964</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">19 folders</extent>
@@ -163,7 +163,7 @@ Skulda V. Banér papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [197142494595054309]">1</container>
             <unittitle>Jeram, Frederick T. <unitdate type="inclusive" normal="1917/1926">1917-1926</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -172,7 +172,7 @@ Skulda V. Banér papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [197142494595054309]">1</container>
             <unittitle>Taylor, Nanna Banér</unittitle>
             <unitdate type="inclusive">undated</unitdate>
             <unitdate type="inclusive" normal="1945/1973">1945-1973</unitdate>
@@ -180,7 +180,7 @@ Skulda V. Banér papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [197142494595054309]">1</container>
             <unittitle>Washbourn, Torch Campbell <unitdate type="inclusive" normal="1959/1975">1959-1975</unitdate></unittitle>
           </did>
         </c02>
@@ -194,7 +194,7 @@ Skulda V. Banér papers, Bentley Historical Library, University of Michigan</p>
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [197142494595054309]">1</container>
             <unittitle><title render="italic">And After That the Dark</title>, <unitdate type="inclusive" normal="1955">1955</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -203,25 +203,25 @@ Skulda V. Banér papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [197142494595054309]">1</container>
             <unittitle><title render="italic">And Oft the Passing Traveler</title>, <unitdate type="inclusive" normal="1957">1957</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [0629075724480302665906442]">2</container>
             <unittitle><title render="italic">Brief Candle</title>, <unitdate type="inclusive">undated</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [0629075724480302665906442]">2</container>
             <unittitle><title render="italic">Ebony Dog, Where Now?</title>, <unitdate type="inclusive" normal="1963">1963</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [0629075724480302665906442]">2</container>
             <unittitle><title render="italic">High Flies the Eagle</title>, <unitdate type="inclusive" normal="1955" certainty="approximate">circa 1955</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -230,19 +230,19 @@ Skulda V. Banér papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [0629075724480302665906442]">2</container>
             <unittitle><title render="italic">J.G.R. Banér's Own Biography</title>, <unitdate type="inclusive">undated</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [0629075724480302665906442]">2</container>
             <unittitle><title render="italic">Lost Whisper</title>, <unitdate type="inclusive" normal="1950">1950</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [0629075724480302665906442]">2</container>
             <unittitle><title render="italic">My Father's Story</title>, <unitdate type="inclusive" normal="1962">1962</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -251,7 +251,7 @@ Skulda V. Banér papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [0629075724480302665906442]">2</container>
             <unittitle><title render="italic">Now is the High Tide</title>, <unitdate type="inclusive" normal="1953">1953</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -260,7 +260,7 @@ Skulda V. Banér papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [0629075724480302665906442]">2</container>
             <unittitle><title render="italic">Wipe Your Nose, Rosie</title>, <unitdate type="inclusive">undated</unitdate></unittitle>
           </did>
         </c02>
@@ -270,62 +270,62 @@ Skulda V. Banér papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [0629075724480302665906442]">2</container>
               <unittitle>"America Boat"-"Come On, Brutus" <unitdate type="inclusive">undated</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [0629075724480302665906442]">2</container>
               <unittitle>"Dear Lonesome"-"Four Slants in One Act" <unitdate type="inclusive" normal="1950/1960">1950-1960</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [0629075724480302665906442]">2</container>
               <unittitle>"Göteborg Quest"-"I Heard the Bells" <unitdate type="inclusive" normal="1938/1958">1938-1958</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [0629075724480302665906442]">2</container>
               <unittitle>"I Know!"-"Listen to Miss Livvie!" <unitdate type="inclusive" normal="1950/1962">1950-1962</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [0629075724480302665906442]">2</container>
               <unittitle>"Little Prince New Year"-"Ring in the New" <unitdate type="inclusive" normal="1950/1958">1950-1958</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [0629075724480302665906442]">2</container>
               <unittitle>"RX"-"This Was My Christmas" <unitdate type="inclusive" normal="1950/1962">1950-1962</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [0629075724480302665906442]">2</container>
               <unittitle>"Throw Me No Bone, Mister!"-"Wish I May, Wish I Might" <unitdate type="inclusive" normal="1956/1959">1956-1959</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [0629075724480302665906442]">2</container>
               <unittitle>Poetry and Miscellaneous <unitdate type="inclusive" normal="1927/1962">1927-1962</unitdate></unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [387887443610231146844]">3</container>
             <unittitle><title render="italic">Pims</title>, book for children with illustrations, <unitdate type="inclusive" normal="1963">1963</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [387887443610231146844]">3</container>
             <unittitle>Script for the Loretta Young Show <unitdate type="inclusive" normal="1957">1957</unitdate></unittitle>
           </did>
         </c02>
@@ -339,13 +339,13 @@ Skulda V. Banér papers, Bentley Historical Library, University of Michigan</p>
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [387887443610231146844]">3</container>
             <unittitle><title render="italic">Latchstring Out</title>, <unitdate type="inclusive" normal="1945/1946">1945-1946</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [387887443610231146844]">3</container>
             <unittitle>Short stories and articles <unitdate type="inclusive" normal="1931/1962">1931-1962</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -354,7 +354,7 @@ Skulda V. Banér papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [387887443610231146844]">3</container>
             <unittitle><title render="italic">Wenn ich das geahnt hatte!</title>, <unitdate type="inclusive" normal="1960" certainty="approximate">circa 1960</unitdate></unittitle>
           </did>
         </c02>
@@ -368,7 +368,7 @@ Skulda V. Banér papers, Bentley Historical Library, University of Michigan</p>
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [387887443610231146844]">3</container>
             <unittitle>Skulda Banér <unitdate type="inclusive" normal="1900/1969" certainty="approximate">circa 1900-1960s</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -377,7 +377,7 @@ Skulda V. Banér papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [387887443610231146844]">3</container>
             <unittitle>Banér family photograph albums</unittitle>
             <unitdate type="inclusive">undated</unitdate>
             <unitdate type="inclusive" normal="1901/1970">1901-1970</unitdate>
@@ -388,7 +388,7 @@ Skulda V. Banér papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [24064204964478992645026]">4</container>
             <unittitle>Nanna Banér Taylor photograph album <unitdate type="inclusive" normal="1920/1970" certainty="approximate">circa 1920s-1970</unitdate></unittitle>
           </did>
         </c02>
@@ -406,19 +406,19 @@ Skulda V. Banér papers, Bentley Historical Library, University of Michigan</p>
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [24064204964478992645026]">4</container>
             <unittitle>News clippings <unitdate type="inclusive" normal="1960/1964">1960-1964</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [24064204964478992645026]">4</container>
             <unittitle>Publicity for <title render="italic">Latchstring Out</title>, <unitdate type="inclusive" normal="1944">1944</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [24064204964478992645026]">4</container>
             <unittitle>Urda Banér scrapbook <unitdate type="inclusive" normal="1901/1922">1901-1922</unitdate></unittitle>
           </did>
         </c02>

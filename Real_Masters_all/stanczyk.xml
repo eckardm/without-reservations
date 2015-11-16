@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Benjamin C. Stanczyk papers, 1944-1975</titleproper>
       <author>Finding aid created by <lb/>Michigan Historical Collections staff</author>
     </titlepage>
@@ -83,17 +83,17 @@ Benjamin C. Stanczyk papers, Bentley Historical Library, University of Michigan<
       <controlaccess>
         <head>Subjects:</head>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n83163731">Democratic Party (Mich.)</corpname>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n79045539.html">Detroit (Mich.)</geogname>
-        <subject source="lcsh" encodinganalog="650">Judges--Michigan--Detroit.</subject>
-        <geogname source="local" encodinganalog="691">Michigan--Politics and government--1946-1960.</geogname>
-        <geogname source="local" encodinganalog="691">Michigan--Politics and government--1961-1970.</geogname>
-        <subject source="lcsh" encodinganalog="650">Polish Americans--Michigan.</subject>
-        <geogname source="lcsh" encodinganalog="651">Michigan--Politics and government--1951-</geogname>
-        <geogname source="lcsh" encodinganalog="651">Michigan--Politics and government--1837-1950.</geogname>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n79045539.html" ref="/subjects/933">Detroit (Mich.)</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/8715">Judges--Michigan--Detroit.</subject>
+        <geogname source="local" encodinganalog="691" ref="/subjects/809">Michigan--Politics and government--1946-1960.</geogname>
+        <geogname source="local" encodinganalog="691" ref="/subjects/810">Michigan--Politics and government--1961-1970.</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6040">Polish Americans--Michigan.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/910">Michigan--Politics and government--1951-</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/884">Michigan--Politics and government--1837-1950.</geogname>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Scrapbooks.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3139">Scrapbooks.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -103,13 +103,13 @@ Benjamin C. Stanczyk papers, Bentley Historical Library, University of Michigan<
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [0411820348678509133]">1</container>
             <unittitle>Correspondence <unitdate type="inclusive" normal="1950/1964">1950-1964</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [0411820348678509133]">1</container>
             <unittitle>Miscellanea</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -118,7 +118,7 @@ Benjamin C. Stanczyk papers, Bentley Historical Library, University of Michigan<
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [0411820348678509133]">1</container>
             <unittitle>Notebook concerning arrangements for Pulaski Day Parade <unitdate type="inclusive" normal="1956">1956</unitdate></unittitle>
           </did>
           <odd>
@@ -127,13 +127,13 @@ Benjamin C. Stanczyk papers, Bentley Historical Library, University of Michigan<
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [0411820348678509133]">1</container>
             <unittitle>Report of Citizens Income Tax Study Committee to the Common Council of the City of Detroit <unitdate type="inclusive" normal="1961">1961</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [0411820348678509133]">1</container>
             <unittitle>Notebooks of correspondence and memorabilia</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">1 volumes</extent>
@@ -142,13 +142,13 @@ Benjamin C. Stanczyk papers, Bentley Historical Library, University of Michigan<
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [0411820348678509133]">1</container>
             <unittitle>Diary <unitdate type="inclusive" normal="1944/1945">1944-1945</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [3362743669785523562]">2</container>
             <unittitle>Notebooks of correspondence and memorabilia</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">18 volumes</extent>
@@ -157,7 +157,7 @@ Benjamin C. Stanczyk papers, Bentley Historical Library, University of Michigan<
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [0838344548200060]">3</container>
             <unittitle>Notebook of correspondence and memorabilia</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">8 volumes</extent>
@@ -166,49 +166,49 @@ Benjamin C. Stanczyk papers, Bentley Historical Library, University of Michigan<
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [0838344548200060]">3</container>
             <unittitle>Captive Nations Committee <unitdate type="inclusive" normal="1965">1965</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [0838344548200060]">3</container>
             <unittitle>Father Kern "Seamen Letter" <unitdate type="inclusive" normal="1973/1974">1973-1974</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [0838344548200060]">3</container>
             <unittitle>Sixth Judicial Conference <unitdate type="inclusive" normal="1974">1974</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [0838344548200060]">3</container>
             <unittitle>Pulaski Day <unitdate type="inclusive" normal="1950/1959" certainty="approximate">1950s</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [0838344548200060]">3</container>
             <unittitle>College Papers <unitdate type="inclusive" normal="1935/1936">1935-1936</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [0838344548200060]">3</container>
             <unittitle>Hearing before the Senate Judiciary Committee, Sub-committee on Juvenile Delinquency <unitdate type="inclusive" normal="1967-07">July 1967</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [0838344548200060]">3</container>
             <unittitle>Select Committee on Firearms Control testimony on behalf of Michigan Antique Firearm Collectors <unitdate type="inclusive" normal="1975">1975</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [0838344548200060]">3</container>
             <unittitle>Central Citizen's Committee <unitdate type="inclusive" normal="1953">1953</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -217,19 +217,19 @@ Benjamin C. Stanczyk papers, Bentley Historical Library, University of Michigan<
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [0838344548200060]">3</container>
             <unittitle>Claims and Delivery Statute 4470, <unitdate type="inclusive" normal="1974">1974</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [0838344548200060]">3</container>
             <unittitle>Miscellaneous</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">1</container>
+            <container type="volume" label="Oversize Volume [66940067046598729298]">1</container>
             <unittitle><genreform normal="Scrapbooks">Scrapbooks</genreform> of correspondence, clippings, and memorabilia</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">12 volumes</extent>

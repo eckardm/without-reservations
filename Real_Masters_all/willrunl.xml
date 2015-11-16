@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Willow Run Public School Library records, 1944-1969</titleproper>
       <author>Finding aid created by <lb/>Michigan Historical Collections staff</author>
     </titlepage>
@@ -82,29 +82,29 @@ Willow Run Public School Library records, Bentley Historical Library, University
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <subject source="lcsh" encodinganalog="650">Libraries--Michigan--Willow Run.</subject>
-        <subject source="lcsh" encodinganalog="650">Schools--Michigan--Willow Run.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/10731">Libraries--Michigan--Willow Run.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/10732">Schools--Michigan--Willow Run.</subject>
         <corpname source="lcnaf" encodinganalog="610">Washtenaw Area Library Association (Mich.)</corpname>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n00086557.html">Willow Run (Mich.)</geogname>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n00086557.html" ref="/subjects/1851">Willow Run (Mich.)</geogname>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Materials:</head>
-        <subject source="lctgm" encodinganalog="650">Art education.</subject>
-        <subject source="lctgm" encodinganalog="650">Buildings--Michigan--Willow Run.</subject>
-        <subject source="lctgm" encodinganalog="650">Children--1941-1950.</subject>
-        <subject source="lctgm" encodinganalog="650">Children drawing and painting.</subject>
-        <subject source="lctgm" encodinganalog="650">Children playing.</subject>
-        <subject source="lctgm" encodinganalog="650">Classrooms--Michigan--Willow Run.</subject>
-        <subject source="lctgm" encodinganalog="650">Dwellings--Michigan--Willow Run.</subject>
-        <subject source="lctgm" encodinganalog="650">Education.</subject>
-        <subject source="lctgm" encodinganalog="650">Fires--Michigan--Willow Run.</subject>
-        <subject source="lctgm" encodinganalog="650">Interiors.</subject>
-        <subject source="lctgm" encodinganalog="650">Libraries--Michigan--Willow Run.</subject>
-        <subject source="lctgm" encodinganalog="650">Schools--Michigan--Willow Run.</subject>
-        <geogname source="lctgm" encodinganalog="651">Willow Run (Mich.)--Buildings.</geogname>
-        <geogname source="lctgm" encodinganalog="651">Willow Run (Mich.)--Dwellings.</geogname>
-        <geogname source="lctgm" encodinganalog="651">Willow Run (Mich.)--Fires.</geogname>
-        <geogname source="lctgm" encodinganalog="651">Willow Run (Mich.)--Schools.</geogname>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/5596">Art education.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/5597">Buildings--Michigan--Willow Run.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/5598">Children--1941-1950.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/5599">Children drawing and painting.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4461">Children playing.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/5600">Classrooms--Michigan--Willow Run.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4312">Dwellings--Michigan--Willow Run.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4250">Education.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/5601">Fires--Michigan--Willow Run.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3689">Interiors.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/5602">Libraries--Michigan--Willow Run.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/5603">Schools--Michigan--Willow Run.</subject>
+        <geogname source="lctgm" encodinganalog="651" ref="/subjects/736">Willow Run (Mich.)--Buildings.</geogname>
+        <geogname source="lctgm" encodinganalog="651" ref="/subjects/293">Willow Run (Mich.)--Dwellings.</geogname>
+        <geogname source="lctgm" encodinganalog="651" ref="/subjects/737">Willow Run (Mich.)--Fires.</geogname>
+        <geogname source="lctgm" encodinganalog="651" ref="/subjects/738">Willow Run (Mich.)--Schools.</geogname>
         <corpname source="lcnaf" encodinganalog="610">Willow Run Public School Library.</corpname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n00086556">Willow Run Community Schools (Willow Run, Mich.)</corpname>
       </controlaccess>
@@ -114,8 +114,8 @@ Willow Run Public School Library records, Bentley Historical Library, University
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
-        <genreform source="aat" encodinganalog="655">Scrapbooks.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3139">Scrapbooks.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -125,13 +125,13 @@ Willow Run Public School Library records, Bentley Historical Library, University
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [673616448539873687694]">1</container>
             <unittitle>Willow Run Public School Library</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [1531274589990305]">2</container>
             <unittitle>Washtenaw Area Library Association</unittitle>
           </did>
         </c02>
@@ -145,13 +145,13 @@ Willow Run Public School Library records, Bentley Historical Library, University
           <c03 level="file">
             <did>
               <unittitle><genreform normal="Scrapbooks">Scrapbooks</genreform> relating to Willow Run, <unitdate type="inclusive" normal="1942/1944">1942-1944</unitdate></unittitle>
-              <container type="volume" label="Oversize Volume">1</container>
+              <container type="volume" label="Oversize Volume [93362204820512172]">1</container>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <unittitle><genreform normal="Scrapbooks">Scrapbooks</genreform> relating to Willow Run, <unitdate type="inclusive" normal="1942/1944">1942-1944</unitdate></unittitle>
-              <container type="volume" label="Oversize Volume">2</container>
+              <container type="volume" label="Oversize Volume [33730810314531874668419]">2</container>
             </did>
             <odd>
               <p>(continued)</p>
@@ -160,7 +160,7 @@ Willow Run Public School Library records, Bentley Historical Library, University
           <c03 level="file">
             <did>
               <unittitle><genreform normal="Scrapbooks">Scrapbooks</genreform> relating to Willow Run, <unitdate type="inclusive" normal="1942/1944">1942-1944</unitdate></unittitle>
-              <container type="volume" label="Oversize Volume">3</container>
+              <container type="volume" label="Oversize Volume [94410192477689765504]">3</container>
             </did>
             <odd>
               <p>(continued)</p>
@@ -169,31 +169,31 @@ Willow Run Public School Library records, Bentley Historical Library, University
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [2933245992458930]">3</container>
             <unittitle><genreform normal="Scrapbooks">Scrapbooks</genreform> and clippings re. Willow Run, <unitdate type="inclusive" normal="1940/1959" certainty="approximate">1940s-1950s</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [16608580164011396140]">4</container>
             <unittitle>Ypsilanti Township news clippings <unitdate type="inclusive" normal="1961/1964">1961-1964</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [16608580164011396140]">4</container>
             <unittitle>Willow Run Association for Neighborhood Development (WRAND) newsletter</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [16608580164011396140]">4</container>
             <unittitle>Paper by John McConnell, "The Ypsilanti Township Republican Party" <unitdate type="inclusive" normal="1963">1963</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [16608580164011396140]">4</container>
             <unittitle>"The Willow Run Story" by Marion F. Wilson</unittitle>
           </did>
           <odd>
@@ -202,7 +202,7 @@ Willow Run Public School Library records, Bentley Historical Library, University
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [16608580164011396140]">4</container>
             <unittitle>Miscellaneous concerning history of Willow Run</unittitle>
           </did>
         </c02>
@@ -217,7 +217,7 @@ Willow Run Public School Library records, Bentley Historical Library, University
           </scopecontent>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [16608580164011396140]">4</container>
               <unittitle>Buildings-Other than schools and housing</unittitle>
             </did>
           </c03>
@@ -227,20 +227,20 @@ Willow Run Public School Library records, Bentley Historical Library, University
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [16608580164011396140]">4</container>
                 <unittitle>Fires</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [16608580164011396140]">4</container>
                 <unittitle>Miscellaneous activities</unittitle>
               </did>
             </c04>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [16608580164011396140]">4</container>
               <unittitle>Library</unittitle>
             </did>
           </c03>
@@ -250,19 +250,19 @@ Willow Run Public School Library records, Bentley Historical Library, University
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [16608580164011396140]">4</container>
                 <unittitle>Classroom scenes-Art</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [16608580164011396140]">4</container>
                 <unittitle>Classroom scenes-General</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [16608580164011396140]">4</container>
                 <unittitle>Exteriors</unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -271,19 +271,19 @@ Willow Run Public School Library records, Bentley Historical Library, University
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [16608580164011396140]">4</container>
                 <unittitle>Miscellaneous activities-Adults</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [16608580164011396140]">4</container>
                 <unittitle>Miscellaneous activities-Children</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [16608580164011396140]">4</container>
                 <unittitle>Staff and administration</unittitle>
               </did>
             </c04>

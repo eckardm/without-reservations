@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Richard A. Laing papers, 1953-2000</titleproper>
       <author>Finding aid created by <lb/>Alice Goff, July 2007</author>
     </titlepage>
@@ -84,10 +84,10 @@ Richard A. Laing papers, Bentley Historical Library, University of Michigan</p>
       <controlaccess>
         <head>Subjects:</head>
         <persname source="lcnaf" encodinganalog="600">Laing, Richard A.</persname>
-        <subject source="lcsh" encodinganalog="650">Artificial intelligence.</subject>
-        <subject source="lcsh" encodinganalog="650">Computers--Study and teaching.</subject>
-        <subject source="lcsh" encodinganalog="650">Computer science.</subject>
-        <subject source="lcsh" encodinganalog="650">Machine theory.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7073">Artificial intelligence.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7890">Computers--Study and teaching.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7891">Computer science.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/8721">Machine theory.</subject>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan--Faculty.</corpname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/nr92017052">University of Michigan. Logic of Computers Group.</corpname>
       </controlaccess>
@@ -102,14 +102,14 @@ Richard A. Laing papers, Bentley Historical Library, University of Michigan</p>
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [35633992402392850388503454]">1</container>
             <unittitle>
               <unitdate type="inclusive">Undated</unitdate>
             </unittitle>
           </did>
           <c03 level="item">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [35633992402392850388503454]">1</container>
               <unittitle>Automata Theory and Development, II Morphogenesis of Simple Artificial Organisms <unitdate type="inclusive" normal="1972" certainty="approximate">circa 1972</unitdate></unittitle>
             </did>
           </c03>
@@ -122,25 +122,25 @@ Richard A. Laing papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="item">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [35633992402392850388503454]">1</container>
               <unittitle>Book Review: Mortimer Taube, Computers and Common Sense <unitdate type="inclusive" normal="1961">1961</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="item">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [35633992402392850388503454]">1</container>
               <unittitle>Technical Report: "Commutative Machines" with Jesse B. Wright <unitdate type="inclusive" normal="1962">1962</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="item">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [35633992402392850388503454]">1</container>
               <unittitle>Technical Report: "Tape Machine Realizations of Commutative-Regular Events," <unitdate type="inclusive" normal="1965">1965</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="item">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [35633992402392850388503454]">1</container>
               <unittitle>Technical Report: "Realization and Complexity of Commutative Events," <unitdate type="inclusive" normal="1967">1967</unitdate></unittitle>
             </did>
           </c03>
@@ -153,25 +153,25 @@ Richard A. Laing papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="item">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [35633992402392850388503454]">1</container>
               <unittitle>Technical Report: "Formalisms for Living Systems (Part I)," <unitdate type="inclusive" normal="1969">1969</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="item">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [35633992402392850388503454]">1</container>
               <unittitle>Technical Report: "Asexual and Sexual Reproduction Expressed in the Von Neumann Cellular System (Formalisms for Living Systems (Part I) Sections 9.2, 9.3, and 9.4) <unitdate type="inclusive" normal="1970">1970</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="item">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [35633992402392850388503454]">1</container>
               <unittitle>"A Cell Space Embedding of Simulated Living Cells" with E.D. Goodman and R. Weinberg <title render="italic">Bio-Medical Computing</title>, Vol. 2, <unitdate type="inclusive" normal="1971">1971</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="item">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [35633992402392850388503454]">1</container>
               <unittitle>"Formalisms for Biology: A Hierarchy of Developmental Processes," <title render="italic">International Journal of Neuroscience</title>, Vol. 2, <unitdate type="inclusive" normal="1971">1971</unitdate></unittitle>
             </did>
           </c03>
@@ -184,85 +184,85 @@ Richard A. Laing papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="item">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [35633992402392850388503454]">1</container>
               <unittitle>"Computer Simulation of a Living Cell: Metabolic Control System Experiments," with Roger Weinberg and Bernard Zeigler <title render="italic">, Journal of Cybernetics</title>, Vol. 1, No. 2, <unitdate type="inclusive" normal="1971">1971</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="item">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [35633992402392850388503454]">1</container>
               <unittitle>"Artificial Organisms and Autonomous Cell Rules," <title render="italic">Journal of Cybernetics</title>, Vol. 2, No. 1, <unitdate type="inclusive" normal="1972">1972</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="item">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [35633992402392850388503454]">1</container>
               <unittitle>"The Capabilities of Some Species of Artificial Organisms," <title render="italic">Journal of Cybernetics</title>, Vol. 3, No. 2, <unitdate type="inclusive" normal="1973">1973</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="item">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [35633992402392850388503454]">1</container>
               <unittitle>"A Note on Maxwell's Demon and Universal Computation," <title render="italic">Journal of Cybernetics</title>, Vol. 3, No. 2, <unitdate type="inclusive" normal="1973">1973</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="item">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [35633992402392850388503454]">1</container>
               <unittitle>"Maxwell's Demon and Computation," <title render="italic">Philosophy of Science</title>, Vol. 41, No. 2, <unitdate type="inclusive" normal="1974">1974</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="item">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [35633992402392850388503454]">1</container>
               <unittitle>"Artificial Molecular Machines: A Rapprochement Between Kinematic and Tessellation Automata," <title render="italic">Proceedings of the International Symposium on Uniformly Structured Automata and Logic</title>, <unitdate type="inclusive" normal="1975">1975</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="item">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [35633992402392850388503454]">1</container>
               <unittitle>Technical Report: "Computation, Self-Description, Construction, and Reproduction in Some Artificial Molecular Machine Systems," Logic of Computers Group <unitdate type="inclusive" normal="1975">1975</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="item">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [35633992402392850388503454]">1</container>
               <unittitle>"Automaton Introspection," <title render="italic">Journal of Computer and System Sciences</title>, Vol. 13, No. 2, <unitdate type="inclusive" normal="1976">1976</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="item">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [35633992402392850388503454]">1</container>
               <unittitle>"Automaton Models of Reproduction by Self-inspection," <title render="italic">Journal of Theoretical Biology</title>, Vol. 66, <unitdate type="inclusive" normal="1977">1977</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="item">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [35633992402392850388503454]">1</container>
               <unittitle>"Anomalies of Self-Description," <title render="italic">Synthesis</title>, Vol. 38, <unitdate type="inclusive" normal="1978">1978</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="item">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [35633992402392850388503454]">1</container>
               <unittitle>"Machines as Organisms: An Exploration of the Relevance of Recent Results," <title render="italic">BioSystems</title>, Vol. 11, <unitdate type="inclusive" normal="1979">1979</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="item">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [35633992402392850388503454]">1</container>
               <unittitle>Lecture: "Machine Replication" (Recorded and Prepared by Robert A. Freitas Jr.," <unitdate type="inclusive" normal="1980">1980</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="item">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [35633992402392850388503454]">1</container>
               <unittitle>"Self-Replication," <title render="italic">Encyclopedia of Artificial Intelligence</title>, <unitdate type="inclusive" normal="1987">1987</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="item">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [35633992402392850388503454]">1</container>
               <unittitle>"Advanced Automation for Space Missions" <unitdate type="inclusive" normal="1980">1980</unitdate></unittitle>
             </did>
             <odd>
@@ -272,13 +272,13 @@ Richard A. Laing papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [35633992402392850388503454]">1</container>
             <unittitle>Logic of Computers Index</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [35633992402392850388503454]">1</container>
             <unittitle>Novel: <title>Jade Ecstasy</title>, by Celia Gardner Richards (pen name)</unittitle>
           </did>
         </c02>
@@ -292,7 +292,7 @@ Richard A. Laing papers, Bentley Historical Library, University of Michigan</p>
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [35633992402392850388503454]">1</container>
             <unittitle>Resumes</unittitle>
           </did>
         </c02>
@@ -306,7 +306,7 @@ Richard A. Laing papers, Bentley Historical Library, University of Michigan</p>
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [35633992402392850388503454]">1</container>
             <unittitle>A-Z</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">20 folders</extent>
@@ -315,55 +315,55 @@ Richard A. Laing papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [35633992402392850388503454]">1</container>
             <unittitle>Burks Festschrift</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [35633992402392850388503454]">1</container>
             <unittitle>Elliott, Charles</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [35633992402392850388503454]">1</container>
             <unittitle>Email</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [35633992402392850388503454]">1</container>
             <unittitle>Freitas, Robert</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [35633992402392850388503454]">1</container>
             <unittitle>Minsky, Marvin</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [35633992402392850388503454]">1</container>
             <unittitle>Miscellaneous</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [35633992402392850388503454]">1</container>
             <unittitle>Multi-Tape</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [35633992402392850388503454]">1</container>
             <unittitle>University</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [35633992402392850388503454]">1</container>
             <unittitle>Von Tiesenhausen</unittitle>
           </did>
         </c02>
@@ -377,7 +377,7 @@ Richard A. Laing papers, Bentley Historical Library, University of Michigan</p>
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [3270816594819481344]">2</container>
             <unittitle>Miscellaneous Notes</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -386,7 +386,7 @@ Richard A. Laing papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [3270816594819481344]">2</container>
             <unittitle>Replicating Lunar Factory Study Group</unittitle>
           </did>
         </c02>
@@ -404,7 +404,7 @@ Richard A. Laing papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [3270816594819481344]">2</container>
               <unittitle>Binder #1</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -413,13 +413,13 @@ Richard A. Laing papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [3270816594819481344]">2</container>
               <unittitle>Binder #2</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [3270816594819481344]">2</container>
               <unittitle>Binder #3</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -428,7 +428,7 @@ Richard A. Laing papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [3270816594819481344]">2</container>
               <unittitle>Binder #4</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">4 folders</extent>
@@ -437,85 +437,85 @@ Richard A. Laing papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [15576094100803748146743]">3</container>
               <unittitle>Binder #5</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [15576094100803748146743]">3</container>
               <unittitle>Binder #6</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [15576094100803748146743]">3</container>
               <unittitle>Notebook <unitdate type="inclusive" normal="1958-01-24">1/24/1958</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [15576094100803748146743]">3</container>
               <unittitle>Notebook <unitdate type="inclusive" normal="1958-03-05">3/5/1958</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [15576094100803748146743]">3</container>
               <unittitle>Notebook, A-1</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [15576094100803748146743]">3</container>
               <unittitle>Notebook, B-1</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [15576094100803748146743]">3</container>
               <unittitle>Notebook, B-2</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [15576094100803748146743]">3</container>
               <unittitle>Notebook, B-3</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [15576094100803748146743]">3</container>
               <unittitle>Notebook, B-4</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [15576094100803748146743]">3</container>
               <unittitle>Notebook, B-5</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [15576094100803748146743]">3</container>
               <unittitle>Notebook, B-6</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [15576094100803748146743]">3</container>
               <unittitle>Notebook 8</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [15576094100803748146743]">3</container>
               <unittitle>Notebook: "Godel's Incompleteness Theorem"</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [15576094100803748146743]">3</container>
               <unittitle>Some Reflections on Production Rules for Biological Systems</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -529,31 +529,31 @@ Richard A. Laing papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [15576094100803748146743]">3</container>
               <unittitle>Intelligence Output and the Intelligence Functions at Battalion Staff Level <unitdate type="inclusive" normal="1956">1956</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [15576094100803748146743]">3</container>
               <unittitle>Notes and Comments <unitdate type="inclusive" normal="1956">1956</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [15576094100803748146743]">3</container>
               <unittitle>Operation All-American <unitdate type="inclusive" normal="1953">1953</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [15576094100803748146743]">3</container>
               <unittitle>Operation Louise <unitdate type="inclusive" normal="1956">1956</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [15576094100803748146743]">3</container>
               <unittitle>Procedures in the Preparation and Conduct of Command Post Exercises</unittitle>
             </did>
           </c03>
@@ -568,7 +568,7 @@ Richard A. Laing papers, Bentley Historical Library, University of Michigan</p>
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [15576094100803748146743]">3</container>
             <unittitle>CCS 200</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -577,13 +577,13 @@ Richard A. Laing papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [15576094100803748146743]">3</container>
             <unittitle>CCS 320</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [15576094100803748146743]">3</container>
             <unittitle>Los Alamos Lecture</unittitle>
           </did>
         </c02>

@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Andrew Cunningham McLaughlin papers, 1881-1947</titleproper>
       <author>Finding aid created by <lb/>Michigan Historical Collections staff</author>
     </titlepage>
@@ -83,10 +83,10 @@ Andrew Cunningham McLaughlin papers, Bentley Historical Library, University of M
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <geogname source="lcsh" encodinganalog="651">Germany--Description and travel.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/2320">Germany--Description and travel.</geogname>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n80090331">McLaughlin, Andrew Cunningham, 1861-1947.</persname>
-        <subject source="lcsh" encodinganalog="650">Voyages and travels.</subject>
-        <subject source="lcsh" encodinganalog="650">Travelers.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6009">Voyages and travels.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6010">Travelers.</subject>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan. Dept. of History.</corpname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan. Dept. of Philosophy.</corpname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan--Faculty.</corpname>
@@ -106,8 +106,8 @@ Andrew Cunningham McLaughlin papers, Bentley Historical Library, University of M
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
-        <genreform source="aat" encodinganalog="655">Diaries.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3150">Diaries.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -121,7 +121,7 @@ Andrew Cunningham McLaughlin papers, Bentley Historical Library, University of M
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [777973523342739933907684]">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1889">1889</unitdate>
               </unittitle>
@@ -129,7 +129,7 @@ Andrew Cunningham McLaughlin papers, Bentley Historical Library, University of M
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [777973523342739933907684]">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1890/1891">1890-1891</unitdate>
               </unittitle>
@@ -137,7 +137,7 @@ Andrew Cunningham McLaughlin papers, Bentley Historical Library, University of M
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [777973523342739933907684]">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1897/1904">1897-1904</unitdate>
               </unittitle>
@@ -145,7 +145,7 @@ Andrew Cunningham McLaughlin papers, Bentley Historical Library, University of M
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [777973523342739933907684]">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1914">1914</unitdate>
                 <unitdate type="inclusive" normal="1919">1919</unitdate>
@@ -154,7 +154,7 @@ Andrew Cunningham McLaughlin papers, Bentley Historical Library, University of M
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [777973523342739933907684]">1</container>
               <unittitle>
                 <unitdate type="inclusive">Undated</unitdate>
               </unittitle>
@@ -163,7 +163,7 @@ Andrew Cunningham McLaughlin papers, Bentley Historical Library, University of M
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [777973523342739933907684]">1</container>
             <unittitle>Student essays <unitdate type="inclusive" normal="1881/1882">1881-1882</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">4 folders</extent>
@@ -172,19 +172,19 @@ Andrew Cunningham McLaughlin papers, Bentley Historical Library, University of M
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [777973523342739933907684]">1</container>
             <unittitle>Thesis for Law School of the University of Michigan <unitdate type="inclusive" normal="1885">1885</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [777973523342739933907684]">1</container>
             <unittitle><genreform normal="Diaries">Diary</genreform> concerning visit to Germany, <unitdate type="inclusive" normal="1893">1893</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [777973523342739933907684]">1</container>
             <unittitle>Lecture notes on Colonial and American history <unitdate type="inclusive" normal="1888/1947">1888-1947</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">8 volumes</extent>
@@ -193,19 +193,19 @@ Andrew Cunningham McLaughlin papers, Bentley Historical Library, University of M
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [777973523342739933907684]">1</container>
             <unittitle>Papers collected by Mrs. Rockwell R. Stephens re. life and career of her father, ACM (including autobiography)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [777973523342739933907684]">1</container>
             <unittitle>Scrapbook and letters concerning visit to England for purpose of interpreting America to British audiences <unitdate type="inclusive" normal="1918">1918</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [777973523342739933907684]">1</container>
             <unittitle><genreform normal="Photographs">Photographs</genreform>: portraits</unittitle>
           </did>
         </c02>

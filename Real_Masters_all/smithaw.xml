@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Arthur Whitmore Smith Papers, 1893-1954</titleproper>
       <author>Finding aid created by <lb/>Jennifer King, 1993</author>
     </titlepage>
@@ -82,8 +82,8 @@ The papers are arranged in four series: Biographical Information, Genealogical A
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <subject source="lcsh" encodinganalog="650">Genealogy.</subject>
-        <subject source="lcsh" encodinganalog="650">Physics.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/10122">Genealogy.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6878">Physics.</subject>
         <famname source="lcnaf" encodinganalog="600">Smith family.</famname>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n85800554">Smith, Arthur Whitmore, 1874-1954.</persname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n85247186">Sons of the American Revolution. Michigan Society.</corpname>
@@ -92,14 +92,14 @@ The papers are arranged in four series: Biographical Information, Genealogical A
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Materials:</head>
-        <geogname source="lctgm" encodinganalog="651">Ann Arbor (Mich.)--Dwellings.</geogname>
-        <subject source="lctgm" encodinganalog="650">Dwellings--Michigan--Ann Arbor.</subject>
+        <geogname source="lctgm" encodinganalog="651" ref="/subjects/207">Ann Arbor (Mich.)--Dwellings.</geogname>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3572">Dwellings--Michigan--Ann Arbor.</subject>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n85800554">Smith, Arthur Whitmore, 1874-1954.</persname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan--Buildings.</corpname>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -112,7 +112,7 @@ The papers are arranged in four series: Biographical Information, Genealogical A
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8031051457142853]">1</container>
             <unittitle>Miscellaneous</unittitle>
           </did>
         </c02>
@@ -126,13 +126,13 @@ The papers are arranged in four series: Biographical Information, Genealogical A
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8031051457142853]">1</container>
             <unittitle>Ann Arbor Genealogical and Historical Society <unitdate type="inclusive" normal="1940/1949" certainty="approximate">1940s undated</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8031051457142853]">1</container>
             <unittitle>Correspondence <unitdate type="inclusive" normal="1930/1954">1930-1954</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -141,13 +141,13 @@ The papers are arranged in four series: Biographical Information, Genealogical A
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8031051457142853]">1</container>
             <unittitle>Michigan Society of the Sons of the American Revolution <unitdate type="inclusive" normal="1934/1950">1934-1950</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8031051457142853]">1</container>
             <unittitle>Smith family (and related) genealogical research</unittitle>
             <physdesc altrender="part">
               <extent altrender="materialtype spaceoccupied">1 volumes</extent>
@@ -159,7 +159,7 @@ The papers are arranged in four series: Biographical Information, Genealogical A
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8031051457142853]">1</container>
             <unittitle><title render="italic">Washtenaw Impressions</title> article, "Looking for Ancestors" <unitdate type="inclusive" normal="1946">1946</unitdate></unittitle>
           </did>
         </c02>
@@ -173,13 +173,13 @@ The papers are arranged in four series: Biographical Information, Genealogical A
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8031051457142853]">1</container>
             <unittitle>Diary of Calorimeter experiment <unitdate type="inclusive" normal="1896">1896</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8031051457142853]">1</container>
             <unittitle>
               <title render="italic">Calorimetric Research of Arthur W. Smith</title>
               <unitdate type="inclusive" normal="1894/1900">1894-1900</unitdate>
@@ -191,7 +191,7 @@ The papers are arranged in four series: Biographical Information, Genealogical A
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8031051457142853]">1</container>
             <unittitle>
               <title render="italic">Researches in Physics</title>
               <unitdate type="inclusive" normal="1893/1948">1893-1948</unitdate>
@@ -203,7 +203,7 @@ The papers are arranged in four series: Biographical Information, Genealogical A
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8031051457142853]">1</container>
             <unittitle>
               <title render="italic">Electrical Measurement in Theory and Application</title>
               <unitdate type="inclusive" normal="1948">1948</unitdate>
@@ -221,7 +221,7 @@ The papers are arranged in four series: Biographical Information, Genealogical A
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8031051457142853]">1</container>
             <unittitle>Manuscripts of writings on magnetism <unitdate type="inclusive">undated</unitdate></unittitle>
           </did>
         </c02>
@@ -237,7 +237,7 @@ The papers are arranged in four series: Biographical Information, Genealogical A
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8031051457142853]">1</container>
             <unittitle>Portraits <unitdate type="inclusive" normal="1920/1939" certainty="approximate">1920s-1930s</unitdate> campus views, <unitdate type="inclusive" normal="1946" certainty="approximate">circa 1946</unitdate> showing Chemistry Building and view of Rackham Building taken from South University; and snapshot of Monroe Street residence, <unitdate type="inclusive" normal="1949">1949</unitdate></unittitle>
           </did>
         </c02>

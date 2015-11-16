@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Albert James Phillips papers, 1925-1962</titleproper>
       <author>Finding aid created by <lb/>Michigan Historical Collections staff</author>
     </titlepage>
@@ -80,12 +80,12 @@ Albert James Phillips papers, Bentley Historical Library, University of Michigan
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <subject source="lcsh" encodinganalog="650">Education--Michigan.</subject>
-        <geogname source="lcsh" encodinganalog="651">Lansing (Mich.)</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5727">Education--Michigan.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1140">Lansing (Mich.)</geogname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n50069813">Michigan Education Association.</corpname>
         <corpname source="lcnaf" encodinganalog="610">Michigan. Tax Study Commission.</corpname>
-        <subject source="lcsh" encodinganalog="650">Taxation--Michigan.</subject>
-        <subject source="lcsh" encodinganalog="650">Teachers--Michigan--Lansing.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6189">Taxation--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/9732">Teachers--Michigan--Lansing.</subject>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -98,7 +98,7 @@ Albert James Phillips papers, Bentley Historical Library, University of Michigan
         </odd>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [0561837448661993240]">1</container>
             <unittitle>
               <unitdate type="inclusive">Undated</unitdate>
               <unitdate type="inclusive" normal="1925/1960">1925-1960</unitdate>
@@ -110,7 +110,7 @@ Albert James Phillips papers, Bentley Historical Library, University of Michigan
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [6714185443398211216990837]">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1960/1962">1960-1962</unitdate>
             </unittitle>
@@ -126,7 +126,7 @@ Albert James Phillips papers, Bentley Historical Library, University of Michigan
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [6714185443398211216990837]">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1935/1962">1935-1962</unitdate>
             </unittitle>

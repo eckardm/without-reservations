@@ -31,7 +31,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Charles Stuart Kennedy papers, ca. 1900-1966</titleproper>
       <author>Finding aid created by <lb/>Michigan Historical Collections staff, <lb/>Hannah Gulick November 2013</author>
     </titlepage>
@@ -90,31 +90,31 @@ Charles Stuart Kennedy papers, Bentley Historical Library, University of Michiga
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <subject source="lcsh" encodinganalog="650">Adult education.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6274">Adult education.</subject>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n79063969">American College of Surgeons.</corpname>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n79045539.html">Detroit (Mich.)</geogname>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n79045539.html" ref="/subjects/933">Detroit (Mich.)</geogname>
         <persname source="lcnaf" encodinganalog="600">Kennedy, Charles Stuart, 1887-1966.</persname>
-        <subject source="lcsh" encodinganalog="650">Physicians--Michigan--Detroit.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/8632">Physicians--Michigan--Detroit.</subject>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/nr89016998">University of Michigan. Board of Regents.</corpname>
         <corpname source="lcnaf" encodinganalog="610">Workers Education Service (University of Michigan)</corpname>
-        <subject source="lcsh" encodinganalog="650">World War, 1939-1945.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5681">World War, 1939-1945.</subject>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Materials:</head>
-        <subject source="lctgm" encodinganalog="650">Airplanes.</subject>
-        <subject source="lctgm" encodinganalog="650">Handicapped persons.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4173">Airplanes.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3640">Handicapped persons.</subject>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n50033375">Hatcher, Harlan, 1898-1998.</persname>
         <persname source="lcnaf" encodinganalog="600">Kennedy, Charles Stuart, 1887-1966.</persname>
-        <subject source="lctgm" encodinganalog="650">Nurses--Michigan.</subject>
-        <subject source="lctgm" encodinganalog="650">Physicians--Michigan--Detroit.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4615">Nurses--Michigan.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4616">Physicians--Michigan--Detroit.</subject>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan--Alumni and alumnae.</corpname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/nr89016998">University of Michigan. Board of Regents.</corpname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n80125867">University of Puerto Rico.</corpname>
-        <subject source="lcsh" encodinganalog="650">World War, 1939-1945.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5681">World War, 1939-1945.</subject>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -131,7 +131,7 @@ Charles Stuart Kennedy papers, Bentley Historical Library, University of Michiga
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [4720927184410880760543014]">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1946/1947">1946-1947</unitdate>
               </unittitle>
@@ -139,7 +139,7 @@ Charles Stuart Kennedy papers, Bentley Historical Library, University of Michiga
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [784112782243369721393]">2</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1948-01/1950-03">January 1948-March 1950</unitdate>
               </unittitle>
@@ -147,7 +147,7 @@ Charles Stuart Kennedy papers, Bentley Historical Library, University of Michiga
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [9123810654993700331]">3</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1950-04/1952-02">April 1950-February 1952</unitdate>
               </unittitle>
@@ -155,7 +155,7 @@ Charles Stuart Kennedy papers, Bentley Historical Library, University of Michiga
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [9962469490915536977091]">4</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1952-03/1953-09">March 1952-September 1953</unitdate>
               </unittitle>
@@ -163,7 +163,7 @@ Charles Stuart Kennedy papers, Bentley Historical Library, University of Michiga
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [6859484440808949329875]">5</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1953-10/1955-03">October 1953-March 1955</unitdate>
               </unittitle>
@@ -171,7 +171,7 @@ Charles Stuart Kennedy papers, Bentley Historical Library, University of Michiga
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [041694384058148136925]">6</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1955-04/1956-04">April 1955-April 1956</unitdate>
               </unittitle>
@@ -179,7 +179,7 @@ Charles Stuart Kennedy papers, Bentley Historical Library, University of Michiga
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">7</container>
+              <container type="box" label="Box [087675244866965588495]">7</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1956-05/1957-03">May 1956-March 1957</unitdate>
               </unittitle>
@@ -187,7 +187,7 @@ Charles Stuart Kennedy papers, Bentley Historical Library, University of Michiga
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">8</container>
+              <container type="box" label="Box [36623754314939168358]">8</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1957-04/1958-04">April 1957-April 1958</unitdate>
               </unittitle>
@@ -195,7 +195,7 @@ Charles Stuart Kennedy papers, Bentley Historical Library, University of Michiga
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">9</container>
+              <container type="box" label="Box [056987714609555745108]">9</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1958-05/1959-09">May 1958-September 1959</unitdate>
               </unittitle>
@@ -203,7 +203,7 @@ Charles Stuart Kennedy papers, Bentley Historical Library, University of Michiga
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">10</container>
+              <container type="box" label="Box [945201428915281239064]">10</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1959-09/1960-12">September 1959-December 1960</unitdate>
               </unittitle>
@@ -211,7 +211,7 @@ Charles Stuart Kennedy papers, Bentley Historical Library, University of Michiga
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">11</container>
+              <container type="box" label="Box [8419442453462887373218541]">11</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1961-01/1961-12">January-December 1961</unitdate>
               </unittitle>
@@ -232,7 +232,7 @@ Charles Stuart Kennedy papers, Bentley Historical Library, University of Michiga
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">11</container>
+              <container type="box" label="Box [8419442453462887373218541]">11</container>
               <unittitle>Workers Education Service</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">5 folders</extent>
@@ -241,7 +241,7 @@ Charles Stuart Kennedy papers, Bentley Historical Library, University of Michiga
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">12</container>
+              <container type="box" label="Box [1856464334275316184715192]">12</container>
               <unittitle>Workers Education Service</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">5 folders</extent>
@@ -250,13 +250,13 @@ Charles Stuart Kennedy papers, Bentley Historical Library, University of Michiga
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">12</container>
+              <container type="box" label="Box [1856464334275316184715192]">12</container>
               <unittitle>University Budget <unitdate type="inclusive" normal="1946/1947">1946-1947</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">12</container>
+              <container type="box" label="Box [1856464334275316184715192]">12</container>
               <unittitle>University Budget <unitdate type="inclusive" normal="1947/1948">1947-1948</unitdate></unittitle>
             </did>
           </c03>
@@ -271,7 +271,7 @@ Charles Stuart Kennedy papers, Bentley Historical Library, University of Michiga
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">12</container>
+            <container type="box" label="Box [1856464334275316184715192]">12</container>
             <unittitle>Biographical sketch</unittitle>
           </did>
         </c02>
@@ -281,7 +281,7 @@ Charles Stuart Kennedy papers, Bentley Historical Library, University of Michiga
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">12</container>
+              <container type="box" label="Box [1856464334275316184715192]">12</container>
               <unittitle>
                 <unitdate type="inclusive">Undated</unitdate>
               </unittitle>
@@ -289,7 +289,7 @@ Charles Stuart Kennedy papers, Bentley Historical Library, University of Michiga
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">12</container>
+              <container type="box" label="Box [1856464334275316184715192]">12</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1933">1933</unitdate>
               </unittitle>
@@ -297,7 +297,7 @@ Charles Stuart Kennedy papers, Bentley Historical Library, University of Michiga
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">12</container>
+              <container type="box" label="Box [1856464334275316184715192]">12</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1940/1946">1940-1946</unitdate>
               </unittitle>
@@ -305,7 +305,7 @@ Charles Stuart Kennedy papers, Bentley Historical Library, University of Michiga
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">12</container>
+              <container type="box" label="Box [1856464334275316184715192]">12</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1946/1950">1946-1950</unitdate>
               </unittitle>
@@ -313,7 +313,7 @@ Charles Stuart Kennedy papers, Bentley Historical Library, University of Michiga
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">12</container>
+              <container type="box" label="Box [1856464334275316184715192]">12</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1951/1952">1951-1952</unitdate>
               </unittitle>
@@ -321,7 +321,7 @@ Charles Stuart Kennedy papers, Bentley Historical Library, University of Michiga
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">12</container>
+              <container type="box" label="Box [1856464334275316184715192]">12</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1953">1953</unitdate>
               </unittitle>
@@ -329,7 +329,7 @@ Charles Stuart Kennedy papers, Bentley Historical Library, University of Michiga
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">12</container>
+              <container type="box" label="Box [1856464334275316184715192]">12</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1955/1956">1955-1956</unitdate>
               </unittitle>
@@ -337,7 +337,7 @@ Charles Stuart Kennedy papers, Bentley Historical Library, University of Michiga
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">12</container>
+              <container type="box" label="Box [1856464334275316184715192]">12</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1957/1964">1957-1964</unitdate>
               </unittitle>
@@ -345,25 +345,25 @@ Charles Stuart Kennedy papers, Bentley Historical Library, University of Michiga
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">12</container>
+              <container type="box" label="Box [1856464334275316184715192]">12</container>
               <unittitle>Concerning the American College of Surgeons <unitdate type="inclusive" normal="1943">1943</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">12</container>
+              <container type="box" label="Box [1856464334275316184715192]">12</container>
               <unittitle>Letters of condolence received upon the death of his mother <unitdate type="inclusive" normal="1937">1937</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">12</container>
+              <container type="box" label="Box [1856464334275316184715192]">12</container>
               <unittitle>Letters of condolence received by family members</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">12</container>
+              <container type="box" label="Box [1856464334275316184715192]">12</container>
               <unittitle>Soldiers in World War II</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">6 folders</extent>
@@ -372,26 +372,26 @@ Charles Stuart Kennedy papers, Bentley Historical Library, University of Michiga
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">12</container>
+              <container type="box" label="Box [1856464334275316184715192]">12</container>
               <unittitle>Ty Cobb <unitdate type="inclusive" normal="1948/1957">1948-1957</unitdate></unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">12</container>
+            <container type="box" label="Box [1856464334275316184715192]">12</container>
             <unittitle>Documents Concerning Harry Houdini <unitdate type="inclusive" normal="1927">1927</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">12</container>
+            <container type="box" label="Box [1856464334275316184715192]">12</container>
             <unittitle>Documents Concerning Time as Regent <unitdate type="inclusive" normal="1948/1962">1948-1962</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">12</container>
+            <container type="box" label="Box [1856464334275316184715192]">12</container>
             <unittitle>Miscellaneous papers</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -400,19 +400,19 @@ Charles Stuart Kennedy papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">12</container>
+            <container type="box" label="Box [1856464334275316184715192]">12</container>
             <unittitle>Newspaper Clippings <unitdate type="inclusive" normal="1947/1966">1947-1966</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">12</container>
+            <container type="box" label="Box [1856464334275316184715192]">12</container>
             <unittitle>Newspaper Clippings -- Ty Cobb</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">12</container>
+            <container type="box" label="Box [1856464334275316184715192]">12</container>
             <unittitle>Photographs</unittitle>
             <unitdate type="inclusive" normal="1910/1956">1910-1956</unitdate>
             <unitdate type="inclusive">undated</unitdate>
@@ -420,13 +420,13 @@ Charles Stuart Kennedy papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">12</container>
+            <container type="box" label="Box [1856464334275316184715192]">12</container>
             <unittitle>Publications</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">13</container>
+            <container type="box" label="Box [313168193457194866668646]">13</container>
             <unittitle>Student notebooks, University of Michigan</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">6 volumes</extent>
@@ -443,19 +443,19 @@ Charles Stuart Kennedy papers, Bentley Historical Library, University of Michiga
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="folder" label="Oversize Folder">UAl</container>
+            <container type="folder" label="Oversize Folder [8443484335820060712]">UAl</container>
             <unittitle>"Old Rock Inscription"</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="folder" label="Oversize Folder">UAl</container>
+            <container type="folder" label="Oversize Folder [8443484335820060712]">UAl</container>
             <unittitle>"Welcome to Free China," <unitdate type="inclusive" normal="1956">1956</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="folder" label="Oversize Folder">UAl</container>
+            <container type="folder" label="Oversize Folder [8443484335820060712]">UAl</container>
             <unittitle>Photographs of University of Michigan Delegation and Hosts <unitdate type="inclusive" normal="1956">1956</unitdate></unittitle>
           </did>
         </c02>

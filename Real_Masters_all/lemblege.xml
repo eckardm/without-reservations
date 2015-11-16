@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>George Francis Lemble papers, 1958-1968</titleproper>
       <author>Finding aid created by <lb/>Thomas E. Powers, 1968</author>
     </titlepage>
@@ -76,26 +76,26 @@ George Francis Lemble papers, Bentley Historical Library, University of Michigan
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n79022219.html">Ann Arbor (Mich.)</geogname>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n79022219.html" ref="/subjects/860">Ann Arbor (Mich.)</geogname>
         <corpname source="lcnaf" encodinganalog="610">Ann Arbor (Mich.). Housing Commission.</corpname>
-        <subject source="lcsh" encodinganalog="650">Conservatism.</subject>
-        <subject source="lcsh" encodinganalog="650">Education--Michigan--Ann Arbor.</subject>
-        <subject source="lcsh" encodinganalog="650">Elections--Michigan--1964.</subject>
-        <subject source="lcsh" encodinganalog="650">Elections--Michigan--1966.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7255">Conservatism.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5679">Education--Michigan--Ann Arbor.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6616">Elections--Michigan--1964.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6525">Elections--Michigan--1966.</subject>
         <persname source="lcnaf" encodinganalog="600">Lemble, George Francis, 1924-1974.</persname>
-        <geogname source="lcsh" encodinganalog="651">Michigan--Politics and government--1951-</geogname>
-        <geogname source="local" encodinganalog="691">Michigan--Politics and government--1961-1970.</geogname>
-        <subject source="lcsh" encodinganalog="650">Police--Michigan--Ann Arbor.</subject>
-        <subject source="lcsh" encodinganalog="650">Presidents--United States--Election--1964.</subject>
-        <subject source="lcsh" encodinganalog="650">Public welfare--Michigan--Willow Run.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/910">Michigan--Politics and government--1951-</geogname>
+        <geogname source="local" encodinganalog="691" ref="/subjects/810">Michigan--Politics and government--1961-1970.</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/8112">Police--Michigan--Ann Arbor.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6658">Presidents--United States--Election--1964.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/8760">Public welfare--Michigan--Willow Run.</subject>
         <corpname source="lcnaf" encodinganalog="610">Republican Party (Mich.)</corpname>
-        <geogname source="lcsh" encodinganalog="651">United States--Politics and government--1961-1963.</geogname>
-        <geogname source="lcsh" encodinganalog="651">United States--Politics and government--1963-1969.</geogname>
-        <geogname source="lcsh" encodinganalog="651">United States--Politics and government--1953-1961.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1700">United States--Politics and government--1961-1963.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/942">United States--Politics and government--1963-1969.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1272">United States--Politics and government--1953-1961.</geogname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan--Students--Social life and customs--1961-1970.</corpname>
-        <subject source="lcsh" encodinganalog="650">Vietnam War, 1961-1975.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5820">Vietnam War, 1961-1975.</subject>
         <corpname source="lcnaf" encodinganalog="610">Washtenaw County Conservatives (Mich.)</corpname>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n00086557.html">Willow Run (Mich.)</geogname>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n00086557.html" ref="/subjects/1851">Willow Run (Mich.)</geogname>
       </controlaccess>
       <controlaccess>
         <head>Contributors:</head>
@@ -130,7 +130,7 @@ George Francis Lemble papers, Bentley Historical Library, University of Michigan
         </odd>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [233328440585245857060]">1</container>
             <unittitle>
               <unitdate type="inclusive">Undated</unitdate>
               <unitdate type="inclusive" normal="1958/1966">1958-1966</unitdate>
@@ -142,7 +142,7 @@ George Francis Lemble papers, Bentley Historical Library, University of Michigan
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [5006149807440070757180]">2</container>
             <unitdate type="inclusive">Undated</unitdate>
             <unitdate type="inclusive" normal="1966/1968">1966-1968</unitdate>
             <physdesc altrender="whole">
@@ -157,19 +157,19 @@ George Francis Lemble papers, Bentley Historical Library, University of Michigan
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [5006149807440070757180]">2</container>
             <unittitle>Debate over establishment of Ann Arbor Housing Commission <unitdate type="inclusive" normal="1965">1965</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [5006149807440070757180]">2</container>
             <unittitle>Petition requesting referendum on the creation of the Ann Arbor Housing Commission <unitdate type="inclusive" normal="1965">1965</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [5006149807440070757180]">2</container>
             <unittitle>1966 campaign for city council, 1965-1966</unittitle>
             <unitdate type="inclusive" normal="1966">1966</unitdate>
             <unitdate type="inclusive" normal="1965/1966">1965-1966</unitdate>
@@ -177,19 +177,19 @@ George Francis Lemble papers, Bentley Historical Library, University of Michigan
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [5006149807440070757180]">2</container>
             <unittitle>Willow Run Association for Neighborhood Development</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [5006149807440070757180]">2</container>
             <unittitle>Business papers <unitdate type="inclusive" normal="1961/1962">1961-1962</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [5006149807440070757180]">2</container>
             <unittitle>Mailing and other lists</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -198,7 +198,7 @@ George Francis Lemble papers, Bentley Historical Library, University of Michigan
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [5006149807440070757180]">2</container>
             <unittitle>Clippings, flyers, and other election miscellanea</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">14 folders</extent>

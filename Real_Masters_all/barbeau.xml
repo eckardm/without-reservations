@@ -26,7 +26,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Peter Barbeau Papers, 1789-1909</titleproper>
       <author>Finding aid created by <lb/>Michigan Historical Collections staff</author>
     </titlepage>
@@ -83,33 +83,33 @@ Peter Barbeau Papers, Bentley Historical Library, University of Michigan</p>
         <head>Subjects:</head>
         <corpname source="lcnaf" encodinganalog="610">American Fur Company.</corpname>
         <persname source="lcnaf" encodinganalog="600">Barbeau, Peter.</persname>
-        <subject source="lcsh" encodinganalog="650">Bridges.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6079">Bridges.</subject>
         <persname source="lcnaf" encodinganalog="600">Burt, Hiram Austin, b. 1839.</persname>
-        <subject source="lcsh" encodinganalog="650">Business records.</subject>
-        <geogname source="lcsh" encodinganalog="651">Chippewa County (Mich.)</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5784">Business records.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/996">Chippewa County (Mich.)</geogname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n82247865">Cleveland-Cliffs Iron Company.</corpname>
-        <subject source="lcsh" encodinganalog="650">Fishing--Michigan--Upper Peninsula.</subject>
-        <subject source="lcsh" encodinganalog="650">Fur trade--Michigan--Upper Peninsula.</subject>
-        <subject source="lcsh" encodinganalog="650">Indians of North America--Michigan.</subject>
-        <subject source="lcsh" encodinganalog="650">Lighthouses--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6080">Fishing--Michigan--Upper Peninsula.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6081">Fur trade--Michigan--Upper Peninsula.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6072">Indians of North America--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6082">Lighthouses--Michigan.</subject>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n79006779">Lincoln, Abraham, 1809-1865.</persname>
-        <subject source="lcsh" encodinganalog="650">Logging--Michigan--Upper Peninsula.</subject>
-        <subject source="lcsh" encodinganalog="650">Lumbering--Michigan--Upper Peninsula.</subject>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n81139923.html">Mackinac Island (Mich.)</geogname>
-        <geogname source="lcsh" encodinganalog="651">Marquette (Mich.)</geogname>
-        <geogname source="lcsh" encodinganalog="651">Upper Peninsula (Mich.)</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6083">Logging--Michigan--Upper Peninsula.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6084">Lumbering--Michigan--Upper Peninsula.</subject>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n81139923.html" ref="/subjects/949">Mackinac Island (Mich.)</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/997">Marquette (Mich.)</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/938">Upper Peninsula (Mich.)</geogname>
         <corpname source="lcnaf" encodinganalog="610">Michilimackinac Company.</corpname>
-        <subject source="lcsh" encodinganalog="650">Mines and mineral resources--Michigan--Upper Peninsula.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6085">Mines and mineral resources--Michigan--Upper Peninsula.</subject>
         <persname source="lcnaf" encodinganalog="600">Moore, William P., 1787-1850.</persname>
         <persname source="lcnaf" encodinganalog="600">Pendill, James, 1812-1885.</persname>
         <corpname source="lcnaf" encodinganalog="610">Republican Party (Mich.)</corpname>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n81003784.html">Sault Sainte Marie (Mich.)</geogname>
-        <geogname source="lcsh" encodinganalog="651">Sault Sainte Marie Canal (Mich.)</geogname>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n81003784.html" ref="/subjects/936">Sault Sainte Marie (Mich.)</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/998">Sault Sainte Marie Canal (Mich.)</geogname>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n80104702">Scranton, William Warren, 1917-2013</persname>
-        <subject source="lcsh" encodinganalog="650">Shipping--Great Lakes (North America)</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6086">Shipping--Great Lakes (North America)</subject>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n82054797">Trowbridge, L. S. (Luther Stephen), 1836-1912.</persname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n79133793">United States. Bureau of Customs.</corpname>
-        <geogname source="lcsh" encodinganalog="651">United States--History--Civil War, 1861-1865.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/909">United States--History--Civil War, 1861-1865.</geogname>
         <corpname source="lcnaf" encodinganalog="610">Whig Party (U.S.)</corpname>
         <persname source="lcnaf" encodinganalog="600">Whiting, Justin Rice, 1847-1903.</persname>
       </controlaccess>
@@ -134,7 +134,7 @@ Peter Barbeau Papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="reel" label="Roll">1</container>
+            <container type="reel" label="Roll [9479004089353660417]">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1789-10-01/1853">October 1, 1789-1853</unitdate>
             </unittitle>
@@ -145,7 +145,7 @@ Peter Barbeau Papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="reel" label="Roll">2</container>
+            <container type="reel" label="Roll [69345251817448836827645]">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1853/1864">1853-1864</unitdate>
             </unittitle>
@@ -156,7 +156,7 @@ Peter Barbeau Papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="reel" label="Roll">3</container>
+            <container type="reel" label="Roll [79863624506631764843]">3</container>
             <unittitle><unitdate type="inclusive" normal="1864/1909">1864-1909</unitdate> and miscellaneous</unittitle>
           </did>
           <odd>
@@ -170,7 +170,7 @@ Peter Barbeau Papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="reel" label="Roll">4</container>
+            <container type="reel" label="Roll [1866542447015271306]">4</container>
             <unittitle>
               <unitdate type="inclusive" normal="1803/1831">1803-1831</unitdate>
             </unittitle>
@@ -181,7 +181,7 @@ Peter Barbeau Papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="reel" label="Roll">5</container>
+            <container type="reel" label="Roll [25751617264148932663805556]">5</container>
             <unittitle>
               <unitdate type="inclusive" normal="1832/1838">1832-1838</unitdate>
             </unittitle>
@@ -192,7 +192,7 @@ Peter Barbeau Papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="reel" label="Roll">6</container>
+            <container type="reel" label="Roll [2464386548584627074213]">6</container>
             <unittitle>
               <unitdate type="inclusive" normal="1838/1852">1838-1852</unitdate>
             </unittitle>
@@ -203,7 +203,7 @@ Peter Barbeau Papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="reel" label="Roll">7</container>
+            <container type="reel" label="Roll [720214908242929363421]">7</container>
             <unittitle>
               <unitdate type="inclusive" normal="1852/1856">1852-1856</unitdate>
             </unittitle>
@@ -214,7 +214,7 @@ Peter Barbeau Papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="reel" label="Roll">8</container>
+            <container type="reel" label="Roll [39005240928388763817]">8</container>
             <unittitle>
               <unitdate type="inclusive" normal="1856/1883">1856-1883</unitdate>
             </unittitle>

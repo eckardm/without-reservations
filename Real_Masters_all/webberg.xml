@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Gordon Webber papers, 1936-1986</titleproper>
       <author>Finding aid created by <lb/>Megan Cooney, 2008</author>
     </titlepage>
@@ -88,17 +88,17 @@ Gordon Webber papers, Bentley Historical Library, University of Michigan</p>
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <subject source="lcsh" encodinganalog="650">Authors, American.</subject>
-        <subject source="lcsh" encodinganalog="650">Radio broadcasting--United States.</subject>
-        <subject source="lcsh" encodinganalog="650">Television broadcasting--United States.</subject>
-        <subject source="lcsh" encodinganalog="650">Vietnam War, 1961-1975.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5872">Authors, American.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7227">Radio broadcasting--United States.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7229">Television broadcasting--United States.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5820">Vietnam War, 1961-1975.</subject>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Materials:</head>
-        <genreform source="gmgpc" encodinganalog="655">Advertisements.</genreform>
-        <subject source="lctgm" encodinganalog="650">Broadcasting.</subject>
+        <genreform source="gmgpc" encodinganalog="655" ref="/subjects/3503">Advertisements.</genreform>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4290">Broadcasting.</subject>
         <persname source="lcnaf" encodinganalog="600">Kerry, John.</persname>
-        <subject source="lcsh" encodinganalog="650">Vietnam War, 1961-1975.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5820">Vietnam War, 1961-1975.</subject>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/nr94024951">Webber, Gordon.</persname>
       </controlaccess>
       <controlaccess>
@@ -107,8 +107,8 @@ Gordon Webber papers, Bentley Historical Library, University of Michigan</p>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="gmgpc" encodinganalog="655">Motion pictures.</genreform>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="gmgpc" encodinganalog="655" ref="/subjects/3452">Motion pictures.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -121,13 +121,13 @@ Gordon Webber papers, Bentley Historical Library, University of Michigan</p>
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [03099865855414919861212]">1</container>
             <unittitle>Biographical material</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [03099865855414919861212]">1</container>
             <unittitle>
               <genreform normal="Photographs">Photographs</genreform>
             </unittitle>
@@ -139,7 +139,7 @@ Gordon Webber papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [03099865855414919861212]">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1938/1939">1938-1939</unitdate>
               </unittitle>
@@ -147,7 +147,7 @@ Gordon Webber papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [03099865855414919861212]">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1940">1940</unitdate>
               </unittitle>
@@ -155,7 +155,7 @@ Gordon Webber papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [03099865855414919861212]">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1941/1942">1941-1942</unitdate>
               </unittitle>
@@ -163,7 +163,7 @@ Gordon Webber papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [03099865855414919861212]">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1946/1960">1946-1960</unitdate>
                 <unitdate type="inclusive">undated</unitdate>
@@ -172,7 +172,7 @@ Gordon Webber papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [03099865855414919861212]">1</container>
               <unittitle>Answers to critical mail</unittitle>
               <unitdate type="inclusive" normal="1938">1938</unitdate>
               <unitdate type="inclusive" normal="1939">1939</unitdate>
@@ -180,7 +180,7 @@ Gordon Webber papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [03099865855414919861212]">1</container>
               <unittitle>Miscellaneous family letters</unittitle>
             </did>
           </c03>
@@ -191,13 +191,13 @@ Gordon Webber papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [03099865855414919861212]">1</container>
               <unittitle>"Notes for an Autobiography"</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [03099865855414919861212]">1</container>
               <unittitle>"Saving My Life: An American Memoir" (notes)</unittitle>
             </did>
           </c03>
@@ -208,20 +208,20 @@ Gordon Webber papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [03099865855414919861212]">1</container>
               <unittitle>European trip <unitdate type="inclusive" normal="1964">1964</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [03099865855414919861212]">1</container>
               <unittitle>European trip (excerpt) <unitdate type="inclusive" normal="1971-06">June 1971</unitdate>: "Florence and Surrounding Hill Towns"</unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [03099865855414919861212]">1</container>
             <unittitle>"Gordon Webber Day" (Linden, MI) materials <unitdate type="inclusive" normal="1985">1985</unitdate></unittitle>
           </did>
           <odd>
@@ -230,19 +230,19 @@ Gordon Webber papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [03099865855414919861212]">1</container>
             <unittitle>International Advertising Film Festival, Venice <unitdate type="inclusive" normal="1964">1964</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [03099865855414919861212]">1</container>
             <unittitle>Linden High School Alumni Banquet Speech <unitdate type="inclusive" normal="1951-06-09">June 9, 1951</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [03099865855414919861212]">1</container>
             <unittitle>"Log of the Sea Drifter" <unitdate type="inclusive" normal="1968-11-08/1968-11-15">November 8-15, 1968</unitdate></unittitle>
           </did>
           <odd>
@@ -251,25 +251,25 @@ Gordon Webber papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [03099865855414919861212]">1</container>
             <unittitle>Miscellaneous</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [03099865855414919861212]">1</container>
             <unittitle>News clippings (TV and Radio programs)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [03099865855414919861212]">1</container>
             <unittitle>U.S. Naval Service (miscellaneous)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [03099865855414919861212]">1</container>
             <unittitle>U.S. Naval Service (scripts)</unittitle>
           </did>
         </c02>
@@ -290,25 +290,25 @@ Gordon Webber papers, Bentley Historical Library, University of Michigan</p>
           </scopecontent>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [03099865855414919861212]">1</container>
               <unittitle><title render="italic">Michigan Journalist</title> clippings, <unitdate type="inclusive" normal="1936">1936</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [03099865855414919861212]">1</container>
               <unittitle><title render="italic">New Yorker</title> articles (including cartoon), <unitdate type="inclusive" normal="1939">1939</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [03099865855414919861212]">1</container>
               <unittitle>Miscellaneous</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [03099865855414919861212]">1</container>
               <unittitle>Unpublished articles</unittitle>
             </did>
           </c03>
@@ -322,7 +322,7 @@ Gordon Webber papers, Bentley Historical Library, University of Michigan</p>
           </scopecontent>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [03099865855414919861212]">1</container>
               <unittitle>Color television</unittitle>
               <unitdate type="inclusive" normal="1965/1967">1965-1967</unitdate>
               <unitdate type="inclusive" normal="1969">1969</unitdate>
@@ -330,7 +330,7 @@ Gordon Webber papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [03099865855414919861212]">1</container>
               <unittitle>Corporate Writing Workshop lectures <unitdate type="inclusive" normal="1975/1976">1975-1976</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">11 folders</extent>
@@ -339,13 +339,13 @@ Gordon Webber papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [03099865855414919861212]">1</container>
               <unittitle>Federal Trade Commission <unitdate type="inclusive" normal="1971">1971</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [03099865855414919861212]">1</container>
               <unittitle>Talks at Literary Panels</unittitle>
             </did>
           </c03>
@@ -355,7 +355,7 @@ Gordon Webber papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [03099865855414919861212]">1</container>
                 <unitdate type="inclusive" normal="1964">1964</unitdate>
                 <unitdate type="inclusive" normal="1967">1967</unitdate>
                 <unitdate type="inclusive" normal="1968">1968</unitdate>
@@ -363,7 +363,7 @@ Gordon Webber papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [03099865855414919861212]">1</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1969">1969</unitdate>
                 </unittitle>
@@ -375,7 +375,7 @@ Gordon Webber papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [03099865855414919861212]">1</container>
               <unittitle>Miscellaneous</unittitle>
             </did>
           </c03>
@@ -389,55 +389,55 @@ Gordon Webber papers, Bentley Historical Library, University of Michigan</p>
           </scopecontent>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [03099865855414919861212]">1</container>
               <unittitle>Script ideas</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [03099865855414919861212]">1</container>
               <unittitle>Commercials</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [03099865855414919861212]">1</container>
               <unittitle>"Adventures in Reading" <unitdate type="inclusive" normal="1938">1938</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [03099865855414919861212]">1</container>
               <unittitle>"Album of Roosevelt Speeches" <unitdate type="inclusive" normal="1946">1946</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [03099865855414919861212]">1</container>
               <unittitle>American Legion Auxiliary script <unitdate type="inclusive" normal="1942">1942</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [03099865855414919861212]">1</container>
               <unittitle>"And Golden was the World" <unitdate type="inclusive" normal="1940">1940</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [03099865855414919861212]">1</container>
               <unittitle>"The Crazy Heart Blues" <unitdate type="inclusive" normal="1940">1940</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [03099865855414919861212]">1</container>
               <unittitle>"Death of a Heart" <unitdate type="inclusive" normal="1939">1939</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [03099865855414919861212]">1</container>
               <unittitle>"Defense of the Land"</unittitle>
             </did>
           </c03>
@@ -447,7 +447,7 @@ Gordon Webber papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [03099865855414919861212]">1</container>
                 <unittitle>Scripts</unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">6 folders</extent>
@@ -456,7 +456,7 @@ Gordon Webber papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [713434518046006]">2</container>
                 <unittitle>Scripts</unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">18 folders</extent>
@@ -465,32 +465,32 @@ Gordon Webber papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [713434518046006]">2</container>
                 <unittitle>Outlines/summaries</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [713434518046006]">2</container>
                 <unittitle>Correspondence</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [713434518046006]">2</container>
                 <unittitle>"Firefighters News"</unittitle>
               </did>
             </c04>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [713434518046006]">2</container>
               <unittitle>"The Gift of the Magi"</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [713434518046006]">2</container>
               <unittitle>"Going Home"</unittitle>
               <unitdate type="inclusive" normal="1939">1939</unitdate>
               <unitdate type="inclusive" normal="1940">1940</unitdate>
@@ -498,73 +498,73 @@ Gordon Webber papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [713434518046006]">2</container>
               <unittitle>"The Immortal Muggsy Morgan" <unitdate type="inclusive" normal="1942">1942</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [713434518046006]">2</container>
               <unittitle>"Key to a Murder" <unitdate type="inclusive" normal="1948">1948</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [713434518046006]">2</container>
               <unittitle>"Life is Made for Living" <unitdate type="inclusive" normal="1940">1940</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [713434518046006]">2</container>
               <unittitle>"Life's Hungry Man" <unitdate type="inclusive" normal="1940">1940</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [713434518046006]">2</container>
               <unittitle>"The Long Lost Brother of Pinky Chance" <unitdate type="inclusive" normal="1940">1940</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [713434518046006]">2</container>
               <unittitle>"Mr. Smith's America" (prospectus)</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [713434518046006]">2</container>
               <unittitle>"My Town" <unitdate type="inclusive" normal="1947">1947</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [713434518046006]">2</container>
               <unittitle>"Notes on a Homecoming"</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [713434518046006]">2</container>
               <unittitle>"Nothing But the Night"</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [713434518046006]">2</container>
               <unittitle>"Old Em's Kentucky Home" (Damon Runyan Theatre) <unitdate type="inclusive" normal="1948">1948</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [713434518046006]">2</container>
               <unittitle>"The People's Peace" <unitdate type="inclusive" normal="1939">1939</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [713434518046006]">2</container>
               <unittitle>"Peter's Lovely Pigeons" (scripts and correspondence) <unitdate type="inclusive" normal="1940">1940</unitdate></unittitle>
             </did>
           </c03>
@@ -574,7 +574,7 @@ Gordon Webber papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [713434518046006]">2</container>
                 <unittitle>Scripts</unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">7 folders</extent>
@@ -583,44 +583,44 @@ Gordon Webber papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [515173684592196571977]">3</container>
                 <unittitle>Printed material</unittitle>
               </did>
             </c04>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [515173684592196571977]">3</container>
               <unittitle>"Revolt on Humphrey Street"</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [515173684592196571977]">3</container>
               <unittitle>"The Sagamores of Saddle Creek"</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [515173684592196571977]">3</container>
               <unittitle>"The Story Behind the Star Spangled Banner"</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [515173684592196571977]">3</container>
               <unittitle>"Watchman, What of the Night?"</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [515173684592196571977]">3</container>
               <unittitle>NBC scripts and ideas</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [515173684592196571977]">3</container>
               <unittitle>Miscellaneous radio scripts</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -637,13 +637,13 @@ Gordon Webber papers, Bentley Historical Library, University of Michigan</p>
           </scopecontent>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [515173684592196571977]">3</container>
               <unittitle>Script ideas</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [515173684592196571977]">3</container>
               <unittitle>Television advertising, miscellaneous</unittitle>
             </did>
           </c03>
@@ -653,7 +653,7 @@ Gordon Webber papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [515173684592196571977]">3</container>
                 <unittitle>Outlines/summaries</unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -662,7 +662,7 @@ Gordon Webber papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [515173684592196571977]">3</container>
                 <unittitle>Scripts <unitdate type="inclusive" normal="1952/1956">1952-1956</unitdate></unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">6 folders</extent>
@@ -671,13 +671,13 @@ Gordon Webber papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [515173684592196571977]">3</container>
                 <unittitle>Miscellanea</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [515173684592196571977]">3</container>
                 <unittitle>
                   <genreform normal="Photographs">Photographs</genreform>
                 </unittitle>
@@ -686,25 +686,25 @@ Gordon Webber papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [515173684592196571977]">3</container>
               <unittitle>"The Long Lost Brother of Pinky Chance" <unitdate type="inclusive" normal="1949">1949</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [515173684592196571977]">3</container>
               <unittitle>NBC-Olds Newsreels <unitdate type="inclusive" normal="1948">1948</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [515173684592196571977]">3</container>
               <unittitle>"A Woman on the Case" (outline)</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [515173684592196571977]">3</container>
               <unittitle>"Sixteen" (treatment) <unitdate type="inclusive" normal="1955">1955</unitdate></unittitle>
             </did>
           </c03>
@@ -718,13 +718,13 @@ Gordon Webber papers, Bentley Historical Library, University of Michigan</p>
           </scopecontent>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [515173684592196571977]">3</container>
               <unittitle>"The Alliance of Blue-Fingered Men" (treatment for feature film)</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [515173684592196571977]">3</container>
               <unittitle>"Gus, the Frustrated Bus" <unitdate type="inclusive" normal="1956">1956</unitdate></unittitle>
             </did>
             <odd>
@@ -737,19 +737,19 @@ Gordon Webber papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [515173684592196571977]">3</container>
                 <unittitle>Script</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [515173684592196571977]">3</container>
                 <unittitle>Correspondence</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [515173684592196571977]">3</container>
                 <unittitle>
                   <genreform normal="Photographs">Photographs</genreform>
                 </unittitle>
@@ -758,13 +758,13 @@ Gordon Webber papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [515173684592196571977]">3</container>
               <unittitle>"Philadelphia Welcomes the GOP", Newsreel <unitdate type="inclusive" normal="1948">1948</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [515173684592196571977]">3</container>
               <unittitle>"Stalking the Wild Cranberry: The Making of a TV Commercial" <unitdate type="inclusive" normal="1974">1974</unitdate></unittitle>
             </did>
           </c03>
@@ -778,7 +778,7 @@ Gordon Webber papers, Bentley Historical Library, University of Michigan</p>
           </scopecontent>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [951796374883419511]">4</container>
               <unittitle>Reviews</unittitle>
             </did>
           </c03>
@@ -788,25 +788,25 @@ Gordon Webber papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [951796374883419511]">4</container>
                 <unittitle>Correspondence</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [951796374883419511]">4</container>
                 <unittitle>Drafts </unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [951796374883419511]">4</container>
                 <unittitle>Musical (treatment)</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [951796374883419511]">4</container>
                 <unittitle>Manuscript</unittitle>
               </did>
             </c04>
@@ -819,13 +819,13 @@ Gordon Webber papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [951796374883419511]">4</container>
                 <unittitle>Correspondence</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [951796374883419511]">4</container>
                 <unittitle>Manuscripts</unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">4 folders</extent>
@@ -838,13 +838,13 @@ Gordon Webber papers, Bentley Historical Library, University of Michigan</p>
               </did>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">4</container>
+                  <container type="box" label="Box [951796374883419511]">4</container>
                   <unittitle>United States editions</unittitle>
                 </did>
               </c05>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">4</container>
+                  <container type="box" label="Box [951796374883419511]">4</container>
                   <unittitle>Great Britain edition</unittitle>
                 </did>
               </c05>
@@ -858,13 +858,13 @@ Gordon Webber papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">5</container>
+                <container type="box" label="Box [48034916794628394015455]">5</container>
                 <unittitle>Manuscript</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">5</container>
+                <container type="box" label="Box [48034916794628394015455]">5</container>
                 <unittitle>Film treatment</unittitle>
               </did>
             </c04>
@@ -877,7 +877,7 @@ Gordon Webber papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">5</container>
+                <container type="box" label="Box [48034916794628394015455]">5</container>
                 <unittitle>Manuscript</unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -886,13 +886,13 @@ Gordon Webber papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">5</container>
+                <container type="box" label="Box [48034916794628394015455]">5</container>
                 <unittitle>Film project</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">5</container>
+                <container type="box" label="Box [48034916794628394015455]">5</container>
                 <unittitle>Russian edition </unittitle>
               </did>
             </c04>
@@ -903,7 +903,7 @@ Gordon Webber papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">5</container>
+                <container type="box" label="Box [48034916794628394015455]">5</container>
                 <unittitle>Adios Kalamazoo: Manuscript</unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">4 folders</extent>
@@ -912,19 +912,19 @@ Gordon Webber papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">5</container>
+                <container type="box" label="Box [48034916794628394015455]">5</container>
                 <unittitle>Adios Kalamazoo: Correspondence</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">6</container>
+                <container type="box" label="Box [07525198044389302783]">6</container>
                 <unittitle>Stepping Stones: Draft</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">6</container>
+                <container type="box" label="Box [07525198044389302783]">6</container>
                 <unittitle>Stepping Stones: Manuscript</unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">4 folders</extent>
@@ -942,25 +942,25 @@ Gordon Webber papers, Bentley Historical Library, University of Michigan</p>
           </scopecontent>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [07525198044389302783]">6</container>
               <unittitle>"The 1926 Packard Limousine" <unitdate type="inclusive" normal="1986">1986</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [07525198044389302783]">6</container>
               <unittitle>"All the Great Elms are Dying"</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [07525198044389302783]">6</container>
               <unittitle>"The Birthday Man"</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [07525198044389302783]">6</container>
               <unittitle>"The Dark Helen" <unitdate type="inclusive" normal="1950">1950</unitdate></unittitle>
             </did>
             <odd>
@@ -969,43 +969,43 @@ Gordon Webber papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [07525198044389302783]">6</container>
               <unittitle>"The Haunted Barn" <unitdate type="inclusive" normal="1986">1986</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [07525198044389302783]">6</container>
               <unittitle>"The Indian Wars on Oak Street"</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [07525198044389302783]">6</container>
               <unittitle>"The Kite That Flew Away"</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [07525198044389302783]">6</container>
               <unittitle>"The Lost Boy"</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [07525198044389302783]">6</container>
               <unittitle>"Menage a Trois -- Plus One?"</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [07525198044389302783]">6</container>
               <unittitle>"The Smiling Boy"</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [07525198044389302783]">6</container>
               <unittitle>Miscellaneous short stories</unittitle>
             </did>
           </c03>
@@ -1019,13 +1019,13 @@ Gordon Webber papers, Bentley Historical Library, University of Michigan</p>
           </scopecontent>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [07525198044389302783]">6</container>
               <unittitle>"The Cowboy's Last Will" (song)</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [07525198044389302783]">6</container>
               <unittitle>Poetry</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -1034,7 +1034,7 @@ Gordon Webber papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [07525198044389302783]">6</container>
               <unittitle>"Project X"</unittitle>
             </did>
           </c03>
@@ -1044,25 +1044,25 @@ Gordon Webber papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">6</container>
+                <container type="box" label="Box [07525198044389302783]">6</container>
                 <unittitle>The Journey of Julian Starr</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">6</container>
+                <container type="box" label="Box [07525198044389302783]">6</container>
                 <unittitle>Memo to Limbo</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">6</container>
+                <container type="box" label="Box [07525198044389302783]">6</container>
                 <unittitle>The Redemption of Richard Nixon <unitdate type="inclusive" normal="1982">1982</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">6</container>
+                <container type="box" label="Box [07525198044389302783]">6</container>
                 <unittitle>The Reunion</unittitle>
               </did>
             </c04>
@@ -1082,7 +1082,7 @@ Gordon Webber papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [07525198044389302783]">6</container>
               <unittitle>Amendment to End the War, general</unittitle>
             </did>
           </c03>
@@ -1092,7 +1092,7 @@ Gordon Webber papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">6</container>
+                <container type="box" label="Box [07525198044389302783]">6</container>
                 <unittitle>Papers</unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">7 folders</extent>
@@ -1104,7 +1104,7 @@ Gordon Webber papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">6</container>
+                <container type="box" label="Box [07525198044389302783]">6</container>
                 <unittitle>Budget</unittitle>
               </did>
             </c04>
@@ -1112,7 +1112,7 @@ Gordon Webber papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">7</container>
+            <container type="box" label="Box [668045138014854121]">7</container>
             <unittitle>Corporate Executives Committee for Peace <unitdate type="inclusive" normal="1970">1970</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -1125,7 +1125,7 @@ Gordon Webber papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">7</container>
+              <container type="box" label="Box [668045138014854121]">7</container>
               <unittitle>Correspondence</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">6 folders</extent>
@@ -1137,38 +1137,38 @@ Gordon Webber papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">7</container>
+              <container type="box" label="Box [668045138014854121]">7</container>
               <unittitle>Unsell Conference. Yale University <unitdate type="inclusive" normal="1971-04-03">April 3, 1971</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">7</container>
+              <container type="box" label="Box [668045138014854121]">7</container>
               <unittitle>Television advertisement scripts</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">7</container>
+              <container type="box" label="Box [668045138014854121]">7</container>
               <unittitle>Media requests</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">7</container>
+              <container type="box" label="Box [668045138014854121]">7</container>
               <unittitle>Print advertisements (Benton and Bowles)</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">7</container>
+              <container type="box" label="Box [668045138014854121]">7</container>
               <unittitle>Poster</unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">7</container>
+            <container type="box" label="Box [668045138014854121]">7</container>
             <unittitle>"U.S. in Mourning" armband</unittitle>
           </did>
           <odd>
@@ -1185,7 +1185,7 @@ Gordon Webber papers, Bentley Historical Library, University of Michigan</p>
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">8</container>
+            <container type="box" label="Box [32654126944818999230675]">8</container>
             <unittitle>Magnetic audio tracks of the "Endless War" documentary</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 tapes</extent>
@@ -1200,7 +1200,7 @@ Gordon Webber papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">8</container>
+              <container type="box" label="Box [32654126944818999230675]">8</container>
               <unittitle>"The Jogger" <unitdate type="inclusive" normal="1971">1971</unitdate></unittitle>
             </did>
             <odd>
@@ -1209,7 +1209,7 @@ Gordon Webber papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">8</container>
+              <container type="box" label="Box [32654126944818999230675]">8</container>
               <unittitle>"Stalking the Wild Cranberry: The Making of a TV Commercial"</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">1 reels</extent>
@@ -1228,7 +1228,7 @@ Gordon Webber papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">8</container>
+                <container type="box" label="Box [32654126944818999230675]">8</container>
                 <unittitle>"Robert Muller"</unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">30 seconds</extent>
@@ -1237,7 +1237,7 @@ Gordon Webber papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">8</container>
+                <container type="box" label="Box [32654126944818999230675]">8</container>
                 <unittitle>"John Kerry"</unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">60 seconds</extent>
@@ -1246,7 +1246,7 @@ Gordon Webber papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">8</container>
+                <container type="box" label="Box [32654126944818999230675]">8</container>
                 <unittitle>"Pie Blowup"</unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">60 seconds</extent>
@@ -1255,7 +1255,7 @@ Gordon Webber papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">8</container>
+                <container type="box" label="Box [32654126944818999230675]">8</container>
                 <unittitle>"Birthday Helmet"</unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">20 seconds</extent>
@@ -1264,7 +1264,7 @@ Gordon Webber papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">8</container>
+                <container type="box" label="Box [32654126944818999230675]">8</container>
                 <unittitle>"Little Boy (with flag)"</unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">30 seconds</extent>
@@ -1274,7 +1274,7 @@ Gordon Webber papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">8</container>
+              <container type="box" label="Box [32654126944818999230675]">8</container>
               <unittitle>"The Endless War"</unittitle>
               <physdesc altrender="part">
                 <extent altrender="materialtype spaceoccupied">1 7 inch film reel</extent>
@@ -1291,7 +1291,7 @@ Gordon Webber papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Sound Disc">1</container>
+            <container type="box" label="Sound Disc [39625534290469044]">1</container>
             <unittitle>"Girl with the Swinging Hair" TV jingle <unitdate type="inclusive" normal="1965">1965</unitdate></unittitle>
           </did>
           <odd>
