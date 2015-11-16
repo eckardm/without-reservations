@@ -44,7 +44,9 @@
       <origination>
         <corpname source="lcnaf" encodinganalog="110">University of Michigan. Dept. of Microbiology.</corpname>
       </origination>
-      <unittitle encodinganalog="245">Department of Microbiology (University of Michigan) records <unitdate type="inclusive" encodinganalog="245$f" normal="1951/1979">1951-1979</unitdate>, <unitdate type="bulk" encodinganalog="245$g" normal="1959/1970">1959-1970</unitdate></unittitle>
+      <unittitle encodinganalog="245">Department of Microbiology (University of Michigan) records</unittitle>
+      <unitdate type="inclusive" encodinganalog="245$f" normal="1951/1979">1951-1979</unitdate>
+      <unitdate type="bulk" encodinganalog="245$g" normal="1959/1970">1959-1970</unitdate>
       <unitid encodinganalog="099" repositorycode="MiU-H" countrycode="us" type="call number">87146 Bimu C46 2</unitid>
       <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language></langmaterial>
       <abstract>Collected historical information, including record of faculty research, 1890-1970, history of the department, and faculty bibliography; and correspondence and memoranda of chairmen, Walter J. Nungester and Frederick C. Neidhardt; also administrative files concerning faculty activities, fellowships, research projects, and student affairs.</abstract>
@@ -248,13 +250,15 @@ Department of Microbiology (University of Michigan) records, Bentley Historical 
           <c03 level="file">
             <did>
               <container type="box" label="Box">2</container>
-              <unittitle><unitdate type="inclusive" normal="1959">1959</unitdate>, <unitdate type="inclusive" normal="1961/1966">1961-1966</unitdate></unittitle>
+              <unitdate type="inclusive" normal="1959">1959</unitdate>
+              <unitdate type="inclusive" normal="1961/1966">1961-1966</unitdate>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="box" label="Box">2</container>
-              <unittitle><unitdate type="inclusive" normal="1967/1969">1967-1969</unitdate>, <unitdate type="inclusive" normal="1979">1979</unitdate></unittitle>
+              <unitdate type="inclusive" normal="1967/1969">1967-1969</unitdate>
+              <unitdate type="inclusive" normal="1979">1979</unitdate>
             </did>
           </c03>
         </c02>
@@ -351,7 +355,9 @@ Department of Microbiology (University of Michigan) records, Bentley Historical 
           <c03 level="file">
             <did>
               <container type="box" label="Box">2</container>
-              <unittitle>W.K. Kellogg Foundation <unitdate type="inclusive" normal="1963">1963</unitdate>, <unitdate type="inclusive" normal="1965">1965</unitdate></unittitle>
+              <unittitle>W.K. Kellogg Foundation</unittitle>
+              <unitdate type="inclusive" normal="1963">1963</unitdate>
+              <unitdate type="inclusive" normal="1965">1965</unitdate>
             </did>
           </c03>
           <c03 level="file">
@@ -517,7 +523,11 @@ Department of Microbiology (University of Michigan) records, Bentley Historical 
             <c04 level="file">
               <did>
                 <container type="box" label="Box">1</container>
-                <unittitle><title render="italic">Alumni Letter</title>, <unitdate type="inclusive" normal="1965">1965</unitdate>, <unitdate type="inclusive" normal="1967">1967</unitdate></unittitle>
+                <unittitle>
+                  <title render="italic">Alumni Letter</title>
+                </unittitle>
+                <unitdate type="inclusive" normal="1965">1965</unitdate>
+                <unitdate type="inclusive" normal="1967">1967</unitdate>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">2 folders</extent>
                 </physdesc>

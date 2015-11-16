@@ -41,7 +41,9 @@
       <origination>
         <corpname source="lcnaf" encodinganalog="110" authfilenumber="http://id.loc.gov/authorities/names/n87842574">University of Michigan. Department of Psychiatry.</corpname>
       </origination>
-      <unittitle encodinganalog="245">Department of Psychiatry (University of Michigan) records <unitdate type="inclusive" encodinganalog="245$f" normal="1959/2013">1959-2013</unitdate>, <unitdate type="bulk" encodinganalog="245$g" normal="1988/2013">1988-2013</unitdate></unittitle>
+      <unittitle encodinganalog="245">Department of Psychiatry (University of Michigan) records</unittitle>
+      <unitdate type="inclusive" encodinganalog="245$f" normal="1959/2013">1959-2013</unitdate>
+      <unitdate type="bulk" encodinganalog="245$g" normal="1988/2013">1988-2013</unitdate>
       <unitid encodinganalog="852$h" repositorycode="MiU-H" countrycode="us" type="call number">0360 BImu C46 2</unitid>
       <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language></langmaterial>
       <abstract>Records of the University of Michigan Department of Psychiatry. The collection contains administrative files and publications. Also includes records and video materials for the Annual Waggoner Lectureship.</abstract>
@@ -641,7 +643,9 @@ Department of Psychiatry (University of Michigan) records, Bentley Historical Li
         <c02 level="file">
           <did>
             <container type="box" label="Box">2</container>
-            <unittitle>Brochures <unitdate type="inclusive" normal="1970">1970</unitdate>, <unitdate type="inclusive" normal="2006">2006</unitdate></unittitle>
+            <unittitle>Brochures</unittitle>
+            <unitdate type="inclusive" normal="1970">1970</unitdate>
+            <unitdate type="inclusive" normal="2006">2006</unitdate>
           </did>
         </c02>
         <c02 level="file">
@@ -653,7 +657,11 @@ Department of Psychiatry (University of Michigan) records, Bentley Historical Li
         <c02 level="file">
           <did>
             <container type="box" label="Box">2</container>
-            <unittitle><title render="italic">Department of Psychiatry</title>, <unitdate type="inclusive" normal="1959">1959</unitdate>, <unitdate type="inclusive" normal="1976" certainty="approximate">circa 1976</unitdate></unittitle>
+            <unittitle>
+              <title render="italic">Department of Psychiatry</title>
+            </unittitle>
+            <unitdate type="inclusive" normal="1959">1959</unitdate>
+            <unitdate type="inclusive" normal="1976" certainty="approximate">circa 1976</unitdate>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
             </physdesc>

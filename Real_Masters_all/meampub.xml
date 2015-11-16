@@ -40,7 +40,9 @@
       <origination>
         <corpname source="lcnaf" encodinganalog="110">University of Michigan. Dept. of Mechanical Engineering and Applied Mechanics.</corpname>
       </origination>
-      <unittitle encodinganalog="245">Dept. of Mechanical Engineering and Applied Mechanics (University of Michigan) publications <unitdate type="inclusive" encodinganalog="245$f" normal="1908/2002">1908-2002</unitdate>, <unitdate type="bulk" encodinganalog="245$g" normal="1968/2000">1968-2000</unitdate></unittitle>
+      <unittitle encodinganalog="245">Dept. of Mechanical Engineering and Applied Mechanics (University of Michigan) publications</unittitle>
+      <unitdate type="inclusive" encodinganalog="245$f" normal="1908/2002">1908-2002</unitdate>
+      <unitdate type="bulk" encodinganalog="245$g" normal="1968/2000">1968-2000</unitdate>
       <unitid encodinganalog="099" repositorycode="MiU-H" countrycode="us" type="call number">9728; Bimu; C146; 2</unitid>
       <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language></langmaterial>
       <abstract>Teaching and research unit of the College of Engineering of the University of Michigan. Contains publications produced by or for the department, including annual reports, bibliographies, brochures and pamphlets, bulletins describing graduate programs, directories, histories, manuals, and newsletters.</abstract>
@@ -120,7 +122,12 @@ Department of Mechanical Engineering and Applied Mechanics (University of Michig
           <c03 level="file">
             <did>
               <container type="box" label="Box">1</container>
-              <unittitle><title render="italic">Annual Report for the Department of Mechanical Engineering and Applied Mechanics</title>, <unitdate type="inclusive" normal="1981/1988">1981/82-1987/88</unitdate>, <unitdate type="inclusive" normal="1991/1992">1991/92</unitdate>, <unitdate type="inclusive" normal="1993/2002">1993/94-2001/02</unitdate></unittitle>
+              <unittitle>
+                <title render="italic">Annual Report for the Department of Mechanical Engineering and Applied Mechanics</title>
+              </unittitle>
+              <unitdate type="inclusive" normal="1981/1988">1981/82-1987/88</unitdate>
+              <unitdate type="inclusive" normal="1991/1992">1991/92</unitdate>
+              <unitdate type="inclusive" normal="1993/2002">1993/94-2001/02</unitdate>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">8 folders</extent>
               </physdesc>
@@ -204,7 +211,11 @@ Department of Mechanical Engineering and Applied Mechanics (University of Michig
           <c03 level="file">
             <did>
               <container type="box" label="Box">1</container>
-              <unittitle><title render="italic">Research Bulletin</title>, <unitdate type="inclusive" normal="1992/1993">1992-1993</unitdate>, <unitdate type="inclusive">undated</unitdate></unittitle>
+              <unittitle>
+                <title render="italic">Research Bulletin</title>
+              </unittitle>
+              <unitdate type="inclusive" normal="1992/1993">1992-1993</unitdate>
+              <unitdate type="inclusive">undated</unitdate>
             </did>
           </c03>
         </c02>
@@ -236,7 +247,11 @@ Department of Mechanical Engineering and Applied Mechanics (University of Michig
           <c03 level="file">
             <did>
               <container type="box" label="Box">1</container>
-              <unittitle><title render="italic">Faculty Research Interests</title>, <unitdate type="inclusive" normal="1998/1999">1998-1999</unitdate>, <unitdate type="inclusive" normal="2001">2001</unitdate></unittitle>
+              <unittitle>
+                <title render="italic">Faculty Research Interests</title>
+              </unittitle>
+              <unitdate type="inclusive" normal="1998/1999">1998-1999</unitdate>
+              <unitdate type="inclusive" normal="2001">2001</unitdate>
             </did>
           </c03>
           <c03 level="file">
@@ -323,7 +338,8 @@ Department of Mechanical Engineering and Applied Mechanics (University of Michig
             <c04 level="file">
               <did>
                 <container type="box" label="Box">1</container>
-                <unittitle><unitdate type="inclusive" normal="1979">1979</unitdate>, <unitdate type="inclusive" normal="1981/1991">1981-1991</unitdate></unittitle>
+                <unitdate type="inclusive" normal="1979">1979</unitdate>
+                <unitdate type="inclusive" normal="1981/1991">1981-1991</unitdate>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">12 folders</extent>
                 </physdesc>
@@ -503,7 +519,9 @@ Department of Mechanical Engineering and Applied Mechanics (University of Michig
           <c03 level="file">
             <did>
               <container type="box" label="Box">2</container>
-              <unittitle>Reports <unitdate type="inclusive" normal="1952">1952</unitdate>, <unitdate type="inclusive" normal="1955">1955</unitdate></unittitle>
+              <unittitle>Reports</unittitle>
+              <unitdate type="inclusive" normal="1952">1952</unitdate>
+              <unitdate type="inclusive" normal="1955">1955</unitdate>
             </did>
           </c03>
         </c02>
@@ -595,7 +613,9 @@ Department of Mechanical Engineering and Applied Mechanics (University of Michig
           <c03 level="file">
             <did>
               <container type="box" label="Box">2</container>
-              <unittitle>Brochures and Newsletters <unitdate type="inclusive" normal="1949">1949</unitdate>, <unitdate type="inclusive">undated</unitdate></unittitle>
+              <unittitle>Brochures and Newsletters</unittitle>
+              <unitdate type="inclusive" normal="1949">1949</unitdate>
+              <unitdate type="inclusive">undated</unitdate>
             </did>
           </c03>
         </c02>
