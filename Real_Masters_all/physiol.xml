@@ -192,8 +192,8 @@
       <controlaccess>
         <head>Subjects - Visual Materials:</head>
         <persname encodinganalog="600" source="lcnaf">Bean, John William, 1901-1987.</persname>
-        <subject encodinganalog="650" source="lctgm">Laboratories.</subject>
-        <subject encodinganalog="650" source="lctgm">Meetings.</subject>
+        <subject encodinganalog="650" source="lctgm" ref="/subjects/3792">Laboratories.</subject>
+        <subject encodinganalog="650" source="lctgm" ref="/subjects/5156">Meetings.</subject>
       </controlaccess>
       <controlaccess>
         <head>Contributors:</head>
@@ -204,8 +204,8 @@
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform encodinganalog="655" source="aat">Photographs.</genreform>
-        <genreform encodinganalog="655" source="aat">Motion pictures.</genreform>
+        <genreform encodinganalog="655" source="aat" ref="/subjects/3141">Photographs.</genreform>
+        <genreform encodinganalog="655" source="aat" ref="/subjects/3167">Motion pictures.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">

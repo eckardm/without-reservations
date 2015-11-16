@@ -346,12 +346,12 @@
         <corpname source="lcnaf" encodinganalog="610">University of Michigan--Faculty.</corpname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan. Institute of Archaeological Research.</corpname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan Near East Research Expedition (1924-1934)</corpname>
-        <geogname source="lcsh" encodinganalog="651">Karanis (Egypt)</geogname>
-        <geogname source="lcsh" encodinganalog="651">Carthage (Extinct city)</geogname>
-        <subject source="lcsh" encodinganalog="650">Archaeology.</subject>
-        <subject source="lcsh" encodinganalog="650">Excavations (Archaeology)--Tunisia--Carthage (Extinct city)</subject>
-        <subject source="lcsh" encodinganalog="650">Excavations (Archaeology)--Egypt--Karanis (Extinct city)</subject>
-        <subject source="lcsh" encodinganalog="650">Excavations (Archaeology)--Turkey--Pisidia (Extinct city)</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/2152">Karanis (Egypt)</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/2153">Carthage (Extinct city)</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6607">Archaeology.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/8622">Excavations (Archaeology)--Tunisia--Carthage (Extinct city)</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/8623">Excavations (Archaeology)--Egypt--Karanis (Extinct city)</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/8624">Excavations (Archaeology)--Turkey--Pisidia (Extinct city)</subject>
       </controlaccess>
       <controlaccess>
         <head>Contributors:</head>
@@ -367,8 +367,8 @@
       </controlaccess>
       <controlaccess>
         <head>Genre/Form:</head>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
-        <genreform source="aat" encodinganalog="655">Maps.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3142">Maps.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">

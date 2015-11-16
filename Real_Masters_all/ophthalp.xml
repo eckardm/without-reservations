@@ -133,8 +133,8 @@
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <subject source="lcsh" encodinganalog="650">Medicine--Michigan.</subject>
-        <subject source="lcsh" encodinganalog="650">Ophthalmology--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6030">Medicine--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7220">Ophthalmology--Michigan.</subject>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan. Dept. of Ophthalmology.</corpname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n81055151">University of Michigan. Medical School.</corpname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/nr90002302">University of Michigan. W. K. Kellogg Eye Center.</corpname>
@@ -142,10 +142,10 @@
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Pamphlets.</genreform>
-        <genreform source="aat" encodinganalog="655">Directories.</genreform>
-        <genreform source="aat" encodinganalog="655">Proposals.</genreform>
-        <genreform source="aat" encodinganalog="655">Reports.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3152">Pamphlets.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3201">Directories.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3216">Proposals.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3155">Reports.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">

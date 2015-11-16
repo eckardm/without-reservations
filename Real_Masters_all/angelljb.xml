@@ -113,10 +113,10 @@
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n79032986">American Academy in Rome.</corpname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n79063583">American Historical Association.</corpname>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/no90002065">Angell, James Burrill, 1829-1916.</persname>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n79022219.html">Ann Arbor (Mich.)</geogname>
-        <geogname source="lcsh" encodinganalog="651">China--History--1861-1912.</geogname>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n79022219.html" ref="/subjects/860">Ann Arbor (Mich.)</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/930">China--History--1861-1912.</geogname>
         <corpname source="lcnaf" encodinganalog="611" authfilenumber="http://id.loc.gov/authorities/names/n79041776">Louisiana Purchase Exposition (1904 : Saint Louis, Mo.)</corpname>
-        <geogname source="lcsh" encodinganalog="651">Turkey.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/931">Turkey.</geogname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/nr93034095">University of Michigan. Alumni Association.</corpname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan--Sports.</corpname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n80094504">University of Michigan. College of Engineering.</corpname>
@@ -129,7 +129,7 @@
         <corpname source="lcnaf" encodinganalog="610">University of Michigan--Students--Social life and customs--1891-1900.</corpname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan--Students--Social life and customs--1901-1910.</corpname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan. University Hospital.</corpname>
-        <geogname source="lcsh" encodinganalog="651">Waterman Gymnasium (University of Michigan)</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/932">Waterman Gymnasium (University of Michigan)</geogname>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Material:</head>
@@ -137,14 +137,14 @@
         <persname source="lcnaf" encodinganalog="600">Angell, Sarah Caswell, 1831-1903.</persname>
         <famname source="lcnaf" encodinganalog="600">Angell family.</famname>
         <corpname source="lcnaf" encodinganalog="610">Browning Club (Ann Arbor, Mich.)</corpname>
-        <subject source="lctgm" encodinganalog="650">Funeral rites and ceremonies.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3699">Funeral rites and ceremonies.</subject>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n88002366">Hutchins, Harry B. (Harry Burns), 1847-1930.</persname>
-        <subject source="lctgm" encodinganalog="650">Interiors--Michigan--Ann Arbor.</subject>
-        <subject source="lctgm" encodinganalog="650">Offices--Michigan--Ann Arbor.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3683">Interiors--Michigan--Ann Arbor.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3685">Offices--Michigan--Ann Arbor.</subject>
         <corpname source="lcnaf" encodinganalog="610">President's House (University of Michigan)</corpname>
         <corpname source="lcnaf" encodinganalog="610">United States Fish Commission--1888.</corpname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan. President.</corpname>
-        <subject source="lctgm" encodinganalog="650">Women--Organizations.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3631">Women--Organizations.</subject>
       </controlaccess>
       <controlaccess>
         <head>Contributors:</head>
@@ -233,10 +233,10 @@
       </controlaccess>
       <controlaccess>
         <head>Genre/Form:</head>
-        <genreform source="gmgpc" encodinganalog="655">Albums.</genreform>
-        <genreform source="aat" encodinganalog="655">Diaries.</genreform>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
-        <genreform source="gmgpc" encodinganalog="655">Prints.</genreform>
+        <genreform source="gmgpc" encodinganalog="655" ref="/subjects/3460">Albums.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3150">Diaries.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
+        <genreform source="gmgpc" encodinganalog="655" ref="/subjects/3461">Prints.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">

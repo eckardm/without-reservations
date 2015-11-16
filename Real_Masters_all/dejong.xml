@@ -108,12 +108,12 @@
       <controlaccess>
         <head>Subjects:</head>
         <persname source="lcnaf" authfilenumber="http://id.loc.gov/authorities/names/n81129692">DeJong, Russell N.</persname>
-        <subject source="lcsh" encodinganalog="650">Medicine--Study and teaching--Michigan.</subject>
-        <subject source="lcsh" encodinganalog="650">Physicians--Michigan--Ann Arbor.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7165">Medicine--Study and teaching--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6031">Physicians--Michigan--Ann Arbor.</subject>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan--Faculty.</corpname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n81055151">University of Michigan. Medical School.</corpname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan. University Hospital.</corpname>
-        <subject source="lcsh" encodinganalog="650">Neurology.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7166">Neurology.</subject>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Material:</head>
@@ -122,7 +122,7 @@
       </controlaccess>
       <controlaccess>
         <head>Genre/Form:</head>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">

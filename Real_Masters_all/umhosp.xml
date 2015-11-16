@@ -413,10 +413,10 @@
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <subject source="lcsh" encodinganalog="650">Hospitals--Michigan--Ann Arbor.</subject>
-        <subject source="lcsh" encodinganalog="650">Medicine--Michigan--Ann Arbor.</subject>
-        <subject source="lcsh" encodinganalog="650">Nursing--Michigan--Ann Arbor.</subject>
-        <subject source="lcsh" encodinganalog="650">Nurses--Michigan--Ann Arbor.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5694">Hospitals--Michigan--Ann Arbor.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5695">Medicine--Michigan--Ann Arbor.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6089">Nursing--Michigan--Ann Arbor.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6088">Nurses--Michigan--Ann Arbor.</subject>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan. Hospitals.</corpname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n81055151">University of Michigan. Medical School.</corpname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan. Replacement Hospital Project.</corpname>
@@ -425,15 +425,15 @@
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Materials:</head>
-        <geogname source="lctgm" encodinganalog="651">Ann Arbor (Mich.)--Hospitals.</geogname>
-        <subject source="lctgm" encodinganalog="650">Hospitals--Michigan--Ann Arbor.</subject>
-        <subject source="lctgm" encodinganalog="650">Medicine--Michigan--Ann Arbor.</subject>
+        <geogname source="lctgm" encodinganalog="651" ref="/subjects/705">Ann Arbor (Mich.)--Hospitals.</geogname>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4409">Hospitals--Michigan--Ann Arbor.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/5490">Medicine--Michigan--Ann Arbor.</subject>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan. University Hospital.</corpname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan. Hospitals.</corpname>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">

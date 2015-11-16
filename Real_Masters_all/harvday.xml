@@ -92,18 +92,18 @@
       </p>
       <controlaccess>
         <head>Form and Genre:</head>
-        <genreform source="aat">Account books.</genreform>
-        <genreform source="aat">Poetry.</genreform>
+        <genreform source="aat" ref="/subjects/3257">Account books.</genreform>
+        <genreform source="aat" ref="/subjects/3171">Poetry.</genreform>
       </controlaccess>
       <controlaccess>
         <head>Subjects:</head>
         <persname source="lcnaf" encodinganalog="600">Day, Harvey S.</persname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n81142236">Holstein-Friesian Association of America.</corpname>
-        <subject source="lcsh" encodinganalog="650">Agriculture--Michigan--Washtenaw County.</subject>
-        <subject source="lcsh" encodinganalog="650">Cookery.</subject>
-        <subject source="lcsh" encodinganalog="650">Dairying--Michigan--Washtenaw County.</subject>
-        <subject source="lcsh" encodinganalog="650">Farmers--Michigan--Washtenaw County.</subject>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n80006284.html">Ypsilanti (Mich.)</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6650">Agriculture--Michigan--Washtenaw County.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6008">Cookery.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/8128">Dairying--Michigan--Washtenaw County.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7154">Farmers--Michigan--Washtenaw County.</subject>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n80006284.html" ref="/subjects/999">Ypsilanti (Mich.)</geogname>
       </controlaccess>
       <controlaccess>
         <head>Contributors:</head>

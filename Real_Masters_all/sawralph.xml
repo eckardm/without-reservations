@@ -98,15 +98,15 @@
       <controlaccess>
         <head>Subjects:</head>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n79078128">American Institute of Physics.</corpname>
-        <subject source="lcsh" encodinganalog="650">Atomic bomb.</subject>
-        <geogname source="lcsh" encodinganalog="651">Brazil.</geogname>
-        <geogname source="lcsh" encodinganalog="651">China--History--Republic, 1912-1949.</geogname>
-        <geogname source="lcsh" encodinganalog="651">Germany.</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6653">Atomic bomb.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1280">Brazil.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/946">China--History--Republic, 1912-1949.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/919">Germany.</geogname>
         <corpname source="lcnaf" encodinganalog="610">Horace H. Rackham School of Graduate Studies.</corpname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n84055147">Michigan Memorial Phoenix Project.</corpname>
         <corpname source="lcnaf" encodinganalog="610">National Academy of Sciences (U.S.)</corpname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n82091895">Optical Society of America.</corpname>
-        <subject source="lcsh" encodinganalog="650">Physicists--Michigan--Ann Arbor.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6877">Physicists--Michigan--Ann Arbor.</subject>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n85814346">Sawyer, Ralph A. (Ralph Alanson), 1895-1978.</persname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n79021148">United States. National Bureau of Standards.</corpname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n79059051">United States. Navy.</corpname>
@@ -114,16 +114,16 @@
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n88629496">University of Michigan. Engineering Research Institute.</corpname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan--Faculty.</corpname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan. Vice-President for Research.</corpname>
-        <subject source="lcsh" encodinganalog="650">World War, 1939-1945.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5681">World War, 1939-1945.</subject>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Material:</head>
-        <geogname source="lcsh" encodinganalog="651">Bikini Atoll (Marshall Islands)</geogname>
-        <subject source="lctgm" encodinganalog="650">Explosions.</subject>
-        <subject source="lctgm" encodinganalog="650">Nuclear weapons.</subject>
-        <subject source="lctgm" encodinganalog="650">Ordnance testing.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/2785">Bikini Atoll (Marshall Islands)</geogname>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4873">Explosions.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/5232">Nuclear weapons.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/5233">Ordnance testing.</subject>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n85814346">Sawyer, Ralph A. (Ralph Alanson), 1895-1978.</persname>
-        <subject source="lctgm" encodinganalog="650">Scientific equipment.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4109">Scientific equipment.</subject>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n79059051">United States. Navy.</corpname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan. Dept. of Physics.</corpname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan. Summer Session. Symposium in Theoretical Physics.</corpname>
@@ -131,8 +131,8 @@
       <controlaccess>
         <head>Subjects - Sound Recordings:</head>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n85814346">Sawyer, Ralph A. (Ralph Alanson), 1895-1978.</persname>
-        <geogname source="lcsh" encodinganalog="651">Germany (West)</geogname>
-        <subject source="lcsh" encodinganalog="650">Physics.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/2566">Germany (West)</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6878">Physics.</subject>
       </controlaccess>
       <controlaccess>
         <head>Contributors:</head>
@@ -173,10 +173,10 @@
       </controlaccess>
       <controlaccess>
         <head>Genre/Form:</head>
-        <genreform source="gmgpc" encodinganalog="655">Motion pictures.</genreform>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
-        <genreform source="aat" encodinganalog="655">Sound recordings.</genreform>
-        <genreform source="aat" encodinganalog="655">Videotapes.</genreform>
+        <genreform source="gmgpc" encodinganalog="655" ref="/subjects/3452">Motion pictures.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3143">Sound recordings.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3140">Videotapes.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">

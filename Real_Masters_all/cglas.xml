@@ -155,13 +155,13 @@
       <controlaccess>
         <head>Subjects:</head>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/no89017203">Donald C. Cook Nuclear Power Plant.</corpname>
-        <subject source="lcsh" encodinganalog="650">Environmental impact statements.</subject>
-        <subject source="lcsh" encodinganalog="650">Environmental protection--Michigan.</subject>
-        <geogname source="lcsh" encodinganalog="651">Grand Traverse Bay (Mich.)</geogname>
-        <geogname source="lcsh" encodinganalog="651">Great Lakes Region--Research.</geogname>
-        <subject source="lcsh" encodinganalog="650">Limnology--Great Lakes.</subject>
-        <geogname source="lcsh" encodinganalog="651">Michigan, Lake.</geogname>
-        <subject source="lcsh" encodinganalog="650">Nuclear power plants--Environmental aspects--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6742">Environmental impact statements.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6628">Environmental protection--Michigan.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1476">Grand Traverse Bay (Mich.)</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1477">Great Lakes Region--Research.</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6227">Limnology--Great Lakes.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1478">Michigan, Lake.</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6743">Nuclear power plants--Environmental aspects--Michigan.</subject>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan. Center for Great Lakes and Aquatic Sciences.</corpname>
       </controlaccess>
       <controlaccess>
@@ -174,7 +174,7 @@
       </controlaccess>
       <controlaccess>
         <head>Genre/Form:</head>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
