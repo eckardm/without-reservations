@@ -30,7 +30,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding Aid for <lb/>Anton Russell papers, <date>1918-1919</date></titleproper>
       <author>Finding aid prepared by: <lb/>Len Coombs</author>
     </titlepage>
@@ -84,15 +84,15 @@
         <head>Subjects</head>
         <persname source="lcnaf" encodinganalog="600">Russell, Anton.</persname>
         <corpname source="lcnaf" encodinganalog="610">Polar Bear Association.</corpname>
-        <geogname source="lcsh" encodinganalog="651">Soviet Union--History--Allied intervention, 1918-1920.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/883">Soviet Union--History--Allied intervention, 1918-1920.</geogname>
         <corpname source="lcnaf" encodinganalog="610">United States. Army. Infantry, 339th. Medical Detachment.</corpname>
-        <subject source="lcsh" encodinganalog="650">World War, 1914-1918.</subject>
-        <subject source="local" encodinganalog="690" authfilenumber="http://id.loc.gov/authorities/names/n2008059426">Polar Bear Expedition.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5712">World War, 1914-1918.</subject>
+        <subject source="local" encodinganalog="690" authfilenumber="http://id.loc.gov/authorities/names/n2008059426" ref="/subjects/3518">Polar Bear Expedition.</subject>
       </controlaccess>
       <controlaccess>
         <head>Genre/Form:</head>
-        <genreform source="aat" encodinganalog="655">Diaries.</genreform>
-        <genreform source="aat" encodinganalog="655">Medals.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3150">Diaries.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3358">Medals.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -102,12 +102,12 @@
         </did>
         <c02 level="file">
           <did>
-            <container type="folder" label="Folder">1</container>
+            <container type="folder" label="Folder [663063441797497062433]" altrender="folder">1</container>
             <unittitle>Travel log, July 14, 1918-July 12, 1919 and Polar Bear reunion medal, 1922</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">35 digital files</extent>
             </physdesc>
-            <dao show="new" actuate="onrequest" href="russell0001">
+            <dao show="new" actuate="onRequest" href="russell0001" ref="/repositories/2/digital_objects/8762">
               <daodesc>
                 <p>[view items]</p>
               </daodesc>
@@ -119,7 +119,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="folder" label="Folder">2</container>
+            <container type="folder" label="Folder [752730478564822756]" altrender="folder">2</container>
             <unittitle>Debriefing report</unittitle>
           </did>
           <odd>

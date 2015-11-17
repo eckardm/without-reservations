@@ -31,7 +31,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Lucille H. McCollough papers, 1955-1989</titleproper>
       <author>Finding aid created by <lb/>Cherie Edmonds, June 2013, Christopher Schunter, July 2014</author>
     </titlepage>
@@ -41,7 +41,9 @@
       <origination>
         <persname source="lcnaf" encodinganalog="100">McCollough, Lucille H.</persname>
       </origination>
-      <unittitle encodinganalog="245">Lucille H. McCollough papers <unitdate type="inclusive" encodinganalog="245$f" normal="1955/1989">1955-1989</unitdate>, <unitdate type="bulk" encodinganalog="245$g" normal="1965/1982">1965-1982</unitdate></unittitle>
+      <unittitle encodinganalog="245">Lucille H. McCollough papers</unittitle>
+      <unitdate type="inclusive" encodinganalog="245$f" normal="1955/1989">1955-1989</unitdate>
+      <unitdate type="bulk" encodinganalog="245$g" normal="1965/1982">1965-1982</unitdate>
       <unitid encodinganalog="852$h" repositorycode="MiU-H" countrycode="us" type="call number">2013075 Aa 2 Ac</unitid>
       <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language></langmaterial>
       <abstract>Lucille H. McCollough was a Democratic State Representative for the Michigan House of Representatives representing the 16th District (Wayne County) from 1954 to 1964, and the 31st District (Wayne County) from 1964 to 1982. McCollough's papers comprise her legislative work and involvement with issues surrounding education, senior citizens, and property taxes. Collection also highlights many other bills she introduced, her campaign efforts with her son, Senator Patrick McCollough, and her relationships with her constituents.</abstract>
@@ -93,16 +95,16 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
         <persname source="lcnaf" encodinganalog="600">McCollough, Lucille H.</persname>
         <persname source="lcnaf" encodinganalog="600">McCollough, Patrick H.</persname>
         <corpname source="lcnaf" encodinganalog="610">Michigan. Legislature. House of Representatives.</corpname>
-        <subject source="lcsh" encodinganalog="650">Home ownership--Law and legislation--Michigan.</subject>
-        <subject source="lcsh" encodinganalog="650">Legislators--Michigan.</subject>
-        <subject source="lcsh" encodinganalog="650">Mental health laws--Michigan.</subject>
-        <subject source="lcsh" encodinganalog="650">Older people--Law and legislation--Michigan.</subject>
-        <subject source="lcsh" encodinganalog="650">Women politicians--Michigan.</subject>
-        <subject source="lcsh" encodinganalog="650">Special education--Law and legislation--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/8969">Home ownership--Law and legislation--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6219">Legislators--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6445">Mental health laws--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/8970">Older people--Law and legislation--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/8971">Women politicians--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6224">Special education--Law and legislation--Michigan.</subject>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -120,7 +122,7 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [916654240887593495528]" altrender="box">1</container>
               <unittitle>Essays, newspaper clippings</unittitle>
             </did>
           </c03>
@@ -133,7 +135,7 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [916654240887593495528]" altrender="box">1</container>
               <unittitle>Correspondence</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">22 folders</extent>
@@ -152,7 +154,7 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [916654240887593495528]" altrender="box">1</container>
               <unittitle>Correspondence</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">20 folders</extent>
@@ -171,7 +173,7 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [916654240887593495528]" altrender="box">1</container>
               <unittitle>Correspondence</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">18 folders</extent>
@@ -183,19 +185,19 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [916654240887593495528]" altrender="box">1</container>
               <unittitle>Appreciation letters</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [916654240887593495528]" altrender="box">1</container>
               <unittitle>Bills signed</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [916654240887593495528]" altrender="box">1</container>
               <unittitle>University of Michigan</unittitle>
             </did>
             <odd>
@@ -211,7 +213,7 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [916654240887593495528]" altrender="box">1</container>
               <unittitle>Correspondence</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">19 folders</extent>
@@ -223,19 +225,19 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [916654240887593495528]" altrender="box">1</container>
               <unittitle>Appreciation letters</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [48013343880481932447]" altrender="box">2</container>
               <unittitle>Bills introduced</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [48013343880481932447]" altrender="box">2</container>
               <unittitle>Boys Vocational School</unittitle>
             </did>
             <odd>
@@ -244,7 +246,7 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [48013343880481932447]" altrender="box">2</container>
               <unittitle>Dogs</unittitle>
             </did>
             <odd>
@@ -253,7 +255,7 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [48013343880481932447]" altrender="box">2</container>
               <unittitle>Fish</unittitle>
             </did>
             <odd>
@@ -262,7 +264,7 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [48013343880481932447]" altrender="box">2</container>
               <unittitle><title render="italic">Public Employee Press</title>, Volume 2, No. 2, <unitdate type="inclusive" normal="1958-03-07">March 7, 1958</unitdate></unittitle>
             </did>
           </c03>
@@ -275,7 +277,7 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [48013343880481932447]" altrender="box">2</container>
               <unittitle>Correspondence</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">21 folders</extent>
@@ -287,7 +289,7 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [48013343880481932447]" altrender="box">2</container>
               <unittitle>Scooter <unitdate type="inclusive" normal="1957/1960">1957-1960</unitdate> <unitdate type="bulk" normal="1958">1958</unitdate></unittitle>
             </did>
             <odd>
@@ -296,7 +298,7 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [48013343880481932447]" altrender="box">2</container>
               <unittitle>Scooter Bill</unittitle>
             </did>
             <odd>
@@ -305,7 +307,7 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [48013343880481932447]" altrender="box">2</container>
               <unittitle>Visitors</unittitle>
             </did>
           </c03>
@@ -318,7 +320,7 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [48013343880481932447]" altrender="box">2</container>
               <unittitle>Correspondence</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">18 folders</extent>
@@ -330,13 +332,13 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [48013343880481932447]" altrender="box">2</container>
               <unittitle>Bills Introduced</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [48013343880481932447]" altrender="box">2</container>
               <unittitle>Michigan, My Michigan -- State Song</unittitle>
             </did>
             <odd>
@@ -352,7 +354,7 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [444557104681771823]" altrender="box">3</container>
               <unittitle>Correspondence</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">21 folders</extent>
@@ -368,7 +370,7 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [444557104681771823]" altrender="box">3</container>
                 <unittitle>Children -- mentally ill <unitdate type="inclusive" normal="1957">1957</unitdate></unittitle>
               </did>
               <odd>
@@ -377,13 +379,13 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [444557104681771823]" altrender="box">3</container>
                 <unittitle>Department of Mental Health Publications <unitdate type="inclusive" normal="1960/1962">1960-1962</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [444557104681771823]" altrender="box">3</container>
                 <unittitle>General <unitdate type="inclusive" normal="1961/1962">1961-1962</unitdate></unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -395,7 +397,7 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [444557104681771823]" altrender="box">3</container>
                 <unittitle>House Bill No. 351 <unitdate type="inclusive" normal="1960">1960</unitdate></unittitle>
               </did>
               <odd>
@@ -404,7 +406,7 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [444557104681771823]" altrender="box">3</container>
                 <unittitle>State mental hospitals</unittitle>
               </did>
             </c04>
@@ -418,7 +420,7 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">9</container>
+              <container type="box" label="Box [5497305941771322362]" altrender="box">9</container>
               <unittitle>Correspondence</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">23 folders</extent>
@@ -430,25 +432,25 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">9</container>
+              <container type="box" label="Box [5497305941771322362]" altrender="box">9</container>
               <unittitle>Election-Primary</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">9</container>
+              <container type="box" label="Box [5497305941771322362]" altrender="box">9</container>
               <unittitle>Fox Bounty</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">9</container>
+              <container type="box" label="Box [5497305941771322362]" altrender="box">9</container>
               <unittitle>Homestead Tax Exemption</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">9</container>
+              <container type="box" label="Box [5497305941771322362]" altrender="box">9</container>
               <unittitle>House Bill No. 431</unittitle>
             </did>
           </c03>
@@ -461,7 +463,7 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [444557104681771823]" altrender="box">3</container>
               <unittitle>Correspondence, A-M</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">11 folders</extent>
@@ -470,7 +472,7 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [39015488249619062708082419]" altrender="box">4</container>
               <unittitle>Correspondence, N-Z</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">8 folders</extent>
@@ -479,19 +481,19 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [39015488249619062708082419]" altrender="box">4</container>
               <unittitle>Visitors</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">9</container>
+              <container type="box" label="Box [5497305941771322362]" altrender="box">9</container>
               <unittitle>Aging Commission</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">9</container>
+              <container type="box" label="Box [5497305941771322362]" altrender="box">9</container>
               <unittitle>Amish</unittitle>
             </did>
           </c03>
@@ -501,7 +503,7 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">9</container>
+                <container type="box" label="Box [5497305941771322362]" altrender="box">9</container>
                 <unittitle>2001 "The McCollough Bill"</unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -513,20 +515,20 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">9</container>
+                <container type="box" label="Box [5497305941771322362]" altrender="box">9</container>
                 <unittitle>2419</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">9</container>
+                <container type="box" label="Box [5497305941771322362]" altrender="box">9</container>
                 <unittitle>3036</unittitle>
               </did>
             </c04>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">15</container>
+              <container type="box" label="Box [589681859449887114785896]" altrender="box">15</container>
               <unittitle>Social Aid and Welfare</unittitle>
             </did>
           </c03>
@@ -543,32 +545,32 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [39015488249619062708082419]" altrender="box">4</container>
                 <unittitle>General</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [39015488249619062708082419]" altrender="box">4</container>
                 <unittitle>To answer</unittitle>
               </did>
             </c04>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [39015488249619062708082419]" altrender="box">4</container>
               <unittitle>Conservation</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [39015488249619062708082419]" altrender="box">4</container>
               <unittitle>Education</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [39015488249619062708082419]" altrender="box">4</container>
               <unittitle>Home Owners <unitdate type="inclusive" normal="1963/1966">1963-1966</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -580,25 +582,25 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [39015488249619062708082419]" altrender="box">4</container>
               <unittitle>Merger -- reorganization of School Districts</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [39015488249619062708082419]" altrender="box">4</container>
               <unittitle>Minimum Pensions</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [39015488249619062708082419]" altrender="box">4</container>
               <unittitle>Press Releases <unitdate type="inclusive" normal="1964/1966">1964-1966</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [39015488249619062708082419]" altrender="box">4</container>
               <unittitle>Safety</unittitle>
             </did>
           </c03>
@@ -608,38 +610,38 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [39015488249619062708082419]" altrender="box">4</container>
                 <unittitle>272</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [39015488249619062708082419]" altrender="box">4</container>
                 <unittitle>780</unittitle>
               </did>
             </c04>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [39015488249619062708082419]" altrender="box">4</container>
               <unittitle>Senior Citizens <unitdate type="inclusive" normal="1964/1966">1964-1966</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [39015488249619062708082419]" altrender="box">4</container>
               <unittitle>Veterans</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">15</container>
+              <container type="box" label="Box [589681859449887114785896]" altrender="box">15</container>
               <unittitle>House Bill No. 2268</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">15</container>
+              <container type="box" label="Box [589681859449887114785896]" altrender="box">15</container>
               <unittitle>Retirement</unittitle>
             </did>
           </c03>
@@ -656,7 +658,7 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [39015488249619062708082419]" altrender="box">4</container>
                 <unittitle>General</unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">17 folders</extent>
@@ -668,13 +670,13 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [39015488249619062708082419]" altrender="box">4</container>
                 <unittitle>To answer</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">5</container>
+                <container type="box" label="Box [9979184927866829196]" altrender="box">5</container>
                 <unittitle>Unsorted</unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -684,25 +686,25 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [9979184927866829196]" altrender="box">5</container>
               <unittitle>18 year old vote</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [9979184927866829196]" altrender="box">5</container>
               <unittitle>Bills</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [9979184927866829196]" altrender="box">5</container>
               <unittitle>County Home Rule</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [9979184927866829196]" altrender="box">5</container>
               <unittitle>Daycare</unittitle>
             </did>
           </c03>
@@ -712,25 +714,25 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">5</container>
+                <container type="box" label="Box [9979184927866829196]" altrender="box">5</container>
                 <unittitle>General</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">5</container>
+                <container type="box" label="Box [9979184927866829196]" altrender="box">5</container>
                 <unittitle>Bills</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">5</container>
+                <container type="box" label="Box [9979184927866829196]" altrender="box">5</container>
                 <unittitle>Detroit schools</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">5</container>
+                <container type="box" label="Box [9979184927866829196]" altrender="box">5</container>
                 <unittitle>Senate Bill No. 780</unittitle>
               </did>
               <odd>
@@ -740,7 +742,7 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [9979184927866829196]" altrender="box">5</container>
               <unittitle>Endorsement requests</unittitle>
             </did>
             <odd>
@@ -753,25 +755,25 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">5</container>
+                <container type="box" label="Box [9979184927866829196]" altrender="box">5</container>
                 <unittitle>2550</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">5</container>
+                <container type="box" label="Box [9979184927866829196]" altrender="box">5</container>
                 <unittitle>3327</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">5</container>
+                <container type="box" label="Box [9979184927866829196]" altrender="box">5</container>
                 <unittitle>2712 and 3381</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">5</container>
+                <container type="box" label="Box [9979184927866829196]" altrender="box">5</container>
                 <unittitle>4025</unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -781,7 +783,7 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [9979184927866829196]" altrender="box">5</container>
               <unittitle>Kloster, Alexander J.</unittitle>
             </did>
             <odd>
@@ -790,19 +792,19 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [9979184927866829196]" altrender="box">5</container>
               <unittitle>Legislation</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [9979184927866829196]" altrender="box">5</container>
               <unittitle>Legislative American Federation of Labor and Congress of Industrial Organizations (AFL-CIO)</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [9979184927866829196]" altrender="box">5</container>
               <unittitle>McCollough Act</unittitle>
             </did>
             <odd>
@@ -811,19 +813,19 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [9979184927866829196]" altrender="box">5</container>
               <unittitle>Millennial celebration of the Freemasons</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [9979184927866829196]" altrender="box">5</container>
               <unittitle>Mental health</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [9979184927866829196]" altrender="box">5</container>
               <unittitle>P. Groups</unittitle>
             </did>
             <odd>
@@ -832,43 +834,43 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [9979184927866829196]" altrender="box">5</container>
               <unittitle>Pay Raise</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [9979184927866829196]" altrender="box">5</container>
               <unittitle>Retirement -- House Bill No. 2160</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [9979184927866829196]" altrender="box">5</container>
               <unittitle>School Merger</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [9979184927866829196]" altrender="box">5</container>
               <unittitle>Social Aid and Welfare</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [9979184927866829196]" altrender="box">5</container>
               <unittitle>Taxes</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [9979184927866829196]" altrender="box">5</container>
               <unittitle>Veterans</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">15</container>
+              <container type="box" label="Box [589681859449887114785896]" altrender="box">15</container>
               <unittitle>Schools</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -884,7 +886,7 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">9</container>
+              <container type="box" label="Box [5497305941771322362]" altrender="box">9</container>
               <unittitle>Correspondence</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">22 folders</extent>
@@ -896,13 +898,13 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">9</container>
+              <container type="box" label="Box [5497305941771322362]" altrender="box">9</container>
               <unittitle>Education</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">9</container>
+              <container type="box" label="Box [5497305941771322362]" altrender="box">9</container>
               <unittitle>Homestead Exemption</unittitle>
             </did>
           </c03>
@@ -912,44 +914,44 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">9</container>
+                <container type="box" label="Box [5497305941771322362]" altrender="box">9</container>
                 <unittitle>2261</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">9</container>
+                <container type="box" label="Box [5497305941771322362]" altrender="box">9</container>
                 <unittitle>2525</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">9</container>
+                <container type="box" label="Box [5497305941771322362]" altrender="box">9</container>
                 <unittitle>2544 Senate Bill No. 745</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">9</container>
+                <container type="box" label="Box [5497305941771322362]" altrender="box">9</container>
                 <unittitle>3254</unittitle>
               </did>
             </c04>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">10</container>
+              <container type="box" label="Box [0006514219413741519722]" altrender="box">10</container>
               <unittitle>Press Releases</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">10</container>
+              <container type="box" label="Box [0006514219413741519722]" altrender="box">10</container>
               <unittitle>Roads</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">10</container>
+              <container type="box" label="Box [0006514219413741519722]" altrender="box">10</container>
               <unittitle>Senate Bill No. 1</unittitle>
             </did>
           </c03>
@@ -962,7 +964,7 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">10</container>
+              <container type="box" label="Box [0006514219413741519722]" altrender="box">10</container>
               <unittitle>Correspondence, A-T</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">22 folders</extent>
@@ -971,7 +973,7 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">11</container>
+              <container type="box" label="Box [3692604044994673650808]" altrender="box">11</container>
               <unittitle>Correspondence, U-Z</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">5 folders</extent>
@@ -980,13 +982,13 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">11</container>
+              <container type="box" label="Box [3692604044994673650808]" altrender="box">11</container>
               <unittitle>Abortion</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">11</container>
+              <container type="box" label="Box [3692604044994673650808]" altrender="box">11</container>
               <unittitle>Community Colleges</unittitle>
             </did>
           </c03>
@@ -996,7 +998,7 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">11</container>
+                <container type="box" label="Box [3692604044994673650808]" altrender="box">11</container>
                 <unittitle>General</unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -1005,20 +1007,20 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">11</container>
+                <container type="box" label="Box [3692604044994673650808]" altrender="box">11</container>
                 <unittitle>Press Releases</unittitle>
               </did>
             </c04>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">11</container>
+              <container type="box" label="Box [3692604044994673650808]" altrender="box">11</container>
               <unittitle>Election</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">11</container>
+              <container type="box" label="Box [3692604044994673650808]" altrender="box">11</container>
               <unittitle>Endorsements</unittitle>
             </did>
           </c03>
@@ -1028,25 +1030,25 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">11</container>
+                <container type="box" label="Box [3692604044994673650808]" altrender="box">11</container>
                 <unittitle>2001</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">11</container>
+                <container type="box" label="Box [3692604044994673650808]" altrender="box">11</container>
                 <unittitle>2014</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">11</container>
+                <container type="box" label="Box [3692604044994673650808]" altrender="box">11</container>
                 <unittitle>2080</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">11</container>
+                <container type="box" label="Box [3692604044994673650808]" altrender="box">11</container>
                 <unittitle>2117</unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -1055,56 +1057,56 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">11</container>
+                <container type="box" label="Box [3692604044994673650808]" altrender="box">11</container>
                 <unittitle>2231</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">11</container>
+                <container type="box" label="Box [3692604044994673650808]" altrender="box">11</container>
                 <unittitle>2826</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">11</container>
+                <container type="box" label="Box [3692604044994673650808]" altrender="box">11</container>
                 <unittitle>2961</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">11</container>
+                <container type="box" label="Box [3692604044994673650808]" altrender="box">11</container>
                 <unittitle>2995</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">11</container>
+                <container type="box" label="Box [3692604044994673650808]" altrender="box">11</container>
                 <unittitle>3976</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">11</container>
+                <container type="box" label="Box [3692604044994673650808]" altrender="box">11</container>
                 <unittitle>4029</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">11</container>
+                <container type="box" label="Box [3692604044994673650808]" altrender="box">11</container>
                 <unittitle>4139</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">11</container>
+                <container type="box" label="Box [3692604044994673650808]" altrender="box">11</container>
                 <unittitle>4235</unittitle>
               </did>
             </c04>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">11</container>
+              <container type="box" label="Box [3692604044994673650808]" altrender="box">11</container>
               <unittitle>School Districting</unittitle>
             </did>
           </c03>
@@ -1114,32 +1116,32 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">11</container>
+                <container type="box" label="Box [3692604044994673650808]" altrender="box">11</container>
                 <unittitle>124</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">11</container>
+                <container type="box" label="Box [3692604044994673650808]" altrender="box">11</container>
                 <unittitle>1082, 1084</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">11</container>
+                <container type="box" label="Box [3692604044994673650808]" altrender="box">11</container>
                 <unittitle>1180</unittitle>
               </did>
             </c04>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">11</container>
+              <container type="box" label="Box [3692604044994673650808]" altrender="box">11</container>
               <unittitle>Sex Education</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">11</container>
+              <container type="box" label="Box [3692604044994673650808]" altrender="box">11</container>
               <unittitle>Special Education</unittitle>
             </did>
           </c03>
@@ -1152,7 +1154,7 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">11</container>
+              <container type="box" label="Box [3692604044994673650808]" altrender="box">11</container>
               <unittitle>Correspondence, A-M</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">12 folders</extent>
@@ -1161,7 +1163,7 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">12</container>
+              <container type="box" label="Box [6010249815139120]" altrender="box">12</container>
               <unittitle>Correspondence, N-Z</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">11 folders</extent>
@@ -1170,25 +1172,25 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">12</container>
+              <container type="box" label="Box [6010249815139120]" altrender="box">12</container>
               <unittitle>Abortion</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">12</container>
+              <container type="box" label="Box [6010249815139120]" altrender="box">12</container>
               <unittitle>Community Colleges-Henry Ford</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">12</container>
+              <container type="box" label="Box [6010249815139120]" altrender="box">12</container>
               <unittitle>Dearborn-City Offices</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">12</container>
+              <container type="box" label="Box [6010249815139120]" altrender="box">12</container>
               <unittitle>Drug Abuse</unittitle>
             </did>
           </c03>
@@ -1198,25 +1200,25 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">12</container>
+                <container type="box" label="Box [6010249815139120]" altrender="box">12</container>
                 <unittitle>Correspondence</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">12</container>
+                <container type="box" label="Box [6010249815139120]" altrender="box">12</container>
                 <unittitle>Lincoln Park</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">12</container>
+                <container type="box" label="Box [6010249815139120]" altrender="box">12</container>
                 <unittitle>Press Releases</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">12</container>
+                <container type="box" label="Box [6010249815139120]" altrender="box">12</container>
                 <unittitle>State School Aid</unittitle>
               </did>
             </c04>
@@ -1227,79 +1229,79 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">12</container>
+                <container type="box" label="Box [6010249815139120]" altrender="box">12</container>
                 <unittitle>4065</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">12</container>
+                <container type="box" label="Box [6010249815139120]" altrender="box">12</container>
                 <unittitle>4169</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">12</container>
+                <container type="box" label="Box [6010249815139120]" altrender="box">12</container>
                 <unittitle>4194</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">12</container>
+                <container type="box" label="Box [6010249815139120]" altrender="box">12</container>
                 <unittitle>4249</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">12</container>
+                <container type="box" label="Box [6010249815139120]" altrender="box">12</container>
                 <unittitle>4261</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">12</container>
+                <container type="box" label="Box [6010249815139120]" altrender="box">12</container>
                 <unittitle>4316</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">12</container>
+                <container type="box" label="Box [6010249815139120]" altrender="box">12</container>
                 <unittitle>4328</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">12</container>
+                <container type="box" label="Box [6010249815139120]" altrender="box">12</container>
                 <unittitle>4472</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">12</container>
+                <container type="box" label="Box [6010249815139120]" altrender="box">12</container>
                 <unittitle>4575</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">12</container>
+                <container type="box" label="Box [6010249815139120]" altrender="box">12</container>
                 <unittitle>5361</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">12</container>
+                <container type="box" label="Box [6010249815139120]" altrender="box">12</container>
                 <unittitle>5624</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">12</container>
+                <container type="box" label="Box [6010249815139120]" altrender="box">12</container>
                 <unittitle>5717</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">12</container>
+                <container type="box" label="Box [6010249815139120]" altrender="box">12</container>
                 <unittitle>5718</unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -1309,7 +1311,7 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">12</container>
+              <container type="box" label="Box [6010249815139120]" altrender="box">12</container>
               <unittitle>Press Releases</unittitle>
             </did>
           </c03>
@@ -1319,43 +1321,43 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">12</container>
+                <container type="box" label="Box [6010249815139120]" altrender="box">12</container>
                 <unittitle>210</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">12</container>
+                <container type="box" label="Box [6010249815139120]" altrender="box">12</container>
                 <unittitle>442</unittitle>
               </did>
             </c04>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">12</container>
+              <container type="box" label="Box [6010249815139120]" altrender="box">12</container>
               <unittitle>White House Conference on Aging</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">15</container>
+              <container type="box" label="Box [589681859449887114785896]" altrender="box">15</container>
               <unittitle>Compensatory Education Services</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">15</container>
+              <container type="box" label="Box [589681859449887114785896]" altrender="box">15</container>
               <unittitle>House Bills No.</unittitle>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">15</container>
+                <container type="box" label="Box [589681859449887114785896]" altrender="box">15</container>
                 <unittitle>4252</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">15</container>
+                <container type="box" label="Box [589681859449887114785896]" altrender="box">15</container>
                 <unittitle>4813</unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -1372,7 +1374,7 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">12</container>
+              <container type="box" label="Box [6010249815139120]" altrender="box">12</container>
               <unittitle>Correspondence, M-O</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -1381,7 +1383,7 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">13</container>
+              <container type="box" label="Box [06849321148327984325]" altrender="box">13</container>
               <unittitle>Correspondence, P-Z</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">8 folders</extent>
@@ -1390,13 +1392,13 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">13</container>
+              <container type="box" label="Box [06849321148327984325]" altrender="box">13</container>
               <unittitle>Equal Rights Amendment</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">13</container>
+              <container type="box" label="Box [06849321148327984325]" altrender="box">13</container>
               <unittitle>General Pulaski Day</unittitle>
             </did>
           </c03>
@@ -1406,7 +1408,7 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">13</container>
+                <container type="box" label="Box [06849321148327984325]" altrender="box">13</container>
                 <unittitle>4002</unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -1415,68 +1417,68 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">13</container>
+                <container type="box" label="Box [06849321148327984325]" altrender="box">13</container>
                 <unittitle>4199</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">13</container>
+                <container type="box" label="Box [06849321148327984325]" altrender="box">13</container>
                 <unittitle>5706, 5707</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">13</container>
+                <container type="box" label="Box [06849321148327984325]" altrender="box">13</container>
                 <unittitle>6001</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">13</container>
+                <container type="box" label="Box [06849321148327984325]" altrender="box">13</container>
                 <unittitle>6078</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">13</container>
+                <container type="box" label="Box [06849321148327984325]" altrender="box">13</container>
                 <unittitle>6087, 6119</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">13</container>
+                <container type="box" label="Box [06849321148327984325]" altrender="box">13</container>
                 <unittitle>6213</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">13</container>
+                <container type="box" label="Box [06849321148327984325]" altrender="box">13</container>
                 <unittitle>6222</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">13</container>
+                <container type="box" label="Box [06849321148327984325]" altrender="box">13</container>
                 <unittitle>6273</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">13</container>
+                <container type="box" label="Box [06849321148327984325]" altrender="box">13</container>
                 <unittitle>6366</unittitle>
               </did>
             </c04>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">13</container>
+              <container type="box" label="Box [06849321148327984325]" altrender="box">13</container>
               <unittitle>Press Releases</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">13</container>
+              <container type="box" label="Box [06849321148327984325]" altrender="box">13</container>
               <unittitle>School Aid</unittitle>
             </did>
           </c03>
@@ -1486,25 +1488,25 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">13</container>
+                <container type="box" label="Box [06849321148327984325]" altrender="box">13</container>
                 <unittitle>699</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">13</container>
+                <container type="box" label="Box [06849321148327984325]" altrender="box">13</container>
                 <unittitle>1106</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">13</container>
+                <container type="box" label="Box [06849321148327984325]" altrender="box">13</container>
                 <unittitle>1109</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">13</container>
+                <container type="box" label="Box [06849321148327984325]" altrender="box">13</container>
                 <unittitle>1181</unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -1514,19 +1516,19 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">13</container>
+              <container type="box" label="Box [06849321148327984325]" altrender="box">13</container>
               <unittitle>Welfare</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">15</container>
+              <container type="box" label="Box [589681859449887114785896]" altrender="box">15</container>
               <unittitle>Education Committee</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">15</container>
+              <container type="box" label="Box [589681859449887114785896]" altrender="box">15</container>
               <unittitle>Probate Law Revision</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -1542,7 +1544,7 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">13</container>
+              <container type="box" label="Box [06849321148327984325]" altrender="box">13</container>
               <unittitle>Correspondence, A-C</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">4 folders</extent>
@@ -1551,7 +1553,7 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">14</container>
+              <container type="box" label="Box [5888896924495064481109]" altrender="box">14</container>
               <unittitle>Correspondence, D-M</unittitle>
             </did>
             <odd>
@@ -1560,31 +1562,31 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">14</container>
+              <container type="box" label="Box [5888896924495064481109]" altrender="box">14</container>
               <unittitle>Anderson, Loren</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">14</container>
+              <container type="box" label="Box [5888896924495064481109]" altrender="box">14</container>
               <unittitle>Crisis Meeting, Department of Education</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">14</container>
+              <container type="box" label="Box [5888896924495064481109]" altrender="box">14</container>
               <unittitle>Dearborn Federation of Teachers</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">14</container>
+              <container type="box" label="Box [5888896924495064481109]" altrender="box">14</container>
               <unittitle>Detroit Schools</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">14</container>
+              <container type="box" label="Box [5888896924495064481109]" altrender="box">14</container>
               <unittitle>Governor-Appropriations</unittitle>
             </did>
           </c03>
@@ -1594,26 +1596,26 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">14</container>
+                <container type="box" label="Box [5888896924495064481109]" altrender="box">14</container>
                 <unittitle>5101</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">14</container>
+                <container type="box" label="Box [5888896924495064481109]" altrender="box">14</container>
                 <unittitle>5266</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">14</container>
+                <container type="box" label="Box [5888896924495064481109]" altrender="box">14</container>
                 <unittitle>5988</unittitle>
               </did>
             </c04>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">14</container>
+              <container type="box" label="Box [5888896924495064481109]" altrender="box">14</container>
               <unittitle>Press Releases</unittitle>
             </did>
           </c03>
@@ -1623,13 +1625,13 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">14</container>
+                <container type="box" label="Box [5888896924495064481109]" altrender="box">14</container>
                 <unittitle>Dearborn</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">14</container>
+                <container type="box" label="Box [5888896924495064481109]" altrender="box">14</container>
                 <unittitle>General</unittitle>
               </did>
             </c04>
@@ -1640,26 +1642,26 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">14</container>
+                <container type="box" label="Box [5888896924495064481109]" altrender="box">14</container>
                 <unittitle>139</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">14</container>
+                <container type="box" label="Box [5888896924495064481109]" altrender="box">14</container>
                 <unittitle>141</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">14</container>
+                <container type="box" label="Box [5888896924495064481109]" altrender="box">14</container>
                 <unittitle>264</unittitle>
               </did>
             </c04>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">15</container>
+              <container type="box" label="Box [589681859449887114785896]" altrender="box">15</container>
               <unittitle>School Aid Materials</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -1672,7 +1674,7 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">15</container>
+                <container type="box" label="Box [589681859449887114785896]" altrender="box">15</container>
                 <unittitle>110</unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -1682,7 +1684,7 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">15</container>
+              <container type="box" label="Box [589681859449887114785896]" altrender="box">15</container>
               <unittitle>Special Education</unittitle>
             </did>
           </c03>
@@ -1695,7 +1697,7 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [9979184927866829196]" altrender="box">5</container>
               <unittitle>Election <unitdate type="inclusive" normal="1976/1979">1976-1979</unitdate></unittitle>
             </did>
             <odd>
@@ -1704,7 +1706,7 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [9979184927866829196]" altrender="box">5</container>
               <unittitle>Press releases <unitdate type="inclusive" normal="1977/1979">1977-1979</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -1716,7 +1718,7 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [509393256847299630565117]" altrender="box">6</container>
               <unittitle>Senate Bill No. 122 -- School Employees Retirement <unitdate type="inclusive" normal="1975/1977">1975-1977</unitdate> (mostly 1976)</unittitle>
             </did>
           </c03>
@@ -1726,7 +1728,7 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">6</container>
+                <container type="box" label="Box [509393256847299630565117]" altrender="box">6</container>
                 <unittitle>General <unitdate type="inclusive" normal="1977/1978">1977-1978</unitdate></unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -1735,56 +1737,56 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">6</container>
+                <container type="box" label="Box [509393256847299630565117]" altrender="box">6</container>
                 <unittitle>Press Release -- House Bill No. 5153, <unitdate type="inclusive" normal="1979">1979</unitdate></unittitle>
               </did>
             </c04>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">14</container>
+              <container type="box" label="Box [5888896924495064481109]" altrender="box">14</container>
               <unittitle>House Bills No.</unittitle>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">14</container>
+                <container type="box" label="Box [5888896924495064481109]" altrender="box">14</container>
                 <unittitle>4013 <unitdate type="inclusive" normal="1979">1979</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">14</container>
+                <container type="box" label="Box [5888896924495064481109]" altrender="box">14</container>
                 <unittitle>4015 <unitdate type="inclusive" normal="1977/1978">1977-1978</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">14</container>
+                <container type="box" label="Box [5888896924495064481109]" altrender="box">14</container>
                 <unittitle>4016 <unitdate type="inclusive" normal="1977">1977</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">14</container>
+                <container type="box" label="Box [5888896924495064481109]" altrender="box">14</container>
                 <unittitle>4119 <unitdate type="inclusive" normal="1977">1977</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">14</container>
+                <container type="box" label="Box [5888896924495064481109]" altrender="box">14</container>
                 <unittitle>4562 <unitdate type="inclusive" normal="1977">1977</unitdate></unittitle>
               </did>
             </c04>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">14</container>
+              <container type="box" label="Box [5888896924495064481109]" altrender="box">14</container>
               <unittitle>Polybrominated Biphenyl (PBB) <unitdate type="inclusive" normal="1977/1978">1977-1978</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">14</container>
+              <container type="box" label="Box [5888896924495064481109]" altrender="box">14</container>
               <unittitle>School Aid <unitdate type="inclusive" normal="1978">1978</unitdate></unittitle>
             </did>
           </c03>
@@ -1801,7 +1803,7 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">6</container>
+                <container type="box" label="Box [509393256847299630565117]" altrender="box">6</container>
                 <unittitle><unitdate type="inclusive" normal="1980/1982">1980-1982</unitdate> A-L</unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">13 folders</extent>
@@ -1810,7 +1812,7 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">7</container>
+                <container type="box" label="Box [394909743384613792524]" altrender="box">7</container>
                 <unittitle><unitdate type="inclusive" normal="1980/1982">1980-1982</unitdate> M</unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -1819,7 +1821,7 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">7</container>
+                <container type="box" label="Box [394909743384613792524]" altrender="box">7</container>
                 <unittitle><unitdate type="inclusive" normal="1980/1982">1980-1982</unitdate> S</unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -1828,7 +1830,7 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">14</container>
+                <container type="box" label="Box [5888896924495064481109]" altrender="box">14</container>
                 <unittitle><unitdate type="inclusive" normal="1980/1982">1980-1982</unitdate> N-O</unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -1837,7 +1839,7 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">16</container>
+                <container type="box" label="Box [385827566464792322736347]" altrender="box">16</container>
                 <unittitle><unitdate type="inclusive" normal="1980/1982">1980-1982</unitdate> P-R</unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -1846,7 +1848,7 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">7</container>
+                <container type="box" label="Box [394909743384613792524]" altrender="box">7</container>
                 <unittitle>Senator Patrick McCollough <unitdate type="inclusive" normal="1983">1983</unitdate></unittitle>
               </did>
               <odd>
@@ -1856,7 +1858,7 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">7</container>
+              <container type="box" label="Box [394909743384613792524]" altrender="box">7</container>
               <unittitle>Abortion <unitdate type="inclusive" normal="1980/1982">1980-1982</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -1865,7 +1867,7 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">7</container>
+              <container type="box" label="Box [394909743384613792524]" altrender="box">7</container>
               <unittitle>Aging Commission <unitdate type="inclusive" normal="1981/1982">1981-1982</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -1874,7 +1876,7 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">7</container>
+              <container type="box" label="Box [394909743384613792524]" altrender="box">7</container>
               <unittitle>Arts <unitdate type="inclusive" normal="1980/1982">1980-1982</unitdate></unittitle>
             </did>
             <odd>
@@ -1883,13 +1885,13 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">7</container>
+              <container type="box" label="Box [394909743384613792524]" altrender="box">7</container>
               <unittitle>Commission on Services to the Aging -- Appointment <unitdate type="inclusive" normal="1984/1985">1984-1985</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">7</container>
+              <container type="box" label="Box [394909743384613792524]" altrender="box">7</container>
               <unittitle>Dearborn <unitdate type="inclusive" normal="1980/1982">1980-1982</unitdate></unittitle>
             </did>
           </c03>
@@ -1899,7 +1901,7 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">7</container>
+                <container type="box" label="Box [394909743384613792524]" altrender="box">7</container>
                 <unittitle>Campaigns <unitdate type="inclusive" normal="1980/1986">1980-1986</unitdate></unittitle>
               </did>
               <odd>
@@ -1908,32 +1910,32 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">7</container>
+                <container type="box" label="Box [394909743384613792524]" altrender="box">7</container>
                 <unittitle>Defeat <unitdate type="inclusive" normal="1982">1982</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">7</container>
+                <container type="box" label="Box [394909743384613792524]" altrender="box">7</container>
                 <unittitle>Re-election -- Endorsements and Congratulations <unitdate type="inclusive" normal="1980">1980</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">7</container>
+                <container type="box" label="Box [394909743384613792524]" altrender="box">7</container>
                 <unittitle>Withdrawal <unitdate type="inclusive" normal="1984">1984</unitdate></unittitle>
               </did>
             </c04>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">8</container>
+              <container type="box" label="Box [44525014418092945765885]" altrender="box">8</container>
               <unittitle>Gasohol <unitdate type="inclusive" normal="1980/1982">1980-1982</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">8</container>
+              <container type="box" label="Box [44525014418092945765885]" altrender="box">8</container>
               <unittitle>Gene Caesar-Education <unitdate type="inclusive" normal="1982">1982</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -1942,13 +1944,13 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">8</container>
+              <container type="box" label="Box [44525014418092945765885]" altrender="box">8</container>
               <unittitle>Guinness Record <unitdate type="inclusive" normal="1981/1982">1981-1982</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">8</container>
+              <container type="box" label="Box [44525014418092945765885]" altrender="box">8</container>
               <unittitle>Hollander House <unitdate type="inclusive" normal="1980/1982">1980-1982</unitdate></unittitle>
             </did>
             <odd>
@@ -1957,19 +1959,19 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">8</container>
+              <container type="box" label="Box [44525014418092945765885]" altrender="box">8</container>
               <unittitle>Legislature <unitdate type="inclusive" normal="1981/1982">1981-1982</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">8</container>
+              <container type="box" label="Box [44525014418092945765885]" altrender="box">8</container>
               <unittitle>Miscellaneous <unitdate type="inclusive" normal="1980/1989">1980-1989</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">8</container>
+              <container type="box" label="Box [44525014418092945765885]" altrender="box">8</container>
               <unittitle>Press Releases <unitdate type="inclusive" normal="1980/1982">1980-1982</unitdate></unittitle>
             </did>
             <odd>
@@ -1978,7 +1980,7 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">8</container>
+              <container type="box" label="Box [44525014418092945765885]" altrender="box">8</container>
               <unittitle>Reuter <unitdate type="inclusive" normal="1982">1982</unitdate></unittitle>
             </did>
             <odd>
@@ -2001,31 +2003,31 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">8</container>
+            <container type="box" label="Box [44525014418092945765885]" altrender="box">8</container>
             <unittitle>"Legislative Actions and Priorities" by Lucille McCollough <title render="italic">Michigan School Board Journal</title> Vol. 20 No. 10, <unitdate type="inclusive" normal="1973-12">December 1973</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">8</container>
+            <container type="box" label="Box [44525014418092945765885]" altrender="box">8</container>
             <unittitle>"The Legislature and the Schools (a Role too Often Overlooked)" by Lucille McCollough <title render="italic">Michigan PTA Bulletin</title>, <unitdate type="inclusive" normal="1978-11">November 1978</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">8</container>
+            <container type="box" label="Box [44525014418092945765885]" altrender="box">8</container>
             <unittitle>"The Mandatory Special Education Act-The Added Costs and Benefits of Special Education" by Lucille McCollough <title render="italic">Michigan School Board Journal</title> Vol. 23 No. 8, <unitdate type="inclusive" normal="1976-10">October 1976</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">8</container>
+            <container type="box" label="Box [44525014418092945765885]" altrender="box">8</container>
             <unittitle>Michigan House of Representatives press releases <unitdate type="inclusive" normal="1960/1979">1960-1979</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">8</container>
+            <container type="box" label="Box [44525014418092945765885]" altrender="box">8</container>
             <unittitle><title render="italic">Michigan Legislative Report</title>, <unitdate type="inclusive" normal="1970/1982">1970-1982</unitdate></unittitle>
           </did>
           <odd>
@@ -2046,26 +2048,26 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">8</container>
+              <container type="box" label="Box [44525014418092945765885]" altrender="box">8</container>
               <unittitle>Lucille McCollough <unitdate type="inclusive" normal="1968/1987">1968-1987</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">8</container>
+              <container type="box" label="Box [44525014418092945765885]" altrender="box">8</container>
               <unittitle>Lucille McCollough Achievements <unitdate type="inclusive" normal="1966/1985">1966-1985</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">8</container>
+              <container type="box" label="Box [44525014418092945765885]" altrender="box">8</container>
               <unittitle>Senator Patrick McCollough <unitdate type="inclusive" normal="1973/1987">1973-1987</unitdate></unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="folder" label="Oversize Folder">AC</container>
+            <container type="folder" label="Oversize Folder [1965844896421594003]" altrender="folder">AC</container>
             <unittitle>Campaign Memorabilia</unittitle>
           </did>
           <odd>
@@ -2082,7 +2084,7 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">16</container>
+            <container type="box" label="Box [385827566464792322736347]" altrender="box">16</container>
             <unittitle>
               <unitdate type="inclusive" normal="1950/1959" certainty="approximate">1950s</unitdate>
             </unittitle>
@@ -2090,7 +2092,7 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">16</container>
+            <container type="box" label="Box [385827566464792322736347]" altrender="box">16</container>
             <unittitle>
               <unitdate type="inclusive" normal="1961/1965">1961-1965</unitdate>
             </unittitle>
@@ -2098,7 +2100,7 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">16</container>
+            <container type="box" label="Box [385827566464792322736347]" altrender="box">16</container>
             <unittitle>
               <unitdate type="inclusive" normal="1967">1967</unitdate>
             </unittitle>
@@ -2106,7 +2108,7 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">16</container>
+            <container type="box" label="Box [385827566464792322736347]" altrender="box">16</container>
             <unittitle>
               <unitdate type="inclusive" normal="1968/1969">1968-1969</unitdate>
             </unittitle>
@@ -2114,7 +2116,7 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">16</container>
+            <container type="box" label="Box [385827566464792322736347]" altrender="box">16</container>
             <unittitle>
               <unitdate type="inclusive" normal="1970/1971">1970-1971</unitdate>
             </unittitle>
@@ -2122,7 +2124,7 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">16</container>
+            <container type="box" label="Box [385827566464792322736347]" altrender="box">16</container>
             <unittitle>
               <unitdate type="inclusive" normal="1973">1973</unitdate>
             </unittitle>
@@ -2130,7 +2132,7 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">16</container>
+            <container type="box" label="Box [385827566464792322736347]" altrender="box">16</container>
             <unittitle>
               <unitdate type="inclusive" normal="1976">1976</unitdate>
             </unittitle>
@@ -2138,7 +2140,7 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">16</container>
+            <container type="box" label="Box [385827566464792322736347]" altrender="box">16</container>
             <unittitle>
               <unitdate type="inclusive" normal="1977">1977</unitdate>
             </unittitle>
@@ -2146,7 +2148,7 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">16</container>
+            <container type="box" label="Box [385827566464792322736347]" altrender="box">16</container>
             <unittitle>
               <unitdate type="inclusive" normal="1978">1978</unitdate>
             </unittitle>
@@ -2154,7 +2156,7 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">16</container>
+            <container type="box" label="Box [385827566464792322736347]" altrender="box">16</container>
             <unittitle>
               <unitdate type="inclusive" normal="1979">1979</unitdate>
             </unittitle>
@@ -2162,7 +2164,7 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">16</container>
+            <container type="box" label="Box [385827566464792322736347]" altrender="box">16</container>
             <unittitle>
               <unitdate type="inclusive" normal="1980/1982">1980-1982</unitdate>
             </unittitle>
@@ -2170,7 +2172,7 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">16</container>
+            <container type="box" label="Box [385827566464792322736347]" altrender="box">16</container>
             <unittitle>
               <unitdate type="inclusive" normal="1986/1987">1986-1987</unitdate>
             </unittitle>
@@ -2178,7 +2180,7 @@ Lucille H. McCollough papers, Bentley Historical Library, University of Michigan
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">16</container>
+            <container type="box" label="Box [385827566464792322736347]" altrender="box">16</container>
             <unittitle>
               <unitdate type="inclusive">undated</unitdate>
             </unittitle>

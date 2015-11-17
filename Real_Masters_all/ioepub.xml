@@ -31,7 +31,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>University Archives and Records Program <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/2">University Archives and Records Program <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Department of Industrial and Operations Engineering <lb/>(University of Michigan) <lb/>records, 1957-2003</titleproper>
       <author>Finding aid created by <lb/>Marilyn M. McNitt, May 2003<lb/> and Devon Proudfoot, September 2015</author>
     </titlepage>
@@ -41,7 +41,9 @@
       <origination>
         <corpname source="lcnaf" encodinganalog="110">University of Michigan. Department of Industrial and Operations Engineering.</corpname>
       </origination>
-      <unittitle encodinganalog="245">Department of Industrial and Operations Engineering (University of Michigan) records <unitdate type="inclusive" encodinganalog="245$f" normal="1957/2003">1957-2003</unitdate>, <unitdate type="bulk" encodinganalog="245$g" normal="1985/2000">1985-2000</unitdate></unittitle>
+      <unittitle encodinganalog="245">Department of Industrial and Operations Engineering (University of Michigan) records</unittitle>
+      <unitdate type="inclusive" encodinganalog="245$f" normal="1957/2003">1957-2003</unitdate>
+      <unitdate type="bulk" encodinganalog="245$g" normal="1985/2000">1985-2000</unitdate>
       <physdesc altrender="whole">
         <extent altrender="materialtype spaceoccupied">5 linear feet</extent>
       </physdesc>
@@ -102,14 +104,14 @@ Department of Industrial and Operations Engineering (University of Michigan) rec
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Pamphlets.</genreform>
-        <genreform source="aat" encodinganalog="655">Bulletins.</genreform>
-        <genreform source="aat" encodinganalog="655">Manuals.</genreform>
-        <genreform source="aat" encodinganalog="655">Newsletters.</genreform>
-        <genreform source="aat" encodinganalog="655">Reports.</genreform>
-        <genreform source="aat" encodinganalog="655">School yearbooks.</genreform>
-        <genreform source="aat" encodinganalog="655">Directories.</genreform>
-        <genreform source="lcsh" encodinganalog="655">Student publications.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3152">Pamphlets.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3153">Bulletins.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3158">Manuals.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3157">Newsletters.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3155">Reports.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3297">School yearbooks.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3201">Directories.</genreform>
+        <genreform source="lcsh" encodinganalog="655" ref="/subjects/3438">Student publications.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -131,13 +133,13 @@ Department of Industrial and Operations Engineering (University of Michigan) rec
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [3597632644898817638550]" altrender="box">1</container>
                 <unittitle><title render="italic">Industrial and Operations Engineering</title>, <unitdate type="inclusive" normal="1972/1993">1972-1993</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [3597632644898817638550]" altrender="box">1</container>
                 <unittitle><title render="italic">Industrial Engineering</title>, <unitdate type="inclusive" normal="1957/1969">1957-1969</unitdate></unittitle>
               </did>
             </c04>
@@ -148,25 +150,29 @@ Department of Industrial and Operations Engineering (University of Michigan) rec
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
-                <unittitle><title render="italic">Graduate Programs in Industrial Engineering</title>, <unitdate type="inclusive" normal="1969">1969</unitdate>, <unitdate type="inclusive">undated</unitdate></unittitle>
+                <container type="box" label="Box [3597632644898817638550]" altrender="box">1</container>
+                <unittitle>
+                  <title render="italic">Graduate Programs in Industrial Engineering</title>
+                </unittitle>
+                <unitdate type="inclusive" normal="1969">1969</unitdate>
+                <unitdate type="inclusive">undated</unitdate>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [3597632644898817638550]" altrender="box">1</container>
                 <unittitle><title render="italic">Graduate Programs in Industrial and Operations Engineering</title>, <unitdate type="inclusive" normal="1973/1977">1973-1977</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [3597632644898817638550]" altrender="box">1</container>
                 <unittitle><title render="italic">Graduate Study and Research</title>, [1995]</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [3597632644898817638550]" altrender="box">1</container>
                 <unittitle><title render="italic">Graduate Study and Research in Industrial and Operations Engineering</title>, <unitdate type="inclusive">undated</unitdate></unittitle>
               </did>
             </c04>
@@ -177,13 +183,13 @@ Department of Industrial and Operations Engineering (University of Michigan) rec
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [3597632644898817638550]" altrender="box">1</container>
                 <unittitle><title render="italic">Alumni Biographical Data</title>, <unitdate type="inclusive" normal="1975">1975</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [3597632644898817638550]" altrender="box">1</container>
                 <unittitle>Faculty Activities <unitdate type="inclusive" normal="1987">1987</unitdate></unittitle>
               </did>
             </c04>
@@ -194,8 +200,12 @@ Department of Industrial and Operations Engineering (University of Michigan) rec
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
-                <unittitle><title render="italic">Graduate Programs in Industrial and Operations Engineering</title>, <unitdate type="inclusive" normal="1978/1979">1978-1979</unitdate>, <unitdate type="inclusive">undated</unitdate></unittitle>
+                <container type="box" label="Box [3597632644898817638550]" altrender="box">1</container>
+                <unittitle>
+                  <title render="italic">Graduate Programs in Industrial and Operations Engineering</title>
+                </unittitle>
+                <unitdate type="inclusive" normal="1978/1979">1978-1979</unitdate>
+                <unitdate type="inclusive">undated</unitdate>
               </did>
             </c04>
           </c03>
@@ -205,25 +215,29 @@ Department of Industrial and Operations Engineering (University of Michigan) rec
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [3597632644898817638550]" altrender="box">1</container>
                 <unittitle><title render="italic">Handbook for Graduate Students</title>, <unitdate type="inclusive" normal="1977">1977</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
-                <unittitle><title render="italic">Undergraduate Student Guide</title>, <unitdate type="inclusive" normal="1980/1987">1980-1987</unitdate>, <unitdate type="inclusive" normal="1997/1998">1997-1998</unitdate></unittitle>
+                <container type="box" label="Box [3597632644898817638550]" altrender="box">1</container>
+                <unittitle>
+                  <title render="italic">Undergraduate Student Guide</title>
+                </unittitle>
+                <unitdate type="inclusive" normal="1980/1987">1980-1987</unitdate>
+                <unitdate type="inclusive" normal="1997/1998">1997-1998</unitdate>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [3597632644898817638550]" altrender="box">1</container>
                 <unittitle><title render="italic">Undergraduate Guide for Industrial and Operations Engineers</title>, <unitdate type="inclusive" normal="1991/1993">1991-1993</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [3597632644898817638550]" altrender="box">1</container>
                 <unittitle><title render="italic">Undergraduate Study Guide</title>, <unitdate type="inclusive" normal="1996">1996</unitdate></unittitle>
               </did>
             </c04>
@@ -240,7 +254,7 @@ Department of Industrial and Operations Engineering (University of Michigan) rec
               </did>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">1</container>
+                  <container type="box" label="Box [3597632644898817638550]" altrender="box">1</container>
                   <unittitle>
                     <unitdate type="inclusive" normal="1986">1986</unitdate>
                   </unittitle>
@@ -248,7 +262,7 @@ Department of Industrial and Operations Engineering (University of Michigan) rec
               </c05>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">1</container>
+                  <container type="box" label="Box [3597632644898817638550]" altrender="box">1</container>
                   <unittitle>
                     <unitdate type="inclusive" normal="1989">1989</unitdate>
                   </unittitle>
@@ -256,7 +270,7 @@ Department of Industrial and Operations Engineering (University of Michigan) rec
               </c05>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">1</container>
+                  <container type="box" label="Box [3597632644898817638550]" altrender="box">1</container>
                   <unittitle>
                     <unitdate type="inclusive" normal="1990/1991">1990-1991</unitdate>
                   </unittitle>
@@ -264,7 +278,7 @@ Department of Industrial and Operations Engineering (University of Michigan) rec
               </c05>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">1</container>
+                  <container type="box" label="Box [3597632644898817638550]" altrender="box">1</container>
                   <unittitle>
                     <unitdate type="inclusive" normal="1992/1993">1992-1993</unitdate>
                   </unittitle>
@@ -272,7 +286,7 @@ Department of Industrial and Operations Engineering (University of Michigan) rec
               </c05>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">1</container>
+                  <container type="box" label="Box [3597632644898817638550]" altrender="box">1</container>
                   <unittitle>
                     <unitdate type="inclusive" normal="1994/1995">1994-1995</unitdate>
                   </unittitle>
@@ -280,7 +294,7 @@ Department of Industrial and Operations Engineering (University of Michigan) rec
               </c05>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">1</container>
+                  <container type="box" label="Box [3597632644898817638550]" altrender="box">1</container>
                   <unittitle>
                     <unitdate type="inclusive" normal="1996">1996</unitdate>
                   </unittitle>
@@ -288,7 +302,7 @@ Department of Industrial and Operations Engineering (University of Michigan) rec
               </c05>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">1</container>
+                  <container type="box" label="Box [3597632644898817638550]" altrender="box">1</container>
                   <unittitle>
                     <unitdate type="inclusive" normal="1997">1997</unitdate>
                   </unittitle>
@@ -296,7 +310,7 @@ Department of Industrial and Operations Engineering (University of Michigan) rec
               </c05>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">1</container>
+                  <container type="box" label="Box [3597632644898817638550]" altrender="box">1</container>
                   <unittitle>
                     <unitdate type="inclusive" normal="1999">1999</unitdate>
                   </unittitle>
@@ -316,7 +330,7 @@ Department of Industrial and Operations Engineering (University of Michigan) rec
               </did>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">1</container>
+                  <container type="box" label="Box [3597632644898817638550]" altrender="box">1</container>
                   <unittitle>
                     <unitdate type="inclusive" normal="1977">1977</unitdate>
                   </unittitle>
@@ -324,7 +338,7 @@ Department of Industrial and Operations Engineering (University of Michigan) rec
               </c05>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">1</container>
+                  <container type="box" label="Box [3597632644898817638550]" altrender="box">1</container>
                   <unittitle>
                     <unitdate type="inclusive" normal="1981">1981</unitdate>
                   </unittitle>
@@ -332,7 +346,7 @@ Department of Industrial and Operations Engineering (University of Michigan) rec
               </c05>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">1</container>
+                  <container type="box" label="Box [3597632644898817638550]" altrender="box">1</container>
                   <unittitle>
                     <unitdate type="inclusive" normal="1986">1986</unitdate>
                   </unittitle>
@@ -341,13 +355,13 @@ Department of Industrial and Operations Engineering (University of Michigan) rec
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [3597632644898817638550]" altrender="box">1</container>
                 <unittitle><title render="italic">Network Models for Large-Scale Time-Sharing Systems</title>, <unitdate type="inclusive" normal="1971">1971</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [3597632644898817638550]" altrender="box">1</container>
                 <unittitle><title render="italic">Research Activities in Industrial and Operations Engineering</title>, <unitdate type="inclusive" normal="1981">1981</unitdate></unittitle>
               </did>
             </c04>
@@ -358,7 +372,7 @@ Department of Industrial and Operations Engineering (University of Michigan) rec
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [3597632644898817638550]" altrender="box">1</container>
                 <unittitle><title render="italic">Time Schedules</title>, <unitdate type="inclusive" normal="1986/1998">1986-1998</unitdate></unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -372,7 +386,7 @@ Department of Industrial and Operations Engineering (University of Michigan) rec
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [3597632644898817638550]" altrender="box">1</container>
                 <unittitle><title render="italic">Industrial Operations Engineering Yearbook</title>, <unitdate type="inclusive" normal="1994/2000">1994-2000</unitdate></unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">6 folders</extent>
@@ -387,7 +401,7 @@ Department of Industrial and Operations Engineering (University of Michigan) rec
               </did>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">1</container>
+                  <container type="box" label="Box [3597632644898817638550]" altrender="box">1</container>
                   <unittitle>
                     <unitdate type="inclusive" normal="1991/1992">1991-1992</unitdate>
                   </unittitle>
@@ -395,7 +409,7 @@ Department of Industrial and Operations Engineering (University of Michigan) rec
               </c05>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">1</container>
+                  <container type="box" label="Box [3597632644898817638550]" altrender="box">1</container>
                   <unittitle>
                     <unitdate type="inclusive" normal="1994">1994</unitdate>
                   </unittitle>
@@ -414,14 +428,17 @@ Department of Industrial and Operations Engineering (University of Michigan) rec
           </scopecontent>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [3597632644898817638550]" altrender="box">1</container>
               <unittitle>Academic Peer Counseling Office <unitdate type="inclusive" normal="1997">1997</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
-              <unittitle>Center for Occupational Health and Safety Engineering <unitdate type="inclusive" normal="1978/1979">1978-1979</unitdate>, <unitdate type="inclusive" normal="1996">1996</unitdate>, <unitdate type="inclusive">undated</unitdate></unittitle>
+              <container type="box" label="Box [3597632644898817638550]" altrender="box">1</container>
+              <unittitle>Center for Occupational Health and Safety Engineering</unittitle>
+              <unitdate type="inclusive" normal="1978/1979">1978-1979</unitdate>
+              <unitdate type="inclusive" normal="1996">1996</unitdate>
+              <unitdate type="inclusive">undated</unitdate>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">3 folders</extent>
               </physdesc>
@@ -429,20 +446,22 @@ Department of Industrial and Operations Engineering (University of Michigan) rec
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [3597632644898817638550]" altrender="box">1</container>
               <unittitle>Continuing Education Programs <unitdate type="inclusive" normal="1985">1985</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [3597632644898817638550]" altrender="box">1</container>
               <unittitle>Engineering Human Performance and Safety Laboratory <unitdate type="inclusive" normal="1974">1974</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
-              <unittitle>Program in Manufacturing Systems Engineering <unitdate type="inclusive" normal="1978/1979">1978-1979</unitdate>, <unitdate type="inclusive">undated</unitdate></unittitle>
+              <container type="box" label="Box [3597632644898817638550]" altrender="box">1</container>
+              <unittitle>Program in Manufacturing Systems Engineering</unittitle>
+              <unitdate type="inclusive" normal="1978/1979">1978-1979</unitdate>
+              <unitdate type="inclusive">undated</unitdate>
             </did>
           </c03>
         </c02>
@@ -459,8 +478,12 @@ Department of Industrial and Operations Engineering (University of Michigan) rec
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
-                <unittitle><title render="italic">The Rag</title>, <unitdate type="inclusive" normal="1988">1988</unitdate>, <unitdate type="inclusive" normal="1990/1991">1990-1991</unitdate></unittitle>
+                <container type="box" label="Box [3597632644898817638550]" altrender="box">1</container>
+                <unittitle>
+                  <title render="italic">The Rag</title>
+                </unittitle>
+                <unitdate type="inclusive" normal="1988">1988</unitdate>
+                <unitdate type="inclusive" normal="1990/1991">1990-1991</unitdate>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">2 folders</extent>
                 </physdesc>
@@ -468,7 +491,7 @@ Department of Industrial and Operations Engineering (University of Michigan) rec
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [3597632644898817638550]" altrender="box">1</container>
                 <unittitle><title render="italic">Industrial Blueprint</title> vol. 5-14, <unitdate type="inclusive" normal="1991/2003">1991-2003</unitdate></unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">12 folders</extent>
@@ -489,7 +512,7 @@ Department of Industrial and Operations Engineering (University of Michigan) rec
               </did>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">1</container>
+                  <container type="box" label="Box [3597632644898817638550]" altrender="box">1</container>
                   <unittitle>
                     <unitdate type="inclusive">undated</unitdate>
                   </unittitle>
@@ -508,7 +531,7 @@ Department of Industrial and Operations Engineering (University of Michigan) rec
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [980272746584536907356]" altrender="box">2</container>
             <unittitle>Chronological Files, <unitdate type="inclusive" normal="1978/1993">1978-1993</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent>7 folders</extent>
@@ -525,7 +548,7 @@ Department of Industrial and Operations Engineering (University of Michigan) rec
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [980272746584536907356]" altrender="box">2</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1974/1976">1974-1976</unitdate>
                 </unittitle>
@@ -536,7 +559,7 @@ Department of Industrial and Operations Engineering (University of Michigan) rec
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [980272746584536907356]" altrender="box">2</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1974/1976">1974-1976</unitdate>
                 </unittitle>
@@ -547,7 +570,7 @@ Department of Industrial and Operations Engineering (University of Michigan) rec
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [980272746584536907356]" altrender="box">2</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1979/1980">1979-1980</unitdate>
                 </unittitle>
@@ -556,7 +579,7 @@ Department of Industrial and Operations Engineering (University of Michigan) rec
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [980272746584536907356]" altrender="box">2</container>
               <unittitle>Financial Aid Committee, <unitdate type="inclusive" normal="1974/1976">1974-1976</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent>3 folders</extent>
@@ -565,7 +588,7 @@ Department of Industrial and Operations Engineering (University of Michigan) rec
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [980272746584536907356]" altrender="box">2</container>
               <unittitle>Admissions, Financial Aid, and Graduate Programs, <unitdate type="inclusive" normal="1976/1979">1976-1979</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent>3 folders</extent>
@@ -574,8 +597,10 @@ Department of Industrial and Operations Engineering (University of Michigan) rec
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
-              <unittitle>Ph.D. Committee, <unitdate type="inclusive" normal="1972">1972</unitdate>, <unitdate type="inclusive" normal="1974">1974</unitdate></unittitle>
+              <container type="box" label="Box [980272746584536907356]" altrender="box">2</container>
+              <unittitle>Ph.D. Committee</unittitle>
+              <unitdate type="inclusive" normal="1972">1972</unitdate>
+              <unitdate type="inclusive" normal="1974">1974</unitdate>
               <physdesc altrender="whole">
                 <extent>3 folders</extent>
               </physdesc>
@@ -583,13 +608,13 @@ Department of Industrial and Operations Engineering (University of Michigan) rec
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [980272746584536907356]" altrender="box">2</container>
               <unittitle>Rules of the Faculty of the College of Engineering</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [980272746584536907356]" altrender="box">2</container>
               <unittitle>Steering Review, <unitdate type="inclusive" normal="1968/1981">1968-1981</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent>26 folders</extent>
@@ -603,25 +628,27 @@ Department of Industrial and Operations Engineering (University of Michigan) rec
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
-              <unittitle>Presentations on conducting business with Japanese companies, <unitdate type="inclusive" normal="1985">1985</unitdate>, <unitdate type="inclusive" normal="1990/1992">1990-1992</unitdate> (4 binders)</unittitle>
+              <container type="box" label="Box [882667366748648502490458]" altrender="box">3</container>
+              <unittitle>Presentations on conducting business with Japanese companies, 1985, 1990-1992 (4 binders)</unittitle>
+              <unitdate type="inclusive" normal="1985">1985</unitdate>
+              <unitdate type="inclusive" normal="1990/1992">1990-1992</unitdate>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [921057796642823908397460]" altrender="box">4</container>
               <unittitle>Presentations on conducting business with Japanese companies, <unitdate type="inclusive" normal="1988">1988</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [921057796642823908397460]" altrender="box">4</container>
               <unittitle>Presentations on conducting business with Asian companies, <unitdate type="inclusive" normal="1988/1992">1988-1992</unitdate> (3 binders)</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [7304877244876752]" altrender="box">5</container>
               <unittitle>Presentations on conducting business with Chinese companies, <unitdate type="inclusive" normal="1990/1991">1990-1991</unitdate> (3 binders)</unittitle>
             </did>
           </c03>

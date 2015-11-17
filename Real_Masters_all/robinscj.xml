@@ -30,7 +30,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding Aid for <lb/>C. J. Robinson photograph collection, <date>1918</date></titleproper>
       <author>Finding aid prepared by: <lb/>Len Coombs</author>
     </titlepage>
@@ -85,14 +85,14 @@ original materials.</p>
         <head>Subjects - Visual Material:</head>
         <persname source="lcnaf" encodinganalog="600">Robinson, C. J.</persname>
         <corpname source="lcnaf" encodinganalog="610">Kalyan (Hospital ship)</corpname>
-        <subject source="lcsh" encodinganalog="650">Pierrot (Fictitious character)</subject>
-        <geogname source="lcnaf" encodinganalog="651">Soviet Union--History--Allied intervention, 1918-1920.</geogname>
-        <subject source="local" encodinganalog="690" authfilenumber="http://id.loc.gov/authorities/names/n2008059426">Polar Bear Expedition.</subject>
-        <subject source="lctgm" encodinganalog="650">Clowns.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/9896">Pierrot (Fictitious character)</subject>
+        <geogname source="lcnaf" encodinganalog="651" ref="/subjects/760">Soviet Union--History--Allied intervention, 1918-1920.</geogname>
+        <subject source="local" encodinganalog="690" authfilenumber="http://id.loc.gov/authorities/names/n2008059426" ref="/subjects/3518">Polar Bear Expedition.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3583">Clowns.</subject>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -102,12 +102,12 @@ original materials.</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="folder" label="Folder">1</container>
+            <container type="folder" label="Folder [0347771146841334718880]" altrender="folder">1</container>
             <unittitle>Photograph</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">1 digital files</extent>
             </physdesc>
-            <dao show="new" actuate="onrequest" href="robinson0001">
+            <dao show="new" actuate="onRequest" href="robinson0001" ref="/repositories/2/digital_objects/8757">
               <daodesc>
                 <p>[view items]</p>
               </daodesc>

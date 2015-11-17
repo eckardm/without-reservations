@@ -26,7 +26,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Frank Knox Papers, 1907-1910 and 1934-1938</titleproper>
       <author>Finding aid created by <lb/>Michigan Historical Collections staff</author>
     </titlepage>
@@ -36,7 +36,9 @@
       <origination>
         <persname source="lcnaf" encodinganalog="100">Knox, Frank, 1874-1944.</persname>
       </origination>
-      <unittitle encodinganalog="245">Frank Knox papers <unitdate type="inclusive" encodinganalog="245$f" normal="1907/1910">1907-1910</unitdate>, <unitdate type="inclusive" encodinganalog="245$f" normal="1934/1938">1934-1938</unitdate></unittitle>
+      <unittitle encodinganalog="245">Frank Knox papers</unittitle>
+      <unitdate type="inclusive" encodinganalog="245$f" normal="1907/1910">1907-1910</unitdate>
+      <unitdate type="inclusive" encodinganalog="245$f" normal="1934/1938">1934-1938</unitdate>
       <unitid encodinganalog="099" repositorycode="MiU-H" countrycode="us" type="call number">851630 Aa 2; Da Oversized</unitid>
       <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language></langmaterial>
       <abstract>Newspaper publisher, manager of Chase S. Osborn’s campaign for governor in 1910, vice presidential candidate in 1936. Correspondence, 1907-1910 and Addresses, 1934-1938.</abstract>
@@ -81,16 +83,16 @@ Frank Knox Papers
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <subject source="lcsh" encodinganalog="650">Elections--Michigan--1910.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6196">Elections--Michigan--1910.</subject>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n86111015">Landon, Alfred M. (Alfred Mossman), 1887-1987.</persname>
-        <geogname source="local" encodinganalog="691">Michigan--Politics and government--1899-1916.</geogname>
-        <geogname source="local" encodinganalog="691">Michigan--Politics and government--1929-1938.</geogname>
+        <geogname source="local" encodinganalog="691" ref="/subjects/806">Michigan--Politics and government--1899-1916.</geogname>
+        <geogname source="local" encodinganalog="691" ref="/subjects/803">Michigan--Politics and government--1929-1938.</geogname>
         <persname source="lcnaf" encodinganalog="600">Osborn, Chase S. (Chase Salmon), b. 1860.</persname>
-        <subject source="lcsh" encodinganalog="650">Presidents--United States--Election--1936.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6494">Presidents--United States--Election--1936.</subject>
         <corpname source="lcnaf" encodinganalog="610">Republican Party (Mich.)</corpname>
-        <geogname source="lcsh" encodinganalog="651">United States--Politics and government--1933-1945.</geogname>
-        <subject source="lcsh" encodinganalog="650">Governors--Michigan.</subject>
-        <geogname source="lcsh" encodinganalog="651">Michigan--Politics and government--1837-1950.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/965">United States--Politics and government--1933-1945.</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5929">Governors--Michigan.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/884">Michigan--Politics and government--1837-1950.</geogname>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -100,7 +102,7 @@ Frank Knox Papers
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [820620031432827139230768]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1907/1910-01">1907-January 1910</unitdate>
             </unittitle>
@@ -111,7 +113,7 @@ Frank Knox Papers
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [2301001043436780323062]" altrender="box">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1910-02/1910-03">February-March 1910</unitdate>
             </unittitle>
@@ -122,7 +124,7 @@ Frank Knox Papers
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [9570973220464173624850]" altrender="box">3</container>
             <unittitle>
               <unitdate type="inclusive" normal="1910-04/1910-06">April 1910-June 1910</unitdate>
             </unittitle>
@@ -133,7 +135,7 @@ Frank Knox Papers
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [727566240985249685053]" altrender="box">4</container>
             <unittitle>
               <unitdate type="inclusive" normal="1910-07">July 1910</unitdate>
             </unittitle>
@@ -144,7 +146,7 @@ Frank Knox Papers
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [3138845689540090537]" altrender="box">5</container>
             <unittitle>
               <unitdate type="inclusive" normal="1910-08">August 1910</unitdate>
             </unittitle>
@@ -155,7 +157,7 @@ Frank Knox Papers
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [1770874468430095051081]" altrender="box">6</container>
             <unittitle>
               <unitdate type="inclusive" normal="1910-09/1910-11">September 1910-November 1910</unitdate>
             </unittitle>
@@ -171,7 +173,7 @@ Frank Knox Papers
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [1770874468430095051081]" altrender="box">6</container>
             <unittitle>
               <unitdate type="inclusive" normal="1934-03">March 1934</unitdate>
             </unittitle>
@@ -179,7 +181,7 @@ Frank Knox Papers
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [1770874468430095051081]" altrender="box">6</container>
             <unittitle>
               <unitdate type="inclusive" normal="1935-06/1935-09">June-September 1935</unitdate>
             </unittitle>
@@ -187,7 +189,7 @@ Frank Knox Papers
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [1770874468430095051081]" altrender="box">6</container>
             <unittitle>
               <unitdate type="inclusive" normal="1935-10/1935-12">October-December 1935</unitdate>
             </unittitle>
@@ -195,7 +197,7 @@ Frank Knox Papers
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [1770874468430095051081]" altrender="box">6</container>
             <unittitle>
               <unitdate type="inclusive" normal="1936-01">January 1936</unitdate>
             </unittitle>
@@ -203,7 +205,7 @@ Frank Knox Papers
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [1770874468430095051081]" altrender="box">6</container>
             <unittitle>
               <unitdate type="inclusive" normal="1936-08">August 1936</unitdate>
             </unittitle>
@@ -211,7 +213,7 @@ Frank Knox Papers
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [1770874468430095051081]" altrender="box">6</container>
             <unittitle>
               <unitdate type="inclusive" normal="1936-09-01/1936-09-15">September 1-15, 1936</unitdate>
             </unittitle>
@@ -219,7 +221,7 @@ Frank Knox Papers
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [1770874468430095051081]" altrender="box">6</container>
             <unittitle>
               <unitdate type="inclusive" normal="1936-09-16/1936-09-30">September 16-30, 1936</unitdate>
             </unittitle>
@@ -227,7 +229,7 @@ Frank Knox Papers
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [1770874468430095051081]" altrender="box">6</container>
             <unittitle>
               <unitdate type="inclusive" normal="1936-10-01/1936-10-15">October 1-15, 1936</unitdate>
             </unittitle>
@@ -235,7 +237,7 @@ Frank Knox Papers
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [1770874468430095051081]" altrender="box">6</container>
             <unittitle>
               <unitdate type="inclusive" normal="1936-10-16/1936-10-31">October 16-31, 1936</unitdate>
             </unittitle>
@@ -243,7 +245,7 @@ Frank Knox Papers
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [1770874468430095051081]" altrender="box">6</container>
             <unittitle>
               <unitdate type="inclusive" normal="1938-01/1938-06">January-June 1938</unitdate>
             </unittitle>
@@ -251,7 +253,7 @@ Frank Knox Papers
         </c02>
         <c02 level="file">
           <did>
-            <container type="folder" label="Oversize Folder">Da</container>
+            <container type="folder" label="Oversize Folder [880223097484505030215]" altrender="folder">Da</container>
             <unittitle>Miscellaneous campaign addresses</unittitle>
           </did>
           <odd>

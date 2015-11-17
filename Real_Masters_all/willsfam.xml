@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Williams family papers, 1838-1953</titleproper>
       <author>Finding aid created by <lb/>Thomas E. Powers (1972) <lb/>Christopher Leonard (1985)</author>
     </titlepage>
@@ -80,25 +80,25 @@ Williams family papers, Bentley Historical Library, University of Michigan</p>
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <subject source="lcsh" encodinganalog="650">Agriculture--Michigan--Shiawassee County.</subject>
-        <subject source="lcsh" encodinganalog="650">Business records.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/10733">Agriculture--Michigan--Shiawassee County.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5784">Business records.</subject>
         <persname source="lcnaf" encodinganalog="600">Dewey, Edmund Otis, 1861-1921.</persname>
         <famname source="lcnaf" encodinganalog="600">Dewey family.</famname>
-        <geogname source="local" encodinganalog="691">Michigan--Social life and customs--1861-1870.</geogname>
-        <geogname source="local" encodinganalog="691">Michigan--Social life and customs--1871-1880.</geogname>
-        <geogname source="local" encodinganalog="691">Michigan--Social life and customs--1881-1890.</geogname>
+        <geogname source="local" encodinganalog="691" ref="/subjects/797">Michigan--Social life and customs--1861-1870.</geogname>
+        <geogname source="local" encodinganalog="691" ref="/subjects/798">Michigan--Social life and customs--1871-1880.</geogname>
+        <geogname source="local" encodinganalog="691" ref="/subjects/799">Michigan--Social life and customs--1881-1890.</geogname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n82097696">Olivet College.</corpname>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n85081790.html">Owosso (Mich.)</geogname>
-        <subject source="lcsh" encodinganalog="650">Railroads--Michigan.</subject>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n81091881.html">Shiawassee County (Mich.)</geogname>
-        <geogname source="lcsh" encodinganalog="651">United States--History--Civil War, 1861-1865.</geogname>
-        <geogname source="lcsh" encodinganalog="651">Michigan--Social life and customs--19th century.</geogname>
-        <subject source="lcsh" encodinganalog="650">Spiritualists--Michigan.</subject>
-        <subject source="lcsh" encodinganalog="650">Women--Michigan--Owosso.</subject>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n85081790.html" ref="/subjects/1190">Owosso (Mich.)</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6680">Railroads--Michigan.</subject>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n81091881.html" ref="/subjects/1941">Shiawassee County (Mich.)</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/909">United States--History--Civil War, 1861-1865.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1302">Michigan--Social life and customs--19th century.</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/10734">Spiritualists--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/9882">Women--Michigan--Owosso.</subject>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Materials:</head>
-        <subject source="lctgm" encodinganalog="650">Log cabins.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4142">Log cabins.</subject>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n82097696">Olivet College.</corpname>
         <persname source="lcnaf" encodinganalog="600">Williams, Alfred Leonzo, 1808-1886.</persname>
       </controlaccess>
@@ -109,8 +109,8 @@ Williams family papers, Bentley Historical Library, University of Michigan</p>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Diaries.</genreform>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3150">Diaries.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -120,7 +120,7 @@ Williams family papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [42661414099728156269839]" altrender="box">1</container>
             <unittitle>Family History</unittitle>
           </did>
           <scopecontent>
@@ -136,7 +136,7 @@ Williams family papers, Bentley Historical Library, University of Michigan</p>
           </scopecontent>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [42661414099728156269839]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1840/1860">1840-1860</unitdate>
               </unittitle>
@@ -144,7 +144,7 @@ Williams family papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [42661414099728156269839]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1861/1865">1861-1865</unitdate>
               </unittitle>
@@ -152,7 +152,7 @@ Williams family papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [42661414099728156269839]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1866/1870">1866-1870</unitdate>
               </unittitle>
@@ -160,7 +160,7 @@ Williams family papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [42661414099728156269839]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1871/1874">1871-1874</unitdate>
               </unittitle>
@@ -168,7 +168,7 @@ Williams family papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [42661414099728156269839]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1875">1875</unitdate>
               </unittitle>
@@ -176,7 +176,7 @@ Williams family papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [42661414099728156269839]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1876/1878">1876-1878</unitdate>
               </unittitle>
@@ -184,7 +184,7 @@ Williams family papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [42661414099728156269839]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1879/1880">1879-1880</unitdate>
               </unittitle>
@@ -192,7 +192,7 @@ Williams family papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [42661414099728156269839]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1881/1882">1881-1882</unitdate>
               </unittitle>
@@ -200,7 +200,7 @@ Williams family papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [42661414099728156269839]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1883/1885">1883-1885</unitdate>
               </unittitle>
@@ -208,13 +208,13 @@ Williams family papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [42661414099728156269839]" altrender="box">1</container>
               <unittitle><unitdate type="inclusive" normal="1885">1885</unitdate> (A.L. Williams' patent)</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [42661414099728156269839]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1886/1890">1886-1890</unitdate>
               </unittitle>
@@ -222,7 +222,7 @@ Williams family papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [42661414099728156269839]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1891/1898">1891-1898</unitdate>
               </unittitle>
@@ -230,7 +230,7 @@ Williams family papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [42661414099728156269839]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1899/1953">1899-1953</unitdate>
               </unittitle>
@@ -238,7 +238,7 @@ Williams family papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [42661414099728156269839]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive">undated</unitdate>
               </unittitle>
@@ -251,26 +251,26 @@ Williams family papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [42661414099728156269839]" altrender="box">1</container>
               <unittitle>General (includes advertisements, business cards, and programs)</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [42661414099728156269839]" altrender="box">1</container>
               <unittitle>Personal (includes poems, stories, and drawings)</unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [42661414099728156269839]" altrender="box">1</container>
             <unittitle>Newspaper Clippings</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [42661414099728156269839]" altrender="box">1</container>
             <unittitle>Business Papers</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">12 folders</extent>
@@ -282,7 +282,7 @@ Williams family papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [42661414099728156269839]" altrender="box">1</container>
             <unittitle>Business Ledgers And <genreform normal="Diaries">Diaries</genreform></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">13 volumes</extent>
@@ -298,20 +298,20 @@ Williams family papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [42661414099728156269839]" altrender="box">1</container>
               <unittitle><title render="italic">The Liverpool, London, and Paris Guide</title>, Guion Line Steamers, <unitdate type="inclusive" normal="1873" certainty="approximate">circa 1873</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [42661414099728156269839]" altrender="box">1</container>
               <unittitle><title render="italic">Abury Illustrated</title>, William Long, <unitdate type="inclusive" normal="1858">1858</unitdate></unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [42661414099728156269839]" altrender="box">1</container>
             <unittitle>
               <genreform normal="Photographs">Photographs</genreform>
             </unittitle>
@@ -322,13 +322,13 @@ Williams family papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [9211550292458868321064]" altrender="box">2</container>
             <unittitle>Family correspondence <unitdate type="inclusive" normal="1852/1881">1852-1881</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [9211550292458868321064]" altrender="box">2</container>
             <unittitle>Spiritualist messages</unittitle>
           </did>
         </c02>

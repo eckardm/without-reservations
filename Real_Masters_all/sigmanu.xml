@@ -31,7 +31,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Sigma Nu. Gamma Nu Chapter <lb/>(University of Michigan) <lb/>records, 1902-1981</titleproper>
       <author>Finding aid created by <lb/>Michigan Historical Collections staff</author>
     </titlepage>
@@ -88,18 +88,18 @@ Sigma Nu. Gamma Nu Chapter (University of Michigan) records, Bentley Historical 
       <controlaccess>
         <head>Subjects:</head>
         <corpname source="lcnaf" encodinganalog="610">Sigma Nu. Gamma Nu chapter (University of Michigan)</corpname>
-        <subject source="lcsh" encodinganalog="650">Greek letter societies--Michigan--Ann Arbor.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5834">Greek letter societies--Michigan--Ann Arbor.</subject>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan--Students--Societies, etc.</corpname>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Materials:</head>
         <corpname source="lcnaf" encodinganalog="610">Sigma Nu. Gamma Nu chapter (University of Michigan)</corpname>
-        <subject source="lctgm" encodinganalog="650">Fraternities and sororities--Michigan--Ann Arbor.</subject>
-        <subject source="lcsh" encodinganalog="650">University of Michigan--Students--Societies, etc.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4560">Fraternities and sororities--Michigan--Ann Arbor.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/9242">University of Michigan--Students--Societies, etc.</subject>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -112,31 +112,31 @@ Sigma Nu. Gamma Nu Chapter (University of Michigan) records, Bentley Historical 
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [61509931434733611378]" altrender="box">1</container>
             <unittitle>Record of Chapter Minutes <unitdate type="inclusive" normal="1902-09-29/1919-10-20">September 29, 1902-October 20, 1919</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [61509931434733611378]" altrender="box">1</container>
             <unittitle>Records of Payments for Brothers <unitdate type="inclusive" normal="1915/1925">1915-1925</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [61509931434733611378]" altrender="box">1</container>
             <unittitle>House Expenses <unitdate type="inclusive" normal="1972/1973">1972-1973</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [61509931434733611378]" altrender="box">1</container>
             <unittitle>House Budget <unitdate type="inclusive" normal="1975">1975</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [61509931434733611378]" altrender="box">1</container>
             <unittitle>House Mortgage <unitdate type="inclusive" normal="1919-08-16">August 16, 1919</unitdate></unittitle>
           </did>
         </c02>
@@ -150,8 +150,10 @@ Sigma Nu. Gamma Nu Chapter (University of Michigan) records, Bentley Historical 
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <unittitle>Pledging Records <unitdate type="inclusive" normal="1959/1971">1959-1971</unitdate>, <unitdate type="inclusive" normal="1975/1984">1975-1984</unitdate></unittitle>
+            <container type="box" label="Box [61509931434733611378]" altrender="box">1</container>
+            <unittitle>Pledging Records</unittitle>
+            <unitdate type="inclusive" normal="1959/1971">1959-1971</unitdate>
+            <unitdate type="inclusive" normal="1975/1984">1975-1984</unitdate>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">6 folders</extent>
             </physdesc>
@@ -159,14 +161,18 @@ Sigma Nu. Gamma Nu Chapter (University of Michigan) records, Bentley Historical 
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <unittitle>Pledge Education Manuals <unitdate type="inclusive" normal="1946/1964">1946, 1964</unitdate>, <unitdate type="inclusive" normal="1972">1972</unitdate></unittitle>
+            <container type="box" label="Box [61509931434733611378]" altrender="box">1</container>
+            <unittitle>Pledge Education Manuals</unittitle>
+            <unitdate type="inclusive" normal="1946/1964">1946, 1964</unitdate>
+            <unitdate type="inclusive" normal="1972">1972</unitdate>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <unittitle>Initiation Records <unitdate type="inclusive" normal="1905/1913">1905-1913</unitdate>, <unitdate type="inclusive" normal="1918/1929">1918-1929</unitdate></unittitle>
+            <container type="box" label="Box [61509931434733611378]" altrender="box">1</container>
+            <unittitle>Initiation Records</unittitle>
+            <unitdate type="inclusive" normal="1905/1913">1905-1913</unitdate>
+            <unitdate type="inclusive" normal="1918/1929">1918-1929</unitdate>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
             </physdesc>
@@ -174,8 +180,10 @@ Sigma Nu. Gamma Nu Chapter (University of Michigan) records, Bentley Historical 
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
-            <unittitle>Initiation Records <unitdate type="inclusive" normal="1929/1947">1929-1947</unitdate>, <unitdate type="inclusive" normal="1959/1985">1959-1985</unitdate></unittitle>
+            <container type="box" label="Box [9119860247984912791109]" altrender="box">2</container>
+            <unittitle>Initiation Records</unittitle>
+            <unitdate type="inclusive" normal="1929/1947">1929-1947</unitdate>
+            <unitdate type="inclusive" normal="1959/1985">1959-1985</unitdate>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">10 folders</extent>
             </physdesc>
@@ -191,7 +199,7 @@ Sigma Nu. Gamma Nu Chapter (University of Michigan) records, Bentley Historical 
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [9119860247984912791109]" altrender="box">2</container>
             <unittitle>Gamma Nu (University of Michigan Chapter) Alumni <unitdate type="inclusive" normal="1902/1941">1902-1941</unitdate></unittitle>
           </did>
           <odd>
@@ -200,43 +208,43 @@ Sigma Nu. Gamma Nu Chapter (University of Michigan) records, Bentley Historical 
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [7693241548658728481]" altrender="box">3</container>
             <unittitle>Alumni A-D <unitdate type="inclusive" normal="1902/1941">1902-1941</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [7693241548658728481]" altrender="box">3</container>
             <unittitle>Alumni E-H <unitdate type="inclusive" normal="1902/1941">1902-1941</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [7693241548658728481]" altrender="box">3</container>
             <unittitle>Alumni I-L <unitdate type="inclusive" normal="1902/1941">1902-1941</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [7693241548658728481]" altrender="box">3</container>
             <unittitle>Alumni M-P <unitdate type="inclusive" normal="1902/1941">1902-1941</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [7693241548658728481]" altrender="box">3</container>
             <unittitle>Alumni Q-Z <unitdate type="inclusive" normal="1902/1941">1902-1941</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [7693241548658728481]" altrender="box">3</container>
             <unittitle>Listing of Gamma Nus (University of Michigan Chapter) <unitdate type="inclusive" normal="1902/1985">1902-1985</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [7693241548658728481]" altrender="box">3</container>
             <unittitle>Listing of Missing Gamma Nus (University of Michigan Chapter) <unitdate type="inclusive" normal="1905/1978">1905-1978</unitdate></unittitle>
           </did>
         </c02>
@@ -250,13 +258,13 @@ Sigma Nu. Gamma Nu Chapter (University of Michigan) records, Bentley Historical 
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [7693241548658728481]" altrender="box">3</container>
             <unittitle><genreform normal="Photographs">Photographs</genreform>, <unitdate type="inclusive" normal="1914/1990">1914-1980s, 1990</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [7693241548658728481]" altrender="box">3</container>
             <unittitle>Slides <unitdate type="inclusive" normal="1970/1989" certainty="approximate">1970s-1980s</unitdate></unittitle>
           </did>
         </c02>
@@ -270,31 +278,33 @@ Sigma Nu. Gamma Nu Chapter (University of Michigan) records, Bentley Historical 
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
-            <unittitle>Sheet Music and note <unitdate type="inclusive" normal="1941">1941</unitdate>, <unitdate type="inclusive" normal="1995/1996">1995-1996</unitdate></unittitle>
+            <container type="box" label="Box [7693241548658728481]" altrender="box">3</container>
+            <unittitle>Sheet Music and note</unittitle>
+            <unitdate type="inclusive" normal="1941">1941</unitdate>
+            <unitdate type="inclusive" normal="1995/1996">1995-1996</unitdate>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [7693241548658728481]" altrender="box">3</container>
             <unittitle>Report by Epsilon Theta Chapter, "Coedity and Sigma Nu," <unitdate type="inclusive" normal="1972">1972</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [7693241548658728481]" altrender="box">3</container>
             <unittitle><title render="italic">The Atled</title>, <unitdate type="inclusive" normal="1970/1979" certainty="approximate">1970s</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [7693241548658728481]" altrender="box">3</container>
             <unittitle>Informational Pamphlet on Gamma Nu Chapter <unitdate type="inclusive" normal="1970/1979" certainty="approximate">1970s</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [7693241548658728481]" altrender="box">3</container>
             <unittitle>College Chapters Manual <unitdate type="inclusive" normal="1977">1977</unitdate></unittitle>
           </did>
         </c02>

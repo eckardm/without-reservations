@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Joan F. Cuddihy papers, 1945-1972</titleproper>
       <author>Finding aid created by <lb/>Michigan Historical Collections staff</author>
     </titlepage>
@@ -79,17 +79,17 @@ Joan F. Cuddihy papers, Bentley Historical Library, University of Michigan</p>
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <subject source="lcsh" encodinganalog="650">Women--New York (State)--New York.</subject>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/no95038014.html">Forest Hills (New York, N.Y.)</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7081">Women--New York (State)--New York.</subject>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/no95038014.html" ref="/subjects/1661">Forest Hills (New York, N.Y.)</geogname>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Materials:</head>
-        <subject source="lctgm" encodinganalog="650">Churches--Michigan--Harbor Beach.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4133">Churches--Michigan--Harbor Beach.</subject>
         <persname source="lcnaf" encodinganalog="600">Cuddihy, Joan F.</persname>
-        <subject source="lctgm" encodinganalog="650">Dwellings--Michigan--Harbor Beach.</subject>
-        <subject source="lctgm" encodinganalog="650">Funeral rites and ceremonies.</subject>
-        <geogname source="lctgm" encodinganalog="651">Harbor Beach (Mich.)--Churches.</geogname>
-        <geogname source="lctgm" encodinganalog="651">Harbor Beach (Mich.)--Dwellings.</geogname>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4134">Dwellings--Michigan--Harbor Beach.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3699">Funeral rites and ceremonies.</subject>
+        <geogname source="lctgm" encodinganalog="651" ref="/subjects/274">Harbor Beach (Mich.)--Churches.</geogname>
+        <geogname source="lctgm" encodinganalog="651" ref="/subjects/275">Harbor Beach (Mich.)--Dwellings.</geogname>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n86025928">Murphy, Frank, 1890-1949.</persname>
         <corpname source="lcnaf" encodinganalog="610">Our Lady of Lake Huron Church (Harbor Beach, Mich.)</corpname>
       </controlaccess>
@@ -99,7 +99,7 @@ Joan F. Cuddihy papers, Bentley Historical Library, University of Michigan</p>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -109,7 +109,7 @@ Joan F. Cuddihy papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [5138345774868333339]" altrender="box">1</container>
             <unittitle>Miscellanea</unittitle>
           </did>
         </c02>
@@ -119,7 +119,7 @@ Joan F. Cuddihy papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [5138345774868333339]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive">Undated</unitdate>
                 <unitdate type="inclusive" normal="1945">1945</unitdate>
@@ -128,7 +128,7 @@ Joan F. Cuddihy papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [5138345774868333339]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1946">1946</unitdate>
               </unittitle>
@@ -139,7 +139,7 @@ Joan F. Cuddihy papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [5138345774868333339]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1947">1947</unitdate>
               </unittitle>
@@ -150,7 +150,7 @@ Joan F. Cuddihy papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [5138345774868333339]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1948">1948</unitdate>
               </unittitle>
@@ -158,7 +158,7 @@ Joan F. Cuddihy papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [5138345774868333339]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1949">1949</unitdate>
               </unittitle>
@@ -167,7 +167,7 @@ Joan F. Cuddihy papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [5138345774868333339]" altrender="box">1</container>
             <unittitle>Correspondence from friends and Murphy family <unitdate type="inclusive" normal="1945/1972">1945-1972</unitdate></unittitle>
           </did>
           <odd>
@@ -176,7 +176,7 @@ Joan F. Cuddihy papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [5138345774868333339]" altrender="box">1</container>
             <unittitle>Copies of Correspondence to Frank Murphy <unitdate type="inclusive" normal="1933/1949">1933-1949</unitdate></unittitle>
           </did>
           <odd>
@@ -185,31 +185,33 @@ Joan F. Cuddihy papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <unittitle>Journal articles about Murphy <unitdate type="inclusive" normal="1959">1959</unitdate>, <unitdate type="inclusive" normal="1966">1966</unitdate></unittitle>
+            <container type="box" label="Box [5138345774868333339]" altrender="box">1</container>
+            <unittitle>Journal articles about Murphy</unittitle>
+            <unitdate type="inclusive" normal="1959">1959</unitdate>
+            <unitdate type="inclusive" normal="1966">1966</unitdate>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [5138345774868333339]" altrender="box">1</container>
             <unittitle>Newspaper clippings concerning death of Frank Murphy and of his engagement to Joan Cuddihy <unitdate type="inclusive" normal="1949">1949</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [5138345774868333339]" altrender="box">1</container>
             <unittitle>Miscellaneous newspaper clippings</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [5138345774868333339]" altrender="box">1</container>
             <unittitle>Memorabilia from Truman inauguration <unitdate type="inclusive" normal="1949">1949</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [5138345774868333339]" altrender="box">1</container>
             <unittitle><genreform normal="Photographs">Photographs</genreform> of the Murphy family home in Harbor Beach, Michigan; photos of Frank Murphy's funeral <unitdate type="inclusive" normal="1949">1949</unitdate></unittitle>
           </did>
         </c02>

@@ -26,7 +26,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Irene Linda Lather Butler papers, 1923-1991</titleproper>
       <author>Finding aid created by <lb/>Kristin Roberts, April 1993</author>
     </titlepage>
@@ -77,16 +77,16 @@ Irene Linda Lather Butler papers, Bentley Historical Library, University of Mich
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <subject source="lcsh" encodinganalog="650">Artists--Michigan--Grand Rapids.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6600">Artists--Michigan--Grand Rapids.</subject>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n88119541">Butler, Irene Linda Lather.</persname>
-        <subject source="lcsh" encodinganalog="650">Courtship.</subject>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n79133151.html">Grand Rapids (Mich.)</geogname>
-        <genreform source="aat" encodinganalog="655">Love letters.</genreform>
-        <subject source="lcsh" encodinganalog="650">Nurses--Michigan--Grand Rapids.</subject>
-        <subject source="lcsh" encodinganalog="650">Nursing--Michigan--Grand Rapids.</subject>
-        <subject source="lcsh" encodinganalog="650">Women artists--Michigan--Grand Rapids.</subject>
-        <subject source="lcsh" encodinganalog="650">Sculptors--Michigan--Grand Rapids.</subject>
-        <subject source="lcsh" encodinganalog="650">Women sculptors--Michigan--Grand Rapids.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6601">Courtship.</subject>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n79133151.html" ref="/subjects/1102">Grand Rapids (Mich.)</geogname>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3217">Love letters.</genreform>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6602">Nurses--Michigan--Grand Rapids.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6603">Nursing--Michigan--Grand Rapids.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6604">Women artists--Michigan--Grand Rapids.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6605">Sculptors--Michigan--Grand Rapids.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6606">Women sculptors--Michigan--Grand Rapids.</subject>
       </controlaccess>
       <controlaccess>
         <head>Contributors:</head>
@@ -94,7 +94,7 @@ Irene Linda Lather Butler papers, Bentley Historical Library, University of Mich
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Diaries.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3150">Diaries.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -107,7 +107,7 @@ Irene Linda Lather Butler papers, Bentley Historical Library, University of Mich
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [614813941684194615768]" altrender="box">1</container>
             <unittitle>Photocopies of <genreform normal="Photographs">photographs</genreform> of Irene Butler and her family, including photocopies from the period of her childhood and when she was studying to be a nurse</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -116,7 +116,7 @@ Irene Linda Lather Butler papers, Bentley Historical Library, University of Mich
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [614813941684194615768]" altrender="box">1</container>
             <unittitle>School term paper relating to history of nursing <unitdate type="inclusive">undated</unitdate></unittitle>
           </did>
         </c02>
@@ -134,7 +134,7 @@ Irene Linda Lather Butler papers, Bentley Historical Library, University of Mich
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [614813941684194615768]" altrender="box">1</container>
               <unittitle>Letters from Irene Butler to William Butler <unitdate type="inclusive" normal="1923-10-29/1979-10-29">October 29, 1923-October 29, 1979</unitdate> (<unitdate normal="1923/1925" type="bulk">mainly 1923-1925</unitdate>)</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">7 folders</extent>
@@ -143,7 +143,7 @@ Irene Linda Lather Butler papers, Bentley Historical Library, University of Mich
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [614813941684194615768]" altrender="box">1</container>
               <unittitle>Letters from William Butler to Irene Butler <unitdate type="inclusive" normal="1923-06-30/1981-03-15">June 30, 1923-March 15, 1981</unitdate> (<unitdate normal="1923/1925" type="bulk">mainly 1923-1925</unitdate>)</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">7 folders</extent>
@@ -152,13 +152,13 @@ Irene Linda Lather Butler papers, Bentley Historical Library, University of Mich
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [614813941684194615768]" altrender="box">1</container>
               <unittitle><unitdate type="inclusive">Undated</unitdate> letters exchanged between Irene and William</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [614813941684194615768]" altrender="box">1</container>
               <unittitle>Letter to a friend relating to her nursing career <unitdate type="inclusive" normal="1920/1929" certainty="approximate">1920s</unitdate></unittitle>
             </did>
           </c03>
@@ -169,13 +169,13 @@ Irene Linda Lather Butler papers, Bentley Historical Library, University of Mich
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [614813941684194615768]" altrender="box">1</container>
               <unittitle>Michigan State Medical Society Auxiliary <unitdate type="inclusive" normal="1942/1972">1942-1972</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [614813941684194615768]" altrender="box">1</container>
               <unittitle>Various associations (including: Grand Rapids League of Women Voters, American Red Cross, art associations) <unitdate type="inclusive" normal="1942/1952">1942-1952</unitdate></unittitle>
             </did>
           </c03>
@@ -192,7 +192,7 @@ Irene Linda Lather Butler papers, Bentley Historical Library, University of Mich
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [5407743857229040229]" altrender="box">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1915/1979">1915-1979</unitdate>
             </unittitle>
@@ -203,7 +203,7 @@ Irene Linda Lather Butler papers, Bentley Historical Library, University of Mich
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [794106844932540068]" altrender="box">3</container>
             <unittitle>Travel diaries (includes trips throughout U.S. as well as a trip to Europe in 1961) <unitdate type="inclusive" normal="1939/1985">1939-1985</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">22 volumes</extent>
@@ -212,7 +212,7 @@ Irene Linda Lather Butler papers, Bentley Historical Library, University of Mich
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [794106844932540068]" altrender="box">3</container>
             <unittitle>Sundays only diaries <unitdate type="inclusive" normal="1987/1989">1987-1989</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">6 volumes</extent>
@@ -229,13 +229,13 @@ Irene Linda Lather Butler papers, Bentley Historical Library, University of Mich
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [794106844932540068]" altrender="box">3</container>
             <unittitle>Art Exhibit Brochures, mainly from Arizona</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [794106844932540068]" altrender="box">3</container>
             <unittitle>Photocopies of her art work</unittitle>
           </did>
         </c02>

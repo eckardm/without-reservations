@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Bertha Eugenia Loveland Selmon papers, 1932-1949</titleproper>
       <author>Finding aid created by <lb/>Michigan Historical Collections staff</author>
     </titlepage>
@@ -80,8 +80,8 @@ Bertha Eugenia Loveland Selmon papers, Bentley Historical Library, University of
       <controlaccess>
         <head>Subjects:</head>
         <persname source="lcnaf" encodinganalog="600">Baker, Minnie Dell Sprague, 1858-1934.</persname>
-        <geogname source="lcsh" encodinganalog="651">Battle Creek (Mich.)</geogname>
-        <subject source="lcsh" encodinganalog="650">Birth control.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/934">Battle Creek (Mich.)</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6368">Birth control.</subject>
         <persname source="lcnaf" encodinganalog="600">Cook, Dana G., 1855-1932.</persname>
         <persname source="lcnaf" encodinganalog="600">Cooper, Margaret Cochrane, 1835-1907.</persname>
         <corpname source="lcnaf" encodinganalog="610">Detroit Medical College.</corpname>
@@ -93,27 +93,27 @@ Bertha Eugenia Loveland Selmon papers, Bentley Historical Library, University of
         <persname source="lcnaf" encodinganalog="600">Kress, Lauretta E., 1863-</persname>
         <persname source="lcnaf" encodinganalog="600">Lindsay, Catherine, 1842-1923.</persname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n86054067">Medical Women's National Association.</corpname>
-        <subject source="lcsh" encodinganalog="650">Medicine--Michigan--Battle Creek.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6182">Medicine--Michigan--Battle Creek.</subject>
         <persname source="lcnaf" encodinganalog="600">Norris, Maria, 1856-1938.</persname>
         <persname source="lcnaf" encodinganalog="600">Outwater, Eva J. Shedd, 1856-1908.</persname>
-        <subject source="lcsh" encodinganalog="650">Physicians--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5835">Physicians--Michigan.</subject>
         <persname source="lcnaf" encodinganalog="600">Roth, Linda Gage, 1873-1944.</persname>
         <persname source="lcnaf" encodinganalog="600">Rutherford, Frances A., 1842-1922.</persname>
         <persname source="lcnaf" encodinganalog="600">Schwendener, Hattie A., 1858-1942.</persname>
         <persname source="lcnaf" encodinganalog="600">Stegman, Louie Vandervoort, 1868-1930.</persname>
         <persname source="lcnaf" encodinganalog="600">Strong, Martha Cochrane, 1843-1926.</persname>
         <persname source="lcnaf" encodinganalog="600">Upjohn, Millie Kirby, 1852-1920.</persname>
-        <subject source="lcsh" encodinganalog="650">Women--Michigan.</subject>
-        <subject source="lcsh" encodinganalog="650">Women physicians--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6367">Women--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5833">Women physicians--Michigan.</subject>
         <persname source="lcnaf" encodinganalog="600">Selmon, Bertha Eugenia Loveland, 1877-1949.</persname>
-        <subject source="lcsh" encodinganalog="650">Physicians--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5835">Physicians--Michigan.</subject>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Materials:</head>
         <corpname source="lcnaf" encodinganalog="610">Detroit Medical College.</corpname>
-        <subject source="lctgm" encodinganalog="650">Physicians--Michigan.</subject>
-        <subject source="lctgm" encodinganalog="650">Women.</subject>
-        <subject source="lcsh" encodinganalog="650">Women physicians--Michigan.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4162">Physicians--Michigan.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3619">Women.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5833">Women physicians--Michigan.</subject>
       </controlaccess>
       <controlaccess>
         <head>Contributors:</head>
@@ -121,7 +121,7 @@ Bertha Eugenia Loveland Selmon papers, Bentley Historical Library, University of
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -131,13 +131,13 @@ Bertha Eugenia Loveland Selmon papers, Bentley Historical Library, University of
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [809879933419853969205]" altrender="box">1</container>
             <unittitle>Clippings of obituaries and other biographical information</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [809879933419853969205]" altrender="box">1</container>
             <unittitle>Record book of news clippings and notes concerning public health</unittitle>
           </did>
         </c02>
@@ -148,7 +148,7 @@ Bertha Eugenia Loveland Selmon papers, Bentley Historical Library, University of
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [809879933419853969205]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1932/1949-01">1932-January 1949</unitdate>
               <unitdate type="inclusive">undated</unitdate>
@@ -165,31 +165,31 @@ Bertha Eugenia Loveland Selmon papers, Bentley Historical Library, University of
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [809879933419853969205]" altrender="box">1</container>
             <unittitle>"Pioneer Women in Medicine" (manuscript)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [809879933419853969205]" altrender="box">1</container>
             <unittitle>Michigan Women in Medicine, chapters 3-8</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [809879933419853969205]" altrender="box">1</container>
             <unittitle>Michigan Women in Medicine, chapters 9-15 (Chapter 15 by Pearl Bliss-Cox, Secretary to Dr. Selmon)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [809879933419853969205]" altrender="box">1</container>
             <unittitle>Miscellaneous Writings</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [809879933419853969205]" altrender="box">1</container>
             <unittitle>Personal writings and Poetry</unittitle>
           </did>
         </c02>
@@ -200,31 +200,31 @@ Bertha Eugenia Loveland Selmon papers, Bentley Historical Library, University of
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [809879933419853969205]" altrender="box">1</container>
             <unittitle>Card files of Women Physicians in Michigan</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [265935824024102098550]" altrender="box">2</container>
             <unittitle>"Women Physicians of Michigan" (manuscript) by Frances A. Rutherford, M.D.</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [265935824024102098550]" altrender="box">2</container>
             <unittitle>Biographical notes about Augusta Louise Rosenthal Thompson, M.D.</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [265935824024102098550]" altrender="box">2</container>
             <unittitle>Biography of Sarah Gibson</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [265935824024102098550]" altrender="box">2</container>
             <unittitle>Miscellaneous notes on the history of Michigan Women in Medicine</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">30 folders</extent>
@@ -233,7 +233,7 @@ Bertha Eugenia Loveland Selmon papers, Bentley Historical Library, University of
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [265935824024102098550]" altrender="box">2</container>
             <unittitle>Miscellaneous notes</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -242,7 +242,7 @@ Bertha Eugenia Loveland Selmon papers, Bentley Historical Library, University of
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [8837675442198233134151]" altrender="box">3</container>
             <unittitle><genreform normal="Photographs">Photographs</genreform> and exhibit cards relating to Michigan women physicians</unittitle>
           </did>
         </c02>

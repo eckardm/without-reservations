@@ -31,7 +31,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Norman Olson Papers, 1950-2001</titleproper>
       <author>Finding aid created by <lb/>Owen Ellis, November 2010</author>
     </titlepage>
@@ -84,13 +84,13 @@ Norman Olson Papers, Bentley Historical Library, University of Michigan</p>
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <subject source="lcsh" encodinganalog="650">Firearms ownership--United States.</subject>
-        <subject source="lcsh" encodinganalog="650">Government, Resistance to--United States.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/9592">Firearms ownership--United States.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/9593">Government, Resistance to--United States.</subject>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/no95054612">Michigan Militia Corps.</corpname>
-        <subject source="lcsh" encodinganalog="650">Militia movements--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/8164">Militia movements--Michigan.</subject>
         <corpname source="lcnaf" encodinganalog="610">Northern Michigan Regional Militia.</corpname>
         <persname source="lcnaf" encodinganalog="600">Olson, Norman.</persname>
-        <subject source="lcsh" encodinganalog="650">Right-wing extremists--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/8165">Right-wing extremists--Michigan.</subject>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -107,8 +107,10 @@ Norman Olson Papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
-              <unittitle>Correspondence with individual persons <unitdate type="inclusive" normal="1994/2001">1994-2001</unitdate>, <unitdate type="inclusive">undated</unitdate></unittitle>
+              <container type="box" label="Box [0474011194734263712]" altrender="box">1</container>
+              <unittitle>Correspondence with individual persons</unittitle>
+              <unitdate type="inclusive" normal="1994/2001">1994-2001</unitdate>
+              <unitdate type="inclusive">undated</unitdate>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">11 folders</extent>
               </physdesc>
@@ -119,8 +121,11 @@ Norman Olson Papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
-              <unittitle>Correspondence with organizations <unitdate type="inclusive" normal="1994/1998">1994-1998</unitdate>, <unitdate type="inclusive" normal="2001">2001</unitdate>, <unitdate type="inclusive">undated</unitdate></unittitle>
+              <container type="box" label="Box [0474011194734263712]" altrender="box">1</container>
+              <unittitle>Correspondence with organizations</unittitle>
+              <unitdate type="inclusive" normal="1994/1998">1994-1998</unitdate>
+              <unitdate type="inclusive" normal="2001">2001</unitdate>
+              <unitdate type="inclusive">undated</unitdate>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">7 folders</extent>
               </physdesc>
@@ -128,13 +133,15 @@ Norman Olson Papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
-              <unittitle>Correspondence with government officials and other federal agencies <unitdate type="inclusive" normal="1993/1999">1993-1999</unitdate>, <unitdate type="inclusive">undated</unitdate></unittitle>
+              <container type="box" label="Box [0474011194734263712]" altrender="box">1</container>
+              <unittitle>Correspondence with government officials and other federal agencies</unittitle>
+              <unitdate type="inclusive" normal="1993/1999">1993-1999</unitdate>
+              <unitdate type="inclusive">undated</unitdate>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [0474011194734263712]" altrender="box">1</container>
               <unittitle>Correspondence and faxes from internal network of Michigan Militias <unitdate type="inclusive" normal="1994/1998">1994-1998</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -143,25 +150,27 @@ Norman Olson Papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [6573854488971293889985]" altrender="box">2</container>
               <unittitle>Correspondence and records from other militia <unitdate type="inclusive" normal="1995/1996">1995-1996</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
-              <unittitle>Correspondence not written by, or addressed to, Norman Olson <unitdate type="inclusive" normal="1994/1996">1994-1996</unitdate>, <unitdate type="inclusive">undated</unitdate></unittitle>
+              <container type="box" label="Box [6573854488971293889985]" altrender="box">2</container>
+              <unittitle>Correspondence not written by, or addressed to, Norman Olson</unittitle>
+              <unitdate type="inclusive" normal="1994/1996">1994-1996</unitdate>
+              <unitdate type="inclusive">undated</unitdate>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [6573854488971293889985]" altrender="box">2</container>
               <unittitle>Other materials received through the mail</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [6573854488971293889985]" altrender="box">2</container>
               <unittitle>Faxes, other <unitdate type="inclusive" normal="1994/1996">1994-1996</unitdate></unittitle>
             </did>
           </c03>
@@ -172,55 +181,55 @@ Norman Olson Papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [6573854488971293889985]" altrender="box">2</container>
               <unittitle>Bois Blanc Township vs. Michael and Christine Stitt <unitdate type="inclusive" normal="1996/1999">1996-1999</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [6573854488971293889985]" altrender="box">2</container>
               <unittitle>Franklin C. Smith vs. Stanton Kaplan <unitdate type="inclusive" normal="1999">1999</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [6573854488971293889985]" altrender="box">2</container>
               <unittitle>James P. Dacey vs. Town of Perry <unitdate type="inclusive" normal="1996">1996</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [6573854488971293889985]" altrender="box">2</container>
               <unittitle>Joe Hoyal vs. George H. Connell Jr. <unitdate type="inclusive" normal="1994/1995">1994-1995</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [6573854488971293889985]" altrender="box">2</container>
               <unittitle>Ray Southwell vs. Southern Poverty Law Center <unitdate type="inclusive" normal="1996">1996</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [6573854488971293889985]" altrender="box">2</container>
               <unittitle>State of Oklahoma vs. Stewart Waterhouse <unitdate type="inclusive" normal="1996">1996</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [6573854488971293889985]" altrender="box">2</container>
               <unittitle>Town Zoning Board of Appeals, Township of Perry vs. James P. Dacey</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [6573854488971293889985]" altrender="box">2</container>
               <unittitle>Walker vs. Lautner <unitdate type="inclusive" normal="1995">1995</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [6573854488971293889985]" altrender="box">2</container>
               <unittitle>Wood vs. Detroit Automobile Insurance Exchange <unitdate type="inclusive" normal="1982">1982</unitdate></unittitle>
             </did>
           </c03>
@@ -231,127 +240,127 @@ Norman Olson Papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [6573854488971293889985]" altrender="box">2</container>
               <unittitle>The Alanson Armory Gun Store</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [6573854488971293889985]" altrender="box">2</container>
               <unittitle>American Council on Economic Security</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [6573854488971293889985]" altrender="box">2</container>
               <unittitle>Camp Grayling <unitdate type="inclusive" normal="1994/1995">1994-1995</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [6573854488971293889985]" altrender="box">2</container>
               <unittitle>Change in Leadership of Michigan Militia <unitdate type="inclusive" normal="1998">1998</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [6573854488971293889985]" altrender="box">2</container>
               <unittitle>Charlevoix County Land Dispute <unitdate type="inclusive" normal="1996">1996</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [6573854488971293889985]" altrender="box">2</container>
               <unittitle>Detroit African American Militia/Detroit Constitutional Militia <unitdate type="inclusive" normal="1996">1996</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [6573854488971293889985]" altrender="box">2</container>
               <unittitle>Freedom Church <unitdate type="inclusive" normal="1994/1997">1994-1997</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [6573854488971293889985]" altrender="box">2</container>
               <unittitle>Hand-written Notes</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [6573854488971293889985]" altrender="box">2</container>
               <unittitle>Manual, Handbook, and By-laws of Militia</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [6573854488971293889985]" altrender="box">2</container>
               <unittitle>Miscellaneous</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [6573854488971293889985]" altrender="box">2</container>
               <unittitle>Montana Freemen, Jordan, Montana</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [6573854488971293889985]" altrender="box">2</container>
               <unittitle>News and Press Releases from Militia</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [6573854488971293889985]" altrender="box">2</container>
               <unittitle>NRA's relation and stance on Militia Movement <unitdate type="inclusive" normal="1994/1995">1994-1995</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [6573854488971293889985]" altrender="box">2</container>
               <unittitle>Northern Michigan Planned Parenthood</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [6573854488971293889985]" altrender="box">2</container>
               <unittitle>Republic of Texas Anti-Government Group <unitdate type="inclusive" normal="1996/1997">1996-1997</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [6573854488971293889985]" altrender="box">2</container>
               <unittitle>Steven Allen Lynn Investigation <unitdate type="inclusive" normal="1996/1997">1996-1997</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [6573854488971293889985]" altrender="box">2</container>
               <unittitle>Third Continental Congress <unitdate type="inclusive" normal="1996/1997">1996-1997</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [6573854488971293889985]" altrender="box">2</container>
               <unittitle>Training, Recruitment, and other records related to activities of militia</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [6573854488971293889985]" altrender="box">2</container>
               <unittitle>United States Heritage Legion</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [6573854488971293889985]" altrender="box">2</container>
               <unittitle>US Department of Treasury, Bureau of Alcohol, Tobacco, and Firearms</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [3240634509669318589]" altrender="box">3</container>
               <unittitle>Village of Pellston Gun Law <unitdate type="inclusive" normal="1994">1994</unitdate></unittitle>
             </did>
           </c03>
@@ -366,31 +375,31 @@ Norman Olson Papers, Bentley Historical Library, University of Michigan</p>
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [3240634509669318589]" altrender="box">3</container>
             <unittitle>Articles and Essays on Militia Movement</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [3240634509669318589]" altrender="box">3</container>
             <unittitle>Bruno, Gary (Licensing Issue)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [3240634509669318589]" altrender="box">3</container>
             <unittitle>Christianity and Religious Groups</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [3240634509669318589]" altrender="box">3</container>
             <unittitle>Committee on Un-American Activities, House of Representatives <unitdate type="inclusive" normal="1958/1962">1958-1962</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [3240634509669318589]" altrender="box">3</container>
             <unittitle>Conspiracies in US and International Politics</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -399,67 +408,67 @@ Norman Olson Papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [3240634509669318589]" altrender="box">3</container>
             <unittitle>Conspiracies involving Oklahoma City Bombing</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [3240634509669318589]" altrender="box">3</container>
             <unittitle>Conspiracies involving President William Jefferson Clinton</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [3240634509669318589]" altrender="box">3</container>
             <unittitle>Conspiracies involving Waco, Texas</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [3240634509669318589]" altrender="box">3</container>
             <unittitle>Constitutionists Networking Center</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [3240634509669318589]" altrender="box">3</container>
             <unittitle>Contact: The Phoenix Project <unitdate type="inclusive" normal="1995/1998">1995-1998</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [3240634509669318589]" altrender="box">3</container>
             <unittitle>Counsel American Individual Rights Enforcement <unitdate type="inclusive" normal="1994/1995">1994-1995</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [3240634509669318589]" altrender="box">3</container>
             <unittitle>Criminal Politics Magazine <unitdate type="inclusive" normal="1994/1996">1994-1996</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [3240634509669318589]" altrender="box">3</container>
             <unittitle>Elections <unitdate type="inclusive" normal="1994/1996">1994-1996</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [3240634509669318589]" altrender="box">3</container>
             <unittitle>The Federalist <unitdate type="inclusive" normal="1999">1999</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [3240634509669318589]" altrender="box">3</container>
             <unittitle>Gulf War Syndrome</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [3240634509669318589]" altrender="box">3</container>
             <unittitle>Gun Control/2nd Amendment</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -468,109 +477,109 @@ Norman Olson Papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [3240634509669318589]" altrender="box">3</container>
             <unittitle>Gun Owners of America and related organizations</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [3240634509669318589]" altrender="box">3</container>
             <unittitle>Guns</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [902322934463803838572]" altrender="box">4</container>
             <unittitle>Hill, Michael (Ohio Incident) <unitdate type="inclusive" normal="1995">1995</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [902322934463803838572]" altrender="box">4</container>
             <unittitle>International Affairs and Treaties</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [902322934463803838572]" altrender="box">4</container>
             <unittitle>Kjos Ministries</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [902322934463803838572]" altrender="box">4</container>
             <unittitle>Land Use and Zoning</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [902322934463803838572]" altrender="box">4</container>
             <unittitle>Legal and Legislative</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [902322934463803838572]" altrender="box">4</container>
             <unittitle>Legal Challenge to Emergency Government</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [902322934463803838572]" altrender="box">4</container>
             <unittitle>The McAlvany Intelligence Advisor <unitdate type="inclusive" normal="1993/1999">1993-1999</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [902322934463803838572]" altrender="box">4</container>
             <unittitle>Michigan Electors Association <unitdate type="inclusive" normal="1995/1996">1995-1996</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [902322934463803838572]" altrender="box">4</container>
             <unittitle>Michigan Militia Review Newsletter</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [902322934463803838572]" altrender="box">4</container>
             <unittitle>Miller, Clayton (Investigation) <unitdate type="inclusive" normal="1993">1993</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [902322934463803838572]" altrender="box">4</container>
             <unittitle>Miscellaneous</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [902322934463803838572]" altrender="box">4</container>
             <unittitle>National Confederation of Citizen Militias <unitdate type="inclusive" normal="1995/1996">1995-1996</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [902322934463803838572]" altrender="box">4</container>
             <unittitle>New, Michael (Court-Martial) <unitdate type="inclusive" normal="1995/1996">1995-1996</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [902322934463803838572]" altrender="box">4</container>
             <unittitle>The New American Newsletter</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [902322934463803838572]" altrender="box">4</container>
             <unittitle>Newspaper Articles and Clippings</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [902322934463803838572]" altrender="box">4</container>
             <unittitle>Other Newsletters</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -579,7 +588,7 @@ Norman Olson Papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [902322934463803838572]" altrender="box">4</container>
             <unittitle>Other Published Material Related to US and World History</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -588,13 +597,13 @@ Norman Olson Papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [902322934463803838572]" altrender="box">4</container>
             <unittitle>Patriot Report Newsletter <unitdate type="inclusive" normal="1994">1994</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [902322934463803838572]" altrender="box">4</container>
             <unittitle>Political Essays and Speeches <unitdate type="inclusive" normal="1950/1954">1950-1954</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -603,55 +612,55 @@ Norman Olson Papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [207286881346047503]" altrender="box">5</container>
             <unittitle>Posey, Tom and Tom Wiberly Trials <unitdate type="inclusive" normal="1994">1994</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [207286881346047503]" altrender="box">5</container>
             <unittitle>Relevance Newsletter <unitdate type="inclusive" normal="1994">1994</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [207286881346047503]" altrender="box">5</container>
             <unittitle>Resurrection News and Fax Network <unitdate type="inclusive" normal="1995/1997">1995-1997</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [207286881346047503]" altrender="box">5</container>
             <unittitle>Songs and Poetry</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [207286881346047503]" altrender="box">5</container>
             <unittitle>Trials of Tom Posey and Tom Wiberly <unitdate type="inclusive" normal="1994">1994</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [207286881346047503]" altrender="box">5</container>
             <unittitle>United Nations</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [207286881346047503]" altrender="box">5</container>
             <unittitle>US Armed Forces</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [207286881346047503]" altrender="box">5</container>
             <unittitle>Weekly Update <unitdate type="inclusive" normal="1996">1996</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [207286881346047503]" altrender="box">5</container>
             <unittitle>Wiberly, Tom</unittitle>
           </did>
           <odd>
@@ -660,7 +669,7 @@ Norman Olson Papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [207286881346047503]" altrender="box">5</container>
             <unittitle>Y2K</unittitle>
           </did>
         </c02>
@@ -670,25 +679,25 @@ Norman Olson Papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [207286881346047503]" altrender="box">5</container>
               <unittitle>Editors of the Intelligence Review <title render="italic">The Ugly Truth about the ADL</title>, <unitdate type="inclusive" normal="1992">1992</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [207286881346047503]" altrender="box">5</container>
               <unittitle>Hoy, Claire and Victor Ostrovsky <title render="italic">By War of Deception: A Devastating Insider's Portrait of the Mossad</title>, <unitdate type="inclusive" normal="1990">1990</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [207286881346047503]" altrender="box">5</container>
               <unittitle>Ruhling, Richard G. <title render="italic">The Fall of America: A Survivor's Manual</title>, <unitdate type="inclusive" normal="1995">1995</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [207286881346047503]" altrender="box">5</container>
               <unittitle>Townsend, Benjamin <title render="italic">The Powers that Be!: The battle rages between Church and State</title>, <unitdate type="inclusive" normal="1993">1993</unitdate></unittitle>
             </did>
           </c03>

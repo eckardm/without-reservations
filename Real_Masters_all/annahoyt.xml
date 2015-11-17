@@ -30,7 +30,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding Aid for <lb/>Anna Hoyt: Memorandum Book, <date type="inclusive">ca. 1864-ca. 1950</date></titleproper>
       <author>Finding aid prepared by: <lb/>Bill Landis, 1997</author>
     </titlepage>
@@ -83,19 +83,19 @@
       <controlaccess>
         <head>Subjects:</head>
         <persname source="lcnaf" encodinganalog="600">Hoyt, Anna.</persname>
-        <geogname source="lcsh" encodinganalog="651">Mount Morris (Mich.)</geogname>
-        <subject source="lcsh" encodinganalog="650">Women--Michigan--Mount Morris.</subject>
-        <subject source="lcsh" encodinganalog="650">United States--Civil War, 1861-1865.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/940">Mount Morris (Mich.)</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5921">Women--Michigan--Mount Morris.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5922">United States--Civil War, 1861-1865.</subject>
       </controlaccess>
       <controlaccess>
         <head>Genre/Form:</head>
-        <genreform source="aat" encodinganalog="655">Poetry.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3171">Poetry.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
       <c01 level="series">
         <did>
-          <container type="volume" label="Volume">1</container>
+          <container type="volume" label="Volume [55153141048550657111]" altrender="volume">1</container>
           <unittitle>Anna Hoyt Memorandum book <unitdate type="inclusive" normal="1864/1950" certainty="approximate">circa 1864-1950</unitdate></unittitle>
         </did>
         <odd>

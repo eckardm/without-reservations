@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Arthur R. Kooker papers, 1850-1882</titleproper>
       <author>Finding aid created by <lb/>Thomas E. Powers, 1979 and 1984</author>
     </titlepage>
@@ -85,13 +85,13 @@ Arthur R. Kooker papers, Bentley Historical Library, University of Michigan</p>
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <geogname source="lcsh" encodinganalog="651">Kansas.</geogname>
-        <geogname source="lcsh" encodinganalog="651">Schoolcraft (Mich.)</geogname>
-        <subject source="lcsh" encodinganalog="650">Antislavery movements--Michigan.</subject>
-        <subject source="lcsh" encodinganalog="650">Underground Railroad--Michigan.</subject>
-        <geogname source="lcsh" encodinganalog="651">United States--Politics and government--1845-1861.</geogname>
-        <geogname source="lcsh" encodinganalog="651">United States--Politics and government--1861-1865.</geogname>
-        <geogname source="lcsh" encodinganalog="651">United States--Politics and government--1865-1877.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/918">Kansas.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1225">Schoolcraft (Mich.)</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/8697">Antislavery movements--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/8486">Underground Railroad--Michigan.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1402">United States--Politics and government--1845-1861.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/2015">United States--Politics and government--1861-1865.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/2014">United States--Politics and government--1865-1877.</geogname>
         <persname source="lcnaf" encodinganalog="700">Thomas, Nathan M. (Nathan Macy), 1803-1887.</persname>
         <persname source="lcnaf" encodinganalog="700" authfilenumber="http://id.loc.gov/authorities/names/n85185910">Smith, Gerrit, 1797-1874.</persname>
       </controlaccess>
@@ -103,18 +103,20 @@ Arthur R. Kooker papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [778970440676061740]" altrender="box">1</container>
             <unittitle>Correspondence</unittitle>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
-              <unittitle>Undated <unitdate type="inclusive" normal="1829">1829</unitdate>, <unitdate type="inclusive" normal="1850/1854">1850-1854</unitdate></unittitle>
+              <container type="box" label="Box [778970440676061740]" altrender="box">1</container>
+              <unittitle>Undated</unittitle>
+              <unitdate type="inclusive" normal="1829">1829</unitdate>
+              <unitdate type="inclusive" normal="1850/1854">1850-1854</unitdate>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [778970440676061740]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1855/1860">1855-1860</unitdate>
               </unittitle>
@@ -125,50 +127,54 @@ Arthur R. Kooker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
-              <unittitle><unitdate type="inclusive" normal="1861/1868">1861-1868</unitdate>, <unitdate type="inclusive" normal="1872">1872</unitdate>, <unitdate type="inclusive" normal="1874">1874</unitdate></unittitle>
+              <container type="box" label="Box [778970440676061740]" altrender="box">1</container>
+              <unitdate type="inclusive" normal="1861/1868">1861-1868</unitdate>
+              <unitdate type="inclusive" normal="1872">1872</unitdate>
+              <unitdate type="inclusive" normal="1874">1874</unitdate>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <unittitle>Autobiographical essays <unitdate type="inclusive" normal="1868">1868</unitdate>, <unitdate type="inclusive">undated</unitdate></unittitle>
+            <container type="box" label="Box [778970440676061740]" altrender="box">1</container>
+            <unittitle>Autobiographical essays</unittitle>
+            <unitdate type="inclusive" normal="1868">1868</unitdate>
+            <unitdate type="inclusive">undated</unitdate>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [778970440676061740]" altrender="box">1</container>
             <unittitle>Genealogical material</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [778970440676061740]" altrender="box">1</container>
             <unittitle>Letter detailing operation of the underground railroad <unitdate type="inclusive" normal="1882">1882</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [778970440676061740]" altrender="box">1</container>
             <unittitle>Paper regarding an Ann Arbor Michigan home that was a station along the underground railroad</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [778970440676061740]" altrender="box">1</container>
             <unittitle>Paper regarding Laura Smith Haviland</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [778970440676061740]" altrender="box">1</container>
             <unittitle>Research notes and miscellanea</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [778970440676061740]" altrender="box">1</container>
             <unittitle>Miscellaneous and fragmentary</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -177,7 +183,7 @@ Arthur R. Kooker papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [778970440676061740]" altrender="box">1</container>
             <unittitle>Notebooks and journals</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">5 volumes</extent>
@@ -190,37 +196,37 @@ Arthur R. Kooker papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="folder" label="Oversize Folder">1</container>
+              <container type="folder" label="Oversize Folder [56999769412673108870]" altrender="folder">1</container>
               <unittitle><title render="italic">National Enquirer and Constitutional Advocate of Universal Liberty</title> (Philadelphia, Pa.), <unitdate type="inclusive" normal="1837">1837</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="folder" label="Oversize Folder">1</container>
+              <container type="folder" label="Oversize Folder [56999769412673108870]" altrender="folder">1</container>
               <unittitle><title render="italic">The Northern Independent</title> (Auburn, N.Y.), <unitdate type="inclusive" normal="1857">1857</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="folder" label="Oversize Folder">1</container>
+              <container type="folder" label="Oversize Folder [56999769412673108870]" altrender="folder">1</container>
               <unittitle><title render="italic">The Pennsylvania Freeman</title> (Philadelphia, Pa.), <unitdate type="inclusive" normal="1838/1840">1838-1840</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="folder" label="Oversize Folder">1</container>
+              <container type="folder" label="Oversize Folder [56999769412673108870]" altrender="folder">1</container>
               <unittitle><title render="italic">The Philanthropist</title> (Cincinnati, Ohio), <unitdate type="inclusive" normal="1837/1839">1837-1839</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="folder" label="Oversize Folder">1</container>
+              <container type="folder" label="Oversize Folder [56999769412673108870]" altrender="folder">1</container>
               <unittitle><title render="italic">The Portage County Democrat</title> (Ravenna, Ohio), <unitdate type="inclusive" normal="1859">1859</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="folder" label="Oversize Folder">1</container>
+              <container type="folder" label="Oversize Folder [56999769412673108870]" altrender="folder">1</container>
               <unittitle>Broadside, "The Perils of Freedom in Kansas! The Crisis at Hand!! Speech of Gov. Reeder," <unitdate type="inclusive" normal="1856">1856</unitdate></unittitle>
             </did>
           </c03>

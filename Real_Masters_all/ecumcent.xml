@@ -30,7 +30,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Ecumenical Center and International Residence <lb/>(University of Michigan) <lb/>Records, 1947-1999</titleproper>
       <author>Finding aid created by <lb/>Bentley Historical Library staff, 2005</author>
     </titlepage>
@@ -81,17 +81,17 @@ Ecumenical Center and International Residence (University of Michigan) Records
       <controlaccess>
         <head>Subjects:</head>
         <corpname source="lcnaf" encodinganalog="610">Ecumenical Center and International Residence.</corpname>
-        <subject source="lcsh" encodinganalog="650">Church work with students--Michigan--Ann Arbor.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7386">Church work with students--Michigan--Ann Arbor.</subject>
         <corpname source="lcnaf" encodinganalog="610">Ecumenical Association for International Understanding.</corpname>
         <corpname source="lcnaf" encodinganalog="610">Protestant Foundation for International Students (University of Michigan)</corpname>
-        <subject source="lcsh" encodinganalog="650">Students, Foreign--Michigan--Ann Arbor.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6087">Students, Foreign--Michigan--Ann Arbor.</subject>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan. Presbyterian Corporation.</corpname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan--Students.</corpname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan--Student housing.</corpname>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -101,7 +101,7 @@ Ecumenical Center and International Residence (University of Michigan) Records
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [3597824948987383754]" altrender="box">1</container>
             <unittitle>Minutes <unitdate type="inclusive" normal="1952/1972">1952-1972</unitdate></unittitle>
           </did>
           <odd>
@@ -109,7 +109,7 @@ Ecumenical Center and International Residence (University of Michigan) Records
           </odd>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [3597824948987383754]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1952/1969">1952-1969</unitdate>
               </unittitle>
@@ -123,7 +123,7 @@ Ecumenical Center and International Residence (University of Michigan) Records
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [76462757468379898613]" altrender="box">2</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1965/1970">1965-1970</unitdate>
               </unittitle>
@@ -134,7 +134,7 @@ Ecumenical Center and International Residence (University of Michigan) Records
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [352128849980976093]" altrender="box">3</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1970/1972">1970-1972</unitdate>
               </unittitle>
@@ -151,18 +151,18 @@ Ecumenical Center and International Residence (University of Michigan) Records
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [352128849980976093]" altrender="box">3</container>
             <unittitle>Photograph album <unitdate type="inclusive" normal="1954/1955">1954-1955</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [352128849980976093]" altrender="box">3</container>
             <unittitle>Minute book <unitdate type="inclusive" normal="1947/1967">1947-1967</unitdate></unittitle>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [352128849980976093]" altrender="box">3</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1947/1957">1947-1957</unitdate>
               </unittitle>
@@ -170,7 +170,7 @@ Ecumenical Center and International Residence (University of Michigan) Records
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [263555128314880145749217]" altrender="box">4</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1957/1967">1957-1967</unitdate>
               </unittitle>
@@ -187,7 +187,7 @@ Ecumenical Center and International Residence (University of Michigan) Records
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [75043439427900710008]" altrender="box">5</container>
             <unittitle>Committee reports <unitdate type="inclusive" normal="1965/1971">1965-1971</unitdate></unittitle>
           </did>
           <odd>
@@ -196,7 +196,7 @@ Ecumenical Center and International Residence (University of Michigan) Records
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [75043439427900710008]" altrender="box">5</container>
             <unittitle>Minute books <unitdate type="inclusive" normal="1968/1972">1968-1972</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 volumes</extent>
@@ -213,12 +213,12 @@ Ecumenical Center and International Residence (University of Michigan) Records
         </odd>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [75043439427900710008]" altrender="box">5</container>
             <unittitle>Record books <unitdate type="inclusive" normal="1970/1994">1970-1994</unitdate></unittitle>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [75043439427900710008]" altrender="box">5</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1970/1974">1970-1974</unitdate>
               </unittitle>
@@ -229,7 +229,7 @@ Ecumenical Center and International Residence (University of Michigan) Records
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [31553340066935008]" altrender="box">6</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1973/1986">1973-1986</unitdate>
               </unittitle>
@@ -243,7 +243,7 @@ Ecumenical Center and International Residence (University of Michigan) Records
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">7</container>
+              <container type="box" label="Box [45977954964635857382026]" altrender="box">7</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1985/1989">1985-1989</unitdate>
               </unittitle>
@@ -254,7 +254,7 @@ Ecumenical Center and International Residence (University of Michigan) Records
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">8</container>
+              <container type="box" label="Box [36304480834286733707]" altrender="box">8</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1990/1994">1990-1994</unitdate>
               </unittitle>
@@ -274,26 +274,28 @@ Ecumenical Center and International Residence (University of Michigan) Records
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">9</container>
+            <container type="box" label="Box [4469787493888485692383]" altrender="box">9</container>
             <unittitle>Synod Committee on Campus Ministry in Michigan <unitdate type="inclusive" normal="1978/1979">1978-1979</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">9</container>
+            <container type="box" label="Box [4469787493888485692383]" altrender="box">9</container>
             <unittitle>Synod Committee on Ministry in Higher Education in Michigan <unitdate type="inclusive" normal="1979/1980">1979-1980</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">9</container>
+            <container type="box" label="Box [4469787493888485692383]" altrender="box">9</container>
             <unittitle>Presbytery of Southern Michigan <unitdate type="inclusive" normal="1964/1966">1964-1966</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">9</container>
-            <unittitle>Presbytery of Detroit <unitdate type="inclusive" normal="1975/1976">1975-1976</unitdate>, <unitdate type="inclusive" normal="1980">1980</unitdate></unittitle>
+            <container type="box" label="Box [4469787493888485692383]" altrender="box">9</container>
+            <unittitle>Presbytery of Detroit</unittitle>
+            <unitdate type="inclusive" normal="1975/1976">1975-1976</unitdate>
+            <unitdate type="inclusive" normal="1980">1980</unitdate>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">4 volumes</extent>
             </physdesc>
@@ -301,25 +303,25 @@ Ecumenical Center and International Residence (University of Michigan) Records
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">10</container>
+            <container type="box" label="Box [190943347986548058998]" altrender="box">10</container>
             <unittitle>Newsletters <unitdate type="inclusive" normal="1987/1999">1987-1999</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">11</container>
+            <container type="box" label="Box [063122540290703276]" altrender="box">11</container>
             <unittitle>Unfoldered records</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">12</container>
+            <container type="box" label="Box [9493964542118561474828]" altrender="box">12</container>
             <unittitle>Building Fund Campaign Committee records</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">13</container>
+            <container type="box" label="Box [72798942696218786404]" altrender="box">13</container>
             <unittitle>Building Fund Campaign Committee records</unittitle>
           </did>
           <odd>

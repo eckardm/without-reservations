@@ -30,7 +30,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding Aid for <lb/>Helen Belfield Bates Van Tyne Papers, <date type="inclusive">1846-1971</date></titleproper>
       <author>Finding aid prepared by: <lb/>Anne M. Holcomb</author>
     </titlepage>
@@ -40,7 +40,9 @@
       <origination>
         <persname source="lcnaf" encodinganalog="100">Van Tyne, Helen Belfield Bates.</persname>
       </origination>
-      <unittitle encodinganalog="245">Helen Belfield Bates Van Tyne Papers <unitdate type="inclusive" encodinganalog="245$f" normal="1846/1971">1846-1971</unitdate>, <unitdate type="bulk" encodinganalog="245$g" normal="1950/1966">1950-1966</unitdate></unittitle>
+      <unittitle encodinganalog="245">Helen Belfield Bates Van Tyne Papers</unittitle>
+      <unitdate type="inclusive" encodinganalog="245$f" normal="1846/1971">1846-1971</unitdate>
+      <unitdate type="bulk" encodinganalog="245$g" normal="1950/1966">1950-1966</unitdate>
       <abstract>Papers of Helen B. Van Tyne and earlier members of the Belfield family. Civil War papers and family correspondence of Henry H. Belfield, founder of the Chicago Manual Training School; and papers, 1944-1971, of Helen Van Tyne, Ann Arbor, Michigan civic leader and member of the citizens advisory council of the Washtenaw County Juvenile Court, concerning her interest in the problem of juvenile delinquency, the Michigan League for Planned Parenthood, the Michigan Council on Women in Business and Industry, and the James Foster Foundation.</abstract>
       <unitid countrycode="us" repositorycode="MiU-H" encodinganalog="099" type="call number">86164 Aa 2; UAm</unitid>
       <langmaterial>The materials are in <language encodinganalog="041" langcode="eng">English.</language></langmaterial>
@@ -87,30 +89,30 @@
       <controlaccess>
         <head>Subjects:</head>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n2003010966">Belfield, Henry Holmes, 1837-1912.</persname>
-        <subject source="lcsh" encodinganalog="650">Birth control.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6368">Birth control.</subject>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/no2002109489">Chicago Manual Training School.</corpname>
         <corpname source="lcnaf" encodinganalog="610">Citizens Advisory Council of the Washtenaw County Juvenile Court.</corpname>
-        <subject source="lcsh" encodinganalog="650">Civic leaders--Michigan--Ann Arbor.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7028">Civic leaders--Michigan--Ann Arbor.</subject>
         <corpname source="lcnaf" encodinganalog="610">James Foster Foundation (Ann Arbor, Mich.)</corpname>
-        <subject source="lcsh" encodinganalog="650">Juvenile delinquency--Michigan--Ann Arbor.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/10537">Juvenile delinquency--Michigan--Ann Arbor.</subject>
         <corpname source="lcnaf" encodinganalog="610">Michigan Council on Women in Business and Industry.</corpname>
         <corpname source="lcnaf" encodinganalog="610">Michigan League for Planned Parenthood.</corpname>
         <corpname source="lcnaf" encodinganalog="610">Michigan. Probate Court (Washtenaw County). Juvenile Division.</corpname>
-        <subject source="lcsh" encodinganalog="650">Social service--Michigan--Societies, etc.</subject>
-        <geogname source="lcsh" encodinganalog="651">United States--History--Civil War, 1861-1865.</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6784">Social service--Michigan--Societies, etc.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/909">United States--History--Civil War, 1861-1865.</geogname>
         <persname source="lcnaf" encodinganalog="600">Van Tyne, Helen Belfield Bates.</persname>
-        <subject source="lcsh" encodinganalog="650">Women civic leaders--Michigan--Ann Arbor.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7027">Women civic leaders--Michigan--Ann Arbor.</subject>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Material:</head>
         <famname source="lcnaf" encodinganalog="600">Belfield family.</famname>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n2003010966">Belfield, Henry Holmes, 1837-1912.</persname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/no2002109489">Chicago Manual Training School.</corpname>
-        <geogname source="lcsh" encodinganalog="651">Chicago (Ill.)--Buildings, structures, etc.</geogname>
-        <subject source="lcsh" encodinganalog="650">Dwellings--Illinois--Chicago.</subject>
-        <subject source="lctgm" encodinganalog="650">Educational buildings--Illinois--Chicago.</subject>
-        <geogname source="lcsh" encodinganalog="651">United States--History--Civil War, 1861-1865.</geogname>
-        <subject source="lctgm" encodinganalog="650">Women.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/2568">Chicago (Ill.)--Buildings, structures, etc.</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/10538">Dwellings--Illinois--Chicago.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/5512">Educational buildings--Illinois--Chicago.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/909">United States--History--Civil War, 1861-1865.</geogname>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3619">Women.</subject>
       </controlaccess>
       <controlaccess>
         <head>Contributors:</head>
@@ -118,9 +120,9 @@
       </controlaccess>
       <controlaccess>
         <head>Genre/Form:</head>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
-        <genreform source="gmgpc" encodinganalog="655">Portraits.</genreform>
-        <genreform source="gmgpc" encodinganalog="655">Tintypes.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
+        <genreform source="gmgpc" encodinganalog="655" ref="/subjects/3481">Portraits.</genreform>
+        <genreform source="gmgpc" encodinganalog="655" ref="/subjects/3455">Tintypes.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -133,7 +135,7 @@
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [25397841997799031675]" altrender="box">1</container>
             <unittitle>AAUW State Legislation <unitdate type="inclusive" normal="1947/1948">1947-1948</unitdate></unittitle>
           </did>
         </c02>
@@ -143,13 +145,13 @@
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [25397841997799031675]" altrender="box">1</container>
               <unittitle>Administrative <unitdate type="inclusive" normal="1945/1953">1945-1953</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [25397841997799031675]" altrender="box">1</container>
               <unittitle>Correspondence <unitdate type="inclusive" normal="1952/1954">1952-1954</unitdate></unittitle>
             </did>
           </c03>
@@ -160,13 +162,13 @@
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [25397841997799031675]" altrender="box">1</container>
               <unittitle>Administrative <unitdate type="inclusive" normal="1952/1954">1952-1954</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [25397841997799031675]" altrender="box">1</container>
               <unittitle>Correspondence <unitdate type="inclusive" normal="1952/1954">1952-1954</unitdate></unittitle>
             </did>
           </c03>
@@ -181,7 +183,7 @@
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [25397841997799031675]" altrender="box">1</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1950/1952">1950-1952</unitdate>
                 </unittitle>
@@ -189,7 +191,7 @@
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [25397841997799031675]" altrender="box">1</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1952/1955">1952-1955</unitdate>
                 </unittitle>
@@ -198,7 +200,7 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [25397841997799031675]" altrender="box">1</container>
               <unittitle>Correspondence <unitdate type="inclusive" normal="1950/1956">1950-1956</unitdate></unittitle>
             </did>
           </c03>
@@ -213,7 +215,7 @@
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [25397841997799031675]" altrender="box">1</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1947/1966">1947-1966</unitdate>
                 </unittitle>
@@ -221,7 +223,7 @@
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [25397841997799031675]" altrender="box">1</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1967">1967</unitdate>
                 </unittitle>
@@ -234,7 +236,7 @@
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [25397841997799031675]" altrender="box">1</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1955/1964">1955-1964</unitdate>
                 </unittitle>
@@ -242,7 +244,7 @@
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [25397841997799031675]" altrender="box">1</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1964/1966">1964-1966</unitdate>
                 </unittitle>
@@ -250,7 +252,7 @@
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [25397841997799031675]" altrender="box">1</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1966/1968">1966-1968</unitdate>
                 </unittitle>
@@ -263,7 +265,7 @@
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [25397841997799031675]" altrender="box">1</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1946/1960">1946-1960</unitdate>
                 </unittitle>
@@ -271,7 +273,7 @@
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [25397841997799031675]" altrender="box">1</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1960/1970">1960-1970</unitdate>
                 </unittitle>
@@ -284,7 +286,7 @@
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [25397841997799031675]" altrender="box">1</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1944/1959">1944-1959</unitdate>
                 </unittitle>
@@ -292,7 +294,7 @@
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [25397841997799031675]" altrender="box">1</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1960/1969">1960-1969</unitdate>
                 </unittitle>
@@ -301,7 +303,7 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [25397841997799031675]" altrender="box">1</container>
               <unittitle>Project 74 <unitdate type="inclusive" normal="1963/1967">1963-1967</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">4 folders</extent>
@@ -326,7 +328,7 @@
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [721566613464079898823466]" altrender="box">2</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1934/1950">1934-1950</unitdate>
               </unittitle>
@@ -334,7 +336,7 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [721566613464079898823466]" altrender="box">2</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1957">1957</unitdate>
               </unittitle>
@@ -345,7 +347,7 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [721566613464079898823466]" altrender="box">2</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1958">1958</unitdate>
               </unittitle>
@@ -353,7 +355,7 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [721566613464079898823466]" altrender="box">2</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1959">1959</unitdate>
               </unittitle>
@@ -361,7 +363,7 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [721566613464079898823466]" altrender="box">2</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1960/1967">1960-1967</unitdate>
               </unittitle>
@@ -374,20 +376,20 @@
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [721566613464079898823466]" altrender="box">2</container>
               <unittitle>Publication Correspondence <unitdate type="inclusive" normal="1946/1956">1946-1956</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [721566613464079898823466]" altrender="box">2</container>
               <unittitle>Posthumous Publication Correspondence <unitdate type="inclusive" normal="1957/1969">1957-1969</unitdate></unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [721566613464079898823466]" altrender="box">2</container>
             <unittitle>Correspondence -- Letters of Condolence <unitdate type="inclusive" normal="1963">1963</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -396,7 +398,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [721566613464079898823466]" altrender="box">2</container>
             <unittitle>Miscellanea <unitdate type="inclusive" normal="1928/1971">1928-1971</unitdate></unittitle>
           </did>
         </c02>
@@ -410,19 +412,19 @@
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [721566613464079898823466]" altrender="box">2</container>
             <unittitle>Belfield Family Correspondence <unitdate type="inclusive" normal="1877/1939">1877-1939</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [721566613464079898823466]" altrender="box">2</container>
             <unittitle>Newspaper clippings concerning Belfield family <unitdate type="inclusive" normal="1900/1957">1900-1957</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [721566613464079898823466]" altrender="box">2</container>
             <unittitle>Belfield Family Miscellanea <unitdate type="inclusive" normal="1846/1937">1846-1937</unitdate></unittitle>
           </did>
         </c02>
@@ -432,13 +434,13 @@
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [721566613464079898823466]" altrender="box">2</container>
               <unittitle>Civil War Papers <unitdate type="inclusive" normal="1863/1866">1863-1866</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [721566613464079898823466]" altrender="box">2</container>
               <unittitle>Diaries and marriage advice book <unitdate type="inclusive" normal="1865/1910">1865-1910</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">5 volumes</extent>
@@ -447,19 +449,19 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [721566613464079898823466]" altrender="box">2</container>
               <unittitle>Chicago Manual Training School <unitdate type="inclusive" normal="1885/1903">1885-1903</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [721566613464079898823466]" altrender="box">2</container>
               <unittitle>Speeches and Articles <unitdate type="inclusive" normal="1905/1913">1905-1913</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [721566613464079898823466]" altrender="box">2</container>
               <unittitle>Scrapbooks <unitdate type="inclusive" normal="1883/1891">1883-1891</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 volumes</extent>
@@ -476,13 +478,13 @@
           </odd>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [721566613464079898823466]" altrender="box">2</container>
               <unittitle>Henry H. Belfield <unitdate type="inclusive" normal="1860/1913">1860-1913</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [721566613464079898823466]" altrender="box">2</container>
               <unittitle>Anne Miller Belfield and Children <unitdate type="inclusive" normal="1869/1871">1869-1871</unitdate></unittitle>
             </did>
           </c03>
@@ -492,20 +494,20 @@
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [721566613464079898823466]" altrender="box">2</container>
                 <unittitle>Male <unitdate type="inclusive" normal="1860/1913">1860-1913</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [721566613464079898823466]" altrender="box">2</container>
                 <unittitle>Female <unitdate type="inclusive" normal="1860/1891">1860-1891</unitdate></unittitle>
               </did>
             </c04>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [721566613464079898823466]" altrender="box">2</container>
               <unittitle>Miscellaneous <unitdate type="inclusive" normal="1860/1913">1860-1913</unitdate></unittitle>
             </did>
           </c03>

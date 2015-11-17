@@ -35,7 +35,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Peter Sparling papers, 1961-2013</titleproper>
       <author>Finding aid created by <lb/>Jennifer Jacobs 2000 <lb/>Nancy Deromedi (additions) 2001, 2003, 2005.</author>
     </titlepage>
@@ -45,7 +45,9 @@
       <origination>
         <persname source="lcnaf" encodinganalog="100">Peter Sparling.</persname>
       </origination>
-      <unittitle encodinganalog="245">Peter Sparling papers <unitdate type="inclusive" encodinganalog="245$f" normal="1961/2013">1961-2013</unitdate>, <unitdate type="bulk" encodinganalog="245$g" normal="1970/2000">1970-2000</unitdate></unittitle>
+      <unittitle encodinganalog="245">Peter Sparling papers</unittitle>
+      <unitdate type="inclusive" encodinganalog="245$f" normal="1961/2013">1961-2013</unitdate>
+      <unitdate type="bulk" encodinganalog="245$g" normal="1970/2000">1970-2000</unitdate>
       <unitid encodinganalog="852$h" repositorycode="MiU-H" countrycode="us" type="call number">0312 Aa2</unitid>
       <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language></langmaterial>
       <abstract>Peter Sparling is Professor of Dance at the University of Michigan School of Music. Well known as both performer and choreographer, he has danced with Martha Graham and Jose Limon. Papers consist of materials relating to Sparling’s dance training, performance, and teaching including background materials; choreography notes and sketches; correspondence; clippings and publicity from dance companies with whom he was associated; programs and reviews; photographs, video and film of performances; and posters.</abstract>
@@ -101,27 +103,27 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
       <controlaccess>
         <head>Subjects:</head>
         <persname source="lcnaf" encodinganalog="600">Sparling, Peter, 1951-</persname>
-        <subject source="lcsh" encodinganalog="650">Choreographers--United States.</subject>
-        <subject source="lcsh" encodinganalog="650">Dancers--United States.</subject>
-        <subject source="lcsh" encodinganalog="650">Ballet--United States.</subject>
-        <subject source="lcsh" encodinganalog="650">Ballet--Study and teaching.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7170">Choreographers--United States.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7171">Dancers--United States.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/10169">Ballet--United States.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/10170">Ballet--Study and teaching.</subject>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan--Faculty.</corpname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n82063886">University of Michigan. School of Music.</corpname>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Materials:</head>
         <persname source="lcnaf" encodinganalog="600">Sparling, Peter, 1951-</persname>
-        <subject source="lctgm" encodinganalog="650">Choreography.</subject>
-        <subject source="lctgm" encodinganalog="650">Ballet--United States.</subject>
-        <subject source="lctgm" encodinganalog="650">Dancers.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4165">Choreography.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/5355">Ballet--United States.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3613">Dancers.</subject>
         <persname source="lcnaf" encodinganalog="600">Sparling, Peter, 1951-, Performances.</persname>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Posters.</genreform>
-        <genreform source="aat" encodinganalog="655">Videotapes.</genreform>
-        <genreform source="aat" encodinganalog="655">Motion pictures.</genreform>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3144">Posters.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3140">Videotapes.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3167">Motion pictures.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -134,8 +136,10 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <unittitle>Biographical Materials <unitdate type="inclusive" normal="1988/1999">1988-1999</unitdate>, <unitdate type="inclusive">undated</unitdate></unittitle>
+            <container type="box" label="Box [955780063433992928673]" altrender="box">1</container>
+            <unittitle>Biographical Materials</unittitle>
+            <unitdate type="inclusive" normal="1988/1999">1988-1999</unitdate>
+            <unitdate type="inclusive">undated</unitdate>
           </did>
         </c02>
         <c02 level="file">
@@ -144,7 +148,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [955780063433992928673]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="2000">2000</unitdate>
               </unittitle>
@@ -162,7 +166,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
               <physdesc>
                 <physfacet>.PDF file</physfacet>
               </physdesc>
-              <dao href="http://hdl.handle.net/2027.42/102582" show="new" actuate="onrequest">
+              <dao href="http://hdl.handle.net/2027.42/102582" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/8978">
                 <daodesc>
                   <p>[download item]</p>
                 </daodesc>
@@ -172,14 +176,17 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [955780063433992928673]" altrender="box">1</container>
             <unittitle>Dance Slippers (one pair)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <unittitle>Drawings <unitdate type="inclusive" normal="1967">1967</unitdate>, <unitdate type="inclusive" normal="1994" certainty="approximate">circa 1994</unitdate>, <unitdate type="inclusive">undated</unitdate></unittitle>
+            <container type="box" label="Box [955780063433992928673]" altrender="box">1</container>
+            <unittitle>Drawings</unittitle>
+            <unitdate type="inclusive" normal="1967">1967</unitdate>
+            <unitdate type="inclusive" normal="1994" certainty="approximate">circa 1994</unitdate>
+            <unitdate type="inclusive">undated</unitdate>
           </did>
           <odd>
             <p>(includes photograph--see also oversize series Posters)</p>
@@ -191,26 +198,30 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [955780063433992928673]" altrender="box">1</container>
               <unittitle>"Dance History" (project for dance class at Juilliard School) <unitdate type="inclusive" normal="1972">1972</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
-              <unittitle>"Soviet Journal: An informal account of my life and impressions while on the U.S. State Department-sponsored tour of the Jose Limon Dance Company through the Soviet Union <unitdate type="inclusive" normal="1973-02-23/1973-03-21">February 23-March 21, 1973</unitdate> by Peter Sparling," <unitdate type="inclusive" normal="1973">1973</unitdate></unittitle>
+              <container type="box" label="Box [955780063433992928673]" altrender="box">1</container>
+              <unittitle>"Soviet Journal: An informal account of my life and impressions while on the U.S. State Department-sponsored tour of the Jose Limon Dance Company through the Soviet Union February 23-March 21, 1973 by Peter Sparling," 1973</unittitle>
+              <unitdate type="inclusive" normal="1973-02-23/1973-03-21">February 23-March 21, 1973</unitdate>
+              <unitdate type="inclusive" normal="1973">1973</unitdate>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <unittitle>Music for Dance <unitdate type="inclusive" normal="1988/1989">1988-1989</unitdate>, <unitdate type="inclusive">undated</unitdate></unittitle>
+            <container type="box" label="Box [955780063433992928673]" altrender="box">1</container>
+            <unittitle>Music for Dance</unittitle>
+            <unitdate type="inclusive" normal="1988/1989">1988-1989</unitdate>
+            <unitdate type="inclusive">undated</unitdate>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [955780063433992928673]" altrender="box">1</container>
             <unittitle>"Personal Reflections: On Dancing, Making Dances, and 'Histories of Sexuality,'" <unitdate type="inclusive" normal="1990/1991" certainty="approximate">circa 1990-1991</unitdate></unittitle>
           </did>
         </c02>
@@ -224,31 +235,33 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [955780063433992928673]" altrender="box">1</container>
             <unittitle>"Acts of Light," <unitdate type="inclusive" normal="1999" certainty="approximate">circa 1999</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [955780063433992928673]" altrender="box">1</container>
             <unittitle>"Dance for 'The Wave Field,'" <unitdate type="inclusive" normal="1995">1995</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [955780063433992928673]" altrender="box">1</container>
             <unittitle>"Delirium Waltz," <unitdate type="inclusive" normal="1998/1999">1998-1999</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <unittitle>"A Fearful Symmetry," <unitdate type="inclusive" normal="1982/1988">1982-1988</unitdate>, <unitdate type="inclusive">undated</unitdate></unittitle>
+            <container type="box" label="Box [955780063433992928673]" altrender="box">1</container>
+            <unittitle>"A Fearful Symmetry,"</unittitle>
+            <unitdate type="inclusive" normal="1982/1988">1982-1988</unitdate>
+            <unitdate type="inclusive">undated</unitdate>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [955780063433992928673]" altrender="box">1</container>
             <unittitle>Script of Lecture/Demonstration in San Jose, Costa Rica <unitdate type="inclusive">undated</unitdate></unittitle>
           </did>
         </c02>
@@ -258,13 +271,13 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [955780063433992928673]" altrender="box">1</container>
               <unittitle>Funding <unitdate type="inclusive" normal="1997">1997</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [955780063433992928673]" altrender="box">1</container>
               <unittitle>Proposals and Scripts <unitdate type="inclusive" normal="1996/1997">1996-1997</unitdate></unittitle>
             </did>
           </c03>
@@ -275,20 +288,22 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [955780063433992928673]" altrender="box">1</container>
               <unittitle>Notes and Correspondence <unitdate type="inclusive" normal="1993">1993</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
-              <unittitle>Scripts and Newsclippings <unitdate type="inclusive" normal="1994/1995">1994-1995</unitdate>, <unitdate type="inclusive">undated</unitdate></unittitle>
+              <container type="box" label="Box [955780063433992928673]" altrender="box">1</container>
+              <unittitle>Scripts and Newsclippings</unittitle>
+              <unitdate type="inclusive" normal="1994/1995">1994-1995</unitdate>
+              <unitdate type="inclusive">undated</unitdate>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [955780063433992928673]" altrender="box">1</container>
             <unittitle>"Unfinished (to the Schubert Symphony)," <unitdate type="inclusive" normal="1997">1997</unitdate></unittitle>
           </did>
         </c02>
@@ -302,7 +317,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [955780063433992928673]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive">undated</unitdate>
             </unittitle>
@@ -310,7 +325,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [955780063433992928673]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1966/1998">1966-1998</unitdate>
             </unittitle>
@@ -321,7 +336,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [955780063433992928673]" altrender="box">1</container>
             <unittitle>Postcards kept by the Sparling family from P.S. on tour <unitdate type="inclusive" normal="1974/1979">1974-1979</unitdate></unittitle>
           </did>
           <odd>
@@ -338,13 +353,13 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [955780063433992928673]" altrender="box">1</container>
             <unittitle>Ann Arbor Dance Works <unitdate type="inclusive">undated</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [955780063433992928673]" altrender="box">1</container>
             <unittitle>Dance Gallery/Peter Sparling &amp; Co. <unitdate type="inclusive" normal="1997/1999">1997-1999</unitdate></unittitle>
           </did>
         </c02>
@@ -354,14 +369,18 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
-              <unittitle>Clippings <unitdate type="inclusive" normal="1991">1991</unitdate>, <unitdate type="inclusive">undated</unitdate></unittitle>
+              <container type="box" label="Box [955780063433992928673]" altrender="box">1</container>
+              <unittitle>Clippings</unittitle>
+              <unitdate type="inclusive" normal="1991">1991</unitdate>
+              <unitdate type="inclusive">undated</unitdate>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
-              <unittitle>Publicity <unitdate type="inclusive" normal="1974/1988">1974-1988</unitdate>, <unitdate type="inclusive">undated</unitdate></unittitle>
+              <container type="box" label="Box [955780063433992928673]" altrender="box">1</container>
+              <unittitle>Publicity</unittitle>
+              <unitdate type="inclusive" normal="1974/1988">1974-1988</unitdate>
+              <unitdate type="inclusive">undated</unitdate>
             </did>
           </c03>
         </c02>
@@ -375,7 +394,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [955780063433992928673]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive">undated</unitdate>
             </unittitle>
@@ -383,7 +402,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [955780063433992928673]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1961/1968">1961-1968</unitdate>
             </unittitle>
@@ -391,7 +410,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [955780063433992928673]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1970/1979">1970-1979</unitdate>
             </unittitle>
@@ -399,7 +418,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [955780063433992928673]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1980/1984">1980-1984</unitdate>
             </unittitle>
@@ -407,7 +426,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [955780063433992928673]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1985/1989">1985-1989</unitdate>
             </unittitle>
@@ -415,7 +434,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [955780063433992928673]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1990/1997">1990-1997</unitdate>
             </unittitle>
@@ -423,7 +442,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [955780063433992928673]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1998/1999">1998-1999</unitdate>
             </unittitle>
@@ -431,7 +450,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [955780063433992928673]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="2000/2001">2000-2001</unitdate>
             </unittitle>
@@ -447,7 +466,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [955780063433992928673]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive">undated</unitdate>
             </unittitle>
@@ -455,7 +474,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [955780063433992928673]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1966/1999">1966-1999</unitdate>
             </unittitle>
@@ -478,7 +497,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
               <unittitle>"Aria degli Angeli della Terra" <unitdate type="inclusive">undated</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">5 contact sheets</extent>
@@ -496,7 +515,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
               <unittitle>"Aria degli Angeli della Terra" <unitdate type="inclusive" normal="1988" certainty="approximate">circa 1988</unitdate></unittitle>
               <physdesc altrender="part">
                 <extent altrender="materialtype spaceoccupied">24 negatives</extent>
@@ -516,7 +535,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
               <unittitle>"As Quiet As..." <unitdate type="inclusive" normal="1972">1972</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 prints</extent>
@@ -534,7 +553,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
               <unittitle>"The Boy Who Played with Dolls" <unitdate type="inclusive" normal="1991">1991</unitdate></unittitle>
               <physdesc altrender="part">
                 <extent altrender="materialtype spaceoccupied">1 contact sheets</extent>
@@ -556,7 +575,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
               <unittitle>"The Boy Who Played with Dolls" <unitdate type="inclusive" normal="1992">1992</unitdate></unittitle>
               <physdesc altrender="part">
                 <extent altrender="materialtype spaceoccupied">1 contact sheets</extent>
@@ -577,7 +596,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
               <unittitle>"The Boy Who Played with Dolls" <unitdate type="inclusive" normal="1992-02-27">February 27, 1992</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">1 contact sheets</extent>
@@ -595,7 +614,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
               <unittitle>"Bride of Grand Prairie, undated"</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 prints</extent>
@@ -613,7 +632,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
               <unittitle>"Bright Bowed River" <unitdate type="inclusive" normal="1985/1986">1985/86</unitdate></unittitle>
               <physdesc altrender="part">
                 <extent altrender="materialtype spaceoccupied">3 contact sheets</extent>
@@ -634,7 +653,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
               <unittitle>"1989De Profundis" <unitdate type="inclusive" normal="1989">1989</unitdate></unittitle>
               <physdesc altrender="part">
                 <extent altrender="materialtype spaceoccupied">3 contact sheets</extent>
@@ -655,7 +674,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
               <unittitle>"Divining Rod" <unitdate type="inclusive" normal="1975">1975</unitdate></unittitle>
               <physdesc altrender="part">
                 <extent altrender="materialtype spaceoccupied">1 negatives</extent>
@@ -679,7 +698,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
               <unittitle>"Divining Rod" <unitdate type="inclusive" normal="1979-06">June 1979</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">1 prints</extent>
@@ -697,7 +716,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
               <unittitle>"Divining Rod" <unitdate type="inclusive" normal="1981">1981</unitdate></unittitle>
               <physdesc altrender="part">
                 <extent altrender="materialtype spaceoccupied">1 contact sheets</extent>
@@ -719,7 +738,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
               <unittitle>"Divining Rod" <unitdate type="inclusive">undated</unitdate></unittitle>
               <physdesc altrender="part">
                 <extent altrender="materialtype spaceoccupied">2 contact sheets</extent>
@@ -740,7 +759,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
               <unittitle>"Double Exposure" <unitdate type="inclusive" normal="1991">1991</unitdate></unittitle>
               <physdesc altrender="part">
                 <extent altrender="materialtype spaceoccupied">2 negatives</extent>
@@ -764,7 +783,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
               <unittitle>"A Fearful Symmetry" <unitdate type="inclusive" normal="1984">1984</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 prints</extent>
@@ -782,7 +801,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
               <unittitle>"A Fearful Symmetry" <unitdate type="inclusive" normal="1987">1987</unitdate></unittitle>
               <physdesc altrender="part">
                 <extent altrender="materialtype spaceoccupied">4 contact sheets</extent>
@@ -803,7 +822,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
               <unittitle>"A Fearful Symmetry" <unitdate type="inclusive" normal="1987">1987</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">6 contact sheets</extent>
@@ -821,7 +840,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
               <unittitle>"A Fearful Symmetry" <unitdate type="inclusive">undated</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 contact sheets</extent>
@@ -839,7 +858,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
               <unittitle>"Herald's Round" <unitdate type="inclusive" normal="1979">1979</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">1 contact sheets</extent>
@@ -857,7 +876,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
               <unittitle>"L'Histoire du Soldat," <unitdate type="inclusive" normal="1987">1987</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">1 prints</extent>
@@ -875,7 +894,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
               <unittitle>"In Stride" <unitdate type="inclusive" normal="1979-06">June 1979</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">4 prints</extent>
@@ -893,7 +912,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
               <unittitle>"Jealousy" <unitdate type="inclusive" normal="1994">1994</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">1 contact sheets</extent>
@@ -912,7 +931,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
               <unittitle>"Johnny Angel" <unitdate type="inclusive" normal="1993">1993</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">1 prints</extent>
@@ -930,7 +949,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
               <unittitle>"Johnny Angel" <unitdate type="inclusive" normal="1995-04">April, 1995</unitdate></unittitle>
               <physdesc altrender="part">
                 <extent altrender="materialtype spaceoccupied">6 prints</extent>
@@ -952,7 +971,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
               <unittitle>"Landscape with Bridge" <unitdate type="inclusive" normal="1981-03">March 1981</unitdate></unittitle>
               <physdesc altrender="part">
                 <extent altrender="materialtype spaceoccupied">1 prints</extent>
@@ -974,7 +993,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
               <unittitle>"The Lantern-Night Excursion of Chung Q'ui" <unitdate type="inclusive" normal="1979-06">June 1979</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">1 prints</extent>
@@ -992,7 +1011,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
               <unittitle>"The Lantern-Night Excursion of Chung Q'ui" <unitdate type="inclusive" normal="1979">1979</unitdate></unittitle>
               <physdesc altrender="part">
                 <extent altrender="materialtype spaceoccupied">2 contact sheets</extent>
@@ -1015,7 +1034,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
               <unittitle>"Man Dancing, Dancing Man" <unitdate type="inclusive" normal="1986">1986</unitdate></unittitle>
               <physdesc altrender="part">
                 <extent altrender="materialtype spaceoccupied">3 prints</extent>
@@ -1037,7 +1056,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
               <unittitle>"Miranda on the Veranda" <unitdate type="inclusive" normal="1991">1991</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">1 prints</extent>
@@ -1056,7 +1075,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
               <unittitle>"Miranda on the Veranda" <unitdate type="inclusive" normal="1991">1991</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">19 photographs</extent>
@@ -1075,7 +1094,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
               <unittitle>"Nocturnes" <unitdate type="inclusive" normal="1985">1985</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">5 prints</extent>
@@ -1093,7 +1112,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
               <unittitle>"Nocturnes for Eurydice" February [1978]</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">5 prints</extent>
@@ -1111,7 +1130,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
               <unittitle>"Nocturnes for Eurydice" <unitdate type="inclusive" normal="1978-05">May 1978</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">4 prints</extent>
@@ -1129,7 +1148,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
               <unittitle>"Nocturnes for Eurydice" <unitdate type="inclusive" normal="1978/1979">1978/79</unitdate></unittitle>
               <physdesc altrender="part">
                 <extent altrender="materialtype spaceoccupied">2 contact sheets</extent>
@@ -1150,7 +1169,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
               <unittitle>"Ode" <unitdate type="inclusive" normal="1988">1988</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">1 prints</extent>
@@ -1168,7 +1187,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
               <unittitle>"Once in a Blue Moon" <unitdate type="inclusive" normal="1977">1977</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 prints</extent>
@@ -1186,7 +1205,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
               <unittitle>"Once in a Blue Moon" <unitdate type="inclusive" normal="1978">1978</unitdate></unittitle>
               <physdesc altrender="part">
                 <extent altrender="materialtype spaceoccupied">2 contact sheets</extent>
@@ -1207,7 +1226,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
               <unittitle>"Once in a Blue Moon" <unitdate type="inclusive" normal="1978">1978</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">5 prints</extent>
@@ -1225,7 +1244,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
               <unittitle>"Reel" <unitdate type="inclusive" normal="1983">1983</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">1 prints</extent>
@@ -1243,7 +1262,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
               <unittitle>"Rondo" <unitdate type="inclusive" normal="1987">1987</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">1 prints</extent>
@@ -1261,7 +1280,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
               <unittitle>"Rounding the Square" <unitdate type="inclusive" normal="1989">1989</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">1 prints</extent>
@@ -1280,7 +1299,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
               <unittitle>"Rounding the Square" <unitdate type="inclusive" normal="1989-06">June 1989</unitdate></unittitle>
               <physdesc altrender="part">
                 <extent altrender="materialtype spaceoccupied">3 contact sheets</extent>
@@ -1301,7 +1320,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
               <unittitle>"Rounding the Square" <unitdate type="inclusive" normal="1989">1989</unitdate></unittitle>
               <physdesc altrender="part">
                 <extent altrender="materialtype spaceoccupied">2 contact sheets</extent>
@@ -1322,7 +1341,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
               <unittitle>"Rounding the Square" <unitdate type="inclusive" normal="1989/1990">1989/90</unitdate></unittitle>
               <physdesc altrender="part">
                 <extent altrender="materialtype spaceoccupied">36 negatives</extent>
@@ -1351,7 +1370,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
               <unittitle>"Sancerre" <unitdate type="inclusive" normal="1988">1988</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">1 prints</extent>
@@ -1369,7 +1388,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
               <unittitle>"Sancerre" <unitdate type="inclusive" normal="1988">1988</unitdate></unittitle>
               <physdesc altrender="part">
                 <extent altrender="materialtype spaceoccupied">3 contact sheets</extent>
@@ -1390,7 +1409,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
               <unittitle>"Sitting Harlequin" <unitdate type="inclusive" normal="1972">1972</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">1 prints</extent>
@@ -1408,7 +1427,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
               <unittitle>"Sitting Harlequin" <unitdate type="inclusive" normal="1979">1979</unitdate></unittitle>
               <physdesc altrender="part">
                 <extent altrender="materialtype spaceoccupied">6 contact sheets</extent>
@@ -1429,7 +1448,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
               <unittitle>"Six Bagatelles" <unitdate type="inclusive" normal="1972">1972</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">5 prints</extent>
@@ -1447,7 +1466,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
               <unittitle>"Suite to Sleep" <unitdate type="inclusive" normal="1978">1978</unitdate></unittitle>
               <physdesc altrender="part">
                 <extent altrender="materialtype spaceoccupied">2 contact sheets</extent>
@@ -1468,7 +1487,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
               <unittitle>"Suite to Sleep" <unitdate type="inclusive" normal="1979">1979</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">1 contact sheets</extent>
@@ -1486,7 +1505,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
               <unittitle>"Swing Serenade" <unitdate type="inclusive" normal="1982">1982</unitdate></unittitle>
               <physdesc altrender="part">
                 <extent altrender="materialtype spaceoccupied">3 negatives</extent>
@@ -1507,7 +1526,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
               <unittitle>"Tableaux" <unitdate type="inclusive" normal="1985">1985</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">1 prints</extent>
@@ -1525,7 +1544,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
               <unittitle>"The Tempest" <unitdate type="inclusive">undated</unitdate></unittitle>
               <physdesc altrender="part">
                 <extent altrender="materialtype spaceoccupied">4 contact sheets</extent>
@@ -1537,7 +1556,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
               <unittitle>Rehearsal; Sparling, Jane Hedal, Joyce Herring, Anthony Morgan and Barry Smith</unittitle>
             </did>
             <odd>
@@ -1551,7 +1570,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
               <unittitle>"This Place" <unitdate type="inclusive" normal="1979">1979</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 contact sheets</extent>
@@ -1569,7 +1588,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
               <unittitle>"Three Farewells" <unitdate type="inclusive" normal="1979">1979</unitdate></unittitle>
               <physdesc altrender="part">
                 <extent altrender="materialtype spaceoccupied">2 contact sheets</extent>
@@ -1591,7 +1610,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
               <unittitle>"Unfinished" <unitdate type="inclusive" normal="1997">1997</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">3 contact sheets</extent>
@@ -1609,7 +1628,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
               <unittitle>"What She Forgot He Remembered" <unitdate type="inclusive" normal="1980" certainty="approximate">circa 1980</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">3 contact sheets</extent>
@@ -1627,7 +1646,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
               <unittitle>"What She Forgot He Remembered" <unitdate type="inclusive" normal="1980">1980</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">1 prints</extent>
@@ -1645,7 +1664,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
               <unittitle>"Wings," by Peter Sparling <unitdate type="inclusive" normal="1989">1989</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">8 prints</extent>
@@ -1663,7 +1682,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
               <unittitle>"Wintertanze II" <unitdate type="inclusive" normal="1989">1989</unitdate></unittitle>
               <physdesc altrender="part">
                 <extent altrender="materialtype spaceoccupied">2 contact sheets</extent>
@@ -1684,7 +1703,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
               <unittitle>"Wintertanze II" <unitdate type="inclusive" normal="1989">1989</unitdate></unittitle>
               <physdesc altrender="part">
                 <extent altrender="materialtype spaceoccupied">29 negatives</extent>
@@ -1709,7 +1728,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
               <unittitle>"Witness" <unitdate type="inclusive" normal="1991">1991</unitdate></unittitle>
               <physdesc altrender="part">
                 <extent altrender="materialtype spaceoccupied">1 contact sheets</extent>
@@ -1730,7 +1749,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
               <unittitle>"Zig-Zag" <unitdate type="inclusive" normal="1990-07-08">July 8, 1990</unitdate></unittitle>
               <physdesc altrender="part">
                 <extent altrender="materialtype spaceoccupied">1 contact sheets</extent>
@@ -1764,7 +1783,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
                 <unittitle>Choreographer's Showcase <unitdate type="inclusive" normal="1979-02">February 1979</unitdate></unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">5 contact sheets</extent>
@@ -1787,7 +1806,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
                 <unittitle>Lincoln Center Student Program, [pre-1975]</unittitle>
               </did>
               <odd>
@@ -1807,7 +1826,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
                 <unittitle>Unidentified <unitdate type="inclusive" normal="1968" certainty="approximate">circa 1968</unitdate></unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">3 prints</extent>
@@ -1830,7 +1849,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
                 <unittitle>"Journey" <unitdate type="inclusive" normal="1982">1982</unitdate> 7 prints (see also 1 oversize print)</unittitle>
               </did>
               <odd>
@@ -1850,7 +1869,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
                 <unittitle>"Atlantis" <unitdate type="inclusive" normal="1978">1978</unitdate></unittitle>
                 <physdesc altrender="part">
                   <extent altrender="materialtype spaceoccupied">3 negatives</extent>
@@ -1876,7 +1895,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
                 <unittitle>"Diversion of Angels" <unitdate type="inclusive" normal="1975">1975</unitdate></unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">1 prints</extent>
@@ -1894,7 +1913,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
                 <unittitle>"Diversion of Angels" <unitdate type="inclusive" normal="1976">1976</unitdate></unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">2 prints</extent>
@@ -1912,7 +1931,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
                 <unittitle>"Diversion of Angels" <unitdate type="inclusive" normal="1999">1999</unitdate></unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">1 prints</extent>
@@ -1931,7 +1950,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
                 <unittitle>"Night Journey" <unitdate type="inclusive" normal="1978/1979">1978/79</unitdate></unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">1 prints</extent>
@@ -1949,7 +1968,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
                 <unittitle>"Plain of Prayer" <unitdate type="inclusive" normal="1975/1976">1975/76</unitdate></unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">1 prints</extent>
@@ -1967,7 +1986,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
                 <unittitle>"Plain of Prayer" <unitdate type="inclusive" normal="1977">1977</unitdate></unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">2 prints</extent>
@@ -1985,7 +2004,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
                 <unittitle>"Seraphic Dialogue" <unitdate type="inclusive" normal="1977">1977</unitdate></unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">1 prints</extent>
@@ -2008,7 +2027,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
                 <unittitle>"Lines and Designs" <unitdate type="inclusive" normal="1972">1972</unitdate></unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">3 prints</extent>
@@ -2031,7 +2050,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
                 <unittitle>"Chaconne" <unitdate type="inclusive" normal="1985/1986">1985/86</unitdate> 4 contact sheets and 6 prints</unittitle>
               </did>
               <odd>
@@ -2046,7 +2065,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
                 <unittitle>"Chaconne" <unitdate type="inclusive" normal="1986">1986</unitdate></unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">1 prints</extent>
@@ -2064,7 +2083,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
                 <unittitle>"Chaconne" <unitdate type="inclusive" normal="1988">1988</unitdate></unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">3 prints</extent>
@@ -2087,7 +2106,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
                 <unittitle>Javanese Dance/Drama <unitdate type="inclusive" normal="1998">1998</unitdate></unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">1 prints</extent>
@@ -2118,7 +2137,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
                 <unittitle>Sparling (Head shots)</unittitle>
                 <physdesc altrender="part">
                   <extent altrender="materialtype spaceoccupied">1 negatives</extent>
@@ -2145,7 +2164,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
                 <unittitle>Sparling</unittitle>
                 <physdesc altrender="part">
                   <extent altrender="materialtype spaceoccupied">5 contact sheets</extent>
@@ -2172,7 +2191,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
                 <unittitle>Sparling (Head shots)</unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">3 prints</extent>
@@ -2196,7 +2215,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
                 <unittitle>Sparling</unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">3 prints</extent>
@@ -2220,7 +2239,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
                 <unittitle>Sparling</unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">1 prints</extent>
@@ -2244,7 +2263,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
                 <unittitle>Sparling (Studio shots/Head shots)</unittitle>
                 <physdesc altrender="part">
                   <extent altrender="materialtype spaceoccupied">2 negatives</extent>
@@ -2274,7 +2293,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
                 <unittitle>Sparling</unittitle>
                 <physdesc altrender="part">
                   <extent altrender="materialtype spaceoccupied">4 contact sheets</extent>
@@ -2301,7 +2320,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
                 <unittitle>Sparling</unittitle>
                 <physdesc altrender="part">
                   <extent altrender="materialtype spaceoccupied">8 contact sheets</extent>
@@ -2328,7 +2347,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
                 <unittitle>Sparling (Head shots)</unittitle>
                 <physdesc altrender="part">
                   <extent altrender="materialtype spaceoccupied">28 negatives</extent>
@@ -2358,7 +2377,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
                 <unittitle>Sparling</unittitle>
                 <physdesc altrender="part">
                   <extent altrender="materialtype spaceoccupied">1 negatives</extent>
@@ -2385,7 +2404,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
                 <unittitle>Sparling</unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">1 prints</extent>
@@ -2409,7 +2428,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
                 <unittitle>Sparling and Bill DeYoung (for Ann Arbor Dance Works)</unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">1 prints</extent>
@@ -2433,7 +2452,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
                 <unittitle>Sparling, Peter Matthews and Tim Sparling (for "Up Over, Down Under")</unittitle>
                 <physdesc altrender="part">
                   <extent altrender="materialtype spaceoccupied">1 contact sheets</extent>
@@ -2460,7 +2479,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
                 <unittitle>Sparling and Terri Sarris</unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">2 contact sheets</extent>
@@ -2484,7 +2503,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
                 <unittitle>Sparling (Head shot)</unittitle>
                 <physdesc altrender="part">
                   <extent altrender="materialtype spaceoccupied">2 negatives</extent>
@@ -2511,7 +2530,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
                 <unittitle>Sparling (Head shots)</unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">7 prints</extent>
@@ -2534,8 +2553,10 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
-              <unittitle>Orchestra photographs <unitdate type="inclusive" normal="1965">1965</unitdate>, <unitdate type="inclusive" normal="1967">1967</unitdate></unittitle>
+              <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
+              <unittitle>Orchestra photographs</unittitle>
+              <unitdate type="inclusive" normal="1965">1965</unitdate>
+              <unitdate type="inclusive" normal="1967">1967</unitdate>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 prints</extent>
               </physdesc>
@@ -2551,7 +2572,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
               <unittitle>Dance Mobile: Sparling, Diana Hart, Ange Wolf and Janet Eilber. <unitdate type="inclusive" normal="1972">1972</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 prints</extent>
@@ -2568,7 +2589,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
               <unittitle>National Music Camp: Sparling, Janet Eilber, Ange Wolf, Michael Pilafian and students <unitdate type="inclusive" normal="1972">1972</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">1 prints</extent>
@@ -2585,7 +2606,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
               <unittitle>Snapshot with the Queen Mother <unitdate type="inclusive" normal="1979-07">July 1979</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">1 prints</extent>
@@ -2602,7 +2623,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
               <unittitle>Studio shots for videotaping of Beth Corning's "Journey;" Sparling, Beth Corning and anonymous clown <unitdate type="inclusive" normal="1982">1982</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">3 prints</extent>
@@ -2619,7 +2640,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
               <unittitle>Ann Arbor Dance Works group photograph; Sparling, Jessica Fogel, Gay Delanghe, Bill DeYoung and Linda Spriggs <unitdate type="inclusive" normal="1986/1987">1986/87</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">1 prints</extent>
@@ -2637,7 +2658,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
               <unittitle>After performance; Sparling and video technician Alec Friedman <unitdate type="inclusive" normal="1987">1987</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">1 prints</extent>
@@ -2655,7 +2676,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
               <unittitle>Faculty Recognition Award; Sparling and James Duderstadt <unitdate type="inclusive" normal="1992">1992</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 prints</extent>
@@ -2672,7 +2693,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
               <unittitle>Cast of "The Tempest," U-M School of Music <unitdate type="inclusive" normal="1999">1999</unitdate></unittitle>
               <physdesc altrender="part">
                 <extent altrender="materialtype spaceoccupied">1 prints</extent>
@@ -2693,7 +2714,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
               <unittitle>Sparling applying makeup for Jose Limon's "The Winged" <unitdate type="inclusive">undated</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">1 photographs</extent>
@@ -2711,7 +2732,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
               <unittitle>Sparling with Julia Goodman and Elizabeth Bergmann <unitdate type="inclusive">Undated</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">3 photographs</extent>
@@ -2729,7 +2750,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
               <unittitle>Reception for American Choreographer's Festival, University Musical Society; Sparling, Bebe Miller and company, Robert Small and Leslie Friedman <unitdate type="inclusive">Undated</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">32 photographs</extent>
@@ -2747,7 +2768,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
               <unittitle>Sculpture of Sparling by Norma Penchansky-Glaser <unitdate type="inclusive">Undated</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">1 prints</extent>
@@ -2764,7 +2785,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [310404341892965238]" altrender="box">2</container>
               <unittitle>Personal, candids (at a wedding reception) <unitdate type="inclusive" normal="1985" certainty="approximate">circa 1985</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 photographs</extent>
@@ -2779,7 +2800,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [8168646986865476]" altrender="box">5</container>
               <unittitle>"Aria degli Angeli della Terra," by Sparling <unitdate type="inclusive" normal="1988">1988</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">5 contact sheets</extent>
@@ -2800,7 +2821,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [8168646986865476]" altrender="box">5</container>
               <unittitle>"Chaconne," by Jose Limon <unitdate type="inclusive" normal="1986">1986</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">1 prints</extent>
@@ -2819,7 +2840,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [8168646986865476]" altrender="box">5</container>
               <unittitle>"Divining Rod," by Sparling <unitdate type="inclusive" normal="1981">1981</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">4 contact sheets</extent>
@@ -2837,7 +2858,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [8168646986865476]" altrender="box">5</container>
               <unittitle>"Jealousy," by Sparling <unitdate type="inclusive" normal="1994">1994</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">1 prints</extent>
@@ -2856,7 +2877,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [8168646986865476]" altrender="box">5</container>
               <unittitle>"Journey," by Beth Corning <unitdate type="inclusive" normal="1982">1982</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">1 prints</extent>
@@ -2874,7 +2895,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [8168646986865476]" altrender="box">5</container>
               <unittitle>"Nocturnes," by Sparling 1986</unittitle>
             </did>
             <odd>
@@ -2889,7 +2910,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [8168646986865476]" altrender="box">5</container>
               <unittitle>"Rounding the Square," by Sparling <unitdate type="inclusive" normal="1989">1989</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">1 prints</extent>
@@ -2907,7 +2928,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [8168646986865476]" altrender="box">5</container>
               <unittitle>Widaryanto: Javanese Dance/Drama <unitdate type="inclusive" normal="1998">1998</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">1 prints</extent>
@@ -2938,7 +2959,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [9140682474209668]" altrender="box">6</container>
             <unittitle><title render="italic">The Albion Dance Project: Reflets dans l'eau</title>, <unitdate type="inclusive" normal="1992-10-17">October 17, 1992</unitdate></unittitle>
             <physdesc>
               <physfacet>DVC-Pro digital cassette spar032</physfacet>
@@ -2957,7 +2978,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
               <physdesc>
                 <physfacet>.MPEG file</physfacet>
               </physdesc>
-              <dao href="http://hdl.handle.net/2027.42/61369" show="new" actuate="onrequest">
+              <dao href="http://hdl.handle.net/2027.42/61369" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/8979">
                 <daodesc>
                   <p>[download item]</p>
                 </daodesc>
@@ -2974,7 +2995,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
               <physdesc>
                 <physfacet>.MPEG file</physfacet>
               </physdesc>
-              <dao href="http://hdl.handle.net/2027.42/61370" show="new" actuate="onrequest">
+              <dao href="http://hdl.handle.net/2027.42/61370" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/8980">
                 <daodesc>
                   <p>[download item]</p>
                 </daodesc>
@@ -2992,7 +3013,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
             <physdesc>
               <physfacet>.MOV and .MP4 files</physfacet>
             </physdesc>
-            <dao href="http://hdl.handle.net/2027.42/102524" show="new" actuate="onrequest">
+            <dao href="http://hdl.handle.net/2027.42/102524" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/8981">
               <daodesc>
                 <p>[download item]</p>
               </daodesc>
@@ -3012,7 +3033,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
             <physdesc>
               <physfacet>.MOV and .MP4 files</physfacet>
             </physdesc>
-            <dao href="http://hdl.handle.net/2027.42/102525" show="new" actuate="onrequest">
+            <dao href="http://hdl.handle.net/2027.42/102525" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/8982">
               <daodesc>
                 <p>[download item]</p>
               </daodesc>
@@ -3029,7 +3050,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
             <physdesc>
               <physfacet>.MOV and .MP4 files</physfacet>
             </physdesc>
-            <dao href="http://hdl.handle.net/2027.42/102283" show="new" actuate="onrequest">
+            <dao href="http://hdl.handle.net/2027.42/102283" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/8983">
               <daodesc>
                 <p>[download item]</p>
               </daodesc>
@@ -3038,7 +3059,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [9140682474209668]" altrender="box">6</container>
             <unittitle><title render="italic">The Boy Who played with Dolls</title>, <unitdate type="inclusive" normal="1991" certainty="approximate">circa 1991</unitdate></unittitle>
             <physdesc>
               <physfacet>DVC-Pro digital cassette spar018</physfacet>
@@ -3047,7 +3068,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [9140682474209668]" altrender="box">6</container>
             <unittitle><title render="italic">Bright Bowed River</title>, <unitdate type="inclusive" normal="1985" certainty="approximate">circa 1985</unitdate></unittitle>
             <physdesc>
               <physfacet>DVC-Pro digital cassette spar013</physfacet>
@@ -3056,7 +3077,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [9140682474209668]" altrender="box">6</container>
             <unittitle><title render="italic">Chaconne</title>, <unitdate type="inclusive" normal="1986" certainty="approximate">circa 1986</unitdate></unittitle>
             <physdesc>
               <physfacet>DVC-Pro digital cassette spar012</physfacet>
@@ -3070,7 +3091,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
             <physdesc>
               <physfacet>.MOV and .MP4 files</physfacet>
             </physdesc>
-            <dao href="http://hdl.handle.net/2027.42/102526" show="new" actuate="onrequest">
+            <dao href="http://hdl.handle.net/2027.42/102526" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/8984">
               <daodesc>
                 <p>[download item]</p>
               </daodesc>
@@ -3082,7 +3103,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [9140682474209668]" altrender="box">6</container>
             <unittitle><title render="italic">Dance for The Wave Field</title>, <unitdate type="inclusive" normal="1995-10-06">October 6, 1995</unitdate></unittitle>
             <physdesc>
               <physfacet>DVC-Pro digital cassette spar026</physfacet>
@@ -3091,7 +3112,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [9140682474209668]" altrender="box">6</container>
             <unittitle><title render="italic">Dance Uptown</title> Earl Hall, city unknown, <unitdate type="inclusive" normal="1977-12-01">December 1, 1977</unitdate></unittitle>
             <physdesc>
               <physfacet>VHS videocassette</physfacet>
@@ -3100,7 +3121,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [9140682474209668]" altrender="box">6</container>
             <unittitle><title render="italic">Dances We Dance</title>, <unitdate type="inclusive">undated</unitdate></unittitle>
             <physdesc>
               <physfacet>DVC-Pro digital cassette spar023</physfacet>
@@ -3109,7 +3130,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [9140682474209668]" altrender="box">6</container>
             <unittitle><title render="italic">Danced Improvisations to Bach and Schubert</title> University of Michigan Duderstadt Center, <unitdate type="inclusive" normal="2005-03-02">March 2, 2005</unitdate></unittitle>
             <physdesc>
               <physfacet>DVD</physfacet>
@@ -3118,7 +3139,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [643141030482419143127776]" altrender="box">4</container>
             <unittitle>"Day on Earth," <unitdate type="inclusive" normal="1972-05">May 1972</unitdate></unittitle>
           </did>
           <odd>
@@ -3127,7 +3148,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [9140682474209668]" altrender="box">6</container>
             <unittitle><title render="italic">De Profundis</title>, <unitdate type="inclusive" normal="1989" certainty="approximate">circa 1989</unitdate></unittitle>
             <physdesc>
               <physfacet>DVC-Pro digital cassette spar004</physfacet>
@@ -3141,7 +3162,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
             <physdesc>
               <physfacet>.MOV and .MP4 files</physfacet>
             </physdesc>
-            <dao href="http://hdl.handle.net/2027.42/102529" show="new" actuate="onrequest">
+            <dao href="http://hdl.handle.net/2027.42/102529" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/8985">
               <daodesc>
                 <p>[download item]</p>
               </daodesc>
@@ -3158,7 +3179,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
             <physdesc>
               <physfacet>.MOV and .MP4 files</physfacet>
             </physdesc>
-            <dao href="http://hdl.handle.net/2027.42/102527" show="new" actuate="onrequest">
+            <dao href="http://hdl.handle.net/2027.42/102527" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/8986">
               <daodesc>
                 <p>[download item]</p>
               </daodesc>
@@ -3170,7 +3191,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [9140682474209668]" altrender="box">6</container>
             <unittitle><title render="italic">Divining Rod</title>, <unitdate type="inclusive" normal="1981" certainty="approximate">circa 1981</unitdate></unittitle>
             <physdesc>
               <physfacet>DVC-Pro digital cassette spar020</physfacet>
@@ -3184,7 +3205,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
             <physdesc>
               <physfacet>.MOV and .MP4 files</physfacet>
             </physdesc>
-            <dao href="http://hdl.handle.net/2027.42/102284" show="new" actuate="onrequest">
+            <dao href="http://hdl.handle.net/2027.42/102284" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/8987">
               <daodesc>
                 <p>[download item]</p>
               </daodesc>
@@ -3193,7 +3214,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [9140682474209668]" altrender="box">6</container>
             <unittitle><title render="italic">A Fearful Symmetry</title>, <unitdate type="inclusive" normal="1984" certainty="approximate">circa 1984</unitdate></unittitle>
             <physdesc>
               <physfacet>DVC-Pro digital cassette spar030</physfacet>
@@ -3207,7 +3228,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
             <physdesc>
               <physfacet>.MOV and .MP4 files</physfacet>
             </physdesc>
-            <dao href="http://hdl.handle.net/2027.42/102285" show="new" actuate="onrequest">
+            <dao href="http://hdl.handle.net/2027.42/102285" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/8988">
               <daodesc>
                 <p>[download item]</p>
               </daodesc>
@@ -3221,7 +3242,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
             <physdesc>
               <physfacet>.MOV and .MP4 files</physfacet>
             </physdesc>
-            <dao href="http://hdl.handle.net/2027.42/102501" show="new" actuate="onrequest">
+            <dao href="http://hdl.handle.net/2027.42/102501" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/8989">
               <daodesc>
                 <p>[download item]</p>
               </daodesc>
@@ -3230,7 +3251,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [9140682474209668]" altrender="box">6</container>
             <unittitle><title render="italic">Four Ballads</title>, not dated</unittitle>
             <physdesc>
               <physfacet>DVC-Pro digital cassette spar031</physfacet>
@@ -3247,7 +3268,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
             <physdesc>
               <physfacet>.MOV and .MP4 files</physfacet>
             </physdesc>
-            <dao href="http://hdl.handle.net/2027.42/102528" show="new" actuate="onrequest">
+            <dao href="http://hdl.handle.net/2027.42/102528" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/8990">
               <daodesc>
                 <p>[download item]</p>
               </daodesc>
@@ -3259,7 +3280,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [9140682474209668]" altrender="box">6</container>
             <unittitle><title render="italic">Heart's Crossing</title>, <unitdate type="inclusive" normal="1988" certainty="approximate">circa 1988</unitdate></unittitle>
             <physdesc>
               <physfacet>DVC-Pro digital cassette spar017 and spar033</physfacet>
@@ -3273,7 +3294,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
             <physdesc>
               <physfacet>.MOV and .MP4 files</physfacet>
             </physdesc>
-            <dao href="http://hdl.handle.net/2027.42/102286" show="new" actuate="onrequest">
+            <dao href="http://hdl.handle.net/2027.42/102286" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/8991">
               <daodesc>
                 <p>[download item]</p>
               </daodesc>
@@ -3282,7 +3303,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [643141030482419143127776]" altrender="box">4</container>
             <unittitle>"In Stride,"undated</unittitle>
             <physdesc>
               <physfacet>5 reels of 8 mm film</physfacet>
@@ -3291,7 +3312,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [600514403474193339413]" altrender="box">3</container>
             <unittitle>Internet2 Demo Project <title render="italic">1-Inflow/Outflow</title> (Office of the Vice President for Research Discretionary Fund Application: The Ariel Web), <unitdate type="inclusive" normal="1999-10-12">October 12, 1999</unitdate></unittitle>
             <physdesc>
               <physfacet>VHS videocassette</physfacet>
@@ -3300,7 +3321,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [9140682474209668]" altrender="box">6</container>
             <unittitle><title render="italic">Iris and Fearful Symmetry</title>, <unitdate type="inclusive" normal="1981-10-16">October 16, 1981</unitdate></unittitle>
             <physdesc>
               <physfacet>VHS videocassette</physfacet>
@@ -3309,7 +3330,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [9140682474209668]" altrender="box">6</container>
             <unittitle>
               <title render="italic">Iris and Viola Songs</title>
               <unitdate type="inclusive" normal="1981" certainty="approximate">circa 1981</unitdate>
@@ -3326,7 +3347,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
             <physdesc>
               <physfacet>.MOV and .MP4 files</physfacet>
             </physdesc>
-            <dao href="http://hdl.handle.net/2027.42/102500" show="new" actuate="onrequest">
+            <dao href="http://hdl.handle.net/2027.42/102500" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/8992">
               <daodesc>
                 <p>[download item]</p>
               </daodesc>
@@ -3340,7 +3361,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
             <physdesc>
               <physfacet>.MOV and .MP4 files</physfacet>
             </physdesc>
-            <dao href="http://hdl.handle.net/2027.42/102514" show="new" actuate="onrequest">
+            <dao href="http://hdl.handle.net/2027.42/102514" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/8993">
               <daodesc>
                 <p>[download item]</p>
               </daodesc>
@@ -3349,7 +3370,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [9140682474209668]" altrender="box">6</container>
             <unittitle><title render="italic">L'Histoire du Soldat</title>, <unitdate type="inclusive" normal="1987" certainty="approximate">circa 1987</unitdate></unittitle>
             <physdesc>
               <physfacet>DVC-Pro digital cassette spar029</physfacet>
@@ -3358,7 +3379,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [600514403474193339413]" altrender="box">3</container>
             <unittitle>Martha Graham Centenary Festival Project <unitdate type="inclusive" normal="1994-10">October 1994</unitdate></unittitle>
             <physdesc>
               <physfacet>37 S-VHS videocassettes</physfacet>
@@ -3370,7 +3391,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [9140682474209668]" altrender="box">6</container>
             <unittitle><title render="italic">New Bach</title>, <unitdate type="inclusive" normal="1996" certainty="approximate">circa 1996</unitdate></unittitle>
             <physdesc>
               <physfacet>DVC-Pro digital cassette spar008</physfacet>
@@ -3379,7 +3400,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [9140682474209668]" altrender="box">6</container>
             <unittitle>
               <title render="italic">Nocturne</title>
               <unitdate type="inclusive" normal="1986" certainty="approximate">circa 1986</unitdate>
@@ -3391,7 +3412,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [9140682474209668]" altrender="box">6</container>
             <unittitle><title render="italic">Nocturnes for Euridice</title>, <unitdate type="inclusive" normal="1984" certainty="approximate">circa 1984</unitdate></unittitle>
             <physdesc>
               <physfacet>DVC-Pro digital cassette spar021</physfacet>
@@ -3400,7 +3421,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [9140682474209668]" altrender="box">6</container>
             <unittitle><title render="italic">Orfeo ed Euridice</title>, <unitdate type="inclusive" normal="2001-06-11">June 11, 2001</unitdate></unittitle>
             <physdesc>
               <physfacet>DVC-Pro digital cassette spar001</physfacet>
@@ -3409,7 +3430,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [600514403474193339413]" altrender="box">3</container>
             <unittitle><title render="italic">Orfeo ed Euridice</title> (Michigan Theatre performance) June 11, 2001.</unittitle>
             <physdesc>
               <physfacet>VHS videocassette</physfacet>
@@ -3418,7 +3439,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [9140682474209668]" altrender="box">6</container>
             <unittitle><title render="italic">Once in a Blue Moon</title>, Riverside Dance Festival, New York, <unitdate type="inclusive" normal="1978-05-16">May 16, 1978</unitdate></unittitle>
             <physdesc>
               <physfacet>VHS videocassette</physfacet>
@@ -3427,7 +3448,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [9140682474209668]" altrender="box">6</container>
             <unittitle><title render="italic">Orion</title> The Juilliard Theater, New York, <unitdate type="inclusive" normal="1980-05-13">May 13, 1980</unitdate></unittitle>
             <physdesc>
               <physfacet>VHS videocassette</physfacet>
@@ -3441,7 +3462,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
             <physdesc>
               <physfacet>.MOV and .MP4 files</physfacet>
             </physdesc>
-            <dao href="http://hdl.handle.net/2027.42/102502" show="new" actuate="onrequest">
+            <dao href="http://hdl.handle.net/2027.42/102502" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/8994">
               <daodesc>
                 <p>[download item]</p>
               </daodesc>
@@ -3455,7 +3476,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
             <physdesc>
               <physfacet>.MOV and .MP4 files</physfacet>
             </physdesc>
-            <dao href="http://hdl.handle.net/2027.42/102503" show="new" actuate="onrequest">
+            <dao href="http://hdl.handle.net/2027.42/102503" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/8995">
               <daodesc>
                 <p>[download item]</p>
               </daodesc>
@@ -3469,7 +3490,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
             <physdesc>
               <physfacet>.MOV and .MP4 files</physfacet>
             </physdesc>
-            <dao href="http://hdl.handle.net/2027.42/102504" show="new" actuate="onrequest">
+            <dao href="http://hdl.handle.net/2027.42/102504" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/8996">
               <daodesc>
                 <p>[download item]</p>
               </daodesc>
@@ -3478,7 +3499,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [9140682474209668]" altrender="box">6</container>
             <unittitle><title render="italic">Petruschka</title>, <unitdate type="inclusive" normal="1989" certainty="approximate">circa 1989</unitdate></unittitle>
             <physdesc>
               <physfacet>DVC-Pro digital cassette spar001</physfacet>
@@ -3495,7 +3516,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
             <physdesc>
               <physfacet>.MOV and .MP4 files</physfacet>
             </physdesc>
-            <dao href="http://hdl.handle.net/2027.42/102505" show="new" actuate="onrequest">
+            <dao href="http://hdl.handle.net/2027.42/102505" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/8997">
               <daodesc>
                 <p>[download item]</p>
               </daodesc>
@@ -3504,7 +3525,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [9140682474209668]" altrender="box">6</container>
             <unittitle>
               <title render="italic">Reel</title>
               <unitdate type="inclusive" normal="1983" certainty="approximate">circa 1983</unitdate>
@@ -3516,7 +3537,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [9140682474209668]" altrender="box">6</container>
             <unittitle>
               <title render="italic">Repertory Works</title>
             </unittitle>
@@ -3527,7 +3548,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [9140682474209668]" altrender="box">6</container>
             <unittitle><title render="italic">Rondo</title>, <unitdate type="inclusive" normal="1987" certainty="approximate">circa 1987</unitdate></unittitle>
             <physdesc>
               <physfacet>DVC-Pro digital cassette spar014</physfacet>
@@ -3536,7 +3557,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [9140682474209668]" altrender="box">6</container>
             <unittitle><title render="italic">Round Dance</title>, <unitdate type="inclusive" normal="1983" certainty="approximate">circa 1983</unitdate></unittitle>
             <physdesc>
               <physfacet>DVC-Pro digital cassette spar037</physfacet>
@@ -3545,7 +3566,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [9140682474209668]" altrender="box">6</container>
             <unittitle><title render="italic">Rounding the Square</title>, <unitdate type="inclusive" normal="1989" certainty="approximate">circa 1989</unitdate></unittitle>
             <physdesc>
               <physfacet>DVC-Pro digital cassette spar006</physfacet>
@@ -3562,7 +3583,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
             <physdesc>
               <physfacet>.MOV and .MP4 files</physfacet>
             </physdesc>
-            <dao href="http://hdl.handle.net/2027.42/102508" show="new" actuate="onrequest">
+            <dao href="http://hdl.handle.net/2027.42/102508" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/8998">
               <daodesc>
                 <p>[download item]</p>
               </daodesc>
@@ -3576,7 +3597,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
             <physdesc>
               <physfacet>.MOV and .MP4 files</physfacet>
             </physdesc>
-            <dao href="http://hdl.handle.net/2027.42/102506" show="new" actuate="onrequest">
+            <dao href="http://hdl.handle.net/2027.42/102506" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/8999">
               <daodesc>
                 <p>[download item]</p>
               </daodesc>
@@ -3585,7 +3606,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [9140682474209668]" altrender="box">6</container>
             <unittitle><title render="italic">Solos and Transfigurations</title>, Choreography and Improvisation, University of Michigan Dance Gallery, <unitdate type="inclusive" normal="2003-11/2004-02">November-February 2004</unitdate></unittitle>
             <physdesc>
               <physfacet>DVD</physfacet>
@@ -3593,44 +3614,44 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [9140682474209668]" altrender="box">6</container>
               <unittitle>Winter Study</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [9140682474209668]" altrender="box">6</container>
               <unittitle>Song Without Words</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [9140682474209668]" altrender="box">6</container>
               <unittitle>Thoreau/Ives</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [9140682474209668]" altrender="box">6</container>
               <unittitle>From Rust and Ruin (A Solo for Peninsula)</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [9140682474209668]" altrender="box">6</container>
               <unittitle>Riff and Transfiguration</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [9140682474209668]" altrender="box">6</container>
               <unittitle>Let me Lament</unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [9140682474209668]" altrender="box">6</container>
             <unittitle><title render="italic">Suite to Sleep</title>, Riverside Dance Festival, New York, May 11, 13, 14, <unitdate type="inclusive" normal="1978">1978</unitdate></unittitle>
             <physdesc>
               <physfacet>VHS videocassette</physfacet>
@@ -3639,7 +3660,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [9140682474209668]" altrender="box">6</container>
             <unittitle><title render="italic">Swing Serenade</title>, <unitdate type="inclusive" normal="1982" certainty="approximate">circa 1982</unitdate></unittitle>
             <physdesc>
               <physfacet>DVC-Pro digital cassette spar036</physfacet>
@@ -3648,7 +3669,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [9140682474209668]" altrender="box">6</container>
             <unittitle><title render="italic">A Thief's Progress</title>, Riverside Dance Festival, New York, May 11, 13, 14, <unitdate type="inclusive" normal="1978">1978</unitdate></unittitle>
             <physdesc>
               <physfacet>VHS videocassette</physfacet>
@@ -3657,7 +3678,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [9140682474209668]" altrender="box">6</container>
             <unittitle><title render="italic">Three Etudes</title>, <unitdate type="inclusive" normal="1990" certainty="approximate">circa 1990</unitdate></unittitle>
             <physdesc>
               <physfacet>DVC-Pro digital cassette spar005</physfacet>
@@ -3666,7 +3687,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [9140682474209668]" altrender="box">6</container>
             <unittitle><title render="italic">Travelogue</title>, <unitdate type="inclusive" normal="1994" certainty="approximate">circa 1994</unitdate></unittitle>
             <physdesc>
               <physfacet>DVC-Pro digital cassette spar010</physfacet>
@@ -3683,7 +3704,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
             <physdesc>
               <physfacet>.MOV and .MP4 files</physfacet>
             </physdesc>
-            <dao href="http://hdl.handle.net/2027.42/102507" show="new" actuate="onrequest">
+            <dao href="http://hdl.handle.net/2027.42/102507" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/9000">
               <daodesc>
                 <p>[download item]</p>
               </daodesc>
@@ -3692,7 +3713,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [9140682474209668]" altrender="box">6</container>
             <unittitle><title render="italic">Untitled</title>, undated.</unittitle>
             <physdesc>
               <physfacet>VHS videocassette</physfacet>
@@ -3701,7 +3722,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [9140682474209668]" altrender="box">6</container>
             <unittitle><title render="italic">Unfinished/Tanzmuzik</title>, <unitdate type="inclusive" normal="1997" certainty="approximate">circa 1997</unitdate></unittitle>
             <physdesc>
               <physfacet>DVC-Pro digital cassette spar007</physfacet>
@@ -3715,7 +3736,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
             <physdesc>
               <physfacet>.MOV and .MP4 files</physfacet>
             </physdesc>
-            <dao href="http://hdl.handle.net/2027.42/102530" show="new" actuate="onrequest">
+            <dao href="http://hdl.handle.net/2027.42/102530" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/9001">
               <daodesc>
                 <p>[download item]</p>
               </daodesc>
@@ -3727,7 +3748,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [9140682474209668]" altrender="box">6</container>
             <unittitle><title render="italic">Viola Sonatas</title>, <unitdate type="inclusive">undated</unitdate></unittitle>
             <physdesc>
               <physfacet>DVC-Pro digital cassette spar028</physfacet>
@@ -3736,7 +3757,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [9140682474209668]" altrender="box">6</container>
             <unittitle><title render="italic">Warm-up Routine</title>, <unitdate type="inclusive">undated</unitdate></unittitle>
             <physdesc>
               <physfacet>DVC-Pro digital cassette spar016</physfacet>
@@ -3745,7 +3766,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [9140682474209668]" altrender="box">6</container>
             <unittitle>
               <title render="italic">What She Forgot He Remembered</title>
               <unitdate type="inclusive" normal="1979-12">December 1979</unitdate>
@@ -3757,7 +3778,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [9140682474209668]" altrender="box">6</container>
             <unittitle><title render="italic">What She Forgot He Remembered</title> The Juilliard Theater, New York, <unitdate type="inclusive" normal="1980-01">January 1980</unitdate></unittitle>
             <physdesc>
               <physfacet>VHS videocassette</physfacet>
@@ -3766,7 +3787,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [9140682474209668]" altrender="box">6</container>
             <unittitle><title render="italic">What She Forgot He Remembered</title>, <unitdate type="inclusive">undated</unitdate></unittitle>
             <physdesc>
               <physfacet>DVC-Pro digital cassette spar026</physfacet>
@@ -3775,7 +3796,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [9140682474209668]" altrender="box">6</container>
             <unittitle>
               <title render="italic">Wings</title>
               <unitdate type="inclusive" normal="1989" certainty="approximate">circa 1989</unitdate>
@@ -3787,7 +3808,7 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [9140682474209668]" altrender="box">6</container>
             <unittitle>
               <title render="italic">Wintertanze I</title>
             </unittitle>
@@ -3806,13 +3827,15 @@ Peter Sparling papers, Bentley Historical Library, University of Michigan</p>
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
-            <unittitle>Posters <unitdate type="inclusive" normal="1974/1994">1974-1994</unitdate>, <unitdate type="inclusive">undated</unitdate></unittitle>
+            <container type="box" label="Box [8168646986865476]" altrender="box">5</container>
+            <unittitle>Posters</unittitle>
+            <unitdate type="inclusive" normal="1974/1994">1974-1994</unitdate>
+            <unitdate type="inclusive">undated</unitdate>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [8168646986865476]" altrender="box">5</container>
             <unittitle>Drawings (13) <unitdate type="inclusive">undated</unitdate></unittitle>
           </did>
         </c02>

@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>George W. Shepherd Papers, 1919-1965</titleproper>
       <author>Finding aid created by <lb/>Claire De Witt, October 2014</author>
     </titlepage>
@@ -37,7 +37,9 @@
       <origination>
         <persname source="lcnaf" encodinganalog="100" authfilenumber="http://id.loc.gov/authorities/names/n50023039">Shepherd, George W.</persname>
       </origination>
-      <unittitle encodinganalog="245">George W. Shepherd papers <unitdate type="inclusive" encodinganalog="245$f" normal="1919/1965">1919-1965</unitdate>, <unitdate type="bulk" encodinganalog="245$g" normal="1919/1939">1919-1939</unitdate></unittitle>
+      <unittitle encodinganalog="245">George W. Shepherd papers</unittitle>
+      <unitdate type="inclusive" encodinganalog="245$f" normal="1919/1965">1919-1965</unitdate>
+      <unitdate type="bulk" encodinganalog="245$g" normal="1919/1939">1919-1939</unitdate>
       <unitid encodinganalog="852$h" repositorycode="MiU-H" countrycode="us" type="call number">2014151 Aa 2</unitid>
       <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language></langmaterial>
       <abstract>George W. Shepherd was a Congregationalist missionary in China with the New Life Movement from 1919-1939 and advisor to Chiang Kai-Shek; married to Dr. Clara (Sargent) Shepherd. The collection includes George Shepherd's writings about his experiences in China, family correspondence, sermons and lectures, and material from the New Life Movement.</abstract>
@@ -90,20 +92,20 @@ George W. Shepherd papers, Bentley Historical Library, University of Michigan</p
       <controlaccess>
         <head>Subjects:</head>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n80057046">Chiang, Kai-Shek 1887-1975.</persname>
-        <geogname source="lcsh" encodinganalog="651">China--History--Republic, 1912-1949.</geogname>
-        <geogname source="lcsh" encodinganalog="651">Politics and government--1912-1949.</geogname>
-        <geogname source="lcsh" encodinganalog="651">Social conditions.</geogname>
-        <subject source="lcsh" encodinganalog="650">Missionaries--China--20th century.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/946">China--History--Republic, 1912-1949.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/2799">Politics and government--1912-1949.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/2800">Social conditions.</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/10049">Missionaries--China--20th century.</subject>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/no94035480">New Life Movement.</corpname>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n50023039">Shepherd, George W.</persname>
         <persname source="lcnaf" encodinganalog="600">Shepherd, Clara Sargent.</persname>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Materials:</head>
-        <subject source="lctgm" encodinganalog="650">Agricultural laborers--China--20th century.</subject>
-        <geogname source="lcsh" encodinganalog="651">China--Maps.</geogname>
-        <subject source="lctgm" encodinganalog="650">Missionaries--China--20th century.</subject>
-        <subject source="lctgm" encodinganalog="650">Students--China--20th century.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/5291">Agricultural laborers--China--20th century.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/2801">China--Maps.</geogname>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/5292">Missionaries--China--20th century.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/5293">Students--China--20th century.</subject>
       </controlaccess>
       <controlaccess>
         <head>Contributors:</head>
@@ -111,21 +113,23 @@ George W. Shepherd papers, Bentley Historical Library, University of Michigan</p
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Maps.</genreform>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3142">Maps.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
       <c01 level="series">
         <did>
-          <unittitle>Writings <unitdate type="inclusive" normal="1919/1943">1919-1943</unitdate>, <unitdate type="inclusive" normal="1965">1965</unitdate></unittitle>
+          <unittitle>Writings</unittitle>
+          <unitdate type="inclusive" normal="1919/1943">1919-1943</unitdate>
+          <unitdate type="inclusive" normal="1965">1965</unitdate>
         </did>
         <scopecontent>
           <p>The Writings series (1919-1943; 2 linear feet) contains material written by, with, or to George Shepherd. Of particular note are a typed memoir that Dr. Clara Sargent Shepherd wrote about the family's life in China and several drafts of an unpolished book by Shepherd about his time working with Chiang Kai-Shek. The manuscript and memoir are based largely off of correspondence included in this series, both original handwritten and typed letters. Other items include lecture and sermon notes with topics such as prayer, character, and the significance of holidays, personal memorandum books, and notes on Christian mission work including building a new world and other topics.</p>
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6510322647990400725859]" altrender="box">1</container>
             <unittitle>Correspondence <unitdate type="inclusive" normal="1919/1939">1919-1939</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">13 folders</extent>
@@ -134,7 +138,7 @@ George W. Shepherd papers, Bentley Historical Library, University of Michigan</p
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6510322647990400725859]" altrender="box">1</container>
             <unittitle>Manuscript <unitdate type="inclusive">after 1939</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">5 folders</extent>
@@ -150,7 +154,7 @@ George W. Shepherd papers, Bentley Historical Library, University of Michigan</p
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [6510322647990400725859]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1965">1965</unitdate>
               </unittitle>
@@ -158,7 +162,7 @@ George W. Shepherd papers, Bentley Historical Library, University of Michigan</p
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [5556520460308911078881]" altrender="box">2</container>
               <unittitle>After <unitdate type="inclusive" normal="1939">1939</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -168,8 +172,11 @@ George W. Shepherd papers, Bentley Historical Library, University of Michigan</p
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
-            <unittitle>Memorandum <unitdate type="inclusive" normal="1934">1934</unitdate>, <unitdate type="inclusive" normal="1938">1938</unitdate>, <unitdate type="inclusive">undated</unitdate></unittitle>
+            <container type="box" label="Box [5556520460308911078881]" altrender="box">2</container>
+            <unittitle>Memorandum</unittitle>
+            <unitdate type="inclusive" normal="1934">1934</unitdate>
+            <unitdate type="inclusive" normal="1938">1938</unitdate>
+            <unitdate type="inclusive">undated</unitdate>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
             </physdesc>
@@ -177,8 +184,10 @@ George W. Shepherd papers, Bentley Historical Library, University of Michigan</p
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
-            <unittitle>Notes on General Missions <unitdate type="inclusive" normal="1940">1940</unitdate>, <unitdate type="inclusive">undated</unitdate></unittitle>
+            <container type="box" label="Box [5556520460308911078881]" altrender="box">2</container>
+            <unittitle>Notes on General Missions</unittitle>
+            <unitdate type="inclusive" normal="1940">1940</unitdate>
+            <unitdate type="inclusive">undated</unitdate>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
             </physdesc>
@@ -186,8 +195,10 @@ George W. Shepherd papers, Bentley Historical Library, University of Michigan</p
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
-            <unittitle>Sermon and Lecture Notes <unitdate type="inclusive" normal="1943">1943</unitdate>, <unitdate type="inclusive">undated</unitdate></unittitle>
+            <container type="box" label="Box [5556520460308911078881]" altrender="box">2</container>
+            <unittitle>Sermon and Lecture Notes</unittitle>
+            <unitdate type="inclusive" normal="1943">1943</unitdate>
+            <unitdate type="inclusive">undated</unitdate>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">8 folders</extent>
             </physdesc>
@@ -203,8 +214,11 @@ George W. Shepherd papers, Bentley Historical Library, University of Michigan</p
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
-            <unittitle>Christian Mission Materials <unitdate type="inclusive" normal="1938">1938</unitdate>, <unitdate type="inclusive" normal="1941">1941</unitdate>, <unitdate type="inclusive">undated</unitdate></unittitle>
+            <container type="box" label="Box [61027607277451850548311]" altrender="box">3</container>
+            <unittitle>Christian Mission Materials</unittitle>
+            <unitdate type="inclusive" normal="1938">1938</unitdate>
+            <unitdate type="inclusive" normal="1941">1941</unitdate>
+            <unitdate type="inclusive">undated</unitdate>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
             </physdesc>
@@ -216,20 +230,20 @@ George W. Shepherd papers, Bentley Historical Library, University of Michigan</p
           </did>
           <c03 level="file">
             <did>
-              <container type="tube" label="Tube">1</container>
+              <container type="tube" label="Tube [248404445841724732235]" altrender="tube">1</container>
               <unittitle>New Map of China <unitdate type="inclusive" normal="1938">1938</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="tube" label="Tube">1</container>
+              <container type="tube" label="Tube [248404445841724732235]" altrender="tube">1</container>
               <unittitle>Map of China <unitdate type="inclusive">undated</unitdate></unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [61027607277451850548311]" altrender="box">3</container>
             <unittitle>Photographs <unitdate type="inclusive" normal="1919/1939" certainty="approximate">circa 1919-1939</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">9 folders</extent>
@@ -238,8 +252,11 @@ George W. Shepherd papers, Bentley Historical Library, University of Michigan</p
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
-            <unittitle>Promotional Materials <unitdate type="inclusive" normal="1931">1931</unitdate>, <unitdate type="inclusive" normal="1935/1942">1935-1942</unitdate>, <unitdate type="inclusive">undated</unitdate></unittitle>
+            <container type="box" label="Box [61027607277451850548311]" altrender="box">3</container>
+            <unittitle>Promotional Materials</unittitle>
+            <unitdate type="inclusive" normal="1931">1931</unitdate>
+            <unitdate type="inclusive" normal="1935/1942">1935-1942</unitdate>
+            <unitdate type="inclusive">undated</unitdate>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">7 folders</extent>
             </physdesc>
@@ -247,7 +264,7 @@ George W. Shepherd papers, Bentley Historical Library, University of Michigan</p
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [61027607277451850548311]" altrender="box">3</container>
             <unittitle>Travel Materials <unitdate type="inclusive" normal="1930/1941">1930-1941</unitdate></unittitle>
           </did>
         </c02>

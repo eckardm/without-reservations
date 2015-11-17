@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>James W. Guthrie papers, 1845-1907</titleproper>
       <author>Finding aid created by <lb/>Michigan Historical Collections staff, June 1979</author>
     </titlepage>
@@ -79,21 +79,21 @@ James W. Guthrie papers, Bentley Historical Library, University of Michigan</p>
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n00006838.html">Bedford (Iowa)</geogname>
-        <geogname source="lcsh" encodinganalog="651">Iowa.</geogname>
-        <geogname source="lcsh" encodinganalog="651">Ohio.</geogname>
-        <subject source="lcsh" encodinganalog="650">Physicians--Ohio.</subject>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n00006838.html" ref="/subjects/1985">Bedford (Iowa)</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1719">Iowa.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1578">Ohio.</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/8078">Physicians--Ohio.</subject>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n98059961">United States. Army. Ohio Infantry Regiment, 20th (1861-1865)</corpname>
-        <geogname source="lcsh" encodinganalog="651">United States--History--Civil War, 1861-1865.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/909">United States--History--Civil War, 1861-1865.</geogname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan. Dept. of Medicine and Surgery. Class of 1862.</corpname>
-        <geogname source="lcsh" encodinganalog="651">United States--History--Civil War, 1861-1865--Medical care.</geogname>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n79072738.html">Wooster (Ohio)</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1986">United States--History--Civil War, 1861-1865--Medical care.</geogname>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n79072738.html" ref="/subjects/1987">Wooster (Ohio)</geogname>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Materials:</head>
         <persname source="lcnaf" encodinganalog="600">Guthrie, James W. (James Welch), 1827-1911.</persname>
-        <subject source="lctgm" encodinganalog="650">Medical aspects of war.</subject>
-        <geogname source="lcsh" encodinganalog="651">United States--History--Civil War, 1861-1865.</geogname>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4465">Medical aspects of war.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/909">United States--History--Civil War, 1861-1865.</geogname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n98059961">United States. Army. Ohio Infantry Regiment, 20th (1861-1865)</corpname>
       </controlaccess>
       <controlaccess>
@@ -103,8 +103,8 @@ James W. Guthrie papers, Bentley Historical Library, University of Michigan</p>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Diaries.</genreform>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3150">Diaries.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -114,8 +114,11 @@ James W. Guthrie papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <unittitle>School records <unitdate type="inclusive">undated</unitdate>, <unitdate type="inclusive" normal="1853/1854">1853-1854</unitdate>, <unitdate type="inclusive" normal="1857">1857</unitdate></unittitle>
+            <container type="box" label="Box [913854429841523093853]" altrender="box">1</container>
+            <unittitle>School records</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <unitdate type="inclusive" normal="1853/1854">1853-1854</unitdate>
+            <unitdate type="inclusive" normal="1857">1857</unitdate>
           </did>
         </c02>
         <c02 level="file">
@@ -124,13 +127,15 @@ James W. Guthrie papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
-              <unittitle><unitdate type="inclusive">Undated</unitdate>, <unitdate type="inclusive" normal="1845">1845</unitdate>, <unitdate type="inclusive" normal="1850/1859">1850-1859</unitdate></unittitle>
+              <container type="box" label="Box [913854429841523093853]" altrender="box">1</container>
+              <unitdate type="inclusive">Undated</unitdate>
+              <unitdate type="inclusive" normal="1845">1845</unitdate>
+              <unitdate type="inclusive" normal="1850/1859">1850-1859</unitdate>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [913854429841523093853]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1860/1862">1860-1862</unitdate>
               </unittitle>
@@ -138,7 +143,7 @@ James W. Guthrie papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [913854429841523093853]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1863/1869">1863-1869</unitdate>
               </unittitle>
@@ -146,7 +151,7 @@ James W. Guthrie papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [913854429841523093853]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1870/1879">1870-1879</unitdate>
               </unittitle>
@@ -154,7 +159,7 @@ James W. Guthrie papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [913854429841523093853]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1880/1889">1880-1889</unitdate>
               </unittitle>
@@ -162,7 +167,7 @@ James W. Guthrie papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [913854429841523093853]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1890/1909">1890-1909</unitdate>
               </unittitle>
@@ -171,67 +176,76 @@ James W. Guthrie papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [913854429841523093853]" altrender="box">1</container>
             <unittitle>Civil War records <unitdate type="inclusive" normal="1862/1865">1862-1865</unitdate>, including enlistment papers and special orders</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [913854429841523093853]" altrender="box">1</container>
             <unittitle>Journal <unitdate type="inclusive">undated</unitdate>, <unitdate type="inclusive" normal="1864">1864</unitdate>, <unitdate type="inclusive" normal="1875">1875</unitdate> (unbound)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <unittitle>Equipment requests and property indebtedness records <unitdate type="inclusive">undated</unitdate>, <unitdate type="inclusive" normal="1862/1867">1862-1867</unitdate></unittitle>
+            <container type="box" label="Box [913854429841523093853]" altrender="box">1</container>
+            <unittitle>Equipment requests and property indebtedness records</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <unitdate type="inclusive" normal="1862/1867">1862-1867</unitdate>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [913854429841523093853]" altrender="box">1</container>
             <unittitle>Pension records <unitdate type="inclusive" normal="1865/1907">1865-1907</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [913854429841523093853]" altrender="box">1</container>
             <unittitle>Battles fought by 20th Ohio Volunteer Infantry</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [913854429841523093853]" altrender="box">1</container>
             <unittitle>Miscellanea</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <unittitle>Newspapers <unitdate type="inclusive">undated</unitdate>, <unitdate type="inclusive" normal="1863">1863</unitdate>, <unitdate type="inclusive" normal="1865">1865</unitdate></unittitle>
+            <container type="box" label="Box [913854429841523093853]" altrender="box">1</container>
+            <unittitle>Newspapers</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <unitdate type="inclusive" normal="1863">1863</unitdate>
+            <unitdate type="inclusive" normal="1865">1865</unitdate>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [913854429841523093853]" altrender="box">1</container>
             <unittitle>Manuscript of "Doctor Guthrie's War," <unitdate type="inclusive">undated</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [913854429841523093853]" altrender="box">1</container>
             <unittitle>Notes <unitdate type="inclusive">undated</unitdate>, by Helen Stephenson Guthrie on James Welch Guthrie</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <unittitle><genreform normal="Diaries">Diaries</genreform>, <unitdate type="inclusive" normal="1860">1860</unitdate>, <unitdate type="inclusive" normal="1864">1864</unitdate></unittitle>
+            <container type="box" label="Box [913854429841523093853]" altrender="box">1</container>
+            <unittitle>
+              <genreform normal="Diaries">Diaries</genreform>
+            </unittitle>
+            <unitdate type="inclusive" normal="1860">1860</unitdate>
+            <unitdate type="inclusive" normal="1864">1864</unitdate>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [913854429841523093853]" altrender="box">1</container>
             <unittitle><genreform normal="Photographs">Photos</genreform> of Guthrie and other soldiers, and photos of medical tools</unittitle>
           </did>
         </c02>

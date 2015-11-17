@@ -30,7 +30,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Vietnam Veterans of America, <lb/>Chapter 9 (Detroit, Mich.) <lb/>Records, 1973-2011</titleproper>
       <author>Finding aid created by <lb/>Gregory Kinney and Shae Rafferty</author>
     </titlepage>
@@ -40,7 +40,9 @@
       <origination>
         <corpname source="lcnaf" encodinganalog="110">Vietnam Veterans of America, Inc. Chapter 9 (Detroit, Mich.)</corpname>
       </origination>
-      <unittitle encodinganalog="245">Vietnam Veterans of America, Chapter 9 (Detroit, Mich.) records <unitdate type="inclusive" encodinganalog="245$f" normal="1973/2011">1973-2011</unitdate>, <unitdate type="bulk" encodinganalog="245$g" normal="1980/1997">1980-1997</unitdate></unittitle>
+      <unittitle encodinganalog="245">Vietnam Veterans of America, Chapter 9 (Detroit, Mich.) records</unittitle>
+      <unitdate type="inclusive" encodinganalog="245$f" normal="1973/2011">1973-2011</unitdate>
+      <unitdate type="bulk" encodinganalog="245$g" normal="1980/1997">1980-1997</unitdate>
       <unitid encodinganalog="099" repositorycode="MiU-H" countrycode="us" type="call number">87396 Be 2</unitid>
       <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language></langmaterial>
       <abstract>This collection includes material regarding the activities of the Vietnam Veterans of America, Inc., Chapter 9 (Detroit, Mich.). Some members of this group have also been involved in the Vietnam Veterans of America (VVA) State of Michigan Council, as well as the Michigan Veterans Trust Fund and Vietnam Monument Commission so materials from these groups have also been included in this collection.</abstract>
@@ -86,25 +88,25 @@ Vietnam Veterans of America, Chapter 9 (Detroit, Mich.) Records, Bentley Histori
         <head>Subjects:</head>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n81091672">Michigan Veterans Trust Fund.</corpname>
         <corpname source="lcnaf" encodinganalog="610">Veteran Monument Commission of Michigan.</corpname>
-        <subject source="lcsh" encodinganalog="650">Veterans--Michigan--Societies, etc.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5887">Veterans--Michigan--Societies, etc.</subject>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n84141617">Vietnam Veterans of America, Inc.</corpname>
         <corpname source="lcnaf" encodinganalog="610">Vietnam Veterans of America, Inc. Chapter 9 (Detroit, Mich.)</corpname>
-        <subject source="lcsh" encodinganalog="650">Vietnam War, 1961-1975--Monuments--Michigan.</subject>
-        <subject source="lcsh" encodinganalog="650">Vietnam War, 1961-1975--Veterans.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/10553">Vietnam War, 1961-1975--Monuments--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/10554">Vietnam War, 1961-1975--Veterans.</subject>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Materials:</head>
-        <subject source="lctgm" encodinganalog="650">Veterans' organizations.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/5517">Veterans' organizations.</subject>
         <corpname source="lcnaf" encodinganalog="610">Vietnam Monument Commission of Michigan.</corpname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n84141617">Vietnam Veterans of America, Inc.</corpname>
         <corpname source="lcnaf" encodinganalog="610">Vietnam Veterans of America, Inc. Chapter 9 (Detroit, Mich.)</corpname>
-        <subject source="lcsh" encodinganalog="650">Vietnam War, 1961-1975--Monuments--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/10553">Vietnam War, 1961-1975--Monuments--Michigan.</subject>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Sound Recordings:</head>
-        <subject source="lcsh" encodinganalog="650">Memorial Day.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7775">Memorial Day.</subject>
         <corpname source="lcnaf" encodinganalog="610">Vietnam Veterans of America, Inc. Chapter 9 (Detroit, Mich.)</corpname>
-        <subject source="lcsh" encodinganalog="650">War memorials--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/10555">War memorials--Michigan.</subject>
       </controlaccess>
       <controlaccess>
         <head>Contributors:</head>
@@ -112,11 +114,11 @@ Vietnam Veterans of America, Chapter 9 (Detroit, Mich.) Records, Bentley Histori
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Audiocassettes.</genreform>
-        <genreform source="aat" encodinganalog="655">Interviews.</genreform>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
-        <genreform source="aat" encodinganalog="655">Sound recordings.</genreform>
-        <genreform source="aat" encodinganalog="655">Videotapes.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3163">Audiocassettes.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3194">Interviews.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3143">Sound recordings.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3140">Videotapes.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -129,7 +131,7 @@ Vietnam Veterans of America, Chapter 9 (Detroit, Mich.) Records, Bentley Histori
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8485630262486805190696]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1986">1986</unitdate>
             </unittitle>
@@ -137,7 +139,7 @@ Vietnam Veterans of America, Chapter 9 (Detroit, Mich.) Records, Bentley Histori
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8485630262486805190696]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1989/1998">1989-1998</unitdate>
             </unittitle>
@@ -145,7 +147,7 @@ Vietnam Veterans of America, Chapter 9 (Detroit, Mich.) Records, Bentley Histori
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8485630262486805190696]" altrender="box">1</container>
             <unittitle>"Aftermath"</unittitle>
           </did>
           <odd>
@@ -154,25 +156,25 @@ Vietnam Veterans of America, Chapter 9 (Detroit, Mich.) Records, Bentley Histori
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8485630262486805190696]" altrender="box">1</container>
             <unittitle>Aftermath, Aftermath II <unitdate type="inclusive" normal="1996/1998">1996-1998</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8485630262486805190696]" altrender="box">1</container>
             <unittitle>"Aftermath Update" <unitdate type="inclusive" normal="1985/1987">1985-1987</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8485630262486805190696]" altrender="box">1</container>
             <unittitle>Agent Orange <unitdate type="inclusive" normal="1987/1988">1987-1988</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8485630262486805190696]" altrender="box">1</container>
             <unittitle>The AMVET Story Continues... <unitdate type="inclusive" normal="1992">1992</unitdate></unittitle>
           </did>
           <odd>
@@ -181,13 +183,13 @@ Vietnam Veterans of America, Chapter 9 (Detroit, Mich.) Records, Bentley Histori
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8485630262486805190696]" altrender="box">1</container>
             <unittitle>Articles of Incorporation and Bylaws <unitdate type="inclusive" normal="1980/1986">1980-1986</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8485630262486805190696]" altrender="box">1</container>
             <unittitle>Articles of incorporation and tax documents <unitdate type="inclusive" normal="1981/1991">1981-1991</unitdate></unittitle>
           </did>
         </c02>
@@ -197,7 +199,7 @@ Vietnam Veterans of America, Chapter 9 (Detroit, Mich.) Records, Bentley Histori
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [8485630262486805190696]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1985/1988">1985-1988</unitdate>
               </unittitle>
@@ -209,7 +211,7 @@ Vietnam Veterans of America, Chapter 9 (Detroit, Mich.) Records, Bentley Histori
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [8485630262486805190696]" altrender="box">1</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1982">1982</unitdate>
                 </unittitle>
@@ -217,7 +219,7 @@ Vietnam Veterans of America, Chapter 9 (Detroit, Mich.) Records, Bentley Histori
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [8485630262486805190696]" altrender="box">1</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1986">1986</unitdate>
                 </unittitle>
@@ -227,19 +229,21 @@ Vietnam Veterans of America, Chapter 9 (Detroit, Mich.) Records, Bentley Histori
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8485630262486805190696]" altrender="box">1</container>
             <unittitle>Business cards <unitdate type="inclusive">undated</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <unittitle>Chapter anniversaries <unitdate type="inclusive" normal="2001">2001</unitdate>, <unitdate type="inclusive" normal="2006">2006</unitdate></unittitle>
+            <container type="box" label="Box [8485630262486805190696]" altrender="box">1</container>
+            <unittitle>Chapter anniversaries</unittitle>
+            <unitdate type="inclusive" normal="2001">2001</unitdate>
+            <unitdate type="inclusive" normal="2006">2006</unitdate>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8485630262486805190696]" altrender="box">1</container>
             <unittitle>Chapter guidebook <unitdate type="inclusive">undated</unitdate></unittitle>
           </did>
         </c02>
@@ -249,13 +253,13 @@ Vietnam Veterans of America, Chapter 9 (Detroit, Mich.) Records, Bentley Histori
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [8485630262486805190696]" altrender="box">1</container>
               <unittitle>Chapter newsletter-L.Z. MOTOWN Review <unitdate type="inclusive" normal="1993/1994">1993-1994</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [8485630262486805190696]" altrender="box">1</container>
               <unittitle>9-Detroit <unitdate type="inclusive" normal="1989/1990">1989-1990</unitdate></unittitle>
             </did>
             <odd>
@@ -264,7 +268,7 @@ Vietnam Veterans of America, Chapter 9 (Detroit, Mich.) Records, Bentley Histori
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [8485630262486805190696]" altrender="box">1</container>
               <unittitle>18-Kent County <unitdate type="inclusive" normal="1983">1983</unitdate></unittitle>
             </did>
             <odd>
@@ -273,7 +277,7 @@ Vietnam Veterans of America, Chapter 9 (Detroit, Mich.) Records, Bentley Histori
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [8485630262486805190696]" altrender="box">1</container>
               <unittitle>30-Lansing <unitdate type="inclusive" normal="1982/1983">1982-1983</unitdate></unittitle>
             </did>
             <odd>
@@ -282,7 +286,7 @@ Vietnam Veterans of America, Chapter 9 (Detroit, Mich.) Records, Bentley Histori
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [8485630262486805190696]" altrender="box">1</container>
               <unittitle>73-Holland area <unitdate type="inclusive" normal="1982/1990">1982-1990</unitdate></unittitle>
             </did>
             <odd>
@@ -291,7 +295,7 @@ Vietnam Veterans of America, Chapter 9 (Detroit, Mich.) Records, Bentley Histori
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [8485630262486805190696]" altrender="box">1</container>
               <unittitle>93-Kalamazoo <unitdate type="inclusive" normal="1983/1990">1983-1990</unitdate></unittitle>
             </did>
             <odd>
@@ -300,7 +304,7 @@ Vietnam Veterans of America, Chapter 9 (Detroit, Mich.) Records, Bentley Histori
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [8485630262486805190696]" altrender="box">1</container>
               <unittitle>180-Sault Ste. Marie</unittitle>
             </did>
             <odd>
@@ -309,7 +313,7 @@ Vietnam Veterans of America, Chapter 9 (Detroit, Mich.) Records, Bentley Histori
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [8485630262486805190696]" altrender="box">1</container>
               <unittitle>211-Traverse area <unitdate type="inclusive" normal="1987/1991">1987-1991</unitdate></unittitle>
             </did>
             <odd>
@@ -318,7 +322,7 @@ Vietnam Veterans of America, Chapter 9 (Detroit, Mich.) Records, Bentley Histori
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [8485630262486805190696]" altrender="box">1</container>
               <unittitle>250-Saginaw <unitdate type="inclusive" normal="1989/1990">1989-1990</unitdate></unittitle>
             </did>
             <odd>
@@ -327,7 +331,7 @@ Vietnam Veterans of America, Chapter 9 (Detroit, Mich.) Records, Bentley Histori
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [8485630262486805190696]" altrender="box">1</container>
               <unittitle>267-Dearborn <unitdate type="inclusive" normal="1989/1990">1989-1990</unitdate></unittitle>
             </did>
             <odd>
@@ -336,7 +340,7 @@ Vietnam Veterans of America, Chapter 9 (Detroit, Mich.) Records, Bentley Histori
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [8485630262486805190696]" altrender="box">1</container>
               <unittitle>287-Lapper County <unitdate type="inclusive" normal="1990">1990</unitdate></unittitle>
             </did>
             <odd>
@@ -345,14 +349,14 @@ Vietnam Veterans of America, Chapter 9 (Detroit, Mich.) Records, Bentley Histori
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [8485630262486805190696]" altrender="box">1</container>
               <unittitle>Miscellaneous <unitdate type="inclusive" normal="1983/1990">1983-1990</unitdate></unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8485630262486805190696]" altrender="box">1</container>
             <unittitle>Clippings <unitdate type="inclusive" normal="1981/1987">1981-1987</unitdate></unittitle>
           </did>
           <odd>
@@ -361,7 +365,7 @@ Vietnam Veterans of America, Chapter 9 (Detroit, Mich.) Records, Bentley Histori
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8485630262486805190696]" altrender="box">1</container>
             <unittitle>Committee to Elect Keith King president of VVA <unitdate type="inclusive" normal="1985">1985</unitdate></unittitle>
           </did>
         </c02>
@@ -371,7 +375,7 @@ Vietnam Veterans of America, Chapter 9 (Detroit, Mich.) Records, Bentley Histori
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [8485630262486805190696]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1982-07/1983-03">July 1982-March 1983</unitdate>
               </unittitle>
@@ -379,7 +383,7 @@ Vietnam Veterans of America, Chapter 9 (Detroit, Mich.) Records, Bentley Histori
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [8485630262486805190696]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1985-10/1986-06">October 1985-June 1986</unitdate>
               </unittitle>
@@ -387,7 +391,7 @@ Vietnam Veterans of America, Chapter 9 (Detroit, Mich.) Records, Bentley Histori
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [8485630262486805190696]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1986-07/1987-05">July 1986-May 1987</unitdate>
               </unittitle>
@@ -396,25 +400,25 @@ Vietnam Veterans of America, Chapter 9 (Detroit, Mich.) Records, Bentley Histori
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8485630262486805190696]" altrender="box">1</container>
             <unittitle>Election report <unitdate type="inclusive" normal="2008">2008</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8485630262486805190696]" altrender="box">1</container>
             <unittitle>Financial Records <unitdate type="inclusive" normal="1983/1986">1983-1986</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8485630262486805190696]" altrender="box">1</container>
             <unittitle>Flight of the Phoenix Vet Center and Agent Orange <unitdate type="inclusive" normal="1980">1980</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8485630262486805190696]" altrender="box">1</container>
             <unittitle>History <unitdate type="inclusive" normal="2006">2006</unitdate></unittitle>
           </did>
         </c02>
@@ -424,7 +428,7 @@ Vietnam Veterans of America, Chapter 9 (Detroit, Mich.) Records, Bentley Histori
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [8485630262486805190696]" altrender="box">1</container>
               <unittitle>Miscellaneous <unitdate type="inclusive" normal="1975/1986">1975-1986</unitdate></unittitle>
             </did>
             <odd>
@@ -433,20 +437,20 @@ Vietnam Veterans of America, Chapter 9 (Detroit, Mich.) Records, Bentley Histori
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [2936466843460511]" altrender="box">2</container>
               <unittitle>Veteran affairs involvement <unitdate type="inclusive" normal="1991/1994">1991-1994</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [2936466843460511]" altrender="box">2</container>
               <unittitle>VVA national president campaign <unitdate type="inclusive" normal="1985">1985</unitdate></unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [2936466843460511]" altrender="box">2</container>
             <unittitle>Legislative File <unitdate type="inclusive" normal="1983/1987">1983-1987</unitdate></unittitle>
           </did>
         </c02>
@@ -456,20 +460,20 @@ Vietnam Veterans of America, Chapter 9 (Detroit, Mich.) Records, Bentley Histori
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [2936466843460511]" altrender="box">2</container>
               <unittitle>Lists <unitdate type="inclusive" normal="1995/2001">1995-2001</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [2936466843460511]" altrender="box">2</container>
               <unittitle>Pending <unitdate type="inclusive" normal="1996">1996</unitdate></unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [2936466843460511]" altrender="box">2</container>
             <unittitle>Membership committee report <unitdate type="inclusive" normal="1983">1983</unitdate></unittitle>
           </did>
         </c02>
@@ -483,7 +487,7 @@ Vietnam Veterans of America, Chapter 9 (Detroit, Mich.) Records, Bentley Histori
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [2936466843460511]" altrender="box">2</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1981-10/1984-09">October 1981-September 1984</unitdate>
                 </unittitle>
@@ -491,7 +495,7 @@ Vietnam Veterans of America, Chapter 9 (Detroit, Mich.) Records, Bentley Histori
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [2936466843460511]" altrender="box">2</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1985">1985</unitdate>
                 </unittitle>
@@ -499,7 +503,7 @@ Vietnam Veterans of America, Chapter 9 (Detroit, Mich.) Records, Bentley Histori
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [2936466843460511]" altrender="box">2</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1986">1986</unitdate>
                 </unittitle>
@@ -508,20 +512,22 @@ Vietnam Veterans of America, Chapter 9 (Detroit, Mich.) Records, Bentley Histori
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
-              <unittitle>Executive Board <unitdate type="inclusive" normal="1981-09/1983-09">September 1981-September 1983</unitdate>, <unitdate type="inclusive" normal="1985-05/1985-08">May-August 1985</unitdate></unittitle>
+              <container type="box" label="Box [2936466843460511]" altrender="box">2</container>
+              <unittitle>Executive Board</unittitle>
+              <unitdate type="inclusive" normal="1981-09/1983-09">September 1981-September 1983</unitdate>
+              <unitdate type="inclusive" normal="1985-05/1985-08">May-August 1985</unitdate>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [2936466843460511]" altrender="box">2</container>
               <unittitle>General membership meetings <unitdate type="inclusive" normal="1981-10/1987-01">October 1981-January 1987</unitdate></unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [2936466843460511]" altrender="box">2</container>
             <unittitle>Miscellaneous <unitdate type="inclusive" normal="1985/2001">1985-2001</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -530,13 +536,13 @@ Vietnam Veterans of America, Chapter 9 (Detroit, Mich.) Records, Bentley Histori
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [2936466843460511]" altrender="box">2</container>
             <unittitle>VVA <unitdate type="inclusive" normal="1985">1985</unitdate> National Convention Planning Committee</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [2936466843460511]" altrender="box">2</container>
             <unittitle>Membership index <unitdate type="inclusive" normal="1980/1998">1980-1998</unitdate></unittitle>
           </did>
           <odd>
@@ -545,19 +551,19 @@ Vietnam Veterans of America, Chapter 9 (Detroit, Mich.) Records, Bentley Histori
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [54434336644896216698544]" altrender="box">3</container>
             <unittitle>Newspaper articles <unitdate type="inclusive" normal="1984/1997">1984-1997</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [54434336644896216698544]" altrender="box">3</container>
             <unittitle>"Our Vietnam Generation" film <unitdate type="inclusive" normal="2009/2011">2009-2011</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [54434336644896216698544]" altrender="box">3</container>
             <unittitle>Photographs <unitdate type="inclusive">undated</unitdate></unittitle>
           </did>
           <odd>
@@ -566,25 +572,25 @@ Vietnam Veterans of America, Chapter 9 (Detroit, Mich.) Records, Bentley Histori
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [54434336644896216698544]" altrender="box">3</container>
             <unittitle>Photograph <unitdate type="inclusive">undated</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [54434336644896216698544]" altrender="box">3</container>
             <unittitle>Press releases <unitdate type="inclusive" normal="1982/1984">1982-1984</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [54434336644896216698544]" altrender="box">3</container>
             <unittitle>POWs/MIAs <unitdate type="inclusive" normal="1986/1987">1986-1987</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [54434336644896216698544]" altrender="box">3</container>
             <unittitle>Prisoner of War-Missing in Action (POW-MIA) recognition day <unitdate type="inclusive" normal="1990">1990</unitdate></unittitle>
           </did>
           <odd>
@@ -593,37 +599,37 @@ Vietnam Veterans of America, Chapter 9 (Detroit, Mich.) Records, Bentley Histori
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [54434336644896216698544]" altrender="box">3</container>
             <unittitle>Regulations and Procedures <unitdate type="inclusive" normal="1985/1986">1985-1986</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [54434336644896216698544]" altrender="box">3</container>
             <unittitle>Senator Carl Levin <unitdate type="inclusive" normal="1997">1997</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [54434336644896216698544]" altrender="box">3</container>
             <unittitle>Special Committees <unitdate type="inclusive" normal="1985">1985</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [54434336644896216698544]" altrender="box">3</container>
             <unittitle>Suspension and re-instatement <unitdate type="inclusive" normal="1998">1998</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [54434336644896216698544]" altrender="box">3</container>
             <unittitle>The Wall 25th anniversary parade sponsorship information and "Thank You for Serving" DVD <unitdate type="inclusive" normal="2006/2007">2006-2007</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [54434336644896216698544]" altrender="box">3</container>
             <unittitle>Vietnam veteran center in Detroit <unitdate type="inclusive" normal="1983/1985">1983-1985</unitdate></unittitle>
           </did>
         </c02>
@@ -633,25 +639,25 @@ Vietnam Veterans of America, Chapter 9 (Detroit, Mich.) Records, Bentley Histori
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [54434336644896216698544]" altrender="box">3</container>
               <unittitle>Chicago "Welcome Home" Vietnam veteran parade <unitdate type="inclusive" normal="1986">1986</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [54434336644896216698544]" altrender="box">3</container>
               <unittitle>Department of Veterans Affairs <unitdate type="inclusive" normal="1990">1990</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [54434336644896216698544]" altrender="box">3</container>
               <unittitle>Michigan veteran Agent Orange news articles <unitdate type="inclusive" normal="1986">1986</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [54434336644896216698544]" altrender="box">3</container>
               <unittitle>National Geographic magazine <unitdate type="inclusive" normal="1985-05">May 1985</unitdate></unittitle>
             </did>
             <odd>
@@ -660,19 +666,19 @@ Vietnam Veterans of America, Chapter 9 (Detroit, Mich.) Records, Bentley Histori
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [54434336644896216698544]" altrender="box">3</container>
               <unittitle>Programs <unitdate type="inclusive" normal="1982/1986">1982-1986</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [54434336644896216698544]" altrender="box">3</container>
               <unittitle>Vietnam magazine, April and <unitdate type="inclusive" normal="1990-06">June, 1990</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [54434336644896216698544]" altrender="box">3</container>
               <unittitle>VietNow newsletter -- West Michigan chapter, 1990</unittitle>
             </did>
           </c03>
@@ -691,7 +697,7 @@ Vietnam Veterans of America, Chapter 9 (Detroit, Mich.) Records, Bentley Histori
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [54434336644896216698544]" altrender="box">3</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1982">1982</unitdate>
               </unittitle>
@@ -699,31 +705,31 @@ Vietnam Veterans of America, Chapter 9 (Detroit, Mich.) Records, Bentley Histori
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [54434336644896216698544]" altrender="box">3</container>
               <unittitle>Agent Orange <unitdate type="inclusive">undated</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [54434336644896216698544]" altrender="box">3</container>
               <unittitle>Assistance fund and Vetconnect <unitdate type="inclusive" normal="2006">2006</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [54434336644896216698544]" altrender="box">3</container>
               <unittitle>Chapter directory, Board members, revenue, and communications <unitdate type="inclusive" normal="1985/1987">1985-1987</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [54434336644896216698544]" altrender="box">3</container>
               <unittitle>D.C. Vietnam veterans memorial <unitdate type="inclusive" normal="1982">1982</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [54434336644896216698544]" altrender="box">3</container>
               <unittitle>Miscellaneous <unitdate type="inclusive" normal="1982/1995">1982-1995</unitdate></unittitle>
             </did>
           </c03>
@@ -733,56 +739,56 @@ Vietnam Veterans of America, Chapter 9 (Detroit, Mich.) Records, Bentley Histori
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [49884942974297863135524159]" altrender="box">4</container>
                 <unittitle>1985-Detroit</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [49884942974297863135524159]" altrender="box">4</container>
                 <unittitle>1987-District of Columbia</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [49884942974297863135524159]" altrender="box">4</container>
                 <unittitle>1995-Houston, Texas</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [49884942974297863135524159]" altrender="box">4</container>
                 <unittitle>1997-Kansas City, Kansas</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [49884942974297863135524159]" altrender="box">4</container>
                 <unittitle>1999-Anaheim, California</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [49884942974297863135524159]" altrender="box">4</container>
                 <unittitle>2005-Reno, Nevada</unittitle>
               </did>
             </c04>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [54434336644896216698544]" altrender="box">3</container>
               <unittitle>Newspaper articles <unitdate type="inclusive" normal="1983/1986">1983-1986</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [54434336644896216698544]" altrender="box">3</container>
               <unittitle>Report on legal, constitutional, and internal issues <unitdate type="inclusive" normal="2005">2005</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [54434336644896216698544]" altrender="box">3</container>
               <unittitle>Report to members <unitdate type="inclusive" normal="1995">1995</unitdate></unittitle>
             </did>
           </c03>
@@ -795,7 +801,7 @@ Vietnam Veterans of America, Chapter 9 (Detroit, Mich.) Records, Bentley Histori
             </odd>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [54434336644896216698544]" altrender="box">3</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1983/1986">1983-1986</unitdate>
                 </unittitle>
@@ -803,7 +809,7 @@ Vietnam Veterans of America, Chapter 9 (Detroit, Mich.) Records, Bentley Histori
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [54434336644896216698544]" altrender="box">3</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1986/1987">1986-1987</unitdate>
                 </unittitle>
@@ -812,13 +818,13 @@ Vietnam Veterans of America, Chapter 9 (Detroit, Mich.) Records, Bentley Histori
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [54434336644896216698544]" altrender="box">3</container>
               <unittitle>Veteran reader survey <unitdate type="inclusive" normal="1985">1985</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [54434336644896216698544]" altrender="box">3</container>
               <unittitle>Women veterans' project-steering committee <unitdate type="inclusive" normal="1982">1982</unitdate></unittitle>
             </did>
           </c03>
@@ -829,7 +835,7 @@ Vietnam Veterans of America, Chapter 9 (Detroit, Mich.) Records, Bentley Histori
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [2404340452694039]" altrender="box">5</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1982/1983">1982-1983</unitdate>
               </unittitle>
@@ -837,7 +843,7 @@ Vietnam Veterans of America, Chapter 9 (Detroit, Mich.) Records, Bentley Histori
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [2404340452694039]" altrender="box">5</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1984">1984</unitdate>
               </unittitle>
@@ -845,7 +851,7 @@ Vietnam Veterans of America, Chapter 9 (Detroit, Mich.) Records, Bentley Histori
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [2404340452694039]" altrender="box">5</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1987/1990">1987-1990</unitdate>
               </unittitle>
@@ -853,7 +859,7 @@ Vietnam Veterans of America, Chapter 9 (Detroit, Mich.) Records, Bentley Histori
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [2404340452694039]" altrender="box">5</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1990">1990</unitdate>
               </unittitle>
@@ -861,7 +867,7 @@ Vietnam Veterans of America, Chapter 9 (Detroit, Mich.) Records, Bentley Histori
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [2404340452694039]" altrender="box">5</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1990/1991">1990-1991</unitdate>
               </unittitle>
@@ -869,7 +875,7 @@ Vietnam Veterans of America, Chapter 9 (Detroit, Mich.) Records, Bentley Histori
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [2404340452694039]" altrender="box">5</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1982/2006">1982-2006</unitdate>
               </unittitle>
@@ -877,19 +883,19 @@ Vietnam Veterans of America, Chapter 9 (Detroit, Mich.) Records, Bentley Histori
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [2404340452694039]" altrender="box">5</container>
               <unittitle>Correspondence <unitdate type="inclusive" normal="1990">1990</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [2404340452694039]" altrender="box">5</container>
               <unittitle>Council nominations to Michigan Veterans Trust Fund (MVTF) <unitdate type="inclusive" normal="1992">1992</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [2404340452694039]" altrender="box">5</container>
               <unittitle>Incorporation and Agent Orange death <unitdate type="inclusive" normal="1984/1986">1984-1986</unitdate></unittitle>
             </did>
           </c03>
@@ -899,7 +905,7 @@ Vietnam Veterans of America, Chapter 9 (Detroit, Mich.) Records, Bentley Histori
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">5</container>
+                <container type="box" label="Box [2404340452694039]" altrender="box">5</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1983/1990">1983-1990</unitdate>
                 </unittitle>
@@ -910,32 +916,32 @@ Vietnam Veterans of America, Chapter 9 (Detroit, Mich.) Records, Bentley Histori
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">5</container>
+                <container type="box" label="Box [2404340452694039]" altrender="box">5</container>
                 <unittitle>Letters to legislators <unitdate type="inclusive" normal="1982">1982</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">5</container>
+                <container type="box" label="Box [2404340452694039]" altrender="box">5</container>
                 <unittitle>Veteran survey questionnaires <unitdate type="inclusive" normal="1982">1982</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">5</container>
+                <container type="box" label="Box [2404340452694039]" altrender="box">5</container>
                 <unittitle>Women veterans <unitdate type="inclusive" normal="1988/1991">1988-1991</unitdate></unittitle>
               </did>
             </c04>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [2404340452694039]" altrender="box">5</container>
               <unittitle>Master list of state chapters <unitdate type="inclusive" normal="1996">1996</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [2404340452694039]" altrender="box">5</container>
               <unittitle>Meeting minutes <unitdate type="inclusive" normal="1986/1990">1986-1990</unitdate></unittitle>
             </did>
           </c03>
@@ -945,7 +951,7 @@ Vietnam Veterans of America, Chapter 9 (Detroit, Mich.) Records, Bentley Histori
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">5</container>
+                <container type="box" label="Box [2404340452694039]" altrender="box">5</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1987">1987</unitdate>
                 </unittitle>
@@ -953,7 +959,7 @@ Vietnam Veterans of America, Chapter 9 (Detroit, Mich.) Records, Bentley Histori
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">5</container>
+                <container type="box" label="Box [2404340452694039]" altrender="box">5</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1988/1989">1988-1989</unitdate>
                 </unittitle>
@@ -962,43 +968,43 @@ Vietnam Veterans of America, Chapter 9 (Detroit, Mich.) Records, Bentley Histori
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [2404340452694039]" altrender="box">5</container>
               <unittitle>Minutes <unitdate type="inclusive" normal="1982/1987">1982-1987</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [2404340452694039]" altrender="box">5</container>
               <unittitle>Miscellaneous <unitdate type="inclusive" normal="1986/1989">1986-1989</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [2404340452694039]" altrender="box">5</container>
               <unittitle>Prisoner of war committee of Michigan <unitdate type="inclusive" normal="1987/1988">1987-1988</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [2404340452694039]" altrender="box">5</container>
               <unittitle>POW/MIA <unitdate type="inclusive" normal="1973/1992">1973-1992</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [2404340452694039]" altrender="box">5</container>
               <unittitle>Report on activities1982-1984</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [2404340452694039]" altrender="box">5</container>
               <unittitle>Veteran women's memorial project <unitdate type="inclusive" normal="1987/1988">1987-1988</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [2404340452694039]" altrender="box">5</container>
               <unittitle>Women veterans committee <unitdate type="inclusive" normal="1987">1987</unitdate></unittitle>
             </did>
           </c03>
@@ -1017,7 +1023,7 @@ Vietnam Veterans of America, Chapter 9 (Detroit, Mich.) Records, Bentley Histori
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [2404340452694039]" altrender="box">5</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1994/1995">1994-1995</unitdate>
               </unittitle>
@@ -1025,14 +1031,14 @@ Vietnam Veterans of America, Chapter 9 (Detroit, Mich.) Records, Bentley Histori
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [2404340452694039]" altrender="box">5</container>
               <unittitle>Guidebook <unitdate type="inclusive" normal="1993">1993</unitdate></unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [2404340452694039]" altrender="box">5</container>
             <unittitle>Audit report <unitdate type="inclusive" normal="1990/1995">1990-1995</unitdate></unittitle>
           </did>
         </c02>
@@ -1042,7 +1048,7 @@ Vietnam Veterans of America, Chapter 9 (Detroit, Mich.) Records, Bentley Histori
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [2404340452694039]" altrender="box">5</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1994">1994</unitdate>
               </unittitle>
@@ -1050,7 +1056,7 @@ Vietnam Veterans of America, Chapter 9 (Detroit, Mich.) Records, Bentley Histori
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [2404340452694039]" altrender="box">5</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1995">1995</unitdate>
               </unittitle>
@@ -1059,25 +1065,25 @@ Vietnam Veterans of America, Chapter 9 (Detroit, Mich.) Records, Bentley Histori
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [799357464477529124560842]" altrender="box">6</container>
             <unittitle>Board policy manual and fact sheet <unitdate type="inclusive" normal="1996">1996</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [799357464477529124560842]" altrender="box">6</container>
             <unittitle>Budget concerns <unitdate type="inclusive" normal="1995">1995</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [799357464477529124560842]" altrender="box">6</container>
             <unittitle>Commanders' Group directory <unitdate type="inclusive" normal="1992/1993">1992-1993</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [799357464477529124560842]" altrender="box">6</container>
             <unittitle>County committee positions <unitdate type="inclusive" normal="1996">1996</unitdate></unittitle>
           </did>
         </c02>
@@ -1087,7 +1093,7 @@ Vietnam Veterans of America, Chapter 9 (Detroit, Mich.) Records, Bentley Histori
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [799357464477529124560842]" altrender="box">6</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1986/1987">1986-1987</unitdate>
               </unittitle>
@@ -1095,7 +1101,7 @@ Vietnam Veterans of America, Chapter 9 (Detroit, Mich.) Records, Bentley Histori
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [799357464477529124560842]" altrender="box">6</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1994">1994</unitdate>
               </unittitle>
@@ -1103,7 +1109,7 @@ Vietnam Veterans of America, Chapter 9 (Detroit, Mich.) Records, Bentley Histori
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [799357464477529124560842]" altrender="box">6</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1996/1997">1996-1997</unitdate>
               </unittitle>
@@ -1111,7 +1117,7 @@ Vietnam Veterans of America, Chapter 9 (Detroit, Mich.) Records, Bentley Histori
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [799357464477529124560842]" altrender="box">6</container>
               <unittitle>
                 <unitdate type="inclusive">Undated</unitdate>
               </unittitle>
@@ -1120,25 +1126,25 @@ Vietnam Veterans of America, Chapter 9 (Detroit, Mich.) Records, Bentley Histori
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [799357464477529124560842]" altrender="box">6</container>
             <unittitle>Keith King-Chairman <unitdate type="inclusive" normal="1996">1996</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [799357464477529124560842]" altrender="box">6</container>
             <unittitle>Michigan veteran laws for trust fund <unitdate type="inclusive" normal="1996">1996</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [799357464477529124560842]" altrender="box">6</container>
             <unittitle>Procedural memorandums <unitdate type="inclusive" normal="1990">1990</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [799357464477529124560842]" altrender="box">6</container>
             <unittitle>Status update and Vietnam Veterans of America (VVA) representatives <unitdate type="inclusive" normal="1995/1996">1995-1996</unitdate></unittitle>
           </did>
         </c02>
@@ -1152,7 +1158,7 @@ Vietnam Veterans of America, Chapter 9 (Detroit, Mich.) Records, Bentley Histori
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [799357464477529124560842]" altrender="box">6</container>
             <unittitle>
               <unitdate type="inclusive" normal="1992">1992</unitdate>
             </unittitle>
@@ -1167,7 +1173,7 @@ Vietnam Veterans of America, Chapter 9 (Detroit, Mich.) Records, Bentley Histori
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [799357464477529124560842]" altrender="box">6</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1993">1993</unitdate>
               </unittitle>
@@ -1175,7 +1181,7 @@ Vietnam Veterans of America, Chapter 9 (Detroit, Mich.) Records, Bentley Histori
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [799357464477529124560842]" altrender="box">6</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1996">1996</unitdate>
               </unittitle>
@@ -1183,7 +1189,7 @@ Vietnam Veterans of America, Chapter 9 (Detroit, Mich.) Records, Bentley Histori
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [799357464477529124560842]" altrender="box">6</container>
               <unittitle>
                 <unitdate type="inclusive">Undated</unitdate>
               </unittitle>
@@ -1196,7 +1202,7 @@ Vietnam Veterans of America, Chapter 9 (Detroit, Mich.) Records, Bentley Histori
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [799357464477529124560842]" altrender="box">6</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1992">1992</unitdate>
               </unittitle>
@@ -1207,7 +1213,7 @@ Vietnam Veterans of America, Chapter 9 (Detroit, Mich.) Records, Bentley Histori
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [799357464477529124560842]" altrender="box">6</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1993/1994">1993-1994</unitdate>
               </unittitle>
@@ -1215,7 +1221,7 @@ Vietnam Veterans of America, Chapter 9 (Detroit, Mich.) Records, Bentley Histori
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [799357464477529124560842]" altrender="box">6</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1994">1994</unitdate>
               </unittitle>
@@ -1223,7 +1229,7 @@ Vietnam Veterans of America, Chapter 9 (Detroit, Mich.) Records, Bentley Histori
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [799357464477529124560842]" altrender="box">6</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1993/1995">1993-1995</unitdate>
               </unittitle>
@@ -1231,7 +1237,7 @@ Vietnam Veterans of America, Chapter 9 (Detroit, Mich.) Records, Bentley Histori
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [799357464477529124560842]" altrender="box">6</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1994/1995">1994-1995</unitdate>
               </unittitle>
@@ -1239,7 +1245,7 @@ Vietnam Veterans of America, Chapter 9 (Detroit, Mich.) Records, Bentley Histori
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [799357464477529124560842]" altrender="box">6</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1997">1997</unitdate>
               </unittitle>
@@ -1247,50 +1253,50 @@ Vietnam Veterans of America, Chapter 9 (Detroit, Mich.) Records, Bentley Histori
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [799357464477529124560842]" altrender="box">6</container>
               <unittitle>Bozell Worldwide, Inc. <unitdate type="inclusive" normal="1997">1997</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [799357464477529124560842]" altrender="box">6</container>
               <unittitle>CME <unitdate type="inclusive" normal="1993">1993</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [799357464477529124560842]" altrender="box">6</container>
               <unittitle>T-shirt inventory <unitdate type="inclusive" normal="1991/1993">1991-1993</unitdate></unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [799357464477529124560842]" altrender="box">6</container>
             <unittitle>Annual report <unitdate type="inclusive" normal="1992/1993">1992-1993</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [799357464477529124560842]" altrender="box">6</container>
             <unittitle>Brochures <unitdate type="inclusive" normal="1996/2002">1996-2002</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [799357464477529124560842]" altrender="box">6</container>
             <unittitle>Communications plan <unitdate type="inclusive" normal="1993">1993</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [799357464477529124560842]" altrender="box">6</container>
             <unittitle>Completion <unitdate type="inclusive" normal="2001/2004">2001-2004</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [799357464477529124560842]" altrender="box">6</container>
             <unittitle>Corporate sponsorship <unitdate type="inclusive" normal="1993/1994">1993-1994</unitdate></unittitle>
           </did>
           <odd>
@@ -1299,7 +1305,7 @@ Vietnam Veterans of America, Chapter 9 (Detroit, Mich.) Records, Bentley Histori
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">7</container>
+            <container type="box" label="Box [6411634447229999680269]" altrender="box">7</container>
             <unittitle>Correspondence, memorandums, and administrative materials <unitdate type="inclusive" normal="1992/1993">1992-1993</unitdate></unittitle>
           </did>
         </c02>
@@ -1309,7 +1315,7 @@ Vietnam Veterans of America, Chapter 9 (Detroit, Mich.) Records, Bentley Histori
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">7</container>
+              <container type="box" label="Box [6411634447229999680269]" altrender="box">7</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1994">1994</unitdate>
               </unittitle>
@@ -1317,7 +1323,7 @@ Vietnam Veterans of America, Chapter 9 (Detroit, Mich.) Records, Bentley Histori
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">7</container>
+              <container type="box" label="Box [6411634447229999680269]" altrender="box">7</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1996">1996</unitdate>
               </unittitle>
@@ -1326,7 +1332,7 @@ Vietnam Veterans of America, Chapter 9 (Detroit, Mich.) Records, Bentley Histori
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">7</container>
+            <container type="box" label="Box [6411634447229999680269]" altrender="box">7</container>
             <unittitle>Dedication <unitdate type="inclusive" normal="2001">2001</unitdate></unittitle>
           </did>
           <odd>
@@ -1335,13 +1341,13 @@ Vietnam Veterans of America, Chapter 9 (Detroit, Mich.) Records, Bentley Histori
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">7</container>
+            <container type="box" label="Box [6411634447229999680269]" altrender="box">7</container>
             <unittitle>Design competition <unitdate type="inclusive" normal="1992">1992</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">7</container>
+            <container type="box" label="Box [6411634447229999680269]" altrender="box">7</container>
             <unittitle>Facts and press releases <unitdate type="inclusive" normal="1992/1993">1992-1993</unitdate></unittitle>
           </did>
         </c02>
@@ -1351,7 +1357,7 @@ Vietnam Veterans of America, Chapter 9 (Detroit, Mich.) Records, Bentley Histori
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">7</container>
+              <container type="box" label="Box [6411634447229999680269]" altrender="box">7</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1992">1992</unitdate>
               </unittitle>
@@ -1359,7 +1365,7 @@ Vietnam Veterans of America, Chapter 9 (Detroit, Mich.) Records, Bentley Histori
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">7</container>
+              <container type="box" label="Box [6411634447229999680269]" altrender="box">7</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1993">1993</unitdate>
               </unittitle>
@@ -1367,7 +1373,7 @@ Vietnam Veterans of America, Chapter 9 (Detroit, Mich.) Records, Bentley Histori
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">7</container>
+              <container type="box" label="Box [6411634447229999680269]" altrender="box">7</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1992/1995">1992-1995</unitdate>
               </unittitle>
@@ -1375,7 +1381,7 @@ Vietnam Veterans of America, Chapter 9 (Detroit, Mich.) Records, Bentley Histori
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">7</container>
+              <container type="box" label="Box [6411634447229999680269]" altrender="box">7</container>
               <unittitle>Activities <unitdate type="inclusive" normal="1992">1992</unitdate></unittitle>
             </did>
             <odd>
@@ -1385,7 +1391,7 @@ Vietnam Veterans of America, Chapter 9 (Detroit, Mich.) Records, Bentley Histori
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">7</container>
+            <container type="box" label="Box [6411634447229999680269]" altrender="box">7</container>
             <unittitle>Keith King-public relations chair and commissioner <unitdate type="inclusive" normal="1993/1995">1993-1995</unitdate></unittitle>
           </did>
           <odd>
@@ -1394,37 +1400,37 @@ Vietnam Veterans of America, Chapter 9 (Detroit, Mich.) Records, Bentley Histori
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">7</container>
+            <container type="box" label="Box [6411634447229999680269]" altrender="box">7</container>
             <unittitle>Logo ideas <unitdate type="inclusive">undated</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">7</container>
+            <container type="box" label="Box [6411634447229999680269]" altrender="box">7</container>
             <unittitle>Media advisory board meetings <unitdate type="inclusive" normal="1992">1992</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">7</container>
+            <container type="box" label="Box [6411634447229999680269]" altrender="box">7</container>
             <unittitle>Media kit and timeline <unitdate type="inclusive" normal="2001">2001</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">7</container>
+            <container type="box" label="Box [6411634447229999680269]" altrender="box">7</container>
             <unittitle>Meeting agenda <unitdate type="inclusive" normal="1993-01-30">January 30, 1993</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">7</container>
+            <container type="box" label="Box [6411634447229999680269]" altrender="box">7</container>
             <unittitle>Memorial act and monument resolution <unitdate type="inclusive" normal="1997/1998">1997-1998</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">7</container>
+            <container type="box" label="Box [6411634447229999680269]" altrender="box">7</container>
             <unittitle>Michigan personnel who died in war <unitdate type="inclusive" normal="1992">1992</unitdate></unittitle>
           </did>
           <odd>
@@ -1433,31 +1439,31 @@ Vietnam Veterans of America, Chapter 9 (Detroit, Mich.) Records, Bentley Histori
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">7</container>
+            <container type="box" label="Box [6411634447229999680269]" altrender="box">7</container>
             <unittitle>Michigan Vietnam veteran memorials and monument <unitdate type="inclusive" normal="1995">1995</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">7</container>
+            <container type="box" label="Box [6411634447229999680269]" altrender="box">7</container>
             <unittitle>Miscellaneous <unitdate type="inclusive" normal="1992/1997">1992-1997</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">7</container>
+            <container type="box" label="Box [6411634447229999680269]" altrender="box">7</container>
             <unittitle>Monument news articles and corrections <unitdate type="inclusive" normal="1993/1994">1993-1994</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">7</container>
+            <container type="box" label="Box [6411634447229999680269]" altrender="box">7</container>
             <unittitle>Monument plans <unitdate type="inclusive" normal="1995">1995</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">7</container>
+            <container type="box" label="Box [6411634447229999680269]" altrender="box">7</container>
             <unittitle>Monument proposal <unitdate type="inclusive" normal="1995">1995</unitdate></unittitle>
           </did>
           <odd>
@@ -1466,7 +1472,7 @@ Vietnam Veterans of America, Chapter 9 (Detroit, Mich.) Records, Bentley Histori
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">7</container>
+            <container type="box" label="Box [6411634447229999680269]" altrender="box">7</container>
             <unittitle>New strategy planning documents <unitdate type="inclusive" normal="1996">1996</unitdate></unittitle>
           </did>
           <odd>
@@ -1487,43 +1493,43 @@ Vietnam Veterans of America, Chapter 9 (Detroit, Mich.) Records, Bentley Histori
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">7</container>
+              <container type="box" label="Box [6411634447229999680269]" altrender="box">7</container>
               <unittitle>The Untold Story Nam-Tribute to Nam by Tom Clark</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">7</container>
+              <container type="box" label="Box [6411634447229999680269]" altrender="box">7</container>
               <unittitle>Sunday Spotlight</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">7</container>
+              <container type="box" label="Box [6411634447229999680269]" altrender="box">7</container>
               <unittitle>104.3 Keith King <unitdate type="inclusive" normal="1997-11-11">11/11/1997</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">7</container>
+              <container type="box" label="Box [6411634447229999680269]" altrender="box">7</container>
               <unittitle>104.3 Memorial Day PSA Veterans Memorial <unitdate type="inclusive" normal="1995-05">5/1995</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">7</container>
+              <container type="box" label="Box [6411634447229999680269]" altrender="box">7</container>
               <unittitle>Jasinia/Donovan/Engler Interview</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">7</container>
+              <container type="box" label="Box [6411634447229999680269]" altrender="box">7</container>
               <unittitle>Vietnam Memorial by Campbell Mithun Esty(CME) <unitdate type="inclusive" normal="1993-02-19">2/19/1993</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">7</container>
+              <container type="box" label="Box [6411634447229999680269]" altrender="box">7</container>
               <unittitle>2649 Memorial Day <unitdate type="inclusive" normal="1997-08-29">8/29/1997</unitdate></unittitle>
             </did>
           </c03>
@@ -1534,7 +1540,7 @@ Vietnam Veterans of America, Chapter 9 (Detroit, Mich.) Records, Bentley Histori
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">7</container>
+              <container type="box" label="Box [6411634447229999680269]" altrender="box">7</container>
               <unittitle>Vietnam Monument Commission</unittitle>
             </did>
             <odd>
@@ -1543,7 +1549,7 @@ Vietnam Veterans of America, Chapter 9 (Detroit, Mich.) Records, Bentley Histori
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">7</container>
+              <container type="box" label="Box [6411634447229999680269]" altrender="box">7</container>
               <unittitle>"AMVET Story Continues" Chapter 58 taped <unitdate type="inclusive" normal="1992-10-29">10/29/1992</unitdate></unittitle>
             </did>
             <odd>
@@ -1552,7 +1558,7 @@ Vietnam Veterans of America, Chapter 9 (Detroit, Mich.) Records, Bentley Histori
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">7</container>
+              <container type="box" label="Box [6411634447229999680269]" altrender="box">7</container>
               <unittitle>"AMVET Story Continues" Chapter 76 taped <unitdate type="inclusive" normal="1993-07-10">07/10/1993</unitdate></unittitle>
             </did>
             <odd>
@@ -1561,7 +1567,7 @@ Vietnam Veterans of America, Chapter 9 (Detroit, Mich.) Records, Bentley Histori
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">7</container>
+              <container type="box" label="Box [6411634447229999680269]" altrender="box">7</container>
               <unittitle>Tape of news of the unveiling</unittitle>
             </did>
             <odd>
@@ -1570,7 +1576,7 @@ Vietnam Veterans of America, Chapter 9 (Detroit, Mich.) Records, Bentley Histori
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">7</container>
+              <container type="box" label="Box [6411634447229999680269]" altrender="box">7</container>
               <unittitle>Veterans Support Foundation <unitdate type="inclusive" normal="2009">2009</unitdate> PSA's</unittitle>
             </did>
             <odd>
@@ -1579,7 +1585,7 @@ Vietnam Veterans of America, Chapter 9 (Detroit, Mich.) Records, Bentley Histori
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">7</container>
+              <container type="box" label="Box [6411634447229999680269]" altrender="box">7</container>
               <unittitle>The Wall 25 years Anniversary Parade November 10, 2007. A production of Veterans Support Foundation <unitdate type="inclusive" normal="2009">2009</unitdate></unittitle>
             </did>
             <odd>
@@ -1589,7 +1595,7 @@ Vietnam Veterans of America, Chapter 9 (Detroit, Mich.) Records, Bentley Histori
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">7</container>
+            <container type="box" label="Box [6411634447229999680269]" altrender="box">7</container>
             <unittitle>Ephemera <unitdate type="inclusive">undated</unitdate></unittitle>
           </did>
         </c02>

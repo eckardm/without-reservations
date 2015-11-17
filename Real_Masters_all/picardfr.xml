@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Frank A. Picard papers, 1907-1963</titleproper>
       <author>Finding aid created by <lb/>Michigan Historical Collections staff</author>
     </titlepage>
@@ -84,26 +84,26 @@ Frank A. Picard papers, Bentley Historical Library, University of Michigan</p>
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <subject source="lcsh" encodinganalog="650">Depressions--1929--Michigan.</subject>
-        <subject source="lcsh" encodinganalog="650">Judges--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5941">Depressions--1929--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5732">Judges--Michigan.</subject>
         <corpname source="lcnaf" encodinganalog="610">Michigan State Bar Association.</corpname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/no2011177139">Michigan. Liquor Control Commission.</corpname>
-        <geogname source="local" encodinganalog="691">Michigan--Politics and government--1929-1938.</geogname>
-        <geogname source="local" encodinganalog="691">Michigan--Politics and government--1939-1945.</geogname>
-        <geogname source="local" encodinganalog="691">Michigan--Politics and government--1946-1960.</geogname>
-        <geogname source="local" encodinganalog="691">Michigan--Politics and government--1961-1970.</geogname>
-        <geogname source="lcsh" encodinganalog="651">Michigan--Politics and government--1837-1950.</geogname>
-        <geogname source="lcsh" encodinganalog="651">Michigan--Politics and government--1951-</geogname>
+        <geogname source="local" encodinganalog="691" ref="/subjects/803">Michigan--Politics and government--1929-1938.</geogname>
+        <geogname source="local" encodinganalog="691" ref="/subjects/812">Michigan--Politics and government--1939-1945.</geogname>
+        <geogname source="local" encodinganalog="691" ref="/subjects/809">Michigan--Politics and government--1946-1960.</geogname>
+        <geogname source="local" encodinganalog="691" ref="/subjects/810">Michigan--Politics and government--1961-1970.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/884">Michigan--Politics and government--1837-1950.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/910">Michigan--Politics and government--1951-</geogname>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/no2008183545">Picard, Frank A., 1889-1963.</persname>
-        <geogname source="lcsh" encodinganalog="651">Saginaw (Mich.)</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1217">Saginaw (Mich.)</geogname>
         <corpname source="lcnaf" encodinganalog="610">United States. Congress--Elections, 1934.</corpname>
-        <geogname source="lcsh" encodinganalog="651">United States--Politics and government--1933-1945.</geogname>
-        <geogname source="lcsh" encodinganalog="651">United States--Politics and government--1929-1933.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/965">United States--Politics and government--1933-1945.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/966">United States--Politics and government--1929-1933.</geogname>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Materials:</head>
-        <subject source="lctgm" encodinganalog="650">Courtrooms.</subject>
-        <subject source="lctgm" encodinganalog="650">Judges--Michigan.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3637">Courtrooms.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4296">Judges--Michigan.</subject>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/no2008183545">Picard, Frank A., 1889-1963.</persname>
       </controlaccess>
       <controlaccess>
@@ -126,9 +126,9 @@ Frank A. Picard papers, Bentley Historical Library, University of Michigan</p>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="gmgpc" encodinganalog="655">Cartoons.</genreform>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
-        <genreform source="aat" encodinganalog="655">Scrapbooks.</genreform>
+        <genreform source="gmgpc" encodinganalog="655" ref="/subjects/3457">Cartoons.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3139">Scrapbooks.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -141,7 +141,7 @@ Frank A. Picard papers, Bentley Historical Library, University of Michigan</p>
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [404827709924279941050948377]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1907/1953-06-15">1907-June 15, 1953</unitdate>
             </unittitle>
@@ -152,7 +152,7 @@ Frank A. Picard papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [46538262476482936633678]" altrender="box">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1953-06-16/1963-04-19">June 16, 1953-April 19, 1963</unitdate>
             </unittitle>
@@ -171,7 +171,7 @@ Frank A. Picard papers, Bentley Historical Library, University of Michigan</p>
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [46538262476482936633678]" altrender="box">2</container>
             <unittitle>"To Live Together"</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">4 folders</extent>
@@ -180,7 +180,7 @@ Frank A. Picard papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [999869940384537873]" altrender="box">3</container>
             <unittitle>"Father Forgive Them"</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">6 folders</extent>
@@ -189,7 +189,7 @@ Frank A. Picard papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [999869940384537873]" altrender="box">3</container>
             <unittitle>"The Trial of Jesus" from a lawyer's viewpoint</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">6 folders</extent>
@@ -201,13 +201,13 @@ Frank A. Picard papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [999869940384537873]" altrender="box">3</container>
             <unittitle>"The Watch at the Tomb" <unitdate type="inclusive" normal="1951">1951</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [999869940384537873]" altrender="box">3</container>
             <unittitle>Miscellaneous</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -221,37 +221,37 @@ Frank A. Picard papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [999869940384537873]" altrender="box">3</container>
             <unittitle>Book: <title render="italic">Dear Marie</title> being a description of an automobile tour of Europe, <unitdate type="inclusive" normal="1953">1953</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [999869940384537873]" altrender="box">3</container>
             <unittitle>Book: <title render="italic">Dear Marie-Again</title> being a description of an automobile tour of the British Isles, <unitdate type="inclusive" normal="1955">1955</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [999869940384537873]" altrender="box">3</container>
             <unittitle>Charge of the Court: U.S. vs. Saul Laurence Wellman</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [999869940384537873]" altrender="box">3</container>
             <unittitle>Pamphlet: "How the Communist Mind Works"</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [999869940384537873]" altrender="box">3</container>
             <unittitle>Notes, printed, and various</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [999869940384537873]" altrender="box">3</container>
             <unittitle>Riddles</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -260,7 +260,7 @@ Frank A. Picard papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [999869940384537873]" altrender="box">3</container>
             <unittitle>Speeches, speech cards and notes, <unitdate type="inclusive">undated</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -272,7 +272,7 @@ Frank A. Picard papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [999869940384537873]" altrender="box">3</container>
             <unittitle>
               <genreform normal="Photographs">Photographs</genreform>
             </unittitle>
@@ -280,7 +280,7 @@ Frank A. Picard papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="folder" label="Oversize Folder">AC</container>
+            <container type="folder" label="Oversize Folder [88675410407927013137585]" altrender="folder">AC</container>
             <unittitle>Miscellaneous: includes <genreform normal="Photographs">photographs</genreform> and <genreform normal="Cartoons">cartoons</genreform></unittitle>
           </did>
         </c02>
@@ -296,7 +296,7 @@ Frank A. Picard papers, Bentley Historical Library, University of Michigan</p>
         </odd>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">1</container>
+            <container type="volume" label="Oversize Volume [1398922040509067510328]" altrender="volume">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1939/1942">1939-1942</unitdate>
             </unittitle>
@@ -304,7 +304,7 @@ Frank A. Picard papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">2</container>
+            <container type="volume" label="Oversize Volume [765276499423632027]" altrender="volume">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1942-03/1944-04">March 1942-April 1944</unitdate>
             </unittitle>
@@ -312,7 +312,7 @@ Frank A. Picard papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">3</container>
+            <container type="volume" label="Oversize Volume [4496426469964643473]" altrender="volume">3</container>
             <unittitle>
               <unitdate type="inclusive" normal="1944-04/1946-06">April 1944-June 1946</unitdate>
             </unittitle>
@@ -320,7 +320,7 @@ Frank A. Picard papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">4</container>
+            <container type="volume" label="Oversize Volume [34564914702931168190]" altrender="volume">4</container>
             <unittitle>
               <unitdate type="inclusive" normal="1947/1949">1947-1949</unitdate>
             </unittitle>
@@ -328,7 +328,7 @@ Frank A. Picard papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">5</container>
+            <container type="volume" label="Oversize Volume [85085147411735367]" altrender="volume">5</container>
             <unittitle>
               <unitdate type="inclusive" normal="1946-05-31/1949-05-30">May 31, 1946-May 30, 1949</unitdate>
             </unittitle>
@@ -336,7 +336,7 @@ Frank A. Picard papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">6</container>
+            <container type="volume" label="Oversize Volume [39730746474487686662]" altrender="volume">6</container>
             <unittitle>
               <unitdate type="inclusive" normal="1949/1951">1949-1951</unitdate>
             </unittitle>
@@ -344,13 +344,13 @@ Frank A. Picard papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">7</container>
+            <container type="volume" label="Oversize Volume [20652724249656192653]" altrender="volume">7</container>
             <unittitle>"Trial of Jesus" serial, Detroit News, March to <unitdate type="inclusive" normal="1950-04">April, 1950</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">8</container>
+            <container type="volume" label="Oversize Volume [629542482462900026653]" altrender="volume">8</container>
             <unittitle>
               <unitdate type="inclusive" normal="1951/1953">1951-1953</unitdate>
             </unittitle>
@@ -358,7 +358,7 @@ Frank A. Picard papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">9</container>
+            <container type="volume" label="Oversize Volume [37918860422184717447390]" altrender="volume">9</container>
             <unittitle>
               <unitdate type="inclusive" normal="1953/1955">1953-1955</unitdate>
             </unittitle>
@@ -366,7 +366,7 @@ Frank A. Picard papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">10</container>
+            <container type="volume" label="Oversize Volume [625929447928973134791]" altrender="volume">10</container>
             <unittitle>
               <unitdate type="inclusive" normal="1955/1958">1955-1958</unitdate>
             </unittitle>
@@ -374,7 +374,7 @@ Frank A. Picard papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">11</container>
+            <container type="volume" label="Oversize Volume [0858894439192632222]" altrender="volume">11</container>
             <unittitle>
               <unitdate type="inclusive" normal="1958-10-30/1961-04-10">October 30, 1958-April 10, 1961</unitdate>
             </unittitle>

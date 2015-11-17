@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>John C. Dancy papers, 1920-1960</titleproper>
       <author>Finding aid created by <lb/>Michigan Historical Collections staff</author>
     </titlepage>
@@ -83,24 +83,24 @@ John C. Dancy papers, Bentley Historical Library, University of Michigan</p>
       <controlaccess>
         <head>Subjects:</head>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n92054296">Detroit Urban League.</corpname>
-        <subject source="lcsh" encodinganalog="650">African Americans--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5756">African Americans--Michigan.</subject>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Materials:</head>
-        <subject source="lcsh" encodinganalog="650">African Americans--Michigan--Detroit.</subject>
-        <subject source="lctgm" encodinganalog="650">Banquets.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5910">African Americans--Michigan--Detroit.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3774">Banquets.</subject>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n92054289">Dancy, John C. (John Campbell), 1888-1968.</persname>
         <persname source="lcnaf" encodinganalog="600">Dancy, Malinda W.</persname>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n79045539.html">Detroit (Mich.)</geogname>
-        <subject source="lctgm" encodinganalog="650">Dwellings.</subject>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n79045539.html" ref="/subjects/933">Detroit (Mich.)</geogname>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3994">Dwellings.</subject>
         <corpname source="lcnaf" encodinganalog="610">Horace H. Rackham Educational Memorial (Detroit, Mich.)</corpname>
-        <subject source="lctgm" encodinganalog="650">Mess halls.</subject>
-        <subject source="lctgm" encodinganalog="650">Musicians.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4147">Mess halls.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4062">Musicians.</subject>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
-        <genreform source="aat" encodinganalog="655">Scrapbooks.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3139">Scrapbooks.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -110,7 +110,7 @@ John C. Dancy papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [3772240589094305227659]" altrender="box">1</container>
             <unittitle>Miscellaneous</unittitle>
           </did>
           <odd>
@@ -124,7 +124,7 @@ John C. Dancy papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [3772240589094305227659]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive">Undated</unitdate>
             </unittitle>
@@ -132,7 +132,7 @@ John C. Dancy papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [3772240589094305227659]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1928/1936">1928-1936</unitdate>
             </unittitle>
@@ -140,7 +140,7 @@ John C. Dancy papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [3772240589094305227659]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1937">1937</unitdate>
             </unittitle>
@@ -148,7 +148,7 @@ John C. Dancy papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [3772240589094305227659]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1938">1938</unitdate>
             </unittitle>
@@ -156,7 +156,7 @@ John C. Dancy papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [3772240589094305227659]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1939">1939</unitdate>
             </unittitle>
@@ -164,7 +164,7 @@ John C. Dancy papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [3772240589094305227659]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1940">1940</unitdate>
             </unittitle>
@@ -172,7 +172,7 @@ John C. Dancy papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [3772240589094305227659]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1941">1941</unitdate>
             </unittitle>
@@ -180,7 +180,7 @@ John C. Dancy papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [3772240589094305227659]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1942">1942</unitdate>
             </unittitle>
@@ -188,7 +188,7 @@ John C. Dancy papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [3772240589094305227659]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1943">1943</unitdate>
             </unittitle>
@@ -196,7 +196,7 @@ John C. Dancy papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [3772240589094305227659]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1944">1944</unitdate>
             </unittitle>
@@ -204,7 +204,7 @@ John C. Dancy papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [3772240589094305227659]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1945">1945</unitdate>
             </unittitle>
@@ -212,7 +212,7 @@ John C. Dancy papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [3772240589094305227659]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1946">1946</unitdate>
             </unittitle>
@@ -220,7 +220,7 @@ John C. Dancy papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [3772240589094305227659]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1947">1947</unitdate>
             </unittitle>
@@ -228,7 +228,7 @@ John C. Dancy papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [3772240589094305227659]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1948">1948</unitdate>
             </unittitle>
@@ -236,7 +236,7 @@ John C. Dancy papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [3772240589094305227659]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1949">1949</unitdate>
             </unittitle>
@@ -244,7 +244,7 @@ John C. Dancy papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [3772240589094305227659]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1950">1950</unitdate>
             </unittitle>
@@ -252,7 +252,7 @@ John C. Dancy papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [3772240589094305227659]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1951">1951</unitdate>
             </unittitle>
@@ -260,7 +260,7 @@ John C. Dancy papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [3772240589094305227659]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1952/1955">1952-1955</unitdate>
             </unittitle>
@@ -268,7 +268,7 @@ John C. Dancy papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [3772240589094305227659]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1956/1958">1956-1958</unitdate>
             </unittitle>
@@ -276,7 +276,7 @@ John C. Dancy papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [3772240589094305227659]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1959">1959</unitdate>
             </unittitle>
@@ -284,7 +284,7 @@ John C. Dancy papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [3772240589094305227659]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1960">1960</unitdate>
             </unittitle>
@@ -297,19 +297,19 @@ John C. Dancy papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [3772240589094305227659]" altrender="box">1</container>
             <unittitle>National Urban League materials</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [3772240589094305227659]" altrender="box">1</container>
             <unittitle>Miscellanea</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [3772240589094305227659]" altrender="box">1</container>
             <unittitle>Loose items from scrapbook</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -318,13 +318,13 @@ John C. Dancy papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [3772240589094305227659]" altrender="box">1</container>
             <unittitle><genreform>Photographs</genreform> of Dancy, his wife, and associates and friends; also photograph of the Horace H. Rackham Educational Building, Detroit, Michigan</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">1</container>
+            <container type="volume" label="Oversize Volume [26012645551966349]" altrender="volume">1</container>
             <unittitle><genreform normal="Scrapbooks">Scrapbook</genreform>, <unitdate type="inclusive" normal="1920/1947">1920-1947</unitdate></unittitle>
           </did>
           <odd>

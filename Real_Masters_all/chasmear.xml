@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Charles B. Mears Lumber Company (Ludington, Mich.) records, 1837-1895</titleproper>
       <author>Finding aid created by <lb/>Michigan Historical Collections staff</author>
     </titlepage>
@@ -84,20 +84,20 @@ Charles B. Mears Lumber Company (Ludington, Mich.) records, Bentley Historical L
       <controlaccess>
         <head>Subjects:</head>
         <persname source="lcnaf" encodinganalog="600">Mears, Charles B., 1814-1895.</persname>
-        <subject source="lcsh" encodinganalog="650">Business records.</subject>
-        <geogname source="lcsh" encodinganalog="651">Duck Lake (Mich.)</geogname>
-        <subject source="lcsh" encodinganalog="650">General stores--Michigan.</subject>
-        <geogname source="lcsh" encodinganalog="651">Lincoln (Mason County, Mich.)</geogname>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n81056721.html">Ludington (Mich.)</geogname>
-        <subject source="lcsh" encodinganalog="650">Logging--Michigan.</subject>
-        <subject source="lcsh" encodinganalog="650">Lumbering--Michigan.</subject>
-        <geogname source="lcsh" encodinganalog="651">Mason County (Mich.)</geogname>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/no2010149865.html">Mears (Mich.)</geogname>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n80149302.html">Muskegon County (Mich.)</geogname>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n81091879.html">Oceana County (Mich.)</geogname>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/no2009014946.html">Pentwater (Mich.)</geogname>
-        <geogname source="lcsh" encodinganalog="651">Silver Lake (Oceana County, Mich.)</geogname>
-        <geogname source="lcsh" encodinganalog="651">White Lake (Muskegon County, Mich.)</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5784">Business records.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1542">Duck Lake (Mich.)</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6771">General stores--Michigan.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1543">Lincoln (Mason County, Mich.)</geogname>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n81056721.html" ref="/subjects/1151">Ludington (Mich.)</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6772">Logging--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6773">Lumbering--Michigan.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1544">Mason County (Mich.)</geogname>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/no2010149865.html" ref="/subjects/1545">Mears (Mich.)</geogname>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n80149302.html" ref="/subjects/1449">Muskegon County (Mich.)</geogname>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n81091879.html" ref="/subjects/1546">Oceana County (Mich.)</geogname>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/no2009014946.html" ref="/subjects/1547">Pentwater (Mich.)</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1548">Silver Lake (Oceana County, Mich.)</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1549">White Lake (Muskegon County, Mich.)</geogname>
         <corpname source="lcnaf" encodinganalog="610">Charles B. Mears Lumber Company (Ludington, Mich.)</corpname>
       </controlaccess>
     </controlaccess>
@@ -108,19 +108,19 @@ Charles B. Mears Lumber Company (Ludington, Mich.) records, Bentley Historical L
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [0853405709840741374]" altrender="box">1</container>
             <unittitle>Duck Lake Day Book <unitdate type="inclusive" normal="1871/1872">1871-1872</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [0853405709840741374]" altrender="box">1</container>
             <unittitle>Time Book [Mears, Mich.] <unitdate type="inclusive" normal="1879/1892">1879-1892</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [0853405709840741374]" altrender="box">1</container>
             <unittitle>Inventory of Mears Store <unitdate type="inclusive" normal="1895">1895</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 volumes</extent>
@@ -129,7 +129,7 @@ Charles B. Mears Lumber Company (Ludington, Mich.) records, Bentley Historical L
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [0853405709840741374]" altrender="box">1</container>
             <unittitle>Inventory of Pentwater Store <unitdate type="inclusive" normal="1895">1895</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 volumes</extent>
@@ -138,85 +138,85 @@ Charles B. Mears Lumber Company (Ludington, Mich.) records, Bentley Historical L
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [0853405709840741374]" altrender="box">1</container>
             <unittitle>Cash Blotter <unitdate type="inclusive" normal="1862/1866">1862-1866</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [0853405709840741374]" altrender="box">1</container>
             <unittitle>Duck Lake Cash Account <unitdate type="inclusive" normal="1863/1869">1863-1869</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [0853405709840741374]" altrender="box">1</container>
             <unittitle>Duck Lake Cash Blotter <unitdate type="inclusive" normal="1859/1862">1859-1862</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [0853405709840741374]" altrender="box">1</container>
             <unittitle>Hamline Mills Time Book <unitdate type="inclusive" normal="1860/1863">1860-1863</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [0853405709840741374]" altrender="box">1</container>
             <unittitle>Time Book <unitdate type="inclusive" normal="1868/1883">1868-1883</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [0853405709840741374]" altrender="box">1</container>
             <unittitle>Duck Lake Sales Book <unitdate type="inclusive" normal="1880/1882">1880-1882</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">5</container>
+            <container type="volume" label="Oversize Volume [38344579942332096538521]" altrender="volume">5</container>
             <unittitle>Duck Lake Ledger <unitdate type="inclusive" normal="1865/1868">1865-1868</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">1</container>
+            <container type="volume" label="Oversize Volume [8151390664991348636]" altrender="volume">1</container>
             <unittitle>White River Day Book <unitdate type="inclusive" normal="1850/1853">1850-1853</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">7</container>
+            <container type="volume" label="Oversize Volume [021744966486589504]" altrender="volume">7</container>
             <unittitle>Account book <unitdate type="inclusive" normal="1837/1845">1837-1845</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">2</container>
+            <container type="volume" label="Oversize Volume [6356230471085587616668]" altrender="volume">2</container>
             <unittitle>Middlesex Ledger <unitdate type="inclusive" normal="1864/1865">1864-1865</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">6</container>
+            <container type="volume" label="Oversize Volume [68282987427783474093876]" altrender="volume">6</container>
             <unittitle>Middlesex Day Book <unitdate type="inclusive" normal="1866/1867">1866-1867</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">4</container>
+            <container type="volume" label="Oversize Volume [665955325740499055905998]" altrender="volume">4</container>
             <unittitle>Middlesex Day Book <unitdate type="inclusive" normal="1867/1869">1867-1869</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">8</container>
+            <container type="volume" label="Oversize Volume [650832448626050973460]" altrender="volume">8</container>
             <unittitle>Lincoln, Mason County Day Book <unitdate type="inclusive" normal="1861/1863">1861-1863</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">3</container>
+            <container type="volume" label="Oversize Volume [022367446557903030]" altrender="volume">3</container>
             <unittitle>Lincoln, Mason County, Day Book <unitdate type="inclusive" normal="1868/1870">1868-1870</unitdate></unittitle>
           </did>
         </c02>

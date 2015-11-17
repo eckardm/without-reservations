@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Harlow family papers, 1836-1950</titleproper>
       <author>Finding aid created by <lb/>Michigan Historical Collections staff</author>
     </titlepage>
@@ -83,24 +83,24 @@ Harlow family papers, Bentley Historical Library, University of Michigan</p>
       <controlaccess>
         <head>Subjects:</head>
         <famname source="lcnaf" encodinganalog="600">Harlow family.</famname>
-        <subject source="lcsh" encodinganalog="650">Iron industry and trade--Michigan--Marquette.</subject>
-        <geogname source="lcsh" encodinganalog="651">Marquette (Mich.)</geogname>
-        <geogname source="lcsh" encodinganalog="651">Upper Peninsula (Mich.)</geogname>
-        <subject source="lcsh" encodinganalog="650">Women--Michigan--Marquette.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/8109">Iron industry and trade--Michigan--Marquette.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/997">Marquette (Mich.)</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/938">Upper Peninsula (Mich.)</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/8110">Women--Michigan--Marquette.</subject>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Materials:</head>
-        <subject source="lctgm" encodinganalog="650">Bridges--Michigan--Marquette.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4471">Bridges--Michigan--Marquette.</subject>
         <persname source="lcnaf" encodinganalog="600">Clark, Frederick Owen, b. 1842.</persname>
         <famname source="lcnaf" encodinganalog="600">Clark family.</famname>
-        <subject source="lctgm" encodinganalog="650">Dwellings--Michigan--Marquette.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4472">Dwellings--Michigan--Marquette.</subject>
         <persname source="lcnaf" encodinganalog="600">Harlow, Amos R.</persname>
         <persname source="lcnaf" encodinganalog="600">Harlow, Ella.</persname>
         <famname source="lcnaf" encodinganalog="600">Harlow family.</famname>
-        <geogname source="lctgm" encodinganalog="651">Marquette (Mich.)--Bridges.</geogname>
-        <geogname source="lctgm" encodinganalog="651">Marquette (Mich.)--Dwellings.</geogname>
-        <geogname source="lctgm" encodinganalog="651">Marquette (Mich.)--Sculpture.</geogname>
-        <subject source="lctgm" encodinganalog="650">Sculpture--Michigan--Marquette.</subject>
+        <geogname source="lctgm" encodinganalog="651" ref="/subjects/324">Marquette (Mich.)--Bridges.</geogname>
+        <geogname source="lctgm" encodinganalog="651" ref="/subjects/325">Marquette (Mich.)--Dwellings.</geogname>
+        <geogname source="lctgm" encodinganalog="651" ref="/subjects/326">Marquette (Mich.)--Sculpture.</geogname>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4473">Sculpture--Michigan--Marquette.</subject>
       </controlaccess>
       <controlaccess>
         <head>Contributors:</head>
@@ -110,9 +110,9 @@ Harlow family papers, Bentley Historical Library, University of Michigan</p>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Diaries.</genreform>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
-        <genreform source="aat" encodinganalog="655">Ships plans.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3150">Diaries.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3289">Ships plans.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -122,7 +122,7 @@ Harlow family papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [9325584202614340]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive">Undated</unitdate>
               <unitdate type="inclusive" normal="1836/1950">1836-1950</unitdate>
@@ -139,7 +139,7 @@ Harlow family papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [9325584202614340]" altrender="box">1</container>
             <unittitle>Receipts, notes from travels, essays, etc.</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -148,13 +148,13 @@ Harlow family papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [9325584202614340]" altrender="box">1</container>
             <unittitle>Ella J. Harlow (daughter of Amos R. Harlow) <genreform normal="Diaries">diaries</genreform>, <unitdate type="inclusive" normal="1859/1875">1859-1875</unitdate> (some gaps)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [9325584202614340]" altrender="box">1</container>
             <unittitle><genreform normal="Photographs">Photographs</genreform>: portraits of Amos R. Harlow, Ella Harlow, Fred O. Clark, and other family members; photos of Harlow's house and grounds</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">3 envelopes</extent>
@@ -163,7 +163,7 @@ Harlow family papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container label="Oversize Folder" type="folder">1</container>
+            <container label="Oversize Folder [6608574278888630]" type="folder" altrender="folder">1</container>
             <unittitle><genreform normal="Ship plans">Plan of scow</genreform> and bill of materials</unittitle>
           </did>
         </c02>

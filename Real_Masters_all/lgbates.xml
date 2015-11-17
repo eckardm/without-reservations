@@ -31,7 +31,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>L.G. Bates General Store (Elsie, Mich.) records, 1857-1920</titleproper>
       <author>Finding aid created by <lb/>Michigan Historical Collections staff</author>
     </titlepage>
@@ -88,32 +88,32 @@ L.G. Bates General Store (Elsie, Mich.) records, Bentley Historical Library, Uni
         <head>Subjects:</head>
         <persname source="lcnaf" encodinganalog="600">Bates, LaMott G., b. 1847.</persname>
         <famname source="lcnaf" encodinganalog="600">Bates family.</famname>
-        <geogname source="lcsh" encodinganalog="651">Clinton County (Mich.)</geogname>
-        <subject source="lcsh" encodinganalog="650">General stores--Michigan--Elsie.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/2092">Clinton County (Mich.)</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/8780">General stores--Michigan--Elsie.</subject>
         <famname source="lcnaf" encodinganalog="600">Sickels family.</famname>
-        <geogname source="local" encodinganalog="691">Elsie (Mich.)--Businesses.</geogname>
+        <geogname source="local" encodinganalog="691" ref="/subjects/832">Elsie (Mich.)--Businesses.</geogname>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Materials:</head>
         <famname source="lcnaf" encodinganalog="600">Bates family.</famname>
-        <subject source="lctgm" encodinganalog="650">Children.</subject>
-        <subject source="lctgm" encodinganalog="650">Dentistry--Michigan--Elsie.</subject>
-        <subject source="lctgm" encodinganalog="650">Dwellings--Michigan--Elsie.</subject>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n98032923.html">Elsie (Mich.)</geogname>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3622">Children.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4695">Dentistry--Michigan--Elsie.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4696">Dwellings--Michigan--Elsie.</subject>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n98032923.html" ref="/subjects/1087">Elsie (Mich.)</geogname>
         <corpname source="lcnaf" encodinganalog="610">Interiors--Dentist office.</corpname>
-        <subject source="lctgm" encodinganalog="650">Interiors--Michigan--Elsie.</subject>
-        <subject source="lctgm" encodinganalog="650">Railroad accidents.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4697">Interiors--Michigan--Elsie.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3670">Railroad accidents.</subject>
         <famname source="lcnaf" encodinganalog="600">Sickels family.</famname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan--Student housing.</corpname>
-        <subject source="lcsh" encodinganalog="650">Veterans--Michigan--Elsie.</subject>
-        <subject source="lctgm" encodinganalog="650">Women.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/8781">Veterans--Michigan--Elsie.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3619">Women.</subject>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="gmgpc" encodinganalog="655">Albums.</genreform>
-        <genreform source="aat" encodinganalog="655">Diaries.</genreform>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
-        <genreform source="lctgm" encodinganalog="655">Tintypes.</genreform>
+        <genreform source="gmgpc" encodinganalog="655" ref="/subjects/3460">Albums.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3150">Diaries.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
+        <genreform source="lctgm" encodinganalog="655" ref="/subjects/3416">Tintypes.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -127,7 +127,7 @@ L.G. Bates General Store (Elsie, Mich.) records, Bentley Historical Library, Uni
           </did>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">1</container>
+              <container type="volume" label="Oversize Volume [19783074468591271695046]" altrender="volume">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1870/1883">1870-1883</unitdate>
               </unittitle>
@@ -135,7 +135,7 @@ L.G. Bates General Store (Elsie, Mich.) records, Bentley Historical Library, Uni
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">2</container>
+              <container type="volume" label="Oversize Volume [24482701424900339975065]" altrender="volume">2</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1885/1889">1885-1889</unitdate>
               </unittitle>
@@ -143,7 +143,7 @@ L.G. Bates General Store (Elsie, Mich.) records, Bentley Historical Library, Uni
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">3</container>
+              <container type="volume" label="Oversize Volume [532784467672292752]" altrender="volume">3</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1889/1890">1889-1890</unitdate>
               </unittitle>
@@ -151,7 +151,7 @@ L.G. Bates General Store (Elsie, Mich.) records, Bentley Historical Library, Uni
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [11410544346186570]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1872/1873">1872-1873</unitdate>
               </unittitle>
@@ -164,7 +164,7 @@ L.G. Bates General Store (Elsie, Mich.) records, Bentley Historical Library, Uni
           </did>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">4</container>
+              <container type="volume" label="Oversize Volume [79073242463496078892356024]" altrender="volume">4</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1898/1906">1898-1906</unitdate>
               </unittitle>
@@ -172,7 +172,7 @@ L.G. Bates General Store (Elsie, Mich.) records, Bentley Historical Library, Uni
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">5</container>
+              <container type="volume" label="Oversize Volume [001660010492833991460]" altrender="volume">5</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1914/1920">1914-1920</unitdate>
               </unittitle>
@@ -180,7 +180,7 @@ L.G. Bates General Store (Elsie, Mich.) records, Bentley Historical Library, Uni
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [11410544346186570]" altrender="box">1</container>
               <unittitle>Ledger <unitdate type="inclusive" normal="1872/1878">1872-1878</unitdate></unittitle>
             </did>
           </c03>
@@ -191,7 +191,7 @@ L.G. Bates General Store (Elsie, Mich.) records, Bentley Historical Library, Uni
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [11410544346186570]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1872/1875">1872-1875</unitdate>
               </unittitle>
@@ -199,7 +199,7 @@ L.G. Bates General Store (Elsie, Mich.) records, Bentley Historical Library, Uni
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [11410544346186570]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1875/1882">1875-1882</unitdate>
               </unittitle>
@@ -207,7 +207,7 @@ L.G. Bates General Store (Elsie, Mich.) records, Bentley Historical Library, Uni
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [11410544346186570]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1887/1889">1887-1889</unitdate>
               </unittitle>
@@ -216,19 +216,19 @@ L.G. Bates General Store (Elsie, Mich.) records, Bentley Historical Library, Uni
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [11410544346186570]" altrender="box">1</container>
             <unittitle>Cash Summary <unitdate type="inclusive" normal="1885/1887">1885-1887</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [11410544346186570]" altrender="box">1</container>
             <unittitle>Invoice book <unitdate type="inclusive" normal="1884/1887">1884-1887</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [11410544346186570]" altrender="box">1</container>
             <unittitle>Business receipts and correspondence</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -242,20 +242,24 @@ L.G. Bates General Store (Elsie, Mich.) records, Bentley Historical Library, Uni
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [11410544346186570]" altrender="box">1</container>
             <unittitle>Sickels-Bates Family <genreform normal="Albums">photograph album</genreform></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [11410544346186570]" altrender="box">1</container>
             <unittitle>Miscellaneous <genreform normal="Photographs">photographs</genreform></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <unittitle><genreform normal="Diaaries">Diaries</genreform>, <unitdate type="inclusive" normal="1900/1901">1900-1901</unitdate>, <unitdate type="inclusive">undated</unitdate></unittitle>
+            <container type="box" label="Box [11410544346186570]" altrender="box">1</container>
+            <unittitle>
+              <genreform normal="Diaaries">Diaries</genreform>
+            </unittitle>
+            <unitdate type="inclusive" normal="1900/1901">1900-1901</unitdate>
+            <unitdate type="inclusive">undated</unitdate>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">6 volumes</extent>
             </physdesc>
@@ -263,7 +267,7 @@ L.G. Bates General Store (Elsie, Mich.) records, Bentley Historical Library, Uni
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [11410544346186570]" altrender="box">1</container>
             <unittitle>Account book (probable Sickel family) <unitdate type="inclusive" normal="1857/1858" certainty="approximate">circa 1857-1858</unitdate></unittitle>
           </did>
           <odd>
@@ -272,7 +276,7 @@ L.G. Bates General Store (Elsie, Mich.) records, Bentley Historical Library, Uni
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [11410544346186570]" altrender="box">1</container>
             <unittitle>Account book (probable Sickel family) <unitdate type="inclusive" normal="1864/1865">1864-1865</unitdate></unittitle>
           </did>
           <odd>
@@ -281,7 +285,7 @@ L.G. Bates General Store (Elsie, Mich.) records, Bentley Historical Library, Uni
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [73687634256016353877]" altrender="box">2</container>
             <unittitle>Family history (with <genreform normal="Photographs">photographs</genreform>) by Bates family member</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -290,19 +294,19 @@ L.G. Bates General Store (Elsie, Mich.) records, Bentley Historical Library, Uni
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [73687634256016353877]" altrender="box">2</container>
             <unittitle>Bates Family history and genealogy</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [73687634256016353877]" altrender="box">2</container>
             <unittitle>Reminiscences by Bion Bates</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [73687634256016353877]" altrender="box">2</container>
             <unittitle>Marie Bates correspondence</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -311,13 +315,13 @@ L.G. Bates General Store (Elsie, Mich.) records, Bentley Historical Library, Uni
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [73687634256016353877]" altrender="box">2</container>
             <unittitle>Dede Sickels Rankin scrapbook miscellanea</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [73687634256016353877]" altrender="box">2</container>
             <unittitle>L.G. Bates and family correspondence</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -326,19 +330,19 @@ L.G. Bates General Store (Elsie, Mich.) records, Bentley Historical Library, Uni
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [73687634256016353877]" altrender="box">2</container>
             <unittitle>L.G. Bates and family miscellanea</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [73687634256016353877]" altrender="box">2</container>
             <unittitle>L.G. Bates and family news clippings</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [73687634256016353877]" altrender="box">2</container>
             <unittitle>Elsie, Mich. printed material</unittitle>
           </did>
         </c02>

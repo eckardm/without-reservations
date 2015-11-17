@@ -31,7 +31,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Franklin L. Parker papers, 1816-1911</titleproper>
       <author>Finding aid created by <lb/>Michigan Historical Collections staff</author>
     </titlepage>
@@ -87,22 +87,22 @@ Franklin L. Parker papers, Bentley Historical Library, University of Michigan</p
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n79022219.html">Ann Arbor (Mich.)</geogname>
-        <subject source="lcsh" encodinganalog="650">Business records.</subject>
-        <subject source="lcsh" encodinganalog="650">Land use--Michigan.</subject>
-        <geogname source="local" encodinganalog="691">Michigan--Social life and customs--1841-1850.</geogname>
-        <geogname source="local" encodinganalog="691">Michigan--Social life and customs--1851-1860.</geogname>
-        <geogname source="local" encodinganalog="691">Michigan--Social life and customs--1861-1870.</geogname>
-        <geogname source="local" encodinganalog="691">Michigan--Social life and customs--1871-1880.</geogname>
-        <geogname source="local" encodinganalog="691">Michigan--Social life and customs--1881-1890.</geogname>
-        <geogname source="local" encodinganalog="691">Michigan--Social life and customs--1891-1900.</geogname>
-        <geogname source="lcsh" encodinganalog="651">New York (State)</geogname>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n79022219.html" ref="/subjects/860">Ann Arbor (Mich.)</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5784">Business records.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7039">Land use--Michigan.</subject>
+        <geogname source="local" encodinganalog="691" ref="/subjects/795">Michigan--Social life and customs--1841-1850.</geogname>
+        <geogname source="local" encodinganalog="691" ref="/subjects/796">Michigan--Social life and customs--1851-1860.</geogname>
+        <geogname source="local" encodinganalog="691" ref="/subjects/797">Michigan--Social life and customs--1861-1870.</geogname>
+        <geogname source="local" encodinganalog="691" ref="/subjects/798">Michigan--Social life and customs--1871-1880.</geogname>
+        <geogname source="local" encodinganalog="691" ref="/subjects/799">Michigan--Social life and customs--1881-1890.</geogname>
+        <geogname source="local" encodinganalog="691" ref="/subjects/800">Michigan--Social life and customs--1891-1900.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1398">New York (State)</geogname>
         <famname source="lcnaf" encodinganalog="600">Parker family.</famname>
-        <geogname source="lcsh" encodinganalog="651">Michigan--Social life and customs--19th century.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1302">Michigan--Social life and customs--19th century.</geogname>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Diaries.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3150">Diaries.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -112,7 +112,7 @@ Franklin L. Parker papers, Bentley Historical Library, University of Michigan</p
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [38754320051544529807]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive">Undated</unitdate>
             </unittitle>
@@ -120,13 +120,15 @@ Franklin L. Parker papers, Bentley Historical Library, University of Michigan</p
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <unittitle><unitdate type="inclusive" normal="1816">1816</unitdate>, <unitdate type="inclusive" normal="1818">1818</unitdate>, <unitdate type="inclusive" normal="1819" certainty="approximate">1819 undated</unitdate></unittitle>
+            <container type="box" label="Box [38754320051544529807]" altrender="box">1</container>
+            <unitdate type="inclusive" normal="1816">1816</unitdate>
+            <unitdate type="inclusive" normal="1818">1818</unitdate>
+            <unitdate type="inclusive" normal="1819" certainty="approximate">1819 undated</unitdate>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [38754320051544529807]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1819">1819</unitdate>
             </unittitle>
@@ -134,13 +136,14 @@ Franklin L. Parker papers, Bentley Historical Library, University of Michigan</p
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <unittitle><unitdate type="inclusive" normal="1832">1832</unitdate>, <unitdate type="inclusive" normal="1839">1839</unitdate></unittitle>
+            <container type="box" label="Box [38754320051544529807]" altrender="box">1</container>
+            <unitdate type="inclusive" normal="1832">1832</unitdate>
+            <unitdate type="inclusive" normal="1839">1839</unitdate>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [38754320051544529807]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1840/1911">1840-1911</unitdate>
             </unittitle>
@@ -156,13 +159,15 @@ Franklin L. Parker papers, Bentley Historical Library, University of Michigan</p
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <unittitle><unitdate type="inclusive" normal="1850/1897">1850-1897</unitdate> include <genreform normal="Diaries">diaries</genreform>, <unitdate type="inclusive" normal="1850/1893">1850-1893</unitdate></unittitle>
+            <container type="box" label="Box [38754320051544529807]" altrender="box">1</container>
+            <unittitle>1850-1897 include <genreform normal="Diaries">diaries</genreform>, 1850-1893</unittitle>
+            <unitdate type="inclusive" normal="1850/1897">1850-1897</unitdate>
+            <unitdate type="inclusive" normal="1850/1893">1850-1893</unitdate>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [36278183547070647101]" altrender="box">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1850/1897">1850-1897</unitdate>
             </unittitle>
@@ -173,7 +178,7 @@ Franklin L. Parker papers, Bentley Historical Library, University of Michigan</p
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [1280023428850170441]" altrender="box">3</container>
             <unittitle>
               <unitdate type="inclusive" normal="1850/1897">1850-1897</unitdate>
             </unittitle>
@@ -189,22 +194,13 @@ Franklin L. Parker papers, Bentley Historical Library, University of Michigan</p
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [6359944293375364]" altrender="box">4</container>
             <unittitle>Land titles, land abstracts, and related business correspondence</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
-            <unittitle>Land titles, land abstracts, and related business correspondence</unittitle>
-          </did>
-          <odd>
-            <p>(continued)</p>
-          </odd>
-        </c02>
-        <c02 level="file">
-          <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [77555422474909357]" altrender="box">5</container>
             <unittitle>Land titles, land abstracts, and related business correspondence</unittitle>
           </did>
           <odd>
@@ -213,7 +209,7 @@ Franklin L. Parker papers, Bentley Historical Library, University of Michigan</p
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">7</container>
+            <container type="box" label="Box [542793141382756243198236]" altrender="box">6</container>
             <unittitle>Land titles, land abstracts, and related business correspondence</unittitle>
           </did>
           <odd>
@@ -222,7 +218,7 @@ Franklin L. Parker papers, Bentley Historical Library, University of Michigan</p
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">8</container>
+            <container type="box" label="Box [83659872449758897811]" altrender="box">7</container>
             <unittitle>Land titles, land abstracts, and related business correspondence</unittitle>
           </did>
           <odd>
@@ -231,25 +227,34 @@ Franklin L. Parker papers, Bentley Historical Library, University of Michigan</p
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">9</container>
+            <container type="box" label="Box [740079096442846515954]" altrender="box">8</container>
+            <unittitle>Land titles, land abstracts, and related business correspondence</unittitle>
+          </did>
+          <odd>
+            <p>(continued)</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box [883711404781906092]" altrender="box">9</container>
             <unittitle>Land records, account books; include book of mortgages <unitdate type="inclusive" normal="1838/1854">1838-1854</unitdate> for Washtenaw County</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">10</container>
+            <container type="box" label="Box [3947847194452984254573]" altrender="box">10</container>
             <unittitle>Land records, account books; include book of mortgages <unitdate type="inclusive" normal="1854/1863">1854-1863</unitdate> for Washtenaw County</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">11</container>
+            <container type="box" label="Box [91892374154219]" altrender="box">11</container>
             <unittitle>Land records, account books; include journal and letterpress books of Franklin L. Parker</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">1</container>
+            <container type="volume" label="Oversize Volume [507434844068905318]" altrender="volume">1</container>
             <unittitle>Record of lands deeded to Parker</unittitle>
           </did>
           <odd>
@@ -263,19 +268,21 @@ Franklin L. Parker papers, Bentley Historical Library, University of Michigan</p
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">12</container>
+            <container type="box" label="Box [898442940620812676597679]" altrender="box">12</container>
             <unittitle>Notebook <unitdate type="inclusive" normal="1840/1842">1840-1842</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">12</container>
-            <unittitle>Addresses <unitdate type="inclusive" normal="1837">1837</unitdate>, <unitdate type="inclusive" normal="1846">1846</unitdate> delivered at the University of Michigan</unittitle>
+            <container type="box" label="Box [898442940620812676597679]" altrender="box">12</container>
+            <unittitle>Addresses 1837, 1846 delivered at the University of Michigan</unittitle>
+            <unitdate type="inclusive" normal="1837">1837</unitdate>
+            <unitdate type="inclusive" normal="1846">1846</unitdate>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">12</container>
+            <container type="box" label="Box [898442940620812676597679]" altrender="box">12</container>
             <unittitle>Diploma <unitdate type="inclusive" normal="1847">1847</unitdate></unittitle>
           </did>
           <odd>
@@ -284,13 +291,13 @@ Franklin L. Parker papers, Bentley Historical Library, University of Michigan</p
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">12</container>
+            <container type="box" label="Box [898442940620812676597679]" altrender="box">12</container>
             <unittitle>Legal briefs, notes, etc.</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">12</container>
+            <container type="box" label="Box [898442940620812676597679]" altrender="box">12</container>
             <unittitle>Business papers</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -299,13 +306,13 @@ Franklin L. Parker papers, Bentley Historical Library, University of Michigan</p
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">12</container>
+            <container type="box" label="Box [898442940620812676597679]" altrender="box">12</container>
             <unittitle>Law degree and state bar membership of John M. Parker</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">12</container>
+            <container type="box" label="Box [898442940620812676597679]" altrender="box">12</container>
             <unittitle>Student essays and notes</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">4 folders</extent>
@@ -314,25 +321,25 @@ Franklin L. Parker papers, Bentley Historical Library, University of Michigan</p
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">12</container>
+            <container type="box" label="Box [898442940620812676597679]" altrender="box">12</container>
             <unittitle>Miscellanea; include material concerning Ann Arbor</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">12</container>
+            <container type="box" label="Box [898442940620812676597679]" altrender="box">12</container>
             <unittitle>Miscellanea <unitdate type="inclusive">undated</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">12</container>
+            <container type="box" label="Box [898442940620812676597679]" altrender="box">12</container>
             <unittitle>Miscellanea <unitdate type="inclusive" normal="1840/1849" certainty="approximate">1840s</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">12</container>
+            <container type="box" label="Box [898442940620812676597679]" altrender="box">12</container>
             <unittitle>Miscellanea <unitdate type="inclusive" normal="1850/1859" certainty="approximate">1850s</unitdate></unittitle>
           </did>
         </c02>

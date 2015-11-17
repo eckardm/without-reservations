@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Denison family papers, 1848-1907</titleproper>
       <author>Finding aid created by <lb/>Anne Frantilla, 1984</author>
     </titlepage>
@@ -81,15 +81,15 @@ Denison family papers, Bentley Historical Library, University of Michigan</p>
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n79133151.html">Grand Rapids (Mich.)</geogname>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n79133151.html" ref="/subjects/1102">Grand Rapids (Mich.)</geogname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan--Students--Social life and customs--1881-1890.</corpname>
-        <geogname source="local" encodinganalog="691">Michigan--Social life and customs--1871-1880.</geogname>
-        <geogname source="local" encodinganalog="691">Michigan--Social life and customs--1881-1890.</geogname>
-        <geogname source="local" encodinganalog="691">Michigan--Social life and customs--1891-1900.</geogname>
-        <geogname source="local" encodinganalog="691">Michigan--Social life and customs--1901-1910.</geogname>
-        <geogname source="lcsh" encodinganalog="651">Michigan--Social life and customs--19th century.</geogname>
-        <geogname source="lcsh" encodinganalog="651">Michigan--Social life and customs--20th century.</geogname>
-        <subject source="lcsh" encodinganalog="650">Women--Michigan--Grand Rapids.</subject>
+        <geogname source="local" encodinganalog="691" ref="/subjects/798">Michigan--Social life and customs--1871-1880.</geogname>
+        <geogname source="local" encodinganalog="691" ref="/subjects/799">Michigan--Social life and customs--1881-1890.</geogname>
+        <geogname source="local" encodinganalog="691" ref="/subjects/800">Michigan--Social life and customs--1891-1900.</geogname>
+        <geogname source="local" encodinganalog="691" ref="/subjects/815">Michigan--Social life and customs--1901-1910.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1302">Michigan--Social life and customs--19th century.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/851">Michigan--Social life and customs--20th century.</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6452">Women--Michigan--Grand Rapids.</subject>
       </controlaccess>
       <controlaccess>
         <head>Contributors:</head>
@@ -99,7 +99,7 @@ Denison family papers, Bentley Historical Library, University of Michigan</p>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform encodinganalog="655" source="aat">Diaries.</genreform>
+        <genreform encodinganalog="655" source="aat" ref="/subjects/3150">Diaries.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -109,13 +109,13 @@ Denison family papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [016893334809734686456]" altrender="box">1</container>
             <unittitle>Correspondence</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [016893334809734686456]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1848/1869">1848-1869 (scattered dates)</unitdate>
             </unittitle>
@@ -123,7 +123,7 @@ Denison family papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [016893334809734686456]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1871/1874">1871-1874</unitdate>
             </unittitle>
@@ -131,7 +131,7 @@ Denison family papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [016893334809734686456]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1876/1878">1876-1878</unitdate>
             </unittitle>
@@ -139,19 +139,19 @@ Denison family papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [016893334809734686456]" altrender="box">1</container>
             <unittitle>Receipts and Bills <unitdate type="inclusive" normal="1874/1877">1874-1877</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [016893334809734686456]" altrender="box">1</container>
             <unittitle>Land Deeds and Contracts <unitdate type="inclusive" normal="1848/1873">1848-1873</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [016893334809734686456]" altrender="box">1</container>
             <unittitle>Miscellaneous <unitdate type="inclusive" normal="1850/1873">1850-1873 (scattered dates)</unitdate></unittitle>
           </did>
         </c02>
@@ -162,8 +162,12 @@ Denison family papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <unittitle><genreform normal="Diaries">Diaries</genreform>, <unitdate type="inclusive" normal="1886/1890">1886-1890</unitdate>, <unitdate type="inclusive" normal="1897/1907">1897-1907</unitdate></unittitle>
+            <container type="box" label="Box [016893334809734686456]" altrender="box">1</container>
+            <unittitle>
+              <genreform normal="Diaries">Diaries</genreform>
+            </unittitle>
+            <unitdate type="inclusive" normal="1886/1890">1886-1890</unitdate>
+            <unitdate type="inclusive" normal="1897/1907">1897-1907</unitdate>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">16 volumes</extent>
             </physdesc>
@@ -171,7 +175,7 @@ Denison family papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [016893334809734686456]" altrender="box">1</container>
             <unittitle>Letter <unitdate type="inclusive" normal="1885">1885</unitdate></unittitle>
           </did>
         </c02>
@@ -182,7 +186,7 @@ Denison family papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [016893334809734686456]" altrender="box">1</container>
             <unittitle><genreform normal="Diaraies">Diaries</genreform>, <unitdate type="inclusive" normal="1879/1889">1879-1889</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">11 volumes</extent>
@@ -191,13 +195,13 @@ Denison family papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [016893334809734686456]" altrender="box">1</container>
             <unittitle>Letter <unitdate type="inclusive" normal="1879">1879</unitdate>, and biographical material</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [016893334809734686456]" altrender="box">1</container>
             <unittitle>Scrapbook <unitdate type="inclusive" normal="1905/1910">1905-1910</unitdate></unittitle>
           </did>
         </c02>

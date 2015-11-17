@@ -26,7 +26,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Washtenaw United Way Records, 1921-2001</titleproper>
       <author>Finding aid created by <lb/>Thomas E. Powers, 1984 and 2006</author>
     </titlepage>
@@ -80,7 +80,7 @@ Washtenaw United Way Records, Bentley Historical Library, University of Michigan
       <controlaccess>
         <head>Subjects:</head>
         <corpname source="lcnaf" encodinganalog="610">Ann Arbor United Fund.</corpname>
-        <subject source="lcsh" encodinganalog="650">Social service--Michigan--Washtenaw County--Societies, etc.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/10607">Social service--Michigan--Washtenaw County--Societies, etc.</subject>
         <corpname source="lcnaf" encodinganalog="610">Washtenaw United Way.</corpname>
       </controlaccess>
       <controlaccess>
@@ -94,8 +94,8 @@ Washtenaw United Way Records, Bentley Historical Library, University of Michigan
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
-        <genreform source="aat" encodinganalog="655">Scrapbooks.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3139">Scrapbooks.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -105,13 +105,13 @@ Washtenaw United Way Records, Bentley Historical Library, University of Michigan
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [63369303442273245698320]" altrender="box">1</container>
             <unittitle>Volume containing: constitution and by-laws; board and budget manuals; and rosters</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [63369303442273245698320]" altrender="box">1</container>
             <unittitle>Board of Directors minutes <unitdate type="inclusive" normal="1937/1971">1937-1971</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">4 volumes</extent>
@@ -120,19 +120,23 @@ Washtenaw United Way Records, Bentley Historical Library, University of Michigan
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
-            <unittitle>Volume containing: Annual meetings <unitdate type="inclusive" normal="1955/1971">1955-1971</unitdate> and financial reports, <unitdate type="inclusive" normal="1934/1970">1934-1970</unitdate></unittitle>
+            <container type="box" label="Box [7494203443120061972]" altrender="box">2</container>
+            <unittitle>Volume containing: Annual meetings 1955-1971 and financial reports, 1934-1970</unittitle>
+            <unitdate type="inclusive" normal="1955/1971">1955-1971</unitdate>
+            <unitdate type="inclusive" normal="1934/1970">1934-1970</unitdate>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
-            <unittitle>Volume containing: Campaign goals and objectives <unitdate type="inclusive" normal="1930/1970">1930-1970</unitdate> agency requests, allocations, and payment to agencies; and comparative agency allocations, <unitdate type="inclusive" normal="1946/1970">1946-1970</unitdate></unittitle>
+            <container type="box" label="Box [7494203443120061972]" altrender="box">2</container>
+            <unittitle>Volume containing: Campaign goals and objectives 1930-1970 agency requests, allocations, and payment to agencies; and comparative agency allocations, 1946-1970</unittitle>
+            <unitdate type="inclusive" normal="1930/1970">1930-1970</unitdate>
+            <unitdate type="inclusive" normal="1946/1970">1946-1970</unitdate>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [7494203443120061972]" altrender="box">2</container>
             <unittitle>Budget committee minutes <unitdate type="inclusive" normal="1942/1971">1942-1971</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">3 volumes</extent>
@@ -141,13 +145,13 @@ Washtenaw United Way Records, Bentley Historical Library, University of Michigan
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [7494203443120061972]" altrender="box">2</container>
             <unittitle>Planning committee minutes <unitdate type="inclusive" normal="1959/1969">1959-1969</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [7494203443120061972]" altrender="box">2</container>
             <unittitle>Audit reports <unitdate type="inclusive" normal="1944/1971">1944-1971</unitdate></unittitle>
           </did>
         </c02>
@@ -157,25 +161,25 @@ Washtenaw United Way Records, Bentley Historical Library, University of Michigan
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [3420846825761282035]" altrender="box">3</container>
               <unittitle>Constitution and bylaws; lists of officers</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [3420846825761282035]" altrender="box">3</container>
               <unittitle>Annual reports <unitdate type="inclusive" normal="1941/1958">1941-1958</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [3420846825761282035]" altrender="box">3</container>
               <unittitle>Minutes of meetings</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [3420846825761282035]" altrender="box">3</container>
               <unittitle>Survey and reports</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -184,7 +188,7 @@ Washtenaw United Way Records, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [3420846825761282035]" altrender="box">3</container>
               <unittitle>General</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -194,19 +198,19 @@ Washtenaw United Way Records, Bentley Historical Library, University of Michigan
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [3420846825761282035]" altrender="box">3</container>
             <unittitle>Financial reports <unitdate type="inclusive" normal="1929/1933">1929-1933</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [3420846825761282035]" altrender="box">3</container>
             <unittitle>Campaign publicity <unitdate type="inclusive" normal="1939/1970">1939-1970</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [3420846825761282035]" altrender="box">3</container>
             <unittitle>Loose items from scrapbooks</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">6 folders</extent>
@@ -219,7 +223,7 @@ Washtenaw United Way Records, Bentley Historical Library, University of Michigan
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [71763212484488453218271]" altrender="box">4</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1941/1942">1941-1942</unitdate>
               </unittitle>
@@ -227,13 +231,13 @@ Washtenaw United Way Records, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [71763212484488453218271]" altrender="box">4</container>
               <unittitle><unitdate type="inclusive" normal="1930/1951">1930-1951</unitdate> (<unitdate normal="1942/1951" type="bulk">mainly 1942-1951</unitdate>)</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">1</container>
+              <container type="volume" label="Oversize Volume [4247397412634731689]" altrender="volume">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1952">1952</unitdate>
               </unittitle>
@@ -241,7 +245,7 @@ Washtenaw United Way Records, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">2</container>
+              <container type="volume" label="Oversize Volume [26002894428528989828]" altrender="volume">2</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1953">1953</unitdate>
               </unittitle>
@@ -249,7 +253,7 @@ Washtenaw United Way Records, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">3</container>
+              <container type="volume" label="Oversize Volume [80586468903172649716]" altrender="volume">3</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1954">1954</unitdate>
               </unittitle>
@@ -257,7 +261,7 @@ Washtenaw United Way Records, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [71763212484488453218271]" altrender="box">4</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1955">1955</unitdate>
               </unittitle>
@@ -265,7 +269,7 @@ Washtenaw United Way Records, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [71763212484488453218271]" altrender="box">4</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1956">1956</unitdate>
               </unittitle>
@@ -273,7 +277,7 @@ Washtenaw United Way Records, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">4</container>
+              <container type="volume" label="Oversize Volume [921721441377817163096]" altrender="volume">4</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1957">1957</unitdate>
               </unittitle>
@@ -281,7 +285,7 @@ Washtenaw United Way Records, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">5</container>
+              <container type="volume" label="Oversize Volume [6172009249396135667599]" altrender="volume">5</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1955/1958">1955-1958</unitdate>
               </unittitle>
@@ -289,7 +293,7 @@ Washtenaw United Way Records, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">6</container>
+              <container type="volume" label="Oversize Volume [6813264787247590]" altrender="volume">6</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1958/1965">1958-1965</unitdate>
               </unittitle>
@@ -297,7 +301,7 @@ Washtenaw United Way Records, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">7</container>
+              <container type="volume" label="Oversize Volume [956022754580734502097]" altrender="volume">7</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1965/1971">1965-1971</unitdate>
               </unittitle>
@@ -322,7 +326,7 @@ Washtenaw United Way Records, Bentley Historical Library, University of Michigan
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">5</container>
+                <container type="box" label="Box [705583274432207313175]" altrender="box">5</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1921/1959">1921-1959</unitdate>
                 </unittitle>
@@ -336,7 +340,7 @@ Washtenaw United Way Records, Bentley Historical Library, University of Michigan
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">6</container>
+                <container type="box" label="Box [5438449996783]" altrender="box">6</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1960/1969">1960-1969</unitdate>
                 </unittitle>
@@ -350,7 +354,7 @@ Washtenaw United Way Records, Bentley Historical Library, University of Michigan
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">7</container>
+                <container type="box" label="Box [84937223241709539522721]" altrender="box">7</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1970/1974">1970-1974</unitdate>
                 </unittitle>
@@ -361,7 +365,7 @@ Washtenaw United Way Records, Bentley Historical Library, University of Michigan
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">8</container>
+                <container type="box" label="Box [32724449488109852]" altrender="box">8</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1975/1979">1975-1979</unitdate>
                 </unittitle>
@@ -372,7 +376,7 @@ Washtenaw United Way Records, Bentley Historical Library, University of Michigan
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">12</container>
+                <container type="box" label="Box [573856244825843381524]" altrender="box">12</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1980/1984">1980-1984</unitdate>
                 </unittitle>
@@ -383,7 +387,7 @@ Washtenaw United Way Records, Bentley Historical Library, University of Michigan
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">13</container>
+                <container type="box" label="Box [30955964969264871429]" altrender="box">13</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1985/1987">1985-1987</unitdate>
                 </unittitle>
@@ -394,7 +398,7 @@ Washtenaw United Way Records, Bentley Historical Library, University of Michigan
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">14</container>
+                <container type="box" label="Box [72583490407842093587]" altrender="box">14</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1988/1989">1988-1989</unitdate>
                 </unittitle>
@@ -405,7 +409,7 @@ Washtenaw United Way Records, Bentley Historical Library, University of Michigan
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">15</container>
+                <container type="box" label="Box [62998739490800921666]" altrender="box">15</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1990/1992">1990-1992</unitdate>
                 </unittitle>
@@ -416,7 +420,7 @@ Washtenaw United Way Records, Bentley Historical Library, University of Michigan
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">16</container>
+                <container type="box" label="Box [2015039046026373819376]" altrender="box">16</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1993/1995">1993-1995</unitdate>
                 </unittitle>
@@ -427,7 +431,7 @@ Washtenaw United Way Records, Bentley Historical Library, University of Michigan
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">17</container>
+                <container type="box" label="Box [47720546464840054679]" altrender="box">17</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1996/1999">1996-1999</unitdate>
                 </unittitle>
@@ -441,7 +445,7 @@ Washtenaw United Way Records, Bentley Historical Library, University of Michigan
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">18</container>
+                <container type="box" label="Box [06543014686951267471]" altrender="box">18</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="2001/2002">2001-2002</unitdate>
                 </unittitle>
@@ -458,7 +462,7 @@ Washtenaw United Way Records, Bentley Historical Library, University of Michigan
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">9</container>
+              <container type="box" label="Box [01385124185031526411]" altrender="box">9</container>
               <unittitle>Budget files <unitdate type="inclusive" normal="1969/1973">1969-1973</unitdate></unittitle>
               <physdesc altrender="part">
                 <extent altrender="materialtype spaceoccupied">5 volumes</extent>
@@ -470,7 +474,7 @@ Washtenaw United Way Records, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">10</container>
+              <container type="box" label="Box [27060733740933970009]" altrender="box">10</container>
               <unittitle>Planning committee files <unitdate type="inclusive" normal="1962/1970">1962-1970</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -479,7 +483,7 @@ Washtenaw United Way Records, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">10</container>
+              <container type="box" label="Box [27060733740933970009]" altrender="box">10</container>
               <unittitle>Council of Social Agencies files <unitdate type="inclusive" normal="1945/1962">1945-1962</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">8 folders</extent>
@@ -488,13 +492,13 @@ Washtenaw United Way Records, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">10</container>
+              <container type="box" label="Box [27060733740933970009]" altrender="box">10</container>
               <unittitle>Chest Board manual <unitdate type="inclusive" normal="1948/1951">1948-1951</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">10</container>
+              <container type="box" label="Box [27060733740933970009]" altrender="box">10</container>
               <unittitle>Miscellaneous reports</unittitle>
             </did>
           </c03>
@@ -509,7 +513,7 @@ Washtenaw United Way Records, Bentley Historical Library, University of Michigan
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">11</container>
+                <container type="box" label="Box [708218736485793485764124]" altrender="box">11</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1933/1938">1933-1938</unitdate>
                 </unittitle>
@@ -517,7 +521,7 @@ Washtenaw United Way Records, Bentley Historical Library, University of Michigan
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">11</container>
+                <container type="box" label="Box [708218736485793485764124]" altrender="box">11</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1939/1939">1939-1939</unitdate>
                 </unittitle>
@@ -525,7 +529,7 @@ Washtenaw United Way Records, Bentley Historical Library, University of Michigan
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">11</container>
+                <container type="box" label="Box [708218736485793485764124]" altrender="box">11</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1942/1946">1942-1946</unitdate>
                 </unittitle>
@@ -533,7 +537,7 @@ Washtenaw United Way Records, Bentley Historical Library, University of Michigan
             </c04>
             <c04 level="file">
               <did>
-                <container type="volume" label="Oversize Volume">8</container>
+                <container type="volume" label="Oversize Volume [8680498045902321758299]" altrender="volume">8</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1947/1952">1947-1952</unitdate>
                 </unittitle>
@@ -541,7 +545,7 @@ Washtenaw United Way Records, Bentley Historical Library, University of Michigan
             </c04>
             <c04 level="file">
               <did>
-                <container type="volume" label="Oversize Volume">9</container>
+                <container type="volume" label="Oversize Volume [310410483842772100]" altrender="volume">9</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1953/1956">1953-1956</unitdate>
                 </unittitle>
@@ -549,7 +553,7 @@ Washtenaw United Way Records, Bentley Historical Library, University of Michigan
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">11</container>
+                <container type="box" label="Box [708218736485793485764124]" altrender="box">11</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1957">1957</unitdate>
                 </unittitle>
@@ -557,7 +561,7 @@ Washtenaw United Way Records, Bentley Historical Library, University of Michigan
             </c04>
             <c04 level="file">
               <did>
-                <container type="volume" label="Oversize Volume">10</container>
+                <container type="volume" label="Oversize Volume [75813140338761511]" altrender="volume">10</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1962/1963">1962-1963</unitdate>
                 </unittitle>
@@ -565,7 +569,7 @@ Washtenaw United Way Records, Bentley Historical Library, University of Michigan
             </c04>
             <c04 level="file">
               <did>
-                <container type="volume" label="Oversize Volume">11</container>
+                <container type="volume" label="Oversize Volume [669995182492237572095]" altrender="volume">11</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1964/1965">1964-1965</unitdate>
                 </unittitle>
@@ -573,7 +577,7 @@ Washtenaw United Way Records, Bentley Historical Library, University of Michigan
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">11</container>
+                <container type="box" label="Box [708218736485793485764124]" altrender="box">11</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1966">1966</unitdate>
                 </unittitle>
@@ -581,7 +585,7 @@ Washtenaw United Way Records, Bentley Historical Library, University of Michigan
             </c04>
             <c04 level="file">
               <did>
-                <container type="volume" label="Oversize Volume">12</container>
+                <container type="volume" label="Oversize Volume [5595091194499679484012]" altrender="volume">12</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1966/1968">1966-1968</unitdate>
                 </unittitle>
@@ -589,7 +593,7 @@ Washtenaw United Way Records, Bentley Historical Library, University of Michigan
             </c04>
             <c04 level="file">
               <did>
-                <container type="volume" label="Oversize Volume">13</container>
+                <container type="volume" label="Oversize Volume [5554026733499098397766]" altrender="volume">13</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1969/1970">1969-1970</unitdate>
                 </unittitle>
@@ -597,13 +601,13 @@ Washtenaw United Way Records, Bentley Historical Library, University of Michigan
             </c04>
             <c04 level="file">
               <did>
-                <container type="volume" label="Oversize Volume">14</container>
+                <container type="volume" label="Oversize Volume [634201438756628627]" altrender="volume">14</container>
                 <unittitle>1971-1973/74</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="volume" label="Oversize Volume">15</container>
+                <container type="volume" label="Oversize Volume [61327451345370770]" altrender="volume">15</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1973/1975">1973/74-1974/75</unitdate>
                 </unittitle>
@@ -611,7 +615,7 @@ Washtenaw United Way Records, Bentley Historical Library, University of Michigan
             </c04>
             <c04 level="file">
               <did>
-                <container type="volume" label="Oversize Volume">16</container>
+                <container type="volume" label="Oversize Volume [21290541426271030]" altrender="volume">16</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1975/1976">1975-1976</unitdate>
                 </unittitle>
@@ -619,7 +623,7 @@ Washtenaw United Way Records, Bentley Historical Library, University of Michigan
             </c04>
             <c04 level="file">
               <did>
-                <container type="volume" label="Oversize Volume">17</container>
+                <container type="volume" label="Oversize Volume [002439148124678317]" altrender="volume">17</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1976/1977">1976-1977</unitdate>
                 </unittitle>
@@ -627,7 +631,7 @@ Washtenaw United Way Records, Bentley Historical Library, University of Michigan
             </c04>
             <c04 level="file">
               <did>
-                <container type="volume" label="Oversize Volume">18</container>
+                <container type="volume" label="Oversize Volume [880886443236281736]" altrender="volume">18</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1978/1979">1978-1979</unitdate>
                 </unittitle>
@@ -635,7 +639,7 @@ Washtenaw United Way Records, Bentley Historical Library, University of Michigan
             </c04>
             <c04 level="file">
               <did>
-                <container type="volume" label="Oversize Volume">19</container>
+                <container type="volume" label="Oversize Volume [721027492099463]" altrender="volume">19</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1980/1981">1980-1981</unitdate>
                 </unittitle>
@@ -648,7 +652,7 @@ Washtenaw United Way Records, Bentley Historical Library, University of Michigan
             </did>
             <c04 level="file">
               <did>
-                <container type="volume" label="Oversize Volume">20</container>
+                <container type="volume" label="Oversize Volume [56592279284368711643603132]" altrender="volume">20</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1946/1968">1946-1968</unitdate>
                 </unittitle>
@@ -656,7 +660,7 @@ Washtenaw United Way Records, Bentley Historical Library, University of Michigan
             </c04>
             <c04 level="file">
               <did>
-                <container type="volume" label="Oversize Volume">21</container>
+                <container type="volume" label="Oversize Volume [68584733914443216597789]" altrender="volume">21</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1968/1973">1968-1973</unitdate>
                 </unittitle>
@@ -665,13 +669,13 @@ Washtenaw United Way Records, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">11</container>
+              <container type="box" label="Box [708218736485793485764124]" altrender="box">11</container>
               <unittitle>Loose items from scrapbooks nos. 8-21</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">11</container>
+              <container type="box" label="Box [708218736485793485764124]" altrender="box">11</container>
               <unittitle>Social Service seminar <unitdate type="inclusive" normal="1938/1939">1938-1939</unitdate></unittitle>
             </did>
           </c03>

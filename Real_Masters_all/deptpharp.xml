@@ -26,7 +26,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>University Archives and Records Program <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/2">University Archives and Records Program <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Department of Pharmacology <lb/>(University of Michigan) <lb/>Publications, 1974-1991</titleproper>
       <author>Finding aid created by <lb/>Jennifer Jacobs, 1999.</author>
     </titlepage>
@@ -88,16 +88,16 @@ Department of Pharmacology (University of Michigan) publications, Bentley Histor
       <controlaccess>
         <head>Subjects:</head>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan. Dept. of Pharmacology.</corpname>
-        <subject source="lcsh" encodinganalog="650">Pharmacology--Study and teaching--Michigan--Ann Arbor.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7212">Pharmacology--Study and teaching--Michigan--Ann Arbor.</subject>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Pamphlets.</genreform>
-        <genreform source="aat" encodinganalog="655">Directories.</genreform>
-        <genreform source="aat" encodinganalog="655">Histories.</genreform>
-        <genreform source="aat" encodinganalog="655">Newsletters.</genreform>
-        <genreform source="aat" encodinganalog="655">Programs.</genreform>
-        <genreform source="aat" encodinganalog="655">Reprints.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3152">Pamphlets.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3201">Directories.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3156">Histories.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3157">Newsletters.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3215">Programs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3270">Reprints.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -107,8 +107,10 @@ Department of Pharmacology (University of Michigan) publications, Bentley Histor
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <unittitle>Brochures <unitdate type="inclusive" normal="1974/1982">1974-1982</unitdate>, <unitdate type="inclusive">undated</unitdate></unittitle>
+            <container type="box" label="Box [77571048699466080799]" altrender="box">1</container>
+            <unittitle>Brochures</unittitle>
+            <unitdate type="inclusive" normal="1974/1982">1974-1982</unitdate>
+            <unitdate type="inclusive">undated</unitdate>
           </did>
         </c02>
         <c02 level="file">
@@ -117,7 +119,7 @@ Department of Pharmacology (University of Michigan) publications, Bentley Histor
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [77571048699466080799]" altrender="box">1</container>
               <unittitle><title render="italic">Research Interests of the Department of Pharmacology</title>, <unitdate type="inclusive">undated</unitdate></unittitle>
             </did>
           </c03>
@@ -128,7 +130,7 @@ Department of Pharmacology (University of Michigan) publications, Bentley Histor
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [77571048699466080799]" altrender="box">1</container>
               <unittitle><title render="italic">One Hundred Years of Pharmacology: Centennial 1891-1991</title>, by Henry H. Swain, <unitdate type="inclusive" normal="1991">1991</unitdate></unittitle>
             </did>
           </c03>
@@ -139,7 +141,7 @@ Department of Pharmacology (University of Michigan) publications, Bentley Histor
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [77571048699466080799]" altrender="box">1</container>
               <unittitle><title render="italic">Newsletter</title>, <unitdate type="inclusive" normal="1990/1991">1990-1991</unitdate></unittitle>
             </did>
           </c03>
@@ -150,7 +152,7 @@ Department of Pharmacology (University of Michigan) publications, Bentley Histor
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [77571048699466080799]" altrender="box">1</container>
               <unittitle><title render="italic">Department of Pharmacology Centennial Celebration</title>, <unitdate type="inclusive" normal="1991">1991</unitdate></unittitle>
             </did>
           </c03>
@@ -161,7 +163,7 @@ Department of Pharmacology (University of Michigan) publications, Bentley Histor
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [77571048699466080799]" altrender="box">1</container>
               <unittitle><title render="italic">Reprints from the Laboratory of Pharmacology, Department of Materia Medica and Therapeutics of the University of Michigan</title>, <unitdate type="inclusive" normal="1934">1934</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">3 folders</extent>

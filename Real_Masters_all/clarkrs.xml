@@ -34,7 +34,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding Aid for <lb/>Rodger Sherman Clark papers, <date>1918-1919</date></titleproper>
       <author>Finding aid prepared by: <lb/>Len Coombs</author>
     </titlepage>
@@ -81,9 +81,9 @@
         <head>Subjects</head>
         <persname source="lcnaf" encodinganalog="600">Clark, Rodger Sherman.</persname>
         <persname source="lcnaf" encodinganalog="600">Clark, Iva.</persname>
-        <geogname source="lcsh" encodinganalog="651">Soviet Union--History--Allied intervention, 1918-1920.</geogname>
-        <subject source="lcsh" encodinganalog="650">World War, 1914-1918.</subject>
-        <subject source="local" encodinganalog="690" authfilenumber="http://id.loc.gov/authorities/names/n2008059426">Polar Bear Expedition.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/883">Soviet Union--History--Allied intervention, 1918-1920.</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5712">World War, 1914-1918.</subject>
+        <subject source="local" encodinganalog="690" authfilenumber="http://id.loc.gov/authorities/names/n2008059426" ref="/subjects/3518">Polar Bear Expedition.</subject>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -93,7 +93,7 @@
         </did>
         <c02 level="file">
           <did>
-            <container type="folder" label="Folder">1</container>
+            <container type="folder" label="Folder [406624029673101999]" altrender="folder">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1916/1918">1916-1918</unitdate>
             </unittitle>
@@ -104,7 +104,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="folder" label="Folder">2</container>
+            <container type="folder" label="Folder [445209310449928672575]" altrender="folder">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1919">1919</unitdate>
             </unittitle>
@@ -120,7 +120,7 @@
         </did>
         <c02 level="file">
           <did>
-            <container type="folder" label="Folder">3</container>
+            <container type="folder" label="Folder [269645941079623190]" altrender="folder">3</container>
             <unittitle>Miscellanea</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">25 items</extent>

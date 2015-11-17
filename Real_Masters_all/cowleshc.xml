@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Henry Chandler Cowles lantern slide collection, 1898-1936</titleproper>
       <author>Finding aid created by <lb/>Emily Sanford, March 2009</author>
     </titlepage>
@@ -93,13 +93,13 @@ Henry Chandler Cowles lantern slide collection, Bentley Historical Library, Univ
       <controlaccess>
         <head>Subjects - Visual Materials:</head>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n87112431">Cowles, Henry Chandler, 1869-1939.</persname>
-        <subject source="lcsh" encodinganalog="650">Ecology--Michigan.</subject>
-        <subject source="lcsh" encodinganalog="650">Forests and forestry--Michigan.</subject>
-        <subject source="lcsh" encodinganalog="650">Sand dunes--Environmental aspects--Michigan.</subject>
-        <subject source="lcsh" encodinganalog="650">Shorelines--Great Lakes Region (North America)</subject>
-        <subject encodinganalog="650" source="lctgm">Classes (Groups of Students)</subject>
-        <geogname encodinganalog="651" source="lcsh">Kalamazoo River (Mich.)</geogname>
-        <geogname encodinganalog="651" source="lcsh">Keweenaw Peninsula (Mich.)</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7017">Ecology--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6733">Forests and forestry--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7018">Sand dunes--Environmental aspects--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7019">Shorelines--Great Lakes Region (North America)</subject>
+        <subject encodinganalog="650" source="lctgm" ref="/subjects/4100">Classes (Groups of Students)</subject>
+        <geogname encodinganalog="651" source="lcsh" ref="/subjects/1640">Kalamazoo River (Mich.)</geogname>
+        <geogname encodinganalog="651" source="lcsh" ref="/subjects/1641">Keweenaw Peninsula (Mich.)</geogname>
       </controlaccess>
       <controlaccess>
         <head>Contributors:</head>
@@ -109,8 +109,8 @@ Henry Chandler Cowles lantern slide collection, Bentley Historical Library, Univ
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Lantern slides.</genreform>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3204">Lantern slides.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -127,9 +127,9 @@ Henry Chandler Cowles lantern slide collection, Bentley Historical Library, Univ
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [08994114793815642113]" altrender="box">1</container>
               <unittitle>Acer Saccharum, Struck by lightning in midst of forest. Splinters thrown 100 ft. or more. Michigan.</unittitle>
-              <dao show="new" actuate="onrequest" href="bl006024">
+              <dao show="new" actuate="onRequest" href="bl006024" ref="/repositories/2/digital_objects/2067">
                 <daodesc>
                   <p>[view image]</p>
                 </daodesc>
@@ -138,9 +138,9 @@ Henry Chandler Cowles lantern slide collection, Bentley Historical Library, Univ
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [08994114793815642113]" altrender="box">1</container>
               <unittitle>Ammophilio breviligulato on foredune (new) old gravel beach -- erosional dune slope with Pinus., Onekama, Michigan.</unittitle>
-              <dao show="new" actuate="onrequest" href="bl006022">
+              <dao show="new" actuate="onRequest" href="bl006022" ref="/repositories/2/digital_objects/2068">
                 <daodesc>
                   <p>[view image]</p>
                 </daodesc>
@@ -149,9 +149,9 @@ Henry Chandler Cowles lantern slide collection, Bentley Historical Library, Univ
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [08994114793815642113]" altrender="box">1</container>
               <unittitle>Dune complex advancing over mesic forest. Ammophilo Calomovilfo in foreground on lee slope,. Ludington, Michigan. <unitdate type="inclusive" normal="1916-09-13">September 13, 1916</unitdate></unittitle>
-              <dao show="new" actuate="onrequest" href="bl006025">
+              <dao show="new" actuate="onRequest" href="bl006025" ref="/repositories/2/digital_objects/2069">
                 <daodesc>
                   <p>[view image]</p>
                 </daodesc>
@@ -160,9 +160,9 @@ Henry Chandler Cowles lantern slide collection, Bentley Historical Library, Univ
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [08994114793815642113]" altrender="box">1</container>
               <unittitle>Equisetum hyemale North of Palisade Park, Mich.</unittitle>
-              <dao show="new" actuate="onrequest" href="bl006046">
+              <dao show="new" actuate="onRequest" href="bl006046" ref="/repositories/2/digital_objects/2070">
                 <daodesc>
                   <p>[view image]</p>
                 </daodesc>
@@ -174,9 +174,9 @@ Henry Chandler Cowles lantern slide collection, Bentley Historical Library, Univ
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [08994114793815642113]" altrender="box">1</container>
               <unittitle>Former outlet of White Lake now closed by dune. Michilinda, Michigan</unittitle>
-              <dao show="new" actuate="onrequest" href="bl006023">
+              <dao show="new" actuate="onRequest" href="bl006023" ref="/repositories/2/digital_objects/2071">
                 <daodesc>
                   <p>[view image]</p>
                 </daodesc>
@@ -188,9 +188,9 @@ Henry Chandler Cowles lantern slide collection, Bentley Historical Library, Univ
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [08994114793815642113]" altrender="box">1</container>
               <unittitle>Pinus Strobus projecting above Tsuga, Acer, Fagus, etc. Primeval. Huron Mts., Michigan.</unittitle>
-              <dao show="new" actuate="onrequest" href="bl006019">
+              <dao show="new" actuate="onRequest" href="bl006019" ref="/repositories/2/digital_objects/2072">
                 <daodesc>
                   <p>[view image]</p>
                 </daodesc>
@@ -199,9 +199,9 @@ Henry Chandler Cowles lantern slide collection, Bentley Historical Library, Univ
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [08994114793815642113]" altrender="box">1</container>
               <unittitle>Populus deltoids with roots from trunk, Muskegon, Mich.</unittitle>
-              <dao show="new" actuate="onrequest" href="bl006050">
+              <dao show="new" actuate="onRequest" href="bl006050" ref="/repositories/2/digital_objects/2073">
                 <daodesc>
                   <p>[view image]</p>
                 </daodesc>
@@ -213,9 +213,9 @@ Henry Chandler Cowles lantern slide collection, Bentley Historical Library, Univ
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [08994114793815642113]" altrender="box">1</container>
               <unittitle>Secondary Pop. Trem., Betula alba -- Aqate Harbor Trail, Keweenaw. Peninsula., Mich.</unittitle>
-              <dao show="new" actuate="onrequest" href="bl006032">
+              <dao show="new" actuate="onRequest" href="bl006032" ref="/repositories/2/digital_objects/2074">
                 <daodesc>
                   <p>[view image]</p>
                 </daodesc>
@@ -227,9 +227,9 @@ Henry Chandler Cowles lantern slide collection, Bentley Historical Library, Univ
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [08994114793815642113]" altrender="box">1</container>
               <unittitle>Stumps of former (Acer) maple forest L Hancock, Mich.</unittitle>
-              <dao show="new" actuate="onrequest" href="bl006018">
+              <dao show="new" actuate="onRequest" href="bl006018" ref="/repositories/2/digital_objects/2075">
                 <daodesc>
                   <p>[view image]</p>
                 </daodesc>
@@ -241,9 +241,9 @@ Henry Chandler Cowles lantern slide collection, Bentley Historical Library, Univ
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [08994114793815642113]" altrender="box">1</container>
               <unittitle>Succession of Mosses on Isle Royale</unittitle>
-              <dao show="new" actuate="onrequest" href="bl006020">
+              <dao show="new" actuate="onRequest" href="bl006020" ref="/repositories/2/digital_objects/2076">
                 <daodesc>
                   <p>[view image]</p>
                 </daodesc>
@@ -255,9 +255,9 @@ Henry Chandler Cowles lantern slide collection, Bentley Historical Library, Univ
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [08994114793815642113]" altrender="box">1</container>
               <unittitle>Sunset. Lake Michigan. <unitdate type="inclusive" normal="1910">1910</unitdate></unittitle>
-              <dao show="new" actuate="onrequest" href="bl006051">
+              <dao show="new" actuate="onRequest" href="bl006051" ref="/repositories/2/digital_objects/2077">
                 <daodesc>
                   <p>[view image]</p>
                 </daodesc>
@@ -269,7 +269,7 @@ Henry Chandler Cowles lantern slide collection, Bentley Historical Library, Univ
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [08994114793815642113]" altrender="box">1</container>
               <unittitle>Thuja with roots from buried trunk Charlevox, Mich.</unittitle>
             </did>
             <odd>
@@ -278,7 +278,7 @@ Henry Chandler Cowles lantern slide collection, Bentley Historical Library, Univ
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [08994114793815642113]" altrender="box">1</container>
               <unittitle>Wind sweeps thru perched dunes. So. Fox Is. Mich. Showing gravel in floor of sweep</unittitle>
             </did>
             <odd>
@@ -287,9 +287,9 @@ Henry Chandler Cowles lantern slide collection, Bentley Historical Library, Univ
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [08994114793815642113]" altrender="box">1</container>
               <unittitle>W.J Cribbs camp at Point Betsie, Mich.</unittitle>
-              <dao show="new" actuate="onrequest" href="bl006021">
+              <dao show="new" actuate="onRequest" href="bl006021" ref="/repositories/2/digital_objects/2078">
                 <daodesc>
                   <p>[view image]</p>
                 </daodesc>
@@ -301,9 +301,9 @@ Henry Chandler Cowles lantern slide collection, Bentley Historical Library, Univ
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [08994114793815642113]" altrender="box">1</container>
               <unittitle>Wreck at Robinson's Folly. Mackinac, Mich.</unittitle>
-              <dao show="new" actuate="onrequest" href="bl006017">
+              <dao show="new" actuate="onRequest" href="bl006017" ref="/repositories/2/digital_objects/2079">
                 <daodesc>
                   <p>[view image]</p>
                 </daodesc>
@@ -320,7 +320,7 @@ Henry Chandler Cowles lantern slide collection, Bentley Historical Library, Univ
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [08994114793815642113]" altrender="box">1</container>
               <unittitle>Ecological Field class <unitdate type="inclusive" normal="1915">1915</unitdate> Bay View, Michigan</unittitle>
             </did>
             <odd>
@@ -329,7 +329,7 @@ Henry Chandler Cowles lantern slide collection, Bentley Historical Library, Univ
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [08994114793815642113]" altrender="box">1</container>
               <unittitle>Fagus, acer, Tsuga forest Bay View, Mich.</unittitle>
             </did>
             <odd>
@@ -343,9 +343,9 @@ Henry Chandler Cowles lantern slide collection, Bentley Historical Library, Univ
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [08994114793815642113]" altrender="box">1</container>
               <unittitle>Cladonia spp. on sandy soil -- burned areas in aspens Douglas Lake, Michigan</unittitle>
-              <dao show="new" actuate="onrequest" href="bl006036">
+              <dao show="new" actuate="onRequest" href="bl006036" ref="/repositories/2/digital_objects/2080">
                 <daodesc>
                   <p>[view image]</p>
                 </daodesc>
@@ -357,9 +357,9 @@ Henry Chandler Cowles lantern slide collection, Bentley Historical Library, Univ
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [08994114793815642113]" altrender="box">1</container>
               <unittitle>Douglas Lake, Michigan 1911-paper birch and aspen -- with understanding of Abies balsaoned, Acer sacchous, Betub luteo, etc,. <unitdate type="inclusive" normal="1933">1933</unitdate></unittitle>
-              <dao show="new" actuate="onrequest" href="bl006033">
+              <dao show="new" actuate="onRequest" href="bl006033" ref="/repositories/2/digital_objects/2081">
                 <daodesc>
                   <p>[view image]</p>
                 </daodesc>
@@ -368,9 +368,9 @@ Henry Chandler Cowles lantern slide collection, Bentley Historical Library, Univ
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [08994114793815642113]" altrender="box">1</container>
               <unittitle>Drossero rotundifolio, Douglas Lake, Michigan</unittitle>
-              <dao show="new" actuate="onrequest" href="bl006035">
+              <dao show="new" actuate="onRequest" href="bl006035" ref="/repositories/2/digital_objects/2082">
                 <daodesc>
                   <p>[view image]</p>
                 </daodesc>
@@ -382,9 +382,9 @@ Henry Chandler Cowles lantern slide collection, Bentley Historical Library, Univ
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [08994114793815642113]" altrender="box">1</container>
               <unittitle>Thuja Swamp. Douglas Lake, Mich.</unittitle>
-              <dao show="new" actuate="onrequest" href="bl006034">
+              <dao show="new" actuate="onRequest" href="bl006034" ref="/repositories/2/digital_objects/2083">
                 <daodesc>
                   <p>[view image]</p>
                 </daodesc>
@@ -401,15 +401,15 @@ Henry Chandler Cowles lantern slide collection, Bentley Historical Library, Univ
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [08994114793815642113]" altrender="box">1</container>
               <unittitle>Conifer heath on dune "The crater" 1915. Frankfort, Michigan</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [08994114793815642113]" altrender="box">1</container>
               <unittitle>Monotropa uniflora. Frankfort, Mich.</unittitle>
-              <dao show="new" actuate="onrequest" href="bl006048">
+              <dao show="new" actuate="onRequest" href="bl006048" ref="/repositories/2/digital_objects/2084">
                 <daodesc>
                   <p>[view image]</p>
                 </daodesc>
@@ -421,13 +421,13 @@ Henry Chandler Cowles lantern slide collection, Bentley Historical Library, Univ
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [08994114793815642113]" altrender="box">1</container>
               <unittitle>Tsuga canadensis, Fagus grandifolio and Betula lutes on dunes, Frankfort, Michigan <unitdate type="inclusive" normal="1915-08-11">August 11, 1915</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [08994114793815642113]" altrender="box">1</container>
               <unittitle>Tsuga, Fagus, etc. on fixed dune. Frankfort, Mich.</unittitle>
             </did>
             <odd>
@@ -436,9 +436,9 @@ Henry Chandler Cowles lantern slide collection, Bentley Historical Library, Univ
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [08994114793815642113]" altrender="box">1</container>
               <unittitle>Tsuga forest on dunes, Frankfort, Mich.</unittitle>
-              <dao show="new" actuate="onrequest" href="bl006049">
+              <dao show="new" actuate="onRequest" href="bl006049" ref="/repositories/2/digital_objects/2085">
                 <daodesc>
                   <p>[view image]</p>
                 </daodesc>
@@ -455,9 +455,9 @@ Henry Chandler Cowles lantern slide collection, Bentley Historical Library, Univ
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [08994114793815642113]" altrender="box">1</container>
               <unittitle><unitdate type="inclusive" normal="1906">1906</unitdate> Ecological field party. Glen Haven, Mich.</unittitle>
-              <dao show="new" actuate="onrequest" href="bl006041">
+              <dao show="new" actuate="onRequest" href="bl006041" ref="/repositories/2/digital_objects/2086">
                 <daodesc>
                   <p>[view image]</p>
                 </daodesc>
@@ -469,9 +469,9 @@ Henry Chandler Cowles lantern slide collection, Bentley Historical Library, Univ
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [08994114793815642113]" altrender="box">1</container>
               <unittitle>Around the fire Glen Haven, Mich. [G.F. 16]</unittitle>
-              <dao show="new" actuate="onrequest" href="bl006040">
+              <dao show="new" actuate="onRequest" href="bl006040" ref="/repositories/2/digital_objects/2087">
                 <daodesc>
                   <p>[view image]</p>
                 </daodesc>
@@ -480,9 +480,9 @@ Henry Chandler Cowles lantern slide collection, Bentley Historical Library, Univ
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [08994114793815642113]" altrender="box">1</container>
               <unittitle>Kame(?) Cliffs. Sleeping Bear dune sin b.g.(?) Glen Haven, Mich.</unittitle>
-              <dao show="new" actuate="onrequest" href="bl006042">
+              <dao show="new" actuate="onRequest" href="bl006042" ref="/repositories/2/digital_objects/2088">
                 <daodesc>
                   <p>[view image]</p>
                 </daodesc>
@@ -494,13 +494,13 @@ Henry Chandler Cowles lantern slide collection, Bentley Historical Library, Univ
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [08994114793815642113]" altrender="box">1</container>
               <unittitle>Landslide Face of Sleeping Bear Point, Glen Haven, Michigan. <unitdate type="inclusive" normal="1915-08-16">August 16, 1915</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [08994114793815642113]" altrender="box">1</container>
               <unittitle>Thuja graveyard. Old soil lines Sleeping Bear Point, Glen Haven, Mich.</unittitle>
             </did>
             <odd>
@@ -514,7 +514,7 @@ Henry Chandler Cowles lantern slide collection, Bentley Historical Library, Univ
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [08994114793815642113]" altrender="box">1</container>
               <unittitle>Dune advancing into Silver Lake Little Point Sable, Mich.</unittitle>
             </did>
             <odd>
@@ -523,7 +523,7 @@ Henry Chandler Cowles lantern slide collection, Bentley Historical Library, Univ
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [08994114793815642113]" altrender="box">1</container>
               <unittitle>Dune advancing into Silver Lake. Little Point Sable, Mich.</unittitle>
             </did>
             <odd>
@@ -532,9 +532,9 @@ Henry Chandler Cowles lantern slide collection, Bentley Historical Library, Univ
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [08994114793815642113]" altrender="box">1</container>
               <unittitle>Forest graveyard, (Pinus strobus) Little Point Sable, Mich.</unittitle>
-              <dao show="new" actuate="onrequest" href="bl006045">
+              <dao show="new" actuate="onRequest" href="bl006045" ref="/repositories/2/digital_objects/2089">
                 <daodesc>
                   <p>[view image]</p>
                 </daodesc>
@@ -551,9 +551,9 @@ Henry Chandler Cowles lantern slide collection, Bentley Historical Library, Univ
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [08994114793815642113]" altrender="box">1</container>
               <unittitle>Climax Forest almost pure Acer saccharum. Lawson, Munising Ry, Mich.</unittitle>
-              <dao show="new" actuate="onrequest" href="bl006047">
+              <dao show="new" actuate="onRequest" href="bl006047" ref="/repositories/2/digital_objects/2090">
                 <daodesc>
                   <p>[view image]</p>
                 </daodesc>
@@ -565,9 +565,9 @@ Henry Chandler Cowles lantern slide collection, Bentley Historical Library, Univ
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [08994114793815642113]" altrender="box">1</container>
               <unittitle>P. Strobus -- detail of trunk. Grand, Isd. Munising, Mich.</unittitle>
-              <dao show="new" actuate="onrequest" href="bl006030">
+              <dao show="new" actuate="onRequest" href="bl006030" ref="/repositories/2/digital_objects/2091">
                 <daodesc>
                   <p>[view image]</p>
                 </daodesc>
@@ -579,9 +579,9 @@ Henry Chandler Cowles lantern slide collection, Bentley Historical Library, Univ
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [08994114793815642113]" altrender="box">1</container>
               <unittitle>Tsuga Can. detail of trunk Grand Isd., Munising, Mich.</unittitle>
-              <dao show="new" actuate="onrequest" href="bl006029">
+              <dao show="new" actuate="onRequest" href="bl006029" ref="/repositories/2/digital_objects/2092">
                 <daodesc>
                   <p>[view image]</p>
                 </daodesc>
@@ -593,9 +593,9 @@ Henry Chandler Cowles lantern slide collection, Bentley Historical Library, Univ
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [08994114793815642113]" altrender="box">1</container>
               <unittitle>Tsuga can. seedlings growing on log Climax Forest Grand Isd., Mich.</unittitle>
-              <dao show="new" actuate="onrequest" href="bl006028">
+              <dao show="new" actuate="onRequest" href="bl006028" ref="/repositories/2/digital_objects/2093">
                 <daodesc>
                   <p>[view image]</p>
                 </daodesc>
@@ -612,9 +612,9 @@ Henry Chandler Cowles lantern slide collection, Bentley Historical Library, Univ
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [08994114793815642113]" altrender="box">1</container>
               <unittitle>Dr. Fuller and class. 1918. Saugatuck, Michigan.</unittitle>
-              <dao show="new" actuate="onrequest" href="bl006038">
+              <dao show="new" actuate="onRequest" href="bl006038" ref="/repositories/2/digital_objects/2094">
                 <daodesc>
                   <p>[view image]</p>
                 </daodesc>
@@ -626,9 +626,9 @@ Henry Chandler Cowles lantern slide collection, Bentley Historical Library, Univ
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [08994114793815642113]" altrender="box">1</container>
               <unittitle>Fagus on eroding dune Sagautuck, Mich. [</unittitle>
-              <dao show="new" actuate="onrequest" href="bl006039">
+              <dao show="new" actuate="onRequest" href="bl006039" ref="/repositories/2/digital_objects/2095">
                 <daodesc>
                   <p>[view image]</p>
                 </daodesc>
@@ -640,9 +640,9 @@ Henry Chandler Cowles lantern slide collection, Bentley Historical Library, Univ
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [08994114793815642113]" altrender="box">1</container>
               <unittitle>Foredune and Populus delfoides near dredged outlet of Kalamazoo River, Saugatuck, Michigan <unitdate type="inclusive" normal="1916">1916</unitdate></unittitle>
-              <dao show="new" actuate="onrequest" href="bl006037">
+              <dao show="new" actuate="onRequest" href="bl006037" ref="/repositories/2/digital_objects/2096">
                 <daodesc>
                   <p>[view image]</p>
                 </daodesc>
@@ -656,9 +656,9 @@ Henry Chandler Cowles lantern slide collection, Bentley Historical Library, Univ
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [08994114793815642113]" altrender="box">1</container>
               <unittitle>Established hemlock (Tsuge Canadensis) and moving dune. Sawyer, Michigan</unittitle>
-              <dao show="new" actuate="onrequest" href="bl006026">
+              <dao show="new" actuate="onRequest" href="bl006026" ref="/repositories/2/digital_objects/2097">
                 <daodesc>
                   <p>[view image]</p>
                 </daodesc>
@@ -670,9 +670,9 @@ Henry Chandler Cowles lantern slide collection, Bentley Historical Library, Univ
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [08994114793815642113]" altrender="box">1</container>
               <unittitle>Moving dune Mesic forest in foreground, Sawyer, Michigan <unitdate type="inclusive" normal="1911-05-20">May 20, 1911</unitdate></unittitle>
-              <dao show="new" actuate="onrequest" href="bl006027">
+              <dao show="new" actuate="onRequest" href="bl006027" ref="/repositories/2/digital_objects/2098">
                 <daodesc>
                   <p>[view image]</p>
                 </daodesc>
@@ -686,9 +686,9 @@ Henry Chandler Cowles lantern slide collection, Bentley Historical Library, Univ
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [08994114793815642113]" altrender="box">1</container>
               <unittitle>American Lock, Closed. Soo, A. [Mich No. 7]</unittitle>
-              <dao show="new" actuate="onrequest" href="bl006015">
+              <dao show="new" actuate="onRequest" href="bl006015" ref="/repositories/2/digital_objects/2099">
                 <daodesc>
                   <p>[view image]</p>
                 </daodesc>
@@ -697,9 +697,9 @@ Henry Chandler Cowles lantern slide collection, Bentley Historical Library, Univ
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [08994114793815642113]" altrender="box">1</container>
               <unittitle>American Lock with raft &amp; tug, Soo Am. [Mich. No. 8]</unittitle>
-              <dao show="new" actuate="onrequest" href="bl006016">
+              <dao show="new" actuate="onRequest" href="bl006016" ref="/repositories/2/digital_objects/2100">
                 <daodesc>
                   <p>[view image]</p>
                 </daodesc>
@@ -708,9 +708,9 @@ Henry Chandler Cowles lantern slide collection, Bentley Historical Library, Univ
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [08994114793815642113]" altrender="box">1</container>
               <unittitle>Map showing St. Marie's River and the Soo, Mich.</unittitle>
-              <dao show="new" actuate="onrequest" href="bl006031">
+              <dao show="new" actuate="onRequest" href="bl006031" ref="/repositories/2/digital_objects/2101">
                 <daodesc>
                   <p>[view image]</p>
                 </daodesc>
@@ -727,7 +727,7 @@ Henry Chandler Cowles lantern slide collection, Bentley Historical Library, Univ
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [08994114793815642113]" altrender="box">1</container>
               <unittitle>Elm -- buttressed. <unitdate type="inclusive" normal="1911">1911</unitdate> Three Oaks, Mich. Geo D. fuller</unittitle>
             </did>
             <odd>
@@ -736,9 +736,9 @@ Henry Chandler Cowles lantern slide collection, Bentley Historical Library, Univ
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [08994114793815642113]" altrender="box">1</container>
               <unittitle>Plantus occidentalis trunk. Three Oaks, Michigan <unitdate type="inclusive" normal="1910-11-05">November 5, 1910</unitdate></unittitle>
-              <dao show="new" actuate="onrequest" href="bl006044">
+              <dao show="new" actuate="onRequest" href="bl006044" ref="/repositories/2/digital_objects/2102">
                 <daodesc>
                   <p>[view image]</p>
                 </daodesc>
@@ -760,7 +760,7 @@ Henry Chandler Cowles lantern slide collection, Bentley Historical Library, Univ
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [6448594701302692]" altrender="box">2</container>
               <unittitle>Ready for Long's Peak, Colo <unitdate type="inclusive" normal="1925-08">August 1925</unitdate></unittitle>
             </did>
             <odd>
@@ -769,13 +769,13 @@ Henry Chandler Cowles lantern slide collection, Bentley Historical Library, Univ
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [6448594701302692]" altrender="box">2</container>
               <unittitle>Grassland following burned forest 10,000 ft. Mammoth Gulch, Colo. <unitdate type="inclusive" normal="1928">1928</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [6448594701302692]" altrender="box">2</container>
               <unittitle>Class in Field Ecology,. Eslis Park, Colo., <unitdate type="inclusive" normal="1914">Summer 1914</unitdate></unittitle>
             </did>
             <odd>
@@ -784,7 +784,7 @@ Henry Chandler Cowles lantern slide collection, Bentley Historical Library, Univ
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [6448594701302692]" altrender="box">2</container>
               <unittitle>Succession in grasslands of South Boulder Park, Colo.</unittitle>
             </did>
             <odd>
@@ -793,7 +793,7 @@ Henry Chandler Cowles lantern slide collection, Bentley Historical Library, Univ
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [6448594701302692]" altrender="box">2</container>
               <unittitle>Dry grass and meadow. Tolland Colo.</unittitle>
             </did>
             <odd>
@@ -802,7 +802,7 @@ Henry Chandler Cowles lantern slide collection, Bentley Historical Library, Univ
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [6448594701302692]" altrender="box">2</container>
               <unittitle>Narrows, Long Peak Colo.</unittitle>
             </did>
             <odd>
@@ -816,7 +816,7 @@ Henry Chandler Cowles lantern slide collection, Bentley Historical Library, Univ
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [6448594701302692]" altrender="box">2</container>
               <unittitle>Weighing apparatus for water requirements Akron, Colo.</unittitle>
             </did>
             <odd>
@@ -825,7 +825,7 @@ Henry Chandler Cowles lantern slide collection, Bentley Historical Library, Univ
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [6448594701302692]" altrender="box">2</container>
               <unittitle>Meteorological instruments Supt. Grace at right. Akron, Ohio.</unittitle>
             </did>
             <odd>
@@ -834,7 +834,7 @@ Henry Chandler Cowles lantern slide collection, Bentley Historical Library, Univ
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [6448594701302692]" altrender="box">2</container>
               <unittitle>Akron, Col. Water requirements station</unittitle>
             </did>
             <odd>
@@ -843,7 +843,7 @@ Henry Chandler Cowles lantern slide collection, Bentley Historical Library, Univ
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [6448594701302692]" altrender="box">2</container>
               <unittitle>Frames for shading Akron, Colo.</unittitle>
             </did>
             <odd>
@@ -852,7 +852,7 @@ Henry Chandler Cowles lantern slide collection, Bentley Historical Library, Univ
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [6448594701302692]" altrender="box">2</container>
               <unittitle>I.P.E. short grass plain Akron, Colo.</unittitle>
             </did>
             <odd>
@@ -861,7 +861,7 @@ Henry Chandler Cowles lantern slide collection, Bentley Historical Library, Univ
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [6448594701302692]" altrender="box">2</container>
               <unittitle>James Peak[Long is crossed out] summit 14255 1914. Colo.</unittitle>
             </did>
             <odd>
@@ -870,7 +870,7 @@ Henry Chandler Cowles lantern slide collection, Bentley Historical Library, Univ
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [6448594701302692]" altrender="box">2</container>
               <unittitle>Pinus aristata P. flegilis 11,500 ft. James Peak, Colo.</unittitle>
             </did>
             <odd>
@@ -889,7 +889,7 @@ Henry Chandler Cowles lantern slide collection, Bentley Historical Library, Univ
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [6448594701302692]" altrender="box">2</container>
               <unittitle>Evaporation averages. Chicago, Ill.</unittitle>
             </did>
             <odd>
@@ -898,7 +898,7 @@ Henry Chandler Cowles lantern slide collection, Bentley Historical Library, Univ
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [6448594701302692]" altrender="box">2</container>
               <unittitle>Wading sloughs of the Mississippi. Rock Island, Ill.</unittitle>
             </did>
             <odd>
@@ -920,19 +920,19 @@ Henry Chandler Cowles lantern slide collection, Bentley Historical Library, Univ
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [6448594701302692]" altrender="box">2</container>
               <unittitle>Slough #58 Summer. Buffington, Indiana</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [6448594701302692]" altrender="box">2</container>
               <unittitle>Beach Dune. Cheltenham, Indiana</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [6448594701302692]" altrender="box">2</container>
               <unittitle>Old swamp soil exposed by erosion of superjacent dune. Michigan City, Indiana.</unittitle>
             </did>
             <odd>
@@ -946,13 +946,13 @@ Henry Chandler Cowles lantern slide collection, Bentley Historical Library, Univ
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [6448594701302692]" altrender="box">2</container>
               <unittitle>Dune advance on Pinus strobes Qucerus, etc. Chesterton, Indiana. 190?</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [6448594701302692]" altrender="box">2</container>
               <unittitle>General View of established dune. Chesterton, Indiana</unittitle>
             </did>
             <odd>
@@ -966,7 +966,7 @@ Henry Chandler Cowles lantern slide collection, Bentley Historical Library, Univ
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [6448594701302692]" altrender="box">2</container>
               <unittitle>Loading dunes on cars. Dune Park, Ind.</unittitle>
             </did>
             <odd>
@@ -975,13 +975,13 @@ Henry Chandler Cowles lantern slide collection, Bentley Historical Library, Univ
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [6448594701302692]" altrender="box">2</container>
               <unittitle>Embryo dunes -- recent line of Populus deltoids -- older beach edges with Populus deltoids background, Dune Park, Indiana. <unitdate type="inclusive" normal="1904">1904</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [6448594701302692]" altrender="box">2</container>
               <unittitle>Rhizome of Juneus balticus. Dune Park, Ind.</unittitle>
             </did>
             <odd>
@@ -990,7 +990,7 @@ Henry Chandler Cowles lantern slide collection, Bentley Historical Library, Univ
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [6448594701302692]" altrender="box">2</container>
               <unittitle>Advancing dune complex winter. Dune Park, Ind.</unittitle>
             </did>
             <odd>
@@ -999,13 +999,13 @@ Henry Chandler Cowles lantern slide collection, Bentley Historical Library, Univ
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [6448594701302692]" altrender="box">2</container>
               <unittitle>Blowout crater. Dune Park, Indiana. <unitdate type="inclusive" normal="1910-09-18">September 18, 1910</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [6448594701302692]" altrender="box">2</container>
               <unittitle>"The Crater" Dune Park, Indiana</unittitle>
             </did>
             <odd>
@@ -1014,7 +1014,7 @@ Henry Chandler Cowles lantern slide collection, Bentley Historical Library, Univ
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [6448594701302692]" altrender="box">2</container>
               <unittitle>Dunes advancing 1901. Dune Park, Ind.</unittitle>
             </did>
             <odd>
@@ -1023,7 +1023,7 @@ Henry Chandler Cowles lantern slide collection, Bentley Historical Library, Univ
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [6448594701302692]" altrender="box">2</container>
               <unittitle>Ammophila. Foredune Grand Beach, Ind.</unittitle>
             </did>
             <odd>
@@ -1037,7 +1037,7 @@ Henry Chandler Cowles lantern slide collection, Bentley Historical Library, Univ
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [6448594701302692]" altrender="box">2</container>
               <unittitle>Treceasi, McDougall, Cowles. Millers, Indiana.</unittitle>
             </did>
             <odd>
@@ -1046,7 +1046,7 @@ Henry Chandler Cowles lantern slide collection, Bentley Historical Library, Univ
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [6448594701302692]" altrender="box">2</container>
               <unittitle>Populus deltodius seedlins-280-#2. 11 inches to water. Miller, Indiana. August 22, 1936.</unittitle>
             </did>
           </c03>
@@ -1057,7 +1057,7 @@ Henry Chandler Cowles lantern slide collection, Bentley Historical Library, Univ
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [6448594701302692]" altrender="box">2</container>
               <unittitle>Depositing shores. Mineral Springs, Ind. <unitdate type="inclusive" normal="1919-10-19">October 19, 1919</unitdate></unittitle>
             </did>
             <odd>
@@ -1066,7 +1066,7 @@ Henry Chandler Cowles lantern slide collection, Bentley Historical Library, Univ
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [6448594701302692]" altrender="box">2</container>
               <unittitle>Cornus Canadensis. Mineral Springs, Ind.</unittitle>
             </did>
             <odd>
@@ -1075,7 +1075,7 @@ Henry Chandler Cowles lantern slide collection, Bentley Historical Library, Univ
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [6448594701302692]" altrender="box">2</container>
               <unittitle>Cypripedium aeaule Mineral Springs, Ind.</unittitle>
             </did>
             <odd>
@@ -1084,7 +1084,7 @@ Henry Chandler Cowles lantern slide collection, Bentley Historical Library, Univ
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [6448594701302692]" altrender="box">2</container>
               <unittitle>Maianthe mum canadense. Mineral Springs, Ind.</unittitle>
             </did>
             <odd>
@@ -1098,13 +1098,13 @@ Henry Chandler Cowles lantern slide collection, Bentley Historical Library, Univ
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [6448594701302692]" altrender="box">2</container>
               <unittitle>Pinus strobes graveyard. Port Chester Indiana <unitdate type="inclusive" normal="1910-08">August 1910</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [6448594701302692]" altrender="box">2</container>
               <unittitle>Roots from trunk of Tilia. Portchester, Ind.</unittitle>
             </did>
             <odd>
@@ -1118,7 +1118,7 @@ Henry Chandler Cowles lantern slide collection, Bentley Historical Library, Univ
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [6448594701302692]" altrender="box">2</container>
               <unittitle>Trillium grandiflorum. Otis, Ind. Huntington</unittitle>
             </did>
             <odd>
@@ -1127,7 +1127,7 @@ Henry Chandler Cowles lantern slide collection, Bentley Historical Library, Univ
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [6448594701302692]" altrender="box">2</container>
               <unittitle>Beech -- Maple forest, Otist, Indiana.</unittitle>
             </did>
             <odd>
@@ -1136,13 +1136,13 @@ Henry Chandler Cowles lantern slide collection, Bentley Historical Library, Univ
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [6448594701302692]" altrender="box">2</container>
               <unittitle>Beech -- Maple forest on clay -- valparaino moraine, Otis, Indiana. <unitdate type="inclusive" normal="1910-05-30">May 30, 1910</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [6448594701302692]" altrender="box">2</container>
               <unittitle>Gully erosion in Valparaiso maraine formerly beech-maple forest, Otis, Indiana. <unitdate type="inclusive" normal="1910-05-30">May 30, 1910</unitdate></unittitle>
             </did>
           </c03>
@@ -1158,7 +1158,7 @@ Henry Chandler Cowles lantern slide collection, Bentley Historical Library, Univ
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [6448594701302692]" altrender="box">2</container>
               <unittitle>Bot. 36 <unitdate type="inclusive" normal="1919">1919</unitdate> Door Co. Wis.</unittitle>
             </did>
             <odd>
@@ -1167,7 +1167,7 @@ Henry Chandler Cowles lantern slide collection, Bentley Historical Library, Univ
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [6448594701302692]" altrender="box">2</container>
               <unittitle>Bot. 36 1919. Europe Lake. Door Co. Wis. <unitdate type="inclusive" normal="1919">1919</unitdate></unittitle>
             </did>
             <odd>
@@ -1176,7 +1176,7 @@ Henry Chandler Cowles lantern slide collection, Bentley Historical Library, Univ
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [6448594701302692]" altrender="box">2</container>
               <unittitle>Class at noon day rest. Door Co. Wisc. 191</unittitle>
             </did>
             <odd>
@@ -1185,7 +1185,7 @@ Henry Chandler Cowles lantern slide collection, Bentley Historical Library, Univ
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [6448594701302692]" altrender="box">2</container>
               <unittitle>Door Co. Wis. <unitdate type="inclusive" normal="1919">1919</unitdate></unittitle>
             </did>
             <odd>
@@ -1196,7 +1196,7 @@ Henry Chandler Cowles lantern slide collection, Bentley Historical Library, Univ
       </c01>
       <c01 level="series">
         <did>
-          <container type="box" label="Box">2</container>
+          <container type="box" label="Box [6448594701302692]" altrender="box">2</container>
           <unittitle>Miscellaneous Photographs</unittitle>
         </did>
         <scopecontent>
@@ -1204,7 +1204,7 @@ Henry Chandler Cowles lantern slide collection, Bentley Historical Library, Univ
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [6448594701302692]" altrender="box">2</container>
             <unittitle>Diagram of dune movement</unittitle>
           </did>
           <odd>
@@ -1213,7 +1213,7 @@ Henry Chandler Cowles lantern slide collection, Bentley Historical Library, Univ
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [6448594701302692]" altrender="box">2</container>
             <unittitle>Eroding Mesophytic Forest dune north of Palisade Park</unittitle>
           </did>
           <odd>
@@ -1222,7 +1222,7 @@ Henry Chandler Cowles lantern slide collection, Bentley Historical Library, Univ
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [6448594701302692]" altrender="box">2</container>
             <unittitle>Evaporation averages <unitdate normal="1910/1911" type="inclusive">1910-1911</unitdate></unittitle>
           </did>
           <odd>
@@ -1231,7 +1231,7 @@ Henry Chandler Cowles lantern slide collection, Bentley Historical Library, Univ
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [6448594701302692]" altrender="box">2</container>
             <unittitle>Forest Distribution</unittitle>
           </did>
           <odd>
@@ -1240,7 +1240,7 @@ Henry Chandler Cowles lantern slide collection, Bentley Historical Library, Univ
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [6448594701302692]" altrender="box">2</container>
             <unittitle>Habenaria orbisculata in B.M.H Forest. Palisades Park</unittitle>
           </did>
           <odd>
@@ -1249,15 +1249,15 @@ Henry Chandler Cowles lantern slide collection, Bentley Historical Library, Univ
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [6448594701302692]" altrender="box">2</container>
             <unittitle>H.C. Cowles. J.P. Lotey <unitdate type="inclusive" normal="1922">1922</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [6448594701302692]" altrender="box">2</container>
             <unittitle>Physiographic Ecology class summer quarter <unitdate type="inclusive" normal="1910">1910</unitdate></unittitle>
-            <dao show="new" actuate="onrequest" href="bl006043">
+            <dao show="new" actuate="onRequest" href="bl006043" ref="/repositories/2/digital_objects/2103">
               <daodesc>
                 <p>[view image]</p>
               </daodesc>
@@ -1269,7 +1269,7 @@ Henry Chandler Cowles lantern slide collection, Bentley Historical Library, Univ
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [6448594701302692]" altrender="box">2</container>
             <unittitle>Physiographic Ecology Class <unitdate type="inclusive" normal="1912">1912</unitdate></unittitle>
           </did>
           <odd>
@@ -1278,7 +1278,7 @@ Henry Chandler Cowles lantern slide collection, Bentley Historical Library, Univ
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [6448594701302692]" altrender="box">2</container>
             <unittitle>Tsuga log showing effect of suppression.</unittitle>
           </did>
           <odd>
@@ -1287,7 +1287,7 @@ Henry Chandler Cowles lantern slide collection, Bentley Historical Library, Univ
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [6448594701302692]" altrender="box">2</container>
             <unittitle>Ulmus Americana -- sections of leaves 18 -- Mesophyticform: 19, dune form.</unittitle>
           </did>
           <odd>
@@ -1304,7 +1304,7 @@ Henry Chandler Cowles lantern slide collection, Bentley Historical Library, Univ
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [2834910314101995019235]" altrender="box">3</container>
             <unittitle>Transparencies</unittitle>
           </did>
         </c02>

@@ -31,7 +31,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>St. Luke's Episcopal Church <lb/>(Ypsilanti, Mich.) <lb/>records, 1836-ca. 2000</titleproper>
       <author>Finding aid created by <lb/>Michigan Historical Collections staff</author>
     </titlepage>
@@ -88,18 +88,18 @@ St. Luke's Episcopal Church (Ypsilanti, Mich.) records, Bentley Historical Libra
         <head>Subjects:</head>
         <corpname source="lcnaf" encodinganalog="610">Episcopal Church--Michigan--Ypsilanti.</corpname>
         <corpname source="lcnaf" encodinganalog="610">St. Luke's Episcopal Church (Ypsilanti, Mich.)</corpname>
-        <subject source="lcsh" encodinganalog="650">Women--Michigan--Ypsilanti--Societies and clubs.</subject>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n80006284.html">Ypsilanti (Mich.)</geogname>
-        <subject source="lcsh" encodinganalog="650">Women--Religious life--Michigan--Ypsilanti.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7132">Women--Michigan--Ypsilanti--Societies and clubs.</subject>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n80006284.html" ref="/subjects/999">Ypsilanti (Mich.)</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7721">Women--Religious life--Michigan--Ypsilanti.</subject>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Materials:</head>
         <corpname source="lcnaf" encodinganalog="610">St. Luke's Episcopal Church (Ypsilanti, Mich.)</corpname>
-        <subject source="lctgm" encodinganalog="650">Churches--Michigan--Ypsilanti.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4012">Churches--Michigan--Ypsilanti.</subject>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -112,7 +112,7 @@ St. Luke's Episcopal Church (Ypsilanti, Mich.) records, Bentley Historical Libra
         </odd>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [03105800429927114370]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1837/1864">1837-1864</unitdate>
             </unittitle>
@@ -120,7 +120,7 @@ St. Luke's Episcopal Church (Ypsilanti, Mich.) records, Bentley Historical Libra
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [03105800429927114370]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1864/1926">1864-1926</unitdate>
             </unittitle>
@@ -128,7 +128,7 @@ St. Luke's Episcopal Church (Ypsilanti, Mich.) records, Bentley Historical Libra
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [03105800429927114370]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1927/1947">1927-1947</unitdate>
             </unittitle>
@@ -136,7 +136,7 @@ St. Luke's Episcopal Church (Ypsilanti, Mich.) records, Bentley Historical Libra
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [03105800429927114370]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1947/1958">1947-1958</unitdate>
             </unittitle>
@@ -144,7 +144,7 @@ St. Luke's Episcopal Church (Ypsilanti, Mich.) records, Bentley Historical Libra
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [03105800429927114370]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1959/1972">1959-1972</unitdate>
             </unittitle>
@@ -152,7 +152,7 @@ St. Luke's Episcopal Church (Ypsilanti, Mich.) records, Bentley Historical Libra
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [03105800429927114370]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1972/1982">1972-1982</unitdate>
             </unittitle>
@@ -160,7 +160,7 @@ St. Luke's Episcopal Church (Ypsilanti, Mich.) records, Bentley Historical Libra
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [03105800429927114370]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1982/1988">1982-1988</unitdate>
             </unittitle>
@@ -173,13 +173,15 @@ St. Luke's Episcopal Church (Ypsilanti, Mich.) records, Bentley Historical Libra
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
-            <unittitle>H.P. Powers memorandum book <unitdate type="inclusive" normal="1836/1847">1836-1847</unitdate> including church history, records of baptisms, marriages, and funerals <unitdate type="inclusive" normal="1839/1893">1839-1893</unitdate></unittitle>
+            <container type="box" label="Box [626696148984394980513]" altrender="box">2</container>
+            <unittitle>H.P. Powers memorandum book 1836-1847 including church history, records of baptisms, marriages, and funerals 1839-1893</unittitle>
+            <unitdate type="inclusive" normal="1836/1847">1836-1847</unitdate>
+            <unitdate type="inclusive" normal="1839/1893">1839-1893</unitdate>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [626696148984394980513]" altrender="box">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1882/1900">1882-1900</unitdate>
             </unittitle>
@@ -187,7 +189,7 @@ St. Luke's Episcopal Church (Ypsilanti, Mich.) records, Bentley Historical Libra
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [626696148984394980513]" altrender="box">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1897/1915">1897-1915</unitdate>
             </unittitle>
@@ -195,7 +197,7 @@ St. Luke's Episcopal Church (Ypsilanti, Mich.) records, Bentley Historical Libra
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">1</container>
+            <container type="volume" label="Oversize Volume [6875049446581826231]" altrender="volume">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1915/1942">1915-1942</unitdate>
             </unittitle>
@@ -203,7 +205,7 @@ St. Luke's Episcopal Church (Ypsilanti, Mich.) records, Bentley Historical Libra
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">2</container>
+            <container type="volume" label="Oversize Volume [64194276391680013]" altrender="volume">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1943/1953">1943-1953</unitdate>
             </unittitle>
@@ -211,13 +213,13 @@ St. Luke's Episcopal Church (Ypsilanti, Mich.) records, Bentley Historical Libra
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">3</container>
+            <container type="volume" label="Oversize Volume [939996429828205659]" altrender="volume">3</container>
             <unittitle><unitdate type="inclusive" normal="1915/1977">1915-1977</unitdate> (marriages only)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [626696148984394980513]" altrender="box">2</container>
             <unittitle><unitdate type="inclusive" normal="1977/1990">1977-1990</unitdate> (marriages only)</unittitle>
           </did>
         </c02>
@@ -228,7 +230,7 @@ St. Luke's Episcopal Church (Ypsilanti, Mich.) records, Bentley Historical Libra
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [5899542469349204]" altrender="box">3</container>
             <unittitle>
               <unitdate type="inclusive" normal="1915/1926">1915-1926</unitdate>
             </unittitle>
@@ -236,7 +238,7 @@ St. Luke's Episcopal Church (Ypsilanti, Mich.) records, Bentley Historical Libra
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [5899542469349204]" altrender="box">3</container>
             <unittitle>
               <unitdate type="inclusive" normal="1926/1934">1926-1934</unitdate>
             </unittitle>
@@ -244,7 +246,7 @@ St. Luke's Episcopal Church (Ypsilanti, Mich.) records, Bentley Historical Libra
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [5899542469349204]" altrender="box">3</container>
             <unittitle>
               <unitdate type="inclusive" normal="1953/1962">1953-1962</unitdate>
             </unittitle>
@@ -252,7 +254,7 @@ St. Luke's Episcopal Church (Ypsilanti, Mich.) records, Bentley Historical Libra
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [5899542469349204]" altrender="box">3</container>
             <unittitle>
               <unitdate type="inclusive" normal="1962/1970">1962-1970</unitdate>
             </unittitle>
@@ -260,7 +262,7 @@ St. Luke's Episcopal Church (Ypsilanti, Mich.) records, Bentley Historical Libra
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [5899542469349204]" altrender="box">3</container>
             <unittitle>
               <unitdate type="inclusive" normal="1970/1980">1970-1980</unitdate>
             </unittitle>
@@ -268,7 +270,7 @@ St. Luke's Episcopal Church (Ypsilanti, Mich.) records, Bentley Historical Libra
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [5899542469349204]" altrender="box">3</container>
             <unittitle>
               <unitdate type="inclusive" normal="1980/1984">1980-1984</unitdate>
             </unittitle>
@@ -276,7 +278,7 @@ St. Luke's Episcopal Church (Ypsilanti, Mich.) records, Bentley Historical Libra
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [5899542469349204]" altrender="box">3</container>
             <unittitle>
               <unitdate type="inclusive" normal="1984/1994">1984-1994</unitdate>
             </unittitle>
@@ -289,19 +291,19 @@ St. Luke's Episcopal Church (Ypsilanti, Mich.) records, Bentley Historical Libra
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [0792347886624801]" altrender="box">4</container>
             <unittitle>Miscellaneous annual reports and financial reports <unitdate type="inclusive" normal="1946/1956">1946-1956 (scattered dates)</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [0792347886624801]" altrender="box">4</container>
             <unittitle>Notebooks containing vestry minutes, financial reports, and annual parish meeting reports <unitdate type="inclusive" normal="1958/1992">1958-1992</unitdate> (missing 1983)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">4</container>
+            <container type="volume" label="Oversize Volume [203979490233213394]" altrender="volume">4</container>
             <unittitle>Treasurer's record book <unitdate type="inclusive" normal="1906/1913">1906-1913</unitdate></unittitle>
           </did>
         </c02>
@@ -312,12 +314,12 @@ St. Luke's Episcopal Church (Ypsilanti, Mich.) records, Bentley Historical Libra
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [38468268495289409136336]" altrender="box">5</container>
             <unittitle>Newsletters <unitdate type="inclusive" normal="1959/1998">1959-1998</unitdate></unittitle>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [38468268495289409136336]" altrender="box">5</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1959/1992">1959-1992</unitdate>
               </unittitle>
@@ -328,7 +330,7 @@ St. Luke's Episcopal Church (Ypsilanti, Mich.) records, Bentley Historical Libra
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [9790184339067126279]" altrender="box">6</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1993/1998">1993-1998</unitdate>
               </unittitle>
@@ -347,7 +349,7 @@ St. Luke's Episcopal Church (Ypsilanti, Mich.) records, Bentley Historical Libra
           </odd>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [9790184339067126279]" altrender="box">6</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1982/1994">1982-1994</unitdate>
               </unittitle>
@@ -361,7 +363,7 @@ St. Luke's Episcopal Church (Ypsilanti, Mich.) records, Bentley Historical Libra
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">7</container>
+              <container type="box" label="Box [211659249680270134894]" altrender="box">7</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1995/1998">1995-1998</unitdate>
               </unittitle>
@@ -373,19 +375,19 @@ St. Luke's Episcopal Church (Ypsilanti, Mich.) records, Bentley Historical Libra
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">7</container>
+            <container type="box" label="Box [211659249680270134894]" altrender="box">7</container>
             <unittitle>St. Luke's Cloister Garth</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">7</container>
+            <container type="box" label="Box [211659249680270134894]" altrender="box">7</container>
             <unittitle>Title Abstract <unitdate type="inclusive" normal="1915">1915</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">7</container>
+            <container type="box" label="Box [211659249680270134894]" altrender="box">7</container>
             <unittitle>Church directories and related historical material</unittitle>
           </did>
         </c02>
@@ -396,7 +398,7 @@ St. Luke's Episcopal Church (Ypsilanti, Mich.) records, Bentley Historical Libra
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">8</container>
+            <container type="box" label="Box [6648130924556087675832]" altrender="box">8</container>
             <unittitle>
               <unitdate type="inclusive" normal="1960/1979">1960-1979</unitdate>
             </unittitle>
@@ -404,7 +406,7 @@ St. Luke's Episcopal Church (Ypsilanti, Mich.) records, Bentley Historical Libra
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">8</container>
+            <container type="box" label="Box [6648130924556087675832]" altrender="box">8</container>
             <unittitle>
               <unitdate type="inclusive" normal="1980/1989">1980-1989</unitdate>
             </unittitle>
@@ -412,7 +414,7 @@ St. Luke's Episcopal Church (Ypsilanti, Mich.) records, Bentley Historical Libra
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">8</container>
+            <container type="box" label="Box [6648130924556087675832]" altrender="box">8</container>
             <unittitle>
               <unitdate type="inclusive" normal="1990/1999">1990-1999</unitdate>
             </unittitle>
@@ -427,7 +429,7 @@ St. Luke's Episcopal Church (Ypsilanti, Mich.) records, Bentley Historical Libra
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">8</container>
+            <container type="box" label="Box [6648130924556087675832]" altrender="box">8</container>
             <unittitle>Photograph albums of church activities, 1940s- <unitdate type="inclusive" normal="2000" certainty="approximate">circa 2000</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">3 volumes</extent>
@@ -436,13 +438,13 @@ St. Luke's Episcopal Church (Ypsilanti, Mich.) records, Bentley Historical Libra
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">8</container>
+            <container type="box" label="Box [6648130924556087675832]" altrender="box">8</container>
             <unittitle>Photo of church banquet</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">8</container>
+            <container type="box" label="Box [6648130924556087675832]" altrender="box">8</container>
             <unittitle>Slides of stained glass windows, and of church activities and programs</unittitle>
           </did>
         </c02>
@@ -453,7 +455,7 @@ St. Luke's Episcopal Church (Ypsilanti, Mich.) records, Bentley Historical Libra
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">9</container>
+            <container type="box" label="Box [3056126794224040512965]" altrender="box">9</container>
             <unittitle>Ladies Church Aid Society proceedings <unitdate type="inclusive" normal="1863/1869">1863-1869</unitdate></unittitle>
           </did>
         </c02>
@@ -463,30 +465,30 @@ St. Luke's Episcopal Church (Ypsilanti, Mich.) records, Bentley Historical Libra
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">9</container>
+              <container type="box" label="Box [3056126794224040512965]" altrender="box">9</container>
               <unittitle>Record books <unitdate type="inclusive" normal="1891/1905">1891-1905</unitdate></unittitle>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">9</container>
+                <container type="box" label="Box [3056126794224040512965]" altrender="box">9</container>
                 <unittitle>Record book <unitdate type="inclusive" normal="1891/1893">1891-1893</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">9</container>
+                <container type="box" label="Box [3056126794224040512965]" altrender="box">9</container>
                 <unittitle>Record book <unitdate type="inclusive" normal="1893/1896">1893-1896</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">9</container>
+                <container type="box" label="Box [3056126794224040512965]" altrender="box">9</container>
                 <unittitle>Day book <unitdate type="inclusive" normal="1895/1903">1895-1903</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">9</container>
+                <container type="box" label="Box [3056126794224040512965]" altrender="box">9</container>
                 <unittitle>Record book <unitdate type="inclusive" normal="1903/1905">1903-1905</unitdate></unittitle>
               </did>
             </c04>
@@ -498,7 +500,7 @@ St. Luke's Episcopal Church (Ypsilanti, Mich.) records, Bentley Historical Libra
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">9</container>
+              <container type="box" label="Box [3056126794224040512965]" altrender="box">9</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1917/1924">1917-1924</unitdate>
               </unittitle>
@@ -506,7 +508,7 @@ St. Luke's Episcopal Church (Ypsilanti, Mich.) records, Bentley Historical Libra
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">9</container>
+              <container type="box" label="Box [3056126794224040512965]" altrender="box">9</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1924/1929">1924-1929</unitdate>
               </unittitle>
@@ -514,7 +516,7 @@ St. Luke's Episcopal Church (Ypsilanti, Mich.) records, Bentley Historical Libra
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">9</container>
+              <container type="box" label="Box [3056126794224040512965]" altrender="box">9</container>
               <unittitle><unitdate type="inclusive" normal="1933/1934">1933-1934</unitdate> of Auxiliary Guild</unittitle>
             </did>
           </c03>
@@ -525,7 +527,7 @@ St. Luke's Episcopal Church (Ypsilanti, Mich.) records, Bentley Historical Libra
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">9</container>
+              <container type="box" label="Box [3056126794224040512965]" altrender="box">9</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1919/1924">1919-1924</unitdate>
               </unittitle>
@@ -533,7 +535,7 @@ St. Luke's Episcopal Church (Ypsilanti, Mich.) records, Bentley Historical Libra
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">9</container>
+              <container type="box" label="Box [3056126794224040512965]" altrender="box">9</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1924/1932">1924-1932</unitdate>
               </unittitle>
@@ -541,7 +543,7 @@ St. Luke's Episcopal Church (Ypsilanti, Mich.) records, Bentley Historical Libra
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">9</container>
+              <container type="box" label="Box [3056126794224040512965]" altrender="box">9</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1932">1932</unitdate>
               </unittitle>

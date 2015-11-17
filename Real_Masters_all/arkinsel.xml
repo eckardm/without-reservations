@@ -38,7 +38,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding Aid for <lb/>Edwin L. Arkins diary and scrapbook, <date>1918-1922</date></titleproper>
       <author>Finding aid prepared by: <lb/>Len Coombs</author>
     </titlepage>
@@ -84,9 +84,9 @@
       <controlaccess>
         <head>Subjects</head>
         <persname source="lcnaf" encodinganalog="600">Arkins, Edwin L.</persname>
-        <geogname source="lcsh" encodinganalog="651">Soviet Union--History--Allied intervention, 1918-1920.</geogname>
-        <subject source="lcsh" encodinganalog="650">World War, 1914-1918.</subject>
-        <subject source="local" encodinganalog="690" authfilenumber="http://id.loc.gov/authorities/names/n2008059426">Polar Bear Expedition.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/883">Soviet Union--History--Allied intervention, 1918-1920.</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5712">World War, 1914-1918.</subject>
+        <subject source="local" encodinganalog="690" authfilenumber="http://id.loc.gov/authorities/names/n2008059426" ref="/subjects/3518">Polar Bear Expedition.</subject>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -96,8 +96,11 @@
         </did>
         <c02 level="file">
           <did>
-            <container type="folder" label="Folder">1</container>
-            <unittitle>Diary <unitdate type="inclusive" normal="1918-07-14/1919-04-16">July 14, 1918-April 16, 1919</unitdate>, Diary, <unitdate type="inclusive" normal="1919-04-16/1919-07-19">April 16, 1919-July 19, 1919</unitdate>, Diary, transcription, <unitdate type="inclusive" normal="1918-07-14/1919-07-19">July 14, 1918-July 19, 1919</unitdate> and miscellaneous papers</unittitle>
+            <container type="folder" label="Folder [767883325478521950698571]" altrender="folder">1</container>
+            <unittitle>Diary July 14, 1918-April 16, 1919, Diary, April 16, 1919-July 19, 1919, Diary, transcription, July 14, 1918-July 19, 1919 and miscellaneous papers</unittitle>
+            <unitdate type="inclusive" normal="1918-07-14/1919-04-16">July 14, 1918-April 16, 1919</unitdate>
+            <unitdate type="inclusive" normal="1919-04-16/1919-07-19">April 16, 1919-July 19, 1919</unitdate>
+            <unitdate type="inclusive" normal="1918-07-14/1919-07-19">July 14, 1918-July 19, 1919</unitdate>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">1 volumes</extent>
             </physdesc>

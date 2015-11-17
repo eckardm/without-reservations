@@ -26,7 +26,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Frank Thomas Newton Papers, 1900-1931</titleproper>
       <author>Finding aid created by <lb/>Michigan Historical Collections staff</author>
     </titlepage>
@@ -76,19 +76,19 @@ Frank Thomas Newton Papers
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <subject source="lcsh" encodinganalog="650">Elections--Michigan--1906.</subject>
-        <subject source="lcsh" encodinganalog="650">Elections--Michigan--1910.</subject>
-        <subject source="lcsh" encodinganalog="650">Elections--Michigan--1912.</subject>
-        <subject source="lcsh" encodinganalog="650">Elections--Michigan--1918.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6678">Elections--Michigan--1906.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6196">Elections--Michigan--1910.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6197">Elections--Michigan--1912.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6200">Elections--Michigan--1918.</subject>
         <corpname source="lcnaf" encodinganalog="610">Jackson Automobile Company.</corpname>
-        <subject source="lcsh" encodinganalog="650">Law enforcement--Michigan--Washtenaw County.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/9532">Law enforcement--Michigan--Washtenaw County.</subject>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n79059059">Michigan. Legislature.</corpname>
-        <geogname source="local" encodinganalog="691">Michigan--Politics and government--1899-1916.</geogname>
-        <geogname source="local" encodinganalog="691">Michigan--Politics and government--1917-1921.</geogname>
+        <geogname source="local" encodinganalog="691" ref="/subjects/806">Michigan--Politics and government--1899-1916.</geogname>
+        <geogname source="local" encodinganalog="691" ref="/subjects/807">Michigan--Politics and government--1917-1921.</geogname>
         <persname source="lcnaf" encodinganalog="600">Newton, Frank Thomas, 1867-1931.</persname>
         <corpname source="lcnaf" encodinganalog="610">Republican Party (Mich.)</corpname>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n80006284.html">Ypsilanti (Mich.)</geogname>
-        <geogname source="lcsh" encodinganalog="651">Michigan--Politics and government--1837-1950.</geogname>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n80006284.html" ref="/subjects/999">Ypsilanti (Mich.)</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/884">Michigan--Politics and government--1837-1950.</geogname>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Materials:</head>
@@ -110,7 +110,7 @@ Frank Thomas Newton Papers
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -120,7 +120,7 @@ Frank Thomas Newton Papers
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [4897772149409316]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive">Undated</unitdate>
               <unitdate type="inclusive" normal="1900/1931">1900-1931</unitdate>
@@ -137,19 +137,19 @@ Frank Thomas Newton Papers
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [4897772149409316]" altrender="box">1</container>
             <unittitle>Newton &amp; Haggerty Ladder Company papers <unitdate type="inclusive" normal="1906/1919">1906-1919</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [4897772149409316]" altrender="box">1</container>
             <unittitle>Miscellaneous</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [4897772149409316]" altrender="box">1</container>
             <unittitle>
               <genreform normal="Photographs">Photographs</genreform>
             </unittitle>
@@ -166,37 +166,37 @@ Frank Thomas Newton Papers
         <item>
           <corpname>Jackson Automobile Company</corpname>
           <list type="simple">
-            <item>1912-1917</item>
+            <item altrender="skip">1912-1917</item>
           </list>
         </item>
         <item>
           <persname>Kelley, Patrick Henry, 1867-1925.</persname>
           <list type="simple">
-            <item>1909, March 28, 1910, April 21, 1910, February 1, 1911, May 14, 1912, October 28, 1912</item>
+            <item altrender="skip">1909, March 28, 1910, April 21, 1910, February 1, 1911, May 14, 1912, October 28, 1912</item>
           </list>
         </item>
         <item>
           <persname>Smith, William Alden, 1859-1932</persname>
           <list type="simple">
-            <item>1912</item>
+            <item altrender="skip">1912</item>
           </list>
         </item>
         <item>
           <persname>Townsend Charles Elroy, 1856-1924</persname>
           <list type="simple">
-            <item>November 15, 1904, September 15, 1905, 1906, 1909-1913, August 10, 1918</item>
+            <item altrender="skip">November 15, 1904, September 15, 1905, 1906, 1909-1913, August 10, 1918</item>
           </list>
         </item>
         <item>
           <persname>Warner, Fred Maltby, 1865-1923</persname>
           <list type="simple">
-            <item>June 24, 1910, November 9, 1910, November 15, 1912</item>
+            <item altrender="skip">June 24, 1910, November 9, 1910, November 15, 1912</item>
           </list>
         </item>
         <item>
           <persname>Wedemeyer, William Walter, 1873-1913</persname>
           <list type="simple">
-            <item>March 7, 1905, March 11, 1905, March 31, 1905, 1909-1912</item>
+            <item altrender="skip">March 7, 1905, March 11, 1905, March 31, 1905, 1909-1912</item>
           </list>
         </item>
       </list>

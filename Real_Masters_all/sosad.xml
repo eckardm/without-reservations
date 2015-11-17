@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Save Our Sons and Daughters (Organization) <lb/>Records, 1987-1992</titleproper>
       <author>Finding aid created by <lb/>Paula Jabloner, July 1992</author>
     </titlepage>
@@ -79,22 +79,22 @@ Save Our Sons and Daughters (Organization) records, Bentley Historical Library, 
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n79045539.html">Detroit (Mich.)</geogname>
-        <subject source="lcsh" encodinganalog="650">Murder--Michigan--Detroit.</subject>
-        <subject source="lcsh" encodinganalog="650">Juvenile delinquency--Michigan--Detroit.</subject>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n79045539.html" ref="/subjects/933">Detroit (Mich.)</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/10149">Murder--Michigan--Detroit.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/10150">Juvenile delinquency--Michigan--Detroit.</subject>
         <corpname source="lcnaf" encodinganalog="610">Save Our Sons and Daughters (Organization)</corpname>
-        <subject source="lcsh" encodinganalog="650">Violence in children.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/10151">Violence in children.</subject>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Materials:</head>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n79045539.html">Detroit (Mich.)</geogname>
-        <subject source="lctgm" encodinganalog="650">Juvenile delinquents.</subject>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n79045539.html" ref="/subjects/933">Detroit (Mich.)</geogname>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/5347">Juvenile delinquents.</subject>
         <corpname source="lcnaf" encodinganalog="610">Save Our Sons and Daughters (Organization)</corpname>
-        <subject source="lctgm" encodinganalog="650">Violence.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/5348">Violence.</subject>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Videotapes.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3140">Videotapes.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -113,7 +113,7 @@ Save Our Sons and Daughters (Organization) records, Bentley Historical Library, 
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [9906334748308872604683]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1987/1988">1987-1988</unitdate>
               </unittitle>
@@ -121,7 +121,7 @@ Save Our Sons and Daughters (Organization) records, Bentley Historical Library, 
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [9906334748308872604683]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1989/1992">1989-1992</unitdate>
               </unittitle>
@@ -130,37 +130,39 @@ Save Our Sons and Daughters (Organization) records, Bentley Historical Library, 
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [9906334748308872604683]" altrender="box">1</container>
             <unittitle>Arms Around the Children Campaign <unitdate type="inclusive" normal="1989/1990">1989-1990</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <unittitle>Background Materials <unitdate type="inclusive" normal="1986">1986</unitdate>, <unitdate type="inclusive" normal="1992">1992</unitdate></unittitle>
+            <container type="box" label="Box [9906334748308872604683]" altrender="box">1</container>
+            <unittitle>Background Materials</unittitle>
+            <unitdate type="inclusive" normal="1986">1986</unitdate>
+            <unitdate type="inclusive" normal="1992">1992</unitdate>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [9906334748308872604683]" altrender="box">1</container>
             <unittitle>By-Laws <unitdate type="inclusive">undated</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [9906334748308872604683]" altrender="box">1</container>
             <unittitle>Central Valley SOSAD (Fresno, CA) <unitdate type="inclusive" normal="1991">1991</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [9906334748308872604683]" altrender="box">1</container>
             <unittitle>Children's Death Statistics <unitdate type="inclusive">undated</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [9906334748308872604683]" altrender="box">1</container>
             <unittitle>Children's Essays on Peace <unitdate type="inclusive" normal="1990">1990</unitdate></unittitle>
           </did>
         </c02>
@@ -170,19 +172,19 @@ Save Our Sons and Daughters (Organization) records, Bentley Historical Library, 
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [9906334748308872604683]" altrender="box">1</container>
               <unittitle>The Children and Youth Initiative of Detroit/Wayne County</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [9906334748308872604683]" altrender="box">1</container>
               <unittitle>City of Detroit City Council Youth Advisory Commission <unitdate type="inclusive" normal="1987/1989">1987-1989</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [9906334748308872604683]" altrender="box">1</container>
               <unittitle>Detroit Strategic Plan Crime Task Force <unitdate type="inclusive" normal="1987">1987</unitdate></unittitle>
             </did>
           </c03>
@@ -192,20 +194,20 @@ Save Our Sons and Daughters (Organization) records, Bentley Historical Library, 
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [9906334748308872604683]" altrender="box">1</container>
                 <unittitle>Detroit Metropolitan Area <unitdate type="inclusive" normal="1987/1990">1987-1990</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [9906334748308872604683]" altrender="box">1</container>
                 <unittitle>Lansing Metropolitan Area <unitdate type="inclusive" normal="1987/1990">1987-1990</unitdate></unittitle>
               </did>
             </c04>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [9906334748308872604683]" altrender="box">1</container>
               <unittitle>P.E.O.P.L.E.'s Party Platform (Detroit) <unitdate type="inclusive" normal="1989">1989</unitdate> (People for Empowerment, Openness, Principled Leadership, and Excellence in Government)</unittitle>
             </did>
           </c03>
@@ -215,13 +217,13 @@ Save Our Sons and Daughters (Organization) records, Bentley Historical Library, 
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [9906334748308872604683]" altrender="box">1</container>
                 <unittitle>Background Materials</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [9906334748308872604683]" altrender="box">1</container>
                 <unittitle>Board of Directors Minutes <unitdate type="inclusive" normal="1988/1989">1988-1989</unitdate></unittitle>
               </did>
             </c04>
@@ -233,26 +235,26 @@ Save Our Sons and Daughters (Organization) records, Bentley Historical Library, 
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [9906334748308872604683]" altrender="box">1</container>
               <unittitle>Handouts <unitdate type="inclusive">undated</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [9906334748308872604683]" altrender="box">1</container>
               <unittitle>Programs <unitdate type="inclusive">undated</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [9906334748308872604683]" altrender="box">1</container>
               <unittitle>Student Therapists <unitdate type="inclusive" normal="1990">1990</unitdate></unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [9906334748308872604683]" altrender="box">1</container>
             <unittitle>Financial Records <unitdate type="inclusive" normal="1987/1989">1987-1989</unitdate></unittitle>
           </did>
           <odd>
@@ -261,7 +263,7 @@ Save Our Sons and Daughters (Organization) records, Bentley Historical Library, 
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [9906334748308872604683]" altrender="box">1</container>
             <unittitle>Fundraising "Plan-of-Action," <unitdate type="inclusive" normal="1989">1989</unitdate></unittitle>
           </did>
         </c02>
@@ -271,7 +273,7 @@ Save Our Sons and Daughters (Organization) records, Bentley Historical Library, 
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [9906334748308872604683]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1987">1987</unitdate>
               </unittitle>
@@ -279,7 +281,7 @@ Save Our Sons and Daughters (Organization) records, Bentley Historical Library, 
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [9906334748308872604683]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1988">1988</unitdate>
               </unittitle>
@@ -287,7 +289,7 @@ Save Our Sons and Daughters (Organization) records, Bentley Historical Library, 
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [9906334748308872604683]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1989">1989</unitdate>
               </unittitle>
@@ -295,7 +297,7 @@ Save Our Sons and Daughters (Organization) records, Bentley Historical Library, 
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [9906334748308872604683]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1990">1990</unitdate>
               </unittitle>
@@ -304,13 +306,15 @@ Save Our Sons and Daughters (Organization) records, Bentley Historical Library, 
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <unittitle>Memorial Brunch <unitdate type="inclusive" normal="1990-12">December, 1990</unitdate>, <unitdate type="inclusive" normal="1991">1991</unitdate></unittitle>
+            <container type="box" label="Box [9906334748308872604683]" altrender="box">1</container>
+            <unittitle>Memorial Brunch</unittitle>
+            <unitdate type="inclusive" normal="1990-12">December, 1990</unitdate>
+            <unitdate type="inclusive" normal="1991">1991</unitdate>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [9906334748308872604683]" altrender="box">1</container>
             <unittitle>Memorial Services <unitdate type="inclusive" normal="1988/1991">1988-1991</unitdate></unittitle>
           </did>
         </c02>
@@ -320,80 +324,82 @@ Save Our Sons and Daughters (Organization) records, Bentley Historical Library, 
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [9906334748308872604683]" altrender="box">1</container>
               <unittitle>Economics Committee <unitdate type="inclusive" normal="1988">1988</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [9906334748308872604683]" altrender="box">1</container>
               <unittitle>Executive Board <unitdate type="inclusive" normal="1987/1988">1987-1988</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
-              <unittitle>General Membership <unitdate type="inclusive" normal="1987/1989">1987-1989</unitdate>, <unitdate type="inclusive" normal="1991">1991</unitdate></unittitle>
+              <container type="box" label="Box [9906334748308872604683]" altrender="box">1</container>
+              <unittitle>General Membership</unittitle>
+              <unitdate type="inclusive" normal="1987/1989">1987-1989</unitdate>
+              <unitdate type="inclusive" normal="1991">1991</unitdate>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [9906334748308872604683]" altrender="box">1</container>
               <unittitle>Social Issues Committee <unitdate type="inclusive" normal="1987">1987</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [9906334748308872604683]" altrender="box">1</container>
               <unittitle>Staff Meetings <unitdate type="inclusive" normal="1990-09-28/1992-01-15">September 28, 1990-January 15, 1992</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [9906334748308872604683]" altrender="box">1</container>
               <unittitle>Steering Committee <unitdate type="inclusive" normal="1987/1991">1987-1991</unitdate></unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [9906334748308872604683]" altrender="box">1</container>
             <unittitle>Miscellaneous</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [9906334748308872604683]" altrender="box">1</container>
             <unittitle>Newsletters <unitdate type="inclusive" normal="1987/1992">1987-1992</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [9906334748308872604683]" altrender="box">1</container>
             <unittitle>Proposal to Add Three New Programs to the Existing Youth Programs of SOSAD <unitdate type="inclusive">undated</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [9906334748308872604683]" altrender="box">1</container>
             <unittitle>Questionnaires <unitdate type="inclusive">undated</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [9906334748308872604683]" altrender="box">1</container>
             <unittitle><title render="italic">SOSAD: The Emergence of an Organization to Stop Kids Killing Kids in Detroit</title>, <unitdate type="inclusive" normal="1989">1989</unitdate> (by Mary Lou Dietz and S. Rani Dronamraju, University of Windsor, presented at the North Central Sociological Association Meeting)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [9906334748308872604683]" altrender="box">1</container>
             <unittitle>Testimony of SOSAD to U.S. House Subcommittee on Criminal Justice <unitdate type="inclusive" normal="1987-12-11">December 11, 1987</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [9906334748308872604683]" altrender="box">1</container>
             <unittitle>Youth Programs <unitdate type="inclusive" normal="1988/1990">1988-1990</unitdate></unittitle>
           </did>
         </c02>
@@ -407,7 +413,7 @@ Save Our Sons and Daughters (Organization) records, Bentley Historical Library, 
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [502900524927838840909]" altrender="box">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1987">1987</unitdate>
             </unittitle>
@@ -415,7 +421,7 @@ Save Our Sons and Daughters (Organization) records, Bentley Historical Library, 
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [502900524927838840909]" altrender="box">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1988">1988</unitdate>
             </unittitle>
@@ -426,7 +432,7 @@ Save Our Sons and Daughters (Organization) records, Bentley Historical Library, 
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [502900524927838840909]" altrender="box">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1989">1989</unitdate>
             </unittitle>
@@ -443,13 +449,13 @@ Save Our Sons and Daughters (Organization) records, Bentley Historical Library, 
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [502900524927838840909]" altrender="box">2</container>
               <unittitle>outgoing</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [502900524927838840909]" altrender="box">2</container>
               <unittitle>incoming</unittitle>
             </did>
           </c03>
@@ -462,20 +468,20 @@ Save Our Sons and Daughters (Organization) records, Bentley Historical Library, 
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [502900524927838840909]" altrender="box">2</container>
               <unittitle>outgoing</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [502900524927838840909]" altrender="box">2</container>
               <unittitle>incoming</unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [502900524927838840909]" altrender="box">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1992">1992</unitdate>
             </unittitle>
@@ -483,25 +489,25 @@ Save Our Sons and Daughters (Organization) records, Bentley Historical Library, 
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [502900524927838840909]" altrender="box">2</container>
             <unittitle>Barfield, Personal <unitdate type="inclusive" normal="1987/1990">1987-1990</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [502900524927838840909]" altrender="box">2</container>
             <unittitle>Bondy, Patricia (Bereavement Counselor, outgoing correspondence) <unitdate type="inclusive" normal="1990">1990</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [502900524927838840909]" altrender="box">2</container>
             <unittitle>Form Letters <unitdate type="inclusive">undated</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [502900524927838840909]" altrender="box">2</container>
             <unittitle>Incarcerated Youth (incoming correspondence from) <unitdate type="inclusive" normal="1990/1991">1990-1991</unitdate></unittitle>
           </did>
         </c02>
@@ -515,8 +521,11 @@ Save Our Sons and Daughters (Organization) records, Bentley Historical Library, 
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
-            <unittitle><genreform normal="Videotapes">Videotape</genreform> (VHS): includes <title render="italic">Stop the Madness</title>, <unitdate type="inclusive" normal="1989">1989</unitdate> news footage of New Years Eve Memorial Service, WDIV-Detroit, <unitdate type="inclusive" normal="1990-12">December 1990</unitdate>, and <title render="italic">Fire in Their Hearts</title>, <unitdate type="inclusive" normal="1990" certainty="approximate">1990</unitdate></unittitle>
+            <container type="box" label="Box [502900524927838840909]" altrender="box">2</container>
+            <unittitle><genreform normal="Videotapes">Videotape</genreform> (VHS): includes <title render="italic">Stop the Madness</title>, 1989 news footage of New Years Eve Memorial Service, WDIV-Detroit, December 1990, and <title render="italic">Fire in Their Hearts</title>, 1990</unittitle>
+            <unitdate type="inclusive" normal="1989">1989</unitdate>
+            <unitdate type="inclusive" normal="1990-12">December 1990</unitdate>
+            <unitdate type="inclusive" normal="1990" certainty="approximate">1990</unitdate>
           </did>
           <odd>
             <p>(DVD use copy available)</p>

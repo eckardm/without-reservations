@@ -31,7 +31,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Florence Ernestine Schleicher Teed papers <lb/>ca. 1860-ca. 1890 and 1919-1953</titleproper>
       <author>Finding aid created by <lb/>Michigan Historical Collections staff</author>
     </titlepage>
@@ -41,7 +41,9 @@
       <origination>
         <persname source="lcnaf" encodinganalog="100">Teed, Florence Ernestine Schleicher, 1901-1954.</persname>
       </origination>
-      <unittitle encodinganalog="245">Florence Ernestine Schleicher Teed papers <unitdate type="inclusive" encodinganalog="245$f" normal="1860/1890" certainty="approximate">circa 1860-1890</unitdate>, <unitdate type="inclusive" encodinganalog="245$f" normal="1919/1953">1919-1953</unitdate></unittitle>
+      <unittitle encodinganalog="245">Florence Ernestine Schleicher Teed papers</unittitle>
+      <unitdate type="inclusive" encodinganalog="245$f" normal="1860/1890" certainty="approximate">circa 1860-1890</unitdate>
+      <unitdate type="inclusive" encodinganalog="245$f" normal="1919/1953">1919-1953</unitdate>
       <unitid encodinganalog="852$h" repositorycode="MiU-H" countrycode="us" type="call number">86103 Aa 2</unitid>
       <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language></langmaterial>
       <abstract>Graduate of University of Michigan and ordained Methodist minister. Correspondence; Sermons and other inspirational writings; Course materials, Published materials; and Photographs.</abstract>
@@ -87,31 +89,31 @@ Florence Ernestine Schleicher Teed papers, Bentley Historical Library, Universit
       <controlaccess>
         <head>Subjects:</head>
         <corpname source="lcnaf" encodinganalog="610">American Association of Women Ministers.</corpname>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n79022219.html">Ann Arbor (Mich.)</geogname>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n79022219.html" ref="/subjects/860">Ann Arbor (Mich.)</geogname>
         <corpname source="lcnaf" encodinganalog="610">Christian Witness and Advocate of Bible Holiness.</corpname>
-        <subject source="lcsh" encodinganalog="650">Clergy--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5682">Clergy--Michigan.</subject>
         <corpname source="lcnaf" encodinganalog="610">Detroit Holiness Association.</corpname>
         <corpname source="lcnaf" encodinganalog="610">Detroit Holiness Tabernacle (Mich.)</corpname>
         <corpname source="lcnaf" encodinganalog="610">First Methodist Church (Ann Arbor, Mich.)</corpname>
-        <subject source="lcsh" encodinganalog="630">The Free Methodist.</subject>
-        <subject source="lcsh" encodinganalog="630">God's revivalist and bible advocate.</subject>
-        <subject source="lcsh" encodinganalog="630">Heart and life.</subject>
+        <subject source="lcsh" encodinganalog="630" ref="/subjects/10337">The Free Methodist.</subject>
+        <subject source="lcsh" encodinganalog="630" ref="/subjects/10338">God's revivalist and bible advocate.</subject>
+        <subject source="lcsh" encodinganalog="630" ref="/subjects/10339">Heart and life.</subject>
         <corpname source="lcnaf" encodinganalog="610">Methodist Church. Woman's Society of Christian Service.</corpname>
         <corpname source="lcnaf" encodinganalog="610">Michigan Association for the Promotion of Holiness.</corpname>
-        <subject source="lcsh" encodinganalog="650">Women--Religious life--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6328">Women--Religious life--Michigan.</subject>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan. Class of 1926.</corpname>
-        <subject source="lcsh" encodinganalog="630">The Woman's pulpit.</subject>
-        <subject source="lcsh" encodinganalog="650">Women's rights--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="630" ref="/subjects/10340">The Woman's pulpit.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6223">Women's rights--Michigan.</subject>
         <persname source="lcnaf" encodinganalog="600">Teed, Florence Ernestine Schleicher, 1901-1954.</persname>
-        <subject source="lcsh" encodinganalog="650">Women clergy--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7397">Women clergy--Michigan.</subject>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Materials:</head>
-        <subject source="lctgm" encodinganalog="650">Children.</subject>
-        <subject source="lctgm" encodinganalog="650">Families.</subject>
-        <subject source="lcsh" encodinganalog="650">German Americans--Michigan.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3622">Children.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3923">Families.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5827">German Americans--Michigan.</subject>
         <famname source="lcnaf" encodinganalog="600">Schleicher family.</famname>
-        <subject source="lctgm" encodinganalog="650">Women.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3619">Women.</subject>
       </controlaccess>
       <controlaccess>
         <head>Contributors:</head>
@@ -122,10 +124,10 @@ Florence Ernestine Schleicher Teed papers, Bentley Historical Library, Universit
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="gmgpc" encodinganalog="655">Ambrotypes.</genreform>
-        <genreform source="gmgpc" encodinganalog="655">Daguerreotypes.</genreform>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
-        <genreform source="aat" encodinganalog="655">Sermons.</genreform>
+        <genreform source="gmgpc" encodinganalog="655" ref="/subjects/3469">Ambrotypes.</genreform>
+        <genreform source="gmgpc" encodinganalog="655" ref="/subjects/3480">Daguerreotypes.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3191">Sermons.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -135,37 +137,37 @@ Florence Ernestine Schleicher Teed papers, Bentley Historical Library, Universit
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [822464382557097712]" altrender="box">1</container>
             <unittitle>Correspondence <unitdate type="inclusive" normal="1919/1930">1919-1930</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [822464382557097712]" altrender="box">1</container>
             <unittitle>Correspondence <unitdate type="inclusive" normal="1931/1940">1931-1940</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [822464382557097712]" altrender="box">1</container>
             <unittitle>Correspondence <unitdate type="inclusive" normal="1941/1945">1941-1945</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [822464382557097712]" altrender="box">1</container>
             <unittitle>Correspondence <unitdate type="inclusive" normal="1946/1950">1946-1950</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [822464382557097712]" altrender="box">1</container>
             <unittitle>Correspondence <unitdate type="inclusive" normal="1951/1953">1951-1953</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [822464382557097712]" altrender="box">1</container>
             <unittitle>Correspondence <unitdate type="inclusive">undated</unitdate></unittitle>
           </did>
         </c02>
@@ -176,37 +178,37 @@ Florence Ernestine Schleicher Teed papers, Bentley Historical Library, Universit
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [822464382557097712]" altrender="box">1</container>
             <unittitle><genreform normal="Sermons">Sermons</genreform>, by Mrs. Teed</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [822464382557097712]" altrender="box">1</container>
             <unittitle>Religious and inspirational writings by Mrs. Teed</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [822464382557097712]" altrender="box">1</container>
             <unittitle>Published articles and book <title render="italic">The Challenge of Christ</title> <unitdate type="inclusive" normal="1928">1928</unitdate>, by Mrs. Teed</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [822464382557097712]" altrender="box">1</container>
             <unittitle>Manuscript of book, Faith for Living, by Mrs. Teed</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [822464382557097712]" altrender="box">1</container>
             <unittitle>Non-religious writings by Mrs. Teed</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [822464382557097712]" altrender="box">1</container>
             <unittitle>Miscellaneous outlines and inspirational writings</unittitle>
           </did>
         </c02>
@@ -217,13 +219,13 @@ Florence Ernestine Schleicher Teed papers, Bentley Historical Library, Universit
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [822464382557097712]" altrender="box">1</container>
             <unittitle>Tests, course outlines, and term papers <unitdate type="inclusive" normal="1924/1927">1924-1927</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [822464382557097712]" altrender="box">1</container>
             <unittitle>Tests and term papers <unitdate type="inclusive">undated</unitdate></unittitle>
           </did>
         </c02>
@@ -234,109 +236,109 @@ Florence Ernestine Schleicher Teed papers, Bentley Historical Library, Universit
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [2052969041431034022782209]" altrender="box">2</container>
             <unittitle><genreform normal="Sermons">Sermons</genreform>, articles and other material, by Paul S. Rees</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [2052969041431034022782209]" altrender="box">2</container>
             <unittitle><genreform normal="Sermons">Sermons</genreform>, articles and other material, by Joseph H. Smith</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [2052969041431034022782209]" altrender="box">2</container>
             <unittitle><genreform normal="Sermons">Sermons</genreform> by Ralph W. Sockman</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [2052969041431034022782209]" altrender="box">2</container>
             <unittitle>Miscellaneous sermons and religious writings</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [2052969041431034022782209]" altrender="box">2</container>
             <unittitle>Detroit Holiness Association newsletter: The Tabernacle Tidings</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [2052969041431034022782209]" altrender="box">2</container>
             <unittitle>Periodical articles: Christian Witness and Advocate of Bible Holiness</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [2052969041431034022782209]" altrender="box">2</container>
             <unittitle>Periodical articles: Heart and Life</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [2052969041431034022782209]" altrender="box">2</container>
             <unittitle>Periodical articles: The Christian Advocate</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [2052969041431034022782209]" altrender="box">2</container>
             <unittitle>Periodical articles: Michigan Christian Advocate</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [2052969041431034022782209]" altrender="box">2</container>
             <unittitle>Periodical articles: The Pentecostal Herald</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [2052969041431034022782209]" altrender="box">2</container>
             <unittitle>Periodical articles: God's Revivalist, and Bible Advocate</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [2052969041431034022782209]" altrender="box">2</container>
             <unittitle>Periodical articles: The Free Methodist</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [2052969041431034022782209]" altrender="box">2</container>
             <unittitle>Miscellaneous religious periodical articles <unitdate type="inclusive" normal="1900/1949">1900-1949</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [2052969041431034022782209]" altrender="box">2</container>
             <unittitle>Miscellaneous religious periodical articles <unitdate type="inclusive">undated</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [2052969041431034022782209]" altrender="box">2</container>
             <unittitle>Printed miscellanea: inspirational clippings</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [2052969041431034022782209]" altrender="box">2</container>
             <unittitle>Printed miscellanea: clippings from secular periodicals</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [2052969041431034022782209]" altrender="box">2</container>
             <unittitle>Pamphlets</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [2052969041431034022782209]" altrender="box">2</container>
             <unittitle>Miscellanea</unittitle>
           </did>
         </c02>
@@ -347,7 +349,7 @@ Florence Ernestine Schleicher Teed papers, Bentley Historical Library, Universit
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [79673447374148929258]" altrender="box">3</container>
             <unittitle>Unidentified woman, seated, 3/4 view</unittitle>
             <physdesc>
               <physfacet>
@@ -358,7 +360,7 @@ Florence Ernestine Schleicher Teed papers, Bentley Historical Library, Universit
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [79673447374148929258]" altrender="box">3</container>
             <unittitle>Three female Schleicher children: Anna Maria, Cristiana Elisabeth, and Martha</unittitle>
             <physdesc>
               <physfacet>
@@ -369,7 +371,7 @@ Florence Ernestine Schleicher Teed papers, Bentley Historical Library, Universit
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [79673447374148929258]" altrender="box">3</container>
             <unittitle>Young man: Heinrich ? or Friedrich ? Schleicher</unittitle>
             <physdesc>
               <physfacet>
@@ -380,7 +382,7 @@ Florence Ernestine Schleicher Teed papers, Bentley Historical Library, Universit
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [79673447374148929258]" altrender="box">3</container>
             <unittitle>Gottlob Friedrich and wife and daughter <unitdate type="inclusive" normal="1860" certainty="approximate">circa 1860</unitdate></unittitle>
             <physdesc>
               <physfacet>
@@ -391,7 +393,7 @@ Florence Ernestine Schleicher Teed papers, Bentley Historical Library, Universit
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [79673447374148929258]" altrender="box">3</container>
             <unittitle>Three male Schleicher children: Louis, Carl, Friedrich</unittitle>
             <physdesc>
               <physfacet>

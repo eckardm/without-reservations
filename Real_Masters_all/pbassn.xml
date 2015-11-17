@@ -34,7 +34,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding Aid for <lb/>Polar Bear Association photograph collection, <date>1930</date></titleproper>
       <author>Finding aid prepared by: <lb/>Len Coombs</author>
     </titlepage>
@@ -76,21 +76,21 @@
       </p>
       <controlaccess>
         <head>Subjects</head>
-        <geogname source="lcsh" encodinganalog="651">Soviet Union--History--Allied intervention, 1918-1920.</geogname>
-        <subject source="lcsh" encodinganalog="650">World War, 1914-1918.</subject>
-        <subject source="local" encodinganalog="690" authfilenumber="http://id.loc.gov/authorities/names/n2008059426">Polar Bear Expedition.</subject>
-        <subject source="lctgm" encodinganalog="650">Cemeteries--Michigan--Troy.</subject>
-        <subject source="lctgm" encodinganalog="650">Funeral rites and ceremonies.</subject>
-        <subject source="lctgm" encodinganalog="650">Lying in state.</subject>
-        <subject source="lctgm" encodinganalog="650">Military personnel.</subject>
-        <subject source="lctgm" encodinganalog="650">Monuments and memorials--Michigan--Troy.</subject>
-        <geogname source="lctgm" encodinganalog="651">Troy (Mich.)--Cemeteries.</geogname>
-        <geogname source="lctgm" encodinganalog="651">Troy (Mich.)--Monuments and memorials.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/883">Soviet Union--History--Allied intervention, 1918-1920.</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5712">World War, 1914-1918.</subject>
+        <subject source="local" encodinganalog="690" authfilenumber="http://id.loc.gov/authorities/names/n2008059426" ref="/subjects/3518">Polar Bear Expedition.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/5123">Cemeteries--Michigan--Troy.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3699">Funeral rites and ceremonies.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/5011">Lying in state.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/5124">Military personnel.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/5125">Monuments and memorials--Michigan--Troy.</subject>
+        <geogname source="lctgm" encodinganalog="651" ref="/subjects/636">Troy (Mich.)--Cemeteries.</geogname>
+        <geogname source="lctgm" encodinganalog="651" ref="/subjects/637">Troy (Mich.)--Monuments and memorials.</geogname>
         <corpname source="lcnaf" encodinganalog="610">White Chapel Memorial Park Cemetery (Troy, Mich.)</corpname>
       </controlaccess>
       <controlaccess>
         <head>Genre/Form:</head>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -100,7 +100,7 @@
         </did>
         <c02 level="file">
           <did>
-            <container type="folder" label="Folder">1</container>
+            <container type="folder" label="Folder [26730077747972781531384]" altrender="folder">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1930">1930</unitdate>
             </unittitle>

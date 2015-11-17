@@ -30,7 +30,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>University Archives and Records Program <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/2">University Archives and Records Program <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Academics for Affirmative Action and Social Justice <lb/>Records, 1997-2000</titleproper>
       <author>Finding aid created by <lb/>Joel A. Blanco, April 2003</author>
     </titlepage>
@@ -86,15 +86,15 @@ Academics for Affirmative Action and Social Justice (University of Michigan) Rec
       <controlaccess>
         <head>Subjects:</head>
         <corpname source="lcnaf" encodinganalog="610">Academics for Affirmative Action and Social Justice.</corpname>
-        <subject source="lcsh" encodinganalog="650">Multicultural education.</subject>
-        <subject source="lcsh" encodinganalog="650">Affirmative action programs--Michigan--Ann Arbor.</subject>
-        <subject source="lcsh" encodinganalog="650">Universities and colleges--Admission.</subject>
-        <subject source="lcsh" encodinganalog="650">Discrimination in education.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5654">Multicultural education.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5655">Affirmative action programs--Michigan--Ann Arbor.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5656">Universities and colleges--Admission.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5657">Discrimination in education.</subject>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan--Students--Political activity.</corpname>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Videotapes.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3140">Videotapes.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -104,13 +104,15 @@ Academics for Affirmative Action and Social Justice (University of Michigan) Rec
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <unittitle>Background Information, n. d. <unitdate type="inclusive" normal="1998">1998</unitdate>, <unitdate type="inclusive" normal="2000">2000</unitdate></unittitle>
+            <container type="box" label="Box [182437544418213100351027]" altrender="box">1</container>
+            <unittitle>Background Information, n. d.</unittitle>
+            <unitdate type="inclusive" normal="1998">1998</unitdate>
+            <unitdate type="inclusive" normal="2000">2000</unitdate>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [182437544418213100351027]" altrender="box">1</container>
             <unittitle>Correspondence <unitdate type="inclusive" normal="1997/2000">1997-2000</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">6 folders</extent>
@@ -119,31 +121,31 @@ Academics for Affirmative Action and Social Justice (University of Michigan) Rec
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [182437544418213100351027]" altrender="box">1</container>
             <unittitle>Events <unitdate type="inclusive" normal="1998">1998</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [182437544418213100351027]" altrender="box">1</container>
             <unittitle>Newsletter <title render="italic">Veritas</title>, <unitdate type="inclusive" normal="1998/1999">1998-1999</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [182437544418213100351027]" altrender="box">1</container>
             <unittitle>Statements and Essays, n. d. <unitdate type="inclusive" normal="2000">2000</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [182437544418213100351027]" altrender="box">1</container>
             <unittitle>Videotape (VHS): <title render="italic">It's All About Mike, AAASJ vs. Michigan Review</title> Debate, <unitdate type="inclusive" normal="2000">2000</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [182437544418213100351027]" altrender="box">1</container>
             <unittitle>AAASJ Pin (AAASJ working for = @ M)</unittitle>
           </did>
         </c02>

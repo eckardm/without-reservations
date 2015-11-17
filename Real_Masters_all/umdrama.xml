@@ -31,7 +31,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>University Archives and Records Program <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/2">University Archives and Records Program <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Drama Season <lb/>(University of Michigan) <lb/>Records, 1929-1966</titleproper>
       <author>Finding aid created by <lb/>Kathy L. Steiner, March 1996</author>
     </titlepage>
@@ -91,16 +91,16 @@ Drama Season (University of Michigan) records, Bentley Historical Library, Unive
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <subject encodinganalog="650" source="lcsh">Actors.</subject>
-        <geogname encodinganalog="651" source="lcsh" authfilenumber="http://id.loc.gov/authorities/names/n79022219.html">Ann Arbor (Mich.)</geogname>
+        <subject encodinganalog="650" source="lcsh" ref="/subjects/7824">Actors.</subject>
+        <geogname encodinganalog="651" source="lcsh" authfilenumber="http://id.loc.gov/authorities/names/n79022219.html" ref="/subjects/860">Ann Arbor (Mich.)</geogname>
         <corpname encodinganalog="610" source="lcnaf">Ann Arbor Drama Season.</corpname>
-        <subject encodinganalog="650" source="lcsh">Theater--Michigan--Ann Arbor.</subject>
+        <subject encodinganalog="650" source="lcsh" ref="/subjects/6869">Theater--Michigan--Ann Arbor.</subject>
         <corpname encodinganalog="610" source="lcnaf">University of Michigan--Dramatics.</corpname>
         <corpname encodinganalog="610" source="lcnaf">University of Michigan. Drama Season.</corpname>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Materials:</head>
-        <subject encodinganalog="650" source="lctgm">Theatrical productions.</subject>
+        <subject encodinganalog="650" source="lctgm" ref="/subjects/3871">Theatrical productions.</subject>
       </controlaccess>
       <controlaccess>
         <head>Contributors:</head>
@@ -110,8 +110,8 @@ Drama Season (University of Michigan) records, Bentley Historical Library, Unive
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform encodinganalog="655" source="aat">Photographs.</genreform>
-        <genreform encodinganalog="655" source="aat">Scrapbooks.</genreform>
+        <genreform encodinganalog="655" source="aat" ref="/subjects/3141">Photographs.</genreform>
+        <genreform encodinganalog="655" source="aat" ref="/subjects/3139">Scrapbooks.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -121,8 +121,9 @@ Drama Season (University of Michigan) records, Bentley Historical Library, Unive
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <unittitle><unitdate type="inclusive" normal="1938/1942">1938-1942</unitdate>, <unitdate type="inclusive" normal="1949/1952">1949-1952</unitdate></unittitle>
+            <container type="box" label="Box [5334946593653366365]" altrender="box">1</container>
+            <unitdate type="inclusive" normal="1938/1942">1938-1942</unitdate>
+            <unitdate type="inclusive" normal="1949/1952">1949-1952</unitdate>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">10 volumes</extent>
             </physdesc>
@@ -130,7 +131,7 @@ Drama Season (University of Michigan) records, Bentley Historical Library, Unive
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [84433540955577909021]" altrender="box">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1953/1961">1953-1961</unitdate>
             </unittitle>
@@ -146,26 +147,28 @@ Drama Season (University of Michigan) records, Bentley Historical Library, Unive
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [7017834232702552]" altrender="box">3</container>
             <unittitle>Board Meetings <unitdate type="inclusive" normal="1961/1964">1961-1964</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [7017834232702552]" altrender="box">3</container>
             <unittitle>Bylaws and Incorporation <unitdate type="inclusive" normal="1960">1960</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [7017834232702552]" altrender="box">3</container>
             <unittitle>Clippings <unitdate type="inclusive" normal="1957/1964">1957-1964</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
-            <unittitle>Correspondence <unitdate type="inclusive" normal="1931/1935">1931-1935</unitdate>, <unitdate type="inclusive" normal="1946/1951">1946-1951</unitdate></unittitle>
+            <container type="box" label="Box [7017834232702552]" altrender="box">3</container>
+            <unittitle>Correspondence</unittitle>
+            <unitdate type="inclusive" normal="1931/1935">1931-1935</unitdate>
+            <unitdate type="inclusive" normal="1946/1951">1946-1951</unitdate>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">3 folders</extent>
             </physdesc>
@@ -173,7 +176,7 @@ Drama Season (University of Michigan) records, Bentley Historical Library, Unive
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [7017834232702552]" altrender="box">3</container>
             <unittitle>Financial Records <unitdate type="inclusive" normal="1935/1964">1935-1964</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">8 folders</extent>
@@ -182,8 +185,10 @@ Drama Season (University of Michigan) records, Bentley Historical Library, Unive
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
-            <unittitle>Legal Papers <unitdate type="inclusive" normal="1949/1960">1949-1960</unitdate>, <unitdate type="inclusive" normal="1962">1962</unitdate></unittitle>
+            <container type="box" label="Box [7017834232702552]" altrender="box">3</container>
+            <unittitle>Legal Papers</unittitle>
+            <unitdate type="inclusive" normal="1949/1960">1949-1960</unitdate>
+            <unitdate type="inclusive" normal="1962">1962</unitdate>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">3 folders</extent>
             </physdesc>
@@ -191,13 +196,13 @@ Drama Season (University of Michigan) records, Bentley Historical Library, Unive
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [7017834232702552]" altrender="box">3</container>
             <unittitle>Miscellaneous <unitdate type="inclusive" normal="1934/1957">1934-1957</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [7017834232702552]" altrender="box">3</container>
             <unittitle>Press Releases <unitdate type="inclusive" normal="1960/1966" certainty="approximate">circa 1960-1966</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">4 folders</extent>
@@ -206,7 +211,7 @@ Drama Season (University of Michigan) records, Bentley Historical Library, Unive
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [7017834232702552]" altrender="box">3</container>
             <unittitle>Stage Drawing, Lydia Mendelssohn Theatre, Women's League Building, Ann Arbor, Michigan <unitdate type="inclusive">undated</unitdate></unittitle>
           </did>
         </c02>
@@ -217,19 +222,19 @@ Drama Season (University of Michigan) records, Bentley Historical Library, Unive
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [7017834232702552]" altrender="box">3</container>
             <unittitle>Album, Drama Season of <unitdate type="inclusive" normal="1955">1955</unitdate> (production photographs)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [7017834232702552]" altrender="box">3</container>
             <unittitle>Autographed: Lillian Gish and Billie Burke, cir <unitdate type="inclusive" normal="1950/1959" certainty="approximate">circa 1950s</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [7017834232702552]" altrender="box">3</container>
             <unittitle>Miscellaneous production photographs <unitdate type="inclusive" normal="1950/1959" certainty="approximate">circa 1950s</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -238,8 +243,9 @@ Drama Season (University of Michigan) records, Bentley Historical Library, Unive
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
-            <unittitle>"The Reluctant Debutante," <unitdate type="inclusive" normal="1957">1957</unitdate> "The Sleeping Prince," <unitdate type="inclusive" normal="1957">1957</unitdate> "Witness for the Prosecution," 1957.</unittitle>
+            <container type="box" label="Box [7017834232702552]" altrender="box">3</container>
+            <unittitle>"The Reluctant Debutante," 1957 "The Sleeping Prince," 1957 "Witness for the Prosecution," 1957.</unittitle>
+            <unitdate type="inclusive" normal="1957">1957</unitdate>
           </did>
         </c02>
       </c01>

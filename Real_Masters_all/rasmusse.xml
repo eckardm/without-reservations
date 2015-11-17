@@ -38,7 +38,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding Aid for <lb/>Roy Paul Rasmussen papers, <date>1918-1919 and undated.</date></titleproper>
       <author>Finding aid prepared by: <lb/>Len Coombs</author>
     </titlepage>
@@ -48,7 +48,9 @@
       <origination>
         <persname source="lcnaf" encodinganalog="100">Rasmussen, Roy Paul, 1893-1956.</persname>
       </origination>
-      <unittitle encodinganalog="245">Roy Paul Rasmussen papers <unitdate type="inclusive" encodinganalog="245$f" normal="1918/1919">1918-1919</unitdate>, <unitdate type="inclusive" encodinganalog="245$f">undated</unitdate></unittitle>
+      <unittitle encodinganalog="245">Roy Paul Rasmussen papers</unittitle>
+      <unitdate type="inclusive" encodinganalog="245$f" normal="1918/1919">1918-1919</unitdate>
+      <unitdate type="inclusive" encodinganalog="245$f">undated</unitdate>
       <abstract>Soldier from Hart, Mich., member of Co. H, 339th U.S. Infantry who served in the Allied intervention in Russia, 1918-1920, the "Polar Bear Expedition." Collection includes diary, undated narrative, and newspaper clipping from the Hart Journal describing his military training at Fort Custer, Michigan, and his combat experience in Russia; also visual materials.</abstract>
       <unitid countrycode="us" repositorycode="MiU-H" encodinganalog="099" type="call number">86719 Aa 1</unitid>
       <langmaterial>The materials are in <language encodinganalog="041" langcode="eng">English.</language></langmaterial>
@@ -90,13 +92,13 @@
       <controlaccess>
         <head>Subjects</head>
         <persname source="lcnaf" encodinganalog="600">Rasmussen, Roy Paul, 1893-1956.</persname>
-        <geogname source="lcsh" encodinganalog="651">Soviet Union--History--Allied intervention, 1918-1920.</geogname>
-        <subject source="lcsh" encodinganalog="650">World War, 1914-1918.</subject>
-        <subject source="local" encodinganalog="690" authfilenumber="http://id.loc.gov/authorities/names/n2008059426">Polar Bear Expedition.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/883">Soviet Union--History--Allied intervention, 1918-1920.</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5712">World War, 1914-1918.</subject>
+        <subject source="local" encodinganalog="690" authfilenumber="http://id.loc.gov/authorities/names/n2008059426" ref="/subjects/3518">Polar Bear Expedition.</subject>
       </controlaccess>
       <controlaccess>
         <head>Genre/Form:</head>
-        <genreform source="aat" encodinganalog="655">Diaries.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3150">Diaries.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -106,8 +108,10 @@
         </did>
         <c02 level="file">
           <did>
-            <container type="folder" label="Folder">1</container>
-            <unittitle>Papers <unitdate type="inclusive" normal="1918/1919">1918-1919</unitdate>, <unitdate type="inclusive">undated</unitdate></unittitle>
+            <container type="folder" label="Folder [579527416951207681969]" altrender="folder">1</container>
+            <unittitle>Papers</unittitle>
+            <unitdate type="inclusive" normal="1918/1919">1918-1919</unitdate>
+            <unitdate type="inclusive">undated</unitdate>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">3 items</extent>
             </physdesc>
@@ -120,12 +124,12 @@
         </did>
         <c02 level="file">
           <did>
-            <container type="folder" label="Folder">2</container>
+            <container type="folder" label="Folder [5008044922991028]" altrender="folder">2</container>
             <unittitle>Portrait of Rasmussen <unitdate type="inclusive" normal="1918" certainty="approximate">circa 1918</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">1 digital files</extent>
             </physdesc>
-            <dao show="new" actuate="onrequest" href="rasmussenrp0002">
+            <dao show="new" actuate="onRequest" href="rasmussenrp0002" ref="/repositories/2/digital_objects/8540">
               <daodesc>
                 <p>[view items]</p>
               </daodesc>

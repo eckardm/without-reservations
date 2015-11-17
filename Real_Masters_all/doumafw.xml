@@ -34,7 +34,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding Aid for <lb/>Frank W. Douma diary, <date>1918-1919 and 1959.</date></titleproper>
       <author>Finding aid prepared by: <lb/>Len Coombs</author>
     </titlepage>
@@ -44,7 +44,9 @@
       <origination>
         <persname source="lcnaf" encodinganalog="100">Douma, Frank W., 1893-1976.</persname>
       </origination>
-      <unittitle encodinganalog="245">Frank W. Douma diary <unitdate type="inclusive" encodinganalog="245$f" normal="1918/1919">1918-1919</unitdate>, <unitdate type="inclusive" encodinganalog="245$f" normal="1959">1959</unitdate></unittitle>
+      <unittitle encodinganalog="245">Frank W. Douma diary</unittitle>
+      <unitdate type="inclusive" encodinganalog="245$f" normal="1918/1919">1918-1919</unitdate>
+      <unitdate type="inclusive" encodinganalog="245$f" normal="1959">1959</unitdate>
       <abstract>Soldier from Holland, Mich., member of Co. D, 339th U.S. Infantry who served in the Allied intervention in Russia, 1918-1920, the "Polar Bear Expedition." Collection includes description of army life and battles of the Polar Bear campaign; also includes a reminiscence of a tour of Russia, 1959, with a teachers group.</abstract>
       <unitid countrycode="us" repositorycode="MiU-H" encodinganalog="099" type="call number">86705 Aa 1</unitid>
       <langmaterial>The materials are in <language encodinganalog="041" langcode="eng">English.</language></langmaterial>
@@ -80,14 +82,14 @@
       <controlaccess>
         <head>Subjects</head>
         <persname source="lcnaf" encodinganalog="600">Douma, Frank W., 1893-1976.</persname>
-        <geogname source="lcsh" encodinganalog="651">Soviet Union--History--Allied intervention, 1918-1920.</geogname>
-        <geogname source="lcsh" encodinganalog="651">Holland (Mich.)</geogname>
-        <subject source="lcsh" encodinganalog="650">World War, 1914-1918.</subject>
-        <subject source="local" encodinganalog="690" authfilenumber="http://id.loc.gov/authorities/names/n2008059426">Polar Bear Expedition.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/883">Soviet Union--History--Allied intervention, 1918-1920.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1119">Holland (Mich.)</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5712">World War, 1914-1918.</subject>
+        <subject source="local" encodinganalog="690" authfilenumber="http://id.loc.gov/authorities/names/n2008059426" ref="/subjects/3518">Polar Bear Expedition.</subject>
       </controlaccess>
       <controlaccess>
         <head>Genre/Form:</head>
-        <genreform source="aat" encodinganalog="655">Diaries.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3150">Diaries.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -97,7 +99,7 @@
         </did>
         <c02 level="file">
           <did>
-            <container type="folder" label="Folder">1</container>
+            <container type="folder" label="Folder [80650460484976314670]" altrender="folder">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1918/1919">1918-1919</unitdate>
               <unitdate type="inclusive" normal="1959">1959</unitdate>

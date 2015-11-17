@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>University Archives and Records Program <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/2">University Archives and Records Program <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Mortar Board, Pi Sigma Alpha Chapter <lb/>(University of Michigan) <lb/>records, 1906-2008</titleproper>
       <author>Finding aid created by <lb/>Kate Donovan, June 2009</author>
     </titlepage>
@@ -37,7 +37,9 @@
       <origination>
         <corpname source="lcnaf" encodinganalog="110">Mortar Board (Society). Pi Sigma Alpha Chapter (University of Michigan)</corpname>
       </origination>
-      <unittitle encodinganalog="245">Mortar Board, Pi Sigma Alpha Chapter (University of Michigan) records <unitdate type="inclusive" encodinganalog="245$f" normal="1906/2008">1906-2008</unitdate>, <unitdate type="bulk" encodinganalog="245$g" normal="1920/1956">1920-1956</unitdate></unittitle>
+      <unittitle encodinganalog="245">Mortar Board, Pi Sigma Alpha Chapter (University of Michigan) records</unittitle>
+      <unitdate type="inclusive" encodinganalog="245$f" normal="1906/2008">1906-2008</unitdate>
+      <unitdate type="bulk" encodinganalog="245$g" normal="1920/1956">1920-1956</unitdate>
       <unitid encodinganalog="852$h" repositorycode="MiU-H" countrycode="us" type="call number">8917 Bimu F 41 2</unitid>
       <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language></langmaterial>
       <abstract>University of Michigan chapter of the scholastic honorary society Mortar Board. The bulk of the records date from the 1920s through the 1950s, and include organizational constitutions; membership rolls; treasury and project reports; press clippings; and organizational histories.</abstract>
@@ -95,37 +97,39 @@ Mortar Board, Pi Sigma Alpha Chapter (University of Michigan) records, Bentley H
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [34945394120814546720]" altrender="box">1</container>
             <unittitle>Constitutions <unitdate type="inclusive" normal="1946/1958">1946-1958</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [34945394120814546720]" altrender="box">1</container>
             <unittitle>History <unitdate type="inclusive" normal="1963" certainty="approximate">circa 1963</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [34945394120814546720]" altrender="box">1</container>
             <unittitle>History and Record Book <unitdate type="inclusive" normal="1906/1956">1906-1956</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <unittitle>Membership Roll <unitdate type="inclusive" normal="1906/1913">1906-1913</unitdate>, <unitdate type="inclusive" normal="1957/1962">1957-1962</unitdate></unittitle>
+            <container type="box" label="Box [34945394120814546720]" altrender="box">1</container>
+            <unittitle>Membership Roll</unittitle>
+            <unitdate type="inclusive" normal="1906/1913">1906-1913</unitdate>
+            <unitdate type="inclusive" normal="1957/1962">1957-1962</unitdate>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [34945394120814546720]" altrender="box">1</container>
             <unittitle>Money and Service Reports <unitdate type="inclusive" normal="1949/1966">1949-1966</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [34945394120814546720]" altrender="box">1</container>
             <unittitle>Presidents' Reports, 1949/50-1955-56</unittitle>
           </did>
           <odd>
@@ -134,14 +138,16 @@ Mortar Board, Pi Sigma Alpha Chapter (University of Michigan) records, Bentley H
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [34945394120814546720]" altrender="box">1</container>
             <unittitle>Press Clippings <unitdate type="inclusive" normal="1955/1956">1955-1956</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <unittitle>Chapter Records <unitdate type="inclusive" normal="1997/2000">1997-2000</unitdate>, <unitdate type="inclusive" normal="2008">2008</unitdate></unittitle>
+            <container type="box" label="Box [34945394120814546720]" altrender="box">1</container>
+            <unittitle>Chapter Records</unittitle>
+            <unitdate type="inclusive" normal="1997/2000">1997-2000</unitdate>
+            <unitdate type="inclusive" normal="2008">2008</unitdate>
           </did>
         </c02>
       </c01>

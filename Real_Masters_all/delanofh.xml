@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Fred H. DeLano papers, 1907-1923 and 1949-1987</titleproper>
       <author>Finding aid created by <lb/>Diana Casey, 1992</author>
     </titlepage>
@@ -37,7 +37,9 @@
       <origination>
         <persname source="lcnaf" encodinganalog="100">DeLano, Fred H., 1916-</persname>
       </origination>
-      <unittitle encodinganalog="245">Fred H. DeLano papers <unitdate type="inclusive" encodinganalog="245$f" normal="1907/1923">1907-1923</unitdate>, <unitdate type="inclusive" encodinganalog="245$f" normal="1949/1987">1949-1987</unitdate></unittitle>
+      <unittitle encodinganalog="245">Fred H. DeLano papers</unittitle>
+      <unitdate type="inclusive" encodinganalog="245$f" normal="1907/1923">1907-1923</unitdate>
+      <unitdate type="inclusive" encodinganalog="245$f" normal="1949/1987">1949-1987</unitdate>
       <unitid encodinganalog="852$h" repositorycode="MiU-H" countrycode="us" type="call number">921098 Aa 2</unitid>
       <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language></langmaterial>
       <abstract>Journalist from Dowagiac, Michigan with interest in sports public relations; general manager of the Detroit Pistons. Resumes, correspondence received in 1952 in response to letter sent to college athletic directors asking the question, "What is the use of athletics for young people?"; scattered correspondence relating to his career with the Detroit Pistons; collected material about family member, Ervin Hurst; and photographs.</abstract>
@@ -79,11 +81,11 @@ Fred H. DeLano papers, Bentley Historical Library, University of Michigan</p>
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <subject source="lcsh" encodinganalog="650">Athletics--Michigan--Detroit.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7177">Athletics--Michigan--Detroit.</subject>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n83184663">Detroit Pistons (Basketball team)</corpname>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n85046902.html">Dowagiac (Mich.)</geogname>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n85046902.html" ref="/subjects/1074">Dowagiac (Mich.)</geogname>
         <persname source="lcnaf" encodinganalog="600">Hurst, Ervin.</persname>
-        <subject source="lcsh" encodinganalog="650">Journalists--Michigan--Dowagiac.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7178">Journalists--Michigan--Dowagiac.</subject>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Materials:</head>
@@ -91,7 +93,7 @@ Fred H. DeLano papers, Bentley Historical Library, University of Michigan</p>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -101,19 +103,19 @@ Fred H. DeLano papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [539251542143949727820]" altrender="box">1</container>
             <unittitle>Ervin Hurst <unitdate type="inclusive" normal="1907/1923">1907-1923</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [539251542143949727820]" altrender="box">1</container>
             <unittitle>Resumes <unitdate type="inclusive" normal="1955/1982">1955-1982</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [539251542143949727820]" altrender="box">1</container>
             <unittitle>Tournament of Roses Parade Program <unitdate type="inclusive" normal="1949">1949</unitdate></unittitle>
           </did>
           <odd>
@@ -122,37 +124,41 @@ Fred H. DeLano papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [539251542143949727820]" altrender="box">1</container>
             <unittitle>Correspondence, Athletic De-emphasis <unitdate type="inclusive" normal="1952">1952</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [539251542143949727820]" altrender="box">1</container>
             <unittitle>Pistons, Publications and Personal Correspondence <unitdate type="inclusive" normal="1957/1958">1957-1958</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <unittitle>Dowagiac High School, 50th Reunion, Class of <unitdate type="inclusive" normal="1933">1933</unitdate>, <unitdate type="inclusive" normal="1983">1983</unitdate></unittitle>
+            <container type="box" label="Box [539251542143949727820]" altrender="box">1</container>
+            <unittitle>Dowagiac High School, 50th Reunion, Class of</unittitle>
+            <unitdate type="inclusive" normal="1933">1933</unitdate>
+            <unitdate type="inclusive" normal="1983">1983</unitdate>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <unittitle>University of Michigan, 50th Reunion, Class of <unitdate type="inclusive" normal="1937">1937</unitdate>, <unitdate type="inclusive" normal="1987">1987</unitdate></unittitle>
+            <container type="box" label="Box [539251542143949727820]" altrender="box">1</container>
+            <unittitle>University of Michigan, 50th Reunion, Class of</unittitle>
+            <unitdate type="inclusive" normal="1937">1937</unitdate>
+            <unitdate type="inclusive" normal="1987">1987</unitdate>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [539251542143949727820]" altrender="box">1</container>
             <unittitle>Miscellaneous Photographs <unitdate type="inclusive">undated</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [539251542143949727820]" altrender="box">1</container>
             <unittitle>Carl F. DeLano (state legislator) materials</unittitle>
           </did>
         </c02>

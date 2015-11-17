@@ -31,7 +31,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Herbert Henry Nicke and Mabel Delia Brown Nicke photograph collection, 1918</titleproper>
       <author>Finding aid created by <lb/>Len Coombs, 2010</author>
     </titlepage>
@@ -83,24 +83,24 @@
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <geogname source="lcnaf" encodinganalog="651." authfilenumber="http://id.loc.gov/authorities/names/n94064669.html">Fort Custer (Mich.)</geogname>
+        <geogname source="lcnaf" encodinganalog="651." authfilenumber="http://id.loc.gov/authorities/names/n94064669.html" ref="/subjects/782">Fort Custer (Mich.)</geogname>
         <persname source="lcnaf" encodinganalog="600">Nicke, Herbert Henry.</persname>
         <persname source="lcnaf" encodinganalog="600">Brown, Mabel Delia.</persname>
         <corpname source="lcnaf" encodinganalog="610">United States. Army. Ambulance Company, 337th.</corpname>
         <corpname source="lcnaf" encodinganalog="610">United States. Army. Ambulance Company, 340th.</corpname>
         <corpname source="lcnaf" encodinganalog="610">United States. Army. Field Hospital Company, 310th.</corpname>
-        <subject source="lcsh" encodinganalog="650">World War, 1914-1918.</subject>
-        <subject source="lcsh" encodinganalog="650">World War, 1914-1918--War work--Young Men's Christian associations.</subject>
-        <subject source="lcsh" encodinganalog="650">Young Men's Christian Associations.</subject>
-        <subject source="lctgm" encodinganalog="650">Military training--Michigan--Fort Custer.</subject>
-        <subject source="lctgm" encodinganalog="650">Soldiers--American.</subject>
-        <subject source="lctgm" encodinganalog="650">Soldiers--American--France.</subject>
-        <subject source="lctgm" encodinganalog="650">War work--France--Conlie.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5712">World War, 1914-1918.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/9534">World War, 1914-1918--War work--Young Men's Christian associations.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6554">Young Men's Christian Associations.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/5069">Military training--Michigan--Fort Custer.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3674">Soldiers--American.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4746">Soldiers--American--France.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/5070">War work--France--Conlie.</subject>
         <corpname encodinganalog="690" source="lcnaf" authfilenumber="http://id.loc.gov/authorities/names/n2008059426">Polar Bear Expedition.</corpname>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -110,12 +110,12 @@
         </did>
         <c02 level="file">
           <did>
-            <container type="folder" label="Folder">1</container>
+            <container type="folder" label="Folder [7724174744648483]" altrender="folder">1</container>
             <unittitle>Photographs</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">9 items</extent>
             </physdesc>
-            <dao href="nicke0001">
+            <dao href="nicke0001" ref="/repositories/2/digital_objects/7773">
               <daodesc>
                 <p>[view item}</p>
               </daodesc>

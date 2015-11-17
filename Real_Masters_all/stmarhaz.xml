@@ -31,7 +31,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>St. Margaret’s Episcopal Church (Hazel Park, Mich.) <lb/>records, 1927-2007</titleproper>
       <author>Finding aid created by <lb/>Kent Randell, April 2008</author>
     </titlepage>
@@ -87,8 +87,8 @@ St. Margaret’s Episcopal Church (Hazel Park, Mich.) records, Bentley Historica
       <controlaccess>
         <head>Subjects:</head>
         <corpname source="lcnaf" encodinganalog="610">Episcopal Church--Michigan--Hazel Park.</corpname>
-        <geogname source="lcsh" encodinganalog="651">Hazel Park (Mich.)--History.</geogname>
-        <subject source="lcsh" encodinganalog="650">Registers of births, etc.--Michigan--Hazel Park.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/2857">Hazel Park (Mich.)--History.</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/10242">Registers of births, etc.--Michigan--Hazel Park.</subject>
         <corpname source="lcnaf" encodinganalog="610">St. Margaret's Episcopal Church (Hazel Park, Mich.)</corpname>
       </controlaccess>
     </controlaccess>
@@ -102,37 +102,44 @@ St. Margaret’s Episcopal Church (Hazel Park, Mich.) records, Bentley Historica
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">1</container>
-            <unittitle>Baptisms <unitdate type="inclusive" normal="1927/1955">1927-1955</unitdate>, Confirmations, <unitdate type="inclusive" normal="1927/1955">1927-1955</unitdate>, Marriages, <unitdate type="inclusive" normal="1930/1955">1930-1955</unitdate>, Burials, <unitdate type="inclusive" normal="1928/1955">1928-1955</unitdate></unittitle>
+            <container type="volume" label="Oversize Volume [6669068647428170118162]" altrender="volume">1</container>
+            <unittitle>Baptisms 1927-1955, Confirmations, 1927-1955, Marriages, 1930-1955, Burials, 1928-1955</unittitle>
+            <unitdate type="inclusive" normal="1927/1955">1927-1955</unitdate>
+            <unitdate type="inclusive" normal="1930/1955">1930-1955</unitdate>
+            <unitdate type="inclusive" normal="1928/1955">1928-1955</unitdate>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">2</container>
-            <unittitle>Baptisms <unitdate type="inclusive" normal="1956/1969">1956-1969</unitdate>, Confirmations, <unitdate type="inclusive" normal="1956/1966">1956-1966</unitdate>, Marriages, <unitdate type="inclusive" normal="1956/1974">1956-1974</unitdate>, Burials, <unitdate type="inclusive" normal="1956/1982">1956-1982</unitdate></unittitle>
+            <container type="volume" label="Oversize Volume [364344368840773]" altrender="volume">2</container>
+            <unittitle>Baptisms 1956-1969, Confirmations, 1956-1966, Marriages, 1956-1974, Burials, 1956-1982</unittitle>
+            <unitdate type="inclusive" normal="1956/1969">1956-1969</unitdate>
+            <unitdate type="inclusive" normal="1956/1966">1956-1966</unitdate>
+            <unitdate type="inclusive" normal="1956/1974">1956-1974</unitdate>
+            <unitdate type="inclusive" normal="1956/1982">1956-1982</unitdate>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [422864309113019678]" altrender="box">1</container>
             <unittitle>Baptisms <unitdate type="inclusive" normal="1969/2005">1969-2005</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [422864309113019678]" altrender="box">1</container>
             <unittitle>Burials <unitdate type="inclusive" normal="1982/2007">1982-2007</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [422864309113019678]" altrender="box">1</container>
             <unittitle>Confirmations <unitdate type="inclusive" normal="1951/2007">1951-2007</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [422864309113019678]" altrender="box">1</container>
             <unittitle>Marriages <unitdate type="inclusive" normal="1974/2004">1974-2004</unitdate></unittitle>
           </did>
         </c02>
@@ -146,13 +153,13 @@ St. Margaret’s Episcopal Church (Hazel Park, Mich.) records, Bentley Historica
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [422864309113019678]" altrender="box">1</container>
             <unittitle>Building Plans Committee <unitdate type="inclusive" normal="1959">1959</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [422864309113019678]" altrender="box">1</container>
             <unittitle>Property Title</unittitle>
           </did>
         </c02>
@@ -162,7 +169,7 @@ St. Margaret’s Episcopal Church (Hazel Park, Mich.) records, Bentley Historica
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [422864309113019678]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1929/2007">1929-2007</unitdate>
               </unittitle>
@@ -178,7 +185,7 @@ St. Margaret’s Episcopal Church (Hazel Park, Mich.) records, Bentley Historica
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [422864309113019678]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1959/1962">1959-1962</unitdate>
               </unittitle>
@@ -189,7 +196,7 @@ St. Margaret’s Episcopal Church (Hazel Park, Mich.) records, Bentley Historica
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [50546841698261438105]" altrender="box">2</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1963/2001">1963-2001</unitdate>
               </unittitle>
@@ -200,7 +207,7 @@ St. Margaret’s Episcopal Church (Hazel Park, Mich.) records, Bentley Historica
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [50546841698261438105]" altrender="box">2</container>
               <unittitle>
                 <unitdate type="inclusive" normal="2002/2005">2002-2005</unitdate>
               </unittitle>
@@ -211,7 +218,7 @@ St. Margaret’s Episcopal Church (Hazel Park, Mich.) records, Bentley Historica
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [50546841698261438105]" altrender="box">2</container>
               <unittitle>
                 <unitdate type="inclusive" normal="2006/2007">2006-2007</unitdate>
               </unittitle>

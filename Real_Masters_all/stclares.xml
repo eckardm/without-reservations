@@ -26,7 +26,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>St. Clare of Assisi Episcopal Church, Ann Arbor, Mich., Records, 1953-1991</titleproper>
       <author>Finding aid created by <lb/>Hillary Handwerger, April 1985</author>
     </titlepage>
@@ -137,26 +137,26 @@ St. Clare of Assisi Episcopal Church, Ann Arbor, Mich., Records, Bentley Histori
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n79022219.html">Ann Arbor (Mich.)</geogname>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n79022219.html" ref="/subjects/860">Ann Arbor (Mich.)</geogname>
         <corpname source="lcnaf" encodinganalog="610">Episcopal Church--Michigan--Ann Arbor.</corpname>
         <corpname source="lcnaf" encodinganalog="610">Genesis Corporation (Ann Arbor, Mich.)</corpname>
-        <subject source="lcsh" encodinganalog="650">Interdenominational cooperation.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/10204">Interdenominational cooperation.</subject>
         <corpname source="lcnaf" encodinganalog="610">St. Clare of Assisi Episcopal Church (Ann Arbor, Mich.)</corpname>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Materials:</head>
         <corpname source="lcnaf" encodinganalog="610">Anderson House (Ann Arbor, Mich.)</corpname>
-        <geogname source="lctgm" encodinganalog="651">Ann Arbor (Mich.)--Churches.</geogname>
-        <subject source="lctgm" encodinganalog="650">Churches--Michigan--Ann Arbor.</subject>
+        <geogname source="lctgm" encodinganalog="651" ref="/subjects/211">Ann Arbor (Mich.)--Churches.</geogname>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3591">Churches--Michigan--Ann Arbor.</subject>
         <corpname source="lcnaf" encodinganalog="610">Episcopal Church--Michigan--Ann Arbor.</corpname>
-        <subject source="lctgm" encodinganalog="650">Religious services--Michigan--Ann Arbor.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/5383">Religious services--Michigan--Ann Arbor.</subject>
         <corpname source="lcnaf" encodinganalog="610">St. Clare of Assisi Episcopal Church (Ann Arbor, Mich.)</corpname>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="lctgm" encodinganalog="655">Motion pictures.</genreform>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
-        <genreform source="aat" encodinganalog="655">Videotapes.</genreform>
+        <genreform source="lctgm" encodinganalog="655" ref="/subjects/3402">Motion pictures.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3140">Videotapes.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -173,13 +173,13 @@ St. Clare of Assisi Episcopal Church, Ann Arbor, Mich., Records, Bentley Histori
           </odd>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [2926193381543234239468029]" altrender="box">1</container>
               <unittitle><unitdate type="inclusive" normal="1954/1970">1954-1970</unitdate> (incomplete)</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [2926193381543234239468029]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1971/1979">1971-1979</unitdate>
               </unittitle>
@@ -192,20 +192,22 @@ St. Clare of Assisi Episcopal Church, Ann Arbor, Mich., Records, Bentley Histori
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [2926193381543234239468029]" altrender="box">1</container>
               <unittitle>Bylaws of St. Clare's</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [2926193381543234239468029]" altrender="box">1</container>
               <unittitle>Goals statement <unitdate type="inclusive" normal="1972">1972</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
-              <unittitle>Membership lists <unitdate type="inclusive" normal="1953/1976">1953-1976</unitdate> (incomplete)/Motions and decisions, <unitdate type="inclusive" normal="1953/1963">1953-1963</unitdate> (on index cards)</unittitle>
+              <container type="box" label="Box [2926193381543234239468029]" altrender="box">1</container>
+              <unittitle>Membership lists 1953-1976 (incomplete)/Motions and decisions, 1953-1963 (on index cards)</unittitle>
+              <unitdate type="inclusive" normal="1953/1976">1953-1976</unitdate>
+              <unitdate type="inclusive" normal="1953/1963">1953-1963</unitdate>
             </did>
           </c03>
         </c02>
@@ -218,7 +220,7 @@ St. Clare of Assisi Episcopal Church, Ann Arbor, Mich., Records, Bentley Histori
           </odd>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [2926193381543234239468029]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1953/1970">1953-1970</unitdate>
               </unittitle>
@@ -229,7 +231,7 @@ St. Clare of Assisi Episcopal Church, Ann Arbor, Mich., Records, Bentley Histori
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [2926193381543234239468029]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1971">1971</unitdate>
               </unittitle>
@@ -240,7 +242,7 @@ St. Clare of Assisi Episcopal Church, Ann Arbor, Mich., Records, Bentley Histori
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [7361612458953535700195]" altrender="box">2</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1972">1972</unitdate>
               </unittitle>
@@ -248,7 +250,7 @@ St. Clare of Assisi Episcopal Church, Ann Arbor, Mich., Records, Bentley Histori
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [7361612458953535700195]" altrender="box">2</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1973">1973</unitdate>
               </unittitle>
@@ -259,7 +261,7 @@ St. Clare of Assisi Episcopal Church, Ann Arbor, Mich., Records, Bentley Histori
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [7361612458953535700195]" altrender="box">2</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1974">1974</unitdate>
               </unittitle>
@@ -270,7 +272,7 @@ St. Clare of Assisi Episcopal Church, Ann Arbor, Mich., Records, Bentley Histori
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [7361612458953535700195]" altrender="box">2</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1975/1979">1975-1979</unitdate>
               </unittitle>
@@ -282,25 +284,25 @@ St. Clare of Assisi Episcopal Church, Ann Arbor, Mich., Records, Bentley Histori
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [7361612458953535700195]" altrender="box">2</container>
             <unittitle>Altar Guild reports and membership lists <unitdate type="inclusive" normal="1957/1984">1957-1984</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [7361612458953535700195]" altrender="box">2</container>
             <unittitle>Women of St. Clare reports <unitdate type="inclusive" normal="1969/1974">1969-1974</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [7361612458953535700195]" altrender="box">2</container>
             <unittitle>Parochial reports <unitdate type="inclusive" normal="1954/1979">1954-1979</unitdate> (incomplete)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [7361612458953535700195]" altrender="box">2</container>
             <unittitle>Registry of church services <unitdate type="inclusive" normal="1941/1973">1941-1973</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 volumes</extent>
@@ -314,7 +316,7 @@ St. Clare of Assisi Episcopal Church, Ann Arbor, Mich., Records, Bentley Histori
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [7361612458953535700195]" altrender="box">2</container>
             <unittitle>St. Andrew's <title render="italic">Bulletin</title>, <unitdate type="inclusive" normal="1953/1956">1953-1956</unitdate></unittitle>
           </did>
           <odd>
@@ -323,7 +325,7 @@ St. Clare of Assisi Episcopal Church, Ann Arbor, Mich., Records, Bentley Histori
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [7361612458953535700195]" altrender="box">2</container>
             <unittitle>St. Andrew's <title render="italic">Cross Currents</title>, <unitdate type="inclusive" normal="1962/1964">1962-1964</unitdate></unittitle>
           </did>
           <odd>
@@ -332,7 +334,7 @@ St. Clare of Assisi Episcopal Church, Ann Arbor, Mich., Records, Bentley Histori
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [7361612458953535700195]" altrender="box">2</container>
             <unittitle>St. Clare's <title render="italic">Bulletin</title>, <unitdate type="inclusive" normal="1956/1967">1956-1967</unitdate> (incomplete)</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -344,7 +346,7 @@ St. Clare of Assisi Episcopal Church, Ann Arbor, Mich., Records, Bentley Histori
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [7361612458953535700195]" altrender="box">2</container>
             <unittitle><title render="italic">St. Clarian</title>, <unitdate type="inclusive" normal="1967-04/1975">April 1967-1975</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">9 folders</extent>
@@ -356,7 +358,7 @@ St. Clare of Assisi Episcopal Church, Ann Arbor, Mich., Records, Bentley Histori
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [7361612458953535700195]" altrender="box">2</container>
             <unittitle>Ordination ceremony booklets</unittitle>
           </did>
         </c02>
@@ -367,7 +369,7 @@ St. Clare of Assisi Episcopal Church, Ann Arbor, Mich., Records, Bentley Histori
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [6544341782401977649]" altrender="box">3</container>
             <unittitle>Administrative papers <unitdate type="inclusive" normal="1974/1979">1974-1979</unitdate></unittitle>
           </did>
           <odd>
@@ -376,13 +378,13 @@ St. Clare of Assisi Episcopal Church, Ann Arbor, Mich., Records, Bentley Histori
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [6544341782401977649]" altrender="box">3</container>
             <unittitle>Dedication ceremony <unitdate type="inclusive" normal="1975">1975</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [6544341782401977649]" altrender="box">3</container>
             <unittitle>Miscellaneous <unitdate type="inclusive" normal="1976/1978">1976-1978</unitdate></unittitle>
           </did>
           <odd>
@@ -391,7 +393,7 @@ St. Clare of Assisi Episcopal Church, Ann Arbor, Mich., Records, Bentley Histori
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [6544341782401977649]" altrender="box">3</container>
             <unittitle>Haggadahs <unitdate type="inclusive" normal="1971/1979">1971-1979</unitdate></unittitle>
           </did>
           <odd>
@@ -400,7 +402,7 @@ St. Clare of Assisi Episcopal Church, Ann Arbor, Mich., Records, Bentley Histori
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [6544341782401977649]" altrender="box">3</container>
             <unittitle>Clippings <unitdate type="inclusive" normal="1974/1984">1974-1984</unitdate></unittitle>
           </did>
         </c02>
@@ -411,13 +413,13 @@ St. Clare of Assisi Episcopal Church, Ann Arbor, Mich., Records, Bentley Histori
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [6544341782401977649]" altrender="box">3</container>
             <unittitle>Building specifications and ground-breaking</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [6544341782401977649]" altrender="box">3</container>
             <unittitle>Building committee reports <unitdate type="inclusive" normal="1962/1969">1962-1969</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -426,19 +428,19 @@ St. Clare of Assisi Episcopal Church, Ann Arbor, Mich., Records, Bentley Histori
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [6544341782401977649]" altrender="box">3</container>
             <unittitle>Building specifications <unitdate type="inclusive" normal="1967">1967</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [6544341782401977649]" altrender="box">3</container>
             <unittitle>Annexation by Ann Arbor <unitdate type="inclusive" normal="1973">1973</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [6544341782401977649]" altrender="box">3</container>
             <unittitle>Architectural drawings</unittitle>
           </did>
         </c02>
@@ -449,19 +451,19 @@ St. Clare of Assisi Episcopal Church, Ann Arbor, Mich., Records, Bentley Histori
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [6544341782401977649]" altrender="box">3</container>
             <unittitle>Correspondence and information on chapel</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [6544341782401977649]" altrender="box">3</container>
             <unittitle>St. Francis chapel (clippings)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [6544341782401977649]" altrender="box">3</container>
             <unittitle>Anderson House</unittitle>
           </did>
           <odd>
@@ -475,7 +477,7 @@ St. Clare of Assisi Episcopal Church, Ann Arbor, Mich., Records, Bentley Histori
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [6544341782401977649]" altrender="box">3</container>
             <unittitle>
               <unitdate type="inclusive" normal="1953/1973">1953-1973</unitdate>
             </unittitle>
@@ -497,7 +499,7 @@ St. Clare of Assisi Episcopal Church, Ann Arbor, Mich., Records, Bentley Histori
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [6544341782401977649]" altrender="box">3</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1953/1956">1953-1956</unitdate>
               </unittitle>
@@ -505,7 +507,7 @@ St. Clare of Assisi Episcopal Church, Ann Arbor, Mich., Records, Bentley Histori
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [6544341782401977649]" altrender="box">3</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1955/1959">1955-1959</unitdate>
               </unittitle>
@@ -513,7 +515,7 @@ St. Clare of Assisi Episcopal Church, Ann Arbor, Mich., Records, Bentley Histori
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [6544341782401977649]" altrender="box">3</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1960/1968">1960-1968</unitdate>
               </unittitle>
@@ -521,7 +523,7 @@ St. Clare of Assisi Episcopal Church, Ann Arbor, Mich., Records, Bentley Histori
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [6544341782401977649]" altrender="box">3</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1968/1979">1968-1979</unitdate>
               </unittitle>
@@ -529,31 +531,31 @@ St. Clare of Assisi Episcopal Church, Ann Arbor, Mich., Records, Bentley Histori
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [6544341782401977649]" altrender="box">3</container>
               <unittitle><unitdate type="inclusive" normal="1973">1973</unitdate> 20th anniversary picnic</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [6544341782401977649]" altrender="box">3</container>
               <unittitle>Genesis activities <unitdate type="inclusive" normal="1974/1977">1974-1977</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [6544341782401977649]" altrender="box">3</container>
               <unittitle>Wisdom/Anderson House</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [6544341782401977649]" altrender="box">3</container>
               <unittitle>Chapel</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [6544341782401977649]" altrender="box">3</container>
               <unittitle>Miscellaneous</unittitle>
             </did>
           </c03>
@@ -566,7 +568,7 @@ St. Clare of Assisi Episcopal Church, Ann Arbor, Mich., Records, Bentley Histori
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [6544341782401977649]" altrender="box">3</container>
               <unittitle><unitdate type="inclusive" normal="1994">1994</unitdate> dedication and consecration of new church</unittitle>
             </did>
           </c03>
@@ -578,19 +580,21 @@ St. Clare of Assisi Episcopal Church, Ann Arbor, Mich., Records, Bentley Histori
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
-            <unittitle>Annual Reports <unitdate type="inclusive" normal="1980">1980</unitdate>, <unitdate type="inclusive" normal="1983">1983</unitdate></unittitle>
+            <container type="box" label="Box [3270643342405190]" altrender="box">4</container>
+            <unittitle>Annual Reports</unittitle>
+            <unitdate type="inclusive" normal="1980">1980</unitdate>
+            <unitdate type="inclusive" normal="1983">1983</unitdate>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [3270643342405190]" altrender="box">4</container>
             <unittitle>Vestry minutes and related <unitdate type="inclusive" normal="1979/1980">1979-1980</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [3270643342405190]" altrender="box">4</container>
             <unittitle>Correspondence and related papers <unitdate type="inclusive" normal="1980/1981">1980-1981</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -599,7 +603,7 @@ St. Clare of Assisi Episcopal Church, Ann Arbor, Mich., Records, Bentley Histori
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [3270643342405190]" altrender="box">4</container>
             <unittitle>Sunday bulletins <unitdate type="inclusive" normal="1975/1982">1975-1982</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">7 folders</extent>
@@ -608,8 +612,10 @@ St. Clare of Assisi Episcopal Church, Ann Arbor, Mich., Records, Bentley Histori
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
-            <unittitle>St. <title render="italic">Clarian</title>, <unitdate type="inclusive" normal="1977/1982">1977-1982</unitdate>, <unitdate type="inclusive" normal="1991">1991</unitdate></unittitle>
+            <container type="box" label="Box [3270643342405190]" altrender="box">4</container>
+            <unittitle>St. <title render="italic">Clarian</title></unittitle>
+            <unitdate type="inclusive" normal="1977/1982">1977-1982</unitdate>
+            <unitdate type="inclusive" normal="1991">1991</unitdate>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">7 folders</extent>
             </physdesc>
@@ -617,13 +623,13 @@ St. Clare of Assisi Episcopal Church, Ann Arbor, Mich., Records, Bentley Histori
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [3270643342405190]" altrender="box">4</container>
             <unittitle>Capital campaign <unitdate type="inclusive" normal="1992">1992</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [3270643342405190]" altrender="box">4</container>
             <unittitle>Miscellaneous <unitdate type="inclusive" normal="1961/1982">1961-1982</unitdate></unittitle>
           </did>
         </c02>

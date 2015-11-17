@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Jeanne Tashian papers, 1970-1973</titleproper>
       <author>Finding aid created by <lb/>Michigan Historical Collections staff</author>
     </titlepage>
@@ -81,15 +81,15 @@ Jeanne Tashian papers, Bentley Historical Library, University of Michigan</p>
       <controlaccess>
         <head>Subjects:</head>
         <corpname source="lcnaf" encodinganalog="610">Ad Hoc Committee Concerned That President Fleming Does Not Meet With Women (University of Michigan)</corpname>
-        <subject source="lcsh" encodinganalog="650">Affirmative action programs--Michigan--Ann Arbor.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5655">Affirmative action programs--Michigan--Ann Arbor.</subject>
         <corpname source="lcnaf" encodinganalog="610">Ann Arbor Focus on Equal Opportunity for Women.</corpname>
-        <subject source="lcsh" encodinganalog="650">Discrimination in employment--Michigan--Ann Arbor.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5738">Discrimination in employment--Michigan--Ann Arbor.</subject>
         <corpname source="lcnaf" encodinganalog="610">PROBE into the Status of Women at The University of Michigan.</corpname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan. Commission for Women.</corpname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan--Faculty.</corpname>
-        <subject source="lcsh" encodinganalog="650">Women's rights--Michigan--Ann Arbor.</subject>
-        <subject source="lcsh" encodinganalog="650">College teachers--Michigan--Ann Arbor.</subject>
-        <subject source="lcsh" encodinganalog="650">Women college teachers--Michigan--Ann Arbor.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5724">Women's rights--Michigan--Ann Arbor.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5722">College teachers--Michigan--Ann Arbor.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5723">Women college teachers--Michigan--Ann Arbor.</subject>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -99,19 +99,19 @@ Jeanne Tashian papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [3599524581912937399]" altrender="box">1</container>
             <unittitle>Biographical data</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [3599524581912937399]" altrender="box">1</container>
             <unittitle>Writings <unitdate type="inclusive" normal="1972/1976" certainty="approximate">circa 1972-1976</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [3599524581912937399]" altrender="box">1</container>
             <unittitle>Class materials</unittitle>
           </did>
         </c02>
@@ -122,19 +122,19 @@ Jeanne Tashian papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [3599524581912937399]" altrender="box">1</container>
             <unittitle>Ann Arbor Focus on Equal Opportunity For Women <unitdate type="inclusive" normal="1970">1970</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [3599524581912937399]" altrender="box">1</container>
             <unittitle>Job Discrimination, legal information</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [3599524581912937399]" altrender="box">1</container>
             <unittitle>PROBE into the Status of Women at The University of Michigan <unitdate type="inclusive" normal="1970/1971">1970-1971</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -143,13 +143,13 @@ Jeanne Tashian papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [3599524581912937399]" altrender="box">1</container>
             <unittitle>Ad Hoc Committee Concerned That President Fleming Does Not Meet With Women <unitdate type="inclusive" normal="1972">1972</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [3599524581912937399]" altrender="box">1</container>
             <unittitle>Affirmative Action Program for the Employment of Women, ca <unitdate type="inclusive" normal="1971/1972">1971-1972</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -158,7 +158,7 @@ Jeanne Tashian papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [3599524581912937399]" altrender="box">1</container>
             <unittitle>Center For Continuing Education of Women <unitdate type="inclusive" normal="1970">1970</unitdate></unittitle>
           </did>
         </c02>
@@ -168,8 +168,10 @@ Jeanne Tashian papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
-              <unittitle>General <unitdate type="inclusive">undated</unitdate>, <unitdate type="inclusive" normal="1971/1973">1971-1973</unitdate></unittitle>
+              <container type="box" label="Box [3599524581912937399]" altrender="box">1</container>
+              <unittitle>General</unittitle>
+              <unitdate type="inclusive">undated</unitdate>
+              <unitdate type="inclusive" normal="1971/1973">1971-1973</unitdate>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">7 folders</extent>
               </physdesc>
@@ -177,20 +179,20 @@ Jeanne Tashian papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [3599524581912937399]" altrender="box">1</container>
               <unittitle>Cluster Groups</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [3599524581912937399]" altrender="box">1</container>
               <unittitle><title render="italic">Women's Information Network Bulletin</title>, <unitdate type="inclusive" normal="1972/1974">1972-1974</unitdate></unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [3599524581912937399]" altrender="box">1</container>
             <unittitle>
               <title render="italic">The Feminine Mistake: Women at The University of Michigan</title>
             </unittitle>
@@ -198,31 +200,31 @@ Jeanne Tashian papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [3599524581912937399]" altrender="box">1</container>
             <unittitle>Labor Organization at the University of Michigan <unitdate type="inclusive" normal="1971">1971</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [3599524581912937399]" altrender="box">1</container>
             <unittitle>Office of Student Organizations <unitdate type="inclusive" normal="1970" certainty="approximate">circa 1970</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [3599524581912937399]" altrender="box">1</container>
             <unittitle>Miscellaneous re. the University of Michigan</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [3599524581912937399]" altrender="box">1</container>
             <unittitle>W.E.A.L. (Women's Equity Action League) <unitdate type="inclusive" normal="1970" certainty="approximate">circa 1970</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [3599524581912937399]" altrender="box">1</container>
             <unittitle>Miscellaneous</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>

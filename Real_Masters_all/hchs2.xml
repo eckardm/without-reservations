@@ -26,7 +26,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>University Archives and Records Program <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/2">University Archives and Records Program <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Historical Center for the Health Sciences <lb/>(University of Michigan) <lb/>Records, 1831-1992</titleproper>
       <author>Finding aid created by <lb/>Lisa Pratt, 1993</author>
     </titlepage>
@@ -86,28 +86,28 @@ Historical Center for the Health Sciences (University of Michigan) records, Bent
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n82094760.html">Berrien Springs (Mich.)</geogname>
-        <subject source="lcsh" encodinganalog="650">Medicine.</subject>
-        <subject source="lcsh" encodinganalog="650">Physicians--Michigan.</subject>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n82094760.html" ref="/subjects/1486">Berrien Springs (Mich.)</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6792">Medicine.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5835">Physicians--Michigan.</subject>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n92805073">University of Michigan. Historical Center for the Health Sciences.</corpname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n81055151">University of Michigan. Medical School.</corpname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan--Students--Manuscripts.</corpname>
-        <subject source="lcsh" encodinganalog="650">Medical sciences--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6791">Medical sciences--Michigan.</subject>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Materials:</head>
-        <subject source="lctgm" encodinganalog="650">Hearts.</subject>
-        <subject source="lctgm" encodinganalog="650">Medicine.</subject>
-        <subject source="lctgm" encodinganalog="650">Surgery.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4493">Hearts.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4494">Medicine.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3899">Surgery.</subject>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan--Faculty.</corpname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n92805073">University of Michigan. Historical Center for the Health Sciences.</corpname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n81055151">University of Michigan. Medical School.</corpname>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="lcsh" encodinganalog="655">College publications.</genreform>
-        <genreform source="aat" encodinganalog="655">Motion pictures.</genreform>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="lcsh" encodinganalog="655" ref="/subjects/3431">College publications.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3167">Motion pictures.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -128,7 +128,7 @@ Historical Center for the Health Sciences (University of Michigan) records, Bent
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [891248244915749613560]" altrender="box">1</container>
                 <unittitle><title render="italic">Retrospectives</title>, 1992-</unittitle>
               </did>
             </c04>
@@ -153,79 +153,87 @@ Historical Center for the Health Sciences (University of Michigan) records, Bent
           </scopecontent>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [891248244915749613560]" altrender="box">1</container>
               <unitid>91-001</unitid>
               <unittitle>Student Notes and Materials (UM) of Horace Arthur Macy <unitdate type="inclusive" normal="1888" certainty="approximate">circa 1888</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [891248244915749613560]" altrender="box">1</container>
               <unitid>91-002</unitid>
               <unittitle>Letter to Senator W. R. Taylor from N. M. McCollum (urging a vote against House Bill No. 139) <unitdate type="inclusive" normal="1915-02-28">February 28, 1915</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [891248244915749613560]" altrender="box">1</container>
               <unitid>91-010</unitid>
               <unittitle>Invoice for Anatomical Supplies <unitdate type="inclusive" normal="1873">1873</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [891248244915749613560]" altrender="box">1</container>
               <unitid>92-001</unitid>
               <unittitle>Student Notes (UM) of E. L. Hicks <unitdate type="inclusive" normal="1917">1917</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [891248244915749613560]" altrender="box">1</container>
               <unitid>92-004</unitid>
               <unittitle>Medical Receipts and Records of Frank J. Kukla (University Hospital) <unitdate type="inclusive" normal="1935/1943">1935-1943</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [891248244915749613560]" altrender="box">1</container>
               <unitid>92-007</unitid>
-              <unittitle>Correspondence from Dr. Edward S. Dunster (of UM) to Dr. William Goodell (Philadelphia) <unitdate type="inclusive" normal="1876">1876</unitdate>, <unitdate type="inclusive" normal="1878">1878</unitdate> (photocopies)</unittitle>
+              <unittitle>Correspondence from Dr. Edward S. Dunster (of UM) to Dr. William Goodell (Philadelphia) 1876, 1878 (photocopies)</unittitle>
+              <unitdate type="inclusive" normal="1876">1876</unitdate>
+              <unitdate type="inclusive" normal="1878">1878</unitdate>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [891248244915749613560]" altrender="box">1</container>
               <unitid>92-008</unitid>
-              <unittitle>Speeches and Writings of Dr. Horace W. Davenport (of UM Physiology Department) <unitdate type="inclusive" normal="1970">1970</unitdate>, <unitdate type="inclusive" normal="1976" certainty="approximate">1976 undated</unitdate></unittitle>
+              <unittitle>Speeches and Writings of Dr. Horace W. Davenport (of UM Physiology Department)</unittitle>
+              <unitdate type="inclusive" normal="1970">1970</unitdate>
+              <unitdate type="inclusive" normal="1976" certainty="approximate">1976 undated</unitdate>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [891248244915749613560]" altrender="box">1</container>
               <unitid>92-026</unitid>
               <unittitle>Student Notebook (UM) of F. A. Hargrave <unitdate type="inclusive" normal="1882">1882</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [891248244915749613560]" altrender="box">1</container>
               <unitid>92-027</unitid>
               <unittitle>Account book of Dr. Samuel Castle Bartholomew (of Berrien Springs, Michigan) <unitdate type="inclusive" normal="1831/1839">1831-1839</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">1</container>
+              <container type="volume" label="Oversize Volume [63954515498720]" altrender="volume">1</container>
               <unitid>92-029</unitid>
               <unittitle>Scrapbook, History of the University of Michigan Medical School Glee Club <unitdate type="inclusive" normal="1964/1969">1964-1969</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [891248244915749613560]" altrender="box">1</container>
               <unitid>92-030</unitid>
-              <unittitle>Commencements and Convocations at the UM Medical School (miscellaneous materials) <unitdate type="inclusive" normal="1959">1959</unitdate>, <unitdate type="inclusive" normal="1961">1961</unitdate>, <unitdate type="inclusive" normal="1968">1968</unitdate>, <unitdate type="inclusive" normal="1969">1969</unitdate></unittitle>
+              <unittitle>Commencements and Convocations at the UM Medical School (miscellaneous materials)</unittitle>
+              <unitdate type="inclusive" normal="1959">1959</unitdate>
+              <unitdate type="inclusive" normal="1961">1961</unitdate>
+              <unitdate type="inclusive" normal="1968">1968</unitdate>
+              <unitdate type="inclusive" normal="1969">1969</unitdate>
             </did>
           </c03>
         </c02>
@@ -238,14 +246,14 @@ Historical Center for the Health Sciences (University of Michigan) records, Bent
           </scopecontent>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [891248244915749613560]" altrender="box">1</container>
               <unitid>90-001</unitid>
               <unittitle>Peterson Hospital and Staff <unitdate type="inclusive" normal="1908" certainty="approximate">circa 1908</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [891248244915749613560]" altrender="box">1</container>
               <unitid>92-002</unitid>
               <unittitle>Faculty and Staff, UM Medical School <unitdate type="inclusive">undated</unitdate></unittitle>
             </did>
@@ -297,14 +305,14 @@ Historical Center for the Health Sciences (University of Michigan) records, Bent
           </c03>
           <c03 level="item">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [891248244915749613560]" altrender="box">1</container>
               <unitid>92-003</unitid>
               <unittitle>Phi Chi House (UM Medical Fraternity) <unitdate type="inclusive">undated</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [891248244915749613560]" altrender="box">1</container>
               <unitid>93-001</unitid>
               <unittitle>Faculty, UM Medical School <unitdate type="inclusive">undated</unitdate></unittitle>
             </did>
@@ -384,7 +392,7 @@ Historical Center for the Health Sciences (University of Michigan) records, Bent
           </scopecontent>
           <c03 level="file">
             <did>
-              <container type="reel" label="Film Reel">1</container>
+              <container type="reel" label="Film Reel [1586462749327887809922]" altrender="reel">1</container>
               <unitid>92-011</unitid>
               <unittitle>Human Heart Transplantation performed by Drs. Donald K. Kahn and Herbert E. Sloan <unitdate type="inclusive" normal="1950/1959" certainty="approximate">circa 1950s</unitdate></unittitle>
               <physdesc>
@@ -394,7 +402,7 @@ Historical Center for the Health Sciences (University of Michigan) records, Bent
           </c03>
           <c03 level="file">
             <did>
-              <container type="reel" label="Film Reel">2</container>
+              <container type="reel" label="Film Reel [1976295411792209121724]" altrender="reel">2</container>
               <unitid>92-013</unitid>
               <unittitle>Intestinal Surgery performed by Dr. William Fry <unitdate type="inclusive" normal="1972-02-01">February 1, 1972</unitdate></unittitle>
               <physdesc>
@@ -404,7 +412,7 @@ Historical Center for the Health Sciences (University of Michigan) records, Bent
           </c03>
           <c03 level="file">
             <did>
-              <container type="reel" label="Film Reel">3</container>
+              <container type="reel" label="Film Reel [06469515446188098448895]" altrender="reel">3</container>
               <unitid>92-014</unitid>
               <unittitle>Surgery performed by Dr. Child <unitdate type="inclusive" normal="1971-05-05">May 5, 1971</unitdate></unittitle>
               <physdesc>

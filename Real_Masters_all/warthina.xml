@@ -30,7 +30,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Aldred Scott Warthin Papers, 1893-1947</titleproper>
       <author>Finding aid created by <lb/>Susan Avery, September 1993</author>
     </titlepage>
@@ -40,7 +40,9 @@
       <origination>
         <persname source="lcnaf" encodinganalog="100" authfilenumber="http://id.loc.gov/authorities/names/n79062897">Warthin, Aldred Scott, 1866-1931.</persname>
       </origination>
-      <unittitle encodinganalog="245">Aldred Scott Warthin papers <unitdate type="inclusive" encodinganalog="245$f" normal="1893/1947">1893-1947</unitdate>, <unitdate type="bulk" encodinganalog="245$g" normal="1923/1931">1923-1931</unitdate></unittitle>
+      <unittitle encodinganalog="245">Aldred Scott Warthin papers</unittitle>
+      <unitdate type="inclusive" encodinganalog="245$f" normal="1893/1947">1893-1947</unitdate>
+      <unitdate type="bulk" encodinganalog="245$g" normal="1923/1931">1923-1931</unitdate>
       <unitid encodinganalog="099" repositorycode="MiU-H" countrycode="us" type="call number">86199 Aa 2</unitid>
       <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language></langmaterial>
       <abstract>University of Michigan pathologist. Correspondence, primarily with physicians, articles, and other material relating to University of Michigan Medical School and medical practice in general; files relating to his editorship of the Annals of Clinical Medicine; and photographs.</abstract>
@@ -87,14 +89,14 @@ Aldred Scott Warthin Papers, Bentley Historical Library, University of Michigan<
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <subject source="lcsh" encodinganalog="630">Annals of clinical medicine.</subject>
-        <subject source="lcsh" encodinganalog="650">Medicine--Study and teaching--Michigan.</subject>
-        <subject source="lcsh" encodinganalog="650">Physicians--Michigan--Ann Arbor.</subject>
+        <subject source="lcsh" encodinganalog="630" ref="/subjects/10595">Annals of clinical medicine.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7165">Medicine--Study and teaching--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6031">Physicians--Michigan--Ann Arbor.</subject>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan. Dept. of Pathology.</corpname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan--Faculty.</corpname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n81055151">University of Michigan. Medical School.</corpname>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n79062897">Warthin, Aldred Scott, 1866-1931.</persname>
-        <subject source="lcsh" encodinganalog="650">Medicine--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6030">Medicine--Michigan.</subject>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Materials:</head>
@@ -122,7 +124,7 @@ Aldred Scott Warthin Papers, Bentley Historical Library, University of Michigan<
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -135,7 +137,7 @@ Aldred Scott Warthin Papers, Bentley Historical Library, University of Michigan<
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [7376123336464191044934]" altrender="box">1</container>
             <unittitle>General (arranged chronologically) <unitdate type="inclusive" normal="1896/1939">1896-1939</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">8 folders</extent>
@@ -148,7 +150,7 @@ Aldred Scott Warthin Papers, Bentley Historical Library, University of Michigan<
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [7376123336464191044934]" altrender="box">1</container>
               <unittitle>
                 <unitdate normal="1923/1929">1923-1929</unitdate>
               </unittitle>
@@ -159,20 +161,20 @@ Aldred Scott Warthin Papers, Bentley Historical Library, University of Michigan<
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [7376123336464191044934]" altrender="box">1</container>
               <unittitle>Garden Club of Ann Arbor <unitdate type="inclusive" normal="1929/1930">1929-1930</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [7376123336464191044934]" altrender="box">1</container>
               <unittitle>Osler, Sir William <unitdate type="inclusive" normal="1899/1919">1899-1919</unitdate></unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [7376123336464191044934]" altrender="box">1</container>
             <unittitle>Miscellaneous (Warthin and Carl Weller) <unitdate type="inclusive" normal="1908/1947">1908-1947</unitdate></unittitle>
           </did>
         </c02>
@@ -193,7 +195,7 @@ Aldred Scott Warthin Papers, Bentley Historical Library, University of Michigan<
           </scopecontent>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [7376123336464191044934]" altrender="box">1</container>
               <unittitle>American Association for Cancer Research <unitdate type="inclusive" normal="1925/1930">1925-1930</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -202,19 +204,19 @@ Aldred Scott Warthin Papers, Bentley Historical Library, University of Michigan<
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [7376123336464191044934]" altrender="box">1</container>
               <unittitle>American Association of Pathologists and Bacteriologists <unitdate type="inclusive" normal="1926/1929">1926-1929</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [7376123336464191044934]" altrender="box">1</container>
               <unittitle>American Association of the History of Medicine <unitdate type="inclusive" normal="1929/1930">1929-1930</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [7376123336464191044934]" altrender="box">1</container>
               <unittitle>American College of Physicians <unitdate type="inclusive" normal="1924/1930">1924-1930</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">6 folders</extent>
@@ -223,7 +225,7 @@ Aldred Scott Warthin Papers, Bentley Historical Library, University of Michigan<
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [7376123336464191044934]" altrender="box">1</container>
               <unittitle>American Congress on Internal Medicine <unitdate type="inclusive" normal="1925/1926">1925-1926</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -232,25 +234,25 @@ Aldred Scott Warthin Papers, Bentley Historical Library, University of Michigan<
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [7376123336464191044934]" altrender="box">1</container>
               <unittitle>American Heart Association <unitdate type="inclusive" normal="1928/1929">1928-1929</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [7376123336464191044934]" altrender="box">1</container>
               <unittitle>American Medical Association <unitdate type="inclusive" normal="1927/1930">1927-1930</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [7376123336464191044934]" altrender="box">1</container>
               <unittitle>American Social Hygiene Association <unitdate type="inclusive" normal="1928/1929">1928-1929</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [7376123336464191044934]" altrender="box">1</container>
               <unittitle>Archives of Pathology <unitdate type="inclusive" normal="1925/1928">1925-1928</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -259,7 +261,7 @@ Aldred Scott Warthin Papers, Bentley Historical Library, University of Michigan<
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [7376123336464191044934]" altrender="box">1</container>
               <unittitle>Association for Cancer Research <unitdate type="inclusive" normal="1926/1927">1926-1927</unitdate></unittitle>
             </did>
           </c03>
@@ -272,14 +274,14 @@ Aldred Scott Warthin Papers, Bentley Historical Library, University of Michigan<
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [7376123336464191044934]" altrender="box">1</container>
                 <unittitle>Washington Meeting <unitdate type="inclusive" normal="1928-05">May 1928</unitdate></unittitle>
               </did>
             </c04>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [7376123336464191044934]" altrender="box">1</container>
               <unittitle>Council on Physical Therapy <unitdate type="inclusive" normal="1925/1930">1925-1930</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -288,7 +290,7 @@ Aldred Scott Warthin Papers, Bentley Historical Library, University of Michigan<
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [7376123336464191044934]" altrender="box">1</container>
               <unittitle>Federation of American Societies for Experimental Biology (American Society for Experimental Pathology) <unitdate type="inclusive" normal="1924/1928">1924-1928</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -297,19 +299,19 @@ Aldred Scott Warthin Papers, Bentley Historical Library, University of Michigan<
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [7376123336464191044934]" altrender="box">1</container>
               <unittitle>International Physiological Congress <unitdate type="inclusive" normal="1927/1928">1927-1928</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [7376123336464191044934]" altrender="box">1</container>
               <unittitle>International Society for Medical History <unitdate type="inclusive" normal="1926/1927">1926-1927</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [7376123336464191044934]" altrender="box">1</container>
               <unittitle>Michigan Tuberculosis Association (Mississippi Valley Tuberculosis Association) <unitdate type="inclusive" normal="1925/1928">1925-1928</unitdate></unittitle>
             </did>
           </c03>
@@ -319,14 +321,14 @@ Aldred Scott Warthin Papers, Bentley Historical Library, University of Michigan<
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [7376123336464191044934]" altrender="box">1</container>
                 <unittitle>Medicolegal Institute <unitdate type="inclusive" normal="1924/1930">1924-1930</unitdate></unittitle>
               </did>
             </c04>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [7376123336464191044934]" altrender="box">1</container>
               <unittitle>Rockefeller Foundation <unitdate type="inclusive" normal="1925/1926">1925-1926</unitdate></unittitle>
             </did>
           </c03>
@@ -340,19 +342,19 @@ Aldred Scott Warthin Papers, Bentley Historical Library, University of Michigan<
           </scopecontent>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [7376123336464191044934]" altrender="box">1</container>
               <unittitle>Army Medical Museum <unitdate type="inclusive" normal="1923/1924">1923-1924</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [7376123336464191044934]" altrender="box">1</container>
               <unittitle>International Association for Medical Museums (Bulletin) <unitdate type="inclusive" normal="1925/1929">1925-1929</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [7376123336464191044934]" altrender="box">1</container>
               <unittitle>Medical Museum <unitdate type="inclusive" normal="1923/1924">1923-1924</unitdate></unittitle>
             </did>
           </c03>
@@ -366,7 +368,7 @@ Aldred Scott Warthin Papers, Bentley Historical Library, University of Michigan<
           </scopecontent>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [7376123336464191044934]" altrender="box">1</container>
               <unittitle>Medical Opinions and Advice <unitdate type="inclusive" normal="1912/1930">1912-1930</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">4 folders</extent>
@@ -375,7 +377,7 @@ Aldred Scott Warthin Papers, Bentley Historical Library, University of Michigan<
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [7376123336464191044934]" altrender="box">1</container>
               <unittitle>Bone Sarcoma Registry <unitdate type="inclusive" normal="1926/1928">1926-1928</unitdate></unittitle>
             </did>
           </c03>
@@ -385,38 +387,38 @@ Aldred Scott Warthin Papers, Bentley Historical Library, University of Michigan<
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [7376123336464191044934]" altrender="box">1</container>
                 <unittitle>Correspondence <unitdate type="inclusive" normal="1927/1929">1927-1929</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [7376123336464191044934]" altrender="box">1</container>
                 <unittitle>Reports</unittitle>
               </did>
             </c04>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [7376123336464191044934]" altrender="box">1</container>
               <unittitle>Dinitrophenal study <unitdate type="inclusive" normal="1918">1918</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [7376123336464191044934]" altrender="box">1</container>
               <unittitle>Hemolymph node and cardiac anomaly glass plate negatives</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [7376123336464191044934]" altrender="box">1</container>
               <unittitle>Koch Treatment <unitdate type="inclusive" normal="1927">1927</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [7376123336464191044934]" altrender="box">1</container>
               <unittitle>Pernicious Anemia <unitdate type="inclusive" normal="1924/1926">1924-1926</unitdate></unittitle>
             </did>
           </c03>
@@ -434,19 +436,19 @@ Aldred Scott Warthin Papers, Bentley Historical Library, University of Michigan<
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [845163049844951871440]" altrender="box">2</container>
                 <unittitle>Faculty Bibliography <unitdate type="inclusive" normal="1925/1929">1925-1929</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [845163049844951871440]" altrender="box">2</container>
                 <unittitle>Secretary Shirley W. Smith <unitdate type="inclusive" normal="1923/1927">1923-1927</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [845163049844951871440]" altrender="box">2</container>
                 <unittitle>University Presidents <unitdate type="inclusive" normal="1918/1930">1918-1930</unitdate></unittitle>
               </did>
             </c04>
@@ -457,19 +459,19 @@ Aldred Scott Warthin Papers, Bentley Historical Library, University of Michigan<
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [845163049844951871440]" altrender="box">2</container>
                 <unittitle>Henry Russel Award <unitdate type="inclusive" normal="1928/1929">1928-1929</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [845163049844951871440]" altrender="box">2</container>
                 <unittitle>Novy Portrait <unitdate type="inclusive" normal="1929/1930">1929-1930</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [845163049844951871440]" altrender="box">2</container>
                 <unittitle>Vaughan Memorial <unitdate type="inclusive" normal="1929">1929</unitdate></unittitle>
               </did>
             </c04>
@@ -480,13 +482,13 @@ Aldred Scott Warthin Papers, Bentley Historical Library, University of Michigan<
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [845163049844951871440]" altrender="box">2</container>
                 <unittitle>Alpha Omega Alpha <unitdate type="inclusive" normal="1925/1927">1925-1927</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [845163049844951871440]" altrender="box">2</container>
                 <unittitle>Phi Kappa Phi <unitdate type="inclusive" normal="1926/1927">1926-1927</unitdate></unittitle>
               </did>
             </c04>
@@ -500,7 +502,7 @@ Aldred Scott Warthin Papers, Bentley Historical Library, University of Michigan<
             </scopecontent>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [845163049844951871440]" altrender="box">2</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1909/1930">1909-1930</unitdate>
                 </unittitle>
@@ -511,7 +513,7 @@ Aldred Scott Warthin Papers, Bentley Historical Library, University of Michigan<
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [845163049844951871440]" altrender="box">2</container>
                 <unittitle>Michigan Papyri <unitdate type="inclusive" normal="1925/1926">1925-1926</unitdate></unittitle>
               </did>
             </c04>
@@ -522,13 +524,13 @@ Aldred Scott Warthin Papers, Bentley Historical Library, University of Michigan<
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [845163049844951871440]" altrender="box">2</container>
                 <unittitle>Faculty Concerns <unitdate type="inclusive" normal="1926/1927">1926-1927</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [845163049844951871440]" altrender="box">2</container>
                 <unittitle>Hospital <unitdate type="inclusive" normal="1927/1930">1927-1930</unitdate></unittitle>
               </did>
             </c04>
@@ -546,13 +548,13 @@ Aldred Scott Warthin Papers, Bentley Historical Library, University of Michigan<
               </did>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">2</container>
+                  <container type="box" label="Box [845163049844951871440]" altrender="box">2</container>
                   <unittitle>Vol. I <unitdate type="inclusive" normal="1896/1902">1896-1902</unitdate></unittitle>
                 </did>
               </c05>
               <c05 level="item">
                 <did>
-                  <container type="box" label="Box">2</container>
+                  <container type="box" label="Box [845163049844951871440]" altrender="box">2</container>
                   <unittitle>
                     <unitdate type="inclusive" normal="1928/1930">1928-1930</unitdate>
                   </unittitle>
@@ -561,7 +563,7 @@ Aldred Scott Warthin Papers, Bentley Historical Library, University of Michigan<
             </c04>
             <c04 level="item">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [845163049844951871440]" altrender="box">2</container>
                 <unittitle>General Correspondence <unitdate type="inclusive" normal="1925/1930">1925-1930</unitdate></unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -574,44 +576,44 @@ Aldred Scott Warthin Papers, Bentley Historical Library, University of Michigan<
               </did>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">2</container>
+                  <container type="box" label="Box [845163049844951871440]" altrender="box">2</container>
                   <unittitle>Extension <unitdate type="inclusive" normal="1917/1918">1917-1918</unitdate></unittitle>
                 </did>
               </c05>
               <c05 level="item">
                 <did>
-                  <container type="box" label="Box">2</container>
+                  <container type="box" label="Box [845163049844951871440]" altrender="box">2</container>
                   <unittitle>Social Hygiene <unitdate type="inclusive" normal="1917/1918">1917-1918</unitdate></unittitle>
                 </did>
               </c05>
             </c04>
             <c04 level="item">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [845163049844951871440]" altrender="box">2</container>
                 <unittitle>Pathology Courses and Examinations <unitdate type="inclusive" normal="1927/1929">1927-1929</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [845163049844951871440]" altrender="box">2</container>
                 <unittitle>Pathology Inventory <unitdate type="inclusive" normal="1922/1926">1922-1926</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [845163049844951871440]" altrender="box">2</container>
                 <unittitle>Student Recommendations and Concerns <unitdate type="inclusive" normal="1925/1930">1925-1930</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [845163049844951871440]" altrender="box">2</container>
                 <unittitle>Summer Session <unitdate type="inclusive" normal="1923/1929">1923-1929</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [845163049844951871440]" altrender="box">2</container>
                 <unittitle>War Activities of Pathology Department <unitdate type="inclusive" normal="1917/1918">1917-1918</unitdate></unittitle>
               </did>
             </c04>
@@ -636,79 +638,79 @@ Aldred Scott Warthin Papers, Bentley Historical Library, University of Michigan<
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [845163049844951871440]" altrender="box">2</container>
                 <unittitle><title render="italic">American Heart Journal</title>, <unitdate type="inclusive" normal="1925/1926">1925-1926</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [845163049844951871440]" altrender="box">2</container>
                 <unittitle><title render="italic">American Journal of Roentgenology and Radium Therapy</title>, <unitdate type="inclusive" normal="1923/1926">1923-1926</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [845163049844951871440]" altrender="box">2</container>
                 <unittitle><title render="italic">Contributions to Medical Science</title>, <unitdate type="inclusive" normal="1928/1929">1928-1929</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [845163049844951871440]" altrender="box">2</container>
                 <unittitle><title render="italic">The Creed of a Biologist</title>, <unitdate type="inclusive" normal="1929/1930">1929-1930</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [845163049844951871440]" altrender="box">2</container>
                 <unittitle>Ewing Cancer Number <unitdate type="inclusive" normal="1929/1930">1929-1930</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [845163049844951871440]" altrender="box">2</container>
                 <unittitle><title render="italic">Journal of the American Medical Association</title>, <unitdate type="inclusive" normal="1927/1928">1927-1928</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [845163049844951871440]" altrender="box">2</container>
                 <unittitle><title render="italic">Medical and Surgical History of the World War</title>, <unitdate type="inclusive" normal="1925/1926">1925-1926</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [845163049844951871440]" altrender="box">2</container>
                 <unittitle>C.V. Mosby Co. <unitdate type="inclusive" normal="1926/1930">1926-1930</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [845163049844951871440]" altrender="box">2</container>
                 <unittitle><title render="italic">Old Age-The Major Involution</title>, <unitdate type="inclusive" normal="1928/1930">1928-1930</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [845163049844951871440]" altrender="box">2</container>
                 <unittitle><title render="italic">Osler's Modern Medicine</title> (Memorial Volume), <unitdate type="inclusive" normal="1926">1926</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [845163049844951871440]" altrender="box">2</container>
                 <unittitle>Peerless Engraving and Colortype Co. <unitdate type="inclusive" normal="1916">1916</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [845163049844951871440]" altrender="box">2</container>
                 <unittitle><title render="italic">Physician of the Dance of Death</title>, <unitdate type="inclusive" normal="1929/1931">1929-1931</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [845163049844951871440]" altrender="box">2</container>
                 <unittitle>Roentgenotherapy Textbook <unitdate type="inclusive" normal="1929">1929</unitdate></unittitle>
               </did>
             </c04>
@@ -719,7 +721,7 @@ Aldred Scott Warthin Papers, Bentley Historical Library, University of Michigan<
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [845163049844951871440]" altrender="box">2</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1918/1919">1918-1919</unitdate>
                 </unittitle>
@@ -727,7 +729,7 @@ Aldred Scott Warthin Papers, Bentley Historical Library, University of Michigan<
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [845163049844951871440]" altrender="box">2</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1924/1930">1924-1930</unitdate>
                 </unittitle>
@@ -735,14 +737,14 @@ Aldred Scott Warthin Papers, Bentley Historical Library, University of Michigan<
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [845163049844951871440]" altrender="box">2</container>
                 <unittitle>Forthcoming <unitdate type="inclusive" normal="1929/1930">1929-1930</unitdate></unittitle>
               </did>
             </c04>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [845163049844951871440]" altrender="box">2</container>
               <unittitle>Responses to Publications <unitdate type="inclusive" normal="1918/1927">1918-1927</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -760,37 +762,37 @@ Aldred Scott Warthin Papers, Bentley Historical Library, University of Michigan<
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [845163049844951871440]" altrender="box">2</container>
                 <unittitle><title render="italic">Creed of a Biologist</title>, <unitdate type="inclusive" normal="1930">1930</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [845163049844951871440]" altrender="box">2</container>
                 <unittitle>Handbook articles</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [845163049844951871440]" altrender="box">2</container>
                 <unittitle>Legends for figures</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [845163049844951871440]" altrender="box">2</container>
                 <unittitle>Miscellaneous</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [845163049844951871440]" altrender="box">2</container>
                 <unittitle>Mustard Gas Poisoning <unitdate type="inclusive" normal="1922/1924">1922-1924</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [845163049844951871440]" altrender="box">2</container>
                 <unittitle>
                   <title render="italic">Old Age</title>
                 </unittitle>
@@ -798,7 +800,7 @@ Aldred Scott Warthin Papers, Bentley Historical Library, University of Michigan<
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [845163049844951871440]" altrender="box">2</container>
                 <unittitle>
                   <title render="italic">Physician of the Dance of Death</title>
                 </unittitle>
@@ -806,19 +808,19 @@ Aldred Scott Warthin Papers, Bentley Historical Library, University of Michigan<
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [845163049844951871440]" altrender="box">2</container>
                 <unittitle>Statistical data and legends</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [845163049844951871440]" altrender="box">2</container>
                 <unittitle>Syphilis</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [845163049844951871440]" altrender="box">2</container>
                 <unittitle>Venereal Disease</unittitle>
               </did>
             </c04>
@@ -829,7 +831,7 @@ Aldred Scott Warthin Papers, Bentley Historical Library, University of Michigan<
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [845163049844951871440]" altrender="box">2</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1909/1930">1909-1930</unitdate>
                 </unittitle>
@@ -841,7 +843,7 @@ Aldred Scott Warthin Papers, Bentley Historical Library, University of Michigan<
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [845163049844951871440]" altrender="box">2</container>
               <unittitle>Reprints <unitdate type="inclusive" normal="1911/1931">1911-1931</unitdate></unittitle>
             </did>
           </c03>
@@ -856,7 +858,7 @@ Aldred Scott Warthin Papers, Bentley Historical Library, University of Michigan<
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [845163049844951871440]" altrender="box">2</container>
             <unittitle>Diary <unitdate type="inclusive" normal="1893">1893</unitdate></unittitle>
           </did>
         </c02>
@@ -866,32 +868,32 @@ Aldred Scott Warthin Papers, Bentley Historical Library, University of Michigan<
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [845163049844951871440]" altrender="box">2</container>
               <unittitle>Resolutions/Correspondence <unitdate type="inclusive" normal="1931/1932">1931-1932</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [845163049844951871440]" altrender="box">2</container>
               <unittitle>Published Reprints <unitdate type="inclusive" normal="1931/1935">1931-1935</unitdate></unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [845163049844951871440]" altrender="box">2</container>
             <unittitle>Clippings <unitdate type="inclusive" normal="1895/1936">1895-1936</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [845163049844951871440]" altrender="box">2</container>
             <unittitle><genreform normal="Photographs">Photographs</genreform>, <unitdate type="inclusive" normal="1898/1926">1898-1926</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [845163049844951871440]" altrender="box">2</container>
             <unittitle>House and family photographs and glass plate negatives.</unittitle>
           </did>
         </c02>
@@ -905,7 +907,7 @@ Aldred Scott Warthin Papers, Bentley Historical Library, University of Michigan<
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [9212490744964737798]" altrender="box">3</container>
             <unittitle>
               <unitdate type="inclusive" normal="1923/1924">1923-1924</unitdate>
             </unittitle>
@@ -919,13 +921,13 @@ Aldred Scott Warthin Papers, Bentley Historical Library, University of Michigan<
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [9212490744964737798]" altrender="box">3</container>
               <unittitle>General Correspondence</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [9212490744964737798]" altrender="box">3</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1924-07/1924-08">July-August 1924</unitdate>
               </unittitle>
@@ -943,13 +945,13 @@ Aldred Scott Warthin Papers, Bentley Historical Library, University of Michigan<
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [9212490744964737798]" altrender="box">3</container>
               <unittitle>General Correspondence</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [9212490744964737798]" altrender="box">3</container>
               <unittitle>Monthly files <unitdate type="inclusive" normal="1926-07/1927-06">July 1926-June 1927</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">12 folders</extent>
@@ -965,13 +967,13 @@ Aldred Scott Warthin Papers, Bentley Historical Library, University of Michigan<
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [9212490744964737798]" altrender="box">3</container>
               <unittitle>General Correspondence</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [9212490744964737798]" altrender="box">3</container>
               <unittitle>Monthly files <unitdate type="inclusive" normal="1927-07/1928-06">July 1927-June 1928</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">10 folders</extent>
@@ -987,13 +989,13 @@ Aldred Scott Warthin Papers, Bentley Historical Library, University of Michigan<
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [9212490744964737798]" altrender="box">3</container>
               <unittitle>General Correspondence</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [9212490744964737798]" altrender="box">3</container>
               <unittitle>Monthly file <unitdate type="inclusive" normal="1928-07/1929-06">July 1928-June 1929</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">12 folders</extent>
@@ -1009,19 +1011,19 @@ Aldred Scott Warthin Papers, Bentley Historical Library, University of Michigan<
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [9212490744964737798]" altrender="box">3</container>
               <unittitle>General Correspondence</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [9212490744964737798]" altrender="box">3</container>
               <unittitle>Minneapolis Clinical Session</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [9212490744964737798]" altrender="box">3</container>
               <unittitle>Monthly files <unitdate type="inclusive" normal="1929-07/1930-06">July 1929-June 1930</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">12 folders</extent>
@@ -1036,100 +1038,100 @@ Aldred Scott Warthin Papers, Bentley Historical Library, University of Michigan<
         <head>Selective Index to Correspondents</head>
         <item>Adami, J. George (John George), 1862-1926
           <list type="simple">
-            <item>in Correspondence, General March 29, 1887, April 10, 1897</item>
+            <item altrender="skip">in Correspondence, General March 29, 1887, April 10, 1897</item>
           </list>
         </item>
         <item>Beal, Junius Emery, 1860-1942
           <list type="simple">
-            <item>in Topical Files, University of Michigan, Medical Library Jan. 18, 1926, March 6, 1926</item>
-            <item>in Correspondence, General Nov. 13, 1918, July 15, 1923</item>
+            <item altrender="skip">in Topical Files, University of Michigan, Medical Library Jan. 18, 1926, March 6, 1926</item>
+            <item altrender="skip">in Correspondence, General Nov. 13, 1918, July 15, 1923</item>
           </list>
         </item>
         <item>Clements, William L. (William Lawrence), 1861-1934
           <list type="simple">
-            <item>in Topical Files, University of Michigan, Medical Library Feb. 6, 1926</item>
+            <item altrender="skip">in Topical Files, University of Michigan, Medical Library Feb. 6, 1926</item>
           </list>
         </item>
         <item>Flexner, Simon, 1863-1946
           <list type="simple">
-            <item>in Writings, Publications, Chronological Series June 28, 1918, May 31, 1927</item>
-            <item>in Topical Files, University of Michigan, Honor Societies, Alpha Omega Alpha April 23, 1926, Feb. 1, 1927</item>
-            <item>in Correspondence, General April 13, 1897, Oct. 3, 1902</item>
-            <item>in Topical Files, University of Michigan, Student Recommendations and Concerns Oct. 28, 1929</item>
+            <item altrender="skip">in Writings, Publications, Chronological Series June 28, 1918, May 31, 1927</item>
+            <item altrender="skip">in Topical Files, University of Michigan, Honor Societies, Alpha Omega Alpha April 23, 1926, Feb. 1, 1927</item>
+            <item altrender="skip">in Correspondence, General April 13, 1897, Oct. 3, 1902</item>
+            <item altrender="skip">in Topical Files, University of Michigan, Student Recommendations and Concerns Oct. 28, 1929</item>
           </list>
         </item>
         <item>Hektoen, Ludvig, 1863-1951
           <list type="simple">
-            <item>in Topical Files, Associations and Organizations, American Medical Association Nov. 1, 1927</item>
-            <item>in Topical Files, Associations and Organizations, Archives of Pathology Nov. 9, 1925, Nov. 8, 1926, April 4, 1927, May 12, 1927, May 24, 1927, Nov. 9, 1927, Dec. 1, 1927</item>
-            <item>in Topical Files, Associations and Organizations, National Research Council Dec. 8, 1924, Jan. 8, 1925, May 29, 1925, June 30, 1925</item>
-            <item>in Topical Files, Associations and Organizations, National Research Council, Medicolegal Institute Nov. 18, 1924, Nov. 29, 1924</item>
-            <item>in Writings, Publications, Chronological Series Dec. 5, 1924, Sept. 14, 1925, Sept. 18, 1925, Nov. 21, 1925, Feb. 19, 1926, Oct. 11, 1928, Oct. 15, 1928</item>
-            <item>in Topical Files, Medical Opinions, Advice and Studies, Dibothriocephalus latus investigation March 12, 1928, Dec. 17, 1928, Oct. 15, 1928</item>
-            <item>in Topical Files, Medical Opinions, Advice and Studies, Pernicious Anemia Oct. 27, 1924</item>
-            <item>in Correspondence, Personal Dec. 13, 1926</item>
-            <item>in Correspondence, General, March 5, 1910, March 21, 1910, March 26, 1910, June 18, 1910, Sept. 24, 1910</item>
+            <item altrender="skip">in Topical Files, Associations and Organizations, American Medical Association Nov. 1, 1927</item>
+            <item altrender="skip">in Topical Files, Associations and Organizations, Archives of Pathology Nov. 9, 1925, Nov. 8, 1926, April 4, 1927, May 12, 1927, May 24, 1927, Nov. 9, 1927, Dec. 1, 1927</item>
+            <item altrender="skip">in Topical Files, Associations and Organizations, National Research Council Dec. 8, 1924, Jan. 8, 1925, May 29, 1925, June 30, 1925</item>
+            <item altrender="skip">in Topical Files, Associations and Organizations, National Research Council, Medicolegal Institute Nov. 18, 1924, Nov. 29, 1924</item>
+            <item altrender="skip">in Writings, Publications, Chronological Series Dec. 5, 1924, Sept. 14, 1925, Sept. 18, 1925, Nov. 21, 1925, Feb. 19, 1926, Oct. 11, 1928, Oct. 15, 1928</item>
+            <item altrender="skip">in Topical Files, Medical Opinions, Advice and Studies, Dibothriocephalus latus investigation March 12, 1928, Dec. 17, 1928, Oct. 15, 1928</item>
+            <item altrender="skip">in Topical Files, Medical Opinions, Advice and Studies, Pernicious Anemia Oct. 27, 1924</item>
+            <item altrender="skip">in Correspondence, Personal Dec. 13, 1926</item>
+            <item altrender="skip">in Correspondence, General, March 5, 1910, March 21, 1910, March 26, 1910, June 18, 1910, Sept. 24, 1910</item>
           </list>
         </item>
         <item>Jacobi, A. (Abraham), 1830-1919
           <list type="simple">
-            <item>in Correspondence, General April 17, 1907, June 18, 1908, June 30, 1908</item>
+            <item altrender="skip">in Correspondence, General April 17, 1907, June 18, 1908, June 30, 1908</item>
           </list>
         </item>
         <item>Kellogg, John Harvey, 1852-1943
           <list type="simple">
-            <item>in Correspondence, General June 13, 1927
+            <item altrender="skip">in Correspondence, General June 13, 1927
               <list type="simple">
-                <item>Selective Name Index (cont.)</item>
+                <item altrender="skip">Selective Name Index (cont.)</item>
               </list>
             </item>
           </list>
         </item>
         <item>Krumbhaar, E.B. (Edward Bell), 1882-
           <list type="simple">
-            <item>in Topical Files, Associations and Organizations, American Association of the History of Medicine April 29, 1930</item>
-            <item>in Topical Files, Associations and Organizations, Federation of American Societies for Experimental Biology Jan 3, 1924, Aug. 24, 1924, Sept. 5, 1924, Oct. 30, 1924, Nov. 18, 1924, Nov. 28, 1924, Dec. 4, 1924, Dec. 10, 1924, Dec. 15, 1924, Dec. 19, 1924, Jan. 8, 1925, Jan. 19, 1925, Jan. 26, 1927, Feb. 26, 1927</item>
-            <item>in Topical Files, Associations and Organizations, International Society for Medical History March 26, 1927</item>
-            <item>in Correspondence, General Jan. 14, 1928, May 18, 1928</item>
+            <item altrender="skip">in Topical Files, Associations and Organizations, American Association of the History of Medicine April 29, 1930</item>
+            <item altrender="skip">in Topical Files, Associations and Organizations, Federation of American Societies for Experimental Biology Jan 3, 1924, Aug. 24, 1924, Sept. 5, 1924, Oct. 30, 1924, Nov. 18, 1924, Nov. 28, 1924, Dec. 4, 1924, Dec. 10, 1924, Dec. 15, 1924, Dec. 19, 1924, Jan. 8, 1925, Jan. 19, 1925, Jan. 26, 1927, Feb. 26, 1927</item>
+            <item altrender="skip">in Topical Files, Associations and Organizations, International Society for Medical History March 26, 1927</item>
+            <item altrender="skip">in Correspondence, General Jan. 14, 1928, May 18, 1928</item>
           </list>
         </item>
         <item>Mayo, William James, 1861-1939
           <list type="simple">
-            <item>in Topical Files, University of Michigan, Medical Library Feb. 3, 1926, May 31, 1926</item>
-            <item>in Correspondence, General Dec. 28, 1925</item>
+            <item altrender="skip">in Topical Files, University of Michigan, Medical Library Feb. 3, 1926, May 31, 1926</item>
+            <item altrender="skip">in Correspondence, General Dec. 28, 1925</item>
           </list>
         </item>
         <item>Osler, William, Sir, 1849-1919
           <list type="simple">
-            <item>in William Osler Correspondence folder</item>
+            <item altrender="skip">in William Osler Correspondence folder</item>
           </list>
         </item>
         <item>Rous, Peyton, 1879-1970
           <list type="simple">
-            <item>in Topical Files, Associations and Organizations, Rockefeller Institute Feb. 2, 1925, Feb. 7, 1925</item>
-            <item>in Topical Files, Medical Opinions, Advice and Studies, Dinitrophenal Study Oct. 24, 1918, Nov. 13, 1918, Nov. 14, 1918</item>
-            <item>in Topical Files, University of Michigan, Honor Societies, Alpha Omega Alpha Oct. 28, 1925, Feb. 3, 1926</item>
-            <item>in Correspondence, Personal Dec. 15, 1924</item>
-            <item>also in Correspondence, Miscellaneous (Warthin and Weller)</item>
+            <item altrender="skip">in Topical Files, Associations and Organizations, Rockefeller Institute Feb. 2, 1925, Feb. 7, 1925</item>
+            <item altrender="skip">in Topical Files, Medical Opinions, Advice and Studies, Dinitrophenal Study Oct. 24, 1918, Nov. 13, 1918, Nov. 14, 1918</item>
+            <item altrender="skip">in Topical Files, University of Michigan, Honor Societies, Alpha Omega Alpha Oct. 28, 1925, Feb. 3, 1926</item>
+            <item altrender="skip">in Correspondence, Personal Dec. 15, 1924</item>
+            <item altrender="skip">also in Correspondence, Miscellaneous (Warthin and Weller)</item>
           </list>
         </item>
         <item>Sanford, Arthur Hawley, 1882-
           <list type="simple">
-            <item>in Topical Files, Medical Opinions, Advice and Studies, Medical Opinions and Advice Feb. 26, 1924, March 6, 1924</item>
+            <item altrender="skip">in Topical Files, Medical Opinions, Advice and Studies, Medical Opinions and Advice Feb. 26, 1924, March 6, 1924</item>
           </list>
         </item>
         <item>Vaughan, Victor C. (Victor Clarence), 1851-1929
           <list type="simple">
-            <item>in Writings, Publications, Chronological Series May 23, 1918, July 18, 1918, Nov. 4, 1918</item>
-            <item>in Topical Files, University of Michigan, Pathology Department, War Activities of Pathology Department March 30, 1918</item>
-            <item>in Correspondence, Personal Oct. 3, 1925, Oct. 10, 1925, Feb. 3, 1926, May 21, 1926</item>
-            <item>in Correspondence, Miscellaneous (Warthin and Weller), Jan. 21, 1928</item>
+            <item altrender="skip">in Writings, Publications, Chronological Series May 23, 1918, July 18, 1918, Nov. 4, 1918</item>
+            <item altrender="skip">in Topical Files, University of Michigan, Pathology Department, War Activities of Pathology Department March 30, 1918</item>
+            <item altrender="skip">in Correspondence, Personal Oct. 3, 1925, Oct. 10, 1925, Feb. 3, 1926, May 21, 1926</item>
+            <item altrender="skip">in Correspondence, Miscellaneous (Warthin and Weller), Jan. 21, 1928</item>
           </list>
         </item>
         <item>Welch, William Henry, 1850-1934
           <list type="simple">
-            <item>in Correspondence, General April 10, 1897, Nov. 21, 1900, April 29, 1907, Oct. 16, 1907, April 8, 1908, July 18, 1908, Aug. 29, 1908, March 26, 1917, Aug. 27, 1918</item>
-            <item>in Correspondence, Miscellaneous (Warthin and Weller), June 21, 1916</item>
+            <item altrender="skip">in Correspondence, General April 10, 1897, Nov. 21, 1900, April 29, 1907, Oct. 16, 1907, April 8, 1908, July 18, 1908, Aug. 29, 1908, March 26, 1917, Aug. 27, 1918</item>
+            <item altrender="skip">in Correspondence, Miscellaneous (Warthin and Weller), June 21, 1916</item>
           </list>
         </item>
       </list>

@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>E. B. Muller and Company (Port Huron, Mich.) records, 1902-1937</titleproper>
       <author>Finding aid created by <lb/>Michigan Historical Collections staff</author>
     </titlepage>
@@ -82,9 +82,9 @@ E. B. Muller and Company (Port Huron, Mich.) records, Bentley Historical Library
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <subject source="lcsh" encodinganalog="650">Business records.</subject>
-        <subject source="lcsh" encodinganalog="650">Chicory.</subject>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n83030021.html">Port Huron (Mich.)</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5784">Business records.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7376">Chicory.</subject>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n83030021.html" ref="/subjects/1206">Port Huron (Mich.)</geogname>
       </controlaccess>
       <controlaccess>
         <head>Contributors:</head>
@@ -98,11 +98,13 @@ E. B. Muller and Company (Port Huron, Mich.) records, Bentley Historical Library
         </did>
         <c02 level="file">
           <did>
-            <unittitle>Correspondence and other papers <unitdate normal="1902/1937">1902-1937</unitdate>, <unitdate>undated</unitdate></unittitle>
+            <unittitle>Correspondence and other papers</unittitle>
+            <unitdate normal="1902/1937">1902-1937</unitdate>
+            <unitdate>undated</unitdate>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [38503277430424400953]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive">Undated</unitdate>
               </unittitle>
@@ -110,7 +112,7 @@ E. B. Muller and Company (Port Huron, Mich.) records, Bentley Historical Library
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [38503277430424400953]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1902/1905">1902-1905</unitdate>
               </unittitle>
@@ -118,7 +120,7 @@ E. B. Muller and Company (Port Huron, Mich.) records, Bentley Historical Library
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [38503277430424400953]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1910/1914">1910-1914</unitdate>
               </unittitle>
@@ -126,7 +128,7 @@ E. B. Muller and Company (Port Huron, Mich.) records, Bentley Historical Library
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [38503277430424400953]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1917/1919">1917-1919</unitdate>
               </unittitle>
@@ -134,7 +136,7 @@ E. B. Muller and Company (Port Huron, Mich.) records, Bentley Historical Library
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [38503277430424400953]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1920/1928">1920-1928</unitdate>
               </unittitle>
@@ -142,7 +144,7 @@ E. B. Muller and Company (Port Huron, Mich.) records, Bentley Historical Library
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [38503277430424400953]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1932/1937">1932-1937</unitdate>
               </unittitle>
@@ -155,7 +157,7 @@ E. B. Muller and Company (Port Huron, Mich.) records, Bentley Historical Library
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [38503277430424400953]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1925/1926">1925-1926</unitdate>
               </unittitle>
@@ -163,7 +165,7 @@ E. B. Muller and Company (Port Huron, Mich.) records, Bentley Historical Library
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [38503277430424400953]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1927/1929">1927-1929</unitdate>
               </unittitle>
@@ -171,7 +173,7 @@ E. B. Muller and Company (Port Huron, Mich.) records, Bentley Historical Library
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [38503277430424400953]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1930/1932">1930-1932</unitdate>
               </unittitle>
@@ -179,7 +181,7 @@ E. B. Muller and Company (Port Huron, Mich.) records, Bentley Historical Library
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [38503277430424400953]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1933/1934">1933-1934</unitdate>
               </unittitle>
@@ -187,7 +189,7 @@ E. B. Muller and Company (Port Huron, Mich.) records, Bentley Historical Library
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [38503277430424400953]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1935/1936">1935-1936</unitdate>
               </unittitle>
@@ -195,7 +197,7 @@ E. B. Muller and Company (Port Huron, Mich.) records, Bentley Historical Library
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [38503277430424400953]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1937">1937</unitdate>
               </unittitle>
@@ -208,7 +210,7 @@ E. B. Muller and Company (Port Huron, Mich.) records, Bentley Historical Library
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [38503277430424400953]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1917/1927">1917-1927</unitdate>
               </unittitle>
@@ -216,7 +218,7 @@ E. B. Muller and Company (Port Huron, Mich.) records, Bentley Historical Library
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [38503277430424400953]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1928/1936">1928-1936</unitdate>
               </unittitle>
@@ -225,7 +227,7 @@ E. B. Muller and Company (Port Huron, Mich.) records, Bentley Historical Library
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [38503277430424400953]" altrender="box">1</container>
             <unittitle>Manufacturing Records <unitdate type="inclusive" normal="1925/1936">1925-1936</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">4 folders</extent>
@@ -234,7 +236,7 @@ E. B. Muller and Company (Port Huron, Mich.) records, Bentley Historical Library
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [38503277430424400953]" altrender="box">1</container>
             <unittitle>Unpaid ledger balances <unitdate type="inclusive" normal="1934">1934</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">5 folders</extent>
@@ -247,7 +249,7 @@ E. B. Muller and Company (Port Huron, Mich.) records, Bentley Historical Library
           </did>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">1</container>
+              <container type="volume" label="Oversize Volume [1042353184448106202745992]" altrender="volume">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1910-06/1912-02">June 1910-February 1912</unitdate>
               </unittitle>
@@ -255,7 +257,7 @@ E. B. Muller and Company (Port Huron, Mich.) records, Bentley Historical Library
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">2</container>
+              <container type="volume" label="Oversize Volume [34632650340772512801189]" altrender="volume">2</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1915-10/1919-09">October 1915-September 1919</unitdate>
               </unittitle>
@@ -263,7 +265,7 @@ E. B. Muller and Company (Port Huron, Mich.) records, Bentley Historical Library
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">3</container>
+              <container type="volume" label="Oversize Volume [970793464976144]" altrender="volume">3</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1919-10/1926-01">October 1919-January 1926</unitdate>
               </unittitle>
@@ -276,7 +278,7 @@ E. B. Muller and Company (Port Huron, Mich.) records, Bentley Historical Library
           </did>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">4</container>
+              <container type="volume" label="Oversize Volume [08204790163689964]" altrender="volume">4</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1910-10/1911-09">October 1910-September 1911</unitdate>
               </unittitle>
@@ -284,7 +286,7 @@ E. B. Muller and Company (Port Huron, Mich.) records, Bentley Historical Library
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">5</container>
+              <container type="volume" label="Oversize Volume [26273001499581720629]" altrender="volume">5</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1911-10/1912-09">October 1911-September 1912</unitdate>
               </unittitle>
@@ -292,7 +294,7 @@ E. B. Muller and Company (Port Huron, Mich.) records, Bentley Historical Library
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">6</container>
+              <container type="volume" label="Oversize Volume [59390332574266209701757]" altrender="volume">6</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1912-10/1913-09">October 1912-September 1913</unitdate>
               </unittitle>

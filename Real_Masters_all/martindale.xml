@@ -35,7 +35,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Arthur Ingraham Martindale Collection, 1852-2013</titleproper>
       <author>Finding aid created by <lb/>Molly Malcolm, November 2013 <lb/> and the donors Marguerite Martindale Braden and Helen Martindale Roberts</author>
     </titlepage>
@@ -45,7 +45,9 @@
       <origination>
         <persname source="lcnaf" encodinganalog="100">Martindale, Arthur Ingraham, 1910-1977</persname>
       </origination>
-      <unittitle encodinganalog="245">Arthur Ingraham Martindale collection <unitdate type="inclusive" encodinganalog="245$f" normal="1852/2013">1852-2013</unitdate>, <unitdate type="bulk" encodinganalog="245$g" normal="1861/1880">1861-1880</unitdate></unittitle>
+      <unittitle encodinganalog="245">Arthur Ingraham Martindale collection</unittitle>
+      <unitdate type="inclusive" encodinganalog="245$f" normal="1852/2013">1852-2013</unitdate>
+      <unitdate type="bulk" encodinganalog="245$g" normal="1861/1880">1861-1880</unitdate>
       <unitid encodinganalog="852$h" repositorycode="MiU-H" countrycode="us" type="call number">2013149 Aa 2
 AC</unitid>
       <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language></langmaterial>
@@ -94,16 +96,16 @@ Arthur Ingraham Martindale Collection, Bentley Historical Library, University of
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <geogname source="lcsh" encodinganalog="651">Bay County (Mich.)--History.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/2292">Bay County (Mich.)--History.</geogname>
         <persname source="lcnaf" encodinganalog="600">Ingraham, Amelia P., 1822-1916.</persname>
         <persname source="lcnaf" encodinganalog="600">Ingraham, Edward W., 1812-1881.</persname>
         <famname source="lcnaf" encodinganalog="600">Ingram family.</famname>
         <persname source="lcnaf" encodinganalog="600">Martindale, Arthur Ingraham, 1910-</persname>
         <famname source="lcnaf" encodinganalog="600">Martindale family.</famname>
-        <subject source="lcsh" encodinganalog="650">Logging--Michigan.</subject>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n81035814.html">Old Saybrook (Conn.)</geogname>
-        <subject source="lcsh" encodinganalog="650">Shipping--Michigan.</subject>
-        <subject source="lcsh" encodinganalog="650">Timber--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6772">Logging--Michigan.</subject>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n81035814.html" ref="/subjects/2293">Old Saybrook (Conn.)</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/8945">Shipping--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/8946">Timber--Michigan.</subject>
       </controlaccess>
       <controlaccess>
         <head>Contributors:</head>
@@ -112,11 +114,11 @@ Arthur Ingraham Martindale Collection, Bentley Historical Library, University of
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Business letters.</genreform>
-        <genreform source="aat" encodinganalog="655">Deeds.</genreform>
-        <genreform source="aat" encodinganalog="655">Insurance policies.</genreform>
-        <genreform source="aat" encodinganalog="655">Legal correspondence.</genreform>
-        <genreform source="aat" encodinganalog="655">Ships' logs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3321">Business letters.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3322">Deeds.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3323">Insurance policies.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3324">Legal correspondence.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3325">Ships' logs.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -129,65 +131,69 @@ Arthur Ingraham Martindale Collection, Bentley Historical Library, University of
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [5897848645898548055021]" altrender="box">1</container>
             <unittitle>Index and introduction</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [5897848645898548055021]" altrender="box">1</container>
             <unittitle>"Inventory of Documents and Letters from Arthur Ingraham Martindale's Collection of Edward Ingraham's Business and Personal Papers with Summaries" [2014]</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [5897848645898548055021]" altrender="box">1</container>
             <unittitle>Statement of Partial Loss Case of the Ship Colorado, Geo. E. Ingraham, Master <unitdate type="inclusive" normal="1875">1875</unitdate> (and photocopies)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [5897848645898548055021]" altrender="box">1</container>
             <unittitle>The Steamship Colorado ship's log, 1875 photograph</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [5897848645898548055021]" altrender="box">1</container>
             <unittitle>"Martindale's Bevel Angles: Bins, Towers, Hip and Valley Roofs" engineering manual by Frank L. Martindale <unitdate type="inclusive" normal="1948">1948</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [5897848645898548055021]" altrender="box">1</container>
             <unittitle>Remember the Poor and The Tarry Sailor, poetry newspaper clipping</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <unittitle>Newspaper clippings <unitdate type="inclusive" normal="1905/1912">1905-1912 (scattered)</unitdate>, <unitdate type="inclusive">undated</unitdate></unittitle>
+            <container type="box" label="Box [5897848645898548055021]" altrender="box">1</container>
+            <unittitle>Newspaper clippings</unittitle>
+            <unitdate type="inclusive" normal="1905/1912">1905-1912 (scattered)</unitdate>
+            <unitdate type="inclusive">undated</unitdate>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [5897848645898548055021]" altrender="box">1</container>
             <unittitle>H.D. Bradock &amp; Co. from Ingraham Martindale Collection</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <unittitle>Letters <unitdate type="inclusive" normal="1861/1882">1861-1882</unitdate>, <unitdate type="inclusive" normal="1937">1937</unitdate></unittitle>
+            <unittitle>Letters</unittitle>
+            <unitdate type="inclusive" normal="1861/1882">1861-1882</unitdate>
+            <unitdate type="inclusive" normal="1937">1937</unitdate>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [5897848645898548055021]" altrender="box">1</container>
               <unittitle><unitdate type="inclusive" normal="1861/1862">1861-1862</unitdate> from Ingraham Martindale Collection</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [5897848645898548055021]" altrender="box">1</container>
               <unittitle><unitdate type="inclusive" normal="1863-01/1863-02">January-February, 1863</unitdate> from Ingraham Martindale Collection</unittitle>
             </did>
             <odd>
@@ -196,7 +202,7 @@ Arthur Ingraham Martindale Collection, Bentley Historical Library, University of
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [5897848645898548055021]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1863-03/1863-04">March-April, 1863</unitdate>
               </unittitle>
@@ -204,7 +210,7 @@ Arthur Ingraham Martindale Collection, Bentley Historical Library, University of
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [5897848645898548055021]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1863-05">May 1863</unitdate>
               </unittitle>
@@ -215,7 +221,7 @@ Arthur Ingraham Martindale Collection, Bentley Historical Library, University of
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [5897848645898548055021]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1863-06">June 1863</unitdate>
               </unittitle>
@@ -226,7 +232,7 @@ Arthur Ingraham Martindale Collection, Bentley Historical Library, University of
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [5897848645898548055021]" altrender="box">1</container>
               <unittitle>July 1863I</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -235,7 +241,7 @@ Arthur Ingraham Martindale Collection, Bentley Historical Library, University of
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [5897848645898548055021]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1863-08">August 1863</unitdate>
               </unittitle>
@@ -243,7 +249,7 @@ Arthur Ingraham Martindale Collection, Bentley Historical Library, University of
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [5897848645898548055021]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1863-09/1863-10">September-October, 1863</unitdate>
               </unittitle>
@@ -251,7 +257,7 @@ Arthur Ingraham Martindale Collection, Bentley Historical Library, University of
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [5897848645898548055021]" altrender="box">1</container>
               <unittitle>November-December,1863</unittitle>
             </did>
             <odd>
@@ -260,7 +266,7 @@ Arthur Ingraham Martindale Collection, Bentley Historical Library, University of
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [5897848645898548055021]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1864/1865">1864-1865</unitdate>
               </unittitle>
@@ -271,7 +277,7 @@ Arthur Ingraham Martindale Collection, Bentley Historical Library, University of
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [5897848645898548055021]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1867-01/1867-07">January-July, 1867</unitdate>
               </unittitle>
@@ -279,7 +285,7 @@ Arthur Ingraham Martindale Collection, Bentley Historical Library, University of
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [5897848645898548055021]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1867-08/1867-12">August-December, 1867</unitdate>
               </unittitle>
@@ -287,7 +293,7 @@ Arthur Ingraham Martindale Collection, Bentley Historical Library, University of
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [5897848645898548055021]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1876-01/1876-07">January-July, 1876</unitdate>
               </unittitle>
@@ -295,7 +301,7 @@ Arthur Ingraham Martindale Collection, Bentley Historical Library, University of
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [5897848645898548055021]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1876-08/1876-12">August-December, 1876</unitdate>
               </unittitle>
@@ -303,7 +309,7 @@ Arthur Ingraham Martindale Collection, Bentley Historical Library, University of
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [5897848645898548055021]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1877-01/1877-06">January-June, 1877</unitdate>
               </unittitle>
@@ -314,7 +320,7 @@ Arthur Ingraham Martindale Collection, Bentley Historical Library, University of
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [5897848645898548055021]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1877-06/1877-09">June-September, 1877</unitdate>
               </unittitle>
@@ -325,7 +331,7 @@ Arthur Ingraham Martindale Collection, Bentley Historical Library, University of
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [5897848645898548055021]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1878-01/1878-03">January-March, 1878</unitdate>
               </unittitle>
@@ -336,7 +342,7 @@ Arthur Ingraham Martindale Collection, Bentley Historical Library, University of
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [5897848645898548055021]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1878-03/1878-09">March-September, 1878</unitdate>
               </unittitle>
@@ -344,7 +350,7 @@ Arthur Ingraham Martindale Collection, Bentley Historical Library, University of
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [5897848645898548055021]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1878-10/1878-12">October-December, 1878</unitdate>
               </unittitle>
@@ -352,7 +358,7 @@ Arthur Ingraham Martindale Collection, Bentley Historical Library, University of
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [5897848645898548055021]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1879-01/1879-09">January-September, 1879</unitdate>
               </unittitle>
@@ -360,7 +366,7 @@ Arthur Ingraham Martindale Collection, Bentley Historical Library, University of
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [5897848645898548055021]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1879-10/1879-12">October-December 1879</unitdate>
               </unittitle>
@@ -368,7 +374,7 @@ Arthur Ingraham Martindale Collection, Bentley Historical Library, University of
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [5897848645898548055021]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1880">1880</unitdate>
               </unittitle>
@@ -376,7 +382,7 @@ Arthur Ingraham Martindale Collection, Bentley Historical Library, University of
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [5897848645898548055021]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1881">1881</unitdate>
               </unittitle>
@@ -384,7 +390,7 @@ Arthur Ingraham Martindale Collection, Bentley Historical Library, University of
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [5897848645898548055021]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1882-04-21">April 21, 1882</unitdate>
               </unittitle>
@@ -392,7 +398,7 @@ Arthur Ingraham Martindale Collection, Bentley Historical Library, University of
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [5897848645898548055021]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1937-08-23">August 23, 1937</unitdate>
               </unittitle>
@@ -401,8 +407,10 @@ Arthur Ingraham Martindale Collection, Bentley Historical Library, University of
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">1</container>
-            <unittitle>Oversize original and copies of deeds and mortgages <unitdate type="inclusive" normal="1856/1864">1856-1864</unitdate>, <unitdate type="inclusive">undated</unitdate></unittitle>
+            <container type="volume" label="Oversize Volume [16596514068505850690]" altrender="volume">1</container>
+            <unittitle>Oversize original and copies of deeds and mortgages</unittitle>
+            <unitdate type="inclusive" normal="1856/1864">1856-1864</unitdate>
+            <unitdate type="inclusive">undated</unitdate>
           </did>
         </c02>
       </c01>
@@ -415,31 +423,34 @@ Arthur Ingraham Martindale Collection, Bentley Historical Library, University of
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [5897848645898548055021]" altrender="box">1</container>
             <unittitle>Notes to Itemized List, Itemized List, and DVD of Arthur Ingraham Martindale collection documents, compiled by Helen M. Roberts <unitdate type="inclusive" normal="2013-10">October 2013</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [5897848645898548055021]" altrender="box">1</container>
             <unittitle>Insurance documents and bills of sale <unitdate type="inclusive" normal="1856/1877">1856-1877</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [5897848645898548055021]" altrender="box">1</container>
             <unittitle>Release of dower deeds, bill of Sale, and notary public certification <unitdate type="inclusive" normal="1857/1865">1857-1865</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <unittitle>Partnership agreements, land division agreements and deed certification <unitdate type="inclusive" normal="1852">1852</unitdate>, <unitdate type="inclusive" normal="1862">1862</unitdate>, <unitdate type="inclusive">undated</unitdate></unittitle>
+            <container type="box" label="Box [5897848645898548055021]" altrender="box">1</container>
+            <unittitle>Partnership agreements, land division agreements and deed certification</unittitle>
+            <unitdate type="inclusive" normal="1852">1852</unitdate>
+            <unitdate type="inclusive" normal="1862">1862</unitdate>
+            <unitdate type="inclusive">undated</unitdate>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [5897848645898548055021]" altrender="box">1</container>
             <unittitle>Letters to H.D. Braddock and Co. <unitdate type="inclusive" normal="1863-11/1863-12">November-December 1863</unitdate></unittitle>
           </did>
         </c02>
@@ -449,7 +460,7 @@ Arthur Ingraham Martindale Collection, Bentley Historical Library, University of
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [5897848645898548055021]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1877-04/1877-06">April-June 1877</unitdate>
               </unittitle>
@@ -457,7 +468,7 @@ Arthur Ingraham Martindale Collection, Bentley Historical Library, University of
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [5897848645898548055021]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1877-07/1877-12">July-December 1877</unitdate>
               </unittitle>
@@ -465,7 +476,7 @@ Arthur Ingraham Martindale Collection, Bentley Historical Library, University of
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [5897848645898548055021]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1879-01/1879-06">January-June 1879</unitdate>
               </unittitle>
@@ -476,7 +487,7 @@ Arthur Ingraham Martindale Collection, Bentley Historical Library, University of
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [5897848645898548055021]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1879-07/1879-11">July-November 1879</unitdate>
               </unittitle>
@@ -485,7 +496,7 @@ Arthur Ingraham Martindale Collection, Bentley Historical Library, University of
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [5897848645898548055021]" altrender="box">1</container>
             <unittitle>Letters to M.J. Baily from Amelia P. Ingraham <unitdate type="inclusive" normal="1880-12/1881-07">December 1880-July 1881</unitdate></unittitle>
           </did>
         </c02>

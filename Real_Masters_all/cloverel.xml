@@ -31,7 +31,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Elzada U. Clover papers, 1938-1944</titleproper>
       <author>Finding aid created by <lb/>Michigan Historical Collections Staff</author>
     </titlepage>
@@ -97,37 +97,37 @@ Elzada U. Clover papers, Bentley Historical Library, University of Michigan</p>
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <subject source="lcsh" encodinganalog="650">Botany.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6128">Botany.</subject>
         <persname source="lcnaf" encodinganalog="600">Clover, Elzada Urseba, 1897-1980.</persname>
-        <geogname source="lcsh" encodinganalog="651">Colorado River (Colo.-Mexico)</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1604">Colorado River (Colo.-Mexico)</geogname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan. Dept. of Botany.</corpname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan. Matthaei Botanical Gardens.</corpname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan--Faculty.</corpname>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n88005200">Nevills, Norman D., 1908-1949.</persname>
-        <subject source="lcsh" encodinganalog="650">Scientific expeditions--Colorado River (Colo.-Mexico)</subject>
-        <subject source="lcsh" encodinganalog="650">Botanists--Michigan--Ann Arbor.</subject>
-        <subject source="lcsh" encodinganalog="650">Women botanists--Michigan--Ann Arbor.</subject>
-        <subject source="lcsh" encodinganalog="650">Travelers--Colorado River (Colo.-Mexico)</subject>
-        <subject source="lcsh" encodinganalog="650">Women travelers--Colorado River (Colo.-Mexico)</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6860">Scientific expeditions--Colorado River (Colo.-Mexico)</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6861">Botanists--Michigan--Ann Arbor.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6862">Women botanists--Michigan--Ann Arbor.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6863">Travelers--Colorado River (Colo.-Mexico)</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6864">Women travelers--Colorado River (Colo.-Mexico)</subject>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Materials:</head>
-        <geogname source="lcsh" encodinganalog="651">Arizona.</geogname>
-        <subject source="lctgm" encodinganalog="650">Botany.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1605">Arizona.</geogname>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3809">Botany.</subject>
         <persname source="lcnaf" encodinganalog="600">Clover, Elzada Urseba, 1897-1980.</persname>
-        <geogname source="lcsh" encodinganalog="651">Colorado River (Colo.-Mexico)</geogname>
-        <genreform source="gmgpc" encodinganalog="655">Drawings.</genreform>
-        <subject source="lctgm" encodinganalog="650">Expeditions and surveys.</subject>
-        <subject source="lcsh" encodinganalog="650">Indians of North America.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1604">Colorado River (Colo.-Mexico)</geogname>
+        <genreform source="gmgpc" encodinganalog="655" ref="/subjects/3464">Drawings.</genreform>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3862">Expeditions and surveys.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6747">Indians of North America.</subject>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n88005200">Nevills, Norman D., 1908-1949.</persname>
-        <geogname source="lcsh" encodinganalog="651">Utah.</geogname>
-        <subject source="lctgm" encodinganalog="650">Women.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1606">Utah.</geogname>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3619">Women.</subject>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Diaries.</genreform>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
-        <genreform source="lcsh" encodinganalog="655">Motion pictures.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3150">Diaries.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
+        <genreform source="lcsh" encodinganalog="655" ref="/subjects/3432">Motion pictures.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -141,19 +141,19 @@ Elzada U. Clover papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [55657438267430906]" altrender="box">1</container>
               <unittitle>Colorado River Expedition Journal <unitdate type="inclusive" normal="1938-06-20/1938-07-13">June 20-July 13, 1938</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [55657438267430906]" altrender="box">1</container>
               <unittitle>Colorado River Expedition Plant List <unitdate type="inclusive" normal="1938">1938</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [55657438267430906]" altrender="box">1</container>
               <unittitle>Photos</unittitle>
             </did>
             <odd>
@@ -162,7 +162,7 @@ Elzada U. Clover papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [55657438267430906]" altrender="box">1</container>
               <unittitle>Article: "Danger Can be Fun," <unitdate type="inclusive" normal="1939">1939</unitdate></unittitle>
             </did>
             <odd>
@@ -171,14 +171,14 @@ Elzada U. Clover papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="folder" label="Oversize Folder">1</container>
+              <container type="folder" label="Oversize Folder [152331353423394401]" altrender="folder">1</container>
               <unittitle>Drawings of plant habitats along the Colorado River</unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [55657438267430906]" altrender="box">1</container>
             <unittitle>Journal Reprints and Articles</unittitle>
           </did>
         </c02>
@@ -208,7 +208,7 @@ Elzada U. Clover papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="otherlevel" otherlevel="item-part">
             <did>
-              <container type="box" label="DVD Box">1</container>
+              <container type="box" label="DVD Box [3030444918157658317]" altrender="box">1</container>
               <unittitle>Use Copy:</unittitle>
               <physdesc>
                 <physfacet>DVD</physfacet>
@@ -221,7 +221,7 @@ Elzada U. Clover papers, Bentley Historical Library, University of Michigan</p>
               <physdesc>
                 <physfacet>flash-flv</physfacet>
               </physdesc>
-              <dao href="85109-1-1" show="new" actuate="onrequest">
+              <dao href="85109-1-1" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/1969">
                 <daodesc>
                   <p>[view video]</p>
                 </daodesc>
@@ -247,7 +247,7 @@ Elzada U. Clover papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="otherlevel" otherlevel="item-part">
             <did>
-              <container type="box" label="DVD Box">1</container>
+              <container type="box" label="DVD Box [3030444918157658317]" altrender="box">1</container>
               <unittitle>Use Copy:</unittitle>
               <physdesc>
                 <physfacet>DVD</physfacet>
@@ -260,7 +260,7 @@ Elzada U. Clover papers, Bentley Historical Library, University of Michigan</p>
               <physdesc>
                 <physfacet>flash-flv</physfacet>
               </physdesc>
-              <dao href="85109-2-2" show="new" actuate="onrequest">
+              <dao href="85109-2-2" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/1970">
                 <daodesc>
                   <p>[view video]</p>
                 </daodesc>

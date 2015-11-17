@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Hilmer Gellein papers, 1925-1946 and undated</titleproper>
       <author>Finding aid created by <lb/>Michigan Historical Collections staff</author>
     </titlepage>
@@ -37,7 +37,9 @@
       <origination>
         <persname source="lcnaf" encodinganalog="100">Gellein, Hilmer.</persname>
       </origination>
-      <unittitle encodinganalog="245">Hilmer Gellein papers <unitdate type="inclusive" encodinganalog="245$f" normal="1925/1946">1925-1946</unitdate>, <unitdate type="inclusive" encodinganalog="245$f">undated</unitdate></unittitle>
+      <unittitle encodinganalog="245">Hilmer Gellein papers</unittitle>
+      <unitdate type="inclusive" encodinganalog="245$f" normal="1925/1946">1925-1946</unitdate>
+      <unitdate type="inclusive" encodinganalog="245$f">undated</unitdate>
       <unitid encodinganalog="852$h" repositorycode="MiU-H" countrycode="us" type="call number">851280 Aa 2</unitid>
       <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language></langmaterial>
       <abstract>Clerk of the Detroit (Michigan) Recorders Court and director of the state department of corrections during the gubernatorial administration of Frank Murphy. Reports and other papers concerning the Michigan state penal system; and material on the Sweet Murder Trial of 1925 and the career of Frank Murphy.</abstract>
@@ -78,7 +80,7 @@
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <subject source="lcsh" encodinganalog="650">Crime.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7740">Crime.</subject>
         <corpname source="lcnaf" encodinganalog="610">Michigan. Dept. of Corrections.</corpname>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n86025928">Murphy, Frank, 1890-1949.</persname>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n2003033602">Sweet, Ossian, 1895-1960.</persname>
@@ -91,19 +93,21 @@
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <unittitle>Sweet Trial <unitdate type="inclusive" normal="1925">1925</unitdate>, <unitdate type="inclusive">undated</unitdate></unittitle>
+            <container type="box" label="Box [43600423454811]" altrender="box">1</container>
+            <unittitle>Sweet Trial</unittitle>
+            <unitdate type="inclusive" normal="1925">1925</unitdate>
+            <unitdate type="inclusive">undated</unitdate>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [43600423454811]" altrender="box">1</container>
             <unittitle>Frank Murphy <unitdate type="inclusive" normal="1926/1946">1926-1946</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [43600423454811]" altrender="box">1</container>
             <unittitle>Frank Murphy Manuscript Biography <unitdate type="inclusive">undated</unitdate></unittitle>
           </did>
         </c02>
@@ -113,18 +117,22 @@
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
-              <unittitle>Speeches <unitdate type="inclusive" normal="1938">1938</unitdate>, <unitdate type="inclusive">undated</unitdate></unittitle>
+              <container type="box" label="Box [43600423454811]" altrender="box">1</container>
+              <unittitle>Speeches</unittitle>
+              <unitdate type="inclusive" normal="1938">1938</unitdate>
+              <unitdate type="inclusive">undated</unitdate>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
-              <unittitle>Papers <unitdate type="inclusive">undated</unitdate>, <unitdate type="inclusive" normal="1936/1939">1936-1939</unitdate></unittitle>
+              <container type="box" label="Box [43600423454811]" altrender="box">1</container>
+              <unittitle>Papers</unittitle>
+              <unitdate type="inclusive">undated</unitdate>
+              <unitdate type="inclusive" normal="1936/1939">1936-1939</unitdate>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [43600423454811]" altrender="box">1</container>
                 <unittitle>
                   <unitdate type="inclusive">undated</unitdate>
                 </unittitle>
@@ -132,7 +140,7 @@
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [43600423454811]" altrender="box">1</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1936/1937">1936-1937</unitdate>
                 </unittitle>
@@ -140,7 +148,7 @@
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [43600423454811]" altrender="box">1</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1938">1938</unitdate>
                 </unittitle>
@@ -148,7 +156,7 @@
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [43600423454811]" altrender="box">1</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1939">1939</unitdate>
                 </unittitle>

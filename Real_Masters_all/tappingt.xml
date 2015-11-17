@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Theodore Hawley Tapping papers, 1909-1916 and 1937-1961</titleproper>
       <author>Finding aid created by <lb/>Michigan Historical Collections staff</author>
     </titlepage>
@@ -37,7 +37,9 @@
       <origination>
         <persname source="lcnaf" encodinganalog="100">Tapping, Theodore Hawley, 1889-1969.</persname>
       </origination>
-      <unittitle encodinganalog="245">Theodore Hawley Tapping papers <unitdate type="inclusive" encodinganalog="245$f" normal="1909/1916">1909-1916</unitdate>, <unitdate type="inclusive" encodinganalog="245$f" normal="1937/1961">1937-1961</unitdate></unittitle>
+      <unittitle encodinganalog="245">Theodore Hawley Tapping papers</unittitle>
+      <unitdate type="inclusive" encodinganalog="245$f" normal="1909/1916">1909-1916</unitdate>
+      <unitdate type="inclusive" encodinganalog="245$f" normal="1937/1961">1937-1961</unitdate>
       <unitid encodinganalog="852$h" repositorycode="MiU-H" countrycode="us" type="call number">86102 Aa 2</unitid>
       <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language></langmaterial>
       <abstract>Secretary of University of Michigan Alumni Association; correspondence, scrapbooks, and photographs.</abstract>
@@ -88,21 +90,21 @@ Theodore Hawley Tapping papers, Bentley Historical Library, University of Michig
         <head>Subjects:</head>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n85004340">Acacia Fraternity.</corpname>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/no90002065">Angell, James Burrill, 1829-1916.</persname>
-        <geogname source="lcsh" encodinganalog="651">Philippines--History--1946-1986.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/943">Philippines--History--1946-1986.</geogname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n81018266">Silliman University.</corpname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n79046198">University of Iowa.</corpname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan--Alumni and alumnae.</corpname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/nr93034095">University of Michigan. Alumni Association.</corpname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan--Students--Social life and customs--1901-1910.</corpname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan--Students--Social life and customs--1911-1920.</corpname>
-        <subject source="lcsh" encodinganalog="650">World War, 1939-1945.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5681">World War, 1939-1945.</subject>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Materials:</head>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n85004340">Acacia Fraternity.</corpname>
         <corpname source="lcnaf" encodinganalog="610">Archons (University of Michigan)</corpname>
-        <subject source="lctgm" encodinganalog="650">Farming.</subject>
-        <subject source="lctgm" encodinganalog="650">Football.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3660">Farming.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3662">Football.</subject>
         <corpname source="lcnaf" encodinganalog="610">Griffins (University of Michigan)</corpname>
         <persname source="lcnaf" encodinganalog="600">Tapping, Theodore Hawley, 1889-1969.</persname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n79046198">University of Iowa.</corpname>
@@ -110,9 +112,9 @@ Theodore Hawley Tapping papers, Bentley Historical Library, University of Michig
         <corpname source="lcnaf" encodinganalog="610">University of Michigan. Junior Hop.</corpname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan--Student housing.</corpname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan--Students--1911-1920.</corpname>
-        <subject source="lcsh" encodinganalog="650">Hazing--Michigan--Ann Arbor.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/8229">Hazing--Michigan--Ann Arbor.</subject>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan--Students--Conduct of life.</corpname>
-        <subject source="lcsh" encodinganalog="650">Women college students--Michigan--Ann Arbor.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5837">Women college students--Michigan--Ann Arbor.</subject>
       </controlaccess>
       <controlaccess>
         <head>Contributors:</head>
@@ -122,9 +124,9 @@ Theodore Hawley Tapping papers, Bentley Historical Library, University of Michig
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Calling cards.</genreform>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
-        <genreform source="aat" encodinganalog="655">Scrapbooks.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3375">Calling cards.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3139">Scrapbooks.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -137,13 +139,13 @@ Theodore Hawley Tapping papers, Bentley Historical Library, University of Michig
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [10541394101499130255636]" altrender="box">1</container>
             <unittitle><unitdate type="inclusive" normal="1937">1937</unitdate> (Von Platen-Fox Company)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [10541394101499130255636]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1939/1946">1939-1946</unitdate>
             </unittitle>
@@ -151,7 +153,7 @@ Theodore Hawley Tapping papers, Bentley Historical Library, University of Michig
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [10541394101499130255636]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1956/1961-09">1956-September 1961</unitdate>
             </unittitle>
@@ -170,7 +172,7 @@ Theodore Hawley Tapping papers, Bentley Historical Library, University of Michig
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [77397649589040522]" altrender="box">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1909/1910">1909-1910</unitdate>
             </unittitle>
@@ -181,7 +183,7 @@ Theodore Hawley Tapping papers, Bentley Historical Library, University of Michig
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [77397649589040522]" altrender="box">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1910/1911">1910-1911</unitdate>
             </unittitle>
@@ -192,7 +194,7 @@ Theodore Hawley Tapping papers, Bentley Historical Library, University of Michig
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [77397649589040522]" altrender="box">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1911/1913">1911-1913</unitdate>
             </unittitle>
@@ -200,7 +202,7 @@ Theodore Hawley Tapping papers, Bentley Historical Library, University of Michig
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [77397649589040522]" altrender="box">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1913/1914">1913-1914</unitdate>
             </unittitle>
@@ -208,7 +210,7 @@ Theodore Hawley Tapping papers, Bentley Historical Library, University of Michig
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">1</container>
+            <container type="volume" label="Oversize Volume [04569335645947545617562776]" altrender="volume">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1914/1915">1914-1915</unitdate>
             </unittitle>
@@ -219,7 +221,7 @@ Theodore Hawley Tapping papers, Bentley Historical Library, University of Michig
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [77397649589040522]" altrender="box">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1914/1916">1914-1916</unitdate>
             </unittitle>
@@ -227,7 +229,7 @@ Theodore Hawley Tapping papers, Bentley Historical Library, University of Michig
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [0983984243884770860]" altrender="box">3</container>
             <unittitle>Loose material from scrapbooks, chiefly <genreform normal="Photographs">photos</genreform></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">5 folders</extent>
@@ -246,31 +248,31 @@ Theodore Hawley Tapping papers, Bentley Historical Library, University of Michig
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [0983984243884770860]" altrender="box">3</container>
             <unittitle>Family and friends</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [0983984243884770860]" altrender="box">3</container>
             <unittitle>Junior Hop <unitdate type="inclusive" normal="1916">1916</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [0983984243884770860]" altrender="box">3</container>
             <unittitle>Portraits</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [0983984243884770860]" altrender="box">3</container>
             <unittitle>Sports</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [0983984243884770860]" altrender="box">3</container>
             <unittitle>University of Michigan buildings and students</unittitle>
           </did>
         </c02>

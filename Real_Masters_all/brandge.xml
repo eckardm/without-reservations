@@ -31,7 +31,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>George E. Brand papers, 1910-1963</titleproper>
       <author>Finding aid created by <lb/>Michigan Historical Collections staff</author>
     </titlepage>
@@ -89,7 +89,7 @@ George E. Brand papers, Bentley Historical Library, University of Michigan</p>
         <head>Subjects:</head>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n78083441">American Bar Association.</corpname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n79018475">American Judicature Society.</corpname>
-        <subject source="lcsh" encodinganalog="650">Lawyers--Michigan--Detroit.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6435">Lawyers--Michigan--Detroit.</subject>
         <corpname source="lcnaf" encodinganalog="610">Michigan State Bar Association.</corpname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan. Dept. of Law. Class of 1912.</corpname>
       </controlaccess>
@@ -99,8 +99,8 @@ George E. Brand papers, Bentley Historical Library, University of Michigan</p>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
-        <genreform source="aat" encodinganalog="655">Scrapbooks.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3139">Scrapbooks.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -110,7 +110,7 @@ George E. Brand papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [127144935526078838]" altrender="box">1</container>
             <unittitle>Biographical material</unittitle>
           </did>
         </c02>
@@ -120,7 +120,7 @@ George E. Brand papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [127144935526078838]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1918/1938">1918-1938</unitdate>
               </unittitle>
@@ -128,7 +128,7 @@ George E. Brand papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [127144935526078838]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1939/1947">1939-1947</unitdate>
               </unittitle>
@@ -136,7 +136,7 @@ George E. Brand papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [127144935526078838]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1948/1963">1948-1963</unitdate>
               </unittitle>
@@ -145,8 +145,10 @@ George E. Brand papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <unittitle>Law School student material; include research paper <unitdate type="inclusive" normal="1910">1910</unitdate> and record of expenses, <unitdate normal="1911/1912" type="inclusive">1911-1912</unitdate>.</unittitle>
+            <container type="box" label="Box [127144935526078838]" altrender="box">1</container>
+            <unittitle>Law School student material; include research paper 1910 and record of expenses, 1911-1912.</unittitle>
+            <unitdate type="inclusive" normal="1910">1910</unitdate>
+            <unitdate normal="1911/1912" type="inclusive">1911-1912</unitdate>
           </did>
         </c02>
       </c01>
@@ -160,7 +162,7 @@ George E. Brand papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [127144935526078838]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1941/1944">1941-1944</unitdate>
               </unittitle>
@@ -168,7 +170,7 @@ George E. Brand papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [127144935526078838]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1953-01/1958-06">January 1953-June 1958</unitdate>
               </unittitle>
@@ -177,7 +179,7 @@ George E. Brand papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [127144935526078838]" altrender="box">1</container>
             <unittitle>Professional Relations Committee <unitdate type="inclusive" normal="1954/1962">1954-1962</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -186,25 +188,25 @@ George E. Brand papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [127144935526078838]" altrender="box">1</container>
             <unittitle>Section on Bar Activities</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [127144935526078838]" altrender="box">1</container>
             <unittitle>Legal Education in Michigan</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [127144935526078838]" altrender="box">1</container>
             <unittitle>Survey of the legal profession</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [127144935526078838]" altrender="box">1</container>
             <unittitle>Campaign for ABA Presidency <unitdate type="inclusive" normal="1951/1954">1951-1954</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -217,37 +219,37 @@ George E. Brand papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [127144935526078838]" altrender="box">1</container>
               <unittitle>Tenure and compensation (general)</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [127144935526078838]" altrender="box">1</container>
               <unittitle>Editorials</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [127144935526078838]" altrender="box">1</container>
               <unittitle>Letters</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [127144935526078838]" altrender="box">1</container>
               <unittitle>Reports, reviews</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [127144935526078838]" altrender="box">1</container>
               <unittitle>Oklahoma Conference <unitdate type="inclusive" normal="1962">1962</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [127144935526078838]" altrender="box">1</container>
               <unittitle>Oklahoma Conference <unitdate type="inclusive" normal="1962">1962</unitdate> loose material</unittitle>
             </did>
           </c03>
@@ -266,7 +268,7 @@ George E. Brand papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [3054408415699560986]" altrender="box">2</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1952/1953">1952-1953</unitdate>
               </unittitle>
@@ -274,7 +276,7 @@ George E. Brand papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [3054408415699560986]" altrender="box">2</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1954-01-01/1957-12-31">January 1, 1954-December 31, 1957</unitdate>
               </unittitle>
@@ -282,7 +284,7 @@ George E. Brand papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [3054408415699560986]" altrender="box">2</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1958-01-01/1962">January 1, 1958-1962</unitdate>
               </unittitle>
@@ -296,7 +298,7 @@ George E. Brand papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [3054408415699560986]" altrender="box">2</container>
             <unittitle>Executive Committee minutes <unitdate type="inclusive" normal="1936/1938">1936-1938</unitdate></unittitle>
           </did>
         </c02>
@@ -306,7 +308,7 @@ George E. Brand papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [3054408415699560986]" altrender="box">2</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1936">1936</unitdate>
               </unittitle>
@@ -314,7 +316,7 @@ George E. Brand papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [3054408415699560986]" altrender="box">2</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1945/1957">1945-1957</unitdate>
               </unittitle>
@@ -322,7 +324,7 @@ George E. Brand papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [3054408415699560986]" altrender="box">2</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1958/1963">1958-1963</unitdate>
               </unittitle>
@@ -331,7 +333,7 @@ George E. Brand papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [3054408415699560986]" altrender="box">2</container>
             <unittitle>Committee on International and Comparative Law</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -345,7 +347,7 @@ George E. Brand papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [3054408415699560986]" altrender="box">2</container>
             <unittitle>Scribes</unittitle>
           </did>
         </c02>
@@ -355,7 +357,7 @@ George E. Brand papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [3054408415699560986]" altrender="box">2</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1934-05/1949">May 1934-1949</unitdate>
               </unittitle>
@@ -363,7 +365,7 @@ George E. Brand papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [3054408415699560986]" altrender="box">2</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1950-01/1962-02">January 1950-February 1962</unitdate>
               </unittitle>
@@ -372,7 +374,7 @@ George E. Brand papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [3054408415699560986]" altrender="box">2</container>
             <unittitle>Speeches and articles</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -381,7 +383,7 @@ George E. Brand papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [766934514758330287683]" altrender="box">3</container>
             <unittitle>Speeches and articles</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">6 folders</extent>
@@ -395,31 +397,34 @@ George E. Brand papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [766934514758330287683]" altrender="box">3</container>
             <unittitle><unitdate type="inclusive" normal="1947">1947</unitdate> Reunion</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
-            <unittitle><unitdate type="inclusive" normal="1952">1952</unitdate>, <unitdate type="inclusive" normal="1957">1957</unitdate>, <unitdate type="inclusive" normal="1962">1962</unitdate> Reunions</unittitle>
+            <container type="box" label="Box [766934514758330287683]" altrender="box">3</container>
+            <unittitle>1952, 1957, 1962 Reunions</unittitle>
+            <unitdate type="inclusive" normal="1952">1952</unitdate>
+            <unitdate type="inclusive" normal="1957">1957</unitdate>
+            <unitdate type="inclusive" normal="1962">1962</unitdate>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [766934514758330287683]" altrender="box">3</container>
             <unittitle>Articles</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [766934514758330287683]" altrender="box">3</container>
             <unittitle>Memorial fund</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [766934514758330287683]" altrender="box">3</container>
             <unittitle>Directories and Accounts</unittitle>
           </did>
         </c02>
@@ -429,7 +434,7 @@ George E. Brand papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [766934514758330287683]" altrender="box">3</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1916">1916</unitdate>
               </unittitle>
@@ -437,7 +442,7 @@ George E. Brand papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [766934514758330287683]" altrender="box">3</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1922/1935-06-14">1922-June 14, 1935</unitdate>
               </unittitle>
@@ -445,7 +450,7 @@ George E. Brand papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [766934514758330287683]" altrender="box">3</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1936-03/1946-12">March 1936-December 1946</unitdate>
               </unittitle>
@@ -453,7 +458,7 @@ George E. Brand papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [766934514758330287683]" altrender="box">3</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1947-01/1952">January 1947-1952</unitdate>
               </unittitle>
@@ -461,7 +466,7 @@ George E. Brand papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [766934514758330287683]" altrender="box">3</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1953">1953</unitdate>
               </unittitle>
@@ -477,7 +482,7 @@ George E. Brand papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [766934514758330287683]" altrender="box">3</container>
             <unittitle>Portrait of George A. Marston</unittitle>
           </did>
         </c02>
@@ -490,22 +495,13 @@ George E. Brand papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">1</container>
+            <container type="volume" label="Oversize Volume [5231349954916838819086]" altrender="volume">1</container>
             <unittitle>Various dates, clippings and memorabilia</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">2</container>
-            <unittitle>Various dates, clippings and memorabilia</unittitle>
-          </did>
-          <odd>
-            <p>(continued)</p>
-          </odd>
-        </c02>
-        <c02 level="file">
-          <did>
-            <container type="volume" label="Oversize Volume">3</container>
+            <container type="volume" label="Oversize Volume [1599924399341602276]" altrender="volume">2</container>
             <unittitle>Various dates, clippings and memorabilia</unittitle>
           </did>
           <odd>
@@ -514,7 +510,7 @@ George E. Brand papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">4</container>
+            <container type="volume" label="Oversize Volume [17601976419444641327]" altrender="volume">3</container>
             <unittitle>Various dates, clippings and memorabilia</unittitle>
           </did>
           <odd>
@@ -523,7 +519,7 @@ George E. Brand papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">5</container>
+            <container type="volume" label="Oversize Volume [41060583624097847642]" altrender="volume">4</container>
             <unittitle>Various dates, clippings and memorabilia</unittitle>
           </did>
           <odd>
@@ -532,7 +528,7 @@ George E. Brand papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">6</container>
+            <container type="volume" label="Oversize Volume [9969481945164308619]" altrender="volume">5</container>
             <unittitle>Various dates, clippings and memorabilia</unittitle>
           </did>
           <odd>
@@ -541,7 +537,7 @@ George E. Brand papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">7</container>
+            <container type="volume" label="Oversize Volume [176429308482057104515]" altrender="volume">6</container>
             <unittitle>Various dates, clippings and memorabilia</unittitle>
           </did>
           <odd>
@@ -550,7 +546,7 @@ George E. Brand papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">8</container>
+            <container type="volume" label="Oversize Volume [4580654022684502329]" altrender="volume">7</container>
             <unittitle>Various dates, clippings and memorabilia</unittitle>
           </did>
           <odd>
@@ -559,7 +555,7 @@ George E. Brand papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">9</container>
+            <container type="volume" label="Oversize Volume [147696664996912019076461]" altrender="volume">8</container>
             <unittitle>Various dates, clippings and memorabilia</unittitle>
           </did>
           <odd>
@@ -568,7 +564,7 @@ George E. Brand papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">10</container>
+            <container type="volume" label="Oversize Volume [905000408078773656]" altrender="volume">9</container>
             <unittitle>Various dates, clippings and memorabilia</unittitle>
           </did>
           <odd>
@@ -577,7 +573,16 @@ George E. Brand papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">11</container>
+            <container type="volume" label="Oversize Volume [1166014349910647171]" altrender="volume">10</container>
+            <unittitle>Various dates, clippings and memorabilia</unittitle>
+          </did>
+          <odd>
+            <p>(continued)</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="volume" label="Oversize Volume [9463766492184749175623]" altrender="volume">11</container>
             <unittitle>Various dates, clippings and memorabilia</unittitle>
           </did>
           <odd>

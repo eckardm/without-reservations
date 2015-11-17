@@ -38,7 +38,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding Aid for <lb/>Aldred S. Buckler photograph collection, <date>ca. 1918-1919</date></titleproper>
       <author>Finding aid prepared by: <lb/>Len Coombs</author>
     </titlepage>
@@ -87,10 +87,10 @@
       <controlaccess>
         <head>Subjects</head>
         <persname role="subject" source="lcnaf" encodinganalog="600">Buckler, Aldred S., d. 1963.</persname>
-        <subject source="lctgm" encodinganalog="650">Soldiers--American--Russia (Federation)</subject>
-        <geogname source="lcsh" encodinganalog="651">Soviet Union--History--Allied intervention, 1918-1920.</geogname>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3770">Soldiers--American--Russia (Federation)</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/883">Soviet Union--History--Allied intervention, 1918-1920.</geogname>
         <corpname role="subject" source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n82129076">United States. Army. Infantry, 339th.</corpname>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -100,12 +100,12 @@
         </did>
         <c02 level="file">
           <did>
-            <container type="folder" label="Folder">1</container>
+            <container type="folder" label="Folder [887421648744314718]" altrender="folder">1</container>
             <unittitle>Photographs</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 digital files</extent>
             </physdesc>
-            <dao show="new" actuate="onrequest" href="buckler0001">
+            <dao show="new" actuate="onRequest" href="buckler0001" ref="/repositories/2/digital_objects/1864">
               <daodesc>
                 <p>[view items]</p>
               </daodesc>

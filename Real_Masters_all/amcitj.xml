@@ -26,7 +26,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>American Citizens for Justice Records, 1983-2004</titleproper>
       <author>Finding aid created by <lb/>Polly Reynolds, August 2005</author>
     </titlepage>
@@ -79,21 +79,21 @@ American Citizens for Justice Records, Bentley Historical Library, University of
       <controlaccess>
         <head>Subjects:</head>
         <corpname source="lcnaf" encodinganalog="610">American Citizens for Justice.</corpname>
-        <subject source="lcsh" encodinganalog="650">Asian Americans--Michigan.</subject>
-        <subject source="lcsh" encodinganalog="650">Chinese Americans--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5855">Asian Americans--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5856">Chinese Americans--Michigan.</subject>
         <persname source="lcnaf" encodinganalog="600">Chin, Vincent.</persname>
-        <subject source="lcsh" encodinganalog="650">Minorities--Crimes against--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5857">Minorities--Crimes against--Michigan.</subject>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Materials:</head>
         <corpname source="lcnaf" encodinganalog="610">American Citizens for Justice.</corpname>
-        <subject source="lcsh" encodinganalog="650">Chinese Americans--Michigan.</subject>
-        <subject source="lcsh" encodinganalog="650">Asian Americans--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5856">Chinese Americans--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5855">Asian Americans--Michigan.</subject>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Videotapes.</genreform>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3140">Videotapes.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -109,7 +109,7 @@ American Citizens for Justice Records, Bentley Historical Library, University of
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [4127207645392605875304]" altrender="box">1</container>
             <unittitle>Constitution and by-laws</unittitle>
           </did>
         </c02>
@@ -119,19 +119,19 @@ American Citizens for Justice Records, Bentley Historical Library, University of
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [4127207645392605875304]" altrender="box">1</container>
               <unittitle>David Fukuzawa</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [4127207645392605875304]" altrender="box">1</container>
               <unittitle>Joanna Su</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [4127207645392605875304]" altrender="box">1</container>
               <unittitle>Reports <unitdate type="inclusive" normal="1988/1990">1988-1990</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -145,13 +145,13 @@ American Citizens for Justice Records, Bentley Historical Library, University of
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [4127207645392605875304]" altrender="box">1</container>
               <unittitle>Forms and procedures</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [4127207645392605875304]" altrender="box">1</container>
               <unittitle>Meeting minutes/agenda <unitdate type="inclusive" normal="1985/2003">1985-2003</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">21 folders</extent>
@@ -160,7 +160,7 @@ American Citizens for Justice Records, Bentley Historical Library, University of
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [4127207645392605875304]" altrender="box">1</container>
               <unittitle>Retreats</unittitle>
             </did>
           </c03>
@@ -171,25 +171,25 @@ American Citizens for Justice Records, Bentley Historical Library, University of
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [301385249099136009887]" altrender="box">2</container>
               <unittitle>Attorney</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [301385249099136009887]" altrender="box">2</container>
               <unittitle>Finance</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [301385249099136009887]" altrender="box">2</container>
               <unittitle>Fundraising</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [301385249099136009887]" altrender="box">2</container>
               <unittitle>Strategic planning</unittitle>
             </did>
           </c03>
@@ -200,26 +200,28 @@ American Citizens for Justice Records, Bentley Historical Library, University of
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [301385249099136009887]" altrender="box">2</container>
               <unittitle>Membership form</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [301385249099136009887]" altrender="box">2</container>
               <unittitle>Membership lists</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <unittitle>General meetings <unitdate type="inclusive" normal="1982/1985">1982-1985</unitdate>, <unitdate type="inclusive" normal="1987/1999">1987-1999</unitdate></unittitle>
+              <unittitle>General meetings</unittitle>
+              <unitdate type="inclusive" normal="1982/1985">1982-1985</unitdate>
+              <unitdate type="inclusive" normal="1987/1999">1987-1999</unitdate>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">14 folders</extent>
               </physdesc>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [301385249099136009887]" altrender="box">2</container>
                 <unittitle>Future speakers</unittitle>
               </did>
             </c04>
@@ -231,19 +233,19 @@ American Citizens for Justice Records, Bentley Historical Library, University of
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [301385249099136009887]" altrender="box">2</container>
               <unittitle>Financial statements <unitdate type="inclusive" normal="1987/1994">1987-1994</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [301385249099136009887]" altrender="box">2</container>
               <unittitle>Fundraising</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [301385249099136009887]" altrender="box">2</container>
               <unittitle>Market plan <unitdate type="inclusive" normal="1989">1989</unitdate></unittitle>
             </did>
           </c03>
@@ -253,7 +255,7 @@ American Citizens for Justice Records, Bentley Historical Library, University of
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [301385249099136009887]" altrender="box">2</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1987">1987</unitdate>
                 </unittitle>
@@ -261,7 +263,7 @@ American Citizens for Justice Records, Bentley Historical Library, University of
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [301385249099136009887]" altrender="box">2</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1992/1993">1992-1993</unitdate>
                 </unittitle>
@@ -269,7 +271,7 @@ American Citizens for Justice Records, Bentley Historical Library, University of
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [301385249099136009887]" altrender="box">2</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1993/1994">1993-1994</unitdate>
                 </unittitle>
@@ -277,7 +279,7 @@ American Citizens for Justice Records, Bentley Historical Library, University of
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [301385249099136009887]" altrender="box">2</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1995/1996">1995-1996</unitdate>
                 </unittitle>
@@ -295,7 +297,7 @@ American Citizens for Justice Records, Bentley Historical Library, University of
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [301385249099136009887]" altrender="box">2</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1984/1985">1984-1985</unitdate>
                   <unitdate type="inclusive" normal="1987/1988">1987-1988</unitdate>
@@ -304,7 +306,7 @@ American Citizens for Justice Records, Bentley Historical Library, University of
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [301385249099136009887]" altrender="box">2</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1989">1989</unitdate>
                 </unittitle>
@@ -312,7 +314,7 @@ American Citizens for Justice Records, Bentley Historical Library, University of
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [301385249099136009887]" altrender="box">2</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1990">1990</unitdate>
                 </unittitle>
@@ -320,7 +322,7 @@ American Citizens for Justice Records, Bentley Historical Library, University of
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [301385249099136009887]" altrender="box">2</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1991">1991</unitdate>
                 </unittitle>
@@ -328,7 +330,7 @@ American Citizens for Justice Records, Bentley Historical Library, University of
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [301385249099136009887]" altrender="box">2</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1992">1992</unitdate>
                 </unittitle>
@@ -336,7 +338,7 @@ American Citizens for Justice Records, Bentley Historical Library, University of
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [301385249099136009887]" altrender="box">2</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1993">1993</unitdate>
                 </unittitle>
@@ -344,7 +346,7 @@ American Citizens for Justice Records, Bentley Historical Library, University of
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [301385249099136009887]" altrender="box">2</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1994">1994</unitdate>
                 </unittitle>
@@ -352,7 +354,7 @@ American Citizens for Justice Records, Bentley Historical Library, University of
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [45190085446374623704]" altrender="box">3</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1995">1995</unitdate>
                 </unittitle>
@@ -360,7 +362,7 @@ American Citizens for Justice Records, Bentley Historical Library, University of
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [45190085446374623704]" altrender="box">3</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1996">1996</unitdate>
                 </unittitle>
@@ -368,7 +370,7 @@ American Citizens for Justice Records, Bentley Historical Library, University of
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [45190085446374623704]" altrender="box">3</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1997">1997</unitdate>
                 </unittitle>
@@ -376,7 +378,7 @@ American Citizens for Justice Records, Bentley Historical Library, University of
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [45190085446374623704]" altrender="box">3</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1998">1998</unitdate>
                 </unittitle>
@@ -384,7 +386,7 @@ American Citizens for Justice Records, Bentley Historical Library, University of
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [45190085446374623704]" altrender="box">3</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1999">1999</unitdate>
                 </unittitle>
@@ -392,7 +394,7 @@ American Citizens for Justice Records, Bentley Historical Library, University of
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [45190085446374623704]" altrender="box">3</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="2000">2000</unitdate>
                 </unittitle>
@@ -400,7 +402,7 @@ American Citizens for Justice Records, Bentley Historical Library, University of
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [45190085446374623704]" altrender="box">3</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="2001">2001</unitdate>
                 </unittitle>
@@ -408,7 +410,7 @@ American Citizens for Justice Records, Bentley Historical Library, University of
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [45190085446374623704]" altrender="box">3</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="2002">2002</unitdate>
                 </unittitle>
@@ -416,7 +418,7 @@ American Citizens for Justice Records, Bentley Historical Library, University of
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [45190085446374623704]" altrender="box">3</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="2003">2003</unitdate>
                 </unittitle>
@@ -428,7 +430,7 @@ American Citizens for Justice Records, Bentley Historical Library, University of
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [45190085446374623704]" altrender="box">3</container>
               <unittitle>Outgoing <unitdate type="inclusive" normal="1988/1990">1988-1990</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -442,14 +444,16 @@ American Citizens for Justice Records, Bentley Historical Library, University of
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [45190085446374623704]" altrender="box">3</container>
               <unittitle>Miscellaneous and agendas</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
-              <unittitle>Rededication programs <unitdate type="inclusive" normal="1983">1983</unitdate>, <unitdate type="inclusive" normal="1985/1999">1985-1999</unitdate></unittitle>
+              <container type="box" label="Box [45190085446374623704]" altrender="box">3</container>
+              <unittitle>Rededication programs</unittitle>
+              <unitdate type="inclusive" normal="1983">1983</unitdate>
+              <unitdate type="inclusive" normal="1985/1999">1985-1999</unitdate>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
               </physdesc>
@@ -457,7 +461,7 @@ American Citizens for Justice Records, Bentley Historical Library, University of
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [45190085446374623704]" altrender="box">3</container>
               <unittitle>Status report <unitdate type="inclusive" normal="1989">1989</unitdate></unittitle>
             </did>
           </c03>
@@ -479,13 +483,13 @@ American Citizens for Justice Records, Bentley Historical Library, University of
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [78909432439857581591944]" altrender="box">4</container>
               <unittitle>Scrapbook of articles and information on Vincent Chin <unitdate type="inclusive" normal="1983">1983</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [78909432439857581591944]" altrender="box">4</container>
               <unittitle>Articles and clippings</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -494,43 +498,45 @@ American Citizens for Justice Records, Bentley Historical Library, University of
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [78909432439857581591944]" altrender="box">4</container>
               <unittitle>ACJ organizing efforts <unitdate type="inclusive" normal="1983/1986">1983-1986</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [78909432439857581591944]" altrender="box">4</container>
               <unittitle>Donations <unitdate type="inclusive" normal="1983">1983</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [78909432439857581591944]" altrender="box">4</container>
               <unittitle>Film, "Who killed Vincent Chin?" <unitdate type="inclusive" normal="1988/1989">1988-1989</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
-              <unittitle>Other group involvement/reactions <unitdate type="inclusive" normal="1983/1984">1983-1984</unitdate>, <unitdate type="inclusive" normal="1987">1987</unitdate></unittitle>
+              <container type="box" label="Box [78909432439857581591944]" altrender="box">4</container>
+              <unittitle>Other group involvement/reactions</unittitle>
+              <unitdate type="inclusive" normal="1983/1984">1983-1984</unitdate>
+              <unitdate type="inclusive" normal="1987">1987</unitdate>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [78909432439857581591944]" altrender="box">4</container>
               <unittitle>Remembrance services <unitdate type="inclusive" normal="1983/1989">1983-1989</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [78909432439857581591944]" altrender="box">4</container>
               <unittitle>Remembrance services, ACJ/Hawaii day of remembrance <unitdate type="inclusive" normal="1986">1986</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [78909432439857581591944]" altrender="box">4</container>
               <unittitle>Response letters from Phil Donahue show <unitdate type="inclusive" normal="1983">1983</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -539,7 +545,7 @@ American Citizens for Justice Records, Bentley Historical Library, University of
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [78909432439857581591944]" altrender="box">4</container>
               <unittitle>Run for Justice <unitdate type="inclusive" normal="1985">1985</unitdate></unittitle>
             </did>
           </c03>
@@ -550,7 +556,7 @@ American Citizens for Justice Records, Bentley Historical Library, University of
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [78909432439857581591944]" altrender="box">4</container>
               <unittitle>Articles on court ruling <unitdate type="inclusive" normal="1983/1987">1983-1987</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -559,25 +565,30 @@ American Citizens for Justice Records, Bentley Historical Library, University of
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
-              <unittitle>Court watch documents and copies of legal documents <unitdate type="inclusive" normal="1983/1984">1983-1984</unitdate>, <unitdate type="inclusive" normal="1987">1987</unitdate></unittitle>
+              <container type="box" label="Box [78909432439857581591944]" altrender="box">4</container>
+              <unittitle>Court watch documents and copies of legal documents</unittitle>
+              <unitdate type="inclusive" normal="1983/1984">1983-1984</unitdate>
+              <unitdate type="inclusive" normal="1987">1987</unitdate>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [78909432439857581591944]" altrender="box">4</container>
               <unittitle>Ebens <unitdate type="inclusive" normal="1989/1990">1989-1990</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
-              <unittitle>Letters from ACJ re: Chin case <unitdate type="inclusive" normal="1983">1983</unitdate>, <unitdate type="inclusive" normal="1985">1985</unitdate>, <unitdate type="inclusive" normal="1989">1989</unitdate></unittitle>
+              <container type="box" label="Box [78909432439857581591944]" altrender="box">4</container>
+              <unittitle>Letters from ACJ re: Chin case</unittitle>
+              <unitdate type="inclusive" normal="1983">1983</unitdate>
+              <unitdate type="inclusive" normal="1985">1985</unitdate>
+              <unitdate type="inclusive" normal="1989">1989</unitdate>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [78909432439857581591944]" altrender="box">4</container>
               <unittitle>Chin case petition forms, ca. <unitdate type="inclusive" normal="1983">1983</unitdate></unittitle>
             </did>
           </c03>
@@ -595,37 +606,39 @@ American Citizens for Justice Records, Bentley Historical Library, University of
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [78909432439857581591944]" altrender="box">4</container>
             <unittitle>Contact lists <unitdate type="inclusive" normal="1989">1989</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [78909432439857581591944]" altrender="box">4</container>
             <unittitle>Flyers/brochures <unitdate type="inclusive" normal="1988/1997">1988-1997</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
-            <unittitle>General PR <unitdate type="inclusive" normal="1987/1988">1987-1988</unitdate>, <unitdate type="inclusive">undated</unitdate></unittitle>
+            <container type="box" label="Box [78909432439857581591944]" altrender="box">4</container>
+            <unittitle>General PR</unittitle>
+            <unitdate type="inclusive" normal="1987/1988">1987-1988</unitdate>
+            <unitdate type="inclusive">undated</unitdate>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [78909432439857581591944]" altrender="box">4</container>
             <unittitle>Press releases <unitdate type="inclusive" normal="1988/1989">1988-1989</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [78909432439857581591944]" altrender="box">4</container>
             <unittitle>Speeches <unitdate type="inclusive" normal="1983/1991">1983-1991</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [78909432439857581591944]" altrender="box">4</container>
             <unittitle>Support documents</unittitle>
           </did>
         </c02>
@@ -643,7 +656,7 @@ American Citizens for Justice Records, Bentley Historical Library, University of
               </did>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">4</container>
+                  <container type="box" label="Box [78909432439857581591944]" altrender="box">4</container>
                   <unittitle>
                     <unitdate type="inclusive" normal="1983/1997">1983-1997</unitdate>
                   </unittitle>
@@ -654,7 +667,7 @@ American Citizens for Justice Records, Bentley Historical Library, University of
               </c05>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">5</container>
+                  <container type="box" label="Box [6101238456280906225]" altrender="box">5</container>
                   <unittitle>
                     <unitdate type="inclusive" normal="1998/1999">1998-1999</unitdate>
                   </unittitle>
@@ -665,7 +678,7 @@ American Citizens for Justice Records, Bentley Historical Library, University of
               </c05>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">5</container>
+                  <container type="box" label="Box [6101238456280906225]" altrender="box">5</container>
                   <unittitle>
                     <unitdate type="inclusive" normal="2001">2001</unitdate>
                   </unittitle>
@@ -675,7 +688,7 @@ American Citizens for Justice Records, Bentley Historical Library, University of
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [6101238456280906225]" altrender="box">5</container>
               <unittitle>Year book <unitdate type="inclusive" normal="1983">1983</unitdate></unittitle>
             </did>
           </c03>
@@ -693,169 +706,171 @@ American Citizens for Justice Records, Bentley Historical Library, University of
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [6101238456280906225]" altrender="box">5</container>
             <unittitle>Contacts and funding summaries <unitdate type="inclusive" normal="1989/1990">1989-1990</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [6101238456280906225]" altrender="box">5</container>
             <unittitle>Proposals <unitdate type="inclusive" normal="1984">1984</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
-            <unittitle>Grants <unitdate type="inclusive" normal="1992">1992</unitdate>, <unitdate type="inclusive" normal="1994/1995">1994-1995</unitdate></unittitle>
+            <container type="box" label="Box [6101238456280906225]" altrender="box">5</container>
+            <unittitle>Grants</unittitle>
+            <unitdate type="inclusive" normal="1992">1992</unitdate>
+            <unitdate type="inclusive" normal="1994/1995">1994-1995</unitdate>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [6101238456280906225]" altrender="box">5</container>
             <unittitle>ACJ recipe book <unitdate type="inclusive" normal="1988">1988</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [6101238456280906225]" altrender="box">5</container>
             <unittitle>ANR Pipeline Company <unitdate type="inclusive" normal="1990">1990</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [6101238456280906225]" altrender="box">5</container>
             <unittitle>Bingo files <unitdate type="inclusive" normal="1991">1991</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [6101238456280906225]" altrender="box">5</container>
             <unittitle>The Boehm Foundation <unitdate type="inclusive" normal="1988">1988</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [6101238456280906225]" altrender="box">5</container>
             <unittitle>Buck Dinner <unitdate type="inclusive" normal="1988">1988</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [6101238456280906225]" altrender="box">5</container>
             <unittitle>Bydale Foundation <unitdate type="inclusive" normal="1988">1988</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [6101238456280906225]" altrender="box">5</container>
             <unittitle>Chicago Resource Center <unitdate type="inclusive" normal="1988">1988</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [6101238456280906225]" altrender="box">5</container>
             <unittitle>Chrysler Motors <unitdate type="inclusive" normal="1988">1988</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [6101238456280906225]" altrender="box">5</container>
             <unittitle>Coalition for Human Needs <unitdate type="inclusive" normal="1988/1989">1988-1989</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [6101238456280906225]" altrender="box">5</container>
             <unittitle>Community Foundation for Southeastern Michigan <unitdate type="inclusive" normal="1988">1988</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [6101238456280906225]" altrender="box">5</container>
             <unittitle>Deer Creek Foundation <unitdate type="inclusive" normal="1988">1988</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [6101238456280906225]" altrender="box">5</container>
             <unittitle>Donovan, Leisure, Newton &amp; Irvine Foundation <unitdate type="inclusive" normal="1988">1988</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [6101238456280906225]" altrender="box">5</container>
             <unittitle>Episcopal Diocese of Michigan <unitdate type="inclusive" normal="1988">1988</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [6101238456280906225]" altrender="box">5</container>
             <unittitle>Evangelical Lutheran Church in America <unitdate type="inclusive" normal="1988">1988</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [6101238456280906225]" altrender="box">5</container>
             <unittitle>The Field Foundation <unitdate type="inclusive" normal="1988">1988</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [6101238456280906225]" altrender="box">5</container>
             <unittitle>First of America Bank Fund <unitdate type="inclusive" normal="1988">1988</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [6101238456280906225]" altrender="box">5</container>
             <unittitle>Ford Foundation <unitdate type="inclusive" normal="1988">1988</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [6101238456280906225]" altrender="box">5</container>
             <unittitle>Ford Motor Company <unitdate type="inclusive" normal="1988/1989">1988-1989</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [6101238456280906225]" altrender="box">5</container>
             <unittitle>Funding Exchange/National Community Funds <unitdate type="inclusive" normal="1988/1989">1988-1989</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [6101238456280906225]" altrender="box">5</container>
             <unittitle>General Motors Foundation <unitdate type="inclusive" normal="1988/1989">1988-1989</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [6101238456280906225]" altrender="box">5</container>
             <unittitle>Hughes Memorial Foundation <unitdate type="inclusive" normal="1988">1988</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [6101238456280906225]" altrender="box">5</container>
             <unittitle>Hycliff Foundation, Inc. <unitdate type="inclusive" normal="1988">1988</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [6101238456280906225]" altrender="box">5</container>
             <unittitle>Inacomp Computers <unitdate type="inclusive" normal="1988/1989">1988-1989</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [6101238456280906225]" altrender="box">5</container>
             <unittitle>J. Roderick MacArthur Foundation <unitdate type="inclusive" normal="1988">1988</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [6101238456280906225]" altrender="box">5</container>
             <unittitle>Japan Business Society of Detroit Foundation <unitdate type="inclusive" normal="1995/2001">1995-2001</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">7 folders</extent>
@@ -864,67 +879,67 @@ American Citizens for Justice Records, Bentley Historical Library, University of
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [6101238456280906225]" altrender="box">5</container>
             <unittitle>Joint Foundation Support <unitdate type="inclusive" normal="1989">1989</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [6101238456280906225]" altrender="box">5</container>
             <unittitle>McGregor Fund <unitdate type="inclusive" normal="1990">1990</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [6101238456280906225]" altrender="box">5</container>
             <unittitle>Michigan Bell Foundation <unitdate type="inclusive" normal="1988">1988</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [6101238456280906225]" altrender="box">5</container>
             <unittitle>Michigan Council for the Humanities <unitdate type="inclusive" normal="1988">1988</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [6101238456280906225]" altrender="box">5</container>
             <unittitle>The Needmor Fund <unitdate type="inclusive" normal="1988">1988</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [6101238456280906225]" altrender="box">5</container>
             <unittitle>Norman Foundation <unitdate type="inclusive" normal="1988">1988</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [6101238456280906225]" altrender="box">5</container>
             <unittitle>The Ottinger Foundation <unitdate type="inclusive" normal="1988">1988</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [6101238456280906225]" altrender="box">5</container>
             <unittitle>Presbyterian USA Funding <unitdate type="inclusive" normal="1990">1990</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [6101238456280906225]" altrender="box">5</container>
             <unittitle>Sisters of the Living Word <unitdate type="inclusive" normal="1988">1988</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [6101238456280906225]" altrender="box">5</container>
             <unittitle>United Foundation <unitdate type="inclusive" normal="1988/1989">1988-1989</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [6101238456280906225]" altrender="box">5</container>
             <unittitle>United Methodist Church <unitdate type="inclusive" normal="1987/1990">1987-1990</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">4 folders</extent>
@@ -955,13 +970,13 @@ American Citizens for Justice Records, Bentley Historical Library, University of
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">5</container>
+                <container type="box" label="Box [6101238456280906225]" altrender="box">5</container>
                 <unittitle>Asian American Civil Rights Education project, 1988-89</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">5</container>
+                <container type="box" label="Box [6101238456280906225]" altrender="box">5</container>
                 <unittitle>Media project</unittitle>
               </did>
             </c04>
@@ -976,7 +991,7 @@ American Citizens for Justice Records, Bentley Historical Library, University of
               </did>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">5</container>
+                  <container type="box" label="Box [6101238456280906225]" altrender="box">5</container>
                   <unittitle>
                     <unitdate type="inclusive" normal="1995-05-20">May 20, 1995</unitdate>
                   </unittitle>
@@ -984,7 +999,7 @@ American Citizens for Justice Records, Bentley Historical Library, University of
               </c05>
               <c05 level="item">
                 <did>
-                  <container type="box" label="Box">5</container>
+                  <container type="box" label="Box [6101238456280906225]" altrender="box">5</container>
                   <unittitle>
                     <unitdate type="inclusive" normal="1995-09-23">September 23, 1995</unitdate>
                   </unittitle>
@@ -992,7 +1007,7 @@ American Citizens for Justice Records, Bentley Historical Library, University of
               </c05>
               <c05 level="item">
                 <did>
-                  <container type="box" label="Box">5</container>
+                  <container type="box" label="Box [6101238456280906225]" altrender="box">5</container>
                   <unittitle>
                     <unitdate type="inclusive" normal="1997-09-13">September 13, 1997</unitdate>
                   </unittitle>
@@ -1001,19 +1016,19 @@ American Citizens for Justice Records, Bentley Historical Library, University of
             </c04>
             <c04 level="item">
               <did>
-                <container type="box" label="Box">5</container>
+                <container type="box" label="Box [6101238456280906225]" altrender="box">5</container>
                 <unittitle>Cultural Awareness workshop <unitdate type="inclusive" normal="1998">1998</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">5</container>
+                <container type="box" label="Box [6101238456280906225]" altrender="box">5</container>
                 <unittitle>"Enhancing Police and Community Trust," <unitdate type="inclusive" normal="2000">2000</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">5</container>
+                <container type="box" label="Box [6101238456280906225]" altrender="box">5</container>
                 <unittitle>Multicultural Immersion Program <unitdate type="inclusive" normal="1996/2004">1996-2004</unitdate></unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">9 folders</extent>
@@ -1022,7 +1037,7 @@ American Citizens for Justice Records, Bentley Historical Library, University of
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">5</container>
+                <container type="box" label="Box [6101238456280906225]" altrender="box">5</container>
                 <unittitle>Miscellaneous</unittitle>
               </did>
             </c04>
@@ -1041,55 +1056,55 @@ American Citizens for Justice Records, Bentley Historical Library, University of
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">6</container>
+                <container type="box" label="Box [253066541685491008748]" altrender="box">6</container>
                 <unittitle>AMAP (Asian Mutual Assistance Program)</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">6</container>
+                <container type="box" label="Box [253066541685491008748]" altrender="box">6</container>
                 <unittitle>Mental Health Needs and Services for Asian Americans project</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">6</container>
+                <container type="box" label="Box [253066541685491008748]" altrender="box">6</container>
                 <unittitle>MDHEC (Metropolitan Detroit Health Education Council) Conference</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">6</container>
+                <container type="box" label="Box [253066541685491008748]" altrender="box">6</container>
                 <unittitle>Minority Health Issues Committee</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">6</container>
+                <container type="box" label="Box [253066541685491008748]" altrender="box">6</container>
                 <unittitle>Minority HIV RFP</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">6</container>
+                <container type="box" label="Box [253066541685491008748]" altrender="box">6</container>
                 <unittitle>Miscellaneous health-related documents</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">6</container>
+                <container type="box" label="Box [253066541685491008748]" altrender="box">6</container>
                 <unittitle>Reduction in mortality/morbidity in minorities RFP</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">6</container>
+                <container type="box" label="Box [253066541685491008748]" altrender="box">6</container>
                 <unittitle>Refugee Act <unitdate type="inclusive" normal="1980">1980</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">6</container>
+                <container type="box" label="Box [253066541685491008748]" altrender="box">6</container>
                 <unittitle>United Community Services</unittitle>
               </did>
             </c04>
@@ -1104,79 +1119,79 @@ American Citizens for Justice Records, Bentley Historical Library, University of
               </did>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">6</container>
+                  <container type="box" label="Box [253066541685491008748]" altrender="box">6</container>
                   <unittitle>Community survey</unittitle>
                 </did>
               </c05>
               <c05 level="item">
                 <did>
-                  <container type="box" label="Box">6</container>
+                  <container type="box" label="Box [253066541685491008748]" altrender="box">6</container>
                   <unittitle>Detroit Health Department</unittitle>
                 </did>
               </c05>
               <c05 level="item">
                 <did>
-                  <container type="box" label="Box">6</container>
+                  <container type="box" label="Box [253066541685491008748]" altrender="box">6</container>
                   <unittitle>Health provider survey questionnaires</unittitle>
                 </did>
               </c05>
               <c05 level="item">
                 <did>
-                  <container type="box" label="Box">6</container>
+                  <container type="box" label="Box [253066541685491008748]" altrender="box">6</container>
                   <unittitle>Health surveys</unittitle>
                 </did>
               </c05>
               <c05 level="item">
                 <did>
-                  <container type="box" label="Box">6</container>
+                  <container type="box" label="Box [253066541685491008748]" altrender="box">6</container>
                   <unittitle>Hmong community</unittitle>
                 </did>
               </c05>
               <c05 level="item">
                 <did>
-                  <container type="box" label="Box">6</container>
+                  <container type="box" label="Box [253066541685491008748]" altrender="box">6</container>
                   <unittitle>Laotian community</unittitle>
                 </did>
               </c05>
               <c05 level="item">
                 <did>
-                  <container type="box" label="Box">6</container>
+                  <container type="box" label="Box [253066541685491008748]" altrender="box">6</container>
                   <unittitle>Multicultural clinics</unittitle>
                 </did>
               </c05>
               <c05 level="item">
                 <did>
-                  <container type="box" label="Box">6</container>
+                  <container type="box" label="Box [253066541685491008748]" altrender="box">6</container>
                   <unittitle>Other minority health projects</unittitle>
                 </did>
               </c05>
               <c05 level="item">
                 <did>
-                  <container type="box" label="Box">6</container>
+                  <container type="box" label="Box [253066541685491008748]" altrender="box">6</container>
                   <unittitle>Refugee health</unittitle>
                 </did>
               </c05>
               <c05 level="item">
                 <did>
-                  <container type="box" label="Box">6</container>
+                  <container type="box" label="Box [253066541685491008748]" altrender="box">6</container>
                   <unittitle>Refugee mental health</unittitle>
                 </did>
               </c05>
               <c05 level="item">
                 <did>
-                  <container type="box" label="Box">6</container>
+                  <container type="box" label="Box [253066541685491008748]" altrender="box">6</container>
                   <unittitle>Refugee mutual assistance associations</unittitle>
                 </did>
               </c05>
               <c05 level="item">
                 <did>
-                  <container type="box" label="Box">6</container>
+                  <container type="box" label="Box [253066541685491008748]" altrender="box">6</container>
                   <unittitle>Refugees in Michigan</unittitle>
                 </did>
               </c05>
               <c05 level="item">
                 <did>
-                  <container type="box" label="Box">6</container>
+                  <container type="box" label="Box [253066541685491008748]" altrender="box">6</container>
                   <unittitle>Southeast Asians, resources</unittitle>
                 </did>
               </c05>
@@ -1187,79 +1202,79 @@ American Citizens for Justice Records, Bentley Historical Library, University of
               </did>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">6</container>
+                  <container type="box" label="Box [253066541685491008748]" altrender="box">6</container>
                   <unittitle>Contact notes</unittitle>
                 </did>
               </c05>
               <c05 level="item">
                 <did>
-                  <container type="box" label="Box">6</container>
+                  <container type="box" label="Box [253066541685491008748]" altrender="box">6</container>
                   <unittitle>Financial status reports</unittitle>
                 </did>
               </c05>
               <c05 level="item">
                 <did>
-                  <container type="box" label="Box">6</container>
+                  <container type="box" label="Box [253066541685491008748]" altrender="box">6</container>
                   <unittitle>Health provider survey questionnaire</unittitle>
                 </did>
               </c05>
               <c05 level="item">
                 <did>
-                  <container type="box" label="Box">6</container>
+                  <container type="box" label="Box [253066541685491008748]" altrender="box">6</container>
                   <unittitle>Health Task Force</unittitle>
                 </did>
               </c05>
               <c05 level="item">
                 <did>
-                  <container type="box" label="Box">6</container>
+                  <container type="box" label="Box [253066541685491008748]" altrender="box">6</container>
                   <unittitle>Interview materials</unittitle>
                 </did>
               </c05>
               <c05 level="item">
                 <did>
-                  <container type="box" label="Box">6</container>
+                  <container type="box" label="Box [253066541685491008748]" altrender="box">6</container>
                   <unittitle>Miscellaneous</unittitle>
                 </did>
               </c05>
               <c05 level="item">
                 <did>
-                  <container type="box" label="Box">6</container>
+                  <container type="box" label="Box [253066541685491008748]" altrender="box">6</container>
                   <unittitle>Miscellaneous proposals and notes</unittitle>
                 </did>
               </c05>
               <c05 level="item">
                 <did>
-                  <container type="box" label="Box">6</container>
+                  <container type="box" label="Box [253066541685491008748]" altrender="box">6</container>
                   <unittitle>Proposals and budgets</unittitle>
                 </did>
               </c05>
               <c05 level="item">
                 <did>
-                  <container type="box" label="Box">6</container>
+                  <container type="box" label="Box [253066541685491008748]" altrender="box">6</container>
                   <unittitle>Proposals and planning</unittitle>
                 </did>
               </c05>
               <c05 level="item">
                 <did>
-                  <container type="box" label="Box">6</container>
+                  <container type="box" label="Box [253066541685491008748]" altrender="box">6</container>
                   <unittitle>Reports</unittitle>
                 </did>
               </c05>
               <c05 level="item">
                 <did>
-                  <container type="box" label="Box">6</container>
+                  <container type="box" label="Box [253066541685491008748]" altrender="box">6</container>
                   <unittitle>Status reports</unittitle>
                 </did>
               </c05>
               <c05 level="item">
                 <did>
-                  <container type="box" label="Box">6</container>
+                  <container type="box" label="Box [253066541685491008748]" altrender="box">6</container>
                   <unittitle>Survey logistics</unittitle>
                 </did>
               </c05>
               <c05 level="item">
                 <did>
-                  <container type="box" label="Box">6</container>
+                  <container type="box" label="Box [253066541685491008748]" altrender="box">6</container>
                   <unittitle>Survey publications</unittitle>
                 </did>
               </c05>
@@ -1275,19 +1290,19 @@ American Citizens for Justice Records, Bentley Historical Library, University of
           </scopecontent>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">7</container>
+              <container type="box" label="Box [35235061048809735344765]" altrender="box">7</container>
               <unittitle>Attorney client committee intake form</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">7</container>
+              <container type="box" label="Box [35235061048809735344765]" altrender="box">7</container>
               <unittitle>Attorney watch for anti-Asian incidents <unitdate type="inclusive" normal="1989">1989</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">7</container>
+              <container type="box" label="Box [35235061048809735344765]" altrender="box">7</container>
               <unittitle>Civil rights project</unittitle>
             </did>
           </c03>
@@ -1297,133 +1312,133 @@ American Citizens for Justice Records, Bentley Historical Library, University of
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">7</container>
+                <container type="box" label="Box [35235061048809735344765]" altrender="box">7</container>
                 <unittitle>Brown, X. (discrimination INS)</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">7</container>
+                <container type="box" label="Box [35235061048809735344765]" altrender="box">7</container>
                 <unittitle>Chou, S. (employment)</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">7</container>
+                <container type="box" label="Box [35235061048809735344765]" altrender="box">7</container>
                 <unittitle>Chow, C. (racial harassment and false accusation)</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">7</container>
+                <container type="box" label="Box [35235061048809735344765]" altrender="box">7</container>
                 <unittitle>Dick, M. (traffic incident)</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">7</container>
+                <container type="box" label="Box [35235061048809735344765]" altrender="box">7</container>
                 <unittitle>Gonzales (medical?)</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">7</container>
+                <container type="box" label="Box [35235061048809735344765]" altrender="box">7</container>
                 <unittitle>"Ho, Mr." (immigration problems?)</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">7</container>
+                <container type="box" label="Box [35235061048809735344765]" altrender="box">7</container>
                 <unittitle>Huang, J. (employment)</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">7</container>
+                <container type="box" label="Box [35235061048809735344765]" altrender="box">7</container>
                 <unittitle>Huie, W. A. (assault)</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">7</container>
+                <container type="box" label="Box [35235061048809735344765]" altrender="box">7</container>
                 <unittitle>Jain, J. (employment)</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">7</container>
+                <container type="box" label="Box [35235061048809735344765]" altrender="box">7</container>
                 <unittitle>Lee, N. (assault)</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">7</container>
+                <container type="box" label="Box [35235061048809735344765]" altrender="box">7</container>
                 <unittitle>Lee, S. (assault)</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">7</container>
+                <container type="box" label="Box [35235061048809735344765]" altrender="box">7</container>
                 <unittitle>Mazhar, I. (employment discrimination)</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">7</container>
+                <container type="box" label="Box [35235061048809735344765]" altrender="box">7</container>
                 <unittitle>Melton, K. (employment discrimination)</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">7</container>
+                <container type="box" label="Box [35235061048809735344765]" altrender="box">7</container>
                 <unittitle>Patel, P. P. (employment discrimination)</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">7</container>
+                <container type="box" label="Box [35235061048809735344765]" altrender="box">7</container>
                 <unittitle>Red Dragon Restaurant (discrimination?)</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">7</container>
+                <container type="box" label="Box [35235061048809735344765]" altrender="box">7</container>
                 <unittitle>Saxena, R. (employment discrimination)</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">7</container>
+                <container type="box" label="Box [35235061048809735344765]" altrender="box">7</container>
                 <unittitle>Schafer family (discrimination)</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">7</container>
+                <container type="box" label="Box [35235061048809735344765]" altrender="box">7</container>
                 <unittitle>Tewari et al. (employment discrimination)</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">7</container>
+                <container type="box" label="Box [35235061048809735344765]" altrender="box">7</container>
                 <unittitle>Tien, K. (assault)</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">7</container>
+                <container type="box" label="Box [35235061048809735344765]" altrender="box">7</container>
                 <unittitle>Wei, M. (employment discrimination)</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">7</container>
+                <container type="box" label="Box [35235061048809735344765]" altrender="box">7</container>
                 <unittitle>Young, W. (discrimination)</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">7</container>
+                <container type="box" label="Box [35235061048809735344765]" altrender="box">7</container>
                 <unittitle>Zhou, J. (employment)</unittitle>
               </did>
             </c04>
@@ -1434,13 +1449,13 @@ American Citizens for Justice Records, Bentley Historical Library, University of
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">7</container>
+                <container type="box" label="Box [35235061048809735344765]" altrender="box">7</container>
                 <unittitle>Huang, L. G. (Massachusetts) <unitdate type="inclusive" normal="1985">1985</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">7</container>
+                <container type="box" label="Box [35235061048809735344765]" altrender="box">7</container>
                 <unittitle>Isa, Esha (Illinois), 1988-89</unittitle>
               </did>
             </c04>
@@ -1450,31 +1465,31 @@ American Citizens for Justice Records, Bentley Historical Library, University of
               </did>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">7</container>
+                  <container type="box" label="Box [35235061048809735344765]" altrender="box">7</container>
                   <unittitle>Case ruling</unittitle>
                 </did>
               </c05>
               <c05 level="item">
                 <did>
-                  <container type="box" label="Box">7</container>
+                  <container type="box" label="Box [35235061048809735344765]" altrender="box">7</container>
                   <unittitle>Correspondence</unittitle>
                 </did>
               </c05>
               <c05 level="item">
                 <did>
-                  <container type="box" label="Box">7</container>
+                  <container type="box" label="Box [35235061048809735344765]" altrender="box">7</container>
                   <unittitle>Documents</unittitle>
                 </did>
               </c05>
               <c05 level="item">
                 <did>
-                  <container type="box" label="Box">7</container>
+                  <container type="box" label="Box [35235061048809735344765]" altrender="box">7</container>
                   <unittitle>Organizing and fundraising efforts</unittitle>
                 </did>
               </c05>
               <c05 level="item">
                 <did>
-                  <container type="box" label="Box">7</container>
+                  <container type="box" label="Box [35235061048809735344765]" altrender="box">7</container>
                   <unittitle>Probable cause hearing transcript</unittitle>
                 </did>
               </c05>
@@ -1485,26 +1500,26 @@ American Citizens for Justice Records, Bentley Historical Library, University of
               </did>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">7</container>
+                  <container type="box" label="Box [35235061048809735344765]" altrender="box">7</container>
                   <unittitle>Correspondence</unittitle>
                 </did>
               </c05>
               <c05 level="item">
                 <did>
-                  <container type="box" label="Box">7</container>
+                  <container type="box" label="Box [35235061048809735344765]" altrender="box">7</container>
                   <unittitle>Documents</unittitle>
                 </did>
               </c05>
             </c04>
             <c04 level="item">
               <did>
-                <container type="box" label="Box">7</container>
+                <container type="box" label="Box [35235061048809735344765]" altrender="box">7</container>
                 <unittitle>Takahashi (California) <unitdate type="inclusive" normal="1988">1988</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">7</container>
+                <container type="box" label="Box [35235061048809735344765]" altrender="box">7</container>
                 <unittitle>Yim, C. K. (Michigan) <unitdate type="inclusive" normal="1985">1985</unitdate></unittitle>
               </did>
             </c04>
@@ -1520,7 +1535,7 @@ American Citizens for Justice Records, Bentley Historical Library, University of
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">8</container>
+            <container type="box" label="Box [949967544270346]" altrender="box">8</container>
             <unittitle>Articles/clippings</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">4 folders</extent>
@@ -1529,121 +1544,127 @@ American Citizens for Justice Records, Bentley Historical Library, University of
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">8</container>
-            <unittitle>Anti-Asian Violence Network <unitdate type="inclusive" normal="1984/1985">1984-1985</unitdate>, <unitdate type="inclusive" normal="1988">1988</unitdate></unittitle>
+            <container type="box" label="Box [949967544270346]" altrender="box">8</container>
+            <unittitle>Anti-Asian Violence Network</unittitle>
+            <unitdate type="inclusive" normal="1984/1985">1984-1985</unitdate>
+            <unitdate type="inclusive" normal="1988">1988</unitdate>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">8</container>
+            <container type="box" label="Box [949967544270346]" altrender="box">8</container>
             <unittitle>APA Leader Council <unitdate type="inclusive" normal="1988">1988</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">8</container>
+            <container type="box" label="Box [949967544270346]" altrender="box">8</container>
             <unittitle>APASO (Asian Pacific American Student Organization, Michigan State University) <unitdate type="inclusive" normal="1989/1990">1989-1990</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">8</container>
+            <container type="box" label="Box [949967544270346]" altrender="box">8</container>
             <unittitle>Asian Americans for Equality</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">8</container>
+            <container type="box" label="Box [949967544270346]" altrender="box">8</container>
             <unittitle>Asian Foundation for Community Development <unitdate type="inclusive" normal="1986/1989">1986-1989</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">8</container>
+            <container type="box" label="Box [949967544270346]" altrender="box">8</container>
             <unittitle>Asian Law Caucus <unitdate type="inclusive" normal="1989/1991">1989-1991</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">8</container>
-            <unittitle>Asian Pacific Heritage Week <unitdate type="inclusive" normal="1986">1986</unitdate>, <unitdate type="inclusive" normal="1988">1988</unitdate></unittitle>
+            <container type="box" label="Box [949967544270346]" altrender="box">8</container>
+            <unittitle>Asian Pacific Heritage Week</unittitle>
+            <unitdate type="inclusive" normal="1986">1986</unitdate>
+            <unitdate type="inclusive" normal="1988">1988</unitdate>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">8</container>
+            <container type="box" label="Box [949967544270346]" altrender="box">8</container>
             <unittitle>Association for Asian American Studies, scattered</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">8</container>
+            <container type="box" label="Box [949967544270346]" altrender="box">8</container>
             <unittitle>Battered women <unitdate type="inclusive" normal="1988/1990">1988-1990</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">8</container>
+            <container type="box" label="Box [949967544270346]" altrender="box">8</container>
             <unittitle>Business Advisory Council <unitdate type="inclusive" normal="1988">1988</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">8</container>
+            <container type="box" label="Box [949967544270346]" altrender="box">8</container>
             <unittitle>Campus issues <unitdate type="inclusive" normal="1987/1990">1987-1990</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">8</container>
+            <container type="box" label="Box [949967544270346]" altrender="box">8</container>
             <unittitle>Chicago Commission on Asian American Affairs <unitdate type="inclusive" normal="1989/1990">1989-1990</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">8</container>
+            <container type="box" label="Box [949967544270346]" altrender="box">8</container>
             <unittitle>Civil Rights Act of <unitdate type="inclusive" normal="1990">1990</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">8</container>
+            <container type="box" label="Box [949967544270346]" altrender="box">8</container>
             <unittitle>Committee Against Anti-Asian Violence <unitdate type="inclusive" normal="1988/1992">1988-1992</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">8</container>
-            <unittitle>Crime victim's rights <unitdate type="inclusive" normal="1985">1985</unitdate>, <unitdate type="inclusive" normal="1988">1988</unitdate></unittitle>
+            <container type="box" label="Box [949967544270346]" altrender="box">8</container>
+            <unittitle>Crime victim's rights</unittitle>
+            <unitdate type="inclusive" normal="1985">1985</unitdate>
+            <unitdate type="inclusive" normal="1988">1988</unitdate>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">8</container>
+            <container type="box" label="Box [949967544270346]" altrender="box">8</container>
             <unittitle>Cultural Leadership program <unitdate type="inclusive" normal="1995">1995</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">8</container>
+            <container type="box" label="Box [949967544270346]" altrender="box">8</container>
             <unittitle>Detroit Chinatown proposal <unitdate type="inclusive" normal="1989">1989</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">8</container>
+            <container type="box" label="Box [949967544270346]" altrender="box">8</container>
             <unittitle>Detroit Ecumenical Working Group of Asian Pacific Americans (DEWGAPA) <unitdate type="inclusive" normal="1988/1990">1988-1990</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">8</container>
+            <container type="box" label="Box [949967544270346]" altrender="box">8</container>
             <unittitle>Detroit Minority Business Development Center <unitdate type="inclusive" normal="1988/1989">1988-1989</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">8</container>
+            <container type="box" label="Box [949967544270346]" altrender="box">8</container>
             <unittitle>Discrimination <unitdate type="inclusive" normal="1986/1994">1986-1994</unitdate></unittitle>
           </did>
         </c02>
@@ -1653,7 +1674,7 @@ American Citizens for Justice Records, Bentley Historical Library, University of
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">8</container>
+              <container type="box" label="Box [949967544270346]" altrender="box">8</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1987">1987</unitdate>
               </unittitle>
@@ -1661,7 +1682,7 @@ American Citizens for Justice Records, Bentley Historical Library, University of
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">8</container>
+              <container type="box" label="Box [949967544270346]" altrender="box">8</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1988">1988</unitdate>
               </unittitle>
@@ -1669,7 +1690,7 @@ American Citizens for Justice Records, Bentley Historical Library, University of
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">8</container>
+              <container type="box" label="Box [949967544270346]" altrender="box">8</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1989">1989</unitdate>
               </unittitle>
@@ -1677,7 +1698,7 @@ American Citizens for Justice Records, Bentley Historical Library, University of
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">8</container>
+              <container type="box" label="Box [949967544270346]" altrender="box">8</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1990">1990</unitdate>
               </unittitle>
@@ -1685,7 +1706,7 @@ American Citizens for Justice Records, Bentley Historical Library, University of
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">8</container>
+              <container type="box" label="Box [949967544270346]" altrender="box">8</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1991">1991</unitdate>
               </unittitle>
@@ -1693,7 +1714,7 @@ American Citizens for Justice Records, Bentley Historical Library, University of
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">8</container>
+              <container type="box" label="Box [949967544270346]" altrender="box">8</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1992">1992</unitdate>
               </unittitle>
@@ -1701,7 +1722,7 @@ American Citizens for Justice Records, Bentley Historical Library, University of
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">9</container>
+              <container type="box" label="Box [18466759479589328182584]" altrender="box">9</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1993">1993</unitdate>
               </unittitle>
@@ -1709,7 +1730,7 @@ American Citizens for Justice Records, Bentley Historical Library, University of
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">9</container>
+              <container type="box" label="Box [18466759479589328182584]" altrender="box">9</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1994">1994</unitdate>
               </unittitle>
@@ -1717,116 +1738,119 @@ American Citizens for Justice Records, Bentley Historical Library, University of
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">9</container>
+              <container type="box" label="Box [18466759479589328182584]" altrender="box">9</container>
               <unittitle>Study guide <unitdate type="inclusive" normal="1988/1989">1988-1989</unitdate></unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">9</container>
+            <container type="box" label="Box [18466759479589328182584]" altrender="box">9</container>
             <unittitle>English only statements <unitdate type="inclusive" normal="1989">1989</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">9</container>
+            <container type="box" label="Box [18466759479589328182584]" altrender="box">9</container>
             <unittitle>English proficiency exam at Wayne State University <unitdate type="inclusive" normal="1988">1988</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">9</container>
-            <unittitle>Governor's Advisory Commission on Asian-American Affairs <unitdate type="inclusive" normal="1985">1985</unitdate>, <unitdate type="inclusive" normal="1987">1987</unitdate>, <unitdate type="inclusive" normal="1991">1991</unitdate></unittitle>
+            <container type="box" label="Box [18466759479589328182584]" altrender="box">9</container>
+            <unittitle>Governor's Advisory Commission on Asian-American Affairs</unittitle>
+            <unitdate type="inclusive" normal="1985">1985</unitdate>
+            <unitdate type="inclusive" normal="1987">1987</unitdate>
+            <unitdate type="inclusive" normal="1991">1991</unitdate>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">9</container>
+            <container type="box" label="Box [18466759479589328182584]" altrender="box">9</container>
             <unittitle>House Bill no. 4508 (Asian Pacific American Commission) <unitdate type="inclusive" normal="1993">1993</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">9</container>
+            <container type="box" label="Box [18466759479589328182584]" altrender="box">9</container>
             <unittitle>House Concurrent Resolution no. 147 <unitdate type="inclusive" normal="1989">1989</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">9</container>
+            <container type="box" label="Box [18466759479589328182584]" altrender="box">9</container>
             <unittitle>House Resolution no. 442 redress <unitdate type="inclusive" normal="1986/1989">1986-1989</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">9</container>
+            <container type="box" label="Box [18466759479589328182584]" altrender="box">9</container>
             <unittitle>House Resolution no. 2712 <unitdate type="inclusive" normal="1990">1990</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">9</container>
+            <container type="box" label="Box [18466759479589328182584]" altrender="box">9</container>
             <unittitle>International Institute of Metropolitan Detroit <unitdate type="inclusive" normal="1988/1991">1988-1991</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">9</container>
+            <container type="box" label="Box [18466759479589328182584]" altrender="box">9</container>
             <unittitle>Lakes Area Council for Diversity <unitdate type="inclusive" normal="1995">1995</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">9</container>
+            <container type="box" label="Box [18466759479589328182584]" altrender="box">9</container>
             <unittitle>Michigan Department of Civil Rights <unitdate type="inclusive" normal="1988/1990">1988-1990</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">9</container>
+            <container type="box" label="Box [18466759479589328182584]" altrender="box">9</container>
             <unittitle>Michigan Victim Alliance <unitdate type="inclusive" normal="1987/1990">1987-1990</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">9</container>
+            <container type="box" label="Box [18466759479589328182584]" altrender="box">9</container>
             <unittitle>Midwest APA students <unitdate type="inclusive" normal="1989/1991">1989-1991</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">9</container>
+            <container type="box" label="Box [18466759479589328182584]" altrender="box">9</container>
             <unittitle>Model minority <unitdate type="inclusive" normal="1989/1990">1989-1990</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">9</container>
+            <container type="box" label="Box [18466759479589328182584]" altrender="box">9</container>
             <unittitle>National Asian Pacific Bar Association (NAPBA) <unitdate type="inclusive" normal="1989/1992">1989-1992</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">9</container>
+            <container type="box" label="Box [18466759479589328182584]" altrender="box">9</container>
             <unittitle>National Congressional Conference on Asian-American Violence <unitdate type="inclusive" normal="1989-11">November 1989</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">9</container>
+            <container type="box" label="Box [18466759479589328182584]" altrender="box">9</container>
             <unittitle>National Network Against Asian-American Violence <unitdate type="inclusive" normal="1990/1993">1990-1993</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">9</container>
+            <container type="box" label="Box [18466759479589328182584]" altrender="box">9</container>
             <unittitle>Oberlin College protests <unitdate type="inclusive" normal="1990">1990</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">9</container>
+            <container type="box" label="Box [18466759479589328182584]" altrender="box">9</container>
             <unittitle>Roland Hwang files <unitdate type="inclusive" normal="1992/1994">1992-1994</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -1835,37 +1859,37 @@ American Citizens for Justice Records, Bentley Historical Library, University of
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">9</container>
+            <container type="box" label="Box [18466759479589328182584]" altrender="box">9</container>
             <unittitle>Slurs and stereotypes <unitdate type="inclusive" normal="1988/1990">1988-1990</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">9</container>
+            <container type="box" label="Box [18466759479589328182584]" altrender="box">9</container>
             <unittitle>UMASC (University of Michigan Asian Student Coalition) <unitdate type="inclusive" normal="1987/1990">1987-1990</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">9</container>
+            <container type="box" label="Box [18466759479589328182584]" altrender="box">9</container>
             <unittitle>University of Michigan <unitdate type="inclusive" normal="1987/1990">1987-1990</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">9</container>
+            <container type="box" label="Box [18466759479589328182584]" altrender="box">9</container>
             <unittitle>Wayne State University beatings <unitdate type="inclusive" normal="1988/1990">1988-1990</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">9</container>
+            <container type="box" label="Box [18466759479589328182584]" altrender="box">9</container>
             <unittitle>WTVS <unitdate type="inclusive" normal="1988">1988</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">9</container>
+            <container type="box" label="Box [18466759479589328182584]" altrender="box">9</container>
             <unittitle>Youth outreach <unitdate type="inclusive" normal="1988/1989">1988-1989</unitdate></unittitle>
           </did>
         </c02>
@@ -1879,7 +1903,7 @@ American Citizens for Justice Records, Bentley Historical Library, University of
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">9</container>
+            <container type="box" label="Box [18466759479589328182584]" altrender="box">9</container>
             <unittitle><genreform normal="Photographs">Photographs</genreform> of meetings, etc., <unitdate type="inclusive">undated</unitdate></unittitle>
           </did>
         </c02>
@@ -1891,7 +1915,7 @@ American Citizens for Justice Records, Bentley Historical Library, University of
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">9</container>
+              <container type="box" label="Box [18466759479589328182584]" altrender="box">9</container>
               <unittitle>ACJ Rededication Dinner <unitdate type="inclusive" normal="1986">1986</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 videotapes</extent>
@@ -1900,25 +1924,25 @@ American Citizens for Justice Records, Bentley Historical Library, University of
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">9</container>
+              <container type="box" label="Box [18466759479589328182584]" altrender="box">9</container>
               <unittitle>Asian Pacific American Conference, Lansing Community College <unitdate type="inclusive" normal="1991">1991</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">9</container>
+              <container type="box" label="Box [18466759479589328182584]" altrender="box">9</container>
               <unittitle>Solace <unitdate type="inclusive" normal="1996">1996</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">9</container>
+              <container type="box" label="Box [18466759479589328182584]" altrender="box">9</container>
               <unittitle>Cultural Sensitivity Asian cultures, Rebecca Lo <unitdate type="inclusive">undated</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">9</container>
+              <container type="box" label="Box [18466759479589328182584]" altrender="box">9</container>
               <unittitle>Asian-American identity (interview project sponsored by the ACJ) <unitdate type="inclusive">undated</unitdate></unittitle>
             </did>
           </c03>

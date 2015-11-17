@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Helen Hill Papers, 1976-2012</titleproper>
       <author>Finding aid created by <lb/>Daina Andries, in May, 2015</author>
     </titlepage>
@@ -37,7 +37,9 @@
       <origination>
         <persname source="lcnaf" encodinganalog="100" authfilenumber="http://id.loc.gov/authorities/names/n80034971">Hill, Helen, 1915-</persname>
       </origination>
-      <unittitle encodinganalog="245">Helen Hill Papers <unitdate type="inclusive" encodinganalog="245$f" normal="1976/2012">1976-2012</unitdate>, <unitdate type="bulk" encodinganalog="245$g" normal="1987/1995">1987-1995</unitdate></unittitle>
+      <unittitle encodinganalog="245">Helen Hill Papers</unittitle>
+      <unitdate type="inclusive" encodinganalog="245$f" normal="1976/2012">1976-2012</unitdate>
+      <unitdate type="bulk" encodinganalog="245$g" normal="1987/1995">1987-1995</unitdate>
       <unitid encodinganalog="852$h" repositorycode="MiU-H" countrycode="us" type="call number">2015030 Aa 2
 Ac</unitid>
       <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language></langmaterial>
@@ -90,7 +92,7 @@ Helen Hill papers, Bentley Historical Library, University of Michigan</p>
         <head>Subjects:</head>
         <corpname source="lcnaf" encodinganalog="610">Alliance for the Mentally Ill of Washtenaw County.</corpname>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n80034971">Hill, Helen, 1915-</persname>
-        <subject source="lcsh" encodinganalog="650">Mentally ill--Care--Michigan--Washtenaw County.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7337">Mentally ill--Care--Michigan--Washtenaw County.</subject>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/no2010188753">NAMI Michigan.</corpname>
         <corpname source="lcnaf" encodinganalog="610">Trailblazers of Washtenaw County.</corpname>
       </controlaccess>
@@ -109,7 +111,7 @@ Helen Hill papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [241216394683351670642541]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1989/1991">1989-1991</unitdate>
               </unittitle>
@@ -129,7 +131,7 @@ Helen Hill papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [241216394683351670642541]" altrender="box">1</container>
                 <unittitle>Budgets <unitdate type="inclusive" normal="1990/1992">1990-1992</unitdate></unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -138,19 +140,19 @@ Helen Hill papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [241216394683351670642541]" altrender="box">1</container>
                 <unittitle>Fund Letters <unitdate type="inclusive" normal="1990/1993">1990-1993</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [241216394683351670642541]" altrender="box">1</container>
                 <unittitle>Fundraising <unitdate type="inclusive" normal="1989/1993">1989-1993</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [241216394683351670642541]" altrender="box">1</container>
                 <unittitle>Treasurer's Reports <unitdate type="inclusive" normal="1994/1995">1994-1995</unitdate></unittitle>
               </did>
             </c04>
@@ -161,13 +163,13 @@ Helen Hill papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [241216394683351670642541]" altrender="box">1</container>
                 <unittitle>Bylaws <unitdate type="inclusive">undated</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [241216394683351670642541]" altrender="box">1</container>
                 <unittitle>Personnel Policy <unitdate type="inclusive" normal="1993/1997">1993-1997</unitdate></unittitle>
               </did>
             </c04>
@@ -179,25 +181,25 @@ Helen Hill papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [241216394683351670642541]" altrender="box">1</container>
               <unittitle>Ann Arbor Citizens' Council Clubhouse Model <unitdate type="inclusive" normal="1988">1988</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [241216394683351670642541]" altrender="box">1</container>
               <unittitle>Clubhouse Standards <unitdate type="inclusive" normal="1989/1992">1989-1992</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="folder" label="Oversize Folder">1</container>
+              <container type="folder" label="Oversize Folder [97235984254823954744]" altrender="folder">1</container>
               <unittitle>Drawing of Clubhouse</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [241216394683351670642541]" altrender="box">1</container>
               <unittitle>Model Projects, Case Studies <unitdate type="inclusive" normal="1976/1992">1976-1992</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">5 folders</extent>
@@ -206,13 +208,13 @@ Helen Hill papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [241216394683351670642541]" altrender="box">1</container>
               <unittitle>PSR Program Pamphlet <unitdate type="inclusive" normal="1988">1988</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [241216394683351670642541]" altrender="box">1</container>
               <unittitle>Site Selection <unitdate type="inclusive" normal="1988/1992">1988-1992</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -226,25 +228,25 @@ Helen Hill papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [576844398705417833]" altrender="box">2</container>
               <unittitle>Agendas, Minutes <unitdate type="inclusive" normal="1987/1996">1987-1996</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [576844398705417833]" altrender="box">2</container>
               <unittitle>Minutes <unitdate type="inclusive" normal="1989/1990">1989-1990</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [576844398705417833]" altrender="box">2</container>
               <unittitle>Minutes <unitdate type="inclusive" normal="1995">1995</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [576844398705417833]" altrender="box">2</container>
               <unittitle>PSR Memos and Minutes <unitdate type="inclusive" normal="1987/1989">1987-1989</unitdate></unittitle>
             </did>
           </c03>
@@ -255,13 +257,13 @@ Helen Hill papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [576844398705417833]" altrender="box">2</container>
               <unittitle>Ann Arbor News Editorials <unitdate type="inclusive" normal="1989">1989</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [576844398705417833]" altrender="box">2</container>
               <unittitle>Brochures, Fliers <unitdate type="inclusive" normal="1985/1992">1985-1992</unitdate></unittitle>
             </did>
             <odd>
@@ -270,13 +272,13 @@ Helen Hill papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [576844398705417833]" altrender="box">2</container>
               <unittitle>Fact Sheets <unitdate type="inclusive" normal="1984/1993">1984-1993</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [576844398705417833]" altrender="box">2</container>
               <unittitle>Newsletters <unitdate type="inclusive" normal="1992/1994">1992-1994</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -285,7 +287,7 @@ Helen Hill papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [576844398705417833]" altrender="box">2</container>
               <unittitle>Videocassette</unittitle>
               <physdesc>
                 <physfacet>Master Broadcast Videocassette</physfacet>
@@ -299,13 +301,13 @@ Helen Hill papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="folder" label="Oversize Folder">1</container>
+              <container type="folder" label="Oversize Folder [97235984254823954744]" altrender="folder">1</container>
               <unittitle>Resolution Honoring Helen and Donald Hill <unitdate type="inclusive" normal="1993">1993</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="folder" label="Oversize Folder">1</container>
+              <container type="folder" label="Oversize Folder [97235984254823954744]" altrender="folder">1</container>
               <unittitle>Senate Concurrent Resolution No. 151 <unitdate type="inclusive" normal="1995">1995</unitdate></unittitle>
             </did>
           </c03>
@@ -320,38 +322,38 @@ Helen Hill papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [576844398705417833]" altrender="box">2</container>
                 <unittitle>Articles by Dincin</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [576844398705417833]" altrender="box">2</container>
                 <unittitle>Articles by Hecker</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [576844398705417833]" altrender="box">2</container>
                 <unittitle>Articles by Propst</unittitle>
               </did>
             </c04>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [576844398705417833]" altrender="box">2</container>
               <unittitle>Bibliographies, Reading Lists</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [576844398705417833]" altrender="box">2</container>
               <unittitle>First Person Accounts <unitdate type="inclusive" normal="1987/1988">1987-1988</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [576844398705417833]" altrender="box">2</container>
               <unittitle><title render="italic">Tie Lines</title> Bulletin, <unitdate type="inclusive" normal="1998">1998</unitdate></unittitle>
             </did>
           </c03>
@@ -370,7 +372,7 @@ Helen Hill papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [576844398705417833]" altrender="box">2</container>
               <unittitle>Bylaws, Organizational Structure, Miscellaneous, Logos <unitdate type="inclusive" normal="1989/1992">1989-1992</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -379,26 +381,26 @@ Helen Hill papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [576844398705417833]" altrender="box">2</container>
               <unittitle>AMI Newsletters <unitdate type="inclusive" normal="1990/2012">1990-2012</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [576844398705417833]" altrender="box">2</container>
               <unittitle>Agendas, Meeting Materials <unitdate type="inclusive" normal="1992/1993">1992-1993</unitdate></unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [576844398705417833]" altrender="box">2</container>
             <unittitle>Assertive Community Treatment Programs <unitdate type="inclusive" normal="1987/1988">1987-1988</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [576844398705417833]" altrender="box">2</container>
             <unittitle>Mental Illness Advisory Council <unitdate type="inclusive" normal="1987/1989">1987-1989</unitdate></unittitle>
           </did>
         </c02>
@@ -408,13 +410,13 @@ Helen Hill papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [576844398705417833]" altrender="box">2</container>
               <unittitle>Annual Report <unitdate type="inclusive" normal="1996">1996</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [576844398705417833]" altrender="box">2</container>
               <unittitle>Advocacy, outreach <unitdate type="inclusive" normal="1992/2009">1992-2009</unitdate></unittitle>
             </did>
           </c03>
@@ -428,16 +430,16 @@ Helen Hill papers, Bentley Historical Library, University of Michigan</p>
           <list type="simple">
             <item>Archival Material
               <list type="simple">
-                <item><title render="italic" href="http://quod.lib.umich.edu/cgi/f/findaid/findaid-idx?c=bhlead;idno=umich-bhl-0224" actuate="onload" show="new">Kevin Duke papers</title> (another Trailblazers Founder,)</item>
-                <item><title render="italic" href="http://quod.lib.umich.edu/cgi/f/findaid/findaid-idx?c=bhlead;idno=umich-bhl-9813" show="new" actuate="onrequest">NAMI Michigan records</title></item>
-                <item><title href="http://mirlyn.lib.umich.edu/Record/005627955" show="new" actuate="onrequest">NAMI Eastside Support Group records</title> (catalog record)</item>
+                <item altrender="skip"><title render="italic" href="http://quod.lib.umich.edu/cgi/f/findaid/findaid-idx?c=bhlead;idno=umich-bhl-0224" actuate="onload" show="new">Kevin Duke papers</title> (another Trailblazers Founder,)</item>
+                <item altrender="skip"><title render="italic" href="http://quod.lib.umich.edu/cgi/f/findaid/findaid-idx?c=bhlead;idno=umich-bhl-9813" show="new" actuate="onrequest">NAMI Michigan records</title></item>
+                <item altrender="skip"><title href="http://mirlyn.lib.umich.edu/Record/005627955" show="new" actuate="onrequest">NAMI Eastside Support Group records</title> (catalog record)</item>
               </list>
             </item>
             <item>Printed periodicals and publications, cataloged separately
               <list type="simple">
-                <item><title render="italic" href="http://mirlyn.lib.umich.edu/Record/003582774" show="new" actuate="onrequest">NAMI Michigan news : from around the state</title>,</item>
-                <item><title render="italic" href="http://mirlyn.lib.umich.edu/Record/012372881" show="new" actuate="onrequest">NAMI Metro : Oakland, Wayne and Macomb Counties</title>.</item>
-                <item><title render="italic" href="http://mirlyn.lib.umich.edu/Record/005277138" show="new" actuate="onrequest">History of NAMI Michigan</title>, by Hubert C. Huerbel</item>
+                <item altrender="skip"><title render="italic" href="http://mirlyn.lib.umich.edu/Record/003582774" show="new" actuate="onrequest">NAMI Michigan news : from around the state</title>,</item>
+                <item altrender="skip"><title render="italic" href="http://mirlyn.lib.umich.edu/Record/012372881" show="new" actuate="onrequest">NAMI Metro : Oakland, Wayne and Macomb Counties</title>.</item>
+                <item altrender="skip"><title render="italic" href="http://mirlyn.lib.umich.edu/Record/005277138" show="new" actuate="onrequest">History of NAMI Michigan</title>, by Hubert C. Huerbel</item>
               </list>
             </item>
           </list>

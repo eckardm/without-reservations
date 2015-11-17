@@ -38,7 +38,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding Aid for <lb/>Walter I. McKenzie Papers, <date type="inclusive">1914-1962</date></titleproper>
       <author>Finding aid prepared by: <lb/>Thomas E. Powers</author>
     </titlepage>
@@ -48,7 +48,10 @@
       <origination>
         <persname source="lcnaf" encodinganalog="100">McKenzie, Walter I. (Walter Ingles), 1888-1962.</persname>
       </origination>
-      <unittitle encodinganalog="245">Walter I. McKenzie Papers <unitdate type="inclusive" encodinganalog="245$f" normal="1914/1962">1914-1962</unitdate>, <unitdate type="bulk" encodinganalog="245$g" normal="1918/1919">1918-1919</unitdate>, <unitdate type="bulk" encodinganalog="245$g" normal="1946/1947">1946-1947</unitdate></unittitle>
+      <unittitle encodinganalog="245">Walter I. McKenzie Papers</unittitle>
+      <unitdate type="inclusive" encodinganalog="245$f" normal="1914/1962">1914-1962</unitdate>
+      <unitdate type="bulk" encodinganalog="245$g" normal="1918/1919">1918-1919</unitdate>
+      <unitdate type="bulk" encodinganalog="245$g" normal="1946/1947">1946-1947</unitdate>
       <abstract>Detroit attorney, assistant U. S. Prosecutor at the International Military Tribunal for the Far East following World War II; correspondence and official court materials largely relating to Japanese intervention in Manchuria; materials relating to service in Polar Expedition to northern Russian during World War I; miscellaneous papers relating to other political and legal activities; and photographs.</abstract>
       <unitid countrycode="us" repositorycode="MiU-H" encodinganalog="099" type="call number">2009195 Aa 2 UAm</unitid>
       <langmaterial>The materials are in <language encodinganalog="041" langcode="eng">English.</language></langmaterial>
@@ -91,29 +94,29 @@
       <controlaccess>
         <head>Subjects:</head>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n80152331">International Military Tribunal for the Far East.</corpname>
-        <geogname source="lcsh" encodinganalog="651">Japan.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/948">Japan.</geogname>
         <persname source="lcnaf" encodinganalog="600">McKenzie, Walter I. (Walter Ingles), 1888-1962.</persname>
-        <subject source="local" encodinganalog="690" authfilenumber="http://id.loc.gov/authorities/names/n2008059426">Polar Bear Expedition.</subject>
-        <geogname source="lcsh" encodinganalog="651">Soviet Union--History--Allied intervention, 1918-1920.</geogname>
-        <geogname source="lcsh" encodinganalog="651">United States--Foreign relations--Japan.</geogname>
-        <subject source="lcsh" encodinganalog="650">World War, 1914-1918.</subject>
-        <subject source="lcsh" encodinganalog="650">World War, 1939-1945.</subject>
+        <subject source="local" encodinganalog="690" authfilenumber="http://id.loc.gov/authorities/names/n2008059426" ref="/subjects/3518">Polar Bear Expedition.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/883">Soviet Union--History--Allied intervention, 1918-1920.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/988">United States--Foreign relations--Japan.</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5712">World War, 1914-1918.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5681">World War, 1939-1945.</subject>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Material:</head>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n79045539.html">Detroit (Mich.)</geogname>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n79045539.html" ref="/subjects/933">Detroit (Mich.)</geogname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n80152331">International Military Tribunal for the Far East.</corpname>
-        <geogname source="lcsh" encodinganalog="651">Japan.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/948">Japan.</geogname>
         <persname source="lcnaf" encodinganalog="600">McKenzie, Walter I. (Walter Ingles), 1888-1962.</persname>
         <famname source="lcnaf" encodinganalog="600">McKenzie family.</famname>
-        <subject source="lctgm" encodinganalog="650">Military art and science.</subject>
-        <subject source="local" encodinganalog="690" authfilenumber="http://id.loc.gov/authorities/names/n2008059426">Polar Bear Expedition.</subject>
-        <geogname source="lcsh" encodinganalog="651">Soviet Union--History--Allied intervention, 1918-1920.</geogname>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3773">Military art and science.</subject>
+        <subject source="local" encodinganalog="690" authfilenumber="http://id.loc.gov/authorities/names/n2008059426" ref="/subjects/3518">Polar Bear Expedition.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/883">Soviet Union--History--Allied intervention, 1918-1920.</geogname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n81094908">Veterans of Foreign Wars of the United States.</corpname>
       </controlaccess>
       <controlaccess>
         <head>Genre/Form:</head>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -123,13 +126,13 @@
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [984733818406891053194]" altrender="box">1</container>
             <unittitle>Biographical material</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [984733818406891053194]" altrender="box">1</container>
             <unittitle>Personal clippings</unittitle>
           </did>
         </c02>
@@ -143,8 +146,11 @@
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <unittitle>Dated files <unitdate type="inclusive">undated</unitdate>, <unitdate type="inclusive" normal="1914/1937">1914-1937</unitdate>, <unitdate type="inclusive" normal="1944/1958">1944-1958</unitdate></unittitle>
+            <container type="box" label="Box [984733818406891053194]" altrender="box">1</container>
+            <unittitle>Dated files</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <unitdate type="inclusive" normal="1914/1937">1914-1937</unitdate>
+            <unitdate type="inclusive" normal="1944/1958">1944-1958</unitdate>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">15 folders</extent>
             </physdesc>
@@ -152,7 +158,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [984733818406891053194]" altrender="box">1</container>
             <unittitle>Exchanges with wife and other family members <unitdate type="inclusive" normal="1946-03/1946-11">March-November 1946</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">7 folders</extent>
@@ -169,13 +175,13 @@
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [984733818406891053194]" altrender="box">1</container>
             <unittitle>Articles by McKenzie re. Japanese War Crimes Trial</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [984733818406891053194]" altrender="box">1</container>
             <unittitle>Speeches, speech notes, and announcement of speeches</unittitle>
           </did>
         </c02>
@@ -189,49 +195,49 @@
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [984733818406891053194]" altrender="box">1</container>
             <unittitle>Charter of Tribunal; rules of procedure</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [984733818406891053194]" altrender="box">1</container>
             <unittitle>Regulations and memoranda re. mechanics of trial, personnel assignments, etc</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [984733818406891053194]" altrender="box">1</container>
             <unittitle>Memoranda re. document processing, analysis, and translation</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [984733818406891053194]" altrender="box">1</container>
             <unittitle>Indictment</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [984733818406891053194]" altrender="box">1</container>
             <unittitle>Jurisdiction of tribunal (motions and briefs)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [984733818406891053194]" altrender="box">1</container>
             <unittitle>Opening statement of prosecution (Joseph B. Keenan)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [984733818406891053194]" altrender="box">1</container>
             <unittitle>Opening statement (drafts and background material)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [984733818406891053194]" altrender="box">1</container>
             <unittitle>Memorandum: "The Crime of Conspiracy" by Brendan F. Brown</unittitle>
           </did>
         </c02>
@@ -241,13 +247,13 @@
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [984733818406891053194]" altrender="box">1</container>
               <unittitle>Opening statement of John Darsey</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [984733818406891053194]" altrender="box">1</container>
               <unittitle>Background reports, memoranda</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -256,43 +262,43 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [984733818406891053194]" altrender="box">1</container>
               <unittitle>Outline of proof</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [984733818406891053194]" altrender="box">1</container>
               <unittitle>Evidence (additional documents)</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [984733818406891053194]" altrender="box">1</container>
               <unittitle>Brief (rough notes)</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [984733818406891053194]" altrender="box">1</container>
               <unittitle>Brief book</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [810218499764017737]" altrender="box">2</container>
               <unittitle>Trial brief</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [810218499764017737]" altrender="box">2</container>
               <unittitle>Summary of proof</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [810218499764017737]" altrender="box">2</container>
               <unittitle>Evidence, notes, etc.</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">4 folders</extent>
@@ -301,19 +307,19 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [810218499764017737]" altrender="box">2</container>
               <unittitle>Lytton Report synopsis</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [810218499764017737]" altrender="box">2</container>
               <unittitle>John Powell affidavit</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [810218499764017737]" altrender="box">2</container>
               <unittitle>Waiver of Rule 6b-1</unittitle>
             </did>
           </c03>
@@ -324,110 +330,110 @@
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [810218499764017737]" altrender="box">2</container>
               <unittitle>Araki, Sadao</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [810218499764017737]" altrender="box">2</container>
               <unittitle>Ishihara, Kanji</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [810218499764017737]" altrender="box">2</container>
               <unittitle>Itagaki, Seishiro</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [810218499764017737]" altrender="box">2</container>
               <unittitle>Kamei, Kenichiro</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [810218499764017737]" altrender="box">2</container>
               <unittitle>Kasagi, Ryomei</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [810218499764017737]" altrender="box">2</container>
               <unittitle>Kido, Koichi</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [810218499764017737]" altrender="box">2</container>
               <unittitle>Machino, Takeuma</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [810218499764017737]" altrender="box">2</container>
               <unittitle>Mitsuchi, Chuzo</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [810218499764017737]" altrender="box">2</container>
               <unittitle>Morishima, Morito</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [810218499764017737]" altrender="box">2</container>
               <unittitle>Ogata, Tatekora</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [810218499764017737]" altrender="box">2</container>
               <unittitle>Okada, Keisuke</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [810218499764017737]" altrender="box">2</container>
               <unittitle>Shimizu, Konosuke</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [810218499764017737]" altrender="box">2</container>
               <unittitle>Tada, Hayao</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [810218499764017737]" altrender="box">2</container>
               <unittitle>Tanaka, Ryukichi</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [810218499764017737]" altrender="box">2</container>
               <unittitle>Tojo, Hideki</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [810218499764017737]" altrender="box">2</container>
               <unittitle>Wakatsugi (Baron)</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [810218499764017737]" altrender="box">2</container>
               <unittitle>Miscellaneous</unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [810218499764017737]" altrender="box">2</container>
             <unittitle>Trial miscellaneous</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -436,25 +442,25 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [810218499764017737]" altrender="box">2</container>
             <unittitle>Telephone directories and lists</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [810218499764017737]" altrender="box">2</container>
             <unittitle>Japanese record of proceedings</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [810218499764017737]" altrender="box">2</container>
             <unittitle>Clippings</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [810218499764017737]" altrender="box">2</container>
             <unittitle>Personal financial and administrative miscellanea</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -463,7 +469,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [810218499764017737]" altrender="box">2</container>
             <unittitle>Judgment <unitdate type="inclusive" normal="1948-11">November 1948</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">7 volumes</extent>
@@ -472,7 +478,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [810218499764017737]" altrender="box">2</container>
             <unittitle>Monthly diaries <unitdate type="inclusive" normal="1946-03/1946-12">March-December 1946</unitdate></unittitle>
           </did>
         </c02>
@@ -486,7 +492,7 @@
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [9020727504165280178760775]" altrender="box">3</container>
             <unittitle>Law school notes and examinations <unitdate type="inclusive" normal="1914" certainty="approximate">circa 1914</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -495,7 +501,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [9020727504165280178760775]" altrender="box">3</container>
             <unittitle>Programs to musical and sporting events</unittitle>
           </did>
         </c02>
@@ -509,8 +515,8 @@
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
-            <container type="folder" label="Folder">1</container>
+            <container type="box" label="Box [9020727504165280178760775]" id="95d4c502-bfdd-496b-965c-5e1fd9deef80" altrender="box">3</container>
+            <container type="folder" label="Folder" parent="95d4c502-bfdd-496b-965c-5e1fd9deef80">1</container>
             <unittitle>Introductory Materials</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">4 items</extent>
@@ -519,8 +525,8 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
-            <container type="folder" label="Folder">2</container>
+            <container type="box" label="Box [9020727504165280178760775]" id="e8810c3d-d2b7-4846-885e-ebbdcb62d212" altrender="box">3</container>
+            <container type="folder" label="Folder" parent="e8810c3d-d2b7-4846-885e-ebbdcb62d212">2</container>
             <unittitle>Diary of experiences in Russia <unitdate type="inclusive" normal="1918/1919">1918-1919</unitdate></unittitle>
             <physdesc altrender="part">
               <extent altrender="materialtype spaceoccupied">1 items</extent>
@@ -536,8 +542,8 @@
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
-              <container type="folder" label="Folder">3</container>
+              <container type="box" label="Box [9020727504165280178760775]" id="446fd500-c2df-4b14-95b1-7daacf628c55" altrender="box">3</container>
+              <container type="folder" label="Folder" parent="446fd500-c2df-4b14-95b1-7daacf628c55">3</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1918-01/1918-06">January-June 1918</unitdate>
               </unittitle>
@@ -548,8 +554,8 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
-              <container type="folder" label="Folder">4</container>
+              <container type="box" label="Box [9020727504165280178760775]" id="65e84d39-87cf-43f7-bf26-e84dfa18ed90" altrender="box">3</container>
+              <container type="folder" label="Folder" parent="65e84d39-87cf-43f7-bf26-e84dfa18ed90">4</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1918-07">July 1918</unitdate>
               </unittitle>
@@ -560,8 +566,8 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
-              <container type="folder" label="Folder">5</container>
+              <container type="box" label="Box [9020727504165280178760775]" id="8bd5307c-7bfc-4bb0-a9ef-f4dbfd2ad874" altrender="box">3</container>
+              <container type="folder" label="Folder" parent="8bd5307c-7bfc-4bb0-a9ef-f4dbfd2ad874">5</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1918-08/1918-09">August-September, 1918</unitdate>
               </unittitle>
@@ -569,8 +575,8 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
-              <container type="folder" label="Folder">6</container>
+              <container type="box" label="Box [9020727504165280178760775]" id="be085719-42c2-4127-9fc9-16581cdcc388" altrender="box">3</container>
+              <container type="folder" label="Folder" parent="be085719-42c2-4127-9fc9-16581cdcc388">6</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1918-10/1918-12">October-December 1918</unitdate>
               </unittitle>
@@ -581,8 +587,8 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
-              <container type="folder" label="Folder">7</container>
+              <container type="box" label="Box [9020727504165280178760775]" id="5c27893c-ff8b-4743-afeb-36b88b86a0c7" altrender="box">3</container>
+              <container type="folder" label="Folder" parent="5c27893c-ff8b-4743-afeb-36b88b86a0c7">7</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1919-01/1919-03">January-March, 1919</unitdate>
               </unittitle>
@@ -593,8 +599,8 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
-              <container type="folder" label="Folder">8</container>
+              <container type="box" label="Box [9020727504165280178760775]" id="826ebcd3-d83f-4dc7-a7a7-33762d2d82fe" altrender="box">3</container>
+              <container type="folder" label="Folder" parent="826ebcd3-d83f-4dc7-a7a7-33762d2d82fe">8</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1919-04/1919-05">April-May, 1919</unitdate>
               </unittitle>
@@ -605,8 +611,8 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
-              <container type="folder" label="Folder">9</container>
+              <container type="box" label="Box [9020727504165280178760775]" id="1c6faec5-62f0-40a7-9e2d-417dab040f2d" altrender="box">3</container>
+              <container type="folder" label="Folder" parent="1c6faec5-62f0-40a7-9e2d-417dab040f2d">9</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1919-06/1919-07">June-July, 1919</unitdate>
               </unittitle>
@@ -617,8 +623,8 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
-              <container type="folder" label="Folder">10</container>
+              <container type="box" label="Box [9020727504165280178760775]" id="f9891994-f7dc-40c3-b3e3-dc4500f40e64" altrender="box">3</container>
+              <container type="folder" label="Folder" parent="f9891994-f7dc-40c3-b3e3-dc4500f40e64">10</container>
               <unittitle>Polar Bear Association Reunion Programs</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">6 items</extent>
@@ -627,8 +633,8 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
-              <container type="folder" label="Folder">11</container>
+              <container type="box" label="Box [9020727504165280178760775]" id="816715b1-ccce-4fea-8404-8ebc3790caac" altrender="box">3</container>
+              <container type="folder" label="Folder" parent="816715b1-ccce-4fea-8404-8ebc3790caac">11</container>
               <unittitle>Printed Material</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">7 items</extent>
@@ -647,8 +653,8 @@
             </odd>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
-                <container type="folder" label="Folder">12</container>
+                <container type="box" label="Box [9020727504165280178760775]" id="9c2999fa-039e-42c9-acbc-ed38a1af7378" altrender="box">3</container>
+                <container type="folder" label="Folder" parent="9c2999fa-039e-42c9-acbc-ed38a1af7378">12</container>
                 <unittitle>[Bentley Library material]</unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">22 items</extent>
@@ -657,8 +663,8 @@
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
-                <container type="folder" label="Folder">13</container>
+                <container type="box" label="Box [9020727504165280178760775]" id="4372a8b0-6a7b-41f3-acbb-38419c89c097" altrender="box">3</container>
+                <container type="folder" label="Folder" parent="4372a8b0-6a7b-41f3-acbb-38419c89c097">13</container>
                 <unittitle>[Loaned Material]</unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">17 items</extent>
@@ -669,8 +675,8 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
-            <container type="folder" label="Folder">14</container>
+            <container type="box" label="Box [9020727504165280178760775]" id="88569c0c-0129-4d45-85ce-b3c34325bcf9" altrender="box">3</container>
+            <container type="folder" label="Folder" parent="88569c0c-0129-4d45-85ce-b3c34325bcf9">14</container>
             <unittitle>Newspaper clippings</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">6 items</extent>
@@ -679,8 +685,8 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
-            <container type="folder" label="Folder">15</container>
+            <container type="box" label="Box [9020727504165280178760775]" id="50344ab1-9d1e-4922-9e95-3516bfd9f846" altrender="box">3</container>
+            <container type="folder" label="Folder" parent="50344ab1-9d1e-4922-9e95-3516bfd9f846">15</container>
             <unittitle>Photocopies of other clippings</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">41 items</extent>
@@ -689,8 +695,8 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
-            <container type="folder" label="Folder">16</container>
+            <container type="box" label="Box [9020727504165280178760775]" id="7f846982-eaf5-40fd-a44f-29958bab14ec" altrender="box">3</container>
+            <container type="folder" label="Folder" parent="7f846982-eaf5-40fd-a44f-29958bab14ec">16</container>
             <unittitle>Post-cards of Russia</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">33 items</extent>
@@ -703,8 +709,8 @@
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
-              <container type="folder" label="Folder">17</container>
+              <container type="box" label="Box [9020727504165280178760775]" id="4b54acbd-0113-4b90-bf87-4394610afa9a" altrender="box">3</container>
+              <container type="folder" label="Folder" parent="4b54acbd-0113-4b90-bf87-4394610afa9a">17</container>
               <unittitle>Portraits of McKenzie, Draftees Marching, and Miscellaneous</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">7 items</extent>
@@ -713,8 +719,8 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
-              <container type="folder" label="Folder">18</container>
+              <container type="box" label="Box [9020727504165280178760775]" id="58645fad-0e0e-419a-bcd8-8b9f64fed7fa" altrender="box">3</container>
+              <container type="folder" label="Folder" parent="58645fad-0e0e-419a-bcd8-8b9f64fed7fa">18</container>
               <unittitle>Reunion group photos and Miscellaneous</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">7 items</extent>
@@ -730,23 +736,25 @@
             </odd>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
-                <container type="folder" label="Folder">18</container>
+                <container type="box" label="Box [9020727504165280178760775]" id="8840524e-4ba2-4dfd-a242-6c066dcf9b40" altrender="box">3</container>
+                <container type="folder" label="Folder" parent="8840524e-4ba2-4dfd-a242-6c066dcf9b40">18</container>
                 <unittitle>Life in the U.S. Army, Camp Mills</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
-                <container type="folder" label="Folder">18</container>
+                <container type="box" label="Box [9020727504165280178760775]" id="4afac9f7-c078-4b4a-97e9-9c791b8da6e5" altrender="box">3</container>
+                <container type="folder" label="Folder" parent="4afac9f7-c078-4b4a-97e9-9c791b8da6e5">18</container>
                 <unittitle>New York City, Night Views</unittitle>
               </did>
             </c04>
           </c03>
           <c03 level="file">
             <did>
-              <container type="folder" label="Oversize Folder">1</container>
-              <unittitle>Group photos, 339th Infantry, Camp Devens <unitdate type="inclusive" normal="1919-07-14">July 14, 1919</unitdate> and Reunion photos, <unitdate type="inclusive" normal="1921/1945">1921-1945</unitdate></unittitle>
+              <container type="folder" label="Oversize Folder [7639920949408245317835]" altrender="folder">1</container>
+              <unittitle>Group photos, 339th Infantry, Camp Devens July 14, 1919 and Reunion photos, 1921-1945</unittitle>
+              <unitdate type="inclusive" normal="1919-07-14">July 14, 1919</unitdate>
+              <unitdate type="inclusive" normal="1921/1945">1921-1945</unitdate>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">6 items</extent>
               </physdesc>
@@ -763,19 +771,19 @@
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [9020727504165280178760775]" altrender="box">3</container>
             <unittitle>Political miscellanea <unitdate type="inclusive" normal="1920/1939" certainty="approximate">1920s-1930s</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [9020727504165280178760775]" altrender="box">3</container>
             <unittitle>Legal materials</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [9020727504165280178760775]" altrender="box">3</container>
             <unittitle>Miscellaneous opinions (referee in bankruptcy)</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -784,19 +792,19 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [9020727504165280178760775]" altrender="box">3</container>
             <unittitle>Miscellanea</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [9020727504165280178760775]" altrender="box">3</container>
             <unittitle>Personal cash book <unitdate type="inclusive" normal="1924/1928">1924-1928</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [9020727504165280178760775]" altrender="box">3</container>
             <unittitle>Printed Material</unittitle>
           </did>
           <odd>
@@ -805,7 +813,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [9020727504165280178760775]" altrender="box">3</container>
             <unittitle>Clippings</unittitle>
           </did>
           <odd>
@@ -827,31 +835,31 @@
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [9020727504165280178760775]" altrender="box">3</container>
             <unittitle>Portraits</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [9020727504165280178760775]" altrender="box">3</container>
             <unittitle>Family and miscellanea</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [9020727504165280178760775]" altrender="box">3</container>
             <unittitle>Far East War Crimes Trial <unitdate type="inclusive" normal="1946/1947">1946-1947</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [9020727504165280178760775]" altrender="box">3</container>
             <unittitle>Other Japanese subjects</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [9020727504165280178760775]" altrender="box">3</container>
             <unittitle>University of Michigan</unittitle>
           </did>
         </c02>

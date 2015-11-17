@@ -31,7 +31,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Smith, Hinchman and Grylls architectural drawings, 1908-1937</titleproper>
       <author>Finding aid created by <lb/>Chris Schunter, August 2014</author>
     </titlepage>
@@ -41,7 +41,10 @@
       <origination>
         <corpname source="lcnaf" encodinganalog="110">Smith, Hinchman, and Grylls, inc.</corpname>
       </origination>
-      <unittitle encodinganalog="245">Smith, Hinchman and Grylls architectural drawings <unitdate type="inclusive" encodinganalog="245$f" normal="1908/1937">1908-1937</unitdate>, <unitdate type="bulk" encodinganalog="245$f" normal="1908/1928">1908-1928</unitdate>, <unitdate type="bulk" encodinganalog="245$f" normal="1936/1937">1936-1937</unitdate></unittitle>
+      <unittitle encodinganalog="245">Smith, Hinchman and Grylls architectural drawings</unittitle>
+      <unitdate type="inclusive" encodinganalog="245$f" normal="1908/1937">1908-1937</unitdate>
+      <unitdate type="bulk" encodinganalog="245$f" normal="1908/1928">1908-1928</unitdate>
+      <unitdate type="bulk" encodinganalog="245$f" normal="1936/1937">1936-1937</unitdate>
       <unitid encodinganalog="852$h" repositorycode="MiU-H" countrycode="us" type="call number">8788 UBBl</unitid>
       <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language></langmaterial>
       <abstract>Architectural and engineering firm established in 1853 and headquartered in Detroit, Mich. with offices throughout the United States. Collection contains architectural drawings of five Michigan projects located in Ann Arbor, Detroit, and Flint.</abstract>
@@ -89,15 +92,15 @@ Smith, Hinchman and Grylls architectural drawings, Bentley Historical Library, U
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <subject source="lcsh" encodinganalog="650">Architecture.</subject>
-        <subject source="lcsh" encodinganalog="650">College buildings--Michigan--Ann Arbor.</subject>
-        <subject source="lcsh" encodinganalog="650">Buildings--Michigan--Detroit.</subject>
-        <subject source="lcsh" encodinganalog="650">Buildings--Michigan--Flint.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5832">Architecture.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/10132">College buildings--Michigan--Ann Arbor.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7222">Buildings--Michigan--Detroit.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/10133">Buildings--Michigan--Flint.</subject>
         <corpname source="lcnaf" encodinganalog="610">Horace H. Rackham School of Graduate Studies.</corpname>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Architectural drawings.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3175">Architectural drawings.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -107,7 +110,7 @@ Smith, Hinchman and Grylls architectural drawings, Bentley Historical Library, U
         </did>
         <c02 level="file">
           <did>
-            <container type="folder" label="Oversize Folder">1</container>
+            <container type="folder" label="Oversize Folder [552517894791424011]" altrender="folder">1</container>
             <unittitle>Gregory Mayer &amp; Thom Building, Detroit <unitdate type="inclusive" normal="1913/1914">1913-1914</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">51 drawings</extent>
@@ -116,7 +119,7 @@ Smith, Hinchman and Grylls architectural drawings, Bentley Historical Library, U
         </c02>
         <c02 level="file">
           <did>
-            <container type="tube" label="Tube">1</container>
+            <container type="tube" label="Tube [88231429863838891265]" altrender="tube">1</container>
             <unittitle>Industrial Mutual Association (IMA) Auditorium, Flint <unitdate type="inclusive" normal="1928">1928</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">36 drawings</extent>
@@ -125,7 +128,7 @@ Smith, Hinchman and Grylls architectural drawings, Bentley Historical Library, U
         </c02>
         <c02 level="file">
           <did>
-            <container type="folder" label="Oversize Folder">2</container>
+            <container type="folder" label="Oversize Folder [3146072644744967448]" altrender="folder">2</container>
             <unittitle>Society of Arts and Crafts Building, Detroit <unitdate type="inclusive" normal="1915/1920">1915-1920</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">24 drawings</extent>
@@ -134,7 +137,7 @@ Smith, Hinchman and Grylls architectural drawings, Bentley Historical Library, U
         </c02>
         <c02 level="file">
           <did>
-            <container type="folder" label="Oversize Folder">3</container>
+            <container type="folder" label="Oversize Folder [5385464953486595769]" altrender="folder">3</container>
             <unittitle>University of Michigan Chemistry Building, Ann Arbor <unitdate type="inclusive" normal="1908">1908</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">71 drawings</extent>
@@ -143,7 +146,7 @@ Smith, Hinchman and Grylls architectural drawings, Bentley Historical Library, U
         </c02>
         <c02 level="file">
           <did>
-            <container type="folder" label="Oversize Folder">4</container>
+            <container type="folder" label="Oversize Folder [820329464568741974]" altrender="folder">4</container>
             <unittitle>Selected drawings of University of Michigan Rackham Building, Ann Arbor <unitdate type="inclusive" normal="1936/1937">1936-1937</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">29 drawings</extent>

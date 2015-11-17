@@ -38,7 +38,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding Aid for <lb/>Charles A. Simpson papers, <date>1910-1932</date></titleproper>
       <author>Finding aid prepared by: <lb/>Len Coombs</author>
     </titlepage>
@@ -87,23 +87,23 @@
       <controlaccess>
         <head>Subjects</head>
         <persname source="lcnaf" encodinganalog="600">Simpson, Charles Althen, 1896-1984.</persname>
-        <geogname source="lcsh" encodinganalog="651">Soviet Union--History--Allied intervention, 1918-1920.</geogname>
-        <subject source="lcsh" encodinganalog="650">World War, 1914-1918.</subject>
-        <subject source="local" encodinganalog="690" authfilenumber="http://id.loc.gov/authorities/names/n2008059426">Polar Bear Expedition.</subject>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n94064669.html">Fort Custer (Mich.)</geogname>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n79133151.html">Grand Rapids (Mich.)</geogname>
-        <subject source="lctgm" encodinganalog="650">Medical aspects of war.</subject>
-        <subject source="lctgm" encodinganalog="650">Military camps.</subject>
-        <subject source="lctgm" encodinganalog="650">Military life.</subject>
-        <subject source="lctgm" encodinganalog="650">Women--Soviet Union--Work.</subject>
-        <subject source="lctgm" encodinganalog="650">Women--War work.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/883">Soviet Union--History--Allied intervention, 1918-1920.</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5712">World War, 1914-1918.</subject>
+        <subject source="local" encodinganalog="690" authfilenumber="http://id.loc.gov/authorities/names/n2008059426" ref="/subjects/3518">Polar Bear Expedition.</subject>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n94064669.html" ref="/subjects/905">Fort Custer (Mich.)</geogname>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n79133151.html" ref="/subjects/1102">Grand Rapids (Mich.)</geogname>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4465">Medical aspects of war.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3747">Military camps.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4216">Military life.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/5304">Women--Soviet Union--Work.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/5305">Women--War work.</subject>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n79096723">American National Red Cross.</corpname>
       </controlaccess>
       <controlaccess>
         <head>Genre/Form:</head>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
-        <genreform source="aat" encodinganalog="655">Motion pictures (visual works)</genreform>
-        <genreform source="aat" encodinganalog="655">Diaries.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3371">Motion pictures (visual works)</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3150">Diaries.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -113,8 +113,8 @@
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <container label="Folder" type="folder">1</container>
+            <container type="box" label="Box [9180641040608291580614]" id="2d3f0818-6cea-41b7-a036-e05116ee84df" altrender="box">1</container>
+            <container label="Folder" type="folder" parent="2d3f0818-6cea-41b7-a036-e05116ee84df">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1910">1910</unitdate>
               <unitdate type="inclusive" normal="1914/1916">1914-1916</unitdate>
@@ -123,8 +123,8 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <container label="Folder" type="folder">2</container>
+            <container type="box" label="Box [9180641040608291580614]" id="b516d4b2-1c81-4ac7-9210-30ea872892e8" altrender="box">1</container>
+            <container label="Folder" type="folder" parent="b516d4b2-1c81-4ac7-9210-30ea872892e8">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1918/1919">1918-1919</unitdate>
             </unittitle>
@@ -137,21 +137,21 @@
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <container label="Folder" type="folder">3</container>
+            <container type="box" label="Box [9180641040608291580614]" id="32ab3577-2956-4674-a29e-14a112092c13" altrender="box">1</container>
+            <container label="Folder" type="folder" parent="32ab3577-2956-4674-a29e-14a112092c13">3</container>
             <unittitle>Miscellanea <unitdate type="inclusive">undated</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <container label="Folder" type="folder">8</container>
+            <container type="box" label="Box [9180641040608291580614]" id="e92d1e72-142a-4fad-bfa0-54c6841243e9" altrender="box">1</container>
+            <container label="Folder" type="folder" parent="e92d1e72-142a-4fad-bfa0-54c6841243e9">8</container>
             <unittitle>Memos <unitdate type="inclusive" normal="1910/1982">1910-1982</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container label="Oversize Folder" type="folder">10</container>
+            <container label="Oversize Folder [5155033234792830508]" type="folder" altrender="folder">10</container>
             <unittitle>Outsize publications <unitdate type="inclusive" normal="1918">1918</unitdate></unittitle>
           </did>
         </c02>
@@ -162,35 +162,35 @@
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <container type="folder" label="Folder">4</container>
+            <container type="box" label="Box [9180641040608291580614]" id="7c17330e-23c4-4642-8e41-ec7e464976c5" altrender="box">1</container>
+            <container type="folder" label="Folder" parent="7c17330e-23c4-4642-8e41-ec7e464976c5">4</container>
             <unittitle>Photographs</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <container type="folder" label="Folder">5</container>
+            <container type="box" label="Box [9180641040608291580614]" id="08d8def2-87c6-4811-b6d4-c686512b63c5" altrender="box">1</container>
+            <container type="folder" label="Folder" parent="08d8def2-87c6-4811-b6d4-c686512b63c5">5</container>
             <unittitle>Photograph album</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <container type="folder" label="Folder">6</container>
+            <container type="box" label="Box [9180641040608291580614]" id="d36a624b-62ce-4864-a524-0a2a136e72a5" altrender="box">1</container>
+            <container type="folder" label="Folder" parent="d36a624b-62ce-4864-a524-0a2a136e72a5">6</container>
             <unittitle>Photograph album</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <container type="folder" label="Folder">7</container>
+            <container type="box" label="Box [9180641040608291580614]" id="e0139ded-2dfc-443e-b70b-0db2b77d63d1" altrender="box">1</container>
+            <container type="folder" label="Folder" parent="e0139ded-2dfc-443e-b70b-0db2b77d63d1">7</container>
             <unittitle>Scrapbook</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="folder" label="Oversize Folder">9</container>
+            <container type="folder" label="Oversize Folder [306205743841016780611]" altrender="folder">9</container>
             <unittitle>Oversize photographs</unittitle>
           </did>
           <odd>
@@ -215,7 +215,7 @@
           </c03>
           <c03 level="otherlevel" otherlevel="item-part">
             <did>
-              <container type="box" label="DVD Box">9</container>
+              <container type="box" label="DVD Box [48978248344937759766]" altrender="box">9</container>
               <unittitle>Use Copy:</unittitle>
               <physdesc>
                 <physfacet>DVD</physfacet>
@@ -228,7 +228,7 @@
               <physdesc>
                 <physfacet>flv</physfacet>
               </physdesc>
-              <dao href="87352-1" show="new" actuate="onrequest">
+              <dao href="87352-1" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/8801">
                 <daodesc>
                   <p>[view video]</p>
                 </daodesc>

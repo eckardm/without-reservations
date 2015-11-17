@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>den Bleyker Family papers, 1828-1936</titleproper>
       <author>Finding aid created by <lb/>Michigan Historical Collections staff</author>
     </titlepage>
@@ -83,16 +83,16 @@ den Bleyker Family papers, Bentley Historical Library, University of Michigan</p
       <controlaccess>
         <head>Subjects:</head>
         <famname source="lcnaf" encodinganalog="600">Den Bleyker family.</famname>
-        <subject source="lcsh" encodinganalog="650">Dutch Americans--Michigan.</subject>
-        <geogname source="lcsh" encodinganalog="651">Michigan--Emigration and immigration.</geogname>
-        <geogname source="lcsh" encodinganalog="651">Kalamazoo (Mich.)</geogname>
-        <subject source="lcsh" encodinganalog="650">Voyages and travels.</subject>
-        <subject source="lcsh" encodinganalog="650">Travelers.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6035">Dutch Americans--Michigan.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/863">Michigan--Emigration and immigration.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/980">Kalamazoo (Mich.)</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6009">Voyages and travels.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6010">Travelers.</subject>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/no93011331">Van Raalte, Albertus C. (Albertus Christiaan), 1811-1876.</persname>
-        <geogname source="lcsh" encodinganalog="651">Netherlands--Emigration and immigration.</geogname>
-        <subject source="lcsh" encodinganalog="650">Immigrants--Michigan.</subject>
-        <geogname source="lcsh" encodinganalog="651">Europe--Description and travel.</geogname>
-        <subject source="lcsh" encodinganalog="650">Michigan--Women--Kalamazoo.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1692">Netherlands--Emigration and immigration.</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5684">Immigrants--Michigan.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/972">Europe--Description and travel.</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7201">Michigan--Women--Kalamazoo.</subject>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Materials:</head>
@@ -109,8 +109,8 @@ den Bleyker Family papers, Bentley Historical Library, University of Michigan</p
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="gmgpc" encodinganalog="655">Ambrotypes.</genreform>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="gmgpc" encodinganalog="655" ref="/subjects/3469">Ambrotypes.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -120,7 +120,7 @@ den Bleyker Family papers, Bentley Historical Library, University of Michigan</p
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [22659994098345153567]" altrender="box">1</container>
             <unittitle>Calendar of the collection, largely the letters of Paulus den Bleyker <unitdate type="inclusive" normal="1828/1871">1828-1871</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">7 volumes</extent>
@@ -142,7 +142,7 @@ den Bleyker Family papers, Bentley Historical Library, University of Michigan</p
           </odd>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [7895948041946647459]" altrender="box">2</container>
               <unittitle>
                 <unitdate type="inclusive">Undated</unitdate>
                 <unitdate type="inclusive" normal="1828/1850">1828-1850</unitdate>
@@ -154,7 +154,7 @@ den Bleyker Family papers, Bentley Historical Library, University of Michigan</p
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [7895948041946647459]" altrender="box">2</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1851/1863">1851-1863</unitdate>
               </unittitle>
@@ -165,7 +165,7 @@ den Bleyker Family papers, Bentley Historical Library, University of Michigan</p
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [5115523409762565509]" altrender="box">3</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1864/1872">1864-1872</unitdate>
               </unittitle>
@@ -181,19 +181,19 @@ den Bleyker Family papers, Bentley Historical Library, University of Michigan</p
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [5115523409762565509]" altrender="box">3</container>
               <unittitle>Letters from Mr. and Mrs. Henry Bunce to Maria Bunce Buell, Jane Bunce den Bleyker, and Paulus den Bleyker <unitdate type="inclusive" normal="1856/1857">1856-1857</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [5115523409762565509]" altrender="box">3</container>
               <unittitle>Clippings</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [5115523409762565509]" altrender="box">3</container>
               <unittitle>Manuscripts, unidentified and <unitdate type="inclusive">undated</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -202,31 +202,31 @@ den Bleyker Family papers, Bentley Historical Library, University of Michigan</p
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [5115523409762565509]" altrender="box">3</container>
               <unittitle>Genealogical miscellanea</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [2974116854349300602969582]" altrender="box">4</container>
               <unittitle>Miscellaneous correspondence with A.C. Van Raalte</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [2974116854349300602969582]" altrender="box">4</container>
               <unittitle>Deed of land between Lucius Lyon and Elisha Hall</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [2974116854349300602969582]" altrender="box">4</container>
               <unittitle>Notes on Dutch settlement</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [2974116854349300602969582]" altrender="box">4</container>
               <unittitle>Miscellanea re. the Netherlands</unittitle>
             </did>
           </c03>
@@ -236,32 +236,32 @@ den Bleyker Family papers, Bentley Historical Library, University of Michigan</p
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [2974116854349300602969582]" altrender="box">4</container>
                 <unittitle>Land ownership maps of parts of Holland and Park Townships, Ottawa County, Michigan</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [2974116854349300602969582]" altrender="box">4</container>
                 <unittitle>Plats of parts of Kalamazoo, Michigan, including John den Bleyker Subdivision</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [2974116854349300602969582]" altrender="box">4</container>
                 <unittitle>General maps of Denmark Township, Tuscola County, Michigan, and Comstock and Kalamazoo Townships, Kalamazoo County, Michigan</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [2974116854349300602969582]" altrender="box">4</container>
                 <unittitle>Map of Eijerland, Texel, Netherlands</unittitle>
               </did>
             </c04>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [2974116854349300602969582]" altrender="box">4</container>
               <unittitle>Miscellaneous</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">5 folders</extent>
@@ -275,7 +275,7 @@ den Bleyker Family papers, Bentley Historical Library, University of Michigan</p
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [2974116854349300602969582]" altrender="box">4</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1843/1872">1843-1872</unitdate>
               </unittitle>
@@ -296,7 +296,7 @@ den Bleyker Family papers, Bentley Historical Library, University of Michigan</p
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [2974116854349300602969582]" altrender="box">4</container>
               <unittitle>
                 <unitdate type="inclusive">Undated</unitdate>
                 <unitdate type="inclusive" normal="1852/1869">1852-1869</unitdate>
@@ -308,7 +308,7 @@ den Bleyker Family papers, Bentley Historical Library, University of Michigan</p
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [32084320442861264875]" altrender="box">5</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1870/1936">1870-1936</unitdate>
               </unittitle>
@@ -324,7 +324,7 @@ den Bleyker Family papers, Bentley Historical Library, University of Michigan</p
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [7597204734663865909]" altrender="box">6</container>
               <unittitle>
                 <unitdate type="inclusive">Undated</unitdate>
                 <unitdate type="inclusive" normal="1838/1934">1838-1934</unitdate>
@@ -341,13 +341,13 @@ den Bleyker Family papers, Bentley Historical Library, University of Michigan</p
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [7597204734663865909]" altrender="box">6</container>
               <unittitle>Holstein Breeders Association papers <unitdate type="inclusive" normal="1882/1890">1882-1890</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [7597204734663865909]" altrender="box">6</container>
               <unittitle>Poetry</unittitle>
             </did>
           </c03>
@@ -357,7 +357,7 @@ den Bleyker Family papers, Bentley Historical Library, University of Michigan</p
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">6</container>
+                <container type="box" label="Box [7597204734663865909]" altrender="box">6</container>
                 <unittitle>Papers <unitdate type="inclusive" normal="1890/1937">1890-1937</unitdate></unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -366,32 +366,32 @@ den Bleyker Family papers, Bentley Historical Library, University of Michigan</p
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">6</container>
+                <container type="box" label="Box [7597204734663865909]" altrender="box">6</container>
                 <unittitle>Dodge Fund file <unitdate type="inclusive" normal="1889/1901">1889-1901</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">6</container>
+                <container type="box" label="Box [7597204734663865909]" altrender="box">6</container>
                 <unittitle>Miscellaneous</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">6</container>
+                <container type="box" label="Box [7597204734663865909]" altrender="box">6</container>
                 <unittitle>Printed material</unittitle>
               </did>
             </c04>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [7597204734663865909]" altrender="box">6</container>
               <unittitle>School papers</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [7597204734663865909]" altrender="box">6</container>
               <unittitle>Historical essays</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">4 folders</extent>
@@ -400,7 +400,7 @@ den Bleyker Family papers, Bentley Historical Library, University of Michigan</p
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [7597204734663865909]" altrender="box">6</container>
               <unittitle>Miscellaneous</unittitle>
             </did>
           </c03>
@@ -416,7 +416,7 @@ den Bleyker Family papers, Bentley Historical Library, University of Michigan</p
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [7597204734663865909]" altrender="box">6</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1849/1858">1849-1858</unitdate>
               </unittitle>
@@ -427,7 +427,7 @@ den Bleyker Family papers, Bentley Historical Library, University of Michigan</p
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">7</container>
+              <container type="box" label="Box [5041723043971533842007]" altrender="box">7</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1859/1909">1859-1909</unitdate>
               </unittitle>
@@ -438,7 +438,7 @@ den Bleyker Family papers, Bentley Historical Library, University of Michigan</p
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">7</container>
+              <container type="box" label="Box [5041723043971533842007]" altrender="box">7</container>
               <unittitle>Miscellanea</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -452,25 +452,25 @@ den Bleyker Family papers, Bentley Historical Library, University of Michigan</p
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">7</container>
+              <container type="box" label="Box [5041723043971533842007]" altrender="box">7</container>
               <unittitle>Estate papers (General)</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">7</container>
+              <container type="box" label="Box [5041723043971533842007]" altrender="box">7</container>
               <unittitle>Estate papers (John den Bleyker)</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">7</container>
+              <container type="box" label="Box [5041723043971533842007]" altrender="box">7</container>
               <unittitle>Estate papers (Kryn Broere)</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">7</container>
+              <container type="box" label="Box [5041723043971533842007]" altrender="box">7</container>
               <unittitle>Notebooks (personal and financial) of Paulus den Bleyker</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">1 boxes</extent>
@@ -479,25 +479,25 @@ den Bleyker Family papers, Bentley Historical Library, University of Michigan</p
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">8</container>
+              <container type="box" label="Box [69926985940469136088873]" altrender="box">8</container>
               <unittitle>Notebooks, poetry books, and diary of Martha den Bleyker</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">8</container>
+              <container type="box" label="Box [69926985940469136088873]" altrender="box">8</container>
               <unittitle>Notebooks (personal and financial) of John den Bleyker</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">8</container>
+              <container type="box" label="Box [69926985940469136088873]" altrender="box">8</container>
               <unittitle>Notebooks (personal and financial) of Anna den Bleyker</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">9</container>
+              <container type="box" label="Box [57149863436044441236]" altrender="box">9</container>
               <unittitle>Notebooks of den Bleyker family members (authorship uncertain)</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">1 boxes</extent>
@@ -506,19 +506,19 @@ den Bleyker Family papers, Bentley Historical Library, University of Michigan</p
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">9</container>
+              <container type="box" label="Box [57149863436044441236]" altrender="box">9</container>
               <unittitle>Printed material (published in the Netherlands)</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">9</container>
+              <container type="box" label="Box [57149863436044441236]" altrender="box">9</container>
               <unittitle>Printed miscellanea</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">9</container>
+              <container type="box" label="Box [57149863436044441236]" altrender="box">9</container>
               <unittitle>Miscellanea re. den Bleyker Collection</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -530,7 +530,7 @@ den Bleyker Family papers, Bentley Historical Library, University of Michigan</p
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">9</container>
+              <container type="box" label="Box [57149863436044441236]" altrender="box">9</container>
               <unittitle>
                 <genreform normal="Photographs">Photographs</genreform>
               </unittitle>
@@ -541,7 +541,7 @@ den Bleyker Family papers, Bentley Historical Library, University of Michigan</p
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">10</container>
+              <container type="box" label="Box [4846598431409309066996254]" altrender="box">10</container>
               <unittitle>Indentures, deeds, mortgages, plats, etc.</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">5 folders</extent>

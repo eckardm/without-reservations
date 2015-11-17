@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Tower Family papers, 1841-1937</titleproper>
       <author>Finding aid created by <lb/>Michigan Historical Collections staff</author>
     </titlepage>
@@ -80,14 +80,14 @@ Tower Family papers, Bentley Historical Library, University of Michigan</p>
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <subject source="lcsh" encodinganalog="650">Banks--Michigan--Ionia.</subject>
-        <subject source="lcsh" encodinganalog="650">Business records.</subject>
-        <geogname source="lcsh" encodinganalog="651">Ionia (Mich.)--Commerce.</geogname>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n81091943.html">Ionia County (Mich.)</geogname>
-        <subject source="lcsh" encodinganalog="650">Lumber trade--Michigan--Ionia.</subject>
-        <subject source="lcsh" encodinganalog="650">Lumber trade--Washington (State)</subject>
-        <geogname source="lcsh" encodinganalog="651">United States--History--Civil War, 1861-1865.</geogname>
-        <subject source="lcsh" encodinganalog="650">Veterans--Michigan--Ionia.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/10384">Banks--Michigan--Ionia.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5784">Business records.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/2982">Ionia (Mich.)--Commerce.</geogname>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n81091943.html" ref="/subjects/2094">Ionia County (Mich.)</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/10385">Lumber trade--Michigan--Ionia.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/10386">Lumber trade--Washington (State)</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/909">United States--History--Civil War, 1861-1865.</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/10387">Veterans--Michigan--Ionia.</subject>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n87891115">United States. Army. Michigan Cavalry Regiment, 6th (1862-1865). Company E.</corpname>
       </controlaccess>
       <controlaccess>
@@ -101,7 +101,7 @@ Tower Family papers, Bentley Historical Library, University of Michigan</p>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Scrapbooks.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3139">Scrapbooks.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -111,7 +111,7 @@ Tower Family papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [64633334981930305]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive">Undated</unitdate>
               <unitdate type="inclusive" normal="1855/1936">1855-1936</unitdate>
@@ -128,7 +128,7 @@ Tower Family papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [64633334981930305]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive">Undated</unitdate>
               <unitdate type="inclusive" normal="1861/1936">1861-1936</unitdate>
@@ -140,13 +140,13 @@ Tower Family papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [64633334981930305]" altrender="box">1</container>
             <unittitle>Publications</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [64633334981930305]" altrender="box">1</container>
             <unittitle>A.E. Tower account books</unittitle>
           </did>
           <odd>
@@ -155,37 +155,37 @@ Tower Family papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [58599642598841053501]" altrender="box">2</container>
             <unittitle>Lumber book</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [58599642598841053501]" altrender="box">2</container>
             <unittitle>Louis Lovell account books and office book</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [58599642598841053501]" altrender="box">2</container>
             <unittitle>Webber and Wilson daybook</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [58599642598841053501]" altrender="box">2</container>
             <unittitle>George Webber <genreform normal="Scrapbooks">scrapbook</genreform></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [58599642598841053501]" altrender="box">2</container>
             <unittitle>Ada Heath Owsley Emergency Relief Administration file <unitdate type="inclusive" normal="1930/1939" certainty="approximate">1930s</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [58599642598841053501]" altrender="box">2</container>
             <unittitle>Account books and journals (miscellaneous)</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 volumes</extent>

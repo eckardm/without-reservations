@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>University Archives and Records Program <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/2">University Archives and Records Program <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Center for the History of Medicine <lb/>(University of Michigan) <lb/>Oral History Interviews, 2002-2007, 2011</titleproper>
       <author>Finding aid created by <lb/>Bentley Library staff, updated 2011</author>
     </titlepage>
@@ -37,7 +37,9 @@
       <origination>
         <corpname source="lcnaf" encodinganalog="110">University of Michigan. Center for the History of Medicine.</corpname>
       </origination>
-      <unittitle encodinganalog="245">Center for the History of Medicine (University of Michigan) Oral History Interviews <unitdate type="inclusive" encodinganalog="245$f" normal="2002/2007">2002-2007</unitdate>, <unitdate type="inclusive" encodinganalog="245$f" normal="2011">2011</unitdate></unittitle>
+      <unittitle encodinganalog="245">Center for the History of Medicine (University of Michigan) Oral History Interviews</unittitle>
+      <unitdate type="inclusive" encodinganalog="245$f" normal="2002/2007">2002-2007</unitdate>
+      <unitdate type="inclusive" encodinganalog="245$f" normal="2011">2011</unitdate>
       <unitid encodinganalog="852$h" repositorycode="MiU-H" countrycode="us" type="call number">05104 Bimu C502 2</unitid>
       <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language></langmaterial>
       <abstract>Center was established as the Historical Center for the Health Sciences. Records include interviews of emeritus University of Michigan Medical School faculty members conducted by the Center for the History of Medicine. Transcripts and audio recordings of interviews discussing their backgrounds, education, careers, and tenure at the University of Michigan.</abstract>
@@ -91,8 +93,8 @@ Center for the History of Medicine (University of Michigan) Oral History Intervi
       <controlaccess>
         <head>Subjects - Sound Recordings:</head>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan. Center for the History of Medicine.</corpname>
-        <subject source="lcsh" encodinganalog="650">Medical sciences--Michigan.</subject>
-        <subject source="lcsh" encodinganalog="650">Medicine.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6791">Medical sciences--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6792">Medicine.</subject>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n81055151">University of Michigan. Medical School.</corpname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan--Faculty.</corpname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n92805073">University of Michigan. Historical Center for the Health Sciences.</corpname>
@@ -122,9 +124,9 @@ Center for the History of Medicine (University of Michigan) Oral History Intervi
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Oral histories.</genreform>
-        <genreform source="aat" encodinganalog="655">CD-ROMs.</genreform>
-        <genreform source="aat" encodinganalog="655">Sound recordings.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3161">Oral histories.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3151">CD-ROMs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3143">Sound recordings.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -134,37 +136,37 @@ Center for the History of Medicine (University of Michigan) Oral History Intervi
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [648681804391187763]" altrender="box">1</container>
             <unittitle>Abrams, Gerald <unitdate type="inclusive" normal="2007">2007</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [648681804391187763]" altrender="box">1</container>
             <unittitle>Bartlett, Robert <unitdate type="inclusive" normal="2007">2007</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [648681804391187763]" altrender="box">1</container>
             <unittitle>Bole, Giles <unitdate type="inclusive" normal="2005">2005</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="item">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [648681804391187763]" altrender="box">1</container>
             <unittitle>Bohr, David F. <unitdate type="inclusive" normal="2003">2003</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [648681804391187763]" altrender="box">1</container>
             <unittitle>Bull, Frances <unitdate type="inclusive" normal="2005">2005</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="item">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [648681804391187763]" altrender="box">1</container>
             <unittitle>Christensen, A. Kent <unitdate type="inclusive" normal="2011">2011</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -173,61 +175,61 @@ Center for the History of Medicine (University of Michigan) Oral History Intervi
         </c02>
         <c02 level="item">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [648681804391187763]" altrender="box">1</container>
             <unittitle>Davenport, Horace W. <unitdate type="inclusive" normal="2002">2002</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [648681804391187763]" altrender="box">1</container>
             <unittitle>Dean, George <unitdate type="inclusive" normal="2007">2007</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [648681804391187763]" altrender="box">1</container>
             <unittitle>Dickinson, David <unitdate type="inclusive" normal="2005">2005</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [648681804391187763]" altrender="box">1</container>
             <unittitle>Fajans, Stefan <unitdate type="inclusive" normal="2005">2005</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [648681804391187763]" altrender="box">1</container>
             <unittitle>Gelehrter, Thomas D. <unitdate type="inclusive" normal="2012">2012</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [648681804391187763]" altrender="box">1</container>
             <unittitle>Henderson, John W. <unitdate type="inclusive" normal="2005">2005</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="item">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [648681804391187763]" altrender="box">1</container>
             <unittitle>Hubbard, William N. <unitdate type="inclusive" normal="2004">2004</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="item">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [648681804391187763]" altrender="box">1</container>
             <unittitle>Judge, Richard D. <unitdate type="inclusive" normal="2004">2004</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [648681804391187763]" altrender="box">1</container>
             <unittitle>Margolis, Philip <unitdate type="inclusive" normal="2006">2006</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="item">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [648681804391187763]" altrender="box">1</container>
             <unittitle>Morley, George W. <unitdate type="inclusive" normal="2002">2002</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -236,31 +238,31 @@ Center for the History of Medicine (University of Michigan) Oral History Intervi
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [648681804391187763]" altrender="box">1</container>
             <unittitle>Neidhardt, Fred <unitdate type="inclusive" normal="2007">2007</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="item">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [648681804391187763]" altrender="box">1</container>
             <unittitle>Punch, Margaret R. <unitdate type="inclusive" normal="2004">2004</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [648681804391187763]" altrender="box">1</container>
             <unittitle>Sloan, Herbert <unitdate type="inclusive" normal="2006">2006</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [55381444284532524]" altrender="box">2</container>
             <unittitle>Swain, Henry <unitdate type="inclusive" normal="2005">2005</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [55381444284532524]" altrender="box">2</container>
             <unittitle>Turcotte, Jeremiah <unitdate type="inclusive" normal="2006">2006</unitdate></unittitle>
           </did>
         </c02>
@@ -274,7 +276,7 @@ Center for the History of Medicine (University of Michigan) Oral History Intervi
         </odd>
         <c02 level="item">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [55381444284532524]" altrender="box">2</container>
             <unittitle>Bohr, David F. <unitdate type="inclusive" normal="2003">2003</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">1 audiocassettes</extent>
@@ -283,7 +285,7 @@ Center for the History of Medicine (University of Michigan) Oral History Intervi
         </c02>
         <c02 level="item">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [55381444284532524]" altrender="box">2</container>
             <unittitle>Davenport, Horace W. <unitdate type="inclusive" normal="2002">2002</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">7 audiocassettes</extent>
@@ -292,7 +294,7 @@ Center for the History of Medicine (University of Michigan) Oral History Intervi
         </c02>
         <c02 level="item">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [55381444284532524]" altrender="box">2</container>
             <unittitle>Morley, George W. <unitdate type="inclusive" normal="2002">2002</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">9 audiocassettes</extent>
@@ -301,7 +303,7 @@ Center for the History of Medicine (University of Michigan) Oral History Intervi
         </c02>
         <c02 level="item">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [55381444284532524]" altrender="box">2</container>
             <unittitle>Punch, Margaret R. <unitdate type="inclusive" normal="2004">2004</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">1 audiocassettes</extent>
@@ -318,7 +320,7 @@ Center for the History of Medicine (University of Michigan) Oral History Intervi
         </odd>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [55381444284532524]" altrender="box">2</container>
             <unittitle>Bartlett, Robert <unitdate type="inclusive" normal="2007">2007</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">1 optical disks</extent>
@@ -328,7 +330,7 @@ Center for the History of Medicine (University of Michigan) Oral History Intervi
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [55381444284532524]" altrender="box">2</container>
             <unittitle>Bole, Giles G. <unitdate type="inclusive" normal="2005">2005</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">3 optical disks</extent>
@@ -338,7 +340,7 @@ Center for the History of Medicine (University of Michigan) Oral History Intervi
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [55381444284532524]" altrender="box">2</container>
             <unittitle>Bull, Frances <unitdate type="inclusive" normal="2005">2005</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">1 optical disks</extent>
@@ -348,7 +350,7 @@ Center for the History of Medicine (University of Michigan) Oral History Intervi
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [55381444284532524]" altrender="box">2</container>
             <unittitle>Christensen, A. Kent <unitdate type="inclusive" normal="2011">2011</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 optical disks</extent>
@@ -358,7 +360,7 @@ Center for the History of Medicine (University of Michigan) Oral History Intervi
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [55381444284532524]" altrender="box">2</container>
             <unittitle>Dean, George <unitdate type="inclusive" normal="2007">2007</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">1 optical disks</extent>
@@ -368,7 +370,7 @@ Center for the History of Medicine (University of Michigan) Oral History Intervi
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [55381444284532524]" altrender="box">2</container>
             <unittitle>Dickinson, David G. <unitdate type="inclusive" normal="2005">2005</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 optical disks</extent>
@@ -378,7 +380,7 @@ Center for the History of Medicine (University of Michigan) Oral History Intervi
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [55381444284532524]" altrender="box">2</container>
             <unittitle>Fajans, Stefan <unitdate type="inclusive" normal="2005">2005</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">3 optical disks</extent>
@@ -388,7 +390,7 @@ Center for the History of Medicine (University of Michigan) Oral History Intervi
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [55381444284532524]" altrender="box">2</container>
             <unittitle>Gelehrter, Thomas D. <unitdate type="inclusive" normal="2011">2011</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 optical disks</extent>
@@ -398,7 +400,7 @@ Center for the History of Medicine (University of Michigan) Oral History Intervi
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [55381444284532524]" altrender="box">2</container>
             <unittitle>Henderson, John W. <unitdate type="inclusive" normal="2005">2005</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 optical disks</extent>
@@ -408,7 +410,7 @@ Center for the History of Medicine (University of Michigan) Oral History Intervi
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [55381444284532524]" altrender="box">2</container>
             <unittitle>Hubbard, William N.</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">3 optical disks</extent>
@@ -418,7 +420,7 @@ Center for the History of Medicine (University of Michigan) Oral History Intervi
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [55381444284532524]" altrender="box">2</container>
             <unittitle>Judge, Richard D.</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">3 optical disks</extent>
@@ -428,7 +430,7 @@ Center for the History of Medicine (University of Michigan) Oral History Intervi
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [55381444284532524]" altrender="box">2</container>
             <unittitle>Margolis, Philip M. <unitdate type="inclusive" normal="2006">2006</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 optical disks</extent>
@@ -438,7 +440,7 @@ Center for the History of Medicine (University of Michigan) Oral History Intervi
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [55381444284532524]" altrender="box">2</container>
             <unittitle>Neidhardt, Fred, 200</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">1 optical disks</extent>
@@ -448,7 +450,7 @@ Center for the History of Medicine (University of Michigan) Oral History Intervi
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [55381444284532524]" altrender="box">2</container>
             <unittitle>Sloan, Herbert <unitdate type="inclusive" normal="2006">2006</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">1 optical disks</extent>
@@ -458,7 +460,7 @@ Center for the History of Medicine (University of Michigan) Oral History Intervi
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [55381444284532524]" altrender="box">2</container>
             <unittitle>Swain, Henry H. <unitdate type="inclusive" normal="2005">2005</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">3 optical disks</extent>
@@ -468,7 +470,7 @@ Center for the History of Medicine (University of Michigan) Oral History Intervi
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [55381444284532524]" altrender="box">2</container>
             <unittitle>Turcotte, Jeremiah G. <unitdate type="inclusive" normal="2006">2006</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">1 optical disks</extent>

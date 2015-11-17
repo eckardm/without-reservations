@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Highland Cemetery Association records, 1863-2004</titleproper>
       <author>Finding aid created by <lb/>Michigan Historical Collections staff</author>
     </titlepage>
@@ -79,10 +79,10 @@ Highland Cemetery Association records, Bentley Historical Library, University of
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <subject source="lcsh" encodinganalog="650">Cemeteries--Michigan--Ypsilanti.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/8190">Cemeteries--Michigan--Ypsilanti.</subject>
         <corpname source="lcnaf" encodinganalog="610">Highland Cemetery Association.</corpname>
         <corpname source="lcnaf" encodinganalog="610">Highland Cemetery (Ypsilanti, Mich.)</corpname>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n80006284.html">Ypsilanti (Mich.)</geogname>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n80006284.html" ref="/subjects/999">Ypsilanti (Mich.)</geogname>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -92,13 +92,13 @@ Highland Cemetery Association records, Bentley Historical Library, University of
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [168254452841771846832]" altrender="box">1</container>
             <unittitle>Record book containing register of block, lot, price, and remarks <unitdate type="inclusive">undated</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [168254452841771846832]" altrender="box">1</container>
             <unittitle>Minutes of Annual Meetings and of the Board of Trustees <unitdate type="inclusive" normal="1863/1963">1863-1963</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 volumes</extent>
@@ -107,7 +107,7 @@ Highland Cemetery Association records, Bentley Historical Library, University of
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [088331569407486926690784]" altrender="box">2</container>
             <unittitle>Minutes, newsletters, and other materials <unitdate type="inclusive" normal="1995/2004">1995-2004</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">6 folders</extent>
@@ -116,7 +116,7 @@ Highland Cemetery Association records, Bentley Historical Library, University of
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [088331569407486926690784]" altrender="box">2</container>
             <unittitle>Promotions and publicity</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">5 folders</extent>
@@ -130,7 +130,7 @@ Highland Cemetery Association records, Bentley Historical Library, University of
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [088331569407486926690784]" altrender="box">2</container>
             <unittitle>Plan of Highland Cemetery <unitdate type="inclusive" normal="1893">1893</unitdate></unittitle>
             <physdesc>
               <physfacet>photocopy</physfacet>
@@ -139,7 +139,7 @@ Highland Cemetery Association records, Bentley Historical Library, University of
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [088331569407486926690784]" altrender="box">2</container>
             <unittitle>Historical / background materials</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -148,13 +148,13 @@ Highland Cemetery Association records, Bentley Historical Library, University of
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [088331569407486926690784]" altrender="box">2</container>
             <unittitle>James Lewis Glen (information about)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [088331569407486926690784]" altrender="box">2</container>
             <unittitle>National Register of Historic Places nomination materials</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -163,13 +163,13 @@ Highland Cemetery Association records, Bentley Historical Library, University of
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [088331569407486926690784]" altrender="box">2</container>
             <unittitle>Starkweather Chapel restoration</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [088331569407486926690784]" altrender="box">2</container>
             <unittitle>Starkweather Chapel background material</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -183,7 +183,7 @@ Highland Cemetery Association records, Bentley Historical Library, University of
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [088331569407486926690784]" altrender="box">2</container>
             <unittitle>Friends of Highland Cemetery</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -192,25 +192,25 @@ Highland Cemetery Association records, Bentley Historical Library, University of
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [088331569407486926690784]" altrender="box">2</container>
             <unittitle>Job analysis questionnaire; employment miscellaneous</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [088331569407486926690784]" altrender="box">2</container>
             <unittitle>Cemetery handbook</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [088331569407486926690784]" altrender="box">2</container>
             <unittitle>Membership materials</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [088331569407486926690784]" altrender="box">2</container>
             <unittitle>Miscellaneous</unittitle>
           </did>
         </c02>

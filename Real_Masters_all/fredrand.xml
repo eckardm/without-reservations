@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Randa Frederickson collection, 1894-1978 and undated</titleproper>
       <author>Finding aid created by <lb/>Michigan Historical Collections staff</author>
     </titlepage>
@@ -37,7 +37,9 @@
       <origination>
         <persname source="lcnaf" encodinganalog="100">Frederickson, Randa, collector.</persname>
       </origination>
-      <unittitle encodinganalog="245">Randa Frederickson collection. <unitdate type="inclusive" encodinganalog="245$f" normal="1894/1978">1894-1978</unitdate>, <unitdate type="inclusive" encodinganalog="245$f">undated</unitdate></unittitle>
+      <unittitle encodinganalog="245">Randa Frederickson collection.</unittitle>
+      <unitdate type="inclusive" encodinganalog="245$f" normal="1894/1978">1894-1978</unitdate>
+      <unitdate type="inclusive" encodinganalog="245$f">undated</unitdate>
       <unitid encodinganalog="852$h" repositorycode="MiU-H" countrycode="us" type="call number">861130 Aa 2; UAm</unitid>
       <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language></langmaterial>
       <physdesc altrender="part">
@@ -82,32 +84,32 @@ Randa Frederickson collection, Bentley Historical Library, University of Michiga
       <controlaccess>
         <head>Subjects:</head>
         <famname source="lcnaf" encodinganalog="600">Bahle family.</famname>
-        <geogname source="lcsh" encodinganalog="651">Michigan--Emigration and immigration.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/863">Michigan--Emigration and immigration.</geogname>
         <famname source="lcnaf" encodinganalog="600">Garth family.</famname>
         <famname source="lcnaf" encodinganalog="600">Holden family.</famname>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n2009001239.html">Northport (Mich.)</geogname>
-        <subject source="lcsh" encodinganalog="650">Norwegian Americans--Michigan.</subject>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n2009001239.html" ref="/subjects/1883">Northport (Mich.)</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7861">Norwegian Americans--Michigan.</subject>
         <persname source="lcnaf" encodinganalog="600">Talgø, Elisabeth Holden.</persname>
-        <geogname source="lcsh" encodinganalog="651">Norway--Emigration and immigration.</geogname>
-        <subject source="lcsh" encodinganalog="650">Immigrants--Michigan.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1884">Norway--Emigration and immigration.</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5684">Immigrants--Michigan.</subject>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Materials:</head>
         <famname source="lcnaf" encodinganalog="600">Bahle family.</famname>
-        <subject source="lctgm" encodinganalog="650">Churches--Michigan--Northport.</subject>
-        <subject source="lctgm" encodinganalog="650">Farms.</subject>
-        <subject source="lctgm" encodinganalog="650">Laborers.</subject>
-        <subject source="lctgm" encodinganalog="650">Lumber industry.</subject>
-        <geogname source="lcsh" encodinganalog="651">North Manitou Island (Mich.)</geogname>
-        <geogname source="lctgm" encodinganalog="651">Northport (Mich.)--Buildings.</geogname>
-        <geogname source="lctgm" encodinganalog="651">Northport (Mich.)--Churches.</geogname>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4340">Churches--Michigan--Northport.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4333">Farms.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3665">Laborers.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3666">Lumber industry.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1885">North Manitou Island (Mich.)</geogname>
+        <geogname source="lctgm" encodinganalog="651" ref="/subjects/296">Northport (Mich.)--Buildings.</geogname>
+        <geogname source="lctgm" encodinganalog="651" ref="/subjects/297">Northport (Mich.)--Churches.</geogname>
         <corpname source="lcnaf" encodinganalog="610">Norwegian Evangelical Lutheran Church (Northport, Mich.)</corpname>
-        <subject source="lctgm" encodinganalog="650">Roads--Michigan--Northport.</subject>
-        <subject source="lctgm" encodinganalog="650">Schools--Michigan--Northport.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4341">Roads--Michigan--Northport.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4342">Schools--Michigan--Northport.</subject>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -117,7 +119,7 @@ Randa Frederickson collection, Bentley Historical Library, University of Michiga
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [461605309045789692]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive">Undated</unitdate>
               <unitdate type="inclusive" normal="1894/1978">1894-1978</unitdate>
@@ -134,31 +136,31 @@ Randa Frederickson collection, Bentley Historical Library, University of Michiga
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [461605309045789692]" altrender="box">1</container>
             <unittitle>Miscellaneous: religious verse, phrase book, etc.</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [461605309045789692]" altrender="box">1</container>
             <unittitle>Garthe-Bahle family historical materials</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [461605309045789692]" altrender="box">1</container>
             <unittitle>Ladies Aid Society, Northport, Michigan: manuscript history and reminiscences of members, compiled <unitdate type="inclusive" normal="1937/1938">1937-1938</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [461605309045789692]" altrender="box">1</container>
             <unittitle>Leelanau Township Foundation (Northport) <unitdate type="inclusive" normal="1945" certainty="approximate">circa 1945</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [461605309045789692]" altrender="box">1</container>
             <unittitle>School materials, including valedictory address</unittitle>
           </did>
         </c02>
@@ -169,25 +171,25 @@ Randa Frederickson collection, Bentley Historical Library, University of Michiga
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [461605309045789692]" altrender="box">1</container>
             <unittitle>North Manitou Island (mainly logging views)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [461605309045789692]" altrender="box">1</container>
             <unittitle>Northport miscellanea, include classroom photographs</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [461605309045789692]" altrender="box">1</container>
             <unittitle>Garthe-Bahle-Talgo families farms and portraits</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="folder" label="Oversize Folder">1</container>
+            <container type="folder" label="Oversize Folder [90450294318099740]" altrender="folder">1</container>
             <unittitle>Northport Evangelical Lutheran Church building <unitdate type="inclusive" normal="1910" certainty="approximate">circa 1910</unitdate></unittitle>
           </did>
         </c02>

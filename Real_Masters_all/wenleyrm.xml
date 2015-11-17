@@ -30,7 +30,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding Aid for <lb/>R. M. Wenley Papers, <date type="inclusive">1879-1931</date></titleproper>
       <author>Finding aid prepared by: <lb/>Michigan Historical Collections staff</author>
     </titlepage>
@@ -83,9 +83,9 @@
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <geogname source="lcsh" encodinganalog="651">Europe--Description and travel.</geogname>
-        <subject source="lcsh" encodinganalog="650">Philosophy.</subject>
-        <subject source="lcsh" encodinganalog="650">Voyages and travels.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/972">Europe--Description and travel.</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6440">Philosophy.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6009">Voyages and travels.</subject>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n79129619">University of Glasgow.</corpname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan. Dept. of Philosophy.</corpname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan--Faculty.</corpname>
@@ -94,10 +94,10 @@
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Material:</head>
-        <geogname source="lctgm" encodinganalog="651">Ann Arbor (Mich.)--Dwellings.</geogname>
+        <geogname source="lctgm" encodinganalog="651" ref="/subjects/207">Ann Arbor (Mich.)--Dwellings.</geogname>
         <corpname source="lcnaf" encodinganalog="610">Club (Ann Arbor, Mich.)</corpname>
-        <subject source="lctgm" encodinganalog="650">Dwellings--Michigan--Ann Arbor.</subject>
-        <subject source="lctgm" encodinganalog="650">Living rooms.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3572">Dwellings--Michigan--Ann Arbor.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4168">Living rooms.</subject>
         <corpname source="lcnaf" encodinganalog="610">Quadrangle Club (University of Michigan)</corpname>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/nr00017036">Wenley, R. M. (Robert Mark), 1861-1929.</persname>
         <famname source="lcnaf" encodinganalog="600">Wenley family.</famname>
@@ -146,9 +146,9 @@
       </controlaccess>
       <controlaccess>
         <head>Genre/Form:</head>
-        <genreform source="aat" encodinganalog="655">Diaries.</genreform>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
-        <genreform source="aat" encodinganalog="655">Scrapbooks.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3150">Diaries.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3139">Scrapbooks.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -158,8 +158,8 @@
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <container type="folder" label="Folder">1</container>
+            <container type="box" label="Box [80744749993918264]" id="48187651-3532-4d8b-80a2-801b8b5d43c0" altrender="box">1</container>
+            <container type="folder" label="Folder" parent="48187651-3532-4d8b-80a2-801b8b5d43c0">1</container>
             <unittitle>
               <unitdate>Undated</unitdate>
             </unittitle>
@@ -167,8 +167,8 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <container type="folder" label="Folder">2</container>
+            <container type="box" label="Box [80744749993918264]" id="11d782d8-be26-4157-8330-aa593624674b" altrender="box">1</container>
+            <container type="folder" label="Folder" parent="11d782d8-be26-4157-8330-aa593624674b">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1879/1884">1879-1884</unitdate>
             </unittitle>
@@ -176,8 +176,8 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <container type="folder" label="Folder">3</container>
+            <container type="box" label="Box [80744749993918264]" id="c087c7ee-d17a-4771-a06d-a014098f1ad3" altrender="box">1</container>
+            <container type="folder" label="Folder" parent="c087c7ee-d17a-4771-a06d-a014098f1ad3">3</container>
             <unittitle>
               <unitdate type="inclusive" normal="1885">1885</unitdate>
             </unittitle>
@@ -185,8 +185,8 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <container type="folder" label="Folder">4</container>
+            <container type="box" label="Box [80744749993918264]" id="4de3315a-1c05-49f0-b2dd-5e47c2b02c53" altrender="box">1</container>
+            <container type="folder" label="Folder" parent="4de3315a-1c05-49f0-b2dd-5e47c2b02c53">4</container>
             <unittitle>
               <unitdate type="inclusive" normal="1886">1886</unitdate>
             </unittitle>
@@ -194,8 +194,8 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <container type="folder" label="Folder">5</container>
+            <container type="box" label="Box [80744749993918264]" id="e8cd0e6d-8b8a-4a94-9d9d-fcd0e0545e61" altrender="box">1</container>
+            <container type="folder" label="Folder" parent="e8cd0e6d-8b8a-4a94-9d9d-fcd0e0545e61">5</container>
             <unittitle>
               <unitdate type="inclusive" normal="1887">1887</unitdate>
             </unittitle>
@@ -203,8 +203,8 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <container type="folder" label="Folder">6</container>
+            <container type="box" label="Box [80744749993918264]" id="af8f10d2-ed57-4d9e-9e00-c4d1e8916596" altrender="box">1</container>
+            <container type="folder" label="Folder" parent="af8f10d2-ed57-4d9e-9e00-c4d1e8916596">6</container>
             <unittitle>
               <unitdate type="inclusive" normal="1891">1891</unitdate>
             </unittitle>
@@ -212,8 +212,8 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <container type="folder" label="Folder">7</container>
+            <container type="box" label="Box [80744749993918264]" id="f39a67b0-5be4-4750-a790-8ff65c992856" altrender="box">1</container>
+            <container type="folder" label="Folder" parent="f39a67b0-5be4-4750-a790-8ff65c992856">7</container>
             <unittitle>
               <unitdate type="inclusive" normal="1892/1893">1892-1893</unitdate>
             </unittitle>
@@ -221,8 +221,8 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <container type="folder" label="Folder">8</container>
+            <container type="box" label="Box [80744749993918264]" id="1d03f4cc-40d8-47ec-996e-300d2a4ca779" altrender="box">1</container>
+            <container type="folder" label="Folder" parent="1d03f4cc-40d8-47ec-996e-300d2a4ca779">8</container>
             <unittitle>
               <unitdate type="inclusive" normal="1894">1894</unitdate>
             </unittitle>
@@ -230,8 +230,8 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <container type="folder" label="Folder">9</container>
+            <container type="box" label="Box [80744749993918264]" id="d535cea9-7a20-45df-ac0a-b208c79f303b" altrender="box">1</container>
+            <container type="folder" label="Folder" parent="d535cea9-7a20-45df-ac0a-b208c79f303b">9</container>
             <unittitle>
               <unitdate type="inclusive" normal="1895-01/1895-06">January-June 1895</unitdate>
             </unittitle>
@@ -239,8 +239,8 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <container type="folder" label="Folder">10</container>
+            <container type="box" label="Box [80744749993918264]" id="4115bc5a-5364-463b-8253-45f0b6d9b67d" altrender="box">1</container>
+            <container type="folder" label="Folder" parent="4115bc5a-5364-463b-8253-45f0b6d9b67d">10</container>
             <unittitle>
               <unitdate type="inclusive" normal="1895-07/1895-12">July-December 1895</unitdate>
             </unittitle>
@@ -248,8 +248,8 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <container type="folder" label="Folder">11</container>
+            <container type="box" label="Box [80744749993918264]" id="0582d9d3-5eab-44b4-83e5-23a95bebc9c2" altrender="box">1</container>
+            <container type="folder" label="Folder" parent="0582d9d3-5eab-44b4-83e5-23a95bebc9c2">11</container>
             <unittitle>
               <unitdate type="inclusive" normal="1896">1896</unitdate>
             </unittitle>
@@ -257,8 +257,8 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <container type="folder" label="Folder">12</container>
+            <container type="box" label="Box [80744749993918264]" id="f5fdeaff-168d-4824-b6db-0fdaa1682203" altrender="box">1</container>
+            <container type="folder" label="Folder" parent="f5fdeaff-168d-4824-b6db-0fdaa1682203">12</container>
             <unittitle>
               <unitdate type="inclusive" normal="1897">1897</unitdate>
             </unittitle>
@@ -266,8 +266,8 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <container type="folder" label="Folder">13</container>
+            <container type="box" label="Box [80744749993918264]" id="ab636089-3701-4b41-89e7-8163308b0025" altrender="box">1</container>
+            <container type="folder" label="Folder" parent="ab636089-3701-4b41-89e7-8163308b0025">13</container>
             <unittitle>
               <unitdate type="inclusive" normal="1898/1900">1898-1900</unitdate>
             </unittitle>
@@ -275,8 +275,8 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <container type="folder" label="Folder">14</container>
+            <container type="box" label="Box [80744749993918264]" id="6f7c5401-8596-411b-927b-55f8a0d9ecbe" altrender="box">1</container>
+            <container type="folder" label="Folder" parent="6f7c5401-8596-411b-927b-55f8a0d9ecbe">14</container>
             <unittitle>
               <unitdate type="inclusive" normal="1901/1905">1901-1905</unitdate>
             </unittitle>
@@ -284,8 +284,8 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <container type="folder" label="Folder">15</container>
+            <container type="box" label="Box [80744749993918264]" id="93e8db58-0109-4e13-a267-06bf7eb62ca3" altrender="box">1</container>
+            <container type="folder" label="Folder" parent="93e8db58-0109-4e13-a267-06bf7eb62ca3">15</container>
             <unittitle>
               <unitdate type="inclusive" normal="1906">1906</unitdate>
             </unittitle>
@@ -293,8 +293,8 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <container type="folder" label="Folder">16</container>
+            <container type="box" label="Box [80744749993918264]" id="34c27310-bfaa-41bd-80e3-53633ede4554" altrender="box">1</container>
+            <container type="folder" label="Folder" parent="34c27310-bfaa-41bd-80e3-53633ede4554">16</container>
             <unittitle>
               <unitdate type="inclusive" normal="1907/1908">1907-1908</unitdate>
             </unittitle>
@@ -302,8 +302,8 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <container type="folder" label="Folder">17</container>
+            <container type="box" label="Box [80744749993918264]" id="6ce017cc-304d-4324-8a64-544b824f16ba" altrender="box">1</container>
+            <container type="folder" label="Folder" parent="6ce017cc-304d-4324-8a64-544b824f16ba">17</container>
             <unittitle>
               <unitdate type="inclusive" normal="1909">1909</unitdate>
             </unittitle>
@@ -311,8 +311,8 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <container type="folder" label="Folder">18</container>
+            <container type="box" label="Box [80744749993918264]" id="c51bbe7e-c269-4ba1-a3ce-aa1934b26a51" altrender="box">1</container>
+            <container type="folder" label="Folder" parent="c51bbe7e-c269-4ba1-a3ce-aa1934b26a51">18</container>
             <unittitle>
               <unitdate type="inclusive" normal="1910">1910</unitdate>
             </unittitle>
@@ -320,8 +320,8 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <container type="folder" label="Folder">19</container>
+            <container type="box" label="Box [80744749993918264]" id="0fd81e7b-f707-4021-b53b-bf42d560da9f" altrender="box">1</container>
+            <container type="folder" label="Folder" parent="0fd81e7b-f707-4021-b53b-bf42d560da9f">19</container>
             <unittitle>
               <unitdate type="inclusive" normal="1911">1911</unitdate>
             </unittitle>
@@ -329,8 +329,8 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <container type="folder" label="Folder">20</container>
+            <container type="box" label="Box [80744749993918264]" id="247942e6-23ff-4faf-84ed-aa275d1dc492" altrender="box">1</container>
+            <container type="folder" label="Folder" parent="247942e6-23ff-4faf-84ed-aa275d1dc492">20</container>
             <unittitle>
               <unitdate type="inclusive" normal="1912/1913">1912-1913</unitdate>
             </unittitle>
@@ -338,8 +338,8 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <container type="folder" label="Folder">21</container>
+            <container type="box" label="Box [80744749993918264]" id="c55524ce-f7d3-46a9-b637-c7ee5efd48c2" altrender="box">1</container>
+            <container type="folder" label="Folder" parent="c55524ce-f7d3-46a9-b637-c7ee5efd48c2">21</container>
             <unittitle>
               <unitdate type="inclusive" normal="1914">1914</unitdate>
             </unittitle>
@@ -347,8 +347,8 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <container type="folder" label="Folder">22</container>
+            <container type="box" label="Box [80744749993918264]" id="bdce384b-1472-47d3-b152-d1719c7e8829" altrender="box">1</container>
+            <container type="folder" label="Folder" parent="bdce384b-1472-47d3-b152-d1719c7e8829">22</container>
             <unittitle>
               <unitdate type="inclusive" normal="1915/1916">1915-1916</unitdate>
             </unittitle>
@@ -356,8 +356,8 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <container type="folder" label="Folder">23</container>
+            <container type="box" label="Box [80744749993918264]" id="46c27647-72b8-42df-a161-388e4de76da3" altrender="box">1</container>
+            <container type="folder" label="Folder" parent="46c27647-72b8-42df-a161-388e4de76da3">23</container>
             <unittitle>
               <unitdate type="inclusive" normal="1917">1917</unitdate>
             </unittitle>
@@ -365,8 +365,8 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <container type="folder" label="Folder">24</container>
+            <container type="box" label="Box [80744749993918264]" id="8a80e6cf-f1bf-4db2-93ed-0bef68f2fb02" altrender="box">1</container>
+            <container type="folder" label="Folder" parent="8a80e6cf-f1bf-4db2-93ed-0bef68f2fb02">24</container>
             <unittitle>
               <unitdate type="inclusive" normal="1918">1918</unitdate>
             </unittitle>
@@ -374,8 +374,8 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <container type="folder" label="Folder">25</container>
+            <container type="box" label="Box [80744749993918264]" id="e6f8701f-e657-4aa6-ace5-9f11f02b2fc0" altrender="box">1</container>
+            <container type="folder" label="Folder" parent="e6f8701f-e657-4aa6-ace5-9f11f02b2fc0">25</container>
             <unittitle>
               <unitdate type="inclusive" normal="1919">1919</unitdate>
             </unittitle>
@@ -383,8 +383,8 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <container type="folder" label="Folder">26</container>
+            <container type="box" label="Box [80744749993918264]" id="5cf24275-44be-4cd5-bb6e-24ec3b2507b1" altrender="box">1</container>
+            <container type="folder" label="Folder" parent="5cf24275-44be-4cd5-bb6e-24ec3b2507b1">26</container>
             <unittitle>
               <unitdate type="inclusive" normal="1920">1920</unitdate>
             </unittitle>
@@ -392,8 +392,8 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <container type="folder" label="Folder">27</container>
+            <container type="box" label="Box [80744749993918264]" id="222be856-72b0-41b1-96a9-147e3d63945c" altrender="box">1</container>
+            <container type="folder" label="Folder" parent="222be856-72b0-41b1-96a9-147e3d63945c">27</container>
             <unittitle>
               <unitdate type="inclusive" normal="1921">1921</unitdate>
             </unittitle>
@@ -401,8 +401,8 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <container type="folder" label="Folder">28</container>
+            <container type="box" label="Box [80744749993918264]" id="f532fcbb-2b20-404d-951c-b6bd6a353767" altrender="box">1</container>
+            <container type="folder" label="Folder" parent="f532fcbb-2b20-404d-951c-b6bd6a353767">28</container>
             <unittitle>
               <unitdate type="inclusive" normal="1922/1923">1922-1923</unitdate>
             </unittitle>
@@ -410,8 +410,8 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <container type="folder" label="Folder">29</container>
+            <container type="box" label="Box [80744749993918264]" id="ea155e62-628d-44a4-8e81-d5db5ceaed16" altrender="box">1</container>
+            <container type="folder" label="Folder" parent="ea155e62-628d-44a4-8e81-d5db5ceaed16">29</container>
             <unittitle>
               <unitdate type="inclusive" normal="1924">1924</unitdate>
             </unittitle>
@@ -419,8 +419,8 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <container type="folder" label="Folder">30</container>
+            <container type="box" label="Box [80744749993918264]" id="1d1873a3-df5d-472a-921e-c617f484fa4a" altrender="box">1</container>
+            <container type="folder" label="Folder" parent="1d1873a3-df5d-472a-921e-c617f484fa4a">30</container>
             <unittitle>
               <unitdate type="inclusive" normal="1925">1925</unitdate>
             </unittitle>
@@ -428,8 +428,8 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <container type="folder" label="Folder">31</container>
+            <container type="box" label="Box [80744749993918264]" id="c2b90333-1634-4981-bbff-ce4529c5a3c7" altrender="box">1</container>
+            <container type="folder" label="Folder" parent="c2b90333-1634-4981-bbff-ce4529c5a3c7">31</container>
             <unittitle>
               <unitdate type="inclusive" normal="1926">1926</unitdate>
             </unittitle>
@@ -437,8 +437,8 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <container type="folder" label="Folder">32</container>
+            <container type="box" label="Box [80744749993918264]" id="81a6bf02-e59e-4963-9008-1f9950758998" altrender="box">1</container>
+            <container type="folder" label="Folder" parent="81a6bf02-e59e-4963-9008-1f9950758998">32</container>
             <unittitle>
               <unitdate type="inclusive" normal="1927">1927</unitdate>
             </unittitle>
@@ -446,8 +446,8 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <container type="folder" label="Folder">33</container>
+            <container type="box" label="Box [80744749993918264]" id="88da0e72-7558-47fe-9ef5-94c41698b250" altrender="box">1</container>
+            <container type="folder" label="Folder" parent="88da0e72-7558-47fe-9ef5-94c41698b250">33</container>
             <unittitle>
               <unitdate type="inclusive" normal="1928">1928</unitdate>
             </unittitle>
@@ -455,8 +455,8 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <container type="folder" label="Folder">34</container>
+            <container type="box" label="Box [80744749993918264]" id="0a3a776c-04be-4430-a198-facc94560d0a" altrender="box">1</container>
+            <container type="folder" label="Folder" parent="0a3a776c-04be-4430-a198-facc94560d0a">34</container>
             <unittitle>
               <unitdate type="inclusive" normal="1929/1931">1929-1931</unitdate>
             </unittitle>
@@ -473,7 +473,7 @@
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">11</container>
+              <container type="box" label="Box [5222818744097180295022]" altrender="box">11</container>
               <unittitle>RMW notes as student <unitdate type="inclusive" normal="1880/1884">1880-1884</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">9 volumes</extent>
@@ -482,7 +482,7 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">11</container>
+              <container type="box" label="Box [5222818744097180295022]" altrender="box">11</container>
               <unittitle>RMW lectures and notes as teacher</unittitle>
               <physdesc altrender="part">
                 <extent altrender="materialtype spaceoccupied">3 volumes</extent>
@@ -499,7 +499,7 @@
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">11</container>
+              <container type="box" label="Box [5222818744097180295022]" altrender="box">11</container>
               <unittitle>RMW lectures and notes as teacher</unittitle>
               <physdesc altrender="part">
                 <extent altrender="materialtype spaceoccupied">6 volumes</extent>
@@ -512,7 +512,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">11</container>
+            <container type="box" label="Box [5222818744097180295022]" altrender="box">11</container>
             <unittitle>Edinburgh Summer School <unitdate type="inclusive" normal="1895/1896">1895-1896</unitdate></unittitle>
           </did>
         </c02>
@@ -522,71 +522,71 @@
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
-              <container type="folder" label="Folder">35</container>
+              <container type="box" label="Box [94355720645338586661221]" id="bbaf953b-2552-46ec-8270-eac4dad6c264" altrender="box">2</container>
+              <container type="folder" label="Folder" parent="bbaf953b-2552-46ec-8270-eac4dad6c264">35</container>
               <unittitle>re. Edward Caird</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
-              <container type="folder" label="Folder">36</container>
+              <container type="box" label="Box [94355720645338586661221]" id="1a3d000e-790e-4822-8baf-20880e61e9ae" altrender="box">2</container>
+              <container type="folder" label="Folder" parent="1a3d000e-790e-4822-8baf-20880e61e9ae">36</container>
               <unittitle>Printed programs of Scottish affairs and events</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
-              <container type="folder" label="Folder">37</container>
+              <container type="box" label="Box [94355720645338586661221]" id="cf2371ad-0940-4358-9e3e-47c33f5537f8" altrender="box">2</container>
+              <container type="folder" label="Folder" parent="cf2371ad-0940-4358-9e3e-47c33f5537f8">37</container>
               <unittitle>Programs from the University of Glasgow</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
-              <container type="folder" label="Folder">38</container>
+              <container type="box" label="Box [94355720645338586661221]" id="b56e401e-4635-4520-8b6c-6f05a04cf658" altrender="box">2</container>
+              <container type="folder" label="Folder" parent="b56e401e-4635-4520-8b6c-6f05a04cf658">38</container>
               <unittitle>Lists of students at the University of Glasgow and their grade reports</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
-              <container type="folder" label="Folder">39</container>
+              <container type="box" label="Box [94355720645338586661221]" id="67b080a9-2177-4e0b-a4c5-db7938cb33b3" altrender="box">2</container>
+              <container type="folder" label="Folder" parent="67b080a9-2177-4e0b-a4c5-db7938cb33b3">39</container>
               <unittitle>Examinations and student papers from the University of Glasgow</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
-              <container type="folder" label="Folder">40</container>
+              <container type="box" label="Box [94355720645338586661221]" id="cad7ad4c-73f1-468c-a652-4c7cd91ed12a" altrender="box">2</container>
+              <container type="folder" label="Folder" parent="cad7ad4c-73f1-468c-a652-4c7cd91ed12a">40</container>
               <unittitle>Papers concerning Wenley's activities at the University of Glasgow</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
-              <container type="folder" label="Folder">41</container>
+              <container type="box" label="Box [94355720645338586661221]" id="2f798a86-2bca-4344-90e5-d69c16aa6080" altrender="box">2</container>
+              <container type="folder" label="Folder" parent="2f798a86-2bca-4344-90e5-d69c16aa6080">41</container>
               <unittitle>Handbills and miscellaneous printed material from the University of Glasgow</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
-              <container type="folder" label="Folder">42</container>
+              <container type="box" label="Box [94355720645338586661221]" id="f4a3a4b3-db09-47b9-b246-76c12c98747b" altrender="box">2</container>
+              <container type="folder" label="Folder" parent="f4a3a4b3-db09-47b9-b246-76c12c98747b">42</container>
               <unittitle>Political poems</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
-              <container type="folder" label="Folder">44</container>
+              <container type="box" label="Box [94355720645338586661221]" id="9d4d295b-bf38-4d3f-8187-ff2da711a83e" altrender="box">2</container>
+              <container type="folder" label="Folder" parent="9d4d295b-bf38-4d3f-8187-ff2da711a83e">44</container>
               <unittitle>Wenley's records and grade reports at the University of Glasgow</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
-              <container type="folder" label="Folder">45-46</container>
+              <container type="box" label="Box [94355720645338586661221]" id="6bb74c4c-6c20-4ed4-b8e4-6d3eb4edaad5" altrender="box">2</container>
+              <container type="folder" label="Folder" parent="6bb74c4c-6c20-4ed4-b8e4-6d3eb4edaad5">45-46</container>
               <unittitle>Printed testimonials favoring Wenley's appointment to academic positions in Scotland</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -601,29 +601,29 @@
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
-            <container type="folder" label="Folder">47</container>
+            <container type="box" label="Box [94355720645338586661221]" id="342c25c5-5f05-444d-b04f-e45ad68fe38c" altrender="box">2</container>
+            <container type="folder" label="Folder" parent="342c25c5-5f05-444d-b04f-e45ad68fe38c">47</container>
             <unittitle>Obituaries of Robert Mark Wenley <unitdate type="inclusive" normal="1929">1929</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
-            <container type="folder" label="Folder">48</container>
+            <container type="box" label="Box [94355720645338586661221]" id="6137a575-f9a0-4580-9275-0790476b2103" altrender="box">2</container>
+            <container type="folder" label="Folder" parent="6137a575-f9a0-4580-9275-0790476b2103">48</container>
             <unittitle>"Looking Backward: A Veteran's Review"</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
-            <container type="folder" label="Folder">49</container>
+            <container type="box" label="Box [94355720645338586661221]" id="c02c3a55-0455-4858-add8-3efd515e56ea" altrender="box">2</container>
+            <container type="folder" label="Folder" parent="c02c3a55-0455-4858-add8-3efd515e56ea">49</container>
             <unittitle>Autobiographical material</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
-            <container type="folder" label="Folder">50-52</container>
+            <container type="box" label="Box [94355720645338586661221]" id="04826383-18af-4ec3-9e1c-7ecd6848c615" altrender="box">2</container>
+            <container type="folder" label="Folder" parent="04826383-18af-4ec3-9e1c-7ecd6848c615">50-52</container>
             <unittitle>"Recollections, reflections and impressions of a vagrant Scot: an essay in informal autobiography" <unitdate type="inclusive" normal="1916">1916</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -632,14 +632,14 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
-            <container type="folder" label="Folder">53</container>
+            <container type="box" label="Box [94355720645338586661221]" id="93fdc291-6480-4b66-8b52-92a4d6497a50" altrender="box">2</container>
+            <container type="folder" label="Folder" parent="93fdc291-6480-4b66-8b52-92a4d6497a50">53</container>
             <unittitle>University of Glasgow honorary degree <unitdate type="inclusive" normal="1901">1901</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="folder" label="Oversize Folder">AC</container>
+            <container type="folder" label="Oversize Folder [37418679254409257651240975]" altrender="folder">AC</container>
             <unittitle>Diplomas and citations</unittitle>
           </did>
         </c02>
@@ -650,8 +650,8 @@
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
-            <container type="folder" label="Folder">60-64</container>
+            <container type="box" label="Box [94355720645338586661221]" id="b3372b9a-d309-4399-b9ce-d8e93c48c330" altrender="box">2</container>
+            <container type="folder" label="Folder" parent="b3372b9a-d309-4399-b9ce-d8e93c48c330">60-64</container>
             <unittitle>"Philosophy of Religion"</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">5 folders</extent>
@@ -660,8 +660,8 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
-            <container type="folder" label="Folder">65-67</container>
+            <container type="box" label="Box [94355720645338586661221]" id="ff2edcfd-a71f-4a99-9a7f-2d0837676f81" altrender="box">2</container>
+            <container type="folder" label="Folder" parent="ff2edcfd-a71f-4a99-9a7f-2d0837676f81">65-67</container>
             <unittitle>"Early Greek philosophy"</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -670,7 +670,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [94355720645338586661221]" altrender="box">2</container>
             <unittitle>"Literature in the Victorian Era"</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -679,8 +679,8 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
-            <container type="folder" label="Folder">71-73</container>
+            <container type="box" label="Box [94355720645338586661221]" id="25602448-c267-4394-a78f-0eb020b16c4a" altrender="box">2</container>
+            <container type="folder" label="Folder" parent="25602448-c267-4394-a78f-0eb020b16c4a">71-73</container>
             <unittitle>Shakespeare</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -689,22 +689,22 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
-            <container type="folder" label="Folder">74</container>
+            <container type="box" label="Box [9824644437374108]" id="2c9a6fca-c35c-4c9a-b8a1-2aac0d1162a4" altrender="box">3</container>
+            <container type="folder" label="Folder" parent="2c9a6fca-c35c-4c9a-b8a1-2aac0d1162a4">74</container>
             <unittitle>Protagorean Principle</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
-            <container type="folder" label="Folder">75</container>
+            <container type="box" label="Box [9824644437374108]" id="a44d22e2-2248-49ae-aed7-8fe33d6b6b54" altrender="box">3</container>
+            <container type="folder" label="Folder" parent="a44d22e2-2248-49ae-aed7-8fe33d6b6b54">75</container>
             <unittitle>Science and skepticism</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
-            <container type="folder" label="Folder">76-77</container>
+            <container type="box" label="Box [9824644437374108]" id="c0d2dc41-37b3-437d-8064-a4aaae7f42cf" altrender="box">3</container>
+            <container type="folder" label="Folder" parent="c0d2dc41-37b3-437d-8064-a4aaae7f42cf">76-77</container>
             <unittitle>Cause, skepticism, system, etc.</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -713,218 +713,218 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
-            <container type="folder" label="Folder">78</container>
+            <container type="box" label="Box [9824644437374108]" id="c1b4a30a-22c6-44c8-bb98-0028de3f1d63" altrender="box">3</container>
+            <container type="folder" label="Folder" parent="c1b4a30a-22c6-44c8-bb98-0028de3f1d63">78</container>
             <unittitle>Evolution</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
-            <container type="folder" label="Folder">79</container>
+            <container type="box" label="Box [9824644437374108]" id="2541d3f3-7564-496f-896d-971b45622970" altrender="box">3</container>
+            <container type="folder" label="Folder" parent="2541d3f3-7564-496f-896d-971b45622970">79</container>
             <unittitle>Stoicism</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
-            <container type="folder" label="Folder">80</container>
+            <container type="box" label="Box [9824644437374108]" id="4b3c5c16-f33b-430c-8be9-115aa8b4a860" altrender="box">3</container>
+            <container type="folder" label="Folder" parent="4b3c5c16-f33b-430c-8be9-115aa8b4a860">80</container>
             <unittitle>"Some Stoic Dogmas"</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
-            <container type="folder" label="Folder">81</container>
+            <container type="box" label="Box [9824644437374108]" id="d31a9fe9-5850-45e7-bf93-ab260e7a53bb" altrender="box">3</container>
+            <container type="folder" label="Folder" parent="d31a9fe9-5850-45e7-bf93-ab260e7a53bb">81</container>
             <unittitle>Bibliography of philosophy</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
-            <container type="folder" label="Folder">82</container>
+            <container type="box" label="Box [9824644437374108]" id="13ced785-a39e-497f-8d6e-9ef7a9fcb835" altrender="box">3</container>
+            <container type="folder" label="Folder" parent="13ced785-a39e-497f-8d6e-9ef7a9fcb835">82</container>
             <unittitle>re "synthesis of knowledge, skepticism, egotism, etc."</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
-            <container type="folder" label="Folder">83</container>
+            <container type="box" label="Box [9824644437374108]" id="ba3e1f82-0a35-4c5b-adff-adc7c9315e3a" altrender="box">3</container>
+            <container type="folder" label="Folder" parent="ba3e1f82-0a35-4c5b-adff-adc7c9315e3a">83</container>
             <unittitle>Sophists, Protagoras, etc.</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
-            <container type="folder" label="Folder">84</container>
+            <container type="box" label="Box [9824644437374108]" id="f0adb9da-f81c-4a36-a399-8279e1e13d55" altrender="box">3</container>
+            <container type="folder" label="Folder" parent="f0adb9da-f81c-4a36-a399-8279e1e13d55">84</container>
             <unittitle>Epistemology, logic and psychology</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
-            <container type="folder" label="Folder">85</container>
+            <container type="box" label="Box [9824644437374108]" id="60921105-5d07-4645-b5c1-ae9f2cc5194f" altrender="box">3</container>
+            <container type="folder" label="Folder" parent="60921105-5d07-4645-b5c1-ae9f2cc5194f">85</container>
             <unittitle>Hegel, etc.</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
-            <container type="folder" label="Folder">86</container>
+            <container type="box" label="Box [9824644437374108]" id="f80ac598-2806-4b9f-88c5-9c444c3bb018" altrender="box">3</container>
+            <container type="folder" label="Folder" parent="f80ac598-2806-4b9f-88c5-9c444c3bb018">86</container>
             <unittitle>"The history of Philosophy and the dialectic of the logic of Hegel"</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
-            <container type="folder" label="Folder">87</container>
+            <container type="box" label="Box [9824644437374108]" id="d05f36f9-6400-46bf-be63-71cabcec613f" altrender="box">3</container>
+            <container type="folder" label="Folder" parent="d05f36f9-6400-46bf-be63-71cabcec613f">87</container>
             <unittitle>Plato and philosophy since Hegel</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
-            <container type="folder" label="Folder">88</container>
+            <container type="box" label="Box [9824644437374108]" id="3662623a-414b-4307-9bac-9fa952a6c5e7" altrender="box">3</container>
+            <container type="folder" label="Folder" parent="3662623a-414b-4307-9bac-9fa952a6c5e7">88</container>
             <unittitle>Hegelianism, psychology, socialism, etc.</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
-            <container type="folder" label="Folder">89</container>
+            <container type="box" label="Box [9824644437374108]" id="1e025cb8-cc42-487d-88dd-9e45918df7cb" altrender="box">3</container>
+            <container type="folder" label="Folder" parent="1e025cb8-cc42-487d-88dd-9e45918df7cb">89</container>
             <unittitle>Browning, Thackeray, the Historical Novel, and Tennyson</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
-            <container type="folder" label="Folder">90</container>
+            <container type="box" label="Box [9824644437374108]" id="b0f4b078-9d24-49fd-a25b-3a5b81278f42" altrender="box">3</container>
+            <container type="folder" label="Folder" parent="b0f4b078-9d24-49fd-a25b-3a5b81278f42">90</container>
             <unittitle>John Ruskin, the contributions of Scotland and of women to modern literature, and Shakespeare</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
-            <container type="folder" label="Folder">91</container>
+            <container type="box" label="Box [9824644437374108]" id="383b7269-c210-4278-b927-6570cd8342f5" altrender="box">3</container>
+            <container type="folder" label="Folder" parent="383b7269-c210-4278-b927-6570cd8342f5">91</container>
             <unittitle>"Art and Morality", Shakespeare plays, literature criticism, etc.</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
-            <container type="folder" label="Folder">92</container>
+            <container type="box" label="Box [9824644437374108]" id="3ba38016-4334-4f99-92dc-e79ff9838622" altrender="box">3</container>
+            <container type="folder" label="Folder" parent="3ba38016-4334-4f99-92dc-e79ff9838622">92</container>
             <unittitle>"A comparison of the poetical characters of Aeschylus and Sophocles"</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
-            <container type="folder" label="Folder">93</container>
+            <container type="box" label="Box [9824644437374108]" id="d480661f-1c2b-4ea8-82d7-f2f897082bf1" altrender="box">3</container>
+            <container type="folder" label="Folder" parent="d480661f-1c2b-4ea8-82d7-f2f897082bf1">93</container>
             <unittitle>English Poetry course</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
-            <container type="folder" label="Folder">94</container>
+            <container type="box" label="Box [9824644437374108]" id="2ac03bd5-55c7-4f04-b477-9a7f65688ef9" altrender="box">3</container>
+            <container type="folder" label="Folder" parent="2ac03bd5-55c7-4f04-b477-9a7f65688ef9">94</container>
             <unittitle>State interference and lectures in Britain</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
-            <container type="folder" label="Folder">100</container>
+            <container type="box" label="Box [9824644437374108]" id="0f55c351-6560-4bcf-b673-184e60b4d79d" altrender="box">3</container>
+            <container type="folder" label="Folder" parent="0f55c351-6560-4bcf-b673-184e60b4d79d">100</container>
             <unittitle>Ethics course</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
-            <container type="folder" label="Folder">101</container>
+            <container type="box" label="Box [9824644437374108]" id="b43dc8ed-cb35-4864-bdd9-276adfdc6b93" altrender="box">3</container>
+            <container type="folder" label="Folder" parent="b43dc8ed-cb35-4864-bdd9-276adfdc6b93">101</container>
             <unittitle>Philosophy course in Schelling, Hegel, and Kant</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
-            <container type="folder" label="Folder">102</container>
+            <container type="box" label="Box [9824644437374108]" id="71c8ec2a-69d5-49f1-9a9b-2497b9f2c80c" altrender="box">3</container>
+            <container type="folder" label="Folder" parent="71c8ec2a-69d5-49f1-9a9b-2497b9f2c80c">102</container>
             <unittitle>Bible class and "The Western World Wonder-Child" <unitdate type="inclusive" normal="1908">1908</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
-            <container type="folder" label="Folder">103</container>
+            <container type="box" label="Box [9824644437374108]" id="53f77d8d-56ab-4648-9bfd-c109fccf920d" altrender="box">3</container>
+            <container type="folder" label="Folder" parent="53f77d8d-56ab-4648-9bfd-c109fccf920d">103</container>
             <unittitle>Metaphysics</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
-            <container type="folder" label="Folder">104</container>
+            <container type="box" label="Box [9824644437374108]" id="c241fe4a-d79c-439d-8836-efd5025d8c41" altrender="box">3</container>
+            <container type="folder" label="Folder" parent="c241fe4a-d79c-439d-8836-efd5025d8c41">104</container>
             <unittitle>"The Idealistic Movement"</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
-            <container type="folder" label="Folder">105</container>
+            <container type="box" label="Box [9824644437374108]" id="7886a8ed-fbaf-46d9-a9a8-d2bb1dfa46b6" altrender="box">3</container>
+            <container type="folder" label="Folder" parent="7886a8ed-fbaf-46d9-a9a8-d2bb1dfa46b6">105</container>
             <unittitle>"Kant to Hegel"</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
-            <container type="folder" label="Folder">106</container>
+            <container type="box" label="Box [9824644437374108]" id="3e73e4fe-7a52-4400-9aae-ed1182183cda" altrender="box">3</container>
+            <container type="folder" label="Folder" parent="3e73e4fe-7a52-4400-9aae-ed1182183cda">106</container>
             <unittitle>Hegel <unitdate type="inclusive" normal="1896/1897">1896-1897</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
-            <container type="folder" label="Folder">107</container>
+            <container type="box" label="Box [9824644437374108]" id="5fb9c442-e6ef-4118-99d0-614badabf1d6" altrender="box">3</container>
+            <container type="folder" label="Folder" parent="5fb9c442-e6ef-4118-99d0-614badabf1d6">107</container>
             <unittitle>Stoicism</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
-            <container type="folder" label="Folder">108</container>
+            <container type="box" label="Box [9824644437374108]" id="1dbf7521-f621-4177-874a-cfdf58c95ea7" altrender="box">3</container>
+            <container type="folder" label="Folder" parent="1dbf7521-f621-4177-874a-cfdf58c95ea7">108</container>
             <unittitle>"Philosophical Introduction" <unitdate type="inclusive" normal="1910">1910</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
-            <container type="folder" label="Folder">109</container>
+            <container type="box" label="Box [9824644437374108]" id="b2ee4b9e-4fa4-4f0c-b23b-347e7673928a" altrender="box">3</container>
+            <container type="folder" label="Folder" parent="b2ee4b9e-4fa4-4f0c-b23b-347e7673928a">109</container>
             <unittitle>Novelists of the nineteenth century <unitdate type="inclusive" normal="1896/1897">1896-1897</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
-            <container type="folder" label="Folder">110</container>
+            <container type="box" label="Box [9824644437374108]" id="ed50ae7a-d371-4a24-b910-fc939c5d453b" altrender="box">3</container>
+            <container type="folder" label="Folder" parent="ed50ae7a-d371-4a24-b910-fc939c5d453b">110</container>
             <unittitle>Evolution and religion <unitdate type="inclusive" normal="1885" certainty="approximate">circa 1885</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
-            <container type="folder" label="Folder">111</container>
+            <container type="box" label="Box [9824644437374108]" id="2877e103-719b-4846-810b-f0c2aa7bfeb2" altrender="box">3</container>
+            <container type="folder" label="Folder" parent="2877e103-719b-4846-810b-f0c2aa7bfeb2">111</container>
             <unittitle>Smollett <unitdate type="inclusive" normal="1919">1919</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
-            <container type="folder" label="Folder">112</container>
+            <container type="box" label="Box [9824644437374108]" id="968ba08b-dfef-4341-a361-f45e7f0c6726" altrender="box">3</container>
+            <container type="folder" label="Folder" parent="968ba08b-dfef-4341-a361-f45e7f0c6726">112</container>
             <unittitle>Henry Adams</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
-            <container type="folder" label="Folder">113-114</container>
+            <container type="box" label="Box [9824644437374108]" id="18b10a34-fe76-4e38-a4a9-197ab28c5540" altrender="box">3</container>
+            <container type="folder" label="Folder" parent="18b10a34-fe76-4e38-a4a9-197ab28c5540">113-114</container>
             <unittitle>Politics</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -933,7 +933,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [9824644437374108]" altrender="box">3</container>
             <unittitle>Introductory class <unitdate type="inclusive" normal="1896-09">September 1896</unitdate></unittitle>
           </did>
           <odd>
@@ -942,13 +942,13 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [9824644437374108]" altrender="box">3</container>
             <unittitle>Course I: Philosophy Introduction <unitdate type="inclusive" normal="1905/1907">1905-1907</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [9824644437374108]" altrender="box">3</container>
             <unittitle>History of Modern Philosophy</unittitle>
           </did>
         </c02>
@@ -959,8 +959,8 @@
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
-            <container type="folder" label="Folder">114-135</container>
+            <container type="box" label="Box [6780629624492987484468790]" id="fbb5726d-b5c4-4748-82c7-b0ec0fc8242e" altrender="box">4</container>
+            <container type="folder" label="Folder" parent="fbb5726d-b5c4-4748-82c7-b0ec0fc8242e">114-135</container>
             <unittitle>Miscellaneous speeches and papers</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">21 folders</extent>
@@ -969,8 +969,8 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
-            <container type="folder" label="Folder">136-145</container>
+            <container type="box" label="Box [6780629624492987484468790]" id="545b1ca0-47c2-42cd-ae48-243e74ee9c9e" altrender="box">4</container>
+            <container type="folder" label="Folder" parent="545b1ca0-47c2-42cd-ae48-243e74ee9c9e">136-145</container>
             <unittitle>Papers and addresses regarding education</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">10 folders</extent>
@@ -979,8 +979,8 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
-            <container type="folder" label="Folder">146-148</container>
+            <container type="box" label="Box [6780629624492987484468790]" id="c78bd146-4a7f-4c62-a684-b27859f2a0b7" altrender="box">4</container>
+            <container type="folder" label="Folder" parent="c78bd146-4a7f-4c62-a684-b27859f2a0b7">146-148</container>
             <unittitle>Notes and addresses concerning literature</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -989,8 +989,8 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
-            <container type="folder" label="Folder">151-154</container>
+            <container type="box" label="Box [6780629624492987484468790]" id="c36f154e-a9df-4dae-82e4-3d6dac181b18" altrender="box">4</container>
+            <container type="folder" label="Folder" parent="c36f154e-a9df-4dae-82e4-3d6dac181b18">151-154</container>
             <unittitle>Notes and addresses</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">4 folders</extent>
@@ -999,8 +999,8 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
-            <container type="folder" label="Folder">155-158</container>
+            <container type="box" label="Box [6780629624492987484468790]" id="20701357-6c9d-4cc4-9e0f-b4174bb6d03e" altrender="box">4</container>
+            <container type="folder" label="Folder" parent="20701357-6c9d-4cc4-9e0f-b4174bb6d03e">155-158</container>
             <unittitle>Philosophy papers and addresses</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">4 folders</extent>
@@ -1009,8 +1009,8 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
-            <container type="folder" label="Folder">159-162</container>
+            <container type="box" label="Box [6780629624492987484468790]" id="cf32981b-4a39-4a56-a123-d9dcf6c55a69" altrender="box">4</container>
+            <container type="folder" label="Folder" parent="cf32981b-4a39-4a56-a123-d9dcf6c55a69">159-162</container>
             <unittitle>Addresses concerning religious issues</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">4 folders</extent>
@@ -1024,22 +1024,22 @@
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
-            <container type="folder" label="Folder">170</container>
+            <container type="box" label="Box [791013040885032302]" id="292fa8ad-7531-43c5-8b44-2cfbe24ce997" altrender="box">5</container>
+            <container type="folder" label="Folder" parent="292fa8ad-7531-43c5-8b44-2cfbe24ce997">170</container>
             <unittitle>University of Michigan examination questions</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
-            <container type="folder" label="Folder">171</container>
+            <container type="box" label="Box [791013040885032302]" id="c2ba683b-526e-4b14-9601-4ac9f4eed6e7" altrender="box">5</container>
+            <container type="folder" label="Folder" parent="c2ba683b-526e-4b14-9601-4ac9f4eed6e7">171</container>
             <unittitle>University of Michigan administrative responsibilities, etc.</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
-            <container type="folder" label="Folder">172-172</container>
+            <container type="box" label="Box [791013040885032302]" id="6954988c-bea2-4d62-8484-6335797b5dd0" altrender="box">5</container>
+            <container type="folder" label="Folder" parent="6954988c-bea2-4d62-8484-6335797b5dd0">172-172</container>
             <unittitle>Miscellaneous</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -1048,7 +1048,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [791013040885032302]" altrender="box">5</container>
             <unittitle>Essays (published and unpublished) and miscellaneous notes</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">8 folders</extent>
@@ -1057,31 +1057,31 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [791013040885032302]" altrender="box">5</container>
             <unittitle>Papers; include manuscript of Wenley's <title render="italic">Socrates and Christ</title></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [791013040885032302]" altrender="box">5</container>
             <unittitle>"Judaism and Philosophy of Religion" galley proofs</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [791013040885032302]" altrender="box">5</container>
             <unittitle>Book reviews</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [791013040885032302]" altrender="box">5</container>
             <unittitle>Miscellaneous notes and papers</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [791013040885032302]" altrender="box">5</container>
             <unittitle>Programs of non-university affairs</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -1090,7 +1090,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [791013040885032302]" altrender="box">5</container>
             <unittitle>
               <genreform source="aat" normal="Photographs">Photographs</genreform>
             </unittitle>
@@ -1104,7 +1104,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [4454145141109230786999]" altrender="box">6</container>
             <unittitle><genreform source="aat" normal="Diaries">Diaries</genreform>, <unitdate type="inclusive" normal="1896/1927">1896-1927</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">3 volumes</extent>
@@ -1116,7 +1116,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [4454145141109230786999]" altrender="box">6</container>
             <unittitle>American University Union, London, notebooks <unitdate type="inclusive" normal="1925/1927">1925-1927</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">8 volumes</extent>
@@ -1125,7 +1125,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [4454145141109230786999]" altrender="box">6</container>
             <unittitle>Miscellaneous notebooks, class registers, etc.</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">13 volumes</extent>
@@ -1134,7 +1134,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [4454145141109230786999]" altrender="box">6</container>
             <unittitle>Non-Wenley notebooks (Kate Gibson?)</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">5 volumes</extent>
@@ -1150,7 +1150,7 @@
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">7</container>
+            <container type="box" label="Box [490641463495224074]" altrender="box">7</container>
             <unittitle>
               <unitdate type="inclusive" normal="1889/1919">1889-1919</unitdate>
             </unittitle>
@@ -1158,7 +1158,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">7</container>
+            <container type="box" label="Box [490641463495224074]" altrender="box">7</container>
             <unittitle>
               <unitdate type="inclusive" normal="1884/1914">1884-1914</unitdate>
             </unittitle>
@@ -1166,7 +1166,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">7</container>
+            <container type="box" label="Box [490641463495224074]" altrender="box">7</container>
             <unittitle>
               <unitdate type="inclusive" normal="1914/1915">1914-1915</unitdate>
             </unittitle>
@@ -1174,7 +1174,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">8</container>
+            <container type="box" label="Box [0328469612448857585934]" altrender="box">8</container>
             <unittitle>
               <unitdate type="inclusive" normal="1915-12/1918-03">December 1915-March 1918</unitdate>
             </unittitle>
@@ -1182,7 +1182,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">8</container>
+            <container type="box" label="Box [0328469612448857585934]" altrender="box">8</container>
             <unittitle>
               <unitdate type="inclusive" normal="1918-03/1919-12">March 1918-December 1919</unitdate>
             </unittitle>
@@ -1190,7 +1190,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">9</container>
+            <container type="box" label="Box [84590844736428859168]" altrender="box">9</container>
             <unittitle>
               <unitdate type="inclusive" normal="1919-12/1923-09">December 1919-September 1923</unitdate>
             </unittitle>
@@ -1198,7 +1198,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">9</container>
+            <container type="box" label="Box [84590844736428859168]" altrender="box">9</container>
             <unittitle>
               <unitdate type="inclusive" normal="1923-10/1925">October 1923-1925</unitdate>
             </unittitle>
@@ -1206,7 +1206,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">10</container>
+            <container type="box" label="Box [568745204985279496744]" altrender="box">10</container>
             <unittitle>
               <unitdate type="inclusive" normal="1889-04/1889-11">April-November 1889</unitdate>
             </unittitle>
@@ -1214,7 +1214,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">10</container>
+            <container type="box" label="Box [568745204985279496744]" altrender="box">10</container>
             <unittitle>
               <unitdate type="inclusive" normal="1902/1910">1902-1910</unitdate>
             </unittitle>
@@ -1222,7 +1222,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">10</container>
+            <container type="box" label="Box [568745204985279496744]" altrender="box">10</container>
             <unittitle>
               <unitdate type="inclusive" normal="1925-08/1926-04">August 1925-April 1926</unitdate>
             </unittitle>
@@ -1230,7 +1230,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">10</container>
+            <container type="box" label="Box [568745204985279496744]" altrender="box">10</container>
             <unittitle>
               <unitdate type="inclusive" normal="1926-12/1927-07">December 1926-July 1927</unitdate>
             </unittitle>
@@ -1238,13 +1238,13 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">10</container>
+            <container type="box" label="Box [568745204985279496744]" altrender="box">10</container>
             <unittitle>Scrapbook (miscellaneous)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">10</container>
+            <container type="box" label="Box [568745204985279496744]" altrender="box">10</container>
             <unittitle>Foldered clippings</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">7 folders</extent>

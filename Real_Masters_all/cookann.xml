@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>University Archives and Records Program <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/2">University Archives and Records Program <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Ann Bradford Cook papers, 1914-1915, 1973-1979</titleproper>
       <author>Finding aid created by <lb/>Elise Reynolds, February 2014</author>
     </titlepage>
@@ -37,7 +37,9 @@
       <origination>
         <corpname source="lcnaf" encodinganalog="110">Cook, Ann Bradford.</corpname>
       </origination>
-      <unittitle encodinganalog="245">Ann Bradford Cook papers <unitdate type="inclusive" encodinganalog="245$f" normal="1914/1915">1914-1915</unitdate>, <unitdate type="inclusive" encodinganalog="245$f" normal="1973/1979">1973-1979</unitdate></unittitle>
+      <unittitle encodinganalog="245">Ann Bradford Cook papers</unittitle>
+      <unitdate type="inclusive" encodinganalog="245$f" normal="1914/1915">1914-1915</unitdate>
+      <unitdate type="inclusive" encodinganalog="245$f" normal="1973/1979">1973-1979</unitdate>
       <unitid encodinganalog="852$h" repositorycode="MiU-H" countrycode="us" type="call number">2014021 Aa2</unitid>
       <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language></langmaterial>
       <abstract>Photographs and printed material regarding the Martha Cook building on the University of Michigan campus, from Ann Cook, grandniece of benefactor William W. Cook.</abstract>
@@ -92,7 +94,7 @@ Ann Bradford Cook papers, Bentley Historical Library, University of Michigan</p>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -102,13 +104,13 @@ Ann Bradford Cook papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [9785221466855455]" altrender="box">1</container>
             <unittitle>Chernow, Olive <title render="italic">My Years at the Martha Cook Building</title>, <title render="italic">1973-1979</title></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [9785221466855455]" altrender="box">1</container>
             <unittitle>News Clippings <unitdate type="inclusive" normal="1915">1915</unitdate></unittitle>
           </did>
         </c02>
@@ -123,7 +125,7 @@ Ann Bradford Cook papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [9785221466855455]" altrender="box">1</container>
               <unittitle>Gold room</unittitle>
             </did>
           </c03>
@@ -134,31 +136,31 @@ Ann Bradford Cook papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [9785221466855455]" altrender="box">1</container>
               <unittitle>Gold room</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [9785221466855455]" altrender="box">1</container>
               <unittitle>Red Room showing portrait of Martha Cook</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [9785221466855455]" altrender="box">1</container>
               <unittitle>Exterior from west, with Samuel Parsons' garden in foreground</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [9785221466855455]" altrender="box">1</container>
               <unittitle>First floor entry hall; four chairs and Venus</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [9785221466855455]" altrender="box">1</container>
               <unittitle>Front entrance with Portia present</unittitle>
             </did>
           </c03>
@@ -169,13 +171,13 @@ Ann Bradford Cook papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [9785221466855455]" altrender="box">1</container>
               <unittitle>Gold room</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [9785221466855455]" altrender="box">1</container>
               <unittitle>Red Room (?)</unittitle>
             </did>
           </c03>
@@ -186,19 +188,19 @@ Ann Bradford Cook papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [9785221466855455]" altrender="box">1</container>
               <unittitle>Pile of bricks in foreground <unitdate type="inclusive" normal="1914-08-04">August 4, 1914</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [9785221466855455]" altrender="box">1</container>
               <unittitle>Foundations in <unitdate type="inclusive" normal="1914-09-01">September 1, 1914</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [9785221466855455]" altrender="box">1</container>
               <unittitle>Steel frame, brickwork on exterior <unitdate type="inclusive" normal="1914-10-01">October 1, 1914</unitdate></unittitle>
             </did>
           </c03>

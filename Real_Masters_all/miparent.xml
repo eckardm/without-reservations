@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Michigan Congress of Parents and Teachers <lb/>Records, 1891-1961</titleproper>
       <author>Finding aid created by <lb/>Michigan Historical Collections staff</author>
     </titlepage>
@@ -83,10 +83,10 @@ Michigan Congress of Parents and Teachers records, Bentley Historical Library, U
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <subject source="lcsh" encodinganalog="650">Education--Michigan.</subject>
-        <geogname source="lcsh" encodinganalog="651">Kalamazoo (Mich.)</geogname>
-        <subject source="lcsh" encodinganalog="650">Parents' and teachers' associations--Michigan.</subject>
-        <subject source="lcsh" encodinganalog="650">Schools--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5727">Education--Michigan.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/980">Kalamazoo (Mich.)</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/9373">Parents' and teachers' associations--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6458">Schools--Michigan.</subject>
       </controlaccess>
       <controlaccess>
         <head>Contributors:</head>
@@ -94,7 +94,7 @@ Michigan Congress of Parents and Teachers records, Bentley Historical Library, U
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Scrapbooks.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3139">Scrapbooks.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -104,169 +104,169 @@ Michigan Congress of Parents and Teachers records, Bentley Historical Library, U
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [1862161406377085106798]" altrender="box">1</container>
             <unittitle>Convention Books <unitdate type="inclusive" normal="1918/1937">1918-1937</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [798193504987003389837]" altrender="box">2</container>
             <unittitle>Convention Books <unitdate type="inclusive" normal="1938/1944">1938-1944</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [697376624588587807923]" altrender="box">3</container>
             <unittitle>Convention Books <unitdate type="inclusive" normal="1945/1951">1945-1951</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [697376624588587807923]" altrender="box">3</container>
             <unittitle>District Books (1-5)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [552923628400830514388]" altrender="box">4</container>
             <unittitle>District Books (6-8)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [552923628400830514388]" altrender="box">4</container>
             <unittitle>Bulletins of the Michigan Branch <unitdate type="inclusive" normal="1921/1951">1921-1951</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [1908834769355082208983]" altrender="box">5</container>
             <unittitle>Minutes <unitdate type="inclusive" normal="1918/1945">1918-1945</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [77080422812012553]" altrender="box">6</container>
             <unittitle>Minutes <unitdate type="inclusive" normal="1945/1954">1945-1954</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [77080422812012553]" altrender="box">6</container>
             <unittitle>Treasurers' Reports <unitdate type="inclusive" normal="1940/1952">1940-1952</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">7</container>
+            <container type="box" label="Box [3402764359313454819]" altrender="box">7</container>
             <unittitle>Procedure Books <unitdate type="inclusive" normal="1922/1943">1922-1943</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">7</container>
+            <container type="box" label="Box [3402764359313454819]" altrender="box">7</container>
             <unittitle>Literature Books <unitdate type="inclusive" normal="1919/1925">1919-1925</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">7</container>
+            <container type="box" label="Box [3402764359313454819]" altrender="box">7</container>
             <unittitle>Annual Reports <unitdate type="inclusive" normal="1931/1954">1931-1954</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">8</container>
+            <container type="box" label="Box [7860439733480901]" altrender="box">8</container>
             <unittitle>National Bulletins <unitdate type="inclusive" normal="1935/1954">1935-1954</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">8</container>
+            <container type="box" label="Box [7860439733480901]" altrender="box">8</container>
             <unittitle>National Publications</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">8</container>
+            <container type="box" label="Box [7860439733480901]" altrender="box">8</container>
             <unittitle>National Convention Materials</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">9</container>
+            <container type="box" label="Box [6490327477953167012203]" altrender="box">9</container>
             <unittitle>State Convention Materials</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">9</container>
+            <container type="box" label="Box [6490327477953167012203]" altrender="box">9</container>
             <unittitle>Historians Procedure Books <unitdate type="inclusive" normal="1927/1944">1927-1944</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">10</container>
+            <container type="box" label="Box [86160494981183314]" altrender="box">10</container>
             <unittitle>Historical Data <unitdate type="inclusive" normal="1891/1951">1891-1951</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">10</container>
+            <container type="box" label="Box [86160494981183314]" altrender="box">10</container>
             <unittitle>State Founders Day <unitdate type="inclusive" normal="1939/1940">1939-1940</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">10</container>
+            <container type="box" label="Box [86160494981183314]" altrender="box">10</container>
             <unittitle>Parent Education Institute</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">10</container>
+            <container type="box" label="Box [86160494981183314]" altrender="box">10</container>
             <unittitle>Publicity Material <unitdate type="inclusive" normal="1948/1949">1948-1949</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">10</container>
+            <container type="box" label="Box [86160494981183314]" altrender="box">10</container>
             <unittitle>State Chairman's Book <unitdate type="inclusive" normal="1921/1932">1921-1932</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">11</container>
+            <container type="box" label="Box [3373343347416069]" altrender="box">11</container>
             <unittitle>Conferences and Institutes <unitdate type="inclusive" normal="1924/1936">1924-1936</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">11</container>
+            <container type="box" label="Box [3373343347416069]" altrender="box">11</container>
             <unittitle>Life Members</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">11</container>
+            <container type="box" label="Box [3373343347416069]" altrender="box">11</container>
             <unittitle>Letterheads and Membership Cards</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">11</container>
+            <container type="box" label="Box [3373343347416069]" altrender="box">11</container>
             <unittitle>Michigan National Chairmen</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">11</container>
+            <container type="box" label="Box [3373343347416069]" altrender="box">11</container>
             <unittitle>District Four Records <unitdate type="inclusive" normal="1934/1942">1934-1942</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">11</container>
+            <container type="box" label="Box [3373343347416069]" altrender="box">11</container>
             <unittitle>
               <genreform normal="Scrapbooks">Scrapbooks</genreform>
             </unittitle>
@@ -274,7 +274,7 @@ Michigan Congress of Parents and Teachers records, Bentley Historical Library, U
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">12</container>
+            <container type="box" label="Box [52315913340891494296099172]" altrender="box">12</container>
             <unittitle>
               <genreform normal="Scrapbooks">Scrapbooks</genreform>
             </unittitle>
@@ -282,7 +282,7 @@ Michigan Congress of Parents and Teachers records, Bentley Historical Library, U
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">13</container>
+            <container type="box" label="Box [566040243969976]" altrender="box">13</container>
             <unittitle>
               <genreform normal="Scrapbooks">Scrapbooks</genreform>
             </unittitle>
@@ -290,7 +290,7 @@ Michigan Congress of Parents and Teachers records, Bentley Historical Library, U
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">14</container>
+            <container type="box" label="Box [3771327642329517631538]" altrender="box">14</container>
             <unittitle>
               <genreform normal="Scrapbooks">Scrapbooks</genreform>
             </unittitle>
@@ -298,97 +298,97 @@ Michigan Congress of Parents and Teachers records, Bentley Historical Library, U
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">1</container>
+            <container type="volume" label="Oversize Volume [0342155428108919147718]" altrender="volume">1</container>
             <unittitle>Scrapbook of contribution receipts</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">2</container>
+            <container type="volume" label="Oversize Volume [38694749816324740769]" altrender="volume">2</container>
             <unittitle><genreform normal="Scrapbooks">Scrapbook</genreform> of press clippings, <unitdate type="inclusive" normal="1942/1944">1942-1944</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">3</container>
+            <container type="volume" label="Oversize Volume [708653801495961893168]" altrender="volume">3</container>
             <unittitle><genreform normal="Scrapbooks">Scrapbook</genreform> of exhibit material, <unitdate type="inclusive" normal="1937/1938">1937-1938</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">4</container>
+            <container type="volume" label="Oversize Volume [481891924558835361928028]" altrender="volume">4</container>
             <unittitle>Thirty-fifth Annual Convention <genreform normal="Scrapbooks">Scrapbook</genreform>, <unitdate type="inclusive" normal="1952">1952</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">5</container>
+            <container type="volume" label="Oversize Volume [445127834049419471883961168]" altrender="volume">5</container>
             <unittitle>Thirty-sixth Annual Convention <genreform normal="Scrapbooks">Scrapbook</genreform>, <unitdate type="inclusive" normal="1953">1953</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">6</container>
+            <container type="volume" label="Oversize Volume [246768604428797888355750]" altrender="volume">6</container>
             <unittitle>Thirty-seventh Annual Convention <genreform normal="Scrapbooks">Scrapbook</genreform>, <unitdate type="inclusive" normal="1954">1954</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">15</container>
+            <container type="box" label="Box [497427024696672692383]" altrender="box">15</container>
             <unittitle>Minutes <unitdate type="inclusive" normal="1945/1960">1945-1960</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">16</container>
+            <container type="box" label="Box [01125864204809266790]" altrender="box">16</container>
             <unittitle>State Chairman's Books <unitdate type="inclusive" normal="1932/1939">1932-1939</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">16</container>
+            <container type="box" label="Box [01125864204809266790]" altrender="box">16</container>
             <unittitle>State Convention Materials</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">16</container>
+            <container type="box" label="Box [01125864204809266790]" altrender="box">16</container>
             <unittitle>Historical Materials</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">16</container>
+            <container type="box" label="Box [01125864204809266790]" altrender="box">16</container>
             <unittitle>Treasurers Records <unitdate type="inclusive" normal="1952/1958">1952-1958</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">16</container>
+            <container type="box" label="Box [01125864204809266790]" altrender="box">16</container>
             <unittitle>Scholarships Awarded <unitdate type="inclusive" normal="1957/1958">1957-1958</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">16</container>
+            <container type="box" label="Box [01125864204809266790]" altrender="box">16</container>
             <unittitle>Scholarships Awarded <unitdate type="inclusive" normal="1958/1959">1958-1959</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">17</container>
+            <container type="box" label="Box [268467104378999811972175]" altrender="box">17</container>
             <unittitle>Secretary's Book <unitdate type="inclusive" normal="1951/1955">1951-1955</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">17</container>
+            <container type="box" label="Box [268467104378999811972175]" altrender="box">17</container>
             <unittitle>Miscellanea</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">18</container>
+            <container type="box" label="Box [46918832478323685069]" altrender="box">18</container>
             <unittitle>Records of the Kalamazoo County Council <unitdate type="inclusive" normal="1927/1953">1927-1953</unitdate></unittitle>
           </did>
         </c02>

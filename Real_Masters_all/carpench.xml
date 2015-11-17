@@ -26,7 +26,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Charles William Carpenter Papers, 1909-1970</titleproper>
       <author>Finding aid created by <lb/>Michigan Historical Collections staff, 2004</author>
     </titlepage>
@@ -78,19 +78,19 @@ Charles William Carpenter Papers, Bentley Historical Library, University of Mich
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <subject source="lcsh" encodinganalog="650">African Americans--Michigan.</subject>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n79022219.html">Ann Arbor (Mich.)</geogname>
-        <subject source="lcsh" encodinganalog="650">Clergy--Michigan--Ann Arbor.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5756">African Americans--Michigan.</subject>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n79022219.html" ref="/subjects/860">Ann Arbor (Mich.)</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6441">Clergy--Michigan--Ann Arbor.</subject>
         <corpname source="lcnaf" encodinganalog="610">Second Baptist Church (Ann Arbor, Mich.)</corpname>
         <corpname source="lcnaf" encodinganalog="610">Tuskegee Institute.</corpname>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Materials:</head>
-        <subject source="lctgm" encodinganalog="650">African Americans--Spiritual life.</subject>
-        <geogname source="lctgm" encodinganalog="651">Ann Arbor (Mich.)--Churches.</geogname>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4019">African Americans--Spiritual life.</subject>
+        <geogname source="lctgm" encodinganalog="651" ref="/subjects/211">Ann Arbor (Mich.)--Churches.</geogname>
         <persname source="lcnaf" encodinganalog="600">Carpenter, Charles William, 1886-1971.</persname>
-        <subject source="lctgm" encodinganalog="650">Churches--Michigan--Ann Arbor.</subject>
-        <subject source="lctgm" encodinganalog="650">Interiors.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3591">Churches--Michigan--Ann Arbor.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3689">Interiors.</subject>
         <corpname source="lcnaf" encodinganalog="610">Second Baptist Church (Ann Arbor, Mich.)</corpname>
       </controlaccess>
       <controlaccess>
@@ -100,7 +100,7 @@ Charles William Carpenter Papers, Bentley Historical Library, University of Mich
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -110,7 +110,7 @@ Charles William Carpenter Papers, Bentley Historical Library, University of Mich
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [19093049901774998]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1909/1950">1909-1950</unitdate>
             </unittitle>
@@ -118,7 +118,7 @@ Charles William Carpenter Papers, Bentley Historical Library, University of Mich
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [19093049901774998]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1951/1960">1951-1960</unitdate>
             </unittitle>
@@ -126,7 +126,7 @@ Charles William Carpenter Papers, Bentley Historical Library, University of Mich
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [19093049901774998]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1961/1966">1961-1966</unitdate>
             </unittitle>
@@ -139,25 +139,25 @@ Charles William Carpenter Papers, Bentley Historical Library, University of Mich
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [19093049901774998]" altrender="box">1</container>
             <unittitle>Ann Arbor Human Relations Commission <unitdate type="inclusive" normal="1963/1965">1963-1965</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [19093049901774998]" altrender="box">1</container>
             <unittitle>Citizens Advisory Committee for Workable Program <unitdate type="inclusive" normal="1963/1970">1963-1970</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [19093049901774998]" altrender="box">1</container>
             <unittitle>Ann Arbor "Fair Housing" ordinance <unitdate type="inclusive" normal="1963">1963</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [19093049901774998]" altrender="box">1</container>
             <unittitle>Ann Arbor Bus Committee <unitdate type="inclusive" normal="1956">1956</unitdate></unittitle>
           </did>
         </c02>
@@ -168,8 +168,10 @@ Charles William Carpenter Papers, Bentley Historical Library, University of Mich
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <unittitle>Sermons <unitdate type="inclusive">undated</unitdate>, <unitdate type="inclusive" normal="1929/1966">1929-1966</unitdate></unittitle>
+            <container type="box" label="Box [19093049901774998]" altrender="box">1</container>
+            <unittitle>Sermons</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <unitdate type="inclusive" normal="1929/1966">1929-1966</unitdate>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">11 folders</extent>
             </physdesc>
@@ -177,13 +179,13 @@ Charles William Carpenter Papers, Bentley Historical Library, University of Mich
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [19093049901774998]" altrender="box">1</container>
             <unittitle>Christmas sermons</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [19093049901774998]" altrender="box">1</container>
             <unittitle>Radio sermons</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -192,13 +194,13 @@ Charles William Carpenter Papers, Bentley Historical Library, University of Mich
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [19093049901774998]" altrender="box">1</container>
             <unittitle>Sermons by guest speakers</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [19093049901774998]" altrender="box">1</container>
             <unittitle>Prayers</unittitle>
           </did>
         </c02>
@@ -209,55 +211,55 @@ Charles William Carpenter Papers, Bentley Historical Library, University of Mich
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [19093049901774998]" altrender="box">1</container>
             <unittitle>Sessions minutes of the Ontario Annual Conference of the African Methodist Episcopal Church <unitdate type="inclusive" normal="1925/1926">1925-1926</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [19093049901774998]" altrender="box">1</container>
             <unittitle>National Baptist Convention <unitdate type="inclusive" normal="1957/1965">1957-1965</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [19093049901774998]" altrender="box">1</container>
             <unittitle>Financial reports of the Ann Arbor Second Baptist Church <unitdate type="inclusive" normal="1942/1961">1942-1961</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [19093049901774998]" altrender="box">1</container>
             <unittitle>Miscellaneous programs of services, Ann Arbor Second Baptist Church</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [19093049901774998]" altrender="box">1</container>
             <unittitle>Harvest Home Celebration, Ann Arbor Second Baptist Church</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [19093049901774998]" altrender="box">1</container>
             <unittitle>Constitution and by-laws, Ann Arbor Second Baptist Church</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [19093049901774998]" altrender="box">1</container>
             <unittitle>Miscellaneous Sunday School material</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [19093049901774998]" altrender="box">1</container>
             <unittitle>Report to the General Baptist State Convention on the depression with particular reference to the Negro <unitdate type="inclusive" normal="1933-08">August 1933</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [19093049901774998]" altrender="box">1</container>
             <unittitle>Miscellanea</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -266,13 +268,13 @@ Charles William Carpenter Papers, Bentley Historical Library, University of Mich
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [19093049901774998]" altrender="box">1</container>
             <unittitle>Church bulletins</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [19093049901774998]" altrender="box">1</container>
             <unittitle>Miscellaneous printed materials</unittitle>
           </did>
         </c02>
@@ -285,7 +287,7 @@ Charles William Carpenter Papers, Bentley Historical Library, University of Mich
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [19093049901774998]" altrender="box">1</container>
             <unittitle>Photos of Second Baptist Church and church functions; also photos of Carpenter at other ceremonies</unittitle>
           </did>
           <odd>

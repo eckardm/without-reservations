@@ -45,7 +45,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>University Archives and Records Program <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/2">University Archives and Records Program <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding Aid for <lb/>University of Michigan. <lb/>Department of Recreational Sports <lb/>Records, <date>1913-1992</date></titleproper>
       <author>Finding aid prepared by: <lb/>Greg Kinney, 1996</author>
     </titlepage>
@@ -55,7 +55,9 @@
       <origination>
         <corpname source="lcnaf" encodinganalog="110">University of Michigan. Dept. of Recreational Sports.</corpname>
       </origination>
-      <unittitle encodinganalog="245">Department of Recreational Sports (University of Michigan) records <unitdate encodinganalog="245$f" type="inclusive" normal="1913/1992">1913-1992</unitdate>, <unitdate encodinganalog="245$g" type="bulk" normal="1922/1988">1922-1988</unitdate></unittitle>
+      <unittitle encodinganalog="245">Department of Recreational Sports (University of Michigan) records</unittitle>
+      <unitdate encodinganalog="245$f" type="inclusive" normal="1913/1992">1913-1992</unitdate>
+      <unitdate encodinganalog="245$g" type="bulk" normal="1922/1988">1922-1988</unitdate>
       <unitid countrycode="us" repositorycode="MiU-H" encodinganalog="099" type="call number">9649 Bimu 2</unitid>
       <langmaterial>The materials are in <language encodinganalog="041" langcode="eng">English.</language></langmaterial>
       <physloc>Portions of the collection are stored offsite; two days notice required for retrieval.</physloc>
@@ -105,13 +107,13 @@
           <item>Historical File</item>
           <item>Administrative Records, 1929-1984, (bulk 1968-1984)
             <list type="simple">
-              <item>ACRICS (Advisory Committee on Recreation, Intramurals and Club Sports), 1968-1984</item>
-              <item>President's Advisory Committee</item>
-              <item>General Administrative</item>
-              <item>Reports</item>
-              <item>Topical File</item>
-              <item>Photographs</item>
-              <item>Big Ten Recreational Sports Directors Association</item>
+              <item altrender="skip">ACRICS (Advisory Committee on Recreation, Intramurals and Club Sports), 1968-1984</item>
+              <item altrender="skip">President's Advisory Committee</item>
+              <item altrender="skip">General Administrative</item>
+              <item altrender="skip">Reports</item>
+              <item altrender="skip">Topical File</item>
+              <item altrender="skip">Photographs</item>
+              <item altrender="skip">Big Ten Recreational Sports Directors Association</item>
             </list>
           </item>
           <item>Intramural Competition Results, 1922-1989</item>
@@ -129,14 +131,14 @@
       <controlaccess>
         <head>Subject</head>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan. Dept. of Recreational Sports.</corpname>
-        <subject source="lcsh" encodinganalog="650">Intramural sports--Michigan--Ann Arbor.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/9853">Intramural sports--Michigan--Ann Arbor.</subject>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan--Sports.</corpname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan. Advisory Committee on Recreation, Intramurals and Club Sports.</corpname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan. Athletic Dept.</corpname>
       </controlaccess>
       <controlaccess>
         <head>Form and Genre:</head>
-        <genreform source="aat" encodinganalog="655">Scrapbooks.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3139">Scrapbooks.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -149,7 +151,7 @@
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [9635973448484984271]" altrender="box">1</container>
             <unittitle>Historical file</unittitle>
           </did>
         </c02>
@@ -174,7 +176,7 @@
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [9635973448484984271]" altrender="box">1</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1968">1968</unitdate>
                 </unittitle>
@@ -182,7 +184,7 @@
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [9635973448484984271]" altrender="box">1</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1969">1969</unitdate>
                 </unittitle>
@@ -193,7 +195,7 @@
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [9635973448484984271]" altrender="box">1</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1970">1970</unitdate>
                 </unittitle>
@@ -201,7 +203,7 @@
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [9635973448484984271]" altrender="box">1</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1971">1971</unitdate>
                 </unittitle>
@@ -209,7 +211,7 @@
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [9635973448484984271]" altrender="box">1</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1972">1972</unitdate>
                 </unittitle>
@@ -217,7 +219,7 @@
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [9635973448484984271]" altrender="box">1</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1973">1973</unitdate>
                 </unittitle>
@@ -228,7 +230,7 @@
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [9635973448484984271]" altrender="box">1</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1974">1974</unitdate>
                 </unittitle>
@@ -236,7 +238,7 @@
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [9635973448484984271]" altrender="box">1</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1975">1975</unitdate>
                 </unittitle>
@@ -244,7 +246,7 @@
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [9635973448484984271]" altrender="box">1</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1976/1984">1976-1984</unitdate>
                 </unittitle>
@@ -253,13 +255,13 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [9635973448484984271]" altrender="box">1</container>
               <unittitle>ACRICS Handbook <unitdate type="inclusive" normal="1982/1983">1982/83</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [9635973448484984271]" altrender="box">1</container>
               <unittitle>Building Program <unitdate type="inclusive" normal="1969/1974">1969-1974</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -268,7 +270,7 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [9635973448484984271]" altrender="box">1</container>
               <unittitle>Central Campus Building Subcommittee <unitdate type="inclusive" normal="1973/1976">1973-1976</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -277,7 +279,7 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [9635973448484984271]" altrender="box">1</container>
               <unittitle>North Campus Recreation Building Committee <unitdate type="inclusive" normal="1973">1973</unitdate></unittitle>
             </did>
           </c03>
@@ -287,32 +289,32 @@
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [9635973448484984271]" altrender="box">1</container>
                 <unittitle>"Kirscht Report," <unitdate type="inclusive" normal="1969">1969</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [9635973448484984271]" altrender="box">1</container>
                 <unittitle>Publicity</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [9635973448484984271]" altrender="box">1</container>
                 <unittitle>Hearings and Conference Notes <unitdate type="inclusive" normal="1969">1969</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [9635973448484984271]" altrender="box">1</container>
                 <unittitle>Surveys and Reports <unitdate type="inclusive" normal="1963/1968">1963-1968</unitdate></unittitle>
               </did>
             </c04>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [3848494095463]" altrender="box">2</container>
               <unittitle>Subcommittee on Needs and Facilities <unitdate type="inclusive" normal="1969/1971">1969-1971</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -329,13 +331,13 @@
           </scopecontent>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [3848494095463]" altrender="box">2</container>
               <unittitle>Minutes <unitdate type="inclusive" normal="1967">1967</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [3848494095463]" altrender="box">2</container>
               <unittitle>Report <unitdate type="inclusive" normal="1967">1967</unitdate></unittitle>
             </did>
             <odd>
@@ -344,7 +346,7 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [3848494095463]" altrender="box">2</container>
               <unittitle>Background material</unittitle>
             </did>
           </c03>
@@ -355,7 +357,7 @@
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [3848494095463]" altrender="box">2</container>
               <unittitle>Correspondence and Miscellaneous reports <unitdate type="inclusive" normal="1963/1974" certainty="approximate">circa 1963-1974</unitdate></unittitle>
             </did>
           </c03>
@@ -365,19 +367,19 @@
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [3848494095463]" altrender="box">2</container>
                 <unittitle>Business Operations</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [3848494095463]" altrender="box">2</container>
                 <unittitle>Personnel</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [3848494095463]" altrender="box">2</container>
                 <unittitle>Programs</unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -387,7 +389,7 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [3848494095463]" altrender="box">2</container>
               <unittitle>Program Master Plan <unitdate type="inclusive" normal="1979/1980">1979/80</unitdate></unittitle>
             </did>
           </c03>
@@ -401,11 +403,13 @@
           </scopecontent>
           <c03 level="file">
             <did>
-              <unittitle>Annual Reports <unitdate type="inclusive" normal="1980">1980</unitdate>, <unitdate type="inclusive" normal="1983/1991">1983-1991</unitdate></unittitle>
+              <unittitle>Annual Reports</unittitle>
+              <unitdate type="inclusive" normal="1980">1980</unitdate>
+              <unitdate type="inclusive" normal="1983/1991">1983-1991</unitdate>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">15</container>
+                <container type="box" label="Box [8822475045230008796040]" altrender="box">15</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1980">1980</unitdate>
                 </unittitle>
@@ -413,7 +417,7 @@
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">15</container>
+                <container type="box" label="Box [8822475045230008796040]" altrender="box">15</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1982/1986">1982/1983-1985/1986</unitdate>
                 </unittitle>
@@ -421,7 +425,7 @@
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">15</container>
+                <container type="box" label="Box [8822475045230008796040]" altrender="box">15</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1987/1991">1987/88-1990/1991</unitdate>
                 </unittitle>
@@ -430,37 +434,37 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [3848494095463]" altrender="box">2</container>
               <unittitle>"Cutler Study" on "Recreation Function at University of Michigan," <unitdate type="inclusive" normal="1966">1966</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [3848494095463]" altrender="box">2</container>
               <unittitle>Dept. of Physical Education Reorganization <unitdate type="inclusive" normal="1965/1972">1965-1972</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [3848494095463]" altrender="box">2</container>
               <unittitle>Organization Structure of Dept. of Physical Education and Athletics</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [3848494095463]" altrender="box">2</container>
               <unittitle>Recreational Interest of P.E. Majors, Survey <unitdate type="inclusive" normal="1964">1964</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [3848494095463]" altrender="box">2</container>
               <unittitle>The University of Michigan's Recreational Sports Program: Observations and Recommendations" <unitdate type="inclusive" normal="1980">1980</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [3848494095463]" altrender="box">2</container>
               <unittitle>"White Building Report," <unitdate type="inclusive" normal="1971">1971</unitdate> (report of committee headed by James White, recommending construction of new recreation building.)</unittitle>
             </did>
           </c03>
@@ -474,7 +478,7 @@
           </scopecontent>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [3848494095463]" altrender="box">2</container>
               <unittitle>Big Ten Basketball Tournament <unitdate type="inclusive" normal="1973">1973</unitdate></unittitle>
             </did>
           </c03>
@@ -484,56 +488,56 @@
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [3848494095463]" altrender="box">2</container>
                 <unittitle>Central Campus Building Proposal <unitdate type="inclusive" normal="1972">1972</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [3848494095463]" altrender="box">2</container>
                 <unittitle>Fuller Road Ice Rink <unitdate type="inclusive" normal="1969/1970">1969-1970</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [3848494095463]" altrender="box">2</container>
                 <unittitle>Fuller Road Pool Development <unitdate type="inclusive" normal="1966/1970">1966-1970</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [3848494095463]" altrender="box">2</container>
                 <unittitle>Huron High School Tennis Courts <unitdate type="inclusive" normal="1969/1970">1969-1970</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [3848494095463]" altrender="box">2</container>
                 <unittitle>Intramural Building</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [3848494095463]" altrender="box">2</container>
                 <unittitle>Recreation Facility Development, Miscellaneous</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [3848494095463]" altrender="box">2</container>
                 <unittitle>Sports Service Building <unitdate type="inclusive" normal="1971">1971</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [3848494095463]" altrender="box">2</container>
                 <unittitle>Wines Field <unitdate type="inclusive" normal="1968/1972">1968-1972</unitdate></unittitle>
               </did>
             </c04>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [5739384337640706103]" altrender="box">3</container>
               <unittitle>Indo-European Sports Association</unittitle>
             </did>
           </c03>
@@ -543,7 +547,7 @@
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [5739384337640706103]" altrender="box">3</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1929/1955">1929-1955</unitdate>
                 </unittitle>
@@ -551,7 +555,7 @@
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [5739384337640706103]" altrender="box">3</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1956/1976">1956-1976</unitdate>
                 </unittitle>
@@ -560,25 +564,25 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [5739384337640706103]" altrender="box">3</container>
               <unittitle>PAIFS Program (Physical Activity Instruction for Faculty and Staff) <unitdate type="inclusive" normal="1979/1980">1979/80</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [5739384337640706103]" altrender="box">3</container>
               <unittitle>Participant Surveys <unitdate type="inclusive" normal="1986/1988">1986-1988</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [5739384337640706103]" altrender="box">3</container>
               <unittitle>Staff Handbook <unitdate type="inclusive" normal="1969/1970">1969/70</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [5739384337640706103]" altrender="box">3</container>
               <unittitle>User Fee Report <unitdate type="inclusive" normal="1974">1974</unitdate></unittitle>
             </did>
           </c03>
@@ -589,7 +593,7 @@
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [5739384337640706103]" altrender="box">3</container>
               <unittitle>I-M program, buildings, and hiring of Athletic Director</unittitle>
             </did>
           </c03>
@@ -603,7 +607,7 @@
           </scopecontent>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [5739384337640706103]" altrender="box">3</container>
               <unittitle>Trophy display, boxing, first "Open House" in 1929</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">10 items</extent>
@@ -624,7 +628,7 @@
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [943721444448699977988]" altrender="box">4</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1922/1974">1922-1974</unitdate>
                 </unittitle>
@@ -632,7 +636,7 @@
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [943721444448699977988]" altrender="box">4</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1975/1981">1975-1981</unitdate>
                 </unittitle>
@@ -640,7 +644,7 @@
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [943721444448699977988]" altrender="box">4</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1982/1985">1982-1985</unitdate>
                 </unittitle>
@@ -648,7 +652,7 @@
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [943721444448699977988]" altrender="box">4</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1986/1989">1986-1989</unitdate>
                 </unittitle>
@@ -656,7 +660,7 @@
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [943721444448699977988]" altrender="box">4</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1990/1992">1990-1992</unitdate>
                 </unittitle>
@@ -664,7 +668,7 @@
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [943721444448699977988]" altrender="box">4</container>
                 <unittitle>Synthesis and analysis of minutes <unitdate type="inclusive" normal="1922/1968">1922-1968</unitdate></unittitle>
               </did>
             </c04>
@@ -680,7 +684,7 @@
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [943721444448699977988]" altrender="box">4</container>
             <unittitle>All Campus and League Champions <unitdate type="inclusive" normal="1922/1947">1922-1947</unitdate></unittitle>
           </did>
         </c02>
@@ -690,7 +694,7 @@
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [943721444448699977988]" altrender="box">4</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1931/1967">1931/32-1966/67</unitdate>
               </unittitle>
@@ -703,7 +707,7 @@
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [7503781498489510239]" altrender="box">5</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1928/1939">1928/29-1938/39</unitdate>
               </unittitle>
@@ -711,7 +715,7 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [7503781498489510239]" altrender="box">5</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1939/1952">1939/40-1951/52</unitdate>
               </unittitle>
@@ -719,7 +723,7 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [7503781498489510239]" altrender="box">5</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1952/1959">1952/53-1958/59</unitdate>
               </unittitle>
@@ -727,7 +731,7 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [7503781498489510239]" altrender="box">5</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1959/1967">1959/60-1966/67</unitdate>
               </unittitle>
@@ -740,7 +744,7 @@
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [7503781498489510239]" altrender="box">5</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1931/1940">1931/32-1939/40</unitdate>
               </unittitle>
@@ -748,7 +752,7 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [7503781498489510239]" altrender="box">5</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1940/1954">1940/41-1953/54</unitdate>
               </unittitle>
@@ -756,7 +760,7 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [7503781498489510239]" altrender="box">5</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1956/1967">1956/57-1966/67</unitdate>
               </unittitle>
@@ -772,7 +776,7 @@
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [30970024087800762248]" altrender="box">6</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1940/1954">1940/41-1953/54</unitdate>
               </unittitle>
@@ -780,7 +784,7 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [30970024087800762248]" altrender="box">6</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1954/1967">1954/55-1966/67</unitdate>
               </unittitle>
@@ -793,7 +797,7 @@
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [30970024087800762248]" altrender="box">6</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1937/1954">1937/38-1954/54</unitdate>
               </unittitle>
@@ -806,7 +810,7 @@
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [30970024087800762248]" altrender="box">6</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1939/1951">1939/40-1950/51</unitdate>
               </unittitle>
@@ -814,7 +818,7 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [30970024087800762248]" altrender="box">6</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1951/1960">1951/52-1959/60</unitdate>
               </unittitle>
@@ -822,7 +826,7 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [30970024087800762248]" altrender="box">6</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1960/1967">1960/61-1966/67</unitdate>
               </unittitle>
@@ -831,7 +835,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">7</container>
+            <container type="box" label="Box [85296214619289965134]" altrender="box">7</container>
             <unittitle>International Center <unitdate type="inclusive" normal="1957/1964">1957/58-1963/64</unitdate></unittitle>
           </did>
         </c02>
@@ -841,7 +845,7 @@
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">7</container>
+              <container type="box" label="Box [85296214619289965134]" altrender="box">7</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1954/1967">1954/55-1966/67</unitdate>
               </unittitle>
@@ -852,7 +856,7 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">7</container>
+              <container type="box" label="Box [85296214619289965134]" altrender="box">7</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1967/1970">1967/68-1969/70</unitdate>
               </unittitle>
@@ -865,7 +869,7 @@
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">7</container>
+              <container type="box" label="Box [85296214619289965134]" altrender="box">7</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1948/1961">1948-1961</unitdate>
               </unittitle>
@@ -876,7 +880,7 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">7</container>
+              <container type="box" label="Box [85296214619289965134]" altrender="box">7</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1965/1968">1965-1968</unitdate>
               </unittitle>
@@ -885,7 +889,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">7</container>
+            <container type="box" label="Box [85296214619289965134]" altrender="box">7</container>
             <unittitle>
               <unitdate type="inclusive" normal="1968/1970">1968/69-1969/70</unitdate>
             </unittitle>
@@ -896,13 +900,13 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">7</container>
+            <container type="box" label="Box [85296214619289965134]" altrender="box">7</container>
             <unittitle><unitdate type="inclusive" normal="1968/1969">1968/69</unitdate> (incomplete)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">7</container>
+            <container type="box" label="Box [85296214619289965134]" altrender="box">7</container>
             <unittitle>
               <unitdate type="inclusive" normal="1970/1971">1970/71</unitdate>
             </unittitle>
@@ -919,7 +923,7 @@
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">7</container>
+              <container type="box" label="Box [85296214619289965134]" altrender="box">7</container>
               <unittitle>Fall</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -928,7 +932,7 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">7</container>
+              <container type="box" label="Box [85296214619289965134]" altrender="box">7</container>
               <unittitle>Winter</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -938,7 +942,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">8</container>
+            <container type="box" label="Box [60450458451710629506]" altrender="box">8</container>
             <unittitle>
               <unitdate type="inclusive" normal="1972/1973">1972/73</unitdate>
             </unittitle>
@@ -955,7 +959,7 @@
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">8</container>
+              <container type="box" label="Box [60450458451710629506]" altrender="box">8</container>
               <unittitle>Women (M-Gals Division)</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">4 folders</extent>
@@ -971,7 +975,7 @@
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">8</container>
+              <container type="box" label="Box [60450458451710629506]" altrender="box">8</container>
               <unittitle>Participation Summaries</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -980,7 +984,7 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">8</container>
+              <container type="box" label="Box [60450458451710629506]" altrender="box">8</container>
               <unittitle>Results</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">5 folders</extent>
@@ -989,7 +993,7 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">8</container>
+              <container type="box" label="Box [60450458451710629506]" altrender="box">8</container>
               <unittitle>Women's Division Results</unittitle>
             </did>
           </c03>
@@ -1002,7 +1006,7 @@
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">8</container>
+              <container type="box" label="Box [60450458451710629506]" altrender="box">8</container>
               <unittitle>Participation Summaries</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -1011,7 +1015,7 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">8</container>
+              <container type="box" label="Box [60450458451710629506]" altrender="box">8</container>
               <unittitle>Results</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">5 folders</extent>
@@ -1027,13 +1031,13 @@
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">8</container>
+              <container type="box" label="Box [60450458451710629506]" altrender="box">8</container>
               <unittitle>Participation Summaries</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">8</container>
+              <container type="box" label="Box [60450458451710629506]" altrender="box">8</container>
               <unittitle>Results</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">5 folders</extent>
@@ -1042,7 +1046,7 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">8</container>
+              <container type="box" label="Box [60450458451710629506]" altrender="box">8</container>
               <unittitle>Spring/Summer</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -1058,13 +1062,13 @@
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">10</container>
+              <container type="box" label="Box [2102043194690980914582]" altrender="box">10</container>
               <unittitle>Participation Summaries</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">10</container>
+              <container type="box" label="Box [2102043194690980914582]" altrender="box">10</container>
               <unittitle>Results</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">6 folders</extent>
@@ -1080,7 +1084,7 @@
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">10</container>
+              <container type="box" label="Box [2102043194690980914582]" altrender="box">10</container>
               <unittitle>Participation Summaries</unittitle>
             </did>
           </c03>
@@ -1090,19 +1094,19 @@
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">10</container>
+                <container type="box" label="Box [2102043194690980914582]" altrender="box">10</container>
                 <unittitle>All-Campus</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">10</container>
+                <container type="box" label="Box [2102043194690980914582]" altrender="box">10</container>
                 <unittitle>Co-Rec/Women/Graduate/Faculty</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">10</container>
+                <container type="box" label="Box [2102043194690980914582]" altrender="box">10</container>
                 <unittitle>Fraternity</unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -1111,7 +1115,7 @@
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">10</container>
+                <container type="box" label="Box [2102043194690980914582]" altrender="box">10</container>
                 <unittitle>Independent</unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -1120,7 +1124,7 @@
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">10</container>
+                <container type="box" label="Box [2102043194690980914582]" altrender="box">10</container>
                 <unittitle>Spring/Summer</unittitle>
               </did>
             </c04>
@@ -1134,7 +1138,7 @@
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">10</container>
+              <container type="box" label="Box [2102043194690980914582]" altrender="box">10</container>
               <unittitle>Participation Summaries</unittitle>
             </did>
           </c03>
@@ -1144,7 +1148,7 @@
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">10</container>
+                <container type="box" label="Box [2102043194690980914582]" altrender="box">10</container>
                 <unittitle>All-Campus</unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -1153,13 +1157,13 @@
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">11</container>
+                <container type="box" label="Box [3061731124920814486096921]" altrender="box">11</container>
                 <unittitle>Co-Rec</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">11</container>
+                <container type="box" label="Box [3061731124920814486096921]" altrender="box">11</container>
                 <unittitle>Faculty and Graduate</unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -1168,7 +1172,7 @@
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">11</container>
+                <container type="box" label="Box [3061731124920814486096921]" altrender="box">11</container>
                 <unittitle>Fraternity</unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -1177,7 +1181,7 @@
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">11</container>
+                <container type="box" label="Box [3061731124920814486096921]" altrender="box">11</container>
                 <unittitle>Independent</unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -1186,7 +1190,7 @@
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">11</container>
+                <container type="box" label="Box [3061731124920814486096921]" altrender="box">11</container>
                 <unittitle>Residence Hall</unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -1195,19 +1199,19 @@
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">11</container>
+                <container type="box" label="Box [3061731124920814486096921]" altrender="box">11</container>
                 <unittitle>Women</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">11</container>
+                <container type="box" label="Box [3061731124920814486096921]" altrender="box">11</container>
                 <unittitle>Spring</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">11</container>
+                <container type="box" label="Box [3061731124920814486096921]" altrender="box">11</container>
                 <unittitle>Summer</unittitle>
               </did>
             </c04>
@@ -1221,7 +1225,7 @@
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">11</container>
+              <container type="box" label="Box [3061731124920814486096921]" altrender="box">11</container>
               <unittitle>Participation Summaries</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -1234,7 +1238,7 @@
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">11</container>
+                <container type="box" label="Box [3061731124920814486096921]" altrender="box">11</container>
                 <unittitle>Fraternity</unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -1243,7 +1247,7 @@
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">11</container>
+                <container type="box" label="Box [3061731124920814486096921]" altrender="box">11</container>
                 <unittitle>Independent</unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -1252,19 +1256,19 @@
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">11</container>
+                <container type="box" label="Box [3061731124920814486096921]" altrender="box">11</container>
                 <unittitle>Women</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">12</container>
+                <container type="box" label="Box [840616147904599058093]" altrender="box">12</container>
                 <unittitle>Spring</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">12</container>
+                <container type="box" label="Box [840616147904599058093]" altrender="box">12</container>
                 <unittitle>Summer</unittitle>
               </did>
             </c04>
@@ -1278,7 +1282,7 @@
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">12</container>
+              <container type="box" label="Box [840616147904599058093]" altrender="box">12</container>
               <unittitle>Participation Summaries</unittitle>
             </did>
           </c03>
@@ -1288,25 +1292,25 @@
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">12</container>
+                <container type="box" label="Box [840616147904599058093]" altrender="box">12</container>
                 <unittitle>All-Campus</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">12</container>
+                <container type="box" label="Box [840616147904599058093]" altrender="box">12</container>
                 <unittitle>Co-Rec</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">12</container>
+                <container type="box" label="Box [840616147904599058093]" altrender="box">12</container>
                 <unittitle>Faculty and Graduate</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">12</container>
+                <container type="box" label="Box [840616147904599058093]" altrender="box">12</container>
                 <unittitle>Fraternity</unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -1315,7 +1319,7 @@
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">12</container>
+                <container type="box" label="Box [840616147904599058093]" altrender="box">12</container>
                 <unittitle>Independent</unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -1324,13 +1328,13 @@
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">12</container>
+                <container type="box" label="Box [840616147904599058093]" altrender="box">12</container>
                 <unittitle>Residence Hall</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">12</container>
+                <container type="box" label="Box [840616147904599058093]" altrender="box">12</container>
                 <unittitle>Women</unittitle>
               </did>
             </c04>
@@ -1344,7 +1348,7 @@
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">12</container>
+              <container type="box" label="Box [840616147904599058093]" altrender="box">12</container>
               <unittitle>Participation Summaries</unittitle>
             </did>
           </c03>
@@ -1354,49 +1358,49 @@
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">12</container>
+                <container type="box" label="Box [840616147904599058093]" altrender="box">12</container>
                 <unittitle>All-Campus</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">12</container>
+                <container type="box" label="Box [840616147904599058093]" altrender="box">12</container>
                 <unittitle>Co-Rec</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">12</container>
+                <container type="box" label="Box [840616147904599058093]" altrender="box">12</container>
                 <unittitle>Faculty and Graduate</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">12</container>
+                <container type="box" label="Box [840616147904599058093]" altrender="box">12</container>
                 <unittitle>Fraternity</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">12</container>
+                <container type="box" label="Box [840616147904599058093]" altrender="box">12</container>
                 <unittitle>Independent</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">12</container>
+                <container type="box" label="Box [840616147904599058093]" altrender="box">12</container>
                 <unittitle>Residence Hall</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">13</container>
+                <container type="box" label="Box [7253458556413863467560]" altrender="box">13</container>
                 <unittitle>Women</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">13</container>
+                <container type="box" label="Box [7253458556413863467560]" altrender="box">13</container>
                 <unittitle>Spring/Summer</unittitle>
               </did>
             </c04>
@@ -1410,7 +1414,7 @@
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">13</container>
+              <container type="box" label="Box [7253458556413863467560]" altrender="box">13</container>
               <unittitle>Participation Summaries</unittitle>
             </did>
           </c03>
@@ -1420,19 +1424,19 @@
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">13</container>
+                <container type="box" label="Box [7253458556413863467560]" altrender="box">13</container>
                 <unittitle>All-Campus and Women</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">13</container>
+                <container type="box" label="Box [7253458556413863467560]" altrender="box">13</container>
                 <unittitle>Co-Rec</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">13</container>
+                <container type="box" label="Box [7253458556413863467560]" altrender="box">13</container>
                 <unittitle>Residence Hall</unittitle>
               </did>
             </c04>
@@ -1446,7 +1450,7 @@
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">13</container>
+              <container type="box" label="Box [7253458556413863467560]" altrender="box">13</container>
               <unittitle>Participation Summaries</unittitle>
             </did>
           </c03>
@@ -1456,19 +1460,19 @@
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">13</container>
+                <container type="box" label="Box [7253458556413863467560]" altrender="box">13</container>
                 <unittitle>All-Campus and Women</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">13</container>
+                <container type="box" label="Box [7253458556413863467560]" altrender="box">13</container>
                 <unittitle>Co-Rec</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">13</container>
+                <container type="box" label="Box [7253458556413863467560]" altrender="box">13</container>
                 <unittitle>Residence Hall</unittitle>
               </did>
             </c04>
@@ -1482,7 +1486,7 @@
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">13</container>
+              <container type="box" label="Box [7253458556413863467560]" altrender="box">13</container>
               <unittitle>Participation Summaries</unittitle>
             </did>
           </c03>
@@ -1492,25 +1496,25 @@
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">13</container>
+                <container type="box" label="Box [7253458556413863467560]" altrender="box">13</container>
                 <unittitle>All-Campus and Women</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">13</container>
+                <container type="box" label="Box [7253458556413863467560]" altrender="box">13</container>
                 <unittitle>Co-Rec</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">13</container>
+                <container type="box" label="Box [7253458556413863467560]" altrender="box">13</container>
                 <unittitle>Residence Hall</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">13</container>
+                <container type="box" label="Box [7253458556413863467560]" altrender="box">13</container>
                 <unittitle>Spring/Summer</unittitle>
               </did>
             </c04>
@@ -1524,7 +1528,7 @@
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">13</container>
+              <container type="box" label="Box [7253458556413863467560]" altrender="box">13</container>
               <unittitle>Results</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -1540,7 +1544,7 @@
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">13</container>
+              <container type="box" label="Box [7253458556413863467560]" altrender="box">13</container>
               <unittitle>Participation Summaries</unittitle>
             </did>
           </c03>
@@ -1550,49 +1554,49 @@
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">13</container>
+                <container type="box" label="Box [7253458556413863467560]" altrender="box">13</container>
                 <unittitle>All-Campus</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">13</container>
+                <container type="box" label="Box [7253458556413863467560]" altrender="box">13</container>
                 <unittitle>Co-Rec</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">13</container>
+                <container type="box" label="Box [7253458556413863467560]" altrender="box">13</container>
                 <unittitle>Faculty and Graduate</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">13</container>
+                <container type="box" label="Box [7253458556413863467560]" altrender="box">13</container>
                 <unittitle>Fraternity</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">13</container>
+                <container type="box" label="Box [7253458556413863467560]" altrender="box">13</container>
                 <unittitle>Independent</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">14</container>
+                <container type="box" label="Box [54772346419258650806]" altrender="box">14</container>
                 <unittitle>Residence Hall</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">14</container>
+                <container type="box" label="Box [54772346419258650806]" altrender="box">14</container>
                 <unittitle>Women</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">14</container>
+                <container type="box" label="Box [54772346419258650806]" altrender="box">14</container>
                 <unittitle>Spring/Summer</unittitle>
               </did>
             </c04>
@@ -1606,7 +1610,7 @@
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">14</container>
+              <container type="box" label="Box [54772346419258650806]" altrender="box">14</container>
               <unittitle>Participation Summaries</unittitle>
             </did>
           </c03>
@@ -1616,43 +1620,43 @@
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">14</container>
+                <container type="box" label="Box [54772346419258650806]" altrender="box">14</container>
                 <unittitle>All-Campus</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">14</container>
+                <container type="box" label="Box [54772346419258650806]" altrender="box">14</container>
                 <unittitle>Co-Rec and Women</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">14</container>
+                <container type="box" label="Box [54772346419258650806]" altrender="box">14</container>
                 <unittitle>Faculty and Graduate</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">14</container>
+                <container type="box" label="Box [54772346419258650806]" altrender="box">14</container>
                 <unittitle>Fraternity</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">14</container>
+                <container type="box" label="Box [54772346419258650806]" altrender="box">14</container>
                 <unittitle>Independent</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">14</container>
+                <container type="box" label="Box [54772346419258650806]" altrender="box">14</container>
                 <unittitle>Residence Hall</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">14</container>
+                <container type="box" label="Box [54772346419258650806]" altrender="box">14</container>
                 <unittitle>Spring/Summer</unittitle>
               </did>
             </c04>
@@ -1666,7 +1670,7 @@
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">14</container>
+              <container type="box" label="Box [54772346419258650806]" altrender="box">14</container>
               <unittitle>Participation Summaries</unittitle>
             </did>
           </c03>
@@ -1676,19 +1680,19 @@
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">14</container>
+                <container type="box" label="Box [54772346419258650806]" altrender="box">14</container>
                 <unittitle>All-Campus</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">14</container>
+                <container type="box" label="Box [54772346419258650806]" altrender="box">14</container>
                 <unittitle>Co-Rec</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">14</container>
+                <container type="box" label="Box [54772346419258650806]" altrender="box">14</container>
                 <unittitle>Faculty and Graduate/Fraternity/Independent</unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -1697,13 +1701,13 @@
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">14</container>
+                <container type="box" label="Box [54772346419258650806]" altrender="box">14</container>
                 <unittitle>Residence Hall</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">14</container>
+                <container type="box" label="Box [54772346419258650806]" altrender="box">14</container>
                 <unittitle>Women/Sorority</unittitle>
               </did>
             </c04>
@@ -1721,7 +1725,7 @@
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">14</container>
+                <container type="box" label="Box [54772346419258650806]" altrender="box">14</container>
                 <unittitle>All-Campus</unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -1732,7 +1736,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">14</container>
+            <container type="box" label="Box [54772346419258650806]" altrender="box">14</container>
             <unittitle>Michigan Classics Softball <unitdate type="inclusive" normal="1982/1987">1982-1987</unitdate></unittitle>
           </did>
         </c02>
@@ -1742,7 +1746,7 @@
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">14</container>
+              <container type="box" label="Box [54772346419258650806]" altrender="box">14</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1968/1970">1968/69-1969/70</unitdate>
               </unittitle>
@@ -1759,37 +1763,37 @@
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">1</container>
+            <container type="volume" label="Oversize Volume [68664520413921095839115]" altrender="volume">1</container>
             <unittitle>Vol. 1 <unitdate type="inclusive" normal="1913-12/1925-05">December 1913-May 1925</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">2</container>
+            <container type="volume" label="Oversize Volume [8829894283770071514]" altrender="volume">2</container>
             <unittitle>Vol. 2 <unitdate type="inclusive" normal="1925-09/1936-04">September 1925-April 1936</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">3</container>
+            <container type="volume" label="Oversize Volume [5404072607031011]" altrender="volume">3</container>
             <unittitle>Vol. 3 <unitdate type="inclusive" normal="1936-04/1949-09">April 1936-September 1949</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">4</container>
+            <container type="volume" label="Oversize Volume [8133060640083012503663]" altrender="volume">4</container>
             <unittitle>Vol. 4 <unitdate type="inclusive" normal="1949-09/1962-06">September 1949-June 1962</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">5</container>
+            <container type="volume" label="Oversize Volume [43570293643792323669428]" altrender="volume">5</container>
             <unittitle>Vol. 5 <unitdate type="inclusive" normal="1962-09/1978-04">September 1962-April 1978</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">6</container>
+            <container type="volume" label="Oversize Volume [53563699423213419241608]" altrender="volume">6</container>
             <unittitle>Vol. 6 <unitdate type="inclusive" normal="1978-07/1990-11">July 1978-November 1990</unitdate></unittitle>
           </did>
         </c02>

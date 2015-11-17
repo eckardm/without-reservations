@@ -26,7 +26,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>University Archives and Records Program <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/2">University Archives and Records Program <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Services for Students with Disabilities <lb/>(University of Michigan) <lb/>Publications, 1974-ongoing</titleproper>
       <author>Finding aid created by <lb/>Marilyn M. McNitt, August 2003</author>
     </titlepage>
@@ -36,7 +36,9 @@
       <origination>
         <corpname source="lcnaf" encodinganalog="110">University of Michigan. Services for Students with Disabilities.</corpname>
       </origination>
-      <unittitle encodinganalog="245">Services for Students with Disabilities (University of Michigan) publications. <unitdate type="inclusive" encodinganalog="245$f" normal="1974/9999">1974-[ongoing]</unitdate>, <unitdate type="bulk" encodinganalog="245$g" normal="1974/1994">1974-1994</unitdate></unittitle>
+      <unittitle encodinganalog="245">Services for Students with Disabilities (University of Michigan) publications.</unittitle>
+      <unitdate type="inclusive" encodinganalog="245$f" normal="1974/9999">1974-[ongoing]</unitdate>
+      <unitdate type="bulk" encodinganalog="245$g" normal="1974/1994">1974-1994</unitdate>
       <unitid encodinganalog="852$h" repositorycode="MiU-H" countrycode="us" type="call number">03110 Bimu 2</unitid>
       <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language></langmaterial>
       <abstract>Includes annual reports, flyers, maps, pamphlets and reports. Also includes the manuals <title>Disability Resource Guide for the University of Michigan</title>; Meeting the Challenge: A Guide to Barrier Free Learning; Resource Handbook for Students with Handicaps at the University of Michigan; and The University of Michigan Learning Disabilities Handbook for Students, Faculty and Administration. Contains the newsletters The Advocate; Breakthrough News; The Disabled Student Services News; and SSD Gazette.</abstract>
@@ -82,26 +84,26 @@ Services for Students with Disabilities (University of Michigan) publications, B
         <corpname source="lcnaf" encodinganalog="610">University of Michigan. Services for Students with Disabilities.</corpname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan. Disabled Student Services Program.</corpname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan. Office of Disabled Student Services.</corpname>
-        <subject source="lcsh" encodinganalog="650">College students with disabilities--Michigan--Ann Arbor.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/10185">College students with disabilities--Michigan--Ann Arbor.</subject>
         <persname source="lcnaf" encodinganalog="700">Singer, Emily K.--University of Michigan Learning disabilities handbook for students, faculty and administration, 1991.</persname>
         <corpname source="lcnaf" encodinganalog="710">University of Michigan. Disabled Student Services Program.</corpname>
         <corpname source="lcnaf" encodinganalog="710">University of Michigan. Office of Disabled Student Services.</corpname>
-        <title source="aacr2" encodinganalog="740">Disability resource guide for the University of Michigan.</title>
-        <title source="aacr2" encodinganalog="740">Meeting the challenge guide to barrier free learning.</title>
-        <title source="aacr2" encodinganalog="740">Resource handbook for students with handicaps at the University of Michigan.</title>
-        <title source="aacr2" encodinganalog="740">Advocate.</title>
-        <title source="aacr2" encodinganalog="740">Breakthrough news.</title>
-        <title source="aacr2" encodinganalog="740">Disabled student services news.</title>
-        <title source="aacr2" encodinganalog="740">SSD gazette.</title>
+        <title source="aacr2" encodinganalog="740" ref="/subjects/158">Disability resource guide for the University of Michigan.</title>
+        <title source="aacr2" encodinganalog="740" ref="/subjects/159">Meeting the challenge guide to barrier free learning.</title>
+        <title source="aacr2" encodinganalog="740" ref="/subjects/160">Resource handbook for students with handicaps at the University of Michigan.</title>
+        <title source="aacr2" encodinganalog="740" ref="/subjects/161">Advocate.</title>
+        <title source="aacr2" encodinganalog="740" ref="/subjects/162">Breakthrough news.</title>
+        <title source="aacr2" encodinganalog="740" ref="/subjects/163">Disabled student services news.</title>
+        <title source="aacr2" encodinganalog="740" ref="/subjects/164">SSD gazette.</title>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Annual reports.</genreform>
-        <genreform source="aat" encodinganalog="655">Flyers.</genreform>
-        <genreform source="aat" encodinganalog="655">Manuals.</genreform>
-        <genreform source="aat" encodinganalog="655">Maps.</genreform>
-        <genreform source="aat" encodinganalog="655">Newsletters.</genreform>
-        <genreform source="aat" encodinganalog="655">Reports.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3197">Annual reports.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3243">Flyers.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3158">Manuals.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3142">Maps.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3157">Newsletters.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3155">Reports.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -120,13 +122,13 @@ Services for Students with Disabilities (University of Michigan) publications, B
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [584854256720843356]" altrender="box">1</container>
               <unittitle>1974-1983/1984</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [584854256720843356]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1993/1994">1993-1994</unitdate>
               </unittitle>
@@ -139,7 +141,7 @@ Services for Students with Disabilities (University of Michigan) publications, B
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [584854256720843356]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1976/1993">1976-1993</unitdate>
                 <unitdate type="inclusive">undated</unitdate>
@@ -149,7 +151,7 @@ Services for Students with Disabilities (University of Michigan) publications, B
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [584854256720843356]" altrender="box">1</container>
             <unittitle>Flyers <unitdate type="inclusive">undated</unitdate></unittitle>
           </did>
         </c02>
@@ -159,7 +161,7 @@ Services for Students with Disabilities (University of Michigan) publications, B
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [584854256720843356]" altrender="box">1</container>
               <unittitle><title render="italic">Barrier Free Design: A Design Manual Based on the Michigan Construction Code</title> by Georges Selim, <unitdate type="inclusive" normal="1977">1977</unitdate></unittitle>
             </did>
           </c03>
@@ -171,7 +173,7 @@ Services for Students with Disabilities (University of Michigan) publications, B
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [584854256720843356]" altrender="box">1</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1993">1993</unitdate>
                 </unittitle>
@@ -179,7 +181,7 @@ Services for Students with Disabilities (University of Michigan) publications, B
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [584854256720843356]" altrender="box">1</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1995">1995</unitdate>
                 </unittitle>
@@ -188,7 +190,7 @@ Services for Students with Disabilities (University of Michigan) publications, B
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [584854256720843356]" altrender="box">1</container>
               <unittitle><title render="italic">Faculty Handbook</title>, <unitdate type="inclusive" normal="1993">1993</unitdate></unittitle>
             </did>
           </c03>
@@ -200,7 +202,7 @@ Services for Students with Disabilities (University of Michigan) publications, B
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [584854256720843356]" altrender="box">1</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1978">1978</unitdate>
                 </unittitle>
@@ -208,7 +210,7 @@ Services for Students with Disabilities (University of Michigan) publications, B
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [584854256720843356]" altrender="box">1</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1981">1981</unitdate>
                 </unittitle>
@@ -217,19 +219,19 @@ Services for Students with Disabilities (University of Michigan) publications, B
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [584854256720843356]" altrender="box">1</container>
               <unittitle><title render="italic">The Resource Handbook for Students with Handicaps at the University of Michigan</title>, <unitdate type="inclusive" normal="1986">1986</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [584854256720843356]" altrender="box">1</container>
               <unittitle><title render="italic">Student Handbook</title>, <unitdate type="inclusive" normal="1993">1993</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [584854256720843356]" altrender="box">1</container>
               <unittitle><title render="italic">The University of Michigan Learning Disabilities Handbook for Students, Faculty, and Administration</title> by Emily K. Singer, [ca. 1991]</unittitle>
             </did>
           </c03>
@@ -240,8 +242,13 @@ Services for Students with Disabilities (University of Michigan) publications, B
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
-              <unittitle><title render="italic">Accessibility</title>, <unitdate type="inclusive" normal="1981">1981</unitdate>, <unitdate type="inclusive" normal="1987">1987</unitdate>, <unitdate type="inclusive" normal="1993">1993</unitdate></unittitle>
+              <container type="box" label="Box [584854256720843356]" altrender="box">1</container>
+              <unittitle>
+                <title render="italic">Accessibility</title>
+              </unittitle>
+              <unitdate type="inclusive" normal="1981">1981</unitdate>
+              <unitdate type="inclusive" normal="1987">1987</unitdate>
+              <unitdate type="inclusive" normal="1993">1993</unitdate>
             </did>
           </c03>
         </c02>
@@ -257,7 +264,7 @@ Services for Students with Disabilities (University of Michigan) publications, B
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [584854256720843356]" altrender="box">1</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1979/1980">1979-1980</unitdate>
                   <unitdate type="inclusive">undated</unitdate>
@@ -266,7 +273,7 @@ Services for Students with Disabilities (University of Michigan) publications, B
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [584854256720843356]" altrender="box">1</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1980/1982">1980-1982</unitdate>
                 </unittitle>
@@ -278,8 +285,12 @@ Services for Students with Disabilities (University of Michigan) publications, B
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
-              <unittitle><title render="italic">Breakthrough News</title>, <unitdate type="inclusive" normal="1983">1983</unitdate>, <unitdate type="inclusive">undated</unitdate></unittitle>
+              <container type="box" label="Box [584854256720843356]" altrender="box">1</container>
+              <unittitle>
+                <title render="italic">Breakthrough News</title>
+              </unittitle>
+              <unitdate type="inclusive" normal="1983">1983</unitdate>
+              <unitdate type="inclusive">undated</unitdate>
             </did>
           </c03>
           <c03 level="file">
@@ -290,7 +301,7 @@ Services for Students with Disabilities (University of Michigan) publications, B
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [584854256720843356]" altrender="box">1</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1977">1977</unitdate>
                 </unittitle>
@@ -298,7 +309,7 @@ Services for Students with Disabilities (University of Michigan) publications, B
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [584854256720843356]" altrender="box">1</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1978">1978</unitdate>
                 </unittitle>
@@ -306,7 +317,7 @@ Services for Students with Disabilities (University of Michigan) publications, B
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [584854256720843356]" altrender="box">1</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1988">1988</unitdate>
                 </unittitle>
@@ -315,25 +326,25 @@ Services for Students with Disabilities (University of Michigan) publications, B
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [584854256720843356]" altrender="box">1</container>
               <unittitle><title render="italic">News Notes</title>, <unitdate type="inclusive" normal="1988">1988</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [584854256720843356]" altrender="box">1</container>
               <unittitle><title render="italic">The Resource</title>, <unitdate type="inclusive" normal="1984">1984</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [584854256720843356]" altrender="box">1</container>
               <unittitle><title render="italic">SSD Gazette</title>, <unitdate type="inclusive" normal="1989/1994">1989-1994</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [584854256720843356]" altrender="box">1</container>
               <unittitle><title render="italic">S.S.D. News Flash</title>, <unitdate type="inclusive" normal="1990">1990</unitdate></unittitle>
             </did>
           </c03>
@@ -344,7 +355,7 @@ Services for Students with Disabilities (University of Michigan) publications, B
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [584854256720843356]" altrender="box">1</container>
               <unittitle><title render="italic">Report of the Transportation Task Force Committee</title>, <unitdate type="inclusive" normal="1988">1988</unitdate></unittitle>
             </did>
           </c03>
@@ -363,7 +374,7 @@ Services for Students with Disabilities (University of Michigan) publications, B
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [584854256720843356]" altrender="box">1</container>
               <unittitle>Brochures <unitdate type="inclusive">undated</unitdate></unittitle>
             </did>
           </c03>

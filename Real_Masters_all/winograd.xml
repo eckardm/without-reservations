@@ -26,7 +26,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Morley Winograd Papers, 1973-1983</titleproper>
       <author>Finding aid created by <lb/>Tammy Lau, 1992</author>
     </titlepage>
@@ -36,7 +36,9 @@
       <origination>
         <persname source="lcnaf" encodinganalog="100">Winograd, Morley, 1942-</persname>
       </origination>
-      <unittitle encodinganalog="245">Morley Winograd Papers <unitdate type="inclusive" encodinganalog="245$f" normal="1973/1983">1973-1983</unitdate>, <unitdate type="bulk" encodinganalog="245$g" normal="1976/1979">1976-1979</unitdate></unittitle>
+      <unittitle encodinganalog="245">Morley Winograd Papers</unittitle>
+      <unitdate type="inclusive" encodinganalog="245$f" normal="1973/1983">1973-1983</unitdate>
+      <unitdate type="bulk" encodinganalog="245$g" normal="1976/1979">1976-1979</unitdate>
       <unitid encodinganalog="099" repositorycode="MiU-H" countrycode="us" type="call number">921091 Aa 2</unitid>
       <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language></langmaterial>
       <abstract>Democratic Party official, chairman of the Michigan Democratic Party from 1973 to 1979, president of the Association of State Democratic Chairs from 1979 to 1980, and chairman of the Commission on Presidential Nomination and Party Structure from 1973 to 1978. Committee work files and reports relating to his various political appointments.</abstract>
@@ -80,9 +82,9 @@ Morley Winograd Papers, Bentley Historical Library, University of Michigan</p>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n83163731">Democratic Party (Mich.)</corpname>
         <corpname source="lcnaf" encodinganalog="610">Democratic Party (U.S.)</corpname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n87830499">Democratic Party (U.S.). Commission on Presidential Nomination.</corpname>
-        <geogname source="local" encodinganalog="691">Michigan--Politics and government--1971-1980.</geogname>
-        <geogname source="local" encodinganalog="691">Michigan--Politics and government--1981-1990.</geogname>
-        <geogname source="lcsh" encodinganalog="651">Michigan--Politics and government--1951-</geogname>
+        <geogname source="local" encodinganalog="691" ref="/subjects/801">Michigan--Politics and government--1971-1980.</geogname>
+        <geogname source="local" encodinganalog="691" ref="/subjects/802">Michigan--Politics and government--1981-1990.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/910">Michigan--Politics and government--1951-</geogname>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n95107637">Winograd, Morley.</persname>
       </controlaccess>
     </controlaccess>
@@ -96,49 +98,51 @@ Morley Winograd Papers, Bentley Historical Library, University of Michigan</p>
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <unittitle>Agendas and Minutes <unitdate type="inclusive" normal="1979/1980">1979-1980</unitdate>, <unitdate type="inclusive">undated</unitdate></unittitle>
+            <container type="box" label="Box [452834511439230295533]" altrender="box">1</container>
+            <unittitle>Agendas and Minutes</unittitle>
+            <unitdate type="inclusive" normal="1979/1980">1979-1980</unitdate>
+            <unitdate type="inclusive">undated</unitdate>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [452834511439230295533]" altrender="box">1</container>
             <unittitle>Budgets <unitdate type="inclusive" normal="1979/1980">1979-1980</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [452834511439230295533]" altrender="box">1</container>
             <unittitle>Carter/Kennedy Nomination <unitdate type="inclusive" normal="1980">1980</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [452834511439230295533]" altrender="box">1</container>
             <unittitle>Correspondence <unitdate type="inclusive" normal="1979">1979</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [452834511439230295533]" altrender="box">1</container>
             <unittitle>DEMPAC <unitdate type="inclusive" normal="1979/1980">1979-1980</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [452834511439230295533]" altrender="box">1</container>
             <unittitle>Memos <unitdate type="inclusive" normal="1979/1980">1979-1980</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [452834511439230295533]" altrender="box">1</container>
             <unittitle>Miscellaneous <unitdate type="inclusive">undated</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [452834511439230295533]" altrender="box">1</container>
             <unittitle>News Releases <unitdate type="inclusive" normal="1979">1979</unitdate></unittitle>
           </did>
         </c02>
@@ -148,26 +152,28 @@ Morley Winograd Papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [452834511439230295533]" altrender="box">1</container>
               <unittitle>Dollars for Dems <unitdate type="inclusive" normal="1979">1979</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
-              <unittitle>Federal Election Campaign (F.E.C.) <unitdate type="inclusive" normal="1979">1979</unitdate>, <unitdate type="inclusive">undated</unitdate></unittitle>
+              <container type="box" label="Box [452834511439230295533]" altrender="box">1</container>
+              <unittitle>Federal Election Campaign (F.E.C.)</unittitle>
+              <unitdate type="inclusive" normal="1979">1979</unitdate>
+              <unitdate type="inclusive">undated</unitdate>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [452834511439230295533]" altrender="box">1</container>
               <unittitle>Party Building <unitdate type="inclusive" normal="1979">1979</unitdate></unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [452834511439230295533]" altrender="box">1</container>
             <unittitle>Testimonies before Congress <unitdate type="inclusive" normal="1979">1979</unitdate></unittitle>
           </did>
         </c02>
@@ -181,14 +187,20 @@ Morley Winograd Papers, Bentley Historical Library, University of Michigan</p>
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <unittitle>Correspondence <unitdate type="inclusive" normal="1973">1973</unitdate>, <unitdate type="inclusive" normal="1976">1976</unitdate>, <unitdate type="inclusive" normal="1981/1983">1981-1983</unitdate>, <unitdate type="inclusive">undated</unitdate></unittitle>
+            <container type="box" label="Box [452834511439230295533]" altrender="box">1</container>
+            <unittitle>Correspondence</unittitle>
+            <unitdate type="inclusive" normal="1973">1973</unitdate>
+            <unitdate type="inclusive" normal="1976">1976</unitdate>
+            <unitdate type="inclusive" normal="1981/1983">1981-1983</unitdate>
+            <unitdate type="inclusive">undated</unitdate>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <unittitle>Reports <unitdate type="inclusive" normal="1981">1981</unitdate>, <unitdate type="inclusive">undated</unitdate></unittitle>
+            <container type="box" label="Box [452834511439230295533]" altrender="box">1</container>
+            <unittitle>Reports</unittitle>
+            <unitdate type="inclusive" normal="1981">1981</unitdate>
+            <unitdate type="inclusive">undated</unitdate>
           </did>
         </c02>
       </c01>
@@ -206,31 +218,33 @@ Morley Winograd Papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
-              <unittitle>Background (including history) <unitdate type="inclusive" normal="1976/1978">1976-1978</unitdate>, <unitdate type="inclusive">undated</unitdate></unittitle>
+              <container type="box" label="Box [452834511439230295533]" altrender="box">1</container>
+              <unittitle>Background (including history)</unittitle>
+              <unitdate type="inclusive" normal="1976/1978">1976-1978</unitdate>
+              <unitdate type="inclusive">undated</unitdate>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [452834511439230295533]" altrender="box">1</container>
               <unittitle>Agendas <unitdate type="inclusive" normal="1976/1978">1976-1978</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [452834511439230295533]" altrender="box">1</container>
               <unittitle>Budget (proposed) <unitdate type="inclusive" normal="1977">1977</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [452834511439230295533]" altrender="box">1</container>
               <unittitle>Clippings</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [452834511439230295533]" altrender="box">1</container>
               <unittitle>Correspondence <unitdate type="inclusive" normal="1976/1978">1976-1978</unitdate></unittitle>
             </did>
           </c03>
@@ -240,13 +254,13 @@ Morley Winograd Papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [452834511439230295533]" altrender="box">1</container>
                 <unittitle>Minutes and Summaries <unitdate type="inclusive" normal="1977-06-24">June 24, 1977</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [452834511439230295533]" altrender="box">1</container>
                 <unittitle>Transcripts <unitdate type="inclusive" normal="1977-09-09">September 9, 1977</unitdate></unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">4 volumes</extent>
@@ -256,8 +270,10 @@ Morley Winograd Papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
-              <unittitle>Memos <unitdate type="inclusive" normal="1975">1975</unitdate>, <unitdate type="inclusive" normal="1977/1978">1977-1978</unitdate></unittitle>
+              <container type="box" label="Box [452834511439230295533]" altrender="box">1</container>
+              <unittitle>Memos</unittitle>
+              <unitdate type="inclusive" normal="1975">1975</unitdate>
+              <unitdate type="inclusive" normal="1977/1978">1977-1978</unitdate>
             </did>
           </c03>
           <c03 level="file">
@@ -266,50 +282,56 @@ Morley Winograd Papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [452834511439230295533]" altrender="box">1</container>
                 <unittitle>Delegate Selection <unitdate type="inclusive">undated</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [452834511439230295533]" altrender="box">1</container>
                 <unittitle>DNC Executive Committee Recommendations <unitdate type="inclusive" normal="1978">1978</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
-                <unittitle>The <unitdate type="inclusive" normal="1976">1976</unitdate> Presidential Primaries, <unitdate type="inclusive" normal="1977">1977</unitdate></unittitle>
+                <container type="box" label="Box [452834511439230295533]" altrender="box">1</container>
+                <unittitle>The 1976 Presidential Primaries, 1977</unittitle>
+                <unitdate type="inclusive" normal="1976">1976</unitdate>
+                <unitdate type="inclusive" normal="1977">1977</unitdate>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
-                <unittitle>Presidential Primaries <unitdate type="inclusive" normal="1976">1976</unitdate>, <unitdate type="inclusive">undated</unitdate></unittitle>
+                <container type="box" label="Box [452834511439230295533]" altrender="box">1</container>
+                <unittitle>Presidential Primaries</unittitle>
+                <unitdate type="inclusive" normal="1976">1976</unitdate>
+                <unitdate type="inclusive">undated</unitdate>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
-                <unittitle>State Hearings <unitdate type="inclusive" normal="1977">1977</unitdate>, <unitdate type="inclusive">undated</unitdate></unittitle>
+                <container type="box" label="Box [452834511439230295533]" altrender="box">1</container>
+                <unittitle>State Hearings</unittitle>
+                <unitdate type="inclusive" normal="1977">1977</unitdate>
+                <unitdate type="inclusive">undated</unitdate>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [452834511439230295533]" altrender="box">1</container>
                 <unittitle>Weekly Reports <unitdate type="inclusive" normal="1977">1977</unitdate></unittitle>
               </did>
             </c04>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [452834511439230295533]" altrender="box">1</container>
               <unittitle>Statements before Commission <unitdate type="inclusive">undated</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [452834511439230295533]" altrender="box">1</container>
               <unittitle>Surveys <unitdate type="inclusive">undated</unitdate></unittitle>
             </did>
           </c03>
@@ -319,26 +341,30 @@ Morley Winograd Papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [452834511439230295533]" altrender="box">1</container>
                 <unittitle>Background <unitdate type="inclusive">undated</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
-                <unittitle>Pre-Delegate Selection <unitdate type="inclusive" normal="1977">1977</unitdate>, <unitdate type="inclusive">undated</unitdate></unittitle>
+                <container type="box" label="Box [452834511439230295533]" altrender="box">1</container>
+                <unittitle>Pre-Delegate Selection</unittitle>
+                <unitdate type="inclusive" normal="1977">1977</unitdate>
+                <unitdate type="inclusive">undated</unitdate>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [452834511439230295533]" altrender="box">1</container>
                 <unittitle>Implementation of Delegate Selection <unitdate type="inclusive">undated</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
-                <unittitle>Post Delegate Selection <unitdate type="inclusive" normal="1977">1977</unitdate>, <unitdate type="inclusive">undated</unitdate></unittitle>
+                <container type="box" label="Box [452834511439230295533]" altrender="box">1</container>
+                <unittitle>Post Delegate Selection</unittitle>
+                <unitdate type="inclusive" normal="1977">1977</unitdate>
+                <unitdate type="inclusive">undated</unitdate>
               </did>
             </c04>
           </c03>
@@ -349,37 +375,39 @@ Morley Winograd Papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [452834511439230295533]" altrender="box">1</container>
               <unittitle>Interim Report <unitdate type="inclusive" normal="1976">1976</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [452834511439230295533]" altrender="box">1</container>
               <unittitle>Preliminary Report <unitdate type="inclusive" normal="1977">1977</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [452834511439230295533]" altrender="box">1</container>
               <unittitle>Drafting Committee (proposed changes to report) <unitdate type="inclusive">undated</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [452834511439230295533]" altrender="box">1</container>
               <unittitle>Final Report: "Openness, Participation and Party Building: Reforms for a Stronger Democratic Party," <unitdate type="inclusive" normal="1978">1978</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
-              <unittitle>Reactions to Commission's Reports <unitdate type="inclusive" normal="1976/1978">1976-1978</unitdate>, <unitdate type="inclusive">undated</unitdate></unittitle>
+              <container type="box" label="Box [452834511439230295533]" altrender="box">1</container>
+              <unittitle>Reactions to Commission's Reports</unittitle>
+              <unitdate type="inclusive" normal="1976/1978">1976-1978</unitdate>
+              <unitdate type="inclusive">undated</unitdate>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [452834511439230295533]" altrender="box">1</container>
               <unittitle>Commission as it relates to Michigan (Winograd's summary) <unitdate type="inclusive">undated</unitdate></unittitle>
             </did>
           </c03>
@@ -398,14 +426,17 @@ Morley Winograd Papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [452834511439230295533]" altrender="box">1</container>
               <unittitle>Clippings</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
-              <unittitle>Correspondence and Miscellaneous <unitdate type="inclusive" normal="1973">1973</unitdate>, <unitdate type="inclusive" normal="1975/1979">1975-1979</unitdate>, <unitdate type="inclusive">undated</unitdate></unittitle>
+              <container type="box" label="Box [452834511439230295533]" altrender="box">1</container>
+              <unittitle>Correspondence and Miscellaneous</unittitle>
+              <unitdate type="inclusive" normal="1973">1973</unitdate>
+              <unitdate type="inclusive" normal="1975/1979">1975-1979</unitdate>
+              <unitdate type="inclusive">undated</unitdate>
             </did>
           </c03>
         </c02>
@@ -415,26 +446,30 @@ Morley Winograd Papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [452834511439230295533]" altrender="box">1</container>
               <unittitle>Black Caucus</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [452834511439230295533]" altrender="box">1</container>
               <unittitle>Dispute with Mayor Coleman Young (re: charge of racism)</unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <unittitle>Correspondence <unitdate type="inclusive" normal="1973/1974">1973-1974</unitdate>, <unitdate type="inclusive" normal="1977/1978">1977-1978</unitdate>, <unitdate type="inclusive" normal="1982">1982</unitdate>, <unitdate type="inclusive">undated</unitdate></unittitle>
+            <container type="box" label="Box [452834511439230295533]" altrender="box">1</container>
+            <unittitle>Correspondence</unittitle>
+            <unitdate type="inclusive" normal="1973/1974">1973-1974</unitdate>
+            <unitdate type="inclusive" normal="1977/1978">1977-1978</unitdate>
+            <unitdate type="inclusive" normal="1982">1982</unitdate>
+            <unitdate type="inclusive">undated</unitdate>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [452834511439230295533]" altrender="box">1</container>
             <unittitle>Miscellaneous <unitdate type="inclusive">undated</unitdate></unittitle>
           </did>
         </c02>

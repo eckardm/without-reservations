@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Theodore R. Schmale Papers, 1918-1961</titleproper>
       <author>Finding aid created by <lb/>Bentley Historical Library staff</author>
     </titlepage>
@@ -37,7 +37,9 @@
       <origination>
         <persname source="lcnaf" encodinganalog="100">Schmale, Theodore R., d. 1969</persname>
       </origination>
-      <unittitle encodinganalog="245">Theodore R. Schmale Papers <unitdate type="inclusive" encodinganalog="245$f" normal="1918/1961">1918-1961</unitdate>, <unitdate type="bulk" encodinganalog="245$g" normal="1929/1961">1929-1961</unitdate></unittitle>
+      <unittitle encodinganalog="245">Theodore R. Schmale Papers</unittitle>
+      <unitdate type="inclusive" encodinganalog="245$f" normal="1918/1961">1918-1961</unitdate>
+      <unitdate type="bulk" encodinganalog="245$g" normal="1929/1961">1929-1961</unitdate>
       <unitid encodinganalog="852$h" repositorycode="MiU-H" countrycode="us" type="call number">85384 Aa2</unitid>
       <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language> and <language langcode="ger" encodinganalog="041">German</language></langmaterial>
       <abstract>Papers,1918-1961,of Theodore R. Schmale, pastor of Bethlehem Evangelical Church [now Bethlehem United Church of Christ]; includes manuscripts of sermons (partially in German); and autobiography,1895,of father-in-law, Johann H. Dinkmeier, describing life in Germany, his immigration to the United States, and his experiences as a teacher and Evangelical pastor. [original and typescript of translation]</abstract>
@@ -81,14 +83,14 @@ Theodore R. Schmale Papers, Bentley Historical Library, University of Michigan</
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <subject encodinganalog="651" source="lcsh">Ann Arbor (Mich.)--Church history.</subject>
+        <subject encodinganalog="651" source="lcsh" ref="/subjects/9993">Ann Arbor (Mich.)--Church history.</subject>
         <corpname encodinganalog="610" source="lcnaf">Bethlehem United Church of Christ (Ann Arbor, Mich.)</corpname>
-        <subject encodinganalog="650" source="lcsh">Clergy--Michigan--Ann Arbor.</subject>
-        <subject encodinganalog="651" source="lcsh">Michigan--Emigration and immigration.</subject>
-        <subject encodinganalog="650" source="lcsh">German Americans--Michigan.</subject>
+        <subject encodinganalog="650" source="lcsh" ref="/subjects/6441">Clergy--Michigan--Ann Arbor.</subject>
+        <subject encodinganalog="651" source="lcsh" ref="/subjects/9994">Michigan--Emigration and immigration.</subject>
+        <subject encodinganalog="650" source="lcsh" ref="/subjects/5827">German Americans--Michigan.</subject>
         <corpname encodinganalog="610" source="lcnaf">United Church of Christ--Michigan--Ann Arbor.</corpname>
-        <subject encodinganalog="651" source="lcsh">Germany--Emigration and immigration.</subject>
-        <subject encodinganalog="650" source="lcsh">Immigrants--Michigan.</subject>
+        <subject encodinganalog="651" source="lcsh" ref="/subjects/9995">Germany--Emigration and immigration.</subject>
+        <subject encodinganalog="650" source="lcsh" ref="/subjects/5684">Immigrants--Michigan.</subject>
       </controlaccess>
       <controlaccess>
         <head>Contributors:</head>
@@ -102,13 +104,13 @@ Theodore R. Schmale Papers, Bentley Historical Library, University of Michigan</
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [060664697875551495]" altrender="box">1</container>
             <unittitle>Autobiography [in German]</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [060664697875551495]" altrender="box">1</container>
             <unittitle>Translation of autobiography</unittitle>
           </did>
         </c02>
@@ -119,7 +121,7 @@ Theodore R. Schmale Papers, Bentley Historical Library, University of Michigan</
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [060664697875551495]" altrender="box">1</container>
             <unittitle>Biographical material</unittitle>
           </did>
         </c02>
@@ -129,19 +131,20 @@ Theodore R. Schmale Papers, Bentley Historical Library, University of Michigan</
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [060664697875551495]" altrender="box">1</container>
               <unittitle><unitdate type="inclusive">undated</unitdate> (in German)</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
-              <unittitle><unitdate type="inclusive" normal="1918">1918</unitdate>, <unitdate type="inclusive" normal="1929/1940">1929-1940</unitdate></unittitle>
+              <container type="box" label="Box [060664697875551495]" altrender="box">1</container>
+              <unitdate type="inclusive" normal="1918">1918</unitdate>
+              <unitdate type="inclusive" normal="1929/1940">1929-1940</unitdate>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [060664697875551495]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1941/1945">1941-1945</unitdate>
               </unittitle>
@@ -149,7 +152,7 @@ Theodore R. Schmale Papers, Bentley Historical Library, University of Michigan</
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [060664697875551495]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1946/1950">1946-1950</unitdate>
               </unittitle>
@@ -157,7 +160,7 @@ Theodore R. Schmale Papers, Bentley Historical Library, University of Michigan</
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [060664697875551495]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1951/1952">1951-1952</unitdate>
               </unittitle>
@@ -165,7 +168,7 @@ Theodore R. Schmale Papers, Bentley Historical Library, University of Michigan</
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [060664697875551495]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1953">1953</unitdate>
               </unittitle>
@@ -173,7 +176,7 @@ Theodore R. Schmale Papers, Bentley Historical Library, University of Michigan</
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [060664697875551495]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1954">1954</unitdate>
               </unittitle>
@@ -181,7 +184,7 @@ Theodore R. Schmale Papers, Bentley Historical Library, University of Michigan</
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [060664697875551495]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1955">1955</unitdate>
               </unittitle>
@@ -189,7 +192,7 @@ Theodore R. Schmale Papers, Bentley Historical Library, University of Michigan</
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [060664697875551495]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1956">1956</unitdate>
               </unittitle>
@@ -197,7 +200,7 @@ Theodore R. Schmale Papers, Bentley Historical Library, University of Michigan</
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [060664697875551495]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1957">1957</unitdate>
               </unittitle>
@@ -205,7 +208,7 @@ Theodore R. Schmale Papers, Bentley Historical Library, University of Michigan</
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [060664697875551495]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1958">1958</unitdate>
               </unittitle>
@@ -213,7 +216,7 @@ Theodore R. Schmale Papers, Bentley Historical Library, University of Michigan</
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [060664697875551495]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1959/1961">1959-1961</unitdate>
               </unittitle>
@@ -226,97 +229,97 @@ Theodore R. Schmale Papers, Bentley Historical Library, University of Michigan</
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [060664697875551495]" altrender="box">1</container>
               <unittitle>Christmas</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [060664697875551495]" altrender="box">1</container>
               <unittitle>Denominationalism</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [060664697875551495]" altrender="box">1</container>
               <unittitle>Easter and Lent</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [060664697875551495]" altrender="box">1</container>
               <unittitle>Fourth of July</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [060664697875551495]" altrender="box">1</container>
               <unittitle>Funerals</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [060664697875551495]" altrender="box">1</container>
               <unittitle>Labor Day</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [060664697875551495]" altrender="box">1</container>
               <unittitle>Lord's Prayer</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [060664697875551495]" altrender="box">1</container>
               <unittitle>Memorial Day</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [060664697875551495]" altrender="box">1</container>
               <unittitle>Missions</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [060664697875551495]" altrender="box">1</container>
               <unittitle>Mother's Day</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [060664697875551495]" altrender="box">1</container>
               <unittitle>Peace</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [060664697875551495]" altrender="box">1</container>
               <unittitle>Prejudice Prosperity (post World War II)</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [060664697875551495]" altrender="box">1</container>
               <unittitle>Special occasions</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [060664697875551495]" altrender="box">1</container>
               <unittitle>Thanksgiving</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [060664697875551495]" altrender="box">1</container>
               <unittitle>Washington's Birthday</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [060664697875551495]" altrender="box">1</container>
               <unittitle>World conditions</unittitle>
             </did>
           </c03>
@@ -331,97 +334,97 @@ Theodore R. Schmale Papers, Bentley Historical Library, University of Michigan</
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [060664697875551495]" altrender="box">1</container>
                 <unittitle>Matthew</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [060664697875551495]" altrender="box">1</container>
                 <unittitle>Mark ;Luke</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [060664697875551495]" altrender="box">1</container>
                 <unittitle>John</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [060664697875551495]" altrender="box">1</container>
                 <unittitle>Acts</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [060664697875551495]" altrender="box">1</container>
                 <unittitle>Romans</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [060664697875551495]" altrender="box">1</container>
                 <unittitle>Corinthians; Galatians; Ephesians</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [060664697875551495]" altrender="box">1</container>
                 <unittitle>Philippians; Colossians; Thessalonians</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [060664697875551495]" altrender="box">1</container>
                 <unittitle>Timothy; Hebrews; James</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [060664697875551495]" altrender="box">1</container>
                 <unittitle>Peter; Revelations</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [060664697875551495]" altrender="box">1</container>
                 <unittitle>[In German]</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [060664697875551495]" altrender="box">1</container>
                 <unittitle>Miscellaneous</unittitle>
               </did>
             </c04>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [510194414951249760493]" altrender="box">2</container>
               <unittitle>Old Testament</unittitle>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [510194414951249760493]" altrender="box">2</container>
                 <unittitle>Genesis to Joshua</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [510194414951249760493]" altrender="box">2</container>
                 <unittitle>Judges to Solomon</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [510194414951249760493]" altrender="box">2</container>
                 <unittitle>Isaiah to Malachi</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [510194414951249760493]" altrender="box">2</container>
                 <unittitle>[In German]</unittitle>
               </did>
             </c04>
@@ -429,7 +432,7 @@ Theodore R. Schmale Papers, Bentley Historical Library, University of Michigan</
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [510194414951249760493]" altrender="box">2</container>
             <unittitle>Sermons (fragmentary)</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">15 folders</extent>
@@ -438,7 +441,7 @@ Theodore R. Schmale Papers, Bentley Historical Library, University of Michigan</
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [510194414951249760493]" altrender="box">2</container>
             <unittitle>Miscellanea</unittitle>
           </did>
           <odd>

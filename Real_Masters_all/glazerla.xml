@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Lawrence M. Glazer papers, 1981-1987</titleproper>
       <author>Finding aid created by <lb/>Owen Ellis, May 2011</author>
     </titlepage>
@@ -83,9 +83,9 @@ Lawrence M. Glazer papers, Bentley Historical Library, University of Michigan</p
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n2010006697">Glazer, Lawrence M.</persname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n83163731">Democratic Party (Mich.)</corpname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n85203482">Michigan. Governor (1983-1991 : Blanchard)</corpname>
-        <subject source="lcsh" encodinganalog="650">Elections--Michigan--1982.</subject>
-        <geogname source="local" encodinganalog="691">Michigan--Politics and government--1981-1990.</geogname>
-        <geogname source="lcsh" encodinganalog="651">Michigan--Politics and government--1951-</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5798">Elections--Michigan--1982.</subject>
+        <geogname source="local" encodinganalog="691" ref="/subjects/802">Michigan--Politics and government--1981-1990.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/910">Michigan--Politics and government--1951-</geogname>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -95,7 +95,7 @@ Lawrence M. Glazer papers, Bentley Historical Library, University of Michigan</p
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [04044980431]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1981/1987">1981-1987</unitdate>
             </unittitle>
@@ -111,19 +111,19 @@ Lawrence M. Glazer papers, Bentley Historical Library, University of Michigan</p
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [04044980431]" altrender="box">1</container>
             <unittitle>Blanchard's Correspondence related to campaign</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [04044980431]" altrender="box">1</container>
             <unittitle>Campaign Letters and Publications</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [04044980431]" altrender="box">1</container>
             <unittitle>Drafts of statements, position papers, etc.</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>

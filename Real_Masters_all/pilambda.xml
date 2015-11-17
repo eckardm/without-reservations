@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Pi Lambda Theta, Xi chapter (University of Michigan) records, 1922-1983</titleproper>
       <author>Finding aid created by <lb/>Helmi Raaska, 1984</author>
     </titlepage>
@@ -81,18 +81,18 @@ Pi Lambda Theta, Xi chapter (University of Michigan) records, Bentley Historical
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Materials:</head>
-        <subject source="lctgm" encodinganalog="650">Aged persons.</subject>
-        <subject source="lctgm" encodinganalog="650">African Americans--Women.</subject>
-        <subject source="lctgm" encodinganalog="650">Clothing and dress.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3758">Aged persons.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3582">African Americans--Women.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3624">Clothing and dress.</subject>
         <corpname source="lcnaf" encodinganalog="610">Pi Lambda Theta. Xi chapter (University of Michigan)</corpname>
-        <subject source="lctgm" encodinganalog="650">Rites and ceremonies.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3698">Rites and ceremonies.</subject>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan--Honorary societies.</corpname>
-        <subject source="lctgm" encodinganalog="650">Women--Organizations.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3631">Women--Organizations.</subject>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
-        <genreform source="aat" encodinganalog="655">Scrapbooks.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3139">Scrapbooks.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -102,25 +102,27 @@ Pi Lambda Theta, Xi chapter (University of Michigan) records, Bentley Historical
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <unittitle>Book of Ceremonies <unitdate type="inclusive" normal="1939">1939</unitdate>, <unitdate type="inclusive" normal="1976">1976</unitdate></unittitle>
+            <container type="box" label="Box [238639041787231083004]" altrender="box">1</container>
+            <unittitle>Book of Ceremonies</unittitle>
+            <unitdate type="inclusive" normal="1939">1939</unitdate>
+            <unitdate type="inclusive" normal="1976">1976</unitdate>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [238639041787231083004]" altrender="box">1</container>
             <unittitle>Clippings <unitdate type="inclusive" normal="1963/1978">1963-1978 (scattered dates)</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [238639041787231083004]" altrender="box">1</container>
             <unittitle>Constitution and Bylaws</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [238639041787231083004]" altrender="box">1</container>
             <unittitle>Correspondence <unitdate type="inclusive" normal="1960/1984">1960-1984</unitdate></unittitle>
           </did>
         </c02>
@@ -130,13 +132,13 @@ Pi Lambda Theta, Xi chapter (University of Michigan) records, Bentley Historical
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [238639041787231083004]" altrender="box">1</container>
               <unittitle>Projected History/Personal Recollections</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [238639041787231083004]" altrender="box">1</container>
               <unittitle>Xi Chapter History</unittitle>
             </did>
           </c03>
@@ -147,13 +149,13 @@ Pi Lambda Theta, Xi chapter (University of Michigan) records, Bentley Historical
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [238639041787231083004]" altrender="box">1</container>
               <unittitle><unitdate type="inclusive" normal="1922/1978">1922-1978</unitdate> (Includes Constitution)</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [238639041787231083004]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1979/1981">1979-1981</unitdate>
               </unittitle>
@@ -166,7 +168,7 @@ Pi Lambda Theta, Xi chapter (University of Michigan) records, Bentley Historical
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [238639041787231083004]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1969/1982">1969-1982</unitdate>
               </unittitle>
@@ -174,8 +176,10 @@ Pi Lambda Theta, Xi chapter (University of Michigan) records, Bentley Historical
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
-              <unittitle>Biennial Council <unitdate type="inclusive" normal="1937">1937</unitdate>, <unitdate type="inclusive" normal="1981">1981</unitdate></unittitle>
+              <container type="box" label="Box [238639041787231083004]" altrender="box">1</container>
+              <unittitle>Biennial Council</unittitle>
+              <unitdate type="inclusive" normal="1937">1937</unitdate>
+              <unitdate type="inclusive" normal="1981">1981</unitdate>
             </did>
           </c03>
         </c02>
@@ -185,7 +189,7 @@ Pi Lambda Theta, Xi chapter (University of Michigan) records, Bentley Historical
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [238639041787231083004]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1952/1962">1952-1962</unitdate>
               </unittitle>
@@ -193,7 +197,7 @@ Pi Lambda Theta, Xi chapter (University of Michigan) records, Bentley Historical
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [238639041787231083004]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1962/1972">1962-1972</unitdate>
               </unittitle>
@@ -201,14 +205,14 @@ Pi Lambda Theta, Xi chapter (University of Michigan) records, Bentley Historical
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [238639041787231083004]" altrender="box">1</container>
               <unittitle>National Office <unitdate type="inclusive" normal="1935/1983">1935-1983 (scattered dates)</unitdate></unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [238639041787231083004]" altrender="box">1</container>
             <unittitle>Programs <unitdate type="inclusive" normal="1952/1982">1952/1953-1981/1982 (scattered dates)</unitdate></unittitle>
           </did>
         </c02>
@@ -220,20 +224,24 @@ Pi Lambda Theta, Xi chapter (University of Michigan) records, Bentley Historical
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
-              <unittitle>Initiation <unitdate type="inclusive" normal="1976">1976</unitdate> and Biennial Council, <unitdate type="inclusive" normal="1975">1975</unitdate></unittitle>
+              <container type="box" label="Box [238639041787231083004]" altrender="box">1</container>
+              <unittitle>Initiation 1976 and Biennial Council, 1975</unittitle>
+              <unitdate type="inclusive" normal="1976">1976</unitdate>
+              <unitdate type="inclusive" normal="1975">1975</unitdate>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [238639041787231083004]" altrender="box">1</container>
               <unittitle>National Convention <unitdate type="inclusive" normal="1969">1969</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
-              <unittitle>Picnic <unitdate type="inclusive" normal="1969">1969</unitdate> and 50th Anniversary Banquet <unitdate type="inclusive" normal="1972">1972</unitdate></unittitle>
+              <container type="box" label="Box [238639041787231083004]" altrender="box">1</container>
+              <unittitle>Picnic 1969 and 50th Anniversary Banquet 1972</unittitle>
+              <unitdate type="inclusive" normal="1969">1969</unitdate>
+              <unitdate type="inclusive" normal="1972">1972</unitdate>
               <physdesc>
                 <physfacet>color slides</physfacet>
               </physdesc>
@@ -242,7 +250,7 @@ Pi Lambda Theta, Xi chapter (University of Michigan) records, Bentley Historical
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [238639041787231083004]" altrender="box">1</container>
             <unittitle><genreform normal="Scrapbooks">Scrapbooks</genreform>, <unitdate type="inclusive" normal="1923/1977">1923-1977</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 volumes</extent>

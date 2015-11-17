@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Cleland B. Wyllie papers, 1926-1979</titleproper>
       <author>Finding aid created by <lb/>Michigan Historical Collections staff</author>
     </titlepage>
@@ -83,25 +83,25 @@ Cleland B. Wyllie papers, Bentley Historical Library, University of Michigan</p>
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <subject source="lcsh" encodinganalog="650">Athletics--Michigan--Ann Arbor.</subject>
-        <subject source="lcsh" encodinganalog="650">Railroads--United States.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5965">Athletics--Michigan--Ann Arbor.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7313">Railroads--United States.</subject>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan--Sports.</corpname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan--Faculty.</corpname>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Materials:</head>
-        <geogname source="lcsh" encodinganalog="651">Blue Water Bridge (Port Huron, Mich. and Sarnia, Ont.)</geogname>
-        <subject source="lctgm" encodinganalog="650">Ferries.</subject>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n88268193.html">Mackinaw City (Mich.)</geogname>
-        <geogname source="lcsh" encodinganalog="651">Ontario.</geogname>
-        <subject source="lctgm" encodinganalog="650">Railroad lounge cars.</subject>
-        <subject source="lctgm" encodinganalog="650">Railroads--Ontario.</subject>
-        <subject source="lctgm" encodinganalog="650">Railroads--United States.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/2155">Blue Water Bridge (Port Huron, Mich. and Sarnia, Ont.)</geogname>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3787">Ferries.</subject>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n88268193.html" ref="/subjects/1005">Mackinaw City (Mich.)</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/3134">Ontario.</geogname>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/5631">Railroad lounge cars.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4546">Railroads--Ontario.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3964">Railroads--United States.</subject>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
-        <genreform source="aat" encodinganalog="655">Scrapbooks.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3139">Scrapbooks.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -111,7 +111,7 @@ Cleland B. Wyllie papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [730466194619840306]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive">Undated</unitdate>
             </unittitle>
@@ -119,7 +119,7 @@ Cleland B. Wyllie papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [730466194619840306]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1940/1949">1940-1949</unitdate>
             </unittitle>
@@ -127,7 +127,7 @@ Cleland B. Wyllie papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [730466194619840306]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1950/1954">1950-1954</unitdate>
             </unittitle>
@@ -135,7 +135,7 @@ Cleland B. Wyllie papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [730466194619840306]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1955/1956">1955-1956</unitdate>
             </unittitle>
@@ -143,7 +143,7 @@ Cleland B. Wyllie papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [730466194619840306]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1957/1959">1957-1959</unitdate>
             </unittitle>
@@ -151,7 +151,7 @@ Cleland B. Wyllie papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [730466194619840306]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1960/1962">1960-1962</unitdate>
             </unittitle>
@@ -159,7 +159,7 @@ Cleland B. Wyllie papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [730466194619840306]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1963/1965">1963-1965</unitdate>
             </unittitle>
@@ -167,7 +167,7 @@ Cleland B. Wyllie papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [730466194619840306]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1966/1969">1966-1969</unitdate>
             </unittitle>
@@ -175,7 +175,7 @@ Cleland B. Wyllie papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [730466194619840306]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1970/1979">1970-1979</unitdate>
             </unittitle>
@@ -183,7 +183,7 @@ Cleland B. Wyllie papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [730466194619840306]" altrender="box">1</container>
             <unittitle>Family correspondence <unitdate type="inclusive" normal="1958/1963">1958-1963</unitdate> with Herman H. Josenhans</unittitle>
           </did>
         </c02>
@@ -194,67 +194,67 @@ Cleland B. Wyllie papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [730466194619840306]" altrender="box">1</container>
             <unittitle>College papers and lecture notes <unitdate type="inclusive" normal="1927/1929">1927-1929</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [730466194619840306]" altrender="box">1</container>
             <unittitle>Articles <unitdate type="inclusive">undated</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [730466194619840306]" altrender="box">1</container>
             <unittitle>Articles <unitdate type="inclusive">undated</unitdate>, for <title render="italic">Inside Track</title></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [730466194619840306]" altrender="box">1</container>
             <unittitle>"Black Hills Central Railroad," <unitdate type="inclusive">undated</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [730466194619840306]" altrender="box">1</container>
             <unittitle>"Grand Trunk History, 1879-1880" <unitdate type="inclusive">undated</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [730466194619840306]" altrender="box">1</container>
             <unittitle>"Route of the Freight 4001s" <unitdate type="inclusive">undated</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [730466194619840306]" altrender="box">1</container>
             <unittitle>"Tyler vs. Vanderbilt," <unitdate type="inclusive">undated</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [730466194619840306]" altrender="box">1</container>
             <unittitle>"Why have the railroads had to discontinue so many passenger trains in Michigan?" <unitdate type="inclusive">undated</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [730466194619840306]" altrender="box">1</container>
             <unittitle>"Can Michigan's Railroads Stay in the Passenger Business?" <unitdate type="inclusive" normal="1955">1955</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [730466194619840306]" altrender="box">1</container>
             <unittitle>"Railroad Passenger Service Needs Some Positive Thinking," <unitdate type="inclusive" normal="1965">1965</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [730466194619840306]" altrender="box">1</container>
             <unittitle>"Train Riding Survey," <unitdate type="inclusive" normal="1966/1968">1966-1968</unitdate></unittitle>
           </did>
         </c02>
@@ -265,14 +265,16 @@ Cleland B. Wyllie papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [730466194619840306]" altrender="box">1</container>
             <unittitle>Papers <unitdate type="inclusive" normal="1973">1973</unitdate> concerning Michigan railroads</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <unittitle>Papers <unitdate type="inclusive">undated</unitdate>, <unitdate type="inclusive" normal="1972">1972</unitdate> concerning Michigan car ferries</unittitle>
+            <container type="box" label="Box [730466194619840306]" altrender="box">1</container>
+            <unittitle>Papers undated, 1972 concerning Michigan car ferries</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <unitdate type="inclusive" normal="1972">1972</unitdate>
           </did>
         </c02>
         <c02 level="file">
@@ -281,50 +283,52 @@ Cleland B. Wyllie papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [730466194619840306]" altrender="box">1</container>
               <unittitle>Membership list <unitdate type="inclusive" normal="1964">1964</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [730466194619840306]" altrender="box">1</container>
               <unittitle>Broadsides <unitdate type="inclusive" normal="1960/1974">1960-1974</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
-              <unittitle>Michigan Rail Action Association <unitdate type="inclusive">undated</unitdate>, <unitdate type="inclusive" normal="1977">1977</unitdate> Constitution and bulletins</unittitle>
+              <container type="box" label="Box [730466194619840306]" altrender="box">1</container>
+              <unittitle>Michigan Rail Action Association undated, 1977 Constitution and bulletins</unittitle>
+              <unitdate type="inclusive">undated</unitdate>
+              <unitdate type="inclusive" normal="1977">1977</unitdate>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [730466194619840306]" altrender="box">1</container>
             <unittitle>Railroad Record Club, undated, Order information</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [730466194619840306]" altrender="box">1</container>
             <unittitle>Roundhouse records <unitdate type="inclusive" normal="1965/1966">1965-1966</unitdate> Broadsides</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [730466194619840306]" altrender="box">1</container>
             <unittitle>Railfan <unitdate type="inclusive" normal="1964/1965">1964-1965</unitdate> news release</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [730466194619840306]" altrender="box">1</container>
             <unittitle>Papers, undated <unitdate type="inclusive" normal="1945">1945</unitdate>, <unitdate type="inclusive" normal="1960/1961">1960-1961</unitdate> concerning sale of timetables</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [730466194619840306]" altrender="box">1</container>
             <unittitle>Railroad memorabilia, undated, including broadsides, pamphlets, and certificates</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -333,7 +337,7 @@ Cleland B. Wyllie papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [730466194619840306]" altrender="box">1</container>
             <unittitle>Articles by others concerning railroads and transportation</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -342,7 +346,7 @@ Cleland B. Wyllie papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [730466194619840306]" altrender="box">1</container>
             <unittitle>Newspaper clippings</unittitle>
           </did>
           <odd>
@@ -357,20 +361,20 @@ Cleland B. Wyllie papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [730466194619840306]" altrender="box">1</container>
               <unittitle>Portraits</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [730466194619840306]" altrender="box">1</container>
               <unittitle>Railroad photos</unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [730466194619840306]" altrender="box">1</container>
             <unittitle>Delta College</unittitle>
           </did>
         </c02>
@@ -383,43 +387,43 @@ Cleland B. Wyllie papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [9370444981510454]" altrender="box">2</container>
             <unittitle><unitdate type="inclusive" normal="1950/1951">1950-1951</unitdate> of Michigan travel</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [9370444981510454]" altrender="box">2</container>
             <unittitle><unitdate type="inclusive" normal="1926">1926</unitdate> concerning baseball</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [9370444981510454]" altrender="box">2</container>
             <unittitle><unitdate type="inclusive" normal="1926/1927">1926-1927</unitdate> concerning football and baseball</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [9370444981510454]" altrender="box">2</container>
             <unittitle><unitdate type="inclusive" normal="1927/1928">1927-1928</unitdate> concerning sports</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [9370444981510454]" altrender="box">2</container>
             <unittitle><unitdate type="inclusive" normal="1928/1930">1928-1930</unitdate> concerning football and baseball</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [9370444981510454]" altrender="box">2</container>
             <unittitle><unitdate type="inclusive" normal="1932/1933">1932-1933</unitdate> concerning football</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [9370444981510454]" altrender="box">2</container>
             <unittitle><unitdate type="inclusive" normal="1948">1948</unitdate> of Michigan Rose Bowl game</unittitle>
           </did>
         </c02>

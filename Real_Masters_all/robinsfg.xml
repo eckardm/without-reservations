@@ -34,7 +34,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding Aid for <lb/>F. George Robins papers, <date>1915-1919</date></titleproper>
       <author>Finding aid prepared by: <lb/>Len Coombs</author>
     </titlepage>
@@ -80,9 +80,9 @@
       <controlaccess>
         <head>Subjects</head>
         <persname source="lcnaf" encodinganalog="600">Robins, F. George.</persname>
-        <geogname source="lcsh" encodinganalog="651">Soviet Union--History--Allied intervention, 1918-1920.</geogname>
-        <subject source="lcsh" encodinganalog="650">World War, 1914-1918.</subject>
-        <subject source="local" encodinganalog="690" authfilenumber="http://id.loc.gov/authorities/names/n2008059426">Polar Bear Expedition.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/883">Soviet Union--History--Allied intervention, 1918-1920.</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5712">World War, 1914-1918.</subject>
+        <subject source="local" encodinganalog="690" authfilenumber="http://id.loc.gov/authorities/names/n2008059426" ref="/subjects/3518">Polar Bear Expedition.</subject>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -92,7 +92,7 @@
         </did>
         <c02 level="file">
           <did>
-            <container type="folder" label="Folder">1</container>
+            <container type="folder" label="Folder [059485442026390909]" altrender="folder">1</container>
             <unittitle>Letters <unitdate type="inclusive" normal="1918/1919">1918-1919</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">4 items</extent>
@@ -104,7 +104,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="folder" label="Folder">2</container>
+            <container type="folder" label="Folder [3238493345873433709]" altrender="folder">2</container>
             <unittitle>Diaries <unitdate type="inclusive" normal="1918/1919">1918-1919</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 items</extent>
@@ -117,13 +117,13 @@
           </did>
           <c03 level="file">
             <did>
-              <container type="folder" label="Folder">3</container>
+              <container type="folder" label="Folder [515504245418253230697]" altrender="folder">3</container>
               <unittitle>Empty envelopes and <unitdate type="inclusive">undated</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="folder" label="Folder">4</container>
+              <container type="folder" label="Folder [65677164873805029688]" altrender="folder">4</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1915/1917">1915-1917</unitdate>
               </unittitle>
@@ -131,7 +131,7 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="folder" label="Folder">5</container>
+              <container type="folder" label="Folder [908227064108249824238]" altrender="folder">5</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1918-01/1918-05">1918 January-May</unitdate>
               </unittitle>
@@ -139,7 +139,7 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="folder" label="Folder">6</container>
+              <container type="folder" label="Folder [647469971170755003800]" altrender="folder">6</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1918-06/1918-07">1918 June-July</unitdate>
               </unittitle>
@@ -147,7 +147,7 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="folder" label="Folder">7</container>
+              <container type="folder" label="Folder [80391491644618520930053281]" altrender="folder">7</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1918-08/1918-09">1918 August-September</unitdate>
               </unittitle>
@@ -155,7 +155,7 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="folder" label="Folder">8</container>
+              <container type="folder" label="Folder [970476598442345905577]" altrender="folder">8</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1918-10/1918-12">1918 October-December</unitdate>
               </unittitle>
@@ -163,7 +163,7 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="folder" label="Folder">9</container>
+              <container type="folder" label="Folder [319950447771869]" altrender="folder">9</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1919">1919</unitdate>
               </unittitle>
@@ -177,7 +177,7 @@
         </did>
         <c02 level="file">
           <did>
-            <container type="folder" label="Folder">10</container>
+            <container type="folder" label="Folder [5033741732553128]" altrender="folder">10</container>
             <unittitle>Photographs</unittitle>
           </did>
         </c02>

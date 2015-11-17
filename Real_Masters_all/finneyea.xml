@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Edward A. Finney photographs, ca. 1898-1913</titleproper>
       <author>Finding aid created by <lb/>Michigan Historical Collections staff</author>
     </titlepage>
@@ -83,18 +83,18 @@ Edward A. Finney photographs, Bentley Historical Library, University of Michigan
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <geogname source="lcsh" encodinganalog="651">Calumet (Mich.)</geogname>
-        <subject source="lcsh" encodinganalog="650">Copper Miners' Strike, Mich., 1913-1914.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1050">Calumet (Mich.)</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7761">Copper Miners' Strike, Mich., 1913-1914.</subject>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n87910587">Michigan. National Guard.</corpname>
-        <subject source="lctgm" encodinganalog="650">Military camps.</subject>
-        <subject source="lctgm" encodinganalog="650">Miners' strikes.</subject>
-        <subject source="lctgm" encodinganalog="650">Strikes.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3747">Military camps.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4311">Miners' strikes.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4060">Strikes.</subject>
         <corpname source="lcnaf" encodinganalog="610">United States. Army. Michigan Infantry Regiment, 31st (1898-1899). Company D.</corpname>
-        <subject source="lcsh" encodinganalog="650">Spanish-American War, 1898.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6011">Spanish-American War, 1898.</subject>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -110,7 +110,7 @@ Edward A. Finney photographs, Bentley Historical Library, University of Michigan
           </did>
           <c03 level="item">
             <did>
-              <container type="reel" label="Roll">1</container>
+              <container type="reel" label="Roll [9861784469125277362]" altrender="reel">1</container>
               <unittitle>Men from Jackson County, Co. D and Co. H, 31st Michigan Infantry at Camp Thomas, Chickamauga Park, Georgia, New Camp <unitdate type="inclusive" normal="1898-08">August, 1898</unitdate>. Include Clifford Green, Co. H; Charles Oswick, Co. D; Charles Luttenton, Co. H; Harry Stanbridge, Co. D; Christie Stearns, Co. D; George Griest, Co. D; George Maloney, Co. D; Thomas Elliot, Co. D; Fred MaGraw, Co. D.</unittitle>
             </did>
             <odd>
@@ -119,7 +119,7 @@ Edward A. Finney photographs, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="item">
             <did>
-              <container type="reel" label="Roll">1</container>
+              <container type="reel" label="Roll [9861784469125277362]" altrender="reel">1</container>
               <unittitle>Rifle Range of the 31st Michigan Infantry, about eight miles from Camp Thomas, Chickamauga Park, Georgia, on Pea Vine Ridge. The picture shows the third Battalion firing at 100 yards. The middle target is Co. D target.</unittitle>
             </did>
             <odd>
@@ -131,7 +131,7 @@ Edward A. Finney photographs, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="item">
             <did>
-              <container type="reel" label="Roll">1</container>
+              <container type="reel" label="Roll [9861784469125277362]" altrender="reel">1</container>
               <unittitle>Camp of the 31st Michigan Infantry at Camp Poland, Knoxville, Tennessee <unitdate type="inclusive" normal="1898-09">September, 1898</unitdate>. Sunday morning inspection.</unittitle>
             </did>
             <odd>
@@ -143,7 +143,7 @@ Edward A. Finney photographs, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="item">
             <did>
-              <container type="reel" label="Roll">1</container>
+              <container type="reel" label="Roll [9861784469125277362]" altrender="reel">1</container>
               <unittitle>Grand Review at Camp Poland, Knoxville, Tennessee in honor of General Breckinridge <unitdate type="inclusive" normal="1898-09-15">September 15, 1898</unitdate> at the parade grounds of the 1st Georgia and 31st Michigan. The 31st Michigan is passing in review.</unittitle>
             </did>
             <odd>
@@ -155,7 +155,7 @@ Edward A. Finney photographs, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="item">
             <did>
-              <container type="reel" label="Roll">1</container>
+              <container type="reel" label="Roll [9861784469125277362]" altrender="reel">1</container>
               <unittitle>View of the 31st Michigan camp at Savannah, Georgia <unitdate type="inclusive" normal="1899-01-18">January 18, 1899</unitdate> taken at Regimental Parade of the 31st Michigan. Left of Co. H, right of Co. I.</unittitle>
             </did>
             <odd>
@@ -167,7 +167,7 @@ Edward A. Finney photographs, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="item">
             <did>
-              <container type="reel" label="Roll">1</container>
+              <container type="reel" label="Roll [9861784469125277362]" altrender="reel">1</container>
               <unittitle>Dinner given by the citizens of Savannah, Georgia and members of the 1st Georgia Regiment to the 31st Michigan <unitdate type="inclusive" normal="1899-01-19">January 19, 1899</unitdate>. Companies L, E, M, and D being entertained by Co. L, 1st Georgia, "The Jasper Greens"</unittitle>
             </did>
             <odd>
@@ -179,7 +179,7 @@ Edward A. Finney photographs, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="item">
             <did>
-              <container type="reel" label="Roll">1</container>
+              <container type="reel" label="Roll [9861784469125277362]" altrender="reel">1</container>
               <unittitle>Loading the U.S. Transport "Chester" at Savannah, Georgia with the 31st Michigan Infantry for Cuba <unitdate type="inclusive" normal="1899-01-25">January 25, 1899</unitdate></unittitle>
             </did>
             <odd>
@@ -191,7 +191,7 @@ Edward A. Finney photographs, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="item">
             <did>
-              <container type="reel" label="Roll">1</container>
+              <container type="reel" label="Roll [9861784469125277362]" altrender="reel">1</container>
               <unittitle>Photo at Amaro, Cuba, near camp of the 31st Michigan <unitdate type="inclusive" normal="1899-02-12">February 12, 1899</unitdate></unittitle>
             </did>
             <odd>
@@ -200,7 +200,7 @@ Edward A. Finney photographs, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="item">
             <did>
-              <container type="reel" label="Roll">1</container>
+              <container type="reel" label="Roll [9861784469125277362]" altrender="reel">1</container>
               <unittitle>The "Minnewaska" afterward the "Thomas" which brought the 31st Michigan from Cuba to America in spring of <unitdate type="inclusive" normal="1899">1899</unitdate></unittitle>
             </did>
             <odd>
@@ -217,7 +217,7 @@ Edward A. Finney photographs, Bentley Historical Library, University of Michigan
           </did>
           <c03 level="item">
             <did>
-              <container type="reel" label="Roll">1</container>
+              <container type="reel" label="Roll [9861784469125277362]" altrender="reel">1</container>
               <unittitle>Co. D, First Independent Battalion, Michigan National Guard, Washington's Birthday <unitdate type="inclusive" normal="1901">1901</unitdate></unittitle>
             </did>
             <odd>
@@ -226,7 +226,7 @@ Edward A. Finney photographs, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="item">
             <did>
-              <container type="reel" label="Roll">1</container>
+              <container type="reel" label="Roll [9861784469125277362]" altrender="reel">1</container>
               <unittitle>Manistee Company, Camp Bliss <unitdate type="inclusive" normal="1901-08-14">August 14, 1901</unitdate></unittitle>
             </did>
             <odd>
@@ -235,7 +235,7 @@ Edward A. Finney photographs, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="item">
             <did>
-              <container type="reel" label="Roll">1</container>
+              <container type="reel" label="Roll [9861784469125277362]" altrender="reel">1</container>
               <unittitle>State camp, Michigan National Guard, Camp Bliss, Manistee, Michigan <unitdate type="inclusive" normal="1901-08-05/1901-08-14">August 5-14, 1901</unitdate>. Members of Co. D, Horace M. Foster; Q.M. Sgt.; William N. Neesley; Louis J. Collins, 1st Lieut.; Bert Bishop Morrison; Ralph White; Conrad Eggebreckt; Capt. Burton C. Huickley; Corp. Frank H. Wilcox; E.A. Finney, 2nd Lieut.</unittitle>
             </did>
             <odd>
@@ -244,7 +244,7 @@ Edward A. Finney photographs, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="item">
             <did>
-              <container type="reel" label="Roll">1</container>
+              <container type="reel" label="Roll [9861784469125277362]" altrender="reel">1</container>
               <unittitle>Gov. Aaron T. Bliss and staff at Camp Hawley, Manistee, Michigan. Camp of <unitdate type="inclusive" normal="1902-08-11/1902-08-20">August 11-20, 1902</unitdate> taken near 3rd Regiment Guard Line, showing sentinel of 3rd Regiment</unittitle>
             </did>
             <odd>
@@ -253,7 +253,7 @@ Edward A. Finney photographs, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="item">
             <did>
-              <container type="reel" label="Roll">1</container>
+              <container type="reel" label="Roll [9861784469125277362]" altrender="reel">1</container>
               <unittitle>Manistee Camp <unitdate type="inclusive" normal="1902">1902</unitdate></unittitle>
             </did>
             <odd>
@@ -262,7 +262,7 @@ Edward A. Finney photographs, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="item">
             <did>
-              <container type="reel" label="Roll">1</container>
+              <container type="reel" label="Roll [9861784469125277362]" altrender="reel">1</container>
               <unittitle>Camp Young, West Point, Kentucky. <unitdate type="inclusive" normal="1903-10">October, 1903</unitdate>. Cook tent, Co. D, 1st Independent Battalion, Michigan National Guard. Corp. Noll; Priv. Santer; Q.M. Sgt; Cooks Hurd and Stadelman.</unittitle>
             </did>
             <odd>
@@ -271,8 +271,10 @@ Edward A. Finney photographs, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="item">
             <did>
-              <container type="reel" label="Roll">1</container>
-              <unittitle>Camp, West Point, Kentucky <unitdate type="inclusive" normal="1903-09-30/1903-10-11">September 30-October 11, 1903</unitdate>, <unitdate type="inclusive" normal="1903-10-06">October 6, 1903</unitdate>. Day after returning from rain. Drying out our clothes</unittitle>
+              <container type="reel" label="Roll [9861784469125277362]" altrender="reel">1</container>
+              <unittitle>Camp, West Point, Kentucky September 30-October 11, 1903, October 6, 1903. Day after returning from rain. Drying out our clothes</unittitle>
+              <unitdate type="inclusive" normal="1903-09-30/1903-10-11">September 30-October 11, 1903</unitdate>
+              <unitdate type="inclusive" normal="1903-10-06">October 6, 1903</unitdate>
             </did>
             <odd>
               <p>(Photo by S.B. Morrell, Detroit; item no. 16)</p>
@@ -280,7 +282,7 @@ Edward A. Finney photographs, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="item">
             <did>
-              <container type="reel" label="Roll">1</container>
+              <container type="reel" label="Roll [9861784469125277362]" altrender="reel">1</container>
               <unittitle>Camp at Harpers Ferry <unitdate type="inclusive" normal="1904-08-05">August 5, 1904</unitdate></unittitle>
             </did>
             <odd>
@@ -289,7 +291,7 @@ Edward A. Finney photographs, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="item">
             <did>
-              <container type="reel" label="Roll">1</container>
+              <container type="reel" label="Roll [9861784469125277362]" altrender="reel">1</container>
               <unittitle>Co. M, 1st Infantry, Michigan National Guard, Ludington, Michigan <unitdate type="inclusive" normal="1905-08">August, 1905</unitdate></unittitle>
             </did>
             <odd>
@@ -298,7 +300,7 @@ Edward A. Finney photographs, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="item">
             <did>
-              <container type="reel" label="Roll">1</container>
+              <container type="reel" label="Roll [9861784469125277362]" altrender="reel">1</container>
               <unittitle>Camp at Indianapolis, Indiana <unitdate type="inclusive" normal="1906-08-04/1906-08-13">August 4-13, 1906</unitdate></unittitle>
             </did>
             <odd>
@@ -307,7 +309,7 @@ Edward A. Finney photographs, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="item">
             <did>
-              <container type="reel" label="Roll">1</container>
+              <container type="reel" label="Roll [9861784469125277362]" altrender="reel">1</container>
               <unittitle>Camp at Indianapolis <unitdate type="inclusive" normal="1906-08-04/1906-08-13">August 4-13, 1906</unitdate>. Co. D flooded out</unittitle>
             </did>
             <odd>
@@ -316,7 +318,7 @@ Edward A. Finney photographs, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="item">
             <did>
-              <container type="reel" label="Roll">1</container>
+              <container type="reel" label="Roll [9861784469125277362]" altrender="reel">1</container>
               <unittitle>Camp. <unitdate type="inclusive" normal="1907-09-03">September 3, 1907</unitdate></unittitle>
             </did>
             <odd>
@@ -325,7 +327,7 @@ Edward A. Finney photographs, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="item">
             <did>
-              <container type="reel" label="Roll">1</container>
+              <container type="reel" label="Roll [9861784469125277362]" altrender="reel">1</container>
               <unittitle>Battalion officers. <unitdate type="inclusive" normal="1908">1908</unitdate></unittitle>
             </did>
             <odd>
@@ -334,8 +336,10 @@ Edward A. Finney photographs, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="item">
             <did>
-              <container type="reel" label="Roll">1</container>
-              <unittitle>Co. M, Fist Infantry, Michigan National Guard <unitdate type="inclusive" normal="1908-07-05">July 5, 1908</unitdate>. Practice (?) camp of <unitdate type="inclusive" normal="1908-07-03/1908-07-05">July 3-5, 1908</unitdate></unittitle>
+              <container type="reel" label="Roll [9861784469125277362]" altrender="reel">1</container>
+              <unittitle>Co. M, Fist Infantry, Michigan National Guard July 5, 1908. Practice (?) camp of July 3-5, 1908</unittitle>
+              <unitdate type="inclusive" normal="1908-07-05">July 5, 1908</unitdate>
+              <unitdate type="inclusive" normal="1908-07-03/1908-07-05">July 3-5, 1908</unitdate>
             </did>
             <odd>
               <p>(item no. 23)</p>
@@ -343,7 +347,7 @@ Edward A. Finney photographs, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="item">
             <did>
-              <container type="reel" label="Roll">1</container>
+              <container type="reel" label="Roll [9861784469125277362]" altrender="reel">1</container>
               <unittitle>Camp, Co. D, 1st Michigan, Calumet, Michigan <unitdate type="inclusive" normal="1910">1910</unitdate></unittitle>
             </did>
             <odd>
@@ -352,7 +356,7 @@ Edward A. Finney photographs, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="item">
             <did>
-              <container type="reel" label="Roll">1</container>
+              <container type="reel" label="Roll [9861784469125277362]" altrender="reel">1</container>
               <unittitle>Camp of Instruction, Ft. Benjamin Harrison, Indiana <unitdate type="inclusive" normal="1910-06-20/1910-06-25">June 20-25, 1910</unitdate>. First tent, Co. D, Provisional Regt. Capt. W.J. Lawrence, Co. B, 1st Infantry; Capt. Alan Lang, Co. H, 1st Infantry; Major John D. Bersey 1st Battalion, 1st Infantry; Capt. John C. Durst, Co. E, 2nd Infantry; Capt. E.A. Finney, Co. M, 1st Infantry.</unittitle>
             </did>
             <odd>
@@ -361,7 +365,7 @@ Edward A. Finney photographs, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="item">
             <did>
-              <container type="reel" label="Roll">1</container>
+              <container type="reel" label="Roll [9861784469125277362]" altrender="reel">1</container>
               <unittitle>Camp of Instruction, Ft. Benjamin Harrison, Indiana <unitdate type="inclusive" normal="1910-06-20/1910-06-25">June 20-25, 1910</unitdate>. Co. D Provisional Regt. Capt. Ingrah.</unittitle>
             </did>
             <odd>
@@ -370,8 +374,10 @@ Edward A. Finney photographs, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="item">
             <did>
-              <container type="reel" label="Roll">1</container>
-              <unittitle>Co. M, First Infantry. Camp Osborn, Port Huron, Michigan <unitdate type="inclusive" normal="1911-08-09/1911-08-18">August 9-18, 1911</unitdate>. Picture taken Sunday, <unitdate type="inclusive" normal="1911-08-13">August 13, 1911</unitdate> immediately after inspection.</unittitle>
+              <container type="reel" label="Roll [9861784469125277362]" altrender="reel">1</container>
+              <unittitle>Co. M, First Infantry. Camp Osborn, Port Huron, Michigan August 9-18, 1911. Picture taken Sunday, August 13, 1911 immediately after inspection.</unittitle>
+              <unitdate type="inclusive" normal="1911-08-09/1911-08-18">August 9-18, 1911</unitdate>
+              <unitdate type="inclusive" normal="1911-08-13">August 13, 1911</unitdate>
             </did>
             <odd>
               <p>(item no. 27)</p>
@@ -379,7 +385,7 @@ Edward A. Finney photographs, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="item">
             <did>
-              <container type="reel" label="Roll">1</container>
+              <container type="reel" label="Roll [9861784469125277362]" altrender="reel">1</container>
               <unittitle>Ludington, Michigan <unitdate type="inclusive" normal="1912">1912</unitdate> (Capt. Finney's tent).</unittitle>
             </did>
             <odd>
@@ -388,7 +394,7 @@ Edward A. Finney photographs, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="item">
             <did>
-              <container type="reel" label="Roll">1</container>
+              <container type="reel" label="Roll [9861784469125277362]" altrender="reel">1</container>
               <unittitle>Ludington, Michigan <unitdate type="inclusive" normal="1912" certainty="approximate">1912</unitdate>(Soldiers and families before tent of Cant. Finney, small group)</unittitle>
             </did>
             <odd>
@@ -397,7 +403,7 @@ Edward A. Finney photographs, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="item">
             <did>
-              <container type="reel" label="Roll">1</container>
+              <container type="reel" label="Roll [9861784469125277362]" altrender="reel">1</container>
               <unittitle>Ludington, Michigan <unitdate type="inclusive" normal="1912" certainty="approximate">1912</unitdate>(Soldiers and families before tent of Capt. Finney, large group.)</unittitle>
             </did>
             <odd>
@@ -415,7 +421,7 @@ Edward A. Finney photographs, Bentley Historical Library, University of Michigan
             </did>
             <c04 level="item">
               <did>
-                <container type="reel" label="Roll">1</container>
+                <container type="reel" label="Roll [9861784469125277362]" altrender="reel">1</container>
                 <unittitle>Soldiers posed before tent</unittitle>
               </did>
               <odd>
@@ -427,7 +433,7 @@ Edward A. Finney photographs, Bentley Historical Library, University of Michigan
             </c04>
             <c04 level="item">
               <did>
-                <container type="reel" label="Roll">1</container>
+                <container type="reel" label="Roll [9861784469125277362]" altrender="reel">1</container>
                 <unittitle>Soldiers at case before tent</unittitle>
               </did>
               <odd>
@@ -436,7 +442,7 @@ Edward A. Finney photographs, Bentley Historical Library, University of Michigan
             </c04>
             <c04 level="item">
               <did>
-                <container type="reel" label="Roll">1</container>
+                <container type="reel" label="Roll [9861784469125277362]" altrender="reel">1</container>
                 <unittitle>Tents pitched before house and armory</unittitle>
               </did>
               <odd>
@@ -448,7 +454,7 @@ Edward A. Finney photographs, Bentley Historical Library, University of Michigan
             </c04>
             <c04 level="item">
               <did>
-                <container type="reel" label="Roll">1</container>
+                <container type="reel" label="Roll [9861784469125277362]" altrender="reel">1</container>
                 <unittitle>Tents pitched before house</unittitle>
               </did>
               <odd>
@@ -457,7 +463,7 @@ Edward A. Finney photographs, Bentley Historical Library, University of Michigan
             </c04>
             <c04 level="item">
               <did>
-                <container type="reel" label="Roll">1</container>
+                <container type="reel" label="Roll [9861784469125277362]" altrender="reel">1</container>
                 <unittitle>Soldiers marching near tent</unittitle>
               </did>
               <odd>
@@ -470,7 +476,7 @@ Edward A. Finney photographs, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="item">
             <did>
-              <container type="reel" label="Roll">1</container>
+              <container type="reel" label="Roll [9861784469125277362]" altrender="reel">1</container>
               <unittitle>Postcard <unitdate type="inclusive" normal="1913-07-25">July 25, 1913</unitdate> starting for Calumet</unittitle>
             </did>
             <odd>
@@ -482,7 +488,7 @@ Edward A. Finney photographs, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="item">
             <did>
-              <container type="reel" label="Roll">1</container>
+              <container type="reel" label="Roll [9861784469125277362]" altrender="reel">1</container>
               <unittitle>Postcard, dated Calumet, Michigan <unitdate type="inclusive" normal="1913-08-01">August 1, 1913</unitdate> to Mrs. E.A. Finney, Jackson, Michigan. "This is our Co. waiting orders to make camp Sunday, A.M. July 27. You can see me at extreme right talking to Major Puck. E.A.F. All quiet."</unittitle>
             </did>
             <odd>
@@ -494,7 +500,7 @@ Edward A. Finney photographs, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="item">
             <did>
-              <container type="reel" label="Roll">1</container>
+              <container type="reel" label="Roll [9861784469125277362]" altrender="reel">1</container>
               <unittitle>Postcard, dated Calumet, Michigan <unitdate type="inclusive" normal="1913-08-08">August 8, 1913</unitdate> to Burnett Finney, Jackson, Michigan. "This is where we get our supper. Can you see Uncle Lawrence and Daddy?..."</unittitle>
             </did>
             <odd>
@@ -506,7 +512,7 @@ Edward A. Finney photographs, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="item">
             <did>
-              <container type="reel" label="Roll">1</container>
+              <container type="reel" label="Roll [9861784469125277362]" altrender="reel">1</container>
               <unittitle>Co. M, 1st Infantry at Calumet <unitdate type="inclusive" normal="1913-08">August, 1913</unitdate></unittitle>
             </did>
             <odd>
@@ -515,7 +521,7 @@ Edward A. Finney photographs, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="item">
             <did>
-              <container type="reel" label="Roll">1</container>
+              <container type="reel" label="Roll [9861784469125277362]" altrender="reel">1</container>
               <unittitle>Postcard, unidentified, probably at Calumet <unitdate type="inclusive" normal="1913">1913</unitdate> (street with pickets? and posted guardsman.)</unittitle>
             </did>
             <odd>
@@ -524,7 +530,7 @@ Edward A. Finney photographs, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="item">
             <did>
-              <container type="reel" label="Roll">1</container>
+              <container type="reel" label="Roll [9861784469125277362]" altrender="reel">1</container>
               <unittitle>Postcard, unidentified. Probably at Calumet <unitdate type="inclusive" normal="1913">1913</unitdate> (soldiers and civilians near station)</unittitle>
             </did>
             <odd>
@@ -536,7 +542,7 @@ Edward A. Finney photographs, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="item">
             <did>
-              <container type="reel" label="Roll">1</container>
+              <container type="reel" label="Roll [9861784469125277362]" altrender="reel">1</container>
               <unittitle>Postcard, unidentified. Probably at Calumet <unitdate type="inclusive" normal="1913">1913</unitdate> (acrobatic stances)</unittitle>
             </did>
             <odd>
@@ -545,7 +551,7 @@ Edward A. Finney photographs, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="item">
             <did>
-              <container type="reel" label="Roll">1</container>
+              <container type="reel" label="Roll [9861784469125277362]" altrender="reel">1</container>
               <unittitle>Co. 14, 1st Infantry, from Jackson, Michigan at Calumet <unitdate type="inclusive" normal="1913">1913</unitdate></unittitle>
             </did>
             <odd>
@@ -557,7 +563,7 @@ Edward A. Finney photographs, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="item">
             <did>
-              <container type="reel" label="Roll">1</container>
+              <container type="reel" label="Roll [9861784469125277362]" altrender="reel">1</container>
               <unittitle>Calumet, Michigan <unitdate type="inclusive" normal="1913">1913</unitdate></unittitle>
             </did>
             <odd>
@@ -574,7 +580,7 @@ Edward A. Finney photographs, Bentley Historical Library, University of Michigan
           </did>
           <c03 level="item">
             <did>
-              <container type="reel" label="Roll">1</container>
+              <container type="reel" label="Roll [9861784469125277362]" altrender="reel">1</container>
               <unittitle>Capt. E.A. Finney snapshot</unittitle>
             </did>
             <odd>
@@ -583,7 +589,7 @@ Edward A. Finney photographs, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="item">
             <did>
-              <container type="reel" label="Roll">1</container>
+              <container type="reel" label="Roll [9861784469125277362]" altrender="reel">1</container>
               <unittitle>Capt. E.A. Finney, New York <unitdate type="inclusive" normal="1913-03-15">March 15, 1913</unitdate> (portrait.</unittitle>
             </did>
             <odd>
@@ -592,7 +598,7 @@ Edward A. Finney photographs, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="item">
             <did>
-              <container type="reel" label="Roll">1</container>
+              <container type="reel" label="Roll [9861784469125277362]" altrender="reel">1</container>
               <unittitle>Camp at Island Lake?</unittitle>
             </did>
             <odd>
@@ -604,7 +610,7 @@ Edward A. Finney photographs, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="item">
             <did>
-              <container type="reel" label="Roll">1</container>
+              <container type="reel" label="Roll [9861784469125277362]" altrender="reel">1</container>
               <unittitle>Co. D, First Independent Battalion, Manistee, Michigan <unitdate type="inclusive">undated</unitdate></unittitle>
             </did>
             <odd>
@@ -613,7 +619,7 @@ Edward A. Finney photographs, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="item">
             <did>
-              <container type="reel" label="Roll">1</container>
+              <container type="reel" label="Roll [9861784469125277362]" altrender="reel">1</container>
               <unittitle>Camp at Manistee, Michigan. <unitdate type="inclusive">undated</unitdate></unittitle>
             </did>
             <odd>
@@ -625,7 +631,7 @@ Edward A. Finney photographs, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="item">
             <did>
-              <container type="reel" label="Roll">1</container>
+              <container type="reel" label="Roll [9861784469125277362]" altrender="reel">1</container>
               <unittitle>Unidentified group photo (about 40 men)</unittitle>
             </did>
             <odd>
@@ -634,7 +640,7 @@ Edward A. Finney photographs, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="item">
             <did>
-              <container type="reel" label="Roll">1</container>
+              <container type="reel" label="Roll [9861784469125277362]" altrender="reel">1</container>
               <unittitle>Unidentified group photo (3 men)</unittitle>
             </did>
             <odd>
@@ -643,7 +649,7 @@ Edward A. Finney photographs, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="item">
             <did>
-              <container type="reel" label="Roll">1</container>
+              <container type="reel" label="Roll [9861784469125277362]" altrender="reel">1</container>
               <unittitle>Unidentified group photo (18 men before tents)</unittitle>
             </did>
             <odd>
@@ -652,7 +658,7 @@ Edward A. Finney photographs, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="item">
             <did>
-              <container type="reel" label="Roll">1</container>
+              <container type="reel" label="Roll [9861784469125277362]" altrender="reel">1</container>
               <unittitle>Unidentified group photo (11 men with sign: The Happy Hooligans)</unittitle>
             </did>
             <odd>
@@ -661,7 +667,7 @@ Edward A. Finney photographs, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="item">
             <did>
-              <container type="reel" label="Roll">1</container>
+              <container type="reel" label="Roll [9861784469125277362]" altrender="reel">1</container>
               <unittitle>Unidentified group photo (soldiers with dog cart)</unittitle>
             </did>
             <odd>
@@ -670,7 +676,7 @@ Edward A. Finney photographs, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="item">
             <did>
-              <container type="reel" label="Roll">1</container>
+              <container type="reel" label="Roll [9861784469125277362]" altrender="reel">1</container>
               <unittitle>Gardner's Red Necks. Twelfth Annual Reunion, May 17, Lansing. Michigan <unitdate type="inclusive" normal="1910" certainty="approximate">circa 1910</unitdate></unittitle>
             </did>
             <odd>
@@ -682,7 +688,7 @@ Edward A. Finney photographs, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="item">
             <did>
-              <container type="reel" label="Roll">1</container>
+              <container type="reel" label="Roll [9861784469125277362]" altrender="reel">1</container>
               <unittitle>Co. D, First Michigan Infantry <unitdate type="inclusive" normal="1916" certainty="approximate">1916</unitdate></unittitle>
             </did>
             <odd>

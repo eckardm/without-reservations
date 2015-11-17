@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for<lb/> Dwight J. Brewer papers, 1862-1898 </titleproper>
       <author>Finding aid created by<lb/> Olga Virakhovskaya </author>
     </titlepage>
@@ -95,16 +95,16 @@
         <persname source="lcnaf" encodinganalog="600">Stearns, Edwin.</persname>
         <famname source="lcnaf" encodinganalog="600">Stearns family.</famname>
         <corpname source="lcnaf" encodinganalog="610">United States. Army. Michigan Infantry Regiment, 20th (1862-1865)</corpname>
-        <geogname source="lcsh" encodinganalog="651">United States--History--Civil War, 1861-1865.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/909">United States--History--Civil War, 1861-1865.</geogname>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Materials:</head>
-        <subject source="lctgm" encodinganalog="650">Families.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3923">Families.</subject>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Digital file formats.</genreform>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3193">Digital file formats.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -114,7 +114,7 @@
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [33368614253411783701]" altrender="box">1</container>
             <unittitle>Correspondence, <unitdate type="inclusive" normal="1862/1865">1862-1865</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent>18 folders</extent>
@@ -128,7 +128,7 @@
             <physdesc>
               <physfacet>.ZIP file</physfacet>
             </physdesc>
-            <dao href="http://hdl.handle.net/2027.42/111875" show="new" actuate="onrequest">
+            <dao href="http://hdl.handle.net/2027.42/111875" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/1863">
               <daodesc>
                 <p>[view item]</p>
               </daodesc>
@@ -137,19 +137,19 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [33368614253411783701]" altrender="box">1</container>
             <unittitle>Diary, <unitdate type="inclusive" normal="1862/1872">1862-1872</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [33368614253411783701]" altrender="box">1</container>
             <unittitle>Military papers, original, <unitdate type="inclusive" normal="1865">1865</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [33368614253411783701]" altrender="box">1</container>
             <unittitle>Military papers, photocopies, <unitdate type="inclusive" normal="1862/1865">1862-1865</unitdate></unittitle>
           </did>
         </c02>

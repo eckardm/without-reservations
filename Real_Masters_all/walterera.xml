@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Erich A. Walter Papers, 1887-1976</titleproper>
       <author>Finding aid created by <lb/>Patricia Ryan, January 2014</author>
     </titlepage>
@@ -37,7 +37,9 @@
       <origination>
         <persname source="lcnaf" encodinganalog="100" authfilenumber="http://id.loc.gov/authorities/names/no2006093828">Walter, Erich A., (Erich Albert), 1897-1977.</persname>
       </origination>
-      <unittitle encodinganalog="245">Erich A. Walter papers <unitdate type="inclusive" encodinganalog="245$f" normal="1887/1976">1887-1976</unitdate>, <unitdate type="bulk" encodinganalog="245$g" normal="1930/1949" certainty="approximate">1930s-1940s</unitdate></unittitle>
+      <unittitle encodinganalog="245">Erich A. Walter papers</unittitle>
+      <unitdate type="inclusive" encodinganalog="245$f" normal="1887/1976">1887-1976</unitdate>
+      <unitdate type="bulk" encodinganalog="245$g" normal="1930/1949" certainty="approximate">1930s-1940s</unitdate>
       <unitid encodinganalog="852$h" repositorycode="MiU-H" countrycode="us" type="call number">2014006 Aa 2</unitid>
       <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language></langmaterial>
       <abstract>Erich A. Walter (1897-1977) was a faculty member at the University of Michigan for 53 years, beginning as an instructor in rhetoric in 1919 and ending as the Assistant to the President (Harlan Hatcher) and the Secretary of the University. In addition to his work at the University, Walter was a very successful editor and author, his most popular works being the <title render="italic">Essay Annual</title> (1933-1941) and <title render="italic">A Pictorial History of the Great Lakes</title>, which he co-authored with Harlan Hatcher. This collection contains Walter's University related papers, including correspondence, research and projects, essays and speeches, and photographs used in and drafts of <title render="italic">A Pictorial History of the Great Lakes</title>, in addition to papers related to his work as an editor on <title render="italic">Essay Annual</title> and <title render="italic">Toward Today</title>.</abstract>
@@ -82,8 +84,8 @@ Erich A. Walter papers, Bentley Historical Library, University of Michigan</p>
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <subject source="lcsh" encodinganalog="650">Editors--Michigan--Ann Arbor.</subject>
-        <geogname source="lcsh" encodinganalog="651">Great Lakes (North America)</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/10583">Editors--Michigan--Ann Arbor.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1815">Great Lakes (North America)</geogname>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n50033375">Hatcher, Harlan, 1898-1998.</persname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan--Administration.</corpname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan--Faculty.</corpname>
@@ -91,7 +93,7 @@ Erich A. Walter papers, Bentley Historical Library, University of Michigan</p>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -104,31 +106,31 @@ Erich A. Walter papers, Bentley Historical Library, University of Michigan</p>
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [7763245528240239167824323110]" altrender="box">1</container>
             <unittitle>Connecting Channels project <unitdate type="inclusive" normal="1956/1960">1956-1960</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [7763245528240239167824323110]" altrender="box">1</container>
             <unittitle>D.B. Steinman research <unitdate type="inclusive" normal="1955/1962">1955-1962</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [7763245528240239167824323110]" altrender="box">1</container>
             <unittitle>Edmund G. Love correspondence <unitdate type="inclusive" normal="1954/1971">1954-1971</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [7763245528240239167824323110]" altrender="box">1</container>
             <unittitle>Essays by Walter <unitdate type="inclusive" normal="1931/1946">1931-1946</unitdate> with <unitdate type="inclusive">undated</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [7763245528240239167824323110]" altrender="box">1</container>
             <unittitle>Fr. Gagnieur research project <unitdate type="inclusive" normal="1928/1933">1928-1933</unitdate></unittitle>
           </did>
         </c02>
@@ -138,7 +140,7 @@ Erich A. Walter papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [7763245528240239167824323110]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1935/1937">1935-1937</unitdate>
               </unittitle>
@@ -146,7 +148,7 @@ Erich A. Walter papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [7763245528240239167824323110]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1938/1941">1938-1941</unitdate>
               </unittitle>
@@ -154,7 +156,7 @@ Erich A. Walter papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [7763245528240239167824323110]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1943/1949">1943-1949</unitdate>
               </unittitle>
@@ -162,7 +164,7 @@ Erich A. Walter papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [7763245528240239167824323110]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1950/1952">1950-1952</unitdate>
               </unittitle>
@@ -170,7 +172,7 @@ Erich A. Walter papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [7763245528240239167824323110]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1953/1956">1953-1956</unitdate>
               </unittitle>
@@ -178,7 +180,7 @@ Erich A. Walter papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [7763245528240239167824323110]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1957/1958">1957-1958</unitdate>
               </unittitle>
@@ -186,7 +188,7 @@ Erich A. Walter papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [7763245528240239167824323110]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1959/1961">1959-1961</unitdate>
               </unittitle>
@@ -194,7 +196,7 @@ Erich A. Walter papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [7763245528240239167824323110]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1962/1965">1962-1965</unitdate>
               </unittitle>
@@ -203,25 +205,25 @@ Erich A. Walter papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [7763245528240239167824323110]" altrender="box">1</container>
             <unittitle>Interview transcript re. working with President Harlan Hatcher <unitdate type="inclusive">undated</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [7763245528240239167824323110]" altrender="box">1</container>
             <unittitle>Letters of recommendation <unitdate type="inclusive" normal="1936/1942">1936-1942</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [7763245528240239167824323110]" altrender="box">1</container>
             <unittitle>Letters re. appointment as Dean of Students <unitdate type="inclusive" normal="1946">1946</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [7763245528240239167824323110]" altrender="box">1</container>
             <unittitle>Phoenix Memorial project <unitdate type="inclusive" normal="1947/1974">1947-1974</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -237,13 +239,13 @@ Erich A. Walter papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [7763245528240239167824323110]" altrender="box">1</container>
               <unittitle>Correspondence <unitdate type="inclusive" normal="1957/1966">1957-1966</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [7763245528240239167824323110]" altrender="box">1</container>
               <unittitle>Draft <unitdate type="inclusive">undated</unitdate></unittitle>
             </did>
           </c03>
@@ -253,7 +255,7 @@ Erich A. Walter papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [7763245528240239167824323110]" altrender="box">1</container>
                 <unittitle>Negatives <unitdate type="inclusive">undated</unitdate></unittitle>
                 <physdesc altrender="part">
                   <extent altrender="materialtype spaceoccupied">1 envelopes</extent>
@@ -265,7 +267,7 @@ Erich A. Walter papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [7763245528240239167824323110]" altrender="box">1</container>
                 <unittitle>Photographs <unitdate type="inclusive" normal="1887/1958">1887-1958</unitdate></unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -278,44 +280,48 @@ Erich A. Walter papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [7763245528240239167824323110]" altrender="box">1</container>
               <unittitle>Newspaper Clippings <unitdate type="inclusive" normal="1959/1964">1959-1964</unitdate></unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [7763245528240239167824323110]" altrender="box">1</container>
             <unittitle>Reports <unitdate type="inclusive" normal="1936/1937">1936-1937</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [7763245528240239167824323110]" altrender="box">1</container>
             <unittitle>Sabbatical in England <unitdate type="inclusive" normal="1955/1956">1955-1956</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
-            <unittitle>Ruthven biography <unitdate type="inclusive" normal="1962">1962</unitdate>, <unitdate type="inclusive" normal="1970/1976">1970-1976</unitdate></unittitle>
+            <container type="box" label="Box [78336754569323532026]" altrender="box">2</container>
+            <unittitle>Ruthven biography</unittitle>
+            <unitdate type="inclusive" normal="1962">1962</unitdate>
+            <unitdate type="inclusive" normal="1970/1976">1970-1976</unitdate>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [78336754569323532026]" altrender="box">2</container>
             <unittitle>Speeches <unitdate type="inclusive">undated</unitdate> with <unitdate type="inclusive" normal="1936">1936</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
-            <unittitle>To-day: A Scribbling Diary for <unitdate type="inclusive" normal="1933">1933</unitdate>, <unitdate type="inclusive" normal="1932">1932</unitdate></unittitle>
+            <container type="box" label="Box [78336754569323532026]" altrender="box">2</container>
+            <unittitle>To-day: A Scribbling Diary for</unittitle>
+            <unitdate type="inclusive" normal="1933">1933</unitdate>
+            <unitdate type="inclusive" normal="1932">1932</unitdate>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [78336754569323532026]" altrender="box">2</container>
             <unittitle>University of Michigan biographical papers <unitdate type="inclusive">undated</unitdate> with <unitdate type="inclusive" normal="1956">1956</unitdate></unittitle>
           </did>
         </c02>
@@ -339,13 +345,13 @@ Erich A. Walter papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [78336754569323532026]" altrender="box">2</container>
                 <unittitle>Administrative/background</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [78336754569323532026]" altrender="box">2</container>
                 <unittitle>Author correspondence</unittitle>
               </did>
             </c04>
@@ -358,7 +364,7 @@ Erich A. Walter papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [78336754569323532026]" altrender="box">2</container>
                 <unittitle>Author correspondence</unittitle>
               </did>
             </c04>
@@ -371,7 +377,7 @@ Erich A. Walter papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [78336754569323532026]" altrender="box">2</container>
                 <unittitle>Administrative/background</unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -380,25 +386,25 @@ Erich A. Walter papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [78336754569323532026]" altrender="box">2</container>
                 <unittitle>Author correspondence</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [78336754569323532026]" altrender="box">2</container>
                 <unittitle>Biographical notices</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [78336754569323532026]" altrender="box">2</container>
                 <unittitle>Essays included</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [78336754569323532026]" altrender="box">2</container>
                 <unittitle>Reports and reviews</unittitle>
               </did>
             </c04>
@@ -411,7 +417,7 @@ Erich A. Walter papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [78336754569323532026]" altrender="box">2</container>
                 <unittitle>Administrative/background</unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -420,25 +426,25 @@ Erich A. Walter papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [78336754569323532026]" altrender="box">2</container>
                 <unittitle>Author correspondence</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [78336754569323532026]" altrender="box">2</container>
                 <unittitle>Biographical notices</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [78336754569323532026]" altrender="box">2</container>
                 <unittitle>Essays included</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [78336754569323532026]" altrender="box">2</container>
                 <unittitle>Reports and reviews</unittitle>
               </did>
             </c04>
@@ -451,7 +457,7 @@ Erich A. Walter papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [78336754569323532026]" altrender="box">2</container>
                 <unittitle>Administrative/background</unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -460,25 +466,25 @@ Erich A. Walter papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [78336754569323532026]" altrender="box">2</container>
                 <unittitle>Author correspondence</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [78336754569323532026]" altrender="box">2</container>
                 <unittitle>Biographical notices</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [1102067946683869056463]" altrender="box">3</container>
                 <unittitle>Essays included</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [1102067946683869056463]" altrender="box">3</container>
                 <unittitle>Reports and Reviews</unittitle>
               </did>
             </c04>
@@ -491,7 +497,7 @@ Erich A. Walter papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [1102067946683869056463]" altrender="box">3</container>
                 <unittitle>Administrative/background</unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -500,25 +506,25 @@ Erich A. Walter papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [1102067946683869056463]" altrender="box">3</container>
                 <unittitle>Author correspondence</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [1102067946683869056463]" altrender="box">3</container>
                 <unittitle>Biographical notices</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [1102067946683869056463]" altrender="box">3</container>
                 <unittitle>Essays included</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [1102067946683869056463]" altrender="box">3</container>
                 <unittitle>Reports and reviews and nominations for Essay Annual <unitdate type="inclusive" normal="1939">1939</unitdate></unittitle>
               </did>
             </c04>
@@ -531,7 +537,7 @@ Erich A. Walter papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [1102067946683869056463]" altrender="box">3</container>
                 <unittitle>Administrative/background</unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -540,7 +546,7 @@ Erich A. Walter papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [1102067946683869056463]" altrender="box">3</container>
                 <unittitle>Author correspondence</unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -549,19 +555,19 @@ Erich A. Walter papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [1102067946683869056463]" altrender="box">3</container>
                 <unittitle>Biographical notices</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [1102067946683869056463]" altrender="box">3</container>
                 <unittitle>Essays included</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [1102067946683869056463]" altrender="box">3</container>
                 <unittitle>Reports and reviews</unittitle>
               </did>
             </c04>
@@ -574,13 +580,13 @@ Erich A. Walter papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [1102067946683869056463]" altrender="box">3</container>
                 <unittitle>Administrative/background</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [1102067946683869056463]" altrender="box">3</container>
                 <unittitle>Author correspondence</unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -589,19 +595,19 @@ Erich A. Walter papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [1102067946683869056463]" altrender="box">3</container>
                 <unittitle>Biographical notices</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [1102067946683869056463]" altrender="box">3</container>
                 <unittitle>Essays included</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [1102067946683869056463]" altrender="box">3</container>
                 <unittitle>Letters of regret</unittitle>
               </did>
             </c04>
@@ -614,7 +620,7 @@ Erich A. Walter papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [1102067946683869056463]" altrender="box">3</container>
                 <unittitle>Administrative/background</unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -623,19 +629,19 @@ Erich A. Walter papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [283945495667449951]" altrender="box">4</container>
                 <unittitle>Author correspondence</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [283945495667449951]" altrender="box">4</container>
                 <unittitle>Biographical notices</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [283945495667449951]" altrender="box">4</container>
                 <unittitle>Essays included</unittitle>
               </did>
             </c04>
@@ -647,7 +653,7 @@ Erich A. Walter papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [283945495667449951]" altrender="box">4</container>
               <unittitle>Administrative/Background <unitdate type="inclusive" normal="1938">1938</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -656,19 +662,19 @@ Erich A. Walter papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [283945495667449951]" altrender="box">4</container>
               <unittitle>Author correspondence</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [283945495667449951]" altrender="box">4</container>
               <unittitle>Biographical notices <unitdate type="inclusive" normal="1938">1938</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [283945495667449951]" altrender="box">4</container>
               <unittitle>Excerpts <unitdate type="inclusive" normal="1938">1938</unitdate></unittitle>
             </did>
           </c03>

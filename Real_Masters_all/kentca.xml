@@ -26,7 +26,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Charles A. Kent Papers, 1877 and 1898</titleproper>
       <author>Finding aid created by <lb/>Bentley Historical Library Staff</author>
     </titlepage>
@@ -36,7 +36,9 @@
       <origination>
         <persname source="lcnaf" encodinganalog="100">Kent, Charles A. (Charles Artemas),1835-1917.</persname>
       </origination>
-      <unittitle encodinganalog="245">Charles A. Kent papers <unitdate type="inclusive" encodinganalog="245$f" normal="1877">1877</unitdate>, <unitdate type="inclusive" encodinganalog="245$f" normal="1898">1898</unitdate></unittitle>
+      <unittitle encodinganalog="245">Charles A. Kent papers</unittitle>
+      <unitdate type="inclusive" encodinganalog="245$f" normal="1877">1877</unitdate>
+      <unitdate type="inclusive" encodinganalog="245$f" normal="1898">1898</unitdate>
       <unitid encodinganalog="099" repositorycode="MiU-H" countrycode="us" type="call number">851595 Aa/1</unitid>
       <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language></langmaterial>
       <abstract>Professor of law at University of Michigan. Papers include a report of his faculty activities for the period 1876-1877, and correspondence relating to his study of Michigan jurist, Thomas M. Cooley, including letters from James B. Angell, Henry Carter Adams, Charles Horton Cooley, Norman Geddes and Benjamin L. Baxter.</abstract>
@@ -96,7 +98,7 @@ Charles A. Kent Papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container label="Folder" type="folder">1</container>
+            <container label="Folder [274994943350800655018]" type="folder" altrender="folder">1</container>
             <unittitle>Report on faculty duties <unitdate type="inclusive" normal="1876/1877">1876/77</unitdate></unittitle>
           </did>
         </c02>

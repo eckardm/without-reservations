@@ -30,7 +30,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding Aid for <lb/>Henry Simmons Frieze Papers, <date type="inclusive">1835-1920</date></titleproper>
       <author>Finding aid prepared by: <lb/>Michigan Historical Collections staff</author>
     </titlepage>
@@ -79,30 +79,30 @@
       <controlaccess>
         <head>Subjects:</head>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n79021621">Cornell University.</corpname>
-        <geogname source="lcsh" encodinganalog="651">Europe--Description and travel.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/972">Europe--Description and travel.</geogname>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n85801636">Frieze, Henry S. (Henry Simmons), 1817-1889.</persname>
-        <subject source="lcsh" encodinganalog="650">Travelers.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6010">Travelers.</subject>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan. Chemical Laboratory.</corpname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan. Dept. of Classical Studies.</corpname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan. President.</corpname>
-        <subject source="lcsh" encodinganalog="650">Voyages and travels.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6009">Voyages and travels.</subject>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Material:</head>
-        <geogname source="lctgm" encodinganalog="651">Ann Arbor (Mich.)--Cemeteries.</geogname>
-        <geogname source="lctgm" encodinganalog="651">Ann Arbor (Mich.)--Dwellings.</geogname>
-        <geogname source="lctgm" encodinganalog="651">Ann Arbor (Mich.)--Streets.</geogname>
-        <subject source="lctgm" encodinganalog="650">Cemeteries--Michigan--Ann Arbor.</subject>
-        <subject source="lctgm" encodinganalog="650">Classrooms--Michigan--Ann Arbor.</subject>
-        <subject source="lctgm" encodinganalog="650">Dwellings--Michigan--Ann Arbor.</subject>
+        <geogname source="lctgm" encodinganalog="651" ref="/subjects/298">Ann Arbor (Mich.)--Cemeteries.</geogname>
+        <geogname source="lctgm" encodinganalog="651" ref="/subjects/207">Ann Arbor (Mich.)--Dwellings.</geogname>
+        <geogname source="lctgm" encodinganalog="651" ref="/subjects/209">Ann Arbor (Mich.)--Streets.</geogname>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3590">Cemeteries--Michigan--Ann Arbor.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3593">Classrooms--Michigan--Ann Arbor.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3572">Dwellings--Michigan--Ann Arbor.</subject>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n85801636">Frieze, Henry S. (Henry Simmons), 1817-1889.</persname>
         <corpname source="lcnaf" encodinganalog="610">Frieze Memorial Organ.</corpname>
-        <subject source="lctgm" encodinganalog="650">Interiors.</subject>
-        <subject source="lctgm" encodinganalog="650">Organs.</subject>
-        <subject source="lctgm" encodinganalog="650">Streets--Michigan--Ann Arbor.</subject>
-        <subject source="lctgm" encodinganalog="650">Tombs and sepulchral monuments.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3689">Interiors.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4063">Organs.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3845">Streets--Michigan--Ann Arbor.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3978">Tombs and sepulchral monuments.</subject>
         <corpname source="lcnaf" encodinganalog="610">University Hall (University of Michigan)</corpname>
-        <geogname source="lcsh" encodinganalog="651">Washtenaw Avenue (Ann Arbor, Mich.)</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1886">Washtenaw Avenue (Ann Arbor, Mich.)</geogname>
       </controlaccess>
       <controlaccess>
         <head>Contributors:</head>
@@ -128,8 +128,8 @@
       </controlaccess>
       <controlaccess>
         <head>Genre/Form:</head>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
-        <genreform source="gmgpc" encodinganalog="655">Daguerreotypes.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
+        <genreform source="gmgpc" encodinganalog="655" ref="/subjects/3480">Daguerreotypes.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -139,7 +139,7 @@
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [711746438388875809580]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1845/1920">1845-1920</unitdate>
             </unittitle>
@@ -150,7 +150,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [711746438388875809580]" altrender="box">1</container>
             <unittitle>Letters from James B. Angell to the Frieze family</unittitle>
           </did>
           <odd>
@@ -159,7 +159,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [711746438388875809580]" altrender="box">1</container>
             <unittitle>Letters from Lois T. Angell to Carrie Frieze <unitdate type="inclusive" normal="1881">1881</unitdate></unittitle>
           </did>
           <odd>
@@ -168,7 +168,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [711746438388875809580]" altrender="box">1</container>
             <unittitle>Letters from A.D. White <unitdate type="inclusive" normal="1880/1881">1880-1881</unitdate></unittitle>
           </did>
           <odd>
@@ -185,7 +185,7 @@
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [711746438388875809580]" altrender="box">1</container>
             <unittitle>Diary and jotting books of European trip <unitdate type="inclusive" normal="1855/1856">1855-1856</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">15 notebooks</extent>
@@ -197,7 +197,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [711746438388875809580]" altrender="box">1</container>
             <unittitle>Typescript of diary and jotting books of European trip <unitdate type="inclusive" normal="1855/1856">1855-1856</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 volumes</extent>
@@ -212,7 +212,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [711746438388875809580]" altrender="box">1</container>
             <unittitle>Pictures and memorabilia of European trip <unitdate type="inclusive" normal="1855/1856">1855-1856</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -224,7 +224,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [711746438388875809580]" altrender="box">1</container>
             <unittitle>Diary of European trip with historical notes <unitdate type="inclusive" normal="1872/1873">1872-1873</unitdate></unittitle>
           </did>
           <odd>
@@ -233,7 +233,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [711746438388875809580]" altrender="box">1</container>
             <unittitle>Sketch book of Italy</unittitle>
           </did>
           <odd>
@@ -247,7 +247,7 @@
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [711746438388875809580]" altrender="box">1</container>
             <unittitle>Address at Brown University <unitdate type="inclusive" normal="1841">1841</unitdate></unittitle>
           </did>
           <odd>
@@ -256,7 +256,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [711746438388875809580]" altrender="box">1</container>
             <unittitle>Lecture notes <unitdate>undated</unitdate></unittitle>
           </did>
           <odd>
@@ -265,7 +265,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [711746438388875809580]" altrender="box">1</container>
             <unittitle>Papers entitled, "The reading of the Scriptures" and "The future of Christianity" <unitdate>undated</unitdate></unittitle>
           </did>
           <odd>
@@ -274,7 +274,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [711746438388875809580]" altrender="box">1</container>
             <unittitle>Essay: "French's statue of Gen. Cass"</unittitle>
           </did>
           <odd>
@@ -283,7 +283,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [711746438388875809580]" altrender="box">1</container>
             <unittitle>Draft of essay re cartoons</unittitle>
           </did>
           <odd>
@@ -292,7 +292,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [711746438388875809580]" altrender="box">1</container>
             <unittitle>College essays <unitdate type="inclusive" normal="1838/1841">1838-1841</unitdate></unittitle>
           </did>
           <odd>
@@ -306,7 +306,7 @@
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [711746438388875809580]" altrender="box">1</container>
             <unittitle>Report concerning Frieze's service to Brown</unittitle>
           </did>
           <odd>
@@ -315,7 +315,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [711746438388875809580]" altrender="box">1</container>
             <unittitle>Minutes of Brown Music Group</unittitle>
           </did>
           <odd>
@@ -324,8 +324,11 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <unittitle>College financial statements <unitdate type="inclusive" normal="1838">1838</unitdate>, <unitdate type="inclusive" normal="1839">1839</unitdate>, <unitdate type="inclusive" normal="1941">1941</unitdate></unittitle>
+            <container type="box" label="Box [711746438388875809580]" altrender="box">1</container>
+            <unittitle>College financial statements</unittitle>
+            <unitdate type="inclusive" normal="1838">1838</unitdate>
+            <unitdate type="inclusive" normal="1839">1839</unitdate>
+            <unitdate type="inclusive" normal="1941">1941</unitdate>
           </did>
           <odd>
             <p>(folder 27)</p>
@@ -333,8 +336,10 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <unittitle>Catalogs of Brown University <unitdate type="inclusive" normal="1842/1843">1842-1843</unitdate>, <unitdate type="inclusive" normal="1846/1847">1846-1847</unitdate></unittitle>
+            <container type="box" label="Box [711746438388875809580]" altrender="box">1</container>
+            <unittitle>Catalogs of Brown University</unittitle>
+            <unitdate type="inclusive" normal="1842/1843">1842-1843</unitdate>
+            <unitdate type="inclusive" normal="1846/1847">1846-1847</unitdate>
           </did>
           <odd>
             <p>(folder 28)</p>
@@ -347,7 +352,7 @@
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [711746438388875809580]" altrender="box">1</container>
             <unittitle>Biographical and genealogical material</unittitle>
           </did>
           <odd>
@@ -356,7 +361,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [711746438388875809580]" altrender="box">1</container>
             <unittitle>re courses of study in the fine arts</unittitle>
           </did>
           <odd>
@@ -365,7 +370,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [711746438388875809580]" altrender="box">1</container>
             <unittitle>Draft of plan of studies and examinations for advanced students</unittitle>
           </did>
           <odd>
@@ -374,7 +379,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [711746438388875809580]" altrender="box">1</container>
             <unittitle>Date book <unitdate type="inclusive" normal="1854">1854</unitdate></unittitle>
           </did>
           <odd>
@@ -383,7 +388,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [47554969944883489937]" altrender="box">2</container>
             <unittitle>Frieze's copy of <title render="italic">C. Plini Secundi Naturalis Historiae</title></unittitle>
           </did>
           <odd>
@@ -402,7 +407,7 @@
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [47554969944883489937]" altrender="box">2</container>
             <unittitle>Album of University of Michigan faculty</unittitle>
           </did>
         </c02>
@@ -417,7 +422,7 @@
           </odd>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [47554969944883489937]" altrender="box">2</container>
               <unittitle>Portraits of Frieze</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -426,7 +431,7 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [47554969944883489937]" altrender="box">2</container>
               <unittitle>Miscellaneous</unittitle>
             </did>
             <odd>

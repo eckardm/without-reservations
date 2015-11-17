@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>M. R. DeHaan publications, undated and 1934-1940s</titleproper>
       <author>Finding aid created by <lb/>Michigan Historical Collections staff</author>
     </titlepage>
@@ -37,7 +37,9 @@
       <origination>
         <persname source="lcnaf" encodinganalog="100" authfilenumber="http://id.loc.gov/authorities/names/n79054923">DeHaan, M. R. (Martin Ralph), 1891-1965.</persname>
       </origination>
-      <unittitle encodinganalog="245">M. R. DeHaan publications <unitdate type="inclusive" encodinganalog="245$f">undated</unitdate>, <unitdate type="inclusive" encodinganalog="245$f" normal="1934/1949" certainty="approximate">1934-1940s</unitdate></unittitle>
+      <unittitle encodinganalog="245">M. R. DeHaan publications</unittitle>
+      <unitdate type="inclusive" encodinganalog="245$f">undated</unitdate>
+      <unitdate type="inclusive" encodinganalog="245$f" normal="1934/1949" certainty="approximate">1934-1940s</unitdate>
       <unitid encodinganalog="852$h" repositorycode="MiU-H" countrycode="us" type="call number">[739] DA 2; D322; S486</unitid>
       <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language></langmaterial>
       <abstract>Evangelical minister based in Grand Rapids, Michigan whose Radio Bible Class was broadcast on the Mutual Radio network.</abstract>
@@ -83,7 +85,7 @@
       <controlaccess>
         <head>Subjects:</head>
         <persname encodinganalog="600" source="lcnaf" authfilenumber="http://id.loc.gov/authorities/names/n79054923">DeHaan, M. R. (Martin Ralph), 1891-1965.</persname>
-        <geogname encodinganalog="650" source="lcsh">Sermons--American.</geogname>
+        <geogname encodinganalog="650" source="lcsh" ref="/subjects/1684">Sermons--American.</geogname>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -93,7 +95,7 @@
         </did>
         <c02 level="item">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [7886183141690546872963]" altrender="box">1</container>
             <unittitle>Antichrist</unittitle>
           </did>
         </c02>

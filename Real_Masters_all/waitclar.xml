@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Clara Hadley Wait papers, 1893-1919</titleproper>
       <author>Finding aid created by <lb/>Michigan Historical Collections staff</author>
     </titlepage>
@@ -81,11 +81,11 @@ Clara Hadley Wait papers, Bentley Historical Library, University of Michigan</p>
       <controlaccess>
         <head>Subjects:</head>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n79006441">Daughters of the American Revolution.</corpname>
-        <geogname source="lcsh" encodinganalog="651">Europe--Description and travel.</geogname>
-        <subject source="lcsh" encodinganalog="650">Patriotic societies--Michigan.</subject>
-        <subject source="lcsh" encodinganalog="650">Voyages and travels.</subject>
-        <subject source="lcsh" encodinganalog="650">Women--Michigan--Societies and clubs.</subject>
-        <subject source="lcsh" encodinganalog="650">World War, 1914-1918.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/972">Europe--Description and travel.</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7123">Patriotic societies--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6009">Voyages and travels.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6649">Women--Michigan--Societies and clubs.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5712">World War, 1914-1918.</subject>
         <persname source="lcnaf" encodinganalog="600">Wait, Clara Hadley.</persname>
       </controlaccess>
       <controlaccess>
@@ -94,8 +94,8 @@ Clara Hadley Wait papers, Bentley Historical Library, University of Michigan</p>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Diaries.</genreform>
-        <genreform source="aat" encodinganalog="655">Scrapbooks.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3150">Diaries.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3139">Scrapbooks.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -105,25 +105,25 @@ Clara Hadley Wait papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [27350864618487601520]" altrender="box">1</container>
             <unittitle>"William H. and Clara H. Wait and Their Doings in Illinois," <unitdate type="inclusive" normal="1883/1895">1883-1895</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [27350864618487601520]" altrender="box">1</container>
             <unittitle>"William H. and Clara H. Wait and Some of their doings," <unitdate type="inclusive" normal="1895/1925">1895-1925</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [27350864618487601520]" altrender="box">1</container>
             <unittitle>"Clara H. Wait and Some of Her Doings in Michigan," <unitdate type="inclusive" normal="1895/1914">1895-1914</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [27350864618487601520]" altrender="box">1</container>
             <unittitle>Clara H Wait <unitdate type="inclusive" normal="1915/1925">1915-1925</unitdate></unittitle>
           </did>
         </c02>
@@ -134,7 +134,7 @@ Clara Hadley Wait papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [27350864618487601520]" altrender="box">1</container>
             <unittitle>"History of Art" notes, Berlin <unitdate type="inclusive" normal="1893">1893</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 volumes</extent>
@@ -143,19 +143,19 @@ Clara Hadley Wait papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [27350864618487601520]" altrender="box">1</container>
             <unittitle>"Description of Paintings", Berlin <unitdate type="inclusive" normal="1893">1893</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [27350864618487601520]" altrender="box">1</container>
             <unittitle>"Painting", Berlin <unitdate type="inclusive" normal="1893">1893</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [27350864618487601520]" altrender="box">1</container>
             <unittitle>"German Literature notes" <unitdate type="inclusive" normal="1893">1893</unitdate></unittitle>
           </did>
         </c02>
@@ -166,7 +166,7 @@ Clara Hadley Wait papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [27350864618487601520]" altrender="box">1</container>
             <unittitle>European Travel <unitdate type="inclusive" normal="1893/1894">1893-1894</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 volumes</extent>
@@ -178,7 +178,7 @@ Clara Hadley Wait papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [27350864618487601520]" altrender="box">1</container>
             <unittitle>William Wait European Journal <unitdate type="inclusive" normal="1893/1894">1893-1894</unitdate></unittitle>
           </did>
         </c02>
@@ -189,7 +189,7 @@ Clara Hadley Wait papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [27350864618487601520]" altrender="box">1</container>
             <unittitle>"Report and Data of Sixth State Regent" <unitdate type="inclusive" normal="1916">1916</unitdate></unittitle>
           </did>
           <odd>
@@ -198,7 +198,7 @@ Clara Hadley Wait papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [27350864618487601520]" altrender="box">1</container>
             <unittitle>"Appeals and Bulletins 1915-1919"</unittitle>
           </did>
           <odd>
@@ -212,13 +212,13 @@ Clara Hadley Wait papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [27350864618487601520]" altrender="box">1</container>
             <unittitle>Trip to Cascade, Colorado, <unitdate type="inclusive" normal="1900">summer 1900</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [27350864618487601520]" altrender="box">1</container>
             <unittitle>Unidentified Albums <unitdate type="inclusive">undated</unitdate></unittitle>
           </did>
           <odd>

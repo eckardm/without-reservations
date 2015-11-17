@@ -34,7 +34,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding Aid for <lb/>George W. Baber Papers, <date>1942-1970</date></titleproper>
       <author>Finding aid prepared by: <lb/>Chris Leonard</author>
     </titlepage>
@@ -87,33 +87,33 @@
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <subject source="lcsh" encodinganalog="650">African Americans.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5685">African Americans.</subject>
         <persname source="lcnaf" encodinganalog="600">Baber, George W. (George Wilbur), 1898-1970.</persname>
-        <subject source="lcsh" encodinganalog="650">Clergy--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5682">Clergy--Michigan.</subject>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n80060458">African Methodist Episcopal Church.</corpname>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Material:</head>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n80060458">African Methodist Episcopal Church.</corpname>
-        <subject source="lcsh" encodinganalog="650">Afro-American clergy.</subject>
-        <subject source="lcsh" encodinganalog="650">Afro-Americans.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5998">Afro-American clergy.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5999">Afro-Americans.</subject>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n79081960">Agnew, Spiro T., 1918-1996.</persname>
         <persname source="lcnaf" encodinganalog="600">Baber, George W. (George Wilbur), 1898-1970.</persname>
-        <subject source="lctgm" encodinganalog="650">Church vestments.</subject>
-        <subject source="lctgm" encodinganalog="650">Clergymen.</subject>
-        <geogname source="lcsh" encodinganalog="651">Egypt.</geogname>
-        <subject source="lctgm" encodinganalog="650">Government officials--United States.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3740">Church vestments.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3741">Clergymen.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/892">Egypt.</geogname>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3635">Government officials--United States.</subject>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n79026910">Humphrey, Hubert H. (Hubert Horatio), 1911-1978.</persname>
-        <geogname source="lcsh" encodinganalog="651">India.</geogname>
-        <geogname source="lcsh" encodinganalog="651">Israel.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/969">India.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/970">Israel.</geogname>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n79055297">Kennedy, John F. (John Fitzgerald), 1917-1963.</persname>
-        <subject source="lctgm" encodinganalog="650">Rites and ceremonies.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3698">Rites and ceremonies.</subject>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n50049079">Rockefeller, Nelson A. (Nelson Aldrich), 1908-1979.</persname>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n80084463">Williams, G. Mennen, 1911-1988.</persname>
       </controlaccess>
       <controlaccess>
         <head>Genre/Form:</head>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -126,7 +126,7 @@
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [4439251842811316487]" altrender="box">1</container>
             <unittitle>Biographical material</unittitle>
           </did>
         </c02>
@@ -140,7 +140,7 @@
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [4439251842811316487]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1945/1971-01">1945-January 1971</unitdate>
             </unittitle>
@@ -159,7 +159,7 @@
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [4439251842811316487]" altrender="box">1</container>
             <unittitle>Scattered documents</unittitle>
           </did>
         </c02>
@@ -173,8 +173,9 @@
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <unittitle><unitdate type="inclusive" normal="1950/1970">1950-1970</unitdate>, <unitdate>undated</unitdate></unittitle>
+            <container type="box" label="Box [4439251842811316487]" altrender="box">1</container>
+            <unitdate type="inclusive" normal="1950/1970">1950-1970</unitdate>
+            <unitdate>undated</unitdate>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">4 folders</extent>
             </physdesc>
@@ -190,7 +191,7 @@
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [4439251842811316487]" altrender="box">1</container>
             <unittitle>Scattered programs</unittitle>
           </did>
         </c02>
@@ -208,13 +209,13 @@
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [4439251842811316487]" altrender="box">1</container>
               <unittitle>General Conference <unitdate type="inclusive" normal="1944">1944</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [4439251842811316487]" altrender="box">1</container>
               <unittitle>Council of Bishops <unitdate type="inclusive" normal="1956/1966">1956-1966</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">8 folders</extent>
@@ -223,14 +224,14 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [4439251842811316487]" altrender="box">1</container>
               <unittitle>General Board</unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [4439251842811316487]" altrender="box">1</container>
             <unittitle>Pamphlets <unitdate type="inclusive" normal="1962/1972">1962-1972</unitdate></unittitle>
           </did>
         </c02>
@@ -240,27 +241,29 @@
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [4439251842811316487]" altrender="box">1</container>
               <unittitle><title render="italic">Missionary Magazine</title>, <unitdate type="inclusive" normal="1957/1958">1957-1958</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [4439251842811316487]" altrender="box">1</container>
               <unittitle><title render="italic">Voice of Missions</title>, <unitdate type="inclusive" normal="1957/1963">1957-1963</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [4439251842811316487]" altrender="box">1</container>
               <unittitle><title render="italic">The Anvil</title>, <unitdate type="inclusive" normal="1966">1966</unitdate></unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <unittitle>Miscellaneous A.M.E. papers <unitdate type="inclusive" normal="1942/1968">1942-1968</unitdate>, <unitdate>undated</unitdate></unittitle>
+            <container type="box" label="Box [4439251842811316487]" altrender="box">1</container>
+            <unittitle>Miscellaneous A.M.E. papers</unittitle>
+            <unitdate type="inclusive" normal="1942/1968">1942-1968</unitdate>
+            <unitdate>undated</unitdate>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">5 folders</extent>
             </physdesc>
@@ -278,37 +281,37 @@
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [4439251842811316487]" altrender="box">1</container>
             <unittitle>Portraits of George W. Baber</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [4439251842811316487]" altrender="box">1</container>
             <unittitle>With family</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [4439251842811316487]" altrender="box">1</container>
             <unittitle>Award ceremonies</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [4439251842811316487]" altrender="box">1</container>
             <unittitle>With religious leaders</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [4439251842811316487]" altrender="box">1</container>
             <unittitle>Trip to Holy Lands</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [4439251842811316487]" altrender="box">1</container>
             <unittitle>World Council of Churches Conference, New Delhi</unittitle>
           </did>
         </c02>

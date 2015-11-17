@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>University Archives and Records Program <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/2">University Archives and Records Program <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Tivadar Balogh papers, 1946-1998</titleproper>
       <author>Finding aid created by <lb/>Kate Donovan, June 2009</author>
     </titlepage>
@@ -37,7 +37,9 @@
       <origination>
         <persname source="lcnaf" encodinganalog="100">Balogh, Tivadar.</persname>
       </origination>
-      <unittitle encodinganalog="245">Tivadar Balogh papers <unitdate type="inclusive" encodinganalog="245$f" normal="1946/1998">1946-1998</unitdate>, <unitdate type="bulk" encodinganalog="245$g" normal="1960/1997">1960-1997</unitdate></unittitle>
+      <unittitle encodinganalog="245">Tivadar Balogh papers</unittitle>
+      <unitdate type="inclusive" encodinganalog="245$f" normal="1946/1998">1946-1998</unitdate>
+      <unitdate type="bulk" encodinganalog="245$g" normal="1960/1997">1960-1997</unitdate>
       <unitid encodinganalog="852$h" repositorycode="MiU-H" countrycode="us" type="call number">2009189 Aa 2</unitid>
       <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language></langmaterial>
       <abstract>Plymouth, Michigan based architect, active 1946-1997, and former University of Michigan College of Architecture and Design instructor (1956-1997), known for his design work, and association with architect and former University of Michigan Dean of the College of Architecture and Urban Planning Robert C. Metcalf. Balogh's work included approximately 150 residential, institutional, and commercial projects in Michigan, Illinois, and Arizona. The papers in this collection include correspondence, slides and photographs, clippings, teaching materials, project files, and architectural drawings.</abstract>
@@ -92,12 +94,12 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <subject source="lcsh" encodinganalog="650">Architects--United States.</subject>
-        <subject source="lcsh" encodinganalog="650">Architecture--Arizona.</subject>
-        <subject source="lcsh" encodinganalog="650">Architecture--Designs and plans.</subject>
-        <subject source="lcsh" encodinganalog="650">Architecture--Illinois.</subject>
-        <subject source="lcsh" encodinganalog="650">Architecture--Michigan.</subject>
-        <subject source="lcsh" encodinganalog="650">Architecture, Domestic--Designs and plans.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6052">Architects--United States.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6053">Architecture--Arizona.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6054">Architecture--Designs and plans.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6055">Architecture--Illinois.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6056">Architecture--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6057">Architecture, Domestic--Designs and plans.</subject>
         <persname source="lcnaf" encodinganalog="600">Balogh, Tivadar.</persname>
         <persname source="lcnaf" encodinganalog="600">Metcalf, Robert Clarence, 1923-</persname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n82166171">University of Michigan. College of Architecture and Design.</corpname>
@@ -105,14 +107,16 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
       </controlaccess>
       <controlaccess>
         <head>Genre/Form:</head>
-        <genreform source="aat" encodinganalog="655">Architectural drawings.</genreform>
-        <genreform source="aat" encodinganalog="655">Architectural records.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3175">Architectural drawings.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3188">Architectural records.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
       <c01 level="series">
         <did>
-          <unittitle>Audio-Visual Materials <unitdate type="inclusive">undated</unitdate>, <unitdate type="inclusive" normal="1998">1998</unitdate></unittitle>
+          <unittitle>Audio-Visual Materials</unittitle>
+          <unitdate type="inclusive">undated</unitdate>
+          <unitdate type="inclusive" normal="1998">1998</unitdate>
         </did>
         <scopecontent>
           <p>The Audio-Visual series, undated and 1998 (1.25 linear feet), consists of audio and visual materials documenting Balogh's teaching career and architectural projects. Included in the series are photographs and slides of Balogh's students' work, Balogh and his colleagues, and Balogh's residential, industrial, and commercial buildings. Also in the series are video (VHS) and audio tapes of Balogh's 1998 American Institute of Architects awards, and unlabeled microfilm reels of Balogh's building projects.</p>
@@ -123,7 +127,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [075624293552282410]" altrender="box">1</container>
               <unittitle>American Institute of Architects Huron Valley Holiday Party <unitdate type="inclusive" normal="1998">1998</unitdate></unittitle>
               <physdesc>
                 <physfacet>VHS</physfacet>
@@ -132,7 +136,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [075624293552282410]" altrender="box">1</container>
               <unittitle>Architectural Projects</unittitle>
               <physdesc>
                 <physfacet>microfilm</physfacet>
@@ -144,7 +148,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [075624293552282410]" altrender="box">1</container>
               <unittitle>Tiv Balogh American Institute of Architects Award <unitdate type="inclusive" normal="1998">1998</unitdate></unittitle>
               <physdesc>
                 <physfacet>Audio cassette</physfacet>
@@ -158,7 +162,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [075624293552282410]" altrender="box">1</container>
               <unittitle>Architectural Project Photographs</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">5 folders</extent>
@@ -167,13 +171,13 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [075624293552282410]" altrender="box">1</container>
               <unittitle>Balogh House Photographs</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [075624293552282410]" altrender="box">1</container>
               <unittitle>People</unittitle>
             </did>
           </c03>
@@ -184,18 +188,18 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [955753407443126427716]" altrender="box">2</container>
               <unittitle>Architectural Slides</unittitle>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [955753407443126427716]" altrender="box">2</container>
                 <unittitle>Anderson Residence <unitdate type="inclusive" normal="1964">1964</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [955753407443126427716]" altrender="box">2</container>
                 <unittitle>"Architecture without Architects"</unittitle>
                 <physdesc>
                   <physfacet>4 boxes</physfacet>
@@ -204,79 +208,79 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [955753407443126427716]" altrender="box">2</container>
                 <unittitle>Asco Model Shots</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [955753407443126427716]" altrender="box">2</container>
                 <unittitle>Ash Residence <unitdate type="inclusive" normal="1968">1968</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [955753407443126427716]" altrender="box">2</container>
                 <unittitle>Balogh Residence, Scheme II Model (Abandoned) <unitdate type="inclusive" normal="1958">1958</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [955753407443126427716]" altrender="box">2</container>
                 <unittitle>Clark House, Ann Arbor, MI <unitdate type="inclusive" normal="1963">1963</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [955753407443126427716]" altrender="box">2</container>
                 <unittitle>Constant House</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [955753407443126427716]" altrender="box">2</container>
                 <unittitle>de Bear Residence</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [955753407443126427716]" altrender="box">2</container>
                 <unittitle>Fabian Residence</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [955753407443126427716]" altrender="box">2</container>
                 <unittitle>Frank Lloyd Wright</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [955753407443126427716]" altrender="box">2</container>
                 <unittitle>Gasdick-Ritzehein Residence, Ypsilanti, MI <unitdate type="inclusive" normal="1970">1970</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [955753407443126427716]" altrender="box">2</container>
                 <unittitle>Goddard Building, Plymouth, MI <unitdate type="inclusive" normal="1968">1968</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [955753407443126427716]" altrender="box">2</container>
                 <unittitle>Growthworks of Ann Arbor, MI</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [955753407443126427716]" altrender="box">2</container>
                 <unittitle>Heide's Flowers, Plymouth, MI <unitdate type="inclusive" normal="1967">1967</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [955753407443126427716]" altrender="box">2</container>
                 <unittitle>Industrialized Housing</unittitle>
                 <physdesc>
                   <physfacet>6 boxes</physfacet>
@@ -285,85 +289,85 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [955753407443126427716]" altrender="box">2</container>
                 <unittitle>Johnston-McGregor Residence</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [955753407443126427716]" altrender="box">2</container>
                 <unittitle>Lauff Residence</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [955753407443126427716]" altrender="box">2</container>
                 <unittitle>Lundy Residence, Barton Hills, MI <unitdate type="inclusive" normal="1970">1970</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [955753407443126427716]" altrender="box">2</container>
                 <unittitle>Mac Lellan House</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [955753407443126427716]" altrender="box">2</container>
                 <unittitle>McCarthy Residence</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [955753407443126427716]" altrender="box">2</container>
                 <unittitle>Niblett Carport</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [955753407443126427716]" altrender="box">2</container>
                 <unittitle>Northville State Dorms</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [955753407443126427716]" altrender="box">2</container>
                 <unittitle>Office <unitdate type="inclusive" normal="1967">1967</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [955753407443126427716]" altrender="box">2</container>
                 <unittitle>Other's Work and Miscellaneous</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [955753407443126427716]" altrender="box">2</container>
                 <unittitle>Plymouth Department of Public Works Building <unitdate type="inclusive" normal="1962">1962</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [955753407443126427716]" altrender="box">2</container>
                 <unittitle>Prizlow House <unitdate type="inclusive" normal="1966">1966</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [955753407443126427716]" altrender="box">2</container>
                 <unittitle>Professional Pavilion for Robert Meek <unitdate type="inclusive" normal="1968">1968</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [955753407443126427716]" altrender="box">2</container>
                 <unittitle>Marshall Field House, Chicago, IL <unitdate type="inclusive" normal="1966">1966</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [955753407443126427716]" altrender="box">2</container>
                 <unittitle>Mercy College of Detroit</unittitle>
                 <physdesc>
                   <physfacet>1 carousel and four boxes</physfacet>
@@ -372,13 +376,13 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [955753407443126427716]" altrender="box">2</container>
                 <unittitle>Miscellaneous and Office</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [955753407443126427716]" altrender="box">2</container>
                 <unittitle>Models and Renderings</unittitle>
                 <physdesc>
                   <physfacet>2 carousels</physfacet>
@@ -387,55 +391,55 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [955753407443126427716]" altrender="box">2</container>
                 <unittitle>Saper Residence</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [955753407443126427716]" altrender="box">2</container>
                 <unittitle>St. Clair Metro Beach work with Oldell, Hewlett &amp; Luckenbach</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [955753407443126427716]" altrender="box">2</container>
                 <unittitle>"Street Scaping Sketches"</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [955753407443126427716]" altrender="box">2</container>
                 <unittitle>Tennis Club</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [955753407443126427716]" altrender="box">2</container>
                 <unittitle>WB Ford Pavilion <unitdate type="inclusive" normal="1961">1961</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [955753407443126427716]" altrender="box">2</container>
                 <unittitle>Work with Metcalf <unitdate type="inclusive" normal="1954/1959">1954-1959</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [955753407443126427716]" altrender="box">2</container>
                 <unittitle>Work with W.B. Ford <unitdate type="inclusive" normal="1961">1961</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [955753407443126427716]" altrender="box">2</container>
                 <unittitle>Yost Elementary School, Detroit, MI</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [955753407443126427716]" altrender="box">2</container>
                 <unittitle>Zelek Residence</unittitle>
                 <physdesc>
                   <physfacet>3 boxes</physfacet>
@@ -449,13 +453,13 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [955753407443126427716]" altrender="box">2</container>
                 <unittitle>Lecture Shots and Student Boards, UM Architecture 552 <unitdate type="inclusive" normal="1983">1983</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [955753407443126427716]" altrender="box">2</container>
                 <unittitle>Architecture 551/552 <unitdate type="inclusive" normal="1992/1993">1992-1993</unitdate></unittitle>
               </did>
             </c04>
@@ -471,25 +475,25 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [1964842829972097]" altrender="box">3</container>
             <unittitle>Curricula vitae and Resumes</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [1964842829972097]" altrender="box">3</container>
             <unittitle>Naval Service Records</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [1964842829972097]" altrender="box">3</container>
             <unittitle>Remembrances</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [1964842829972097]" altrender="box">3</container>
             <unittitle>University of Michigan Transcripts</unittitle>
           </did>
         </c02>
@@ -511,13 +515,13 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [1964842829972097]" altrender="box">3</container>
                 <unittitle>Plymouth-Canton Community Schools</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [1964842829972097]" altrender="box">3</container>
                 <unittitle>Schoolcraft College</unittitle>
               </did>
             </c04>
@@ -528,56 +532,56 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [1964842829972097]" altrender="box">3</container>
                 <unittitle>Huron Valley American Institute of Architects Awards and Recognitions</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [1964842829972097]" altrender="box">3</container>
                 <unittitle>Plywood Design Award</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [1964842829972097]" altrender="box">3</container>
                 <unittitle>Porcelain Enamel Design Competition</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [1964842829972097]" altrender="box">3</container>
                 <unittitle><title render="italic">Progressive Architecture</title>, <unitdate type="inclusive" normal="1957">1957</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [1964842829972097]" altrender="box">3</container>
                 <unittitle><title render="italic">Progressive Architecture</title>, <unitdate type="inclusive" normal="1972">1972</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [1964842829972097]" altrender="box">3</container>
                 <unittitle>Sol King Award for Excellent Teaching in Architecture</unittitle>
               </did>
             </c04>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [1964842829972097]" altrender="box">3</container>
               <unittitle>Correspondence</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [1964842829972097]" altrender="box">3</container>
               <unittitle>General Specifications</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [1964842829972097]" altrender="box">3</container>
               <unittitle>Incorporation Records</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -586,31 +590,31 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [1964842829972097]" altrender="box">3</container>
               <unittitle>Joint Ventures, Balogh-Fisher</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [1964842829972097]" altrender="box">3</container>
               <unittitle>Letters of Recommendation</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [1964842829972097]" altrender="box">3</container>
               <unittitle>Klement, Michael</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [1964842829972097]" altrender="box">3</container>
               <unittitle>Logo Design</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [1964842829972097]" altrender="box">3</container>
               <unittitle>Office Brochure</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -619,7 +623,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [1964842829972097]" altrender="box">3</container>
               <unittitle>Plymouth Symphony</unittitle>
             </did>
           </c03>
@@ -629,19 +633,19 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [1964842829972097]" altrender="box">3</container>
                 <unittitle>Constant Residence</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [1964842829972097]" altrender="box">3</container>
                 <unittitle>Growth Works of Ann Arbor</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [1964842829972097]" altrender="box">3</container>
                 <unittitle>Office Space</unittitle>
               </did>
             </c04>
@@ -651,7 +655,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
               </did>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">3</container>
+                  <container type="box" label="Box [1964842829972097]" altrender="box">3</container>
                   <unittitle>Library Addition</unittitle>
                   <physdesc altrender="whole">
                     <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -660,7 +664,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
               </c05>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">4</container>
+                  <container type="box" label="Box [154141447135913953]" altrender="box">4</container>
                   <unittitle>Sciences Building</unittitle>
                   <physdesc altrender="whole">
                     <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -670,13 +674,13 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [154141447135913953]" altrender="box">4</container>
                 <unittitle>Residences</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [154141447135913953]" altrender="box">4</container>
                 <unittitle>Sports Complexes</unittitle>
               </did>
             </c04>
@@ -687,19 +691,19 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [154141447135913953]" altrender="box">4</container>
                 <unittitle>American Institute of Architects</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [154141447135913953]" altrender="box">4</container>
                 <unittitle>Michigan State Board of Registration</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [154141447135913953]" altrender="box">4</container>
                 <unittitle>National Council of Architectural Registration Boards</unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -709,19 +713,19 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [154141447135913953]" altrender="box">4</container>
               <unittitle>Project Proposals</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [154141447135913953]" altrender="box">4</container>
               <unittitle>Project Sketches</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [154141447135913953]" altrender="box">4</container>
               <unittitle>Robert Darvis Associates, P.C.</unittitle>
             </did>
           </c03>
@@ -739,13 +743,13 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [154141447135913953]" altrender="box">4</container>
                 <unittitle>Correspondence</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [154141447135913953]" altrender="box">4</container>
                 <unittitle>Design Development and Architectural Drawings and Materials</unittitle>
               </did>
             </c04>
@@ -759,31 +763,31 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [154141447135913953]" altrender="box">4</container>
                 <unittitle>Garage <unitdate type="inclusive" normal="1985">1985</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [154141447135913953]" altrender="box">4</container>
                 <unittitle>General</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [154141447135913953]" altrender="box">4</container>
                 <unittitle>Media and Awards</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [154141447135913953]" altrender="box">4</container>
                 <unittitle>Photographs</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [154141447135913953]" altrender="box">4</container>
                 <unittitle>Sketches, Renderings, and Models</unittitle>
               </did>
             </c04>
@@ -797,32 +801,32 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [154141447135913953]" altrender="box">4</container>
                 <unittitle>Correspondence</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [154141447135913953]" altrender="box">4</container>
                 <unittitle>Design Development and Architectural Drawings and Materials</unittitle>
               </did>
             </c04>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [154141447135913953]" altrender="box">4</container>
               <unittitle>Burye, Mark and Gerri, Ann Arbor, MI <unitdate type="inclusive" normal="1987-08-06">August 6, 1987</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [154141447135913953]" altrender="box">4</container>
               <unittitle>Callow, Mr. and Mrs. James, Livonia, MI <unitdate type="inclusive" normal="1990-01-26">January 26, 1990</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [154141447135913953]" altrender="box">4</container>
               <unittitle>Canton Christian Church of God, Canton, MI <unitdate type="inclusive" normal="1994-12-15">December 15, 1994</unitdate></unittitle>
             </did>
           </c03>
@@ -835,26 +839,26 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [154141447135913953]" altrender="box">4</container>
                 <unittitle>Correspondence</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [154141447135913953]" altrender="box">4</container>
                 <unittitle>Design Development Drawings and Materials</unittitle>
               </did>
             </c04>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [154141447135913953]" altrender="box">4</container>
               <unittitle>Clark, Samuel K., Ann Arbor, MI <unitdate type="inclusive" normal="1981-07-22">July 22, 1981</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [154141447135913953]" altrender="box">4</container>
               <unittitle>Cole, Dean and Carolyn, Ann Arbor, MI <unitdate type="inclusive" normal="1991-05-10">May 10, 1991</unitdate></unittitle>
             </did>
           </c03>
@@ -867,20 +871,20 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [154141447135913953]" altrender="box">4</container>
                 <unittitle>Correspondence</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [154141447135913953]" altrender="box">4</container>
                 <unittitle>Design Development and Architectural Drawings and Materials</unittitle>
               </did>
             </c04>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [154141447135913953]" altrender="box">4</container>
               <unittitle>Day, Colin and Jennifer, Ann Arbor, MI <unitdate type="inclusive" normal="1992-05-01">May 1, 1992</unitdate></unittitle>
             </did>
           </c03>
@@ -893,32 +897,32 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [154141447135913953]" altrender="box">4</container>
                 <unittitle>Correspondence</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [154141447135913953]" altrender="box">4</container>
                 <unittitle>Design Development and Architectural Drawings and Materials</unittitle>
               </did>
             </c04>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [154141447135913953]" altrender="box">4</container>
               <unittitle>Deak, Steve <unitdate type="inclusive" normal="1987-09-02">September 2, 1987</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [154141447135913953]" altrender="box">4</container>
               <unittitle>Dexter Library Alteration, Dexter, MI <unitdate type="inclusive" normal="1992-08-19">August 19, 1992</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [51860724283907476]" altrender="box">5</container>
               <unittitle>Fairmont Builders</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">4 folders</extent>
@@ -933,13 +937,13 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
               </did>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">5</container>
+                  <container type="box" label="Box [51860724283907476]" altrender="box">5</container>
                   <unittitle>Correspondence</unittitle>
                 </did>
               </c05>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">5</container>
+                  <container type="box" label="Box [51860724283907476]" altrender="box">5</container>
                   <unittitle>Design and Architectural Drawings and Materials</unittitle>
                 </did>
               </c05>
@@ -953,20 +957,20 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
               </did>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">5</container>
+                  <container type="box" label="Box [51860724283907476]" altrender="box">5</container>
                   <unittitle>Correspondence</unittitle>
                 </did>
               </c05>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">5</container>
+                  <container type="box" label="Box [51860724283907476]" altrender="box">5</container>
                   <unittitle>Design Development and Architectural Drawings and Materials</unittitle>
                 </did>
               </c05>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">5</container>
+                <container type="box" label="Box [51860724283907476]" altrender="box">5</container>
                 <unittitle>Multiple Housing, East Lansing <unitdate type="inclusive" normal="1987-05-14">May 14, 1987</unitdate></unittitle>
               </did>
             </c04>
@@ -977,44 +981,44 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">5</container>
+                <container type="box" label="Box [51860724283907476]" altrender="box">5</container>
                 <unittitle>Correspondence</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">5</container>
+                <container type="box" label="Box [51860724283907476]" altrender="box">5</container>
                 <unittitle>Design Development and Architectural Drawings and Materials</unittitle>
               </did>
             </c04>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [51860724283907476]" altrender="box">5</container>
               <unittitle>Ford III, Mr. and Mrs. Walter B., Grosse Pointe, MI <unitdate type="inclusive" normal="1988-05-12">May 12, 1988</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [51860724283907476]" altrender="box">5</container>
               <unittitle>Forrest, Dr. and Mrs. Jeffrey, Bloomfield Hills, MI <unitdate type="inclusive" normal="1994-02-01">February 1, 1994</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [51860724283907476]" altrender="box">5</container>
               <unittitle>Friends of Miller Woods, Plymouth Township <unitdate type="inclusive" normal="1992-07-09">July 9, 1992</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [51860724283907476]" altrender="box">5</container>
               <unittitle>Galler, Mr. and Mrs. Bernard A., Ann Arbor, MI <unitdate type="inclusive" normal="1991-10-10">October 10, 1991</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [51860724283907476]" altrender="box">5</container>
               <unittitle>Growthworks, Ann Arbor, MI <unitdate type="inclusive" normal="1982-02-05">February 5, 1982</unitdate></unittitle>
             </did>
           </c03>
@@ -1027,62 +1031,62 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">5</container>
+                <container type="box" label="Box [51860724283907476]" altrender="box">5</container>
                 <unittitle>Correspondence</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">5</container>
+                <container type="box" label="Box [51860724283907476]" altrender="box">5</container>
                 <unittitle>Design Development and Architectural Drawings and Materials</unittitle>
               </did>
             </c04>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [51860724283907476]" altrender="box">5</container>
               <unittitle>Holt, George and Linda, Howell, MI <unitdate type="inclusive" normal="1987-10-12">October 12, 1987</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [51860724283907476]" altrender="box">5</container>
               <unittitle>Jender, Joseph and Susan, Canton, MI <unitdate type="inclusive" normal="1987-08-01">August 1, 1987</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [51860724283907476]" altrender="box">5</container>
               <unittitle>Johnson, Philip, Montague, MI <unitdate type="inclusive" normal="1987-07-09">July 9, 1987</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [51860724283907476]" altrender="box">5</container>
               <unittitle>Kelleher, Tom and Linda, Ann Arbor, MI <unitdate type="inclusive" normal="1992-03-26">March 26, 1992</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [51860724283907476]" altrender="box">5</container>
               <unittitle>Kirshnew, Bob and Emily, Livonia, MI <unitdate type="inclusive" normal="1991-12-14">December 14, 1991</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [51860724283907476]" altrender="box">5</container>
               <unittitle>Litchfield Apartments, Litchfield, Mi <unitdate type="inclusive" normal="1989-12-12">December 12, 1989</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [51860724283907476]" altrender="box">5</container>
               <unittitle>M.A. Electric, Dearborn Heights, MI <unitdate type="inclusive" normal="1995-07-02">July 2, 1995</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [51860724283907476]" altrender="box">5</container>
               <unittitle>Marcoux, Jackson, MI <unitdate type="inclusive" normal="1994-12-22">December 22, 1994</unitdate></unittitle>
             </did>
           </c03>
@@ -1095,74 +1099,74 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">5</container>
+                <container type="box" label="Box [51860724283907476]" altrender="box">5</container>
                 <unittitle>Athletics Facility <unitdate type="inclusive" normal="1978-10-19">October 19, 1978</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">5</container>
+                <container type="box" label="Box [51860724283907476]" altrender="box">5</container>
                 <unittitle>Library Addition <unitdate type="inclusive" normal="1976-11">November 1976</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">5</container>
+                <container type="box" label="Box [51860724283907476]" altrender="box">5</container>
                 <unittitle>Science Building <unitdate type="inclusive">undated</unitdate></unittitle>
               </did>
             </c04>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [51860724283907476]" altrender="box">5</container>
               <unittitle>Miller, Greg, Okemos, MI <unitdate type="inclusive" normal="1986-05-25">May 25, 1986</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [51860724283907476]" altrender="box">5</container>
               <unittitle>Naski, Gerald and Nancy, Birmingham, MI <unitdate type="inclusive" normal="1991-06-06">June 6, 1991</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [51860724283907476]" altrender="box">5</container>
               <unittitle>Northwestern Guidance Clinic, Garden City, MI <unitdate type="inclusive" normal="1985-05-28">May 28, 1985</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [51860724283907476]" altrender="box">5</container>
               <unittitle>Plymouth Community Arts Council <unitdate type="inclusive" normal="1980-03-18">March 18, 1980</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [51860724283907476]" altrender="box">5</container>
               <unittitle>Plymouth District Library, Plymouth, MI <unitdate type="inclusive" normal="1991-01-25">January 25, 1991</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [51860724283907476]" altrender="box">5</container>
               <unittitle>Reek, Don and Alexa Gordon, Whitmore Lake, MI <unitdate type="inclusive" normal="1993-08-11">August 11, 1993</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [51860724283907476]" altrender="box">5</container>
               <unittitle>Rojek, Matthew and Betty, Plymouth, MI <unitdate type="inclusive" normal="1992-09-09">September 9, 1992</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [51860724283907476]" altrender="box">5</container>
               <unittitle>Roosevelt, Franklin Delano Memorial, Washington DC <unitdate type="inclusive" normal="1960">1960</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [51860724283907476]" altrender="box">5</container>
               <unittitle>Saper Galleries, East Lansing <unitdate type="inclusive" normal="1985-04-23">April 23, 1985</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -1171,25 +1175,25 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [51860724283907476]" altrender="box">5</container>
               <unittitle>Saper, Martin and Thelma, East Lansing, MI <unitdate type="inclusive" normal="1992-05-07">May 7, 1992</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [51860724283907476]" altrender="box">5</container>
               <unittitle>Seger, Craig and Margaret, Alpenia, MI <unitdate type="inclusive" normal="1993-05-31">May 31, 1993</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [51860724283907476]" altrender="box">5</container>
               <unittitle>Sloat, Mr. and Mrs. Barry, Ann Arbor, MI <unitdate type="inclusive" normal="1994-10-20">October 20, 1994</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [882798440278811240553]" altrender="box">6</container>
               <unittitle>Spuntech Housing Corporation</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -1198,37 +1202,37 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [882798440278811240553]" altrender="box">6</container>
               <unittitle>Terhune, Tom and Donna, MI, Pinkney, MI <unitdate type="inclusive" normal="1996-03-03">March 3, 1996</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [882798440278811240553]" altrender="box">6</container>
               <unittitle>Thiesen, Carl, Ann Arbor, MI <unitdate type="inclusive" normal="1973-11-06">November 6, 1973</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [882798440278811240553]" altrender="box">6</container>
               <unittitle>Varani, James and Barbara, Ann Arbor, MI <unitdate type="inclusive" normal="1990-08-21">August 21, 1990</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [882798440278811240553]" altrender="box">6</container>
               <unittitle>Vaughan, Mr. and Mrs. Patrick, Ann Arbor, MI <unitdate type="inclusive" normal="1990-09-24">September 24, 1990</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [882798440278811240553]" altrender="box">6</container>
               <unittitle>Waidley, Tim and Melissa, Grasse Lake, MI <unitdate type="inclusive" normal="1993-11-28">November 28, 1993</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [882798440278811240553]" altrender="box">6</container>
               <unittitle>Wayne State University, Hungarian Heritage Room, Detroit, MI <unitdate type="inclusive" normal="1990-11-21">November 21, 1990</unitdate></unittitle>
             </did>
           </c03>
@@ -1247,37 +1251,37 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [882798440278811240553]" altrender="box">6</container>
               <unittitle>Academic Appointments</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [882798440278811240553]" altrender="box">6</container>
               <unittitle>Admissions Committee</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [882798440278811240553]" altrender="box">6</container>
               <unittitle>American Institute of Architects</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [882798440278811240553]" altrender="box">6</container>
               <unittitle>Clippings</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [882798440278811240553]" altrender="box">6</container>
               <unittitle>Course Evaluations</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">7</container>
+              <container type="box" label="Box [670116114980263078]" altrender="box">7</container>
               <unittitle>Grade Appeal</unittitle>
             </did>
             <accessrestrict>
@@ -1286,13 +1290,13 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [882798440278811240553]" altrender="box">6</container>
               <unittitle>Lawrence Technological University Design Jury</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">7</container>
+              <container type="box" label="Box [670116114980263078]" altrender="box">7</container>
               <unittitle>Student Letters of Recommendation</unittitle>
             </did>
             <accessrestrict>
@@ -1301,7 +1305,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [882798440278811240553]" altrender="box">6</container>
               <unittitle>Syllabi</unittitle>
             </did>
           </c03>
@@ -1319,13 +1323,13 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">6</container>
+                <container type="box" label="Box [882798440278811240553]" altrender="box">6</container>
                 <unittitle>General</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">6</container>
+                <container type="box" label="Box [882798440278811240553]" altrender="box">6</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1987">1987</unitdate>
                 </unittitle>
@@ -1341,7 +1345,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">6</container>
+                <container type="box" label="Box [882798440278811240553]" altrender="box">6</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1981">1981</unitdate>
                 </unittitle>
@@ -1349,7 +1353,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">6</container>
+                <container type="box" label="Box [882798440278811240553]" altrender="box">6</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1983">1983</unitdate>
                 </unittitle>
@@ -1357,7 +1361,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">6</container>
+                <container type="box" label="Box [882798440278811240553]" altrender="box">6</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1984">1984</unitdate>
                 </unittitle>
@@ -1373,7 +1377,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">6</container>
+                <container type="box" label="Box [882798440278811240553]" altrender="box">6</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1977">1977</unitdate>
                 </unittitle>
@@ -1381,7 +1385,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">6</container>
+                <container type="box" label="Box [882798440278811240553]" altrender="box">6</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1981">1981</unitdate>
                 </unittitle>
@@ -1389,7 +1393,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">6</container>
+                <container type="box" label="Box [882798440278811240553]" altrender="box">6</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1982">1982</unitdate>
                 </unittitle>
@@ -1405,7 +1409,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">6</container>
+                <container type="box" label="Box [882798440278811240553]" altrender="box">6</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1991">1991</unitdate>
                 </unittitle>
@@ -1413,7 +1417,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">6</container>
+                <container type="box" label="Box [882798440278811240553]" altrender="box">6</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1992">1992</unitdate>
                 </unittitle>
@@ -1422,7 +1426,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [882798440278811240553]" altrender="box">6</container>
               <unittitle>Architecture 437-Construction <unitdate type="inclusive" normal="1980">1980</unitdate></unittitle>
             </did>
           </c03>
@@ -1435,13 +1439,13 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">6</container>
+                <container type="box" label="Box [882798440278811240553]" altrender="box">6</container>
                 <unittitle>Brass Knocker Awards</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">6</container>
+                <container type="box" label="Box [882798440278811240553]" altrender="box">6</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1988">1988</unitdate>
                 </unittitle>
@@ -1449,7 +1453,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">6</container>
+                <container type="box" label="Box [882798440278811240553]" altrender="box">6</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1989">1989</unitdate>
                 </unittitle>
@@ -1457,7 +1461,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">6</container>
+                <container type="box" label="Box [882798440278811240553]" altrender="box">6</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1990">1990</unitdate>
                 </unittitle>
@@ -1473,7 +1477,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">6</container>
+                <container type="box" label="Box [882798440278811240553]" altrender="box">6</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1985">1985</unitdate>
                 </unittitle>
@@ -1481,7 +1485,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">6</container>
+                <container type="box" label="Box [882798440278811240553]" altrender="box">6</container>
                 <unittitle>
                   <unitdate type="inclusive">undated</unitdate>
                 </unittitle>
@@ -1489,7 +1493,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">6</container>
+                <container type="box" label="Box [882798440278811240553]" altrender="box">6</container>
                 <unittitle>Architecture 552/562-Comprehensive Design</unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">12 folders</extent>
@@ -1498,7 +1502,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">6</container>
+                <container type="box" label="Box [882798440278811240553]" altrender="box">6</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1981">1981</unitdate>
                 </unittitle>
@@ -1506,7 +1510,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">6</container>
+                <container type="box" label="Box [882798440278811240553]" altrender="box">6</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1982">1982</unitdate>
                 </unittitle>
@@ -1514,7 +1518,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">6</container>
+                <container type="box" label="Box [882798440278811240553]" altrender="box">6</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1983">1983</unitdate>
                 </unittitle>
@@ -1522,7 +1526,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">6</container>
+                <container type="box" label="Box [882798440278811240553]" altrender="box">6</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1984">1984</unitdate>
                 </unittitle>
@@ -1530,7 +1534,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">6</container>
+                <container type="box" label="Box [882798440278811240553]" altrender="box">6</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1985">1985</unitdate>
                 </unittitle>
@@ -1538,7 +1542,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">6</container>
+                <container type="box" label="Box [882798440278811240553]" altrender="box">6</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1986">1986</unitdate>
                 </unittitle>
@@ -1546,7 +1550,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">6</container>
+                <container type="box" label="Box [882798440278811240553]" altrender="box">6</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1987">1987</unitdate>
                 </unittitle>
@@ -1554,7 +1558,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">6</container>
+                <container type="box" label="Box [882798440278811240553]" altrender="box">6</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1988">1988</unitdate>
                 </unittitle>
@@ -1562,7 +1566,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">6</container>
+                <container type="box" label="Box [882798440278811240553]" altrender="box">6</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1989">1989</unitdate>
                 </unittitle>
@@ -1570,7 +1574,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">6</container>
+                <container type="box" label="Box [882798440278811240553]" altrender="box">6</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1990">1990</unitdate>
                 </unittitle>
@@ -1578,7 +1582,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">6</container>
+                <container type="box" label="Box [882798440278811240553]" altrender="box">6</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1991">1991</unitdate>
                 </unittitle>
@@ -1586,7 +1590,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">6</container>
+                <container type="box" label="Box [882798440278811240553]" altrender="box">6</container>
                 <unittitle>
                   <unitdate type="inclusive">undated</unitdate>
                 </unittitle>
@@ -1595,8 +1599,8 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="map-case" label="Drawer">250</container>
-              <container type="folder" label="Folder">47</container>
+              <container type="map-case" label="Drawer [760923428864301009059]" id="a804a3b4-2197-4a6a-ab1c-52c4b3586ebc" altrender="map-case">250</container>
+              <container type="folder" label="Folder" parent="a804a3b4-2197-4a6a-ab1c-52c4b3586ebc">47</container>
               <unittitle>University of Michigan, College of Architecture and Design, Assignments and Projects</unittitle>
               <physdesc>
                 <physfacet>Pencil and marker on mylar</physfacet>
@@ -1621,7 +1625,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
           </scopecontent>
           <c03 level="file">
             <did>
-              <container type="folder" label="Folder">1</container>
+              <container type="folder" label="Folder [8588535989416901552456]" altrender="folder">1</container>
               <unittitle>American Synthetics Company, Scottsdale, AZ, June 24,1983</unittitle>
               <physdesc>
                 <physfacet>Pen and pencil on mylar; blue-line prints; renderings; architectural drawings of plans, elevations, sections, details; mechanical and plumbing drawings</physfacet>
@@ -1630,7 +1634,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="folder" label="Folder">2</container>
+              <container type="folder" label="Folder [761254274388889]" altrender="folder">2</container>
               <unittitle>Andres, Mr. and Mrs. Fred, Residence, Canton, MI <unitdate type="inclusive" normal="1976-11-02">November 2, 1976</unitdate></unittitle>
               <physdesc>
                 <physfacet>Marker and pencil on vellum; renderings; architectural drawings of floor plans, elevations, sections, details</physfacet>
@@ -1639,7 +1643,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="folder" label="Folder">3</container>
+              <container type="folder" label="Folder [2341181842948986836521658]" altrender="folder">3</container>
               <unittitle>Arizona Historical Society Museum <unitdate type="inclusive">undated</unitdate></unittitle>
               <physdesc>
                 <physfacet>Marker and pencil on mylar; renderings; architectural drawings of floor plans, elevations, sections</physfacet>
@@ -1648,7 +1652,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="folder" label="Folder">4</container>
+              <container type="folder" label="Folder [5805438561085381877]" altrender="folder">4</container>
               <unittitle>Ash, Mr. and Mrs. L. David, Residence, Farmington Township, MI <unitdate type="inclusive" normal="1967-03-17">March 17, 1967</unitdate></unittitle>
               <physdesc>
                 <physfacet>Pencil on vellum; architectural drawings of floor plans, elevations, sections, details; structural, electrical, and heating drawings</physfacet>
@@ -1657,7 +1661,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="folder" label="Folder">5</container>
+              <container type="folder" label="Folder [91847854284050016819]" altrender="folder">5</container>
               <unittitle>Balogh, Mr. and Mrs. Tivadar, Residence, Plymouth Township, MI <unitdate type="inclusive" normal="1958-11-07">November 7, 1958</unitdate></unittitle>
               <physdesc>
                 <physfacet>Pencil on mylar and vellum; colored pencil on paper; ink on board; blueprints; blue-line print construction drawings; design development drawings; renderings; architectural drawings of plans, elevations, sections, and details</physfacet>
@@ -1666,7 +1670,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="folder" label="Folder">6</container>
+              <container type="folder" label="Folder [9237583543051944588]" altrender="folder">6</container>
               <unittitle>Beck, Mr. and Mrs. Charles B., Organ Studio, Ann Arbor, MI <unitdate type="inclusive" normal="1991-08-02">August 2, 1991</unitdate></unittitle>
               <physdesc>
                 <physfacet>Pencil and photocopy on mylar; architectural drawings of floor plans, elevations, sections, details; electrical drawings</physfacet>
@@ -1675,7 +1679,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="folder" label="Folder">7</container>
+              <container type="folder" label="Folder [31121447329867536]" altrender="folder">7</container>
               <unittitle>Business and Residential Blue-line Prints</unittitle>
               <physdesc>
                 <physfacet>Blue-line prints; architectural and construction drawings</physfacet>
@@ -1684,7 +1688,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="folder" label="Folder">8</container>
+              <container type="folder" label="Folder [914584398540644268]" altrender="folder">8</container>
               <unittitle>Callow, Mr. and Mrs. James, Residence, Livonia, MI <unitdate type="inclusive" normal="1990-06-08">June 8, 1990</unitdate></unittitle>
               <physdesc>
                 <physfacet>Blue-line prints; construction drawings</physfacet>
@@ -1693,7 +1697,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="folder" label="Folder">8</container>
+              <container type="folder" label="Folder [914584398540644268]" altrender="folder">8</container>
               <unittitle>Canton Township Agricultural Shelter, Canton, MI <unitdate type="inclusive" normal="1984-03-24">March 24, 1984</unitdate></unittitle>
               <physdesc>
                 <physfacet>Pencil on mylar; renderings; site plan</physfacet>
@@ -1702,7 +1706,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="folder" label="Folder">9</container>
+              <container type="folder" label="Folder [50999504530915799]" altrender="folder">9</container>
               <unittitle>Chen, Residence <unitdate type="inclusive" normal="1993-05-03">May 3, 1993</unitdate></unittitle>
               <physdesc>
                 <physfacet>Pencil on vellum; blue-line prints; architectural drawings of floor plans, elevations, sections, details; electrical and structural drawings</physfacet>
@@ -1715,7 +1719,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="folder" label="Folder">9</container>
+                <container type="folder" label="Folder [50999504530915799]" altrender="folder">9</container>
                 <unittitle>Residence, Plymouth, MI <unitdate type="inclusive" normal="1962-11-19">November 19, 1962</unitdate></unittitle>
                 <physdesc>
                   <physfacet>Blue-line prints; floor plans, elevations, sections, details</physfacet>
@@ -1724,7 +1728,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="folder" label="Folder">9</container>
+                <container type="folder" label="Folder [50999504530915799]" altrender="folder">9</container>
                 <unittitle>Residence, San Cristobal, Mexico <unitdate type="inclusive" normal="1973-01-03">January 3, 1973</unitdate></unittitle>
                 <physdesc>
                   <physfacet>Blue-line prints; floor plans, elevations</physfacet>
@@ -1734,7 +1738,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="folder" label="Folder">9</container>
+              <container type="folder" label="Folder [50999504530915799]" altrender="folder">9</container>
               <unittitle>Cohen, Dr. and Mrs. Carl, Residence, Ann Arbor, MI <unitdate type="inclusive" normal="1990-03-25">March 25, 1990</unitdate></unittitle>
               <physdesc>
                 <physfacet>Pencil on vellum; floor plan</physfacet>
@@ -1743,7 +1747,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="folder" label="Folder">10</container>
+              <container type="folder" label="Folder [845357544482956181228987]" altrender="folder">10</container>
               <unittitle>Constant, Dr, and Mrs. Errikos, Residence, Meridian Township, MI <unitdate type="inclusive" normal="1974-07-30">July 30, 1974</unitdate></unittitle>
               <physdesc>
                 <physfacet>Pencil on vellum; colored pencil on paper; blue-line prints; renderings; topographical survey; architectural drawings of floor plans, elevations, sections, details; electrical and structural drawings</physfacet>
@@ -1752,7 +1756,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="item">
             <did>
-              <container type="folder" label="Folder">11</container>
+              <container type="folder" label="Folder [2085822346791891838526]" altrender="folder">11</container>
               <unittitle>Crown Alloys Company, Madison Heights, MI <unitdate type="inclusive" normal="1993-11-10">November 10, 1993</unitdate></unittitle>
               <physdesc>
                 <physfacet>Blue-line prints; construction drawings</physfacet>
@@ -1761,7 +1765,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="folder" label="Folder">12</container>
+              <container type="folder" label="Folder [3372584188313356569]" altrender="folder">12</container>
               <unittitle>de Bear, Mr. and Mrs. Richard, Plymouth, MI, Residence, June 23,1978</unittitle>
               <physdesc>
                 <physfacet>Pencil on mylar; ink jet on paper; blue-line prints; design development drawings; architectural drawings of floor plans, elevations, sections, details</physfacet>
@@ -1770,7 +1774,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="folder" label="Folder">13</container>
+              <container type="folder" label="Folder [511420418587412186896802]" altrender="folder">13</container>
               <unittitle>Fabian, Václav, Residence, Lansing, MI <unitdate type="inclusive" normal="1978-03-16">March 16, 1978</unitdate></unittitle>
               <physdesc>
                 <physfacet>Pencil on vellum and mylar; architectural drawings of plans, elevations, sections, details; electrical drawings</physfacet>
@@ -1779,12 +1783,12 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="folder" label="Folder">14</container>
+              <container type="folder" label="Folder [4014148304737515376]" altrender="folder">14</container>
               <unittitle>Fairmont Builders</unittitle>
             </did>
             <c04 level="file">
               <did>
-                <container type="folder" label="Folder">14</container>
+                <container type="folder" label="Folder [4014148304737515376]" altrender="folder">14</container>
                 <unittitle>Emerald Lake II/ Heartwood Subdivision, East Lansing, MI <unitdate type="inclusive" normal="1988-05-12">May 12, 1988</unitdate></unittitle>
                 <physdesc>
                   <physfacet>Pencil on vellum and mylar; colored pencil on paper; blue-line prints; renderings; design development drawings; architectural drawings of floor plans, elevations, sections</physfacet>
@@ -1793,7 +1797,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="folder" label="Folder">15</container>
+                <container type="folder" label="Folder [7854478984798807495947]" altrender="folder">15</container>
                 <unittitle>Coyote Creek, Okemos, MI <unitdate type="inclusive" normal="1989-06-29">June 29, 1989</unitdate></unittitle>
                 <physdesc>
                   <physfacet>Pencil on mylar; renderings; architectural drawings of floor plans, elevations, sections</physfacet>
@@ -1803,7 +1807,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="folder" label="Folder">16</container>
+              <container type="folder" label="Folder [4909190894060706565249]" altrender="folder">16</container>
               <unittitle>Field, Jr., Mr. and Mrs. Marshall J. (Bud), Residence, Lake County, IL <unitdate type="inclusive" normal="1965-06-11">June 11, 1965</unitdate></unittitle>
               <physdesc>
                 <physfacet>Pencil on mylar and paper; sepia prints; renderings; architectural drawings of floor plans, elevations, sections, details</physfacet>
@@ -1812,7 +1816,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="folder" label="Folder">17</container>
+              <container type="folder" label="Folder [88893449040998]" altrender="folder">17</container>
               <unittitle>Fisher, Mr. and Mrs. Tom, Residential Alterations, Ann Arbor, MI <unitdate type="inclusive" normal="1988-07-09">July 9, 1988</unitdate></unittitle>
               <physdesc>
                 <physfacet>Pencil on vellum; design development drawings; floor plans</physfacet>
@@ -1821,7 +1825,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="folder" label="Folder">17</container>
+              <container type="folder" label="Folder [88893449040998]" altrender="folder">17</container>
               <unittitle>Fontaine, Mr. and Mrs. A.P., Residence, Osceola Township, MI <unitdate type="inclusive" normal="1967-04-25">April 25, 1967</unitdate></unittitle>
               <physdesc>
                 <physfacet>Pencil on vellum; sepia prints; design development drawings; renderings; architectural drawings of floor plans, elevations, sections, details; electrical and heating drawings</physfacet>
@@ -1830,7 +1834,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="folder" label="Folder">18</container>
+              <container type="folder" label="Folder [4105064039705106]" altrender="folder">18</container>
               <unittitle>Ford III, Mr. and Mrs. Walter B., Grosse Pointe, MI</unittitle>
               <physdesc>
                 <physfacet>Pencil on vellum; colored pencil on paper; blue-line prints</physfacet>
@@ -1838,7 +1842,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="folder" label="Folder">18</container>
+                <container type="folder" label="Folder [4105064039705106]" altrender="folder">18</container>
                 <unittitle>Pool Pavilion <unitdate type="inclusive" normal="1961-04-25">April 25, 1961</unitdate></unittitle>
                 <physdesc>
                   <physfacet>Pencil on vellum; colored pencil on paper; blue-line prints; design development drawings; renderings; architectural drawings of floor plans, elevations, sections, details; electrical drawings</physfacet>
@@ -1847,7 +1851,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="folder" label="Folder">18</container>
+                <container type="folder" label="Folder [4105064039705106]" altrender="folder">18</container>
                 <unittitle>Carport <unitdate type="inclusive" normal="1961-09-24">September 24, 1961</unitdate></unittitle>
                 <physdesc>
                   <physfacet>Pencil on vellum; renderings; floor plans, elevations</physfacet>
@@ -1856,7 +1860,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="folder" label="Folder">18</container>
+                <container type="folder" label="Folder [4105064039705106]" altrender="folder">18</container>
                 <unittitle>Enclosed Terrace <unitdate type="inclusive" normal="1963-06-08">June 8, 1963</unitdate></unittitle>
                 <physdesc>
                   <physfacet>Pencil on vellum; colored pencil on paper; design development drawings; renderings; plans, elevations, sections, details</physfacet>
@@ -1866,7 +1870,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="folder" label="Folder">19</container>
+              <container type="folder" label="Folder [34104066917599416]" altrender="folder">19</container>
               <unittitle>Friends of Miller Woods, Fence and Parking Area, Plymouth Township <unitdate type="inclusive" normal="1992-06-30">June 30, 1992</unitdate></unittitle>
               <physdesc>
                 <physfacet>Blue-line prints; architectural drawings of site plans</physfacet>
@@ -1875,7 +1879,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="folder" label="Folder">19</container>
+              <container type="folder" label="Folder [34104066917599416]" altrender="folder">19</container>
               <unittitle>Gallup, Mr. and Mrs. Charles A., Residence, Callawassie Island, SC <unitdate type="inclusive" normal="1989-02-21">February 21, 1989</unitdate></unittitle>
               <physdesc>
                 <physfacet>Pencil on vellum and mylar; blue-line prints; sepia prints; renderings; architectural drawings of floor plans, elevations, sections, details</physfacet>
@@ -1884,7 +1888,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="folder" label="Folder">20</container>
+              <container type="folder" label="Folder [59910953845478772569786]" altrender="folder">20</container>
               <unittitle>Gasdick, Ms. Florence and Ms. Betty Ritzenhein, Gotfredson Road, Washtenaw Co., MI</unittitle>
               <physdesc>
                 <physfacet>Pencil on mylar and vellum; blue-line and sepia prints</physfacet>
@@ -1892,7 +1896,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="folder" label="Folder">20</container>
+                <container type="folder" label="Folder [59910953845478772569786]" altrender="folder">20</container>
                 <unittitle>Residence <unitdate type="inclusive" normal="1969-02-07">February 7, 1969</unitdate></unittitle>
                 <physdesc>
                   <physfacet>Pencil on vellum; blue-line and sepia prints; renderings; architectural drawings of floor plans, elevations, sections, details; mechanical and electrical drawings</physfacet>
@@ -1901,7 +1905,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="folder" label="Folder">20</container>
+                <container type="folder" label="Folder [59910953845478772569786]" altrender="folder">20</container>
                 <unittitle>Addition <unitdate type="inclusive" normal="1980-08-08">August 8, 1980</unitdate></unittitle>
                 <physdesc>
                   <physfacet>Pencil on mylar; blue-line prints; architectural drawings of floor plans, elevations, details</physfacet>
@@ -1911,7 +1915,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="folder" label="Folder">21</container>
+              <container type="folder" label="Folder [012843430911643]" altrender="folder">21</container>
               <unittitle>Genesis of Ann Arbor Classroom Addition, Ann Arbor, MI <unitdate type="inclusive" normal="1977-07-29">July 29, 1977</unitdate></unittitle>
               <physdesc>
                 <physfacet>Pencil on mylar; architectural drawings of floor plans, elevations, sections, details; mechanical and electrical drawings</physfacet>
@@ -1920,7 +1924,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="folder" label="Folder">22</container>
+              <container type="folder" label="Folder [5620042283260107]" altrender="folder">22</container>
               <unittitle>Gilbert, Mr. Elmer, Deck, Ann Arbor, MI <unitdate type="inclusive" normal="1983-07-13">July 13, 1983</unitdate></unittitle>
               <physdesc>
                 <physfacet>Pencil on mylar; architectural drawing of floor plan and details</physfacet>
@@ -1929,7 +1933,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="folder" label="Folder">22</container>
+              <container type="folder" label="Folder [5620042283260107]" altrender="folder">22</container>
               <unittitle>Gotting, Mr. and Mrs. Karl, Residence, Okemos, MI, April 7,1988</unittitle>
               <physdesc>
                 <physfacet>Pencil on mylar; architectural drawings of floor plans, elevations, sections</physfacet>
@@ -1938,7 +1942,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="folder" label="Folder">23</container>
+              <container type="folder" label="Folder [7294082950462486419730]" altrender="folder">23</container>
               <unittitle>Grosse Pointe Club, Grosse Pointe Farms, MI, January 2,1963</unittitle>
               <physdesc>
                 <physfacet>Pencil on vellum; colored pencil on paper; sketches; design development drawings; renderings; architectural drawings of floor plans and elevations</physfacet>
@@ -1947,7 +1951,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="folder" label="Folder">23</container>
+              <container type="folder" label="Folder [7294082950462486419730]" altrender="folder">23</container>
               <unittitle>Growth Works, Renovation, Plymouth, MI <unitdate type="inclusive" normal="1978-11-30">November 30, 1978</unitdate></unittitle>
               <physdesc>
                 <physfacet>Blue-line prints; architectural drawings of floor plans, elevations, sections, details; electrical and heating drawings</physfacet>
@@ -1956,7 +1960,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="folder" label="Folder">23</container>
+              <container type="folder" label="Folder [7294082950462486419730]" altrender="folder">23</container>
               <unittitle>Handball Courts <unitdate type="inclusive">undated</unitdate></unittitle>
               <physdesc>
                 <physfacet>Pencil on vellum; mylar photocopies; rendering; architectural drawing of floor plan; electrical drawings</physfacet>
@@ -1965,7 +1969,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="folder" label="Folder">24</container>
+              <container type="folder" label="Folder [64704647393703534873]" altrender="folder">24</container>
               <unittitle>Hanyi, Dr. and Mrs. Karl, Residence, Plymouth, MI <unitdate type="inclusive" normal="1983-03-26">March 26, 1983</unitdate></unittitle>
               <physdesc>
                 <physfacet>Pencil on mylar; renderings; architectural drawings of floor plans, elevations, sections, details; electrical and heating drawings</physfacet>
@@ -1974,7 +1978,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="folder" label="Folder">24</container>
+              <container type="folder" label="Folder [64704647393703534873]" altrender="folder">24</container>
               <unittitle>Heide's Flowers, Shop Addition, Plymouth, MI, June 19,1978</unittitle>
               <physdesc>
                 <physfacet>Pencil on vellum; blue-line and sepia prints; architectural drawings of floor plans, elevations, sections, details</physfacet>
@@ -1983,7 +1987,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="folder" label="Folder">24</container>
+              <container type="folder" label="Folder [64704647393703534873]" altrender="folder">24</container>
               <unittitle>Holder, Mr. and Mrs. Kenneth J., Residence, Superior Township, MI <unitdate type="inclusive" normal="1973-05-04">May 4, 1973</unitdate></unittitle>
               <physdesc>
                 <physfacet>Blue-line prints; architectural drawings of floor plans, elevations, sections; electrical drawings</physfacet>
@@ -1992,7 +1996,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="folder" label="Folder">25</container>
+              <container type="folder" label="Folder [53891047387016256]" altrender="folder">25</container>
               <unittitle>Holt, Mr. George (Skip) and Linda, Residence and Shop, Howell, MI <unitdate type="inclusive" normal="1988-01-18">January 18, 1988</unitdate></unittitle>
               <physdesc>
                 <physfacet>Marker on vellum; Pencil on mylar and vellum; renderings; architectural drawings of floor plans, elevations, sections, details</physfacet>
@@ -2001,7 +2005,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="folder" label="Folder">25</container>
+              <container type="folder" label="Folder [53891047387016256]" altrender="folder">25</container>
               <unittitle>Jack, Mr. and Mrs. William S., Residence, Lodi Township, MI <unitdate type="inclusive" normal="1985-04-18">April 18, 1985</unitdate></unittitle>
               <physdesc>
                 <physfacet>Pencil on mylar; architectural drawing of floor plan and elevations</physfacet>
@@ -2010,7 +2014,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="folder" label="Folder">25</container>
+              <container type="folder" label="Folder [53891047387016256]" altrender="folder">25</container>
               <unittitle>Jarvey, Mr. and Mrs. James, Addition, Canton, MI <unitdate type="inclusive" normal="1989-07-24">July 24, 1989</unitdate></unittitle>
               <physdesc>
                 <physfacet>Pencil on mylar; architectural drawings of floor plans and elevations</physfacet>
@@ -2019,7 +2023,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="folder" label="Folder">26</container>
+              <container type="folder" label="Folder [4469504549131421518133]" altrender="folder">26</container>
               <unittitle>Jebe, Mr. and Mrs. Emil H., Addition <unitdate type="inclusive" normal="1980-05-07">May 7, 1980</unitdate></unittitle>
               <physdesc>
                 <physfacet>Pencil on mylar; architectural drawings of floor plans, elevations, sections, details</physfacet>
@@ -2028,7 +2032,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="folder" label="Folder">26</container>
+              <container type="folder" label="Folder [4469504549131421518133]" altrender="folder">26</container>
               <unittitle>Johnston, Carleton, Restaurant, Plymouth, MI <unitdate type="inclusive" normal="1976-10-26">October 26, 1976</unitdate></unittitle>
               <physdesc>
                 <physfacet>Pencil and photocopy on mylar; pencil on vellum; sepia-line prints; renderings; architectural drawings of site and floor plans, elevations, sections, details</physfacet>
@@ -2037,7 +2041,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="folder" label="Folder">27</container>
+              <container type="folder" label="Folder [829989647497661288141982]" altrender="folder">27</container>
               <unittitle>Litchfield Apartments, Williamston, MI <unitdate type="inclusive" normal="1990-01-19">January 19, 1990</unitdate></unittitle>
               <physdesc>
                 <physfacet>Pencil and photocopy on mylar and vellum; blue-line prints; architectural drawings of floor plans, elevations, sections</physfacet>
@@ -2046,7 +2050,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="folder" label="Folder">27</container>
+              <container type="folder" label="Folder [829989647497661288141982]" altrender="folder">27</container>
               <unittitle>Library Design Associates, Inc., Plymouth, MI <unitdate type="inclusive" normal="1989-12-13">December 13, 1989</unitdate></unittitle>
               <physdesc>
                 <physfacet>Pencil on mylar; architectural drawings of floor plans, elevations, sections, details; mechanical and electrical drawings</physfacet>
@@ -2055,7 +2059,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="folder" label="Folder">28</container>
+              <container type="folder" label="Folder [7581669888411902839083064]" altrender="folder">28</container>
               <unittitle>Lochmoor Tennis Club, Grosse Pointe Woods, MI <unitdate type="inclusive" normal="1974">1974</unitdate></unittitle>
               <physdesc>
                 <physfacet>Charcoal, marker, and pen on vellum; colored pencil on paper; renderings; design development drawings of floor plans and elevations</physfacet>
@@ -2064,7 +2068,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="folder" label="Folder">28</container>
+              <container type="folder" label="Folder [7581669888411902839083064]" altrender="folder">28</container>
               <unittitle>Lundy, James L., Residence <unitdate type="inclusive" normal="1970-05-08">May 8, 1970</unitdate></unittitle>
               <physdesc>
                 <physfacet>Pencil on vellum; blue-line prints; renderings; architectural drawings of floor plans, elevations, sections, details</physfacet>
@@ -2073,7 +2077,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="folder" label="Folder">28</container>
+              <container type="folder" label="Folder [7581669888411902839083064]" altrender="folder">28</container>
               <unittitle>Mac Lellan, Mr. and Mrs. John, Residence, Hammond Lake, MI <unitdate type="inclusive">undated</unitdate></unittitle>
               <physdesc>
                 <physfacet>Pencil on vellum; colored pencil on paper; renderings; floor plan</physfacet>
@@ -2082,7 +2086,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="folder" label="Folder">28</container>
+              <container type="folder" label="Folder [7581669888411902839083064]" altrender="folder">28</container>
               <unittitle>Malvin, Mr. and Mrs. Richard L., Residence, Ann Arbor, MI <unitdate type="inclusive" normal="1965-01-28">January 28, 1965</unitdate></unittitle>
               <physdesc>
                 <physfacet>Pencil on vellum; colored pencil on paper; blue-line prints; renderings; architectural drawings of floor plans, elevations, sections, details; heating and electrical drawings</physfacet>
@@ -2091,7 +2095,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="folder" label="Folder">29</container>
+              <container type="folder" label="Folder [975489785234595127701]" altrender="folder">29</container>
               <unittitle>Mercy College of Detroit, Detroit, MI</unittitle>
               <physdesc>
                 <physfacet>Pencil and photocopy on mylar; blue-line and sepia prints; colored pencil on paper</physfacet>
@@ -2099,7 +2103,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="folder" label="Folder">29</container>
+                <container type="folder" label="Folder [975489785234595127701]" altrender="folder">29</container>
                 <unittitle>Library Addition <unitdate type="inclusive" normal="1975-09-04">September 4, 1975</unitdate></unittitle>
                 <physdesc>
                   <physfacet>Pencil and photocopy on mylar; blue-line and sepia prints; blueprint mounted on foam core; renderings; architectural drawings of site and floor plans, elevations, sections, details</physfacet>
@@ -2108,7 +2112,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="folder" label="Folder">30</container>
+                <container type="folder" label="Folder [3518972064697583]" altrender="folder">30</container>
                 <unittitle>Library Addition <unitdate type="inclusive" normal="1975-09-04">September 4, 1975</unitdate> cont.</unittitle>
                 <physdesc>
                   <physfacet>Pencil on mylar; structural, electrical, and mechanical drawings</physfacet>
@@ -2117,7 +2121,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="folder" label="Folder">31</container>
+                <container type="folder" label="Folder [5025784614368875764]" altrender="folder">31</container>
                 <unittitle>Marian Hall Renovation <unitdate type="inclusive" normal="1985-04-17">April 17, 1985</unitdate></unittitle>
                 <physdesc>
                   <physfacet>Pencil and photocopy on mylar; renderings; architectural drawings of floor plans, elevations, sections, details</physfacet>
@@ -2126,7 +2130,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="folder" label="Folder">32</container>
+                <container type="folder" label="Folder [52672950842204421828759]" altrender="folder">32</container>
                 <unittitle>Marian Hall Renovation <unitdate type="inclusive" normal="1985-04-17">April 17, 1985</unitdate> cont.</unittitle>
                 <physdesc>
                   <physfacet>Pencil and photocopy on mylar; color and electrical drawing</physfacet>
@@ -2135,7 +2139,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="folder" label="Folder">33</container>
+                <container type="folder" label="Folder [944125253460879603838]" altrender="folder">33</container>
                 <unittitle>Marian Hall Renovation <unitdate type="inclusive" normal="1985-04-17">April 17, 1985</unitdate> cont.</unittitle>
                 <physdesc>
                   <physfacet>Blue-line prints; mechanical and construction drawings</physfacet>
@@ -2144,7 +2148,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="folder" label="Folder">34</container>
+                <container type="folder" label="Folder [214847054218641179486]" altrender="folder">34</container>
                 <unittitle>Sciences Building <unitdate type="inclusive" normal="1977-06-06">June 6, 1977</unitdate></unittitle>
                 <physdesc>
                   <physfacet>Pencil and photocopy on mylar; colored pencil on paper-mounted on foam core; architectural drawings of site and floor plans, elevations, sections, details</physfacet>
@@ -2153,7 +2157,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="folder" label="Folder">35</container>
+                <container type="folder" label="Folder [908839044973465475613]" altrender="folder">35</container>
                 <unittitle>Sciences Building <unitdate type="inclusive" normal="1977-06-06">June 6, 1977</unitdate> cont.</unittitle>
                 <physdesc>
                   <physfacet>Pencil on mylar; structural and electrical drawings</physfacet>
@@ -2163,7 +2167,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="folder" label="Folder">36</container>
+              <container type="folder" label="Folder [986015658428988993719]" altrender="folder">36</container>
               <unittitle>Michigan Eye Institute, Canton, MI <unitdate type="inclusive" normal="1979-08-08">August 8, 1979</unitdate></unittitle>
               <physdesc>
                 <physfacet>Blue-line prints; renderings; architectural drawings of floor plans, elevations, sections, details; structural, mechanical, electrical drawings</physfacet>
@@ -2172,7 +2176,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="folder" label="Folder">36</container>
+              <container type="folder" label="Folder [986015658428988993719]" altrender="folder">36</container>
               <unittitle>Niblet, Mr. and Mrs. Lawrence J., Carport, Detroit, MI <unitdate type="inclusive" normal="1960-07-05">July 5, 1960</unitdate></unittitle>
               <physdesc>
                 <physfacet>Pencil on vellum; renderings; architectural drawings of floor plans, elevations, sections, details</physfacet>
@@ -2181,7 +2185,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="folder" label="Folder">36</container>
+              <container type="folder" label="Folder [986015658428988993719]" altrender="folder">36</container>
               <unittitle>N. Atlanta Legacy <unitdate type="inclusive">undated</unitdate></unittitle>
               <physdesc>
                 <physfacet>Blue-line prints; architectural drawings of plans, elevations, sections</physfacet>
@@ -2190,7 +2194,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="folder" label="Folder">36</container>
+              <container type="folder" label="Folder [986015658428988993719]" altrender="folder">36</container>
               <unittitle>Plymouth Stamping Division-Eltec Corporation, Plymouth, MI <unitdate type="inclusive" normal="1976-03-01">March 1, 1976</unitdate></unittitle>
               <physdesc>
                 <physfacet>Pencil and photocopy on mylar; pencil on vellum; rendering; architectural drawings of plot and floor plans, elevations, details; structural drawings</physfacet>
@@ -2199,7 +2203,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="folder" label="Folder">37</container>
+              <container type="folder" label="Folder [4962175249399882458264]" altrender="folder">37</container>
               <unittitle>Plymouth Township, MI</unittitle>
               <physdesc>
                 <physfacet>Pencil on vellum; colored pencil on paper</physfacet>
@@ -2207,7 +2211,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="folder" label="Folder">37</container>
+                <container type="folder" label="Folder [4962175249399882458264]" altrender="folder">37</container>
                 <unittitle>Administrative Offices <unitdate type="inclusive" normal="1961-10-30">October 30, 1961</unitdate></unittitle>
                 <physdesc>
                   <physfacet>Pencil on vellum; design development studies; architectural drawings of floor plans, sections, details</physfacet>
@@ -2216,7 +2220,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="folder" label="Folder">37</container>
+                <container type="folder" label="Folder [4962175249399882458264]" altrender="folder">37</container>
                 <unittitle>Garage and Storage Building <unitdate type="inclusive" normal="1962-01-16">January 16, 1962</unitdate></unittitle>
                 <physdesc>
                   <physfacet>Pencil on vellum; colored pencil on paper; renderings; architectural drawings of plot and floor plans, elevations, sections details; electrical and heating drawings</physfacet>
@@ -2225,7 +2229,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="folder" label="Folder">37</container>
+                <container type="folder" label="Folder [4962175249399882458264]" altrender="folder">37</container>
                 <unittitle>Santa's Icicle House, Plymouth Square <unitdate type="inclusive" normal="1960">1960</unitdate></unittitle>
                 <physdesc>
                   <physfacet>Colored pencil on paper; rendering</physfacet>
@@ -2235,7 +2239,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="folder" label="Folder">37</container>
+              <container type="folder" label="Folder [4962175249399882458264]" altrender="folder">37</container>
               <unittitle>Prizlow, Mr. and Mrs. Alfred J., Residence, Kentmoor Subdivision, MI <unitdate type="inclusive" normal="1963-04-12">April 12, 1963</unitdate></unittitle>
               <physdesc>
                 <physfacet>Pencil on vellum; colored pencil on paper; design development drawings; renderings; architectural drawings of plans, elevations</physfacet>
@@ -2244,7 +2248,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="folder" label="Folder">37</container>
+              <container type="folder" label="Folder [4962175249399882458264]" altrender="folder">37</container>
               <unittitle>Ramirez, Dr. and Mrs. Arcadio, Cabana, Ann Arbor, MI <unitdate type="inclusive" normal="1983-08-10">August 10, 1983</unitdate></unittitle>
               <physdesc>
                 <physfacet>Pencil on mylar; architectural drawing of floor plan, elevation, section</physfacet>
@@ -2253,7 +2257,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="folder" label="Folder">37</container>
+              <container type="folder" label="Folder [4962175249399882458264]" altrender="folder">37</container>
               <unittitle>Reek, Don and Alexa Gordon, Addition, Whitmore Lake, MI <unitdate type="inclusive" normal="1993-09-09">September 9, 1993</unitdate></unittitle>
               <physdesc>
                 <physfacet>Pencil on mylar; color copy; rendering; electrical drawing</physfacet>
@@ -2262,15 +2266,17 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="folder" label="Folder">38</container>
-              <unittitle>Renderings <unitdate type="inclusive" normal="1961/1994">1961-1994</unitdate>, <unitdate type="inclusive">undated</unitdate></unittitle>
+              <container type="folder" label="Folder [850800546526290599]" altrender="folder">38</container>
+              <unittitle>Renderings</unittitle>
+              <unitdate type="inclusive" normal="1961/1994">1961-1994</unitdate>
+              <unitdate type="inclusive">undated</unitdate>
               <physdesc>
                 <physfacet>Pencil and colored pencil on paper; marker on vellum, blue-line and sepia prints</physfacet>
               </physdesc>
             </did>
             <c04 level="file">
               <did>
-                <container type="folder" label="Folder">38</container>
+                <container type="folder" label="Folder [850800546526290599]" altrender="folder">38</container>
                 <unittitle>Unmounted renderings <unitdate type="inclusive" normal="1961/1990">1961-1990</unitdate></unittitle>
                 <physdesc>
                   <physfacet>Pencil and colored pencil on paper; marker on vellum; blue-line prints</physfacet>
@@ -2279,8 +2285,10 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="folder" label="Folder">39</container>
-                <unittitle>Mounted renderings <unitdate type="inclusive" normal="1962/1994">1962-1994</unitdate>, <unitdate type="inclusive">undated</unitdate></unittitle>
+                <container type="folder" label="Folder [641635478768552]" altrender="folder">39</container>
+                <unittitle>Mounted renderings</unittitle>
+                <unitdate type="inclusive" normal="1962/1994">1962-1994</unitdate>
+                <unitdate type="inclusive">undated</unitdate>
                 <physdesc>
                   <physfacet>Colored pencil on paper, blue-line, and sepia prints mounted on foam core and cardboard</physfacet>
                 </physdesc>
@@ -2289,7 +2297,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="folder" label="Folder">40</container>
+              <container type="folder" label="Folder [4252268450468231362]" altrender="folder">40</container>
               <unittitle>Roosevelt Memorial, Washington, D.C. <unitdate type="inclusive">undated</unitdate></unittitle>
               <physdesc>
                 <physfacet>Colored pencil on board; rendering; architectural drawings of plans, sections</physfacet>
@@ -2298,7 +2306,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="folder" label="Folder">41</container>
+              <container type="folder" label="Folder [016342724836813514533]" altrender="folder">41</container>
               <unittitle>Saper Galleries, East Lansing, MI</unittitle>
               <physdesc>
                 <physfacet>Pencil on mylar; architectural and structural drawings</physfacet>
@@ -2306,7 +2314,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="folder" label="Folder">41</container>
+                <container type="folder" label="Folder [016342724836813514533]" altrender="folder">41</container>
                 <unittitle>Gallery <unitdate type="inclusive" normal="1985-08-21">August 21, 1985</unitdate></unittitle>
                 <physdesc>
                   <physfacet>Pencil on mylar; rendering; architectural drawings of floor plans, elevations, sections, details; electrical drawings</physfacet>
@@ -2315,7 +2323,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="folder" label="Folder">41</container>
+                <container type="folder" label="Folder [016342724836813514533]" altrender="folder">41</container>
                 <unittitle>Gallery Addition, with Henry Ofiaria, AIA <unitdate type="inclusive" normal="1998-03-02">March 2, 1998</unitdate></unittitle>
                 <physdesc>
                   <physfacet>Pencil on mylar; architectural drawings of floor plans, elevations, sections, details; structural drawings</physfacet>
@@ -2325,7 +2333,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="folder" label="Folder">41</container>
+              <container type="folder" label="Folder [016342724836813514533]" altrender="folder">41</container>
               <unittitle>Seger, Mr. and Mrs. Craig, Residence, Honor, MI <unitdate type="inclusive">undated</unitdate></unittitle>
               <physdesc>
                 <physfacet>Pencil and marker on mylar; blue-line prints; renderings</physfacet>
@@ -2334,13 +2342,15 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="folder" label="Folder">42</container>
+              <container type="folder" label="Folder [923302685448909126]" altrender="folder">42</container>
               <unittitle>Student work,1946-1952 and <unitdate type="inclusive">undated</unitdate></unittitle>
             </did>
             <c04 level="file">
               <did>
-                <container type="folder" label="Folder">42</container>
-                <unittitle>University of Michigan--College of Architecture and Design and Untitled <unitdate type="inclusive" normal="1946/1952">1946-1952</unitdate>, <unitdate type="inclusive">undated</unitdate></unittitle>
+                <container type="folder" label="Folder [923302685448909126]" altrender="folder">42</container>
+                <unittitle>University of Michigan--College of Architecture and Design and Untitled</unittitle>
+                <unitdate type="inclusive" normal="1946/1952">1946-1952</unitdate>
+                <unitdate type="inclusive">undated</unitdate>
                 <physdesc>
                   <physfacet>Colored pencil and charcoal on paper and board; figure and still drawings; renderings, floor plans, elevations</physfacet>
                 </physdesc>
@@ -2348,7 +2358,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="folder" label="Folder">43</container>
+                <container type="folder" label="Folder [09118638478598715499]" altrender="folder">43</container>
                 <unittitle>University of Michigan--College of Architecture and Design <unitdate type="inclusive" normal="1951/1952">1951-1952</unitdate></unittitle>
                 <physdesc>
                   <physfacet>Colored pencil on board; renderings sections</physfacet>
@@ -2358,7 +2368,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="folder" label="Folder">44</container>
+              <container type="folder" label="Folder [896276194421808291514]" altrender="folder">44</container>
               <unittitle>Swenson-Gale, Residence and Barn, Lansing, MI <unitdate type="inclusive" normal="1983-12-31">December 31, 1983</unitdate></unittitle>
               <physdesc>
                 <physfacet>Pencil on mylar; marker on vellum; renderings; architectural drawings of floor plans, elevations, sections, details; electrical and heating drawings</physfacet>
@@ -2367,7 +2377,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="folder" label="Folder">44</container>
+              <container type="folder" label="Folder [896276194421808291514]" altrender="folder">44</container>
               <unittitle>Vogel, Carola, Residence <unitdate type="inclusive">undated</unitdate></unittitle>
               <physdesc>
                 <physfacet>Photocopy on paper; rendering; design development drawing of floor plan</physfacet>
@@ -2376,7 +2386,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="folder" label="Folder">44</container>
+              <container type="folder" label="Folder [896276194421808291514]" altrender="folder">44</container>
               <unittitle>Werner, Mr. and Mrs. Arnold, Residence, East Lansing <unitdate type="inclusive" normal="1989-02-28">February 28, 1989</unitdate></unittitle>
               <physdesc>
                 <physfacet>Pencil on mylar; rendering; floor plan</physfacet>
@@ -2385,7 +2395,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="folder" label="Folder">44</container>
+              <container type="folder" label="Folder [896276194421808291514]" altrender="folder">44</container>
               <unittitle>Wilson, Margaret, Residence <unitdate type="inclusive" normal="1983-09-07">September 7, 1983</unitdate></unittitle>
               <physdesc>
                 <physfacet>Pencil on mylar and vellum; floor plan; elevation</physfacet>
@@ -2394,12 +2404,12 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="folder" label="Folder">45</container>
+              <container type="folder" label="Folder [02746974158478414081]" altrender="folder">45</container>
               <unittitle>Zeleck, Mr. and Mrs. Brian</unittitle>
             </did>
             <c04 level="file">
               <did>
-                <container type="folder" label="Folder">45</container>
+                <container type="folder" label="Folder [02746974158478414081]" altrender="folder">45</container>
                 <unittitle>Residence, Barton Hills, MI <unitdate type="inclusive" normal="1979-03-04">March 4, 1979</unitdate></unittitle>
                 <physdesc>
                   <physfacet>Pencil and marker on mylar; architectural drawings of floor plans, elevations, sections, details; electrical drawings</physfacet>
@@ -2408,7 +2418,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="folder" label="Folder">45</container>
+                <container type="folder" label="Folder [02746974158478414081]" altrender="folder">45</container>
                 <unittitle>Scottsdale, AZ <unitdate type="inclusive" normal="1981-07-29">July 29, 1981</unitdate></unittitle>
                 <physdesc>
                   <physfacet>Pencil on vellum and mylar; marker and colored pencil on paper; renderings; architectural drawings of floor plans, elevations, sections, details; electrical drawings</physfacet>
@@ -2426,7 +2436,7 @@ Tivadar Balogh papers, Bentley Historical Library, University of Michigan</p>
           </scopecontent>
           <c03 level="file">
             <did>
-              <container type="folder" label="Folder">46</container>
+              <container type="folder" label="Folder [771867435211054]" altrender="folder">46</container>
               <unittitle>Plymouth Logo, Plymouth, MI <unitdate type="inclusive">undated</unitdate></unittitle>
               <physdesc>
                 <physfacet>Print on mylar and paper</physfacet>

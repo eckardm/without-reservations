@@ -31,7 +31,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>William Walter Wedemeyer papers, 1890-1913</titleproper>
       <author>Finding aid created by <lb/>Michigan Historical Collections staff</author>
     </titlepage>
@@ -84,16 +84,16 @@ William Walter Wedemeyer papers, Bentley Historical Library, University of Michi
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <geogname source="lcsh" encodinganalog="651">Alaska--Description and travel.</geogname>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n79022219.html">Ann Arbor (Mich.)</geogname>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n85064194.html">Chelsea (Mich.)</geogname>
-        <geogname source="lcsh" encodinganalog="651">Guyana--Description and travel.</geogname>
-        <geogname source="lcsh" encodinganalog="651">Panama--Description and travel.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/3052">Alaska--Description and travel.</geogname>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n79022219.html" ref="/subjects/860">Ann Arbor (Mich.)</geogname>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n85064194.html" ref="/subjects/1059">Chelsea (Mich.)</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/3053">Guyana--Description and travel.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/2752">Panama--Description and travel.</geogname>
         <corpname source="lcnaf" encodinganalog="610">Republican Party (Mich.)</corpname>
-        <geogname source="lcsh" encodinganalog="651">South America.</geogname>
-        <subject source="lcsh" encodinganalog="650">Voyages and travels.</subject>
-        <geogname source="lcsh" encodinganalog="651">United States--Politics and government--1909-1913.</geogname>
-        <geogname source="lcsh" encodinganalog="651">United States--Politics and government--1901-1909.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1010">South America.</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6009">Voyages and travels.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/990">United States--Politics and government--1909-1913.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/989">United States--Politics and government--1901-1909.</geogname>
       </controlaccess>
       <controlaccess>
         <head>Contributors:</head>
@@ -116,8 +116,10 @@ William Walter Wedemeyer papers, Bentley Historical Library, University of Michi
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <unittitle><unitdate type="inclusive" normal="1890">1890</unitdate>, <unitdate type="inclusive" normal="1893">1893</unitdate>, <unitdate type="inclusive" normal="1899/1900">1899-1900</unitdate></unittitle>
+            <container type="box" label="Box [0947364983021153170]" altrender="box">1</container>
+            <unitdate type="inclusive" normal="1890">1890</unitdate>
+            <unitdate type="inclusive" normal="1893">1893</unitdate>
+            <unitdate type="inclusive" normal="1899/1900">1899-1900</unitdate>
           </did>
           <odd>
             <p>(include letters, 1893, from Frederick Douglass and Benjamin Harrison)</p>
@@ -125,7 +127,7 @@ William Walter Wedemeyer papers, Bentley Historical Library, University of Michi
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [0947364983021153170]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1901/1905">1901-1905</unitdate>
             </unittitle>
@@ -136,7 +138,7 @@ William Walter Wedemeyer papers, Bentley Historical Library, University of Michi
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [0947364983021153170]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1907">1907</unitdate>
             </unittitle>
@@ -147,7 +149,7 @@ William Walter Wedemeyer papers, Bentley Historical Library, University of Michi
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [0947364983021153170]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1908/1909">1908-1909</unitdate>
             </unittitle>
@@ -155,7 +157,7 @@ William Walter Wedemeyer papers, Bentley Historical Library, University of Michi
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [0947364983021153170]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1910">1910</unitdate>
             </unittitle>
@@ -166,7 +168,7 @@ William Walter Wedemeyer papers, Bentley Historical Library, University of Michi
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [0947364983021153170]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1911">1911</unitdate>
             </unittitle>
@@ -180,7 +182,7 @@ William Walter Wedemeyer papers, Bentley Historical Library, University of Michi
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [0947364983021153170]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1912/1913">1912-1913</unitdate>
             </unittitle>
@@ -196,13 +198,13 @@ William Walter Wedemeyer papers, Bentley Historical Library, University of Michi
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [0947364983021153170]" altrender="box">1</container>
             <unittitle>Press notices and campaign statements</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [0947364983021153170]" altrender="box">1</container>
             <unittitle>Speeches</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">4 folders</extent>
@@ -215,44 +217,44 @@ William Walter Wedemeyer papers, Bentley Historical Library, University of Michi
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [0947364983021153170]" altrender="box">1</container>
               <unittitle>Alaskan trip</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [0947364983021153170]" altrender="box">1</container>
               <unittitle>Panama</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [0947364983021153170]" altrender="box">1</container>
               <unittitle>Michigan topics</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [0947364983021153170]" altrender="box">1</container>
               <unittitle>Abraham Lincoln</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [0947364983021153170]" altrender="box">1</container>
               <unittitle>Notes and address given to the American Insurance Union</unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [0947364983021153170]" altrender="box">1</container>
             <unittitle>Miscellaneous notes and addresses</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [0947364983021153170]" altrender="box">1</container>
             <unittitle>Political speeches</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -261,37 +263,39 @@ William Walter Wedemeyer papers, Bentley Historical Library, University of Michi
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [0947364983021153170]" altrender="box">1</container>
             <unittitle>Notes, outline, and text of commencement address at Ohio Northern University</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [0947364983021153170]" altrender="box">1</container>
             <unittitle>Notes and addresses on trip to South America</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [26198204092181622813]" altrender="box">2</container>
             <unittitle>Address given while member of the House of Representatives</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [26198204092181622813]" altrender="box">2</container>
             <unittitle>Legal briefs</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
-            <unittitle>Papers concerning the Chelsea State Bank and the Glazier Stove Company <unitdate type="inclusive" normal="1907">1907</unitdate>, <unitdate type="inclusive">undated</unitdate></unittitle>
+            <container type="box" label="Box [26198204092181622813]" altrender="box">2</container>
+            <unittitle>Papers concerning the Chelsea State Bank and the Glazier Stove Company</unittitle>
+            <unitdate type="inclusive" normal="1907">1907</unitdate>
+            <unitdate type="inclusive">undated</unitdate>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [26198204092181622813]" altrender="box">2</container>
             <unittitle>Miscellanea</unittitle>
           </did>
         </c02>

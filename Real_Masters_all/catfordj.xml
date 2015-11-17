@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>J. C. Catford papers, 1969-1985</titleproper>
       <author>Finding aid created by <lb/>Chris Schunter, February 2012; <lb/>Michael Shallcross, January 2014</author>
     </titlepage>
@@ -97,14 +97,14 @@ J. C. Catford papers, Bentley Historical Library, University of Michigan</p>
         <corpname encodinganalog="610" source="lcnaf">University of Michigan--Faculty.</corpname>
         <corpname encodinganalog="610" source="lcnaf">University of Michigan. Department of Linguistics.</corpname>
         <corpname encodinganalog="610" source="lcnaf" authfilenumber="http://id.loc.gov/authorities/names/n80089968">University of Michigan. English Language Institute.</corpname>
-        <subject encodinganalog="650" source="lcsh">Phonetics.</subject>
-        <subject encodinganalog="650" source="lcsh">Linguistics.</subject>
-        <subject encodinganalog="650" source="lcsh">Speech.</subject>
+        <subject encodinganalog="650" source="lcsh" ref="/subjects/6701">Phonetics.</subject>
+        <subject encodinganalog="650" source="lcsh" ref="/subjects/6702">Linguistics.</subject>
+        <subject encodinganalog="650" source="lcsh" ref="/subjects/6703">Speech.</subject>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat">Lectures.</genreform>
-        <genreform source="aat">Videocassettes.</genreform>
+        <genreform source="aat" ref="/subjects/3242">Lectures.</genreform>
+        <genreform source="aat" ref="/subjects/3146">Videocassettes.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -128,7 +128,7 @@ J. C. Catford papers, Bentley Historical Library, University of Michigan</p>
               <physdesc>
                 <physfacet>.MPEG file</physfacet>
               </physdesc>
-              <dao href="http://hdl.handle.net/2027.42/57765" show="new" actuate="onrequest">
+              <dao href="http://hdl.handle.net/2027.42/57765" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/1916">
                 <daodesc>
                   <p>[view item]</p>
                 </daodesc>
@@ -147,7 +147,7 @@ J. C. Catford papers, Bentley Historical Library, University of Michigan</p>
               <physdesc>
                 <physfacet>.MPEG file</physfacet>
               </physdesc>
-              <dao href="http://hdl.handle.net/2027.42/57766" show="new" actuate="onrequest">
+              <dao href="http://hdl.handle.net/2027.42/57766" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/1917">
                 <daodesc>
                   <p>[view item]</p>
                 </daodesc>
@@ -166,7 +166,7 @@ J. C. Catford papers, Bentley Historical Library, University of Michigan</p>
               <physdesc>
                 <physfacet>.MPEG file</physfacet>
               </physdesc>
-              <dao href="http://hdl.handle.net/2027.42/57767" show="new" actuate="onrequest">
+              <dao href="http://hdl.handle.net/2027.42/57767" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/1918">
                 <daodesc>
                   <p>[view item]</p>
                 </daodesc>
@@ -185,7 +185,7 @@ J. C. Catford papers, Bentley Historical Library, University of Michigan</p>
               <physdesc>
                 <physfacet>.MPEG file</physfacet>
               </physdesc>
-              <dao href="http://hdl.handle.net/2027.42/57768" show="new" actuate="onrequest">
+              <dao href="http://hdl.handle.net/2027.42/57768" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/1919">
                 <daodesc>
                   <p>[view item]</p>
                 </daodesc>
@@ -204,7 +204,7 @@ J. C. Catford papers, Bentley Historical Library, University of Michigan</p>
               <physdesc>
                 <physfacet>.MPEG file</physfacet>
               </physdesc>
-              <dao href="http://hdl.handle.net/2027.42/57769" show="new" actuate="onrequest">
+              <dao href="http://hdl.handle.net/2027.42/57769" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/1920">
                 <daodesc>
                   <p>[view item]</p>
                 </daodesc>
@@ -223,7 +223,7 @@ J. C. Catford papers, Bentley Historical Library, University of Michigan</p>
               <physdesc>
                 <physfacet>.MPEG file</physfacet>
               </physdesc>
-              <dao href="http://hdl.handle.net/2027.42/57770" show="new" actuate="onrequest">
+              <dao href="http://hdl.handle.net/2027.42/57770" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/1921">
                 <daodesc>
                   <p>[view item]</p>
                 </daodesc>
@@ -242,7 +242,7 @@ J. C. Catford papers, Bentley Historical Library, University of Michigan</p>
               <physdesc>
                 <physfacet>.MPEG file</physfacet>
               </physdesc>
-              <dao href="http://hdl.handle.net/2027.42/57771" show="new" actuate="onrequest">
+              <dao href="http://hdl.handle.net/2027.42/57771" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/1922">
                 <daodesc>
                   <p>[view item]</p>
                 </daodesc>
@@ -261,7 +261,7 @@ J. C. Catford papers, Bentley Historical Library, University of Michigan</p>
               <physdesc>
                 <physfacet>.MPEG file</physfacet>
               </physdesc>
-              <dao href="http://hdl.handle.net/2027.42/57772" show="new" actuate="onrequest">
+              <dao href="http://hdl.handle.net/2027.42/57772" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/1923">
                 <daodesc>
                   <p>[view item]</p>
                 </daodesc>
@@ -278,7 +278,7 @@ J. C. Catford papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [533637421168105627]" altrender="box">1</container>
               <unittitle>Lectures 1-8</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">8 optical disks</extent>
@@ -288,7 +288,7 @@ J. C. Catford papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [533637421168105627]" altrender="box">1</container>
               <unittitle>Lectures 1-8</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">8 videotapes</extent>
@@ -301,7 +301,7 @@ J. C. Catford papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [533637421168105627]" altrender="box">1</container>
               <unittitle>Lectures 1-8</unittitle>
             </did>
             <accessrestrict>
@@ -311,7 +311,7 @@ J. C. Catford papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [533637421168105627]" altrender="box">1</container>
             <unittitle>Handouts <unitdate type="inclusive" normal="1985-02-07/1985-04-04">February 7-April 4, 1985</unitdate></unittitle>
           </did>
         </c02>
@@ -344,7 +344,7 @@ J. C. Catford papers, Bentley Historical Library, University of Michigan</p>
               <physdesc>
                 <physfacet>.PDF file</physfacet>
               </physdesc>
-              <dao href="http://hdl.handle.net/2027.42/72723" show="new" actuate="onrequest">
+              <dao href="http://hdl.handle.net/2027.42/72723" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/1924">
                 <daodesc>
                   <p>[view item]</p>
                 </daodesc>
@@ -358,7 +358,7 @@ J. C. Catford papers, Bentley Historical Library, University of Michigan</p>
               <physdesc>
                 <physfacet>.PDF file</physfacet>
               </physdesc>
-              <dao href="http://hdl.handle.net/2027.42/32874" show="new" actuate="onrequest">
+              <dao href="http://hdl.handle.net/2027.42/32874" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/1925">
                 <daodesc>
                   <p>[view item]</p>
                 </daodesc>

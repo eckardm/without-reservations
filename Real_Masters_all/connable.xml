@@ -30,7 +30,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding Aid for <lb/>Alfred B. Connable papers, <date>1925-1992 (bulk 1941-1957)</date></titleproper>
       <author>Finding aid prepared by: <lb/>Rani Menon, August 1992</author>
     </titlepage>
@@ -40,7 +40,9 @@
       <origination>
         <persname source="lcnaf" encodinganalog="100">Connable, Alfred B. (Alfred Barnes), 1904-</persname>
       </origination>
-      <unittitle encodinganalog="245">Alfred B. Connable papers <unitdate type="inclusive" encodinganalog="245$f" normal="1925/1992">1925-1992</unitdate>, <unitdate type="bulk" encodinganalog="245$g" normal="1941/1957">1941-1957</unitdate></unittitle>
+      <unittitle encodinganalog="245">Alfred B. Connable papers</unittitle>
+      <unitdate type="inclusive" encodinganalog="245$f" normal="1925/1992">1925-1992</unitdate>
+      <unitdate type="bulk" encodinganalog="245$g" normal="1941/1957">1941-1957</unitdate>
       <abstract>Republican regent of the University of Michigan. Files and photographs relating to his election campaigns, his regental activities, especially as member of the Association of Governing Boards of State Universities and Allied Institutions; also papers concerning his work as price specialist with the Office of Price Administration during World War II, and as Michigan campaign manager for Wendell Willkie, 1943-1944.</abstract>
       <unitid countrycode="us" repositorycode="MiU-H" encodinganalog="099" type="call number">8595 Aa 2 Aa 2</unitid>
       <langmaterial>The materials are in <language encodinganalog="041" langcode="eng">English.</language></langmaterial>
@@ -82,17 +84,17 @@
         <head>Subjects:</head>
         <corpname source="lcnaf" encodinganalog="610">Association of Governing Boards of State Universities and Allied Institutions.</corpname>
         <persname source="lcnaf" encodinganalog="600">Connable, Alfred B. (Alfred Barnes), 1904-</persname>
-        <subject source="lcsh" encodinganalog="650">Universities and colleges--United States.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6244">Universities and colleges--United States.</subject>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/nr89016998">University of Michigan. Board of Regents.</corpname>
-        <geogname source="local" encodinganalog="691">Michigan--Politics and government--1939-1945.</geogname>
-        <geogname source="local" encodinganalog="691">Michigan--Politics and government--1946-1960.</geogname>
-        <geogname source="lcsh" encodinganalog="651">United States--Politics and government--1933-1945.</geogname>
+        <geogname source="local" encodinganalog="691" ref="/subjects/812">Michigan--Politics and government--1939-1945.</geogname>
+        <geogname source="local" encodinganalog="691" ref="/subjects/809">Michigan--Politics and government--1946-1960.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/965">United States--Politics and government--1933-1945.</geogname>
         <corpname source="lcnaf" encodinganalog="610">Republican Party (Mich.)</corpname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n50071114">United States. Office of Price Administration.</corpname>
-        <geogname source="lcsh" encodinganalog="651">Michigan--Politics and government--1951-</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/910">Michigan--Politics and government--1951-</geogname>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n50019256">Willkie, Wendell L. (Wendell Lewis), 1892-1944.</persname>
-        <subject source="lcsh" encodinganalog="650">World War, 1939-1945.</subject>
-        <geogname source="lcsh" encodinganalog="651">Michigan--Politics and government--1837-1950.</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5681">World War, 1939-1945.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/884">Michigan--Politics and government--1837-1950.</geogname>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Material:</head>
@@ -101,12 +103,12 @@
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n87870675">Hart, Philip A. (Philip Aloysius), 1912-1976.</persname>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n87870687">Griffin, Robert P. (Robert Paul), 1923-2015</persname>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n80010387">Milliken, William G., 1922-</persname>
-        <subject source="lctgm" encodinganalog="650">Office equipment industry.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4088">Office equipment industry.</subject>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/nr89016998">University of Michigan. Board of Regents.</corpname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan--Buildings.</corpname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan--Dearborn.</corpname>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n50019256">Willkie, Wendell L. (Wendell Lewis), 1892-1944.</persname>
-        <geogname source="lcsh" encodinganalog="651">North Campus (University of Michigan)</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/968">North Campus (University of Michigan)</geogname>
       </controlaccess>
       <controlaccess>
         <head>Contributors:</head>
@@ -114,8 +116,8 @@
       </controlaccess>
       <controlaccess>
         <head>Genre/Form:</head>
-        <genreform source="gmgpc" encodinganalog="655">Panoramic views.</genreform>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="gmgpc" encodinganalog="655" ref="/subjects/3453">Panoramic views.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -128,13 +130,13 @@
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [045405427330400987]" altrender="box">1</container>
             <unittitle>Personal</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [045405427330400987]" altrender="box">1</container>
             <unittitle>Transcripts of reminiscences taped in <unitdate type="inclusive" normal="1986">1986</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -143,7 +145,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [045405427330400987]" altrender="box">1</container>
             <unittitle>Diary of South American Trip <unitdate type="inclusive" normal="1925">1925</unitdate></unittitle>
           </did>
           <odd>
@@ -164,7 +166,7 @@
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [045405427330400987]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1939">1939</unitdate>
               </unittitle>
@@ -175,7 +177,7 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [045405427330400987]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1941">1941</unitdate>
               </unittitle>
@@ -186,7 +188,7 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [045405427330400987]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1949">1949</unitdate>
               </unittitle>
@@ -197,7 +199,7 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [045405427330400987]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1957">1957</unitdate>
               </unittitle>
@@ -209,11 +211,13 @@
         </c02>
         <c02 level="file">
           <did>
-            <unittitle>Topical Files <unitdate type="inclusive" normal="1942/1957">1942-1957</unitdate>, <unitdate type="inclusive" normal="1962">1962</unitdate></unittitle>
+            <unittitle>Topical Files</unittitle>
+            <unitdate type="inclusive" normal="1942/1957">1942-1957</unitdate>
+            <unitdate type="inclusive" normal="1962">1962</unitdate>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [045405427330400987]" altrender="box">1</container>
               <unittitle>Correspondence <unitdate type="inclusive" normal="1944/1957">1944-1957</unitdate></unittitle>
             </did>
           </c03>
@@ -223,13 +227,13 @@
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [045405427330400987]" altrender="box">1</container>
                 <unittitle>Report <unitdate type="inclusive" normal="1942">1942</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [045405427330400987]" altrender="box">1</container>
                 <unittitle>Papers <unitdate type="inclusive" normal="1942">1942</unitdate></unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -238,7 +242,7 @@
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [045405427330400987]" altrender="box">1</container>
                 <unittitle>Papers Concerning the <title render="italic">Michigan Daily</title>, <unitdate type="inclusive" normal="1943/1948">1943-1948</unitdate></unittitle>
               </did>
             </c04>
@@ -249,7 +253,7 @@
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [045405427330400987]" altrender="box">1</container>
                 <unittitle>Correspondence <unitdate type="inclusive" normal="1947/1956">1947-1956</unitdate></unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">6 folders</extent>
@@ -258,7 +262,7 @@
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [622427661025882214]" altrender="box">2</container>
                 <unittitle>Correspondence <unitdate type="inclusive" normal="1966/1975">1966-1975</unitdate></unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -267,14 +271,16 @@
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [622427661025882214]" altrender="box">2</container>
                 <unittitle>Speech <unitdate type="inclusive" normal="1953">1953</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
-                <unittitle>Proceedings <unitdate type="inclusive" normal="1944/1953">1944-1953</unitdate>, <unitdate type="inclusive" normal="1962">1962</unitdate></unittitle>
+                <container type="box" label="Box [622427661025882214]" altrender="box">2</container>
+                <unittitle>Proceedings</unittitle>
+                <unitdate type="inclusive" normal="1944/1953">1944-1953</unitdate>
+                <unitdate type="inclusive" normal="1962">1962</unitdate>
               </did>
             </c04>
           </c03>
@@ -284,27 +290,29 @@
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [622427661025882214]" altrender="box">2</container>
                 <unittitle>Correspondence <unitdate type="inclusive" normal="1946">1946</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [622427661025882214]" altrender="box">2</container>
                 <unittitle>Correspondence <unitdate type="inclusive" normal="1948/1949">1948-1949</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
-                <unittitle>Correspondence <unitdate type="inclusive" normal="1954">1954</unitdate>, <unitdate type="inclusive" normal="1957">1957</unitdate></unittitle>
+                <container type="box" label="Box [622427661025882214]" altrender="box">2</container>
+                <unittitle>Correspondence</unittitle>
+                <unitdate type="inclusive" normal="1954">1954</unitdate>
+                <unitdate type="inclusive" normal="1957">1957</unitdate>
               </did>
             </c04>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [622427661025882214]" altrender="box">2</container>
             <unittitle>Miscellaneous</unittitle>
           </did>
         </c02>
@@ -318,7 +326,7 @@
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [622427661025882214]" altrender="box">2</container>
             <unittitle>Clippings <unitdate type="inclusive" normal="1948/1976">1948-1976</unitdate></unittitle>
           </did>
         </c02>
@@ -328,20 +336,25 @@
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [622427661025882214]" altrender="box">2</container>
               <unittitle>Correspondence <unitdate type="inclusive" normal="1949/1956">1949-1956</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
-              <unittitle><title render="italic">Keynote</title> (newsletter), <unitdate type="inclusive" normal="1950/1951">1950-1951</unitdate>, <unitdate type="inclusive" normal="1953/1957">1953-1957</unitdate></unittitle>
+              <container type="box" label="Box [622427661025882214]" altrender="box">2</container>
+              <unittitle><title render="italic">Keynote</title> (newsletter)</unittitle>
+              <unitdate type="inclusive" normal="1950/1951">1950-1951</unitdate>
+              <unitdate type="inclusive" normal="1953/1957">1953-1957</unitdate>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
-              <unittitle><title render="italic">The Field</title> (newsletter), <unitdate type="inclusive" normal="1954">1954</unitdate>, <unitdate type="inclusive" normal="1955">1955</unitdate>, <unitdate type="inclusive" normal="1957">1957</unitdate></unittitle>
+              <container type="box" label="Box [622427661025882214]" altrender="box">2</container>
+              <unittitle><title render="italic">The Field</title> (newsletter)</unittitle>
+              <unitdate type="inclusive" normal="1954">1954</unitdate>
+              <unitdate type="inclusive" normal="1955">1955</unitdate>
+              <unitdate type="inclusive" normal="1957">1957</unitdate>
             </did>
           </c03>
         </c02>
@@ -355,7 +368,7 @@
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [622427661025882214]" altrender="box">2</container>
             <unittitle>Papers Concerning Republican Party Activities <unitdate type="inclusive" normal="1941/1957">1941-1957</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -364,7 +377,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [622427661025882214]" altrender="box">2</container>
             <unittitle>Michigan Campaign Manager for Wendell L. Willkie: Papers <unitdate type="inclusive" normal="1943/1944">1943-1944</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">4 folders</extent>
@@ -373,19 +386,19 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [622427661025882214]" altrender="box">2</container>
             <unittitle>Wendell L. Willkie and Willkie Biography: Papers <unitdate type="inclusive" normal="1944/1954">1944-1954</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [622427661025882214]" altrender="box">2</container>
             <unittitle>Correspondence with Senator Arthur H. Vandenberg <unitdate type="inclusive" normal="1945/1949">1945-1949</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [622427661025882214]" altrender="box">2</container>
             <unittitle>Republican State Convention <unitdate type="inclusive" normal="1949">1949</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">1 volumes</extent>
@@ -403,13 +416,13 @@
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [622427661025882214]" altrender="box">2</container>
             <unittitle>Office of Price Administration, Price Specialist Papers <unitdate type="inclusive" normal="1942/1943">1942-1943</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [622427661025882214]" altrender="box">2</container>
             <unittitle>Miscellaneous</unittitle>
           </did>
         </c02>
@@ -428,19 +441,24 @@
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
-            <unittitle>Association of Governing Boards of State Universities and Allied Institutions and Board of Regents <unitdate type="inclusive" normal="1945">1945</unitdate>, <unitdate type="inclusive" normal="1947">1947</unitdate>, <unitdate type="inclusive" normal="1954/1955">1954-1955</unitdate></unittitle>
+            <container type="box" label="Box [622427661025882214]" altrender="box">2</container>
+            <unittitle>Association of Governing Boards of State Universities and Allied Institutions and Board of Regents</unittitle>
+            <unitdate type="inclusive" normal="1945">1945</unitdate>
+            <unitdate type="inclusive" normal="1947">1947</unitdate>
+            <unitdate type="inclusive" normal="1954/1955">1954-1955</unitdate>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
-            <unittitle>Business Career <unitdate type="inclusive" normal="1949/1951">1949-1951</unitdate>, <unitdate type="inclusive" normal="1960">1960</unitdate></unittitle>
+            <container type="box" label="Box [622427661025882214]" altrender="box">2</container>
+            <unittitle>Business Career</unittitle>
+            <unitdate type="inclusive" normal="1949/1951">1949-1951</unitdate>
+            <unitdate type="inclusive" normal="1960">1960</unitdate>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [622427661025882214]" altrender="box">2</container>
             <unittitle>University Buildings <unitdate type="inclusive" normal="1958" certainty="approximate">circa 1958</unitdate></unittitle>
           </did>
           <odd>
@@ -449,7 +467,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [622427661025882214]" altrender="box">2</container>
             <unittitle>Portraits and Miscellaneous</unittitle>
           </did>
         </c02>

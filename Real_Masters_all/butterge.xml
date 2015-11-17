@@ -26,7 +26,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>George E. Butterfield papers, circa 1902-1969</titleproper>
       <author>Finding aid created by <lb/>Jim Flury, 1987-1988</author>
     </titlepage>
@@ -79,33 +79,33 @@ George E. Butterfield papers, Bentley Historical Library, University of Michigan
         <corpname source="lcnaf" encodinganalog="610">Allied Citizens for Prohibition.</corpname>
         <corpname source="lcnaf" encodinganalog="610">American Businessmen's Prohibition Foundation.</corpname>
         <corpname source="lcnaf" encodinganalog="610">American Businessmen's Research Foundation.</corpname>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n81037331.html">Bay City (Mich.)</geogname>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n81037331.html" ref="/subjects/1038">Bay City (Mich.)</geogname>
         <corpname source="lcnaf" encodinganalog="610">Bay City Council of Churches (Mich.)</corpname>
-        <geogname source="lcsh" encodinganalog="651">Bay County (Mich.)</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1430">Bay County (Mich.)</geogname>
         <persname source="lcnaf" encodinganalog="600">Butterfield, George Ernest, 1883-</persname>
         <corpname source="lcnaf" encodinganalog="610">Central Association of Congregational Christian Churches (Mich.)</corpname>
         <corpname source="lcnaf" encodinganalog="610">Congregational churches--Michigan--Bay City.</corpname>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/no97054505.html">Crystal Falls (Mich.)</geogname>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/no97054505.html" ref="/subjects/1069">Crystal Falls (Mich.)</geogname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n98023666">First Congregational Church (Bay City, Mich.)</corpname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/no2001016700">Intercollegiate Prohibition Association.</corpname>
         <corpname source="lcnaf" encodinganalog="610">Michigan Association of Junior Colleges.</corpname>
-        <subject source="lcsh" encodinganalog="650">Prohibition--United States.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5853">Prohibition--United States.</subject>
         <corpname source="lcnaf" encodinganalog="610">Prohibition Amendment Advocates.</corpname>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Materials:</head>
         <persname source="lcnaf" encodinganalog="600">Butterfield, George Ernest, 1883-</persname>
-        <subject source="lctgm" encodinganalog="650">Courthouses.</subject>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/no97054505.html">Crystal Falls (Mich.)</geogname>
-        <subject source="lctgm" encodinganalog="650">Railroad accidents.</subject>
-        <subject source="lctgm" encodinganalog="650">Skiing.</subject>
-        <geogname source="lcsh" encodinganalog="651">Upper Peninsula (Mich.)</geogname>
-        <subject source="lctgm" encodinganalog="650">Winter.</subject>
-        <subject source="lctgm" encodinganalog="650">Women.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4005">Courthouses.</subject>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/no97054505.html" ref="/subjects/1069">Crystal Falls (Mich.)</geogname>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3670">Railroad accidents.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4006">Skiing.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/938">Upper Peninsula (Mich.)</geogname>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3942">Winter.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3619">Women.</subject>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -115,7 +115,7 @@ George E. Butterfield papers, Bentley Historical Library, University of Michigan
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [77612846095109645]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1902/1911">1902-1911</unitdate>
             </unittitle>
@@ -123,7 +123,7 @@ George E. Butterfield papers, Bentley Historical Library, University of Michigan
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [77612846095109645]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1930/1940">1930-1940</unitdate>
             </unittitle>
@@ -136,7 +136,7 @@ George E. Butterfield papers, Bentley Historical Library, University of Michigan
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [77612846095109645]" altrender="box">1</container>
             <unittitle>Allied Campaigners for Prohibition <unitdate type="inclusive" normal="1931">1931</unitdate></unittitle>
           </did>
         </c02>
@@ -146,43 +146,43 @@ George E. Butterfield papers, Bentley Historical Library, University of Michigan
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [77612846095109645]" altrender="box">1</container>
               <unittitle>Educational Committee <unitdate type="inclusive" normal="1932">1932</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [77612846095109645]" altrender="box">1</container>
               <unittitle>Enforcement Committee <unitdate type="inclusive" normal="1932">1932</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [77612846095109645]" altrender="box">1</container>
               <unittitle>Executive Committee</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [77612846095109645]" altrender="box">1</container>
               <unittitle>Finance Committee <unitdate type="inclusive" normal="1932">1932</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [77612846095109645]" altrender="box">1</container>
               <unittitle>Legislative Committee <unitdate type="inclusive" normal="1931/1932">1931-1932</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [77612846095109645]" altrender="box">1</container>
               <unittitle>Meetings <unitdate type="inclusive" normal="1931/1932">1931-1932</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [77612846095109645]" altrender="box">1</container>
               <unittitle>Publicity Committee <unitdate type="inclusive" normal="1932/1933">1932-1933</unitdate></unittitle>
             </did>
           </c03>
@@ -193,26 +193,26 @@ George E. Butterfield papers, Bentley Historical Library, University of Michigan
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [77612846095109645]" altrender="box">1</container>
               <unittitle>Board of Strategy <unitdate type="inclusive" normal="1937/1940">1937-1940</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [77612846095109645]" altrender="box">1</container>
               <unittitle>National Committee <unitdate type="inclusive" normal="1932/1933">1932-1933</unitdate></unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [77612846095109645]" altrender="box">1</container>
             <unittitle>American Businessmen's Prohibition Foundation <unitdate type="inclusive" normal="1931/1934">1931-1934</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [77612846095109645]" altrender="box">1</container>
             <unittitle>American Businessmen's Research Foundation <unitdate type="inclusive" normal="1934/1940">1934-1940</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">5 folders</extent>
@@ -221,31 +221,31 @@ George E. Butterfield papers, Bentley Historical Library, University of Michigan
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [77612846095109645]" altrender="box">1</container>
             <unittitle>Anti-Saloon League of America <unitdate type="inclusive" normal="1932/1941">1932-1941</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [77612846095109645]" altrender="box">1</container>
             <unittitle>Intercollegiate Association for the Study of Alcohol Problems <unitdate type="inclusive" normal="1939">1939</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [77612846095109645]" altrender="box">1</container>
             <unittitle>Intercollegiate Prohibition Association <unitdate type="inclusive" normal="1927/1932">1927-1932</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [77612846095109645]" altrender="box">1</container>
             <unittitle>Michigan Anti-Saloon League <unitdate type="inclusive" normal="1933">1933</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [77612846095109645]" altrender="box">1</container>
             <unittitle>Michigan Christian Endeavor Union <unitdate type="inclusive" normal="1932">1932</unitdate></unittitle>
           </did>
         </c02>
@@ -255,26 +255,26 @@ George E. Butterfield papers, Bentley Historical Library, University of Michigan
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [77612846095109645]" altrender="box">1</container>
               <unittitle>Correspondence and memoranda <unitdate type="inclusive" normal="1931">1931</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [77612846095109645]" altrender="box">1</container>
               <unittitle>Minute book <unitdate type="inclusive" normal="1931/1934">1931-1934</unitdate></unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [77612846095109645]" altrender="box">1</container>
             <unittitle>Prohibition Press Bureau <unitdate type="inclusive" normal="1932">1932</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [77612846095109645]" altrender="box">1</container>
             <unittitle>Women's Organization for National Prohibition Reform</unittitle>
           </did>
         </c02>
@@ -285,13 +285,13 @@ George E. Butterfield papers, Bentley Historical Library, University of Michigan
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [77612846095109645]" altrender="box">1</container>
             <unittitle>Clippings <unitdate type="inclusive" normal="1919/1940">1919-1940</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [77612846095109645]" altrender="box">1</container>
             <unittitle>Printed Material</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -309,25 +309,25 @@ George E. Butterfield papers, Bentley Historical Library, University of Michigan
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [595309074785562254132]" altrender="box">2</container>
               <unittitle>Annual Reports <unitdate type="inclusive" normal="1951/1953">1951-1953</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [595309074785562254132]" altrender="box">2</container>
               <unittitle>Child Welfare Committee <unitdate type="inclusive" normal="1951/1953">1951-1953</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [595309074785562254132]" altrender="box">2</container>
               <unittitle>Findings Committee on Public Forum Concerning Post-War Problems <unitdate type="inclusive" normal="1943">1943</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [595309074785562254132]" altrender="box">2</container>
               <unittitle>Minute Book <unitdate type="inclusive" normal="1949/1962">1949-1962</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">1 volumes</extent>
@@ -336,7 +336,7 @@ George E. Butterfield papers, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [595309074785562254132]" altrender="box">2</container>
               <unittitle>Newsletters <unitdate type="inclusive" normal="1942/1969">1942-1969 (scattered dates)</unitdate></unittitle>
             </did>
           </c03>
@@ -347,7 +347,7 @@ George E. Butterfield papers, Bentley Historical Library, University of Michigan
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [595309074785562254132]" altrender="box">2</container>
               <unittitle>History</unittitle>
             </did>
           </c03>
@@ -357,13 +357,13 @@ George E. Butterfield papers, Bentley Historical Library, University of Michigan
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [595309074785562254132]" altrender="box">2</container>
                 <unittitle>General <unitdate type="inclusive" normal="1903/1922">1903-1922</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [595309074785562254132]" altrender="box">2</container>
                 <unittitle>Portsmouth No. 5 <unitdate type="inclusive" normal="1906/1908">1906-1908</unitdate></unittitle>
               </did>
             </c04>
@@ -375,31 +375,31 @@ George E. Butterfield papers, Bentley Historical Library, University of Michigan
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [595309074785562254132]" altrender="box">2</container>
               <unittitle>Bay County Federation of Churches <unitdate type="inclusive" normal="1938/1940">1938-1940</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [595309074785562254132]" altrender="box">2</container>
               <unittitle>Central Association of Congregational Christian Churches</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [595309074785562254132]" altrender="box">2</container>
               <unittitle>Central Association constitution</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [595309074785562254132]" altrender="box">2</container>
               <unittitle>Central Association of Congregational Christian Churches of Michigan</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [595309074785562254132]" altrender="box">2</container>
               <unittitle>General Council meetings</unittitle>
             </did>
           </c03>
@@ -410,7 +410,7 @@ George E. Butterfield papers, Bentley Historical Library, University of Michigan
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [595309074785562254132]" altrender="box">2</container>
               <unittitle>Correspondence (mostly public schools) <unitdate type="inclusive" normal="1903/1917">1903-1917</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -419,26 +419,26 @@ George E. Butterfield papers, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [595309074785562254132]" altrender="box">2</container>
               <unittitle><genreform normal="Photographs">Photographs</genreform> (mostly postcards), <unitdate type="inclusive" normal="1908/1911">1908-1911</unitdate></unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [595309074785562254132]" altrender="box">2</container>
             <unittitle>Michigan Association of Junior Colleges <unitdate type="inclusive" normal="1928/1967">1928-1967</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [595309074785562254132]" altrender="box">2</container>
             <unittitle>Michigan Commission on College Accreditation <unitdate type="inclusive" normal="1947/1948">1947-1948</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [595309074785562254132]" altrender="box">2</container>
             <unittitle>Miscellaneous</unittitle>
           </did>
         </c02>
@@ -449,7 +449,7 @@ George E. Butterfield papers, Bentley Historical Library, University of Michigan
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [595309074785562254132]" altrender="box">2</container>
             <unittitle>Photographs (University of Michigan Class of 1908</unittitle>
           </did>
         </c02>
@@ -459,13 +459,13 @@ George E. Butterfield papers, Bentley Historical Library, University of Michigan
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [595309074785562254132]" altrender="box">2</container>
               <unittitle>History 89s (Crane) <unitdate type="inclusive" normal="1924-06">June 1924</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [595309074785562254132]" altrender="box">2</container>
               <unittitle>Landscape Design ls (Tealdi) <unitdate type="inclusive" normal="1924-06">June 1924</unitdate></unittitle>
             </did>
           </c03>

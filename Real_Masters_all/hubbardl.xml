@@ -26,7 +26,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Lucius L. Hubbard Papers, 1871-1935</titleproper>
       <author>Finding aid created by <lb/>Michigan Historical Collections staff, 1941</author>
     </titlepage>
@@ -83,27 +83,27 @@ Lucius L. Hubbard Papers
         <head>Subjects:</head>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n2006160571">Champion Copper Company.</corpname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n89118800">Copper Range Company.</corpname>
-        <subject source="lcsh" encodinganalog="650">Geology--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/8314">Geology--Michigan.</subject>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n78096930">Harvard University.</corpname>
-        <geogname source="lcsh" encodinganalog="651">Houghton (Mich.)</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/935">Houghton (Mich.)</geogname>
         <corpname source="lcnaf" encodinganalog="610">Houghton Copper Company.</corpname>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/nr97041173">Hubbard, Lucius L. (Lucius Lee), 1849-1933.</persname>
-        <subject source="lcsh" encodinganalog="650">Indians of North America--Michigan.</subject>
-        <geogname source="lcsh" encodinganalog="651">Isle Royale (Mich.)</geogname>
-        <geogname source="lcsh" encodinganalog="651">Maine.</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6072">Indians of North America--Michigan.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1695">Isle Royale (Mich.)</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1669">Maine.</geogname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n2002068407">Mayflower Mining Company.</corpname>
-        <subject source="lcsh" encodinganalog="650">Mines and mineral resources--Michigan.</subject>
-        <geogname source="lcsh" encodinganalog="651">Moosehead Lake (Me.)</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/8331">Mines and mineral resources--Michigan.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/2104">Moosehead Lake (Me.)</geogname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/nr98018675">St. Mary's Canal Mineral Land Company.</corpname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/nr89016998">University of Michigan. Board of Regents.</corpname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan--History.</corpname>
-        <subject source="lcsh" encodinganalog="650">Geology--Maine.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/8332">Geology--Maine.</subject>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Materials:</head>
-        <subject source="lcsh" encodinganalog="650">Copper.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/8333">Copper.</subject>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/nr97041173">Hubbard, Lucius L. (Lucius Lee), 1849-1933.</persname>
-        <geogname source="lcsh" encodinganalog="651">Maine.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1669">Maine.</geogname>
       </controlaccess>
       <controlaccess>
         <head>Contributors:</head>
@@ -162,9 +162,9 @@ Lucius L. Hubbard Papers
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Diaries.</genreform>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
-        <genreform source="gmgpc" encodinganalog="655">Prints.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3150">Diaries.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
+        <genreform source="gmgpc" encodinganalog="655" ref="/subjects/3461">Prints.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -177,7 +177,7 @@ Lucius L. Hubbard Papers
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [9321924651977150]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1871/1911">1871-1911</unitdate>
             </unittitle>
@@ -185,7 +185,7 @@ Lucius L. Hubbard Papers
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [8931219054847000838643]" altrender="box">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1912/1928">1912-1928</unitdate>
             </unittitle>
@@ -193,8 +193,8 @@ Lucius L. Hubbard Papers
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
-            <container type="folder" label="Folder">1-11</container>
+            <container type="box" label="Box [4916824457433638829]" id="e5269704-e4bf-46cc-8523-bbe45a618b3d" altrender="box">3</container>
+            <container type="folder" label="Folder" parent="e5269704-e4bf-46cc-8523-bbe45a618b3d">1-11</container>
             <unittitle>
               <unitdate type="inclusive" normal="1929/1935">1929-1935</unitdate>
               <unitdate type="inclusive">undated</unitdate>
@@ -206,15 +206,15 @@ Lucius L. Hubbard Papers
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
-            <container type="folder" label="Folder">12</container>
+            <container type="box" label="Box [4916824457433638829]" id="65109ba8-917c-4ff0-ba0c-0d764aba1715" altrender="box">3</container>
+            <container type="folder" label="Folder" parent="65109ba8-917c-4ff0-ba0c-0d764aba1715">12</container>
             <unittitle>Fragmentary</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
-            <container type="folder" label="Folder">12a</container>
+            <container type="box" label="Box [4916824457433638829]" id="47e2144c-06d5-4869-b77f-415ea2be11f8" altrender="box">3</container>
+            <container type="folder" label="Folder" parent="47e2144c-06d5-4869-b77f-415ea2be11f8">12a</container>
             <unittitle>Personal family correspondence</unittitle>
           </did>
         </c02>
@@ -228,15 +228,15 @@ Lucius L. Hubbard Papers
         </scopecontent>
         <c02 level="item">
           <did>
-            <container type="box" label="Box">3</container>
-            <container type="folder" label="Folder">13</container>
+            <container type="box" label="Box [4916824457433638829]" id="2bc299a5-318b-460c-a086-55fce05be4b0" altrender="box">3</container>
+            <container type="folder" label="Folder" parent="2bc299a5-318b-460c-a086-55fce05be4b0">13</container>
             <unittitle>Reports about finances, budgets, and endowments</unittitle>
           </did>
         </c02>
         <c02 level="item">
           <did>
-            <container type="box" label="Box">3</container>
-            <container type="folder" label="Folder">14</container>
+            <container type="box" label="Box [4916824457433638829]" id="c8a27565-0862-4732-9ecb-825d6ea31ca2" altrender="box">3</container>
+            <container type="folder" label="Folder" parent="c8a27565-0862-4732-9ecb-825d6ea31ca2">14</container>
             <unittitle>Article from the <title render="italic">Saginaw News Courier</title> about President Burton, <unitdate type="inclusive" normal="1924-12-28">December 28, 1924</unitdate></unittitle>
           </did>
         </c02>
@@ -247,8 +247,8 @@ Lucius L. Hubbard Papers
         </c02>
         <c02 level="item">
           <did>
-            <container type="box" label="Box">3</container>
-            <container type="folder" label="Folder">15</container>
+            <container type="box" label="Box [4916824457433638829]" id="314f9f28-900f-4cc9-854a-1f2a553a0cf7" altrender="box">3</container>
+            <container type="folder" label="Folder" parent="314f9f28-900f-4cc9-854a-1f2a553a0cf7">15</container>
             <unittitle>Proposal for the establishment of research committees in the Department of Engineering Research <unitdate type="inclusive" normal="1929-04-22">April 22, 1929</unitdate></unittitle>
           </did>
         </c02>
@@ -259,8 +259,8 @@ Lucius L. Hubbard Papers
         </c02>
         <c02 level="item">
           <did>
-            <container type="box" label="Box">3</container>
-            <container type="folder" label="Folder">16</container>
+            <container type="box" label="Box [4916824457433638829]" id="767227b0-d3ca-4bf4-979c-eb391563b4e2" altrender="box">3</container>
+            <container type="folder" label="Folder" parent="767227b0-d3ca-4bf4-979c-eb391563b4e2">16</container>
             <unittitle>Statement for the regents about a forest experiment station</unittitle>
           </did>
         </c02>
@@ -271,15 +271,15 @@ Lucius L. Hubbard Papers
         </c02>
         <c02 level="item">
           <did>
-            <container type="box" label="Box">3</container>
-            <container type="folder" label="Folder">17</container>
+            <container type="box" label="Box [4916824457433638829]" id="1098514a-6101-45c0-929a-48012e74f4be" altrender="box">3</container>
+            <container type="folder" label="Folder" parent="1098514a-6101-45c0-929a-48012e74f4be">17</container>
             <unittitle>Articles about the date of founding of the University</unittitle>
           </did>
         </c02>
         <c02 level="item">
           <did>
-            <container type="box" label="Box">3</container>
-            <container type="folder" label="Folder">18</container>
+            <container type="box" label="Box [4916824457433638829]" id="9bf6a107-fed6-4176-9e59-d5f81ec2ac40" altrender="box">3</container>
+            <container type="folder" label="Folder" parent="9bf6a107-fed6-4176-9e59-d5f81ec2ac40">18</container>
             <unittitle>Report to the Board of Regents on the Halsey collection of rare books submitted by Isaac N. Demmon <unitdate type="inclusive" normal="1915">1915</unitdate></unittitle>
           </did>
         </c02>
@@ -295,8 +295,8 @@ Lucius L. Hubbard Papers
         </c02>
         <c02 level="item">
           <did>
-            <container type="box" label="Box">3</container>
-            <container type="folder" label="Folder">19</container>
+            <container type="box" label="Box [4916824457433638829]" id="8462171e-fc37-47a1-8cc8-e1f7dfce59fb" altrender="box">3</container>
+            <container type="folder" label="Folder" parent="8462171e-fc37-47a1-8cc8-e1f7dfce59fb">19</container>
             <unittitle>Report of a Dean's Meeting to discuss building new dormitories <unitdate type="inclusive" normal="1928-12">December, 1928</unitdate></unittitle>
           </did>
         </c02>
@@ -307,8 +307,8 @@ Lucius L. Hubbard Papers
         </c02>
         <c02 level="item">
           <did>
-            <container type="box" label="Box">3</container>
-            <container type="folder" label="Folder">20</container>
+            <container type="box" label="Box [4916824457433638829]" id="42ead471-491c-4bd4-8771-6c47b145ba99" altrender="box">3</container>
+            <container type="folder" label="Folder" parent="42ead471-491c-4bd4-8771-6c47b145ba99">20</container>
             <unittitle>Copy of <title render="italic">The UBS Weekly Bulletin</title> of <unitdate type="inclusive" normal="1911-07-22">July 22, 1911</unitdate> containing an article about regents who visited Douglas Lake</unittitle>
           </did>
         </c02>
@@ -329,8 +329,8 @@ Lucius L. Hubbard Papers
         </c02>
         <c02 level="item">
           <did>
-            <container type="box" label="Box">3</container>
-            <container type="folder" label="Folder">21</container>
+            <container type="box" label="Box [4916824457433638829]" id="77a90311-5194-4473-b82e-e977bceb3b0e" altrender="box">3</container>
+            <container type="folder" label="Folder" parent="77a90311-5194-4473-b82e-e977bceb3b0e">21</container>
             <unittitle>Minutes of the Committee of Five on a Comprehensive Building Program <unitdate type="inclusive" normal="1924-02-28">February 28, 1924</unitdate> (Incomplete)</unittitle>
           </did>
         </c02>
@@ -351,8 +351,8 @@ Lucius L. Hubbard Papers
         </c02>
         <c02 level="item">
           <did>
-            <container type="box" label="Box">3</container>
-            <container type="folder" label="Folder">22</container>
+            <container type="box" label="Box [4916824457433638829]" id="cde6f6c7-bfa9-4ae9-97cd-431ba0c5d8d4" altrender="box">3</container>
+            <container type="folder" label="Folder" parent="cde6f6c7-bfa9-4ae9-97cd-431ba0c5d8d4">22</container>
             <unittitle>Petition to the Board of Regents from the U. of M. Club of New York that Fielding H. Yost be head of the Department of Physical Education</unittitle>
           </did>
         </c02>
@@ -368,15 +368,15 @@ Lucius L. Hubbard Papers
         </c02>
         <c02 level="item">
           <did>
-            <container type="box" label="Box">3</container>
-            <container type="folder" label="Folder">23</container>
+            <container type="box" label="Box [4916824457433638829]" id="8fd95937-e870-4da4-971c-6e042b14f931" altrender="box">3</container>
+            <container type="folder" label="Folder" parent="8fd95937-e870-4da4-971c-6e042b14f931">23</container>
             <unittitle>Copies of resolutions and by-laws of the Regents</unittitle>
           </did>
         </c02>
         <c02 level="item">
           <did>
-            <container type="box" label="Box">3</container>
-            <container type="folder" label="Folder">24</container>
+            <container type="box" label="Box [4916824457433638829]" id="93e73916-cdf4-4003-ad9a-a283e95767f6" altrender="box">3</container>
+            <container type="folder" label="Folder" parent="93e73916-cdf4-4003-ad9a-a283e95767f6">24</container>
             <unittitle>Petition to the Regents by Charles H. D. Myers for his long-deferred diploma</unittitle>
           </did>
         </c02>
@@ -392,22 +392,22 @@ Lucius L. Hubbard Papers
         </c02>
         <c02 level="item">
           <did>
-            <container type="box" label="Box">3</container>
-            <container type="folder" label="Folder">25</container>
+            <container type="box" label="Box [4916824457433638829]" id="f1f45322-5c35-496b-8295-53072b4e490b" altrender="box">3</container>
+            <container type="folder" label="Folder" parent="f1f45322-5c35-496b-8295-53072b4e490b">25</container>
             <unittitle>Miscellaneous notes by Hubbard about the University</unittitle>
           </did>
         </c02>
         <c02 level="item">
           <did>
-            <container type="box" label="Box">3</container>
-            <container type="folder" label="Folder">26</container>
+            <container type="box" label="Box [4916824457433638829]" id="3d137a95-ad0d-42e6-b1fd-e187c39fb082" altrender="box">3</container>
+            <container type="folder" label="Folder" parent="3d137a95-ad0d-42e6-b1fd-e187c39fb082">26</container>
             <unittitle>An Address by Arthur H. Vandenberg of Grand Rapids, at the dinner of the University Press Club of Michigan <unitdate type="inclusive" normal="1925-10-30">October 30, 1925</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="item">
           <did>
-            <container type="box" label="Box">3</container>
-            <container type="folder" label="Folder">27</container>
+            <container type="box" label="Box [4916824457433638829]" id="e90d8b0c-43b1-4c3a-9d10-333dc908cccd" altrender="box">3</container>
+            <container type="folder" label="Folder" parent="e90d8b0c-43b1-4c3a-9d10-333dc908cccd">27</container>
             <unittitle>Statistics of the General Library, University of Michigan <unitdate type="inclusive" normal="1913-03/1914-09">March, 1913-September, 1914</unitdate></unittitle>
           </did>
           <odd>
@@ -420,8 +420,8 @@ Lucius L. Hubbard Papers
           </did>
           <c03 level="item">
             <did>
-              <container type="box" label="Box">3</container>
-              <container type="folder" label="Folder">28</container>
+              <container type="box" label="Box [4916824457433638829]" id="2258492d-670b-4ec0-ac77-ce0c8d762ff4" altrender="box">3</container>
+              <container type="folder" label="Folder" parent="2258492d-670b-4ec0-ac77-ce0c8d762ff4">28</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1896">1896</unitdate>
               </unittitle>
@@ -479,8 +479,8 @@ Lucius L. Hubbard Papers
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
-            <container type="folder" label="Folder">29</container>
+            <container type="box" label="Box [4916824457433638829]" id="83fbd6b9-7ba1-47af-a83b-315c350084d7" altrender="box">3</container>
+            <container type="folder" label="Folder" parent="83fbd6b9-7ba1-47af-a83b-315c350084d7">29</container>
             <unittitle>Lists of Engineering duplicate books and periodicals for exchange, University of Michigan <unitdate type="inclusive" normal="1913-06">June, 1913</unitdate></unittitle>
           </did>
         </c02>
@@ -510,8 +510,8 @@ Lucius L. Hubbard Papers
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
-            <container type="folder" label="Folder">30</container>
+            <container type="box" label="Box [4916824457433638829]" id="bafc23fa-22e8-40c4-9669-f19ec63527fd" altrender="box">3</container>
+            <container type="folder" label="Folder" parent="bafc23fa-22e8-40c4-9669-f19ec63527fd">30</container>
             <unittitle>List of Spanish books</unittitle>
           </did>
         </c02>
@@ -553,22 +553,22 @@ Lucius L. Hubbard Papers
         </c02>
         <c02 level="item">
           <did>
-            <container type="box" label="Box">3</container>
-            <container type="folder" label="Folder">31</container>
+            <container type="box" label="Box [4916824457433638829]" id="d4bed70a-1f23-452a-b1d7-5f774b9de459" altrender="box">3</container>
+            <container type="folder" label="Folder" parent="d4bed70a-1f23-452a-b1d7-5f774b9de459">31</container>
             <unittitle>Acknowledgments of books and other gifts which Hubbard has donated to various libraries</unittitle>
           </did>
         </c02>
         <c02 level="item">
           <did>
-            <container type="box" label="Box">3</container>
-            <container type="folder" label="Folder">32</container>
+            <container type="box" label="Box [4916824457433638829]" id="67d2eb83-d50f-442e-9e83-ebf91a292434" altrender="box">3</container>
+            <container type="folder" label="Folder" parent="67d2eb83-d50f-442e-9e83-ebf91a292434">32</container>
             <unittitle>Statements from booksellers <unitdate type="inclusive" normal="1879/1915">1879-1915</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="item">
           <did>
-            <container type="box" label="Box">3</container>
-            <container type="folder" label="Folder">33</container>
+            <container type="box" label="Box [4916824457433638829]" id="b7b4c055-e885-4433-830b-a1ae643ee586" altrender="box">3</container>
+            <container type="folder" label="Folder" parent="b7b4c055-e885-4433-830b-a1ae643ee586">33</container>
             <unittitle>Miscellaneous notes about books which Hubbard has read</unittitle>
           </did>
         </c02>
@@ -582,8 +582,8 @@ Lucius L. Hubbard Papers
         </scopecontent>
         <c02 level="item">
           <did>
-            <container type="box" label="Box">3</container>
-            <container type="folder" label="Folder">34</container>
+            <container type="box" label="Box [4916824457433638829]" id="6e7af7a2-8a32-4008-9f14-f99a1af65e80" altrender="box">3</container>
+            <container type="folder" label="Folder" parent="6e7af7a2-8a32-4008-9f14-f99a1af65e80">34</container>
             <unittitle>Inaugural address of L. L. Hubbard, of Cincinnati, Ohio, delivered before the "Golden Branch" of Phillip's Exeter Academy <unitdate type="inclusive" normal="1868-04-18">April 18, 1868</unitdate></unittitle>
           </did>
         </c02>
@@ -604,15 +604,15 @@ Lucius L. Hubbard Papers
         </c02>
         <c02 level="item">
           <did>
-            <container type="box" label="Box">3</container>
-            <container type="folder" label="Folder">35</container>
+            <container type="box" label="Box [4916824457433638829]" id="b3191fdf-313b-43ad-922c-d029fc3b49d9" altrender="box">3</container>
+            <container type="folder" label="Folder" parent="b3191fdf-313b-43ad-922c-d029fc3b49d9">35</container>
             <unittitle>Notes of the Michigan Geological Survey, Ontonagon Road</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
-            <container type="folder" label="Folder">36</container>
+            <container type="box" label="Box [4916824457433638829]" id="58a6e938-c860-4e6d-aade-bf22feaa0c2d" altrender="box">3</container>
+            <container type="folder" label="Folder" parent="58a6e938-c860-4e6d-aade-bf22feaa0c2d">36</container>
             <unittitle>Reports and notes of the U S Geological Survey</unittitle>
           </did>
         </c02>
@@ -622,8 +622,8 @@ Lucius L. Hubbard Papers
           </did>
           <c03 level="item">
             <did>
-              <container type="box" label="Box">3</container>
-              <container type="folder" label="Folder">37</container>
+              <container type="box" label="Box [4916824457433638829]" id="6a8c224b-9bcc-4667-917c-dc7db125c39e" altrender="box">3</container>
+              <container type="folder" label="Folder" parent="6a8c224b-9bcc-4667-917c-dc7db125c39e">37</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1895-01-01">January 1, 1895</unitdate>
               </unittitle>
@@ -664,8 +664,8 @@ Lucius L. Hubbard Papers
           </did>
           <c03 level="item">
             <did>
-              <container type="box" label="Box">3</container>
-              <container type="folder" label="Folder">38</container>
+              <container type="box" label="Box [4916824457433638829]" id="b599facd-612d-4996-a80c-2520538797e8" altrender="box">3</container>
+              <container type="folder" label="Folder" parent="b599facd-612d-4996-a80c-2520538797e8">38</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1910-04-08">April 8, 1910</unitdate>
               </unittitle>
@@ -695,9 +695,11 @@ Lucius L. Hubbard Papers
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
-            <container type="folder" label="Folder">39</container>
-            <unittitle>The geological aspects of the copper range lands <unitdate type="inclusive" normal="1899">1899</unitdate>, <unitdate type="inclusive" normal="1900">1900</unitdate></unittitle>
+            <container type="box" label="Box [4916824457433638829]" id="119a453b-3ebb-4ae9-9cff-8e4bbd118bd5" altrender="box">3</container>
+            <container type="folder" label="Folder" parent="119a453b-3ebb-4ae9-9cff-8e4bbd118bd5">39</container>
+            <unittitle>The geological aspects of the copper range lands</unittitle>
+            <unitdate type="inclusive" normal="1899">1899</unitdate>
+            <unitdate type="inclusive" normal="1900">1900</unitdate>
           </did>
         </c02>
         <c02 level="file">
@@ -707,15 +709,15 @@ Lucius L. Hubbard Papers
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
-            <container type="folder" label="Folder">40</container>
+            <container type="box" label="Box [4916824457433638829]" id="7d637205-40b0-45ab-b3d0-6fa0336a5a6d" altrender="box">3</container>
+            <container type="folder" label="Folder" parent="7d637205-40b0-45ab-b3d0-6fa0336a5a6d">40</container>
             <unittitle>Miscellaneous notes about mines and geology</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
-            <container type="folder" label="Folder">41-45</container>
+            <container type="box" label="Box [4916824457433638829]" id="2acd2ab7-846b-4b2d-9b9a-65f8a3825c64" altrender="box">3</container>
+            <container type="folder" label="Folder" parent="2acd2ab7-846b-4b2d-9b9a-65f8a3825c64">41-45</container>
             <unittitle>Progress reports of Longyear and Hodge, Mining Engineers <unitdate type="inclusive" normal="1909-09/1911-01">September 1909-January 1911</unitdate></unittitle>
           </did>
         </c02>
@@ -725,8 +727,8 @@ Lucius L. Hubbard Papers
           </did>
           <c03 level="item">
             <did>
-              <container type="box" label="Box">3</container>
-              <container type="folder" label="Folder">46</container>
+              <container type="box" label="Box [4916824457433638829]" id="302b8dae-3ab3-419d-8c8d-a1e697d0ebc2" altrender="box">3</container>
+              <container type="folder" label="Folder" parent="302b8dae-3ab3-419d-8c8d-a1e697d0ebc2">46</container>
               <unittitle>Map of Moosehead Lake, 1st edition <unitdate type="inclusive" normal="1879">1879</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">4 copies</extent>
@@ -748,15 +750,15 @@ Lucius L. Hubbard Papers
           </c03>
           <c03 level="item">
             <did>
-              <container type="box" label="Box">3</container>
-              <container type="folder" label="Folder">47</container>
+              <container type="box" label="Box [4916824457433638829]" id="771ed987-af60-4ae1-8e7c-093c97c002ec" altrender="box">3</container>
+              <container type="folder" label="Folder" parent="771ed987-af60-4ae1-8e7c-093c97c002ec">47</container>
               <unittitle>Map of Moosehead and Upper Lake region of Maine</unittitle>
             </did>
           </c03>
           <c03 level="item">
             <did>
-              <container type="box" label="Box">3</container>
-              <container type="folder" label="Folder">48</container>
+              <container type="box" label="Box [4916824457433638829]" id="97bdd475-d17e-4c50-8153-704c8da3bbf5" altrender="box">3</container>
+              <container type="folder" label="Folder" parent="97bdd475-d17e-4c50-8153-704c8da3bbf5">48</container>
               <unittitle>Hubbard's Lumbermen's and Tourist's Map of Northern Maine <unitdate type="inclusive" normal="1894">1894</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">3 copies</extent>
@@ -770,15 +772,15 @@ Lucius L. Hubbard Papers
           </c03>
           <c03 level="item">
             <did>
-              <container type="box" label="Box">3</container>
-              <container type="folder" label="Folder">49</container>
+              <container type="box" label="Box [4916824457433638829]" id="5c907e2f-37e3-40f3-94f2-f984e0fd88ee" altrender="box">3</container>
+              <container type="folder" label="Folder" parent="5c907e2f-37e3-40f3-94f2-f984e0fd88ee">49</container>
               <unittitle>Map of Moosehead Lake, Maine</unittitle>
             </did>
           </c03>
           <c03 level="item">
             <did>
-              <container type="box" label="Box">3</container>
-              <container type="folder" label="Folder">50-51</container>
+              <container type="box" label="Box [4916824457433638829]" id="39b9b9ca-f932-453a-a3d7-eb064b1f9e3f" altrender="box">3</container>
+              <container type="folder" label="Folder" parent="39b9b9ca-f932-453a-a3d7-eb064b1f9e3f">50-51</container>
               <unittitle>Maps of the State of Maine</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -787,15 +789,15 @@ Lucius L. Hubbard Papers
           </c03>
           <c03 level="item">
             <did>
-              <container type="box" label="Box">3</container>
-              <container type="folder" label="Folder">52</container>
+              <container type="box" label="Box [4916824457433638829]" id="f783daf0-d06f-444f-b09a-edf0f1a2f616" altrender="box">3</container>
+              <container type="folder" label="Folder" parent="f783daf0-d06f-444f-b09a-edf0f1a2f616">52</container>
               <unittitle>Miscellaneous maps, often not identified</unittitle>
             </did>
           </c03>
           <c03 level="item">
             <did>
-              <container type="box" label="Box">3</container>
-              <container type="folder" label="Folder">53-57</container>
+              <container type="box" label="Box [4916824457433638829]" id="a13baacf-364f-4f1e-9470-a99043f147e2" altrender="box">3</container>
+              <container type="folder" label="Folder" parent="a13baacf-364f-4f1e-9470-a99043f147e2">53-57</container>
               <unittitle>Miscellaneous manuscript maps, often not identified</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">5 folders</extent>
@@ -804,31 +806,33 @@ Lucius L. Hubbard Papers
           </c03>
           <c03 level="item">
             <did>
-              <container type="box" label="Box">3</container>
-              <container type="folder" label="Folder">58</container>
+              <container type="box" label="Box [4916824457433638829]" id="8c0cc6ee-b555-495e-abf3-771d555a6678" altrender="box">3</container>
+              <container type="folder" label="Folder" parent="8c0cc6ee-b555-495e-abf3-771d555a6678">58</container>
               <unittitle>A Bibliography of the Maps of Maine," by Edgar Crosby Smith <unitdate type="inclusive" normal="1903">1903</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="item">
             <did>
-              <container type="box" label="Box">3</container>
-              <container type="folder" label="Folder">59</container>
+              <container type="box" label="Box [4916824457433638829]" id="1c41a3a8-40d1-4f80-a1be-4ed6d1e145d2" altrender="box">3</container>
+              <container type="folder" label="Folder" parent="1c41a3a8-40d1-4f80-a1be-4ed6d1e145d2">59</container>
               <unittitle>Offers sent to Hubbard to purchase maps, and other note about written by Hubbard</unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
-            <container type="folder" label="Folder">60</container>
+            <container type="box" label="Box [2036948771139256]" id="f8cc2f33-b57e-4ae2-96a1-0827901151ff" altrender="box">4</container>
+            <container type="folder" label="Folder" parent="f8cc2f33-b57e-4ae2-96a1-0827901151ff">60</container>
             <unittitle>Report on the Seneca Mine, about <unitdate type="inclusive" normal="1920">1920</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
-            <container type="folder" label="Folder">61-62</container>
-            <unittitle>Reports and notes of the Seneca Copper Corporation <unitdate type="inclusive" normal="1920/1921">1920-1921</unitdate>, <unitdate type="inclusive">undated</unitdate></unittitle>
+            <container type="box" label="Box [2036948771139256]" id="bfeac6e3-f912-49cc-81b9-9316188840db" altrender="box">4</container>
+            <container type="folder" label="Folder" parent="bfeac6e3-f912-49cc-81b9-9316188840db">61-62</container>
+            <unittitle>Reports and notes of the Seneca Copper Corporation</unittitle>
+            <unitdate type="inclusive" normal="1920/1921">1920-1921</unitdate>
+            <unitdate type="inclusive">undated</unitdate>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
             </physdesc>
@@ -836,8 +840,8 @@ Lucius L. Hubbard Papers
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
-            <container type="folder" label="Folder">63</container>
+            <container type="box" label="Box [2036948771139256]" id="72e6e369-231d-420d-8e19-18c3b65ba7bd" altrender="box">4</container>
+            <container type="folder" label="Folder" parent="72e6e369-231d-420d-8e19-18c3b65ba7bd">63</container>
             <unittitle>Reports and notes of the St. Mary's Canal Mineral Land Co. <unitdate type="inclusive" normal="1903/1904">1903-1904</unitdate></unittitle>
           </did>
           <odd>
@@ -846,9 +850,11 @@ Lucius L. Hubbard Papers
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
-            <container type="folder" label="Folder">64-66</container>
-            <unittitle>Reports and notes of the Houghton Copper Company <unitdate type="inclusive" normal="1910/1913">1910-1913</unitdate>, <unitdate type="inclusive">undated</unitdate></unittitle>
+            <container type="box" label="Box [2036948771139256]" id="1a49ea0d-f941-43f4-8b50-1b4fdec0490f" altrender="box">4</container>
+            <container type="folder" label="Folder" parent="1a49ea0d-f941-43f4-8b50-1b4fdec0490f">64-66</container>
+            <unittitle>Reports and notes of the Houghton Copper Company</unittitle>
+            <unitdate type="inclusive" normal="1910/1913">1910-1913</unitdate>
+            <unitdate type="inclusive">undated</unitdate>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">3 folders</extent>
             </physdesc>
@@ -856,9 +862,11 @@ Lucius L. Hubbard Papers
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
-            <container type="folder" label="Folder">67-71</container>
-            <unittitle>Reports and notes of the Champion Copper Company <unitdate type="inclusive" normal="1900/1905">1900-1905</unitdate>, <unitdate type="inclusive" normal="1923" certainty="approximate">1923 undated</unitdate></unittitle>
+            <container type="box" label="Box [2036948771139256]" id="9856100b-d439-4371-9d0b-d9a06b150967" altrender="box">4</container>
+            <container type="folder" label="Folder" parent="9856100b-d439-4371-9d0b-d9a06b150967">67-71</container>
+            <unittitle>Reports and notes of the Champion Copper Company</unittitle>
+            <unitdate type="inclusive" normal="1900/1905">1900-1905</unitdate>
+            <unitdate type="inclusive" normal="1923" certainty="approximate">1923 undated</unitdate>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">5 folders</extent>
             </physdesc>
@@ -866,15 +874,15 @@ Lucius L. Hubbard Papers
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
-            <container type="folder" label="Folder">72-73</container>
+            <container type="box" label="Box [2036948771139256]" id="bb80f222-e179-4b4f-9571-45334750bc21" altrender="box">4</container>
+            <container type="folder" label="Folder" parent="bb80f222-e179-4b4f-9571-45334750bc21">72-73</container>
             <unittitle>General reports of the Copper Range Co. <unitdate type="inclusive" normal="1899/1903">1899-1903</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="item">
           <did>
-            <container type="box" label="Box">4</container>
-            <container type="folder" label="Folder">74</container>
+            <container type="box" label="Box [2036948771139256]" id="990da8a2-86c1-43c0-9e07-51134ba37ee2" altrender="box">4</container>
+            <container type="folder" label="Folder" parent="990da8a2-86c1-43c0-9e07-51134ba37ee2">74</container>
             <unittitle>Typewritten descriptions of sections of Michigan rocks</unittitle>
           </did>
         </c02>
@@ -890,29 +898,31 @@ Lucius L. Hubbard Papers
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
-            <container type="folder" label="Folder">75</container>
+            <container type="box" label="Box [2036948771139256]" id="488aa2f5-e7eb-4d52-8812-d05c5518e6ac" altrender="box">4</container>
+            <container type="folder" label="Folder" parent="488aa2f5-e7eb-4d52-8812-d05c5518e6ac">75</container>
             <unittitle>Notes on the Central Mine, Keweenaw Co. <unitdate type="inclusive" normal="1895-03">March, 1895</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
-            <container type="folder" label="Folder">76</container>
+            <container type="box" label="Box [2036948771139256]" id="b402ad47-eda8-4217-806d-80794162d002" altrender="box">4</container>
+            <container type="folder" label="Folder" parent="b402ad47-eda8-4217-806d-80794162d002">76</container>
             <unittitle>Reports of the Mayflower Mining Company <unitdate type="inclusive" normal="1899-05">May, 1899</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
-            <container type="folder" label="Folder">77</container>
-            <unittitle>Reports and notes of the South Lake Mining Co. <unitdate type="inclusive" normal="1909/1910">1909-1910</unitdate>, <unitdate type="inclusive">undated</unitdate></unittitle>
+            <container type="box" label="Box [2036948771139256]" id="374b01f2-faa0-481c-a68d-7c75949e3264" altrender="box">4</container>
+            <container type="folder" label="Folder" parent="374b01f2-faa0-481c-a68d-7c75949e3264">77</container>
+            <unittitle>Reports and notes of the South Lake Mining Co.</unittitle>
+            <unitdate type="inclusive" normal="1909/1910">1909-1910</unitdate>
+            <unitdate type="inclusive">undated</unitdate>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
-            <container type="folder" label="Folder">78</container>
+            <container type="box" label="Box [2036948771139256]" id="7d4dcc94-78f3-4315-9ef2-45ac97eda320" altrender="box">4</container>
+            <container type="folder" label="Folder" parent="7d4dcc94-78f3-4315-9ef2-45ac97eda320">78</container>
             <unittitle>Data and prospects on copper mining lands in the Ontonagon District, Michigan <unitdate type="inclusive" normal="1915-08">August 1915</unitdate></unittitle>
           </did>
         </c02>
@@ -923,8 +933,8 @@ Lucius L. Hubbard Papers
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
-            <container type="folder" label="Folder">79</container>
+            <container type="box" label="Box [2036948771139256]" id="3a258425-a9df-49ee-bd6f-5a35d71a5a7f" altrender="box">4</container>
+            <container type="folder" label="Folder" parent="3a258425-a9df-49ee-bd6f-5a35d71a5a7f">79</container>
             <unittitle>Report of the Nevada Consolidated Copper Company</unittitle>
           </did>
         </c02>
@@ -949,8 +959,8 @@ Lucius L. Hubbard Papers
         </c02>
         <c02 level="item">
           <did>
-            <container type="box" label="Box">4</container>
-            <container type="folder" label="Folder">80</container>
+            <container type="box" label="Box [2036948771139256]" id="84a5edbb-4055-446d-be37-393f782c6fd1" altrender="box">4</container>
+            <container type="folder" label="Folder" parent="84a5edbb-4055-446d-be37-393f782c6fd1">80</container>
             <unittitle>Report on Trimountain Co. <unitdate type="inclusive" normal="1899-02-06">February 6, 1899</unitdate></unittitle>
           </did>
         </c02>
@@ -968,8 +978,8 @@ Lucius L. Hubbard Papers
           </odd>
           <c03 level="item">
             <did>
-              <container type="box" label="Box">4</container>
-              <container type="folder" label="Folder">81</container>
+              <container type="box" label="Box [2036948771139256]" id="4690d0f4-a98f-461e-94b3-f8cb642008cc" altrender="box">4</container>
+              <container type="folder" label="Folder" parent="4690d0f4-a98f-461e-94b3-f8cb642008cc">81</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1897" certainty="approximate">January 13 circa 1897</unitdate>
               </unittitle>
@@ -999,8 +1009,8 @@ Lucius L. Hubbard Papers
         </c02>
         <c02 level="item">
           <did>
-            <container type="box" label="Box">4</container>
-            <container type="folder" label="Folder">82</container>
+            <container type="box" label="Box [2036948771139256]" id="ae6c25f0-f59f-40a0-93ce-492da9b5ef11" altrender="box">4</container>
+            <container type="folder" label="Folder" parent="ae6c25f0-f59f-40a0-93ce-492da9b5ef11">82</container>
             <unittitle>Affidavit of Lucius L. Hubbard for the Champion Copper case <unitdate type="inclusive" normal="1923-05-01">May 1, 1923</unitdate></unittitle>
           </did>
           <odd>
@@ -1014,29 +1024,29 @@ Lucius L. Hubbard Papers
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
-            <container type="folder" label="Folder">83</container>
+            <container type="box" label="Box [2036948771139256]" id="941d3871-02bc-459f-a106-c71ca1e1c1d1" altrender="box">4</container>
+            <container type="folder" label="Folder" parent="941d3871-02bc-459f-a106-c71ca1e1c1d1">83</container>
             <unittitle>Four blueprints of the Champion Copper Co.</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
-            <container type="folder" label="Folder">84</container>
+            <container type="box" label="Box [2036948771139256]" id="df0e684c-5f4d-46f0-9aad-44986e9c7559" altrender="box">4</container>
+            <container type="folder" label="Folder" parent="df0e684c-5f4d-46f0-9aad-44986e9c7559">84</container>
             <unittitle>Three blueprints of the Seneca Copper Co.</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
-            <container type="folder" label="Folder">85</container>
+            <container type="box" label="Box [2036948771139256]" id="f2430282-0a75-4929-a2c9-8e7b50ae40b1" altrender="box">4</container>
+            <container type="folder" label="Folder" parent="f2430282-0a75-4929-a2c9-8e7b50ae40b1">85</container>
             <unittitle>Map for the South Lake Mining Co., by Hubbard <unitdate type="inclusive" normal="1912">1912</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
-            <container type="folder" label="Folder">86</container>
+            <container type="box" label="Box [2036948771139256]" id="1235d74c-4450-4d76-8d97-ad99ee1aaa53" altrender="box">4</container>
+            <container type="folder" label="Folder" parent="1235d74c-4450-4d76-8d97-ad99ee1aaa53">86</container>
             <unittitle>Assay of manganese ore from Copper Harbor</unittitle>
           </did>
         </c02>
@@ -1057,50 +1067,52 @@ Lucius L. Hubbard Papers
         </c02>
         <c02 level="item">
           <did>
-            <container type="box" label="Box">4</container>
-            <container type="folder" label="Folder">87</container>
-            <unittitle>Assignment of work by Dr. Hubbard in <unitdate type="inclusive" normal="1891">1891</unitdate> or <unitdate type="inclusive" normal="1892">1892</unitdate> concerning the microscopic character of rocks</unittitle>
+            <container type="box" label="Box [2036948771139256]" id="1636019e-3fdd-435c-a9a2-43c32c6f9b57" altrender="box">4</container>
+            <container type="folder" label="Folder" parent="1636019e-3fdd-435c-a9a2-43c32c6f9b57">87</container>
+            <unittitle>Assignment of work by Dr. Hubbard in 1891 or 1892 concerning the microscopic character of rocks</unittitle>
+            <unitdate type="inclusive" normal="1891">1891</unitdate>
+            <unitdate type="inclusive" normal="1892">1892</unitdate>
           </did>
         </c02>
         <c02 level="item">
           <did>
-            <container type="box" label="Box">4</container>
-            <container type="folder" label="Folder">87</container>
+            <container type="box" label="Box [2036948771139256]" id="29cb55cc-626f-4173-90fd-4a0de70e5e74" altrender="box">4</container>
+            <container type="folder" label="Folder" parent="29cb55cc-626f-4173-90fd-4a0de70e5e74">87</container>
             <unittitle>Notes about Mt. Kineo</unittitle>
           </did>
         </c02>
         <c02 level="item">
           <did>
-            <container type="box" label="Box">4</container>
-            <container type="folder" label="Folder">88</container>
+            <container type="box" label="Box [2036948771139256]" id="a24b5b7b-d0f5-4439-b7dd-bf1cd6c39b18" altrender="box">4</container>
+            <container type="folder" label="Folder" parent="a24b5b7b-d0f5-4439-b7dd-bf1cd6c39b18">88</container>
             <unittitle>Preliminary notes on slides, etc., in the Keweenaw series on Keweenaw Point <unitdate type="inclusive" normal="1896-03">March, 1896</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
-            <container type="folder" label="Folder">89</container>
+            <container type="box" label="Box [2036948771139256]" id="dc458fa1-f3f2-47b8-a8eb-b999957aae70" altrender="box">4</container>
+            <container type="folder" label="Folder" parent="dc458fa1-f3f2-47b8-a8eb-b999957aae70">89</container>
             <unittitle>Diagrams of the Copper Range Co. and the Kearsarge Lode, Michigan</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
-            <container type="folder" label="Folder">90</container>
+            <container type="box" label="Box [2036948771139256]" id="99470c48-e635-405d-9509-0790795404b8" altrender="box">4</container>
+            <container type="folder" label="Folder" parent="99470c48-e635-405d-9509-0790795404b8">90</container>
             <unittitle>Suggestions for methods in field work, about <unitdate type="inclusive" normal="1895">1895</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
-            <container type="folder" label="Folder">91</container>
+            <container type="box" label="Box [2036948771139256]" id="0805bb1c-e9c4-4588-8108-f4715fb66d28" altrender="box">4</container>
+            <container type="folder" label="Folder" parent="0805bb1c-e9c4-4588-8108-f4715fb66d28">91</container>
             <unittitle>The Winning of Native Copper <unitdate type="inclusive">undated</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
-            <container type="folder" label="Folder">92</container>
+            <container type="box" label="Box [2036948771139256]" id="5e5ecd1b-918f-455a-bf8e-062e169c7a98" altrender="box">4</container>
+            <container type="folder" label="Folder" parent="5e5ecd1b-918f-455a-bf8e-062e169c7a98">92</container>
             <unittitle>Estimate of width of lode sent to stamp mill in <unitdate type="inclusive" normal="1904">1904</unitdate></unittitle>
           </did>
         </c02>
@@ -1116,8 +1128,8 @@ Lucius L. Hubbard Papers
         </c02>
         <c02 level="item">
           <did>
-            <container type="box" label="Box">4</container>
-            <container type="folder" label="Folder">93</container>
+            <container type="box" label="Box [2036948771139256]" id="6c66d95d-82f9-488a-a5e2-bae40906db6e" altrender="box">4</container>
+            <container type="folder" label="Folder" parent="6c66d95d-82f9-488a-a5e2-bae40906db6e">93</container>
             <unittitle>Article about the influence of the topography of foot wall beds upon the subsequent deposition and distribution of copper in overlying beds</unittitle>
           </did>
         </c02>
@@ -1133,8 +1145,8 @@ Lucius L. Hubbard Papers
         </c02>
         <c02 level="item">
           <did>
-            <container type="box" label="Box">4</container>
-            <container type="folder" label="Folder">94</container>
+            <container type="box" label="Box [2036948771139256]" id="d96c2fb7-c473-48ca-baed-0e78dc381871" altrender="box">4</container>
+            <container type="folder" label="Folder" parent="d96c2fb7-c473-48ca-baed-0e78dc381871">94</container>
             <unittitle>Suggestions as to working the mining claims in the Leadville Mining District <unitdate type="inclusive">undated</unitdate></unittitle>
           </did>
         </c02>
@@ -1150,22 +1162,22 @@ Lucius L. Hubbard Papers
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
-            <container type="folder" label="Folder">95</container>
+            <container type="box" label="Box [2036948771139256]" id="cca5838a-55f5-45c9-a9e1-eb1ebac5156e" altrender="box">4</container>
+            <container type="folder" label="Folder" parent="cca5838a-55f5-45c9-a9e1-eb1ebac5156e">95</container>
             <unittitle>Photostat copies of articles about copper, no author or dates</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
-            <container type="folder" label="Folder">96</container>
+            <container type="box" label="Box [2036948771139256]" id="bb94cb36-e374-465a-a2f0-f21969bb2053" altrender="box">4</container>
+            <container type="folder" label="Folder" parent="bb94cb36-e374-465a-a2f0-f21969bb2053">96</container>
             <unittitle>Report on exploratory work of <unitdate type="inclusive" normal="1899">1899</unitdate> on Isle Royale, Michigan</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
-            <container type="folder" label="Folder">97</container>
+            <container type="box" label="Box [2036948771139256]" id="51921ea0-ab36-49a3-98fd-355de469945f" altrender="box">4</container>
+            <container type="folder" label="Folder" parent="51921ea0-ab36-49a3-98fd-355de469945f">97</container>
             <unittitle>Notations on forest taxation</unittitle>
           </did>
         </c02>
@@ -1176,29 +1188,29 @@ Lucius L. Hubbard Papers
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
-            <container type="folder" label="Folder">98</container>
+            <container type="box" label="Box [2036948771139256]" id="e3239b66-ca91-44d7-b2a4-33c1f11ade5e" altrender="box">4</container>
+            <container type="folder" label="Folder" parent="e3239b66-ca91-44d7-b2a4-33c1f11ade5e">98</container>
             <unittitle>Watercolor painting on a greeting card sent by Emil Lorch <unitdate type="inclusive" normal="1921">1921</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
-            <container type="folder" label="Folder">99</container>
+            <container type="box" label="Box [2036948771139256]" id="1b683129-ddf9-4565-97f0-9f5ee93be111" altrender="box">4</container>
+            <container type="folder" label="Folder" parent="1b683129-ddf9-4565-97f0-9f5ee93be111">99</container>
             <unittitle>Photostatic copies (in German) of information and pictures concerning abnormal developments of the human</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
-            <container type="folder" label="Folder">100</container>
+            <container type="box" label="Box [2036948771139256]" id="5aab094c-0893-470c-8fe2-55f809979299" altrender="box">4</container>
+            <container type="folder" label="Folder" parent="5aab094c-0893-470c-8fe2-55f809979299">100</container>
             <unittitle>An article "A Sketch of the Old Spanish Mines," by Joseph Oliver</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
-            <container type="folder" label="Folder">101</container>
+            <container type="box" label="Box [2036948771139256]" id="bba454c7-cee6-41a5-a9d5-e4c67f40ac44" altrender="box">4</container>
+            <container type="folder" label="Folder" parent="bba454c7-cee6-41a5-a9d5-e4c67f40ac44">101</container>
             <unittitle>Articles of Association of the Keweenaw Club of Houghton, Michigan</unittitle>
           </did>
         </c02>
@@ -1214,15 +1226,15 @@ Lucius L. Hubbard Papers
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
-            <container type="folder" label="Folder">102</container>
+            <container type="box" label="Box [2036948771139256]" id="c78f3b13-5d18-4246-9026-157dc4df9cd9" altrender="box">4</container>
+            <container type="folder" label="Folder" parent="c78f3b13-5d18-4246-9026-157dc4df9cd9">102</container>
             <unittitle>Indian names with translation into English</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
-            <container type="folder" label="Folder">103</container>
+            <container type="box" label="Box [2036948771139256]" id="1cdd0d63-74f2-4c55-b772-2deb475a58bd" altrender="box">4</container>
+            <container type="folder" label="Folder" parent="1cdd0d63-74f2-4c55-b772-2deb475a58bd">103</container>
             <unittitle>U.S. Field Notes</unittitle>
           </did>
           <odd>
@@ -1231,15 +1243,17 @@ Lucius L. Hubbard Papers
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
-            <container type="folder" label="Folder">104</container>
-            <unittitle>Two small field notebooks of Hubbard, one dating around <unitdate type="inclusive" normal="1899/1900">1899-1900</unitdate> the other around <unitdate type="inclusive" normal="1901/1902">1901-1902</unitdate></unittitle>
+            <container type="box" label="Box [2036948771139256]" id="e2925c3f-68f4-45a1-962d-af7d93fe98ac" altrender="box">4</container>
+            <container type="folder" label="Folder" parent="e2925c3f-68f4-45a1-962d-af7d93fe98ac">104</container>
+            <unittitle>Two small field notebooks of Hubbard, one dating around 1899-1900 the other around 1901-1902</unittitle>
+            <unitdate type="inclusive" normal="1899/1900">1899-1900</unitdate>
+            <unitdate type="inclusive" normal="1901/1902">1901-1902</unitdate>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
-            <container type="folder" label="Folder">105</container>
+            <container type="box" label="Box [2036948771139256]" id="e324f316-9566-4d96-99c5-531e554c55fe" altrender="box">4</container>
+            <container type="folder" label="Folder" parent="e324f316-9566-4d96-99c5-531e554c55fe">105</container>
             <unittitle>Notes about corporations</unittitle>
           </did>
         </c02>
@@ -1250,8 +1264,8 @@ Lucius L. Hubbard Papers
         </c02>
         <c02 level="item">
           <did>
-            <container type="box" label="Box">4</container>
-            <container type="folder" label="Folder">106</container>
+            <container type="box" label="Box [2036948771139256]" id="66da5381-6bd4-4655-ae4a-d4486903dd65" altrender="box">4</container>
+            <container type="folder" label="Folder" parent="66da5381-6bd4-4655-ae4a-d4486903dd65">106</container>
             <unittitle>Certificate of election to the Phi Beta Kappa <unitdate type="inclusive" normal="1892-04-02">April 2, 1892</unitdate></unittitle>
           </did>
         </c02>
@@ -1277,8 +1291,8 @@ Lucius L. Hubbard Papers
         </c02>
         <c02 level="item">
           <did>
-            <container type="box" label="Box">4</container>
-            <container type="folder" label="Folder">107</container>
+            <container type="box" label="Box [2036948771139256]" id="28fdda78-61a6-44e0-87bd-84821d24935e" altrender="box">4</container>
+            <container type="folder" label="Folder" parent="28fdda78-61a6-44e0-87bd-84821d24935e">107</container>
             <unittitle>Receipt of payment of $20.10 by L. L. Hubbard to the Young's Hotel in Boston <unitdate type="inclusive" normal="1923-04-20">April 20, 1923</unitdate></unittitle>
           </did>
         </c02>
@@ -1289,8 +1303,8 @@ Lucius L. Hubbard Papers
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
-            <container type="folder" label="Folder">108</container>
+            <container type="box" label="Box [2036948771139256]" id="518e77c6-5c54-42d1-828e-827edda82cf0" altrender="box">4</container>
+            <container type="folder" label="Folder" parent="518e77c6-5c54-42d1-828e-827edda82cf0">108</container>
             <unittitle>Petition to the residents of Portage Township to abolish houses of prostitution in the area</unittitle>
           </did>
         </c02>
@@ -1300,8 +1314,8 @@ Lucius L. Hubbard Papers
           </did>
           <c03 level="item">
             <did>
-              <container type="box" label="Box">4</container>
-              <container type="folder" label="Folder">109</container>
+              <container type="box" label="Box [2036948771139256]" id="68be4b18-7bf4-48e2-b4bb-c3a326c8869f" altrender="box">4</container>
+              <container type="folder" label="Folder" parent="68be4b18-7bf4-48e2-b4bb-c3a326c8869f">109</container>
               <unittitle>"Camping Out"</unittitle>
             </did>
           </c03>
@@ -1323,22 +1337,22 @@ Lucius L. Hubbard Papers
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
-            <container type="folder" label="Folder">110</container>
+            <container type="box" label="Box [2036948771139256]" id="823fc30d-033a-455e-81d7-4c54e9104507" altrender="box">4</container>
+            <container type="folder" label="Folder" parent="823fc30d-033a-455e-81d7-4c54e9104507">110</container>
             <unittitle>Declaration and notice of rule to plead in the Circuit Court of the County of Houghton, between Charles T. Davis and Lucius Lee Hubbard and Frances J. Hubbard</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
-            <container type="folder" label="Folder">111</container>
+            <container type="box" label="Box [2036948771139256]" id="1fe9407f-121a-43ae-8fa2-b53c662121c2" altrender="box">4</container>
+            <container type="folder" label="Folder" parent="1fe9407f-121a-43ae-8fa2-b53c662121c2">111</container>
             <unittitle>Brief for the plaintiff in error; Lucius L. Hubbard, Plaintiff in Error vs. The New York, New England and Western Investment Co.</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
-            <container type="folder" label="Folder">112</container>
+            <container type="box" label="Box [2036948771139256]" id="231ec555-5809-4d45-b025-91abc90ca118" altrender="box">4</container>
+            <container type="folder" label="Folder" parent="231ec555-5809-4d45-b025-91abc90ca118">112</container>
             <unittitle>Agreement Of L. L. Hubbard, H. B. Patton, A. C. Lane, and F. F. Sharpless, pledging amounts of money to buy a house and land in Houghton</unittitle>
           </did>
         </c02>
@@ -1349,15 +1363,15 @@ Lucius L. Hubbard Papers
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
-            <container type="folder" label="Folder">113</container>
+            <container type="box" label="Box [2036948771139256]" id="30590e33-38ec-48f3-b74d-ee6e694b83d1" altrender="box">4</container>
+            <container type="folder" label="Folder" parent="30590e33-38ec-48f3-b74d-ee6e694b83d1">113</container>
             <unittitle>Agreements and options to buy land, given to Hubbard <unitdate type="inclusive" normal="1906">1906</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
-            <container type="folder" label="Folder">114</container>
+            <container type="box" label="Box [2036948771139256]" id="4b9dc711-1d39-46e3-81eb-b574e8bf21b4" altrender="box">4</container>
+            <container type="folder" label="Folder" parent="4b9dc711-1d39-46e3-81eb-b574e8bf21b4">114</container>
             <unittitle>"A Catalogue of the Officers and Students of Harvard Univ., for the Academical Year, 1869-1870"</unittitle>
           </did>
         </c02>
@@ -1368,8 +1382,8 @@ Lucius L. Hubbard Papers
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
-            <container type="folder" label="Folder">115</container>
+            <container type="box" label="Box [2036948771139256]" id="444f2297-bcab-4af8-b97c-6c64fa5e769d" altrender="box">4</container>
+            <container type="folder" label="Folder" parent="444f2297-bcab-4af8-b97c-6c64fa5e769d">115</container>
             <unittitle>Reports of scholarship, deportment and attendance of Hubbard from Phillips Exeter Academy</unittitle>
           </did>
           <c03 level="item">
@@ -1394,8 +1408,8 @@ Lucius L. Hubbard Papers
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
-            <container type="folder" label="Folder">116</container>
+            <container type="box" label="Box [2036948771139256]" id="2fea0c5e-b964-4773-931f-40c76e53b3ec" altrender="box">4</container>
+            <container type="folder" label="Folder" parent="2fea0c5e-b964-4773-931f-40c76e53b3ec">116</container>
             <unittitle>"The Business Side of the Registrar's Office," by J. C. Christensen of Kansas State College <unitdate type="inclusive" normal="1913-07-08">July 8, 1913</unitdate></unittitle>
           </did>
         </c02>
@@ -1411,8 +1425,8 @@ Lucius L. Hubbard Papers
         </c02>
         <c02 level="item">
           <did>
-            <container type="box" label="Box">4</container>
-            <container type="folder" label="Folder">117</container>
+            <container type="box" label="Box [2036948771139256]" id="f6e76bb6-2b3c-44d4-ab8e-6514061ddb4e" altrender="box">4</container>
+            <container type="folder" label="Folder" parent="f6e76bb6-2b3c-44d4-ab8e-6514061ddb4e">117</container>
             <unittitle>Field notes relating to Moosehead Lake</unittitle>
           </did>
         </c02>
@@ -1428,22 +1442,22 @@ Lucius L. Hubbard Papers
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
-            <container type="folder" label="Folder">118</container>
+            <container type="box" label="Box [2036948771139256]" id="49ba9bb5-0a4e-4b89-bdf1-bb0ceaa5f5f8" altrender="box">4</container>
+            <container type="folder" label="Folder" parent="49ba9bb5-0a4e-4b89-bdf1-bb0ceaa5f5f8">118</container>
             <unittitle>Notes on East Branch trip</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
-            <container type="folder" label="Folder">119</container>
+            <container type="box" label="Box [2036948771139256]" id="f0d5eb70-b84c-4590-9689-a5410b9348d5" altrender="box">4</container>
+            <container type="folder" label="Folder" parent="f0d5eb70-b84c-4590-9689-a5410b9348d5">119</container>
             <unittitle>Photostat of a journal containing a survey through parts of the country from Penobscot to Quebec <unitdate type="inclusive" normal="1764">1764</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
-            <container type="folder" label="Folder">120</container>
+            <container type="box" label="Box [2036948771139256]" id="4600a420-e3e2-4d68-a227-1e11bd3d0ee9" altrender="box">4</container>
+            <container type="folder" label="Folder" parent="4600a420-e3e2-4d68-a227-1e11bd3d0ee9">120</container>
             <unittitle>"The Meaning of 'Merrimac,'" by A. S. Gatshet <unitdate type="inclusive" normal="1898-10">October 1898</unitdate></unittitle>
           </did>
         </c02>
@@ -1459,8 +1473,8 @@ Lucius L. Hubbard Papers
         </c02>
         <c02 level="item">
           <did>
-            <container type="box" label="Box">4</container>
-            <container type="folder" label="Folder">121</container>
+            <container type="box" label="Box [2036948771139256]" id="bca84ced-9d46-466a-805e-3e9f80e98b02" altrender="box">4</container>
+            <container type="folder" label="Folder" parent="bca84ced-9d46-466a-805e-3e9f80e98b02">121</container>
             <unittitle>Pamphlet describing Mt. Kineo House, Moosehead Lake, Maine</unittitle>
           </did>
         </c02>
@@ -1470,8 +1484,8 @@ Lucius L. Hubbard Papers
           </did>
           <c03 level="item">
             <did>
-              <container type="box" label="Box">4</container>
-              <container type="folder" label="Folder">122</container>
+              <container type="box" label="Box [2036948771139256]" id="83a013df-30c2-46c2-926e-0f2fde695fc3" altrender="box">4</container>
+              <container type="folder" label="Folder" parent="83a013df-30c2-46c2-926e-0f2fde695fc3">122</container>
               <unittitle>Maine Central Railroad <unitdate type="inclusive" normal="1889-07-01">July 1, 1889</unitdate></unittitle>
             </did>
           </c03>
@@ -1497,8 +1511,8 @@ Lucius L. Hubbard Papers
           </did>
           <c03 level="item">
             <did>
-              <container type="box" label="Box">4</container>
-              <container type="folder" label="Folder">123</container>
+              <container type="box" label="Box [2036948771139256]" id="5185b7f6-7b5a-4728-9257-daf45961ae14" altrender="box">4</container>
+              <container type="folder" label="Folder" parent="5185b7f6-7b5a-4728-9257-daf45961ae14">123</container>
               <unittitle>Snapshots of geological rocks</unittitle>
             </did>
           </c03>
@@ -1534,8 +1548,8 @@ Lucius L. Hubbard Papers
           </did>
           <c03 level="item">
             <did>
-              <container type="box" label="Box">4</container>
-              <container type="folder" label="Folder">124</container>
+              <container type="box" label="Box [2036948771139256]" id="267721bc-40b3-4b20-bd20-12e97ee75df6" altrender="box">4</container>
+              <container type="folder" label="Folder" parent="267721bc-40b3-4b20-bd20-12e97ee75df6">124</container>
               <unittitle>"Geographical Indian Names," by N. T. True, M.D.</unittitle>
             </did>
           </c03>
@@ -1562,29 +1576,29 @@ Lucius L. Hubbard Papers
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
-            <container type="folder" label="Folder">125</container>
+            <container type="box" label="Box [2036948771139256]" id="ec371e15-3776-4b4d-b217-f35c7fe778be" altrender="box">4</container>
+            <container type="folder" label="Folder" parent="ec371e15-3776-4b4d-b217-f35c7fe778be">125</container>
             <unittitle>"The Indian Names of Boston and their Meaning" by Eben Norton Horsford <unitdate type="inclusive" normal="1885-11-04">November 4, 1885</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
-            <container type="folder" label="Folder">126</container>
+            <container type="box" label="Box [2036948771139256]" id="49765c9a-6744-4098-baf5-07723ae4e02b" altrender="box">4</container>
+            <container type="folder" label="Folder" parent="49765c9a-6744-4098-baf5-07723ae4e02b">126</container>
             <unittitle>List of names (unidentified)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
-            <container type="folder" label="Folder">127</container>
+            <container type="box" label="Box [2036948771139256]" id="60f7ea4d-6f03-44d6-a91a-a207dec10b8a" altrender="box">4</container>
+            <container type="folder" label="Folder" parent="60f7ea4d-6f03-44d6-a91a-a207dec10b8a">127</container>
             <unittitle>A resolution of appreciation for Hubbard's services, given upon his retirement <unitdate type="inclusive" normal="1924-02-14">February 14, 1924</unitdate> from the South Range State Bank, South Range, Michigan</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
-            <container type="folder" label="Folder">128</container>
+            <container type="box" label="Box [2036948771139256]" id="1c147b2c-b097-40a9-8661-d3b047e81029" altrender="box">4</container>
+            <container type="folder" label="Folder" parent="1c147b2c-b097-40a9-8661-d3b047e81029">128</container>
             <unittitle>Notes about "Two New Geological Cross Sections of Keweenaw Point," <unitdate type="inclusive" normal="1895-07">July, 1895</unitdate></unittitle>
           </did>
         </c02>
@@ -1603,7 +1617,7 @@ Lucius L. Hubbard Papers
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [9545319954524945168777119]" altrender="box">5</container>
             <unittitle>Diaries, letterpress books, personal account books notebooks, etc.</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">37 volumes</extent>

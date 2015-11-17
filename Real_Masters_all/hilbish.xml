@@ -31,7 +31,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>University Archives and Records Program <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/2">University Archives and Records Program <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Thomas Hilbish papers</titleproper>
       <author>Finding aid created by <lb/>Kate Donovan, June 2009</author>
     </titlepage>
@@ -41,7 +41,9 @@
       <origination>
         <persname source="lcnaf" encodinganalog="100">Hilbish, Thomas</persname>
       </origination>
-      <unittitle encodinganalog="245">Thomas Hilbish papers <unitdate type="inclusive" encodinganalog="245$f" normal="1937/2004">1937-2004</unitdate>, <unitdate type="bulk" encodinganalog="245$g" normal="1960/1990">1960-1990</unitdate></unittitle>
+      <unittitle encodinganalog="245">Thomas Hilbish papers</unittitle>
+      <unitdate type="inclusive" encodinganalog="245$f" normal="1937/2004">1937-2004</unitdate>
+      <unitdate type="bulk" encodinganalog="245$g" normal="1960/1990">1960-1990</unitdate>
       <unitid encodinganalog="852$h" repositorycode="MiU-H" countrycode="us" type="call number">2009139 Aa 2</unitid>
       <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language></langmaterial>
       <abstract>Professor at the University of Michigan (1965-1988). Director of Choirs, and respected conductor of choral music, well-known for his extensive repertoire and new interpretations of 20th century choral music. The collection includes photographs, video, press clippings, writings, correspondence, and programs documenting Hilbish's work as an instructor and conductor from 1948 to 2004.</abstract>
@@ -91,11 +93,11 @@ Thomas Hilbish papers, Bentley Historical Library, University of Michigan</p>
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <subject source="lcsh" encodinganalog="650">Conducting.</subject>
-        <subject source="lcsh" encodinganalog="650">Conductors (Music)</subject>
-        <subject source="lcsh" encodinganalog="650">Choral conducing.</subject>
-        <subject source="lcsh" encodinganalog="650">Choral Conductors.</subject>
-        <subject source="lcsh" encodinganalog="650">Music--Michigan--Ann Arbor.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/8195">Conducting.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/8196">Conductors (Music)</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/8197">Choral conducing.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/8198">Choral Conductors.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5706">Music--Michigan--Ann Arbor.</subject>
         <corpname encodinganalog="610" source="lcnaf" authfilenumber="http://id.loc.gov/authorities/names/n82063886">University of Michigan. School of Music.</corpname>
         <corpname encodinganalog="610" source="lcnaf">University of Michigan--Choral organizations.</corpname>
         <corpname encodinganalog="610" source="lcnaf" authfilenumber="http://id.loc.gov/authorities/names/no96013362">University of Michigan. Choral Union.</corpname>
@@ -104,16 +106,16 @@ Thomas Hilbish papers, Bentley Historical Library, University of Michigan</p>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Materials:</head>
-        <subject source="lcsh" encodinganalog="650">Choral conducing.</subject>
-        <subject source="lcsh" encodinganalog="650">Choral Conductors.</subject>
-        <subject source="lcsh" encodinganalog="650">Music--Michigan--Ann Arbor.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/8197">Choral conducing.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/8198">Choral Conductors.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5706">Music--Michigan--Ann Arbor.</subject>
         <corpname encodinganalog="610" source="lcnaf" authfilenumber="http://id.loc.gov/authorities/names/n82063886">University of Michigan. School of Music.</corpname>
         <corpname encodinganalog="610" source="lcnaf">Princeton Chamber Singers.</corpname>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform encodinganalog="655" source="aat">Photographs.</genreform>
-        <genreform encodinganalog="655" source="aat">Videotapes.</genreform>
+        <genreform encodinganalog="655" source="aat" ref="/subjects/3141">Photographs.</genreform>
+        <genreform encodinganalog="655" source="aat" ref="/subjects/3140">Videotapes.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -126,13 +128,13 @@ Thomas Hilbish papers, Bentley Historical Library, University of Michigan</p>
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [90782629614048909894678519]" altrender="box">1</container>
             <unittitle>Awards and Honors <unitdate type="inclusive" normal="1969/2003">1969-2003</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [90782629614048909894678519]" altrender="box">1</container>
             <unittitle>Curricula Vitae</unittitle>
           </did>
         </c02>
@@ -145,26 +147,26 @@ Thomas Hilbish papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [90782629614048909894678519]" altrender="box">1</container>
               <unittitle>Bristol High School <unitdate type="inclusive" normal="1937">1937</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [90782629614048909894678519]" altrender="box">1</container>
               <unittitle>University of Miami <unitdate type="inclusive" normal="1938/1941">1938-1941</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [90782629614048909894678519]" altrender="box">1</container>
               <unittitle>Westminster Choir College</unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [90782629614048909894678519]" altrender="box">1</container>
             <unittitle>Naval Records <unitdate type="inclusive" normal="1942/1946">1942-1946</unitdate></unittitle>
           </did>
         </c02>
@@ -182,25 +184,25 @@ Thomas Hilbish papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [90782629614048909894678519]" altrender="box">1</container>
               <unittitle>Conducting Notes (Bach/Motet VI)</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [90782629614048909894678519]" altrender="box">1</container>
               <unittitle>Correspondence <unitdate type="inclusive" normal="1947/2006">1947-2006</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [90782629614048909894678519]" altrender="box">1</container>
               <unittitle>Press Clippings <unitdate type="inclusive" normal="1955/1981">1955-1981</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [90782629614048909894678519]" altrender="box">1</container>
               <unittitle>Program Notes</unittitle>
             </did>
           </c03>
@@ -215,7 +217,7 @@ Thomas Hilbish papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [90782629614048909894678519]" altrender="box">1</container>
                 <unittitle>Press Clippings</unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -224,20 +226,20 @@ Thomas Hilbish papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [90782629614048909894678519]" altrender="box">1</container>
                 <unittitle>Scrapbook <unitdate type="inclusive" normal="1963/1964">1963-1964</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [90782629614048909894678519]" altrender="box">1</container>
                 <unittitle>Tours <unitdate type="inclusive" normal="1961/1964">1961-1964</unitdate></unittitle>
               </did>
             </c04>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [90782629614048909894678519]" altrender="box">1</container>
               <unittitle>United States Universities Choir</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -250,13 +252,13 @@ Thomas Hilbish papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [90782629614048909894678519]" altrender="box">1</container>
                 <unittitle>General</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [90782629614048909894678519]" altrender="box">1</container>
                 <unittitle>Press Clippings</unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -265,7 +267,7 @@ Thomas Hilbish papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [90782629614048909894678519]" altrender="box">1</container>
                 <unittitle>Press Releases</unittitle>
               </did>
             </c04>
@@ -275,44 +277,44 @@ Thomas Hilbish papers, Bentley Historical Library, University of Michigan</p>
               </did>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">1</container>
+                  <container type="box" label="Box [90782629614048909894678519]" altrender="box">1</container>
                   <unittitle>Cultural Exchange Tour</unittitle>
                 </did>
               </c05>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">1</container>
+                  <container type="box" label="Box [90782629614048909894678519]" altrender="box">1</container>
                   <unittitle>Eastern European Tour</unittitle>
                 </did>
               </c05>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">1</container>
+                  <container type="box" label="Box [90782629614048909894678519]" altrender="box">1</container>
                   <unittitle>Fifth International Choral Festival, New York, NY, Washington, D.C., Philadelphia, PA</unittitle>
                 </did>
               </c05>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">1</container>
+                  <container type="box" label="Box [90782629614048909894678519]" altrender="box">1</container>
                   <unittitle>Las Palmas Festival, Canary Islands</unittitle>
                 </did>
               </c05>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">1</container>
+                  <container type="box" label="Box [90782629614048909894678519]" altrender="box">1</container>
                   <unittitle>Spoleto Music Festival, Rome, Italy</unittitle>
                 </did>
               </c05>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">1</container>
+                  <container type="box" label="Box [90782629614048909894678519]" altrender="box">1</container>
                   <unittitle>State Department USSR Tour, USSR</unittitle>
                 </did>
               </c05>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [90782629614048909894678519]" altrender="box">1</container>
                 <unittitle>Voice of America Broadcast</unittitle>
               </did>
             </c04>
@@ -324,7 +326,7 @@ Thomas Hilbish papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [90782629614048909894678519]" altrender="box">1</container>
               <unittitle>Assorted Materials</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -333,7 +335,7 @@ Thomas Hilbish papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [90782629614048909894678519]" altrender="box">1</container>
               <unittitle>Schönberg, Arnold, Die Jakobsleiter, Notes</unittitle>
             </did>
           </c03>
@@ -343,25 +345,25 @@ Thomas Hilbish papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [90782629614048909894678519]" altrender="box">1</container>
                 <unittitle><title render="italic">Les Noches</title>, Notes</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [90782629614048909894678519]" altrender="box">1</container>
                 <unittitle><title render="italic">Oedipus Rex</title>, Notes</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [90782629614048909894678519]" altrender="box">1</container>
                 <unittitle><title render="italic">Requiem Canticles</title>, Notes</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [90782629614048909894678519]" altrender="box">1</container>
                 <unittitle><title render="italic">Symphony of Psalms</title>, Notes</unittitle>
               </did>
             </c04>
@@ -377,31 +379,31 @@ Thomas Hilbish papers, Bentley Historical Library, University of Michigan</p>
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [90782629614048909894678519]" altrender="box">1</container>
             <unittitle>Assorted Programs</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [90782629614048909894678519]" altrender="box">1</container>
             <unittitle>Churches</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [90782629614048909894678519]" altrender="box">1</container>
             <unittitle>Florida State University</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [90782629614048909894678519]" altrender="box">1</container>
             <unittitle>Harvard University</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [90782629614048909894678519]" altrender="box">1</container>
             <unittitle>Princeton High School Choir</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -410,13 +412,13 @@ Thomas Hilbish papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [90782629614048909894678519]" altrender="box">1</container>
             <unittitle>Princeton University</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [058117688473948794975082]" altrender="box">2</container>
             <unittitle>University of Michigan</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -425,13 +427,13 @@ Thomas Hilbish papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [058117688473948794975082]" altrender="box">2</container>
             <unittitle>University of Wisconsin</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [058117688473948794975082]" altrender="box">2</container>
             <unittitle>Westminster Choir College</unittitle>
           </did>
         </c02>
@@ -460,7 +462,7 @@ Thomas Hilbish papers, Bentley Historical Library, University of Michigan</p>
               </did>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">2</container>
+                  <container type="box" label="Box [058117688473948794975082]" altrender="box">2</container>
                   <unittitle><title render="italic">Mass in B Minor</title>, Johann Sebastian Bach</unittitle>
                 </did>
               </c05>
@@ -471,13 +473,13 @@ Thomas Hilbish papers, Bentley Historical Library, University of Michigan</p>
               </did>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">2</container>
+                  <container type="box" label="Box [058117688473948794975082]" altrender="box">2</container>
                   <unittitle>Harvard University, Cambridge, MA</unittitle>
                 </did>
               </c05>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">2</container>
+                  <container type="box" label="Box [058117688473948794975082]" altrender="box">2</container>
                   <unittitle>University of Michigan, Ann Arbor, MI</unittitle>
                 </did>
               </c05>
@@ -485,25 +487,25 @@ Thomas Hilbish papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="item">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [058117688473948794975082]" altrender="box">2</container>
               <unittitle>Letters of Recommendation</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [058117688473948794975082]" altrender="box">2</container>
               <unittitle>Music Education Writings</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [058117688473948794975082]" altrender="box">2</container>
               <unittitle>New Jersey Teacher Certification</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [058117688473948794975082]" altrender="box">2</container>
               <unittitle>Search Committee</unittitle>
             </did>
           </c03>
@@ -514,37 +516,37 @@ Thomas Hilbish papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [058117688473948794975082]" altrender="box">2</container>
               <unittitle>Choral Methods</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [058117688473948794975082]" altrender="box">2</container>
               <unittitle>Conducting Examples</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [058117688473948794975082]" altrender="box">2</container>
               <unittitle>Conducting Notations</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [058117688473948794975082]" altrender="box">2</container>
               <unittitle>Conducting Seminar</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [058117688473948794975082]" altrender="box">2</container>
               <unittitle>Syllabi</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [058117688473948794975082]" altrender="box">2</container>
               <unittitle>Voice Methods</unittitle>
             </did>
           </c03>
@@ -563,19 +565,19 @@ Thomas Hilbish papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [058117688473948794975082]" altrender="box">2</container>
               <unittitle>Hilbish, Thomas</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [058117688473948794975082]" altrender="box">2</container>
               <unittitle>Princeton High School Choir</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [058117688473948794975082]" altrender="box">2</container>
               <unittitle>University of Michigan Choir</unittitle>
             </did>
           </c03>
@@ -586,7 +588,7 @@ Thomas Hilbish papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [7319334586864964439]" altrender="box">3</container>
               <unittitle>Ann Arbor Cantata Singers Concert <unitdate type="inclusive" normal="2001-12-14">December 14, 2001</unitdate></unittitle>
               <physdesc>
                 <physfacet>VHS</physfacet>
@@ -595,7 +597,7 @@ Thomas Hilbish papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [7319334586864964439]" altrender="box">3</container>
               <unittitle>Ann Arbor Cantata Singers Concert <unitdate type="inclusive" normal="2003-11-23">November 23, 2003</unitdate></unittitle>
               <physdesc>
                 <physfacet>VHS</physfacet>
@@ -604,7 +606,7 @@ Thomas Hilbish papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [7319334586864964439]" altrender="box">3</container>
               <unittitle>Chamber Choir</unittitle>
               <physdesc>
                 <physfacet>VHS</physfacet>
@@ -613,7 +615,7 @@ Thomas Hilbish papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [7319334586864964439]" altrender="box">3</container>
               <unittitle>Chamber Choir, Russia Audition</unittitle>
               <physdesc>
                 <physfacet>VHS</physfacet>
@@ -622,7 +624,7 @@ Thomas Hilbish papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [7319334586864964439]" altrender="box">3</container>
               <unittitle>Chinese Concert, Evangel College, Springfield, MO <unitdate type="inclusive" normal="1995-02-13">February 13, 1995</unitdate></unittitle>
               <physdesc>
                 <physfacet>VHS</physfacet>
@@ -631,7 +633,7 @@ Thomas Hilbish papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [7319334586864964439]" altrender="box">3</container>
               <unittitle>Fall Concert, University of Arizona Choral Association, Tucson, AZ <unitdate type="inclusive" normal="1993-10-17">October 17, 1993</unitdate></unittitle>
               <physdesc>
                 <physfacet>VHS</physfacet>
@@ -640,7 +642,7 @@ Thomas Hilbish papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [7319334586864964439]" altrender="box">3</container>
               <unittitle><title render="italic">Mass in B Minor</title>, Johann Sebastian Bach, Beijing, China</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">3 videotapes</extent>
@@ -650,7 +652,7 @@ Thomas Hilbish papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [7319334586864964439]" altrender="box">3</container>
               <unittitle><title render="italic">Mass in B Minor</title>, Johann Sebastian Bach, UCLA Choir &amp; Orchestra, <unitdate type="inclusive" normal="1989-03">March 1989</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 videotapes</extent>
@@ -660,7 +662,7 @@ Thomas Hilbish papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [7319334586864964439]" altrender="box">3</container>
               <unittitle><title render="italic">Pierrot Lunaire</title>, Arnold Schönberg</unittitle>
               <physdesc>
                 <physfacet>VHS</physfacet>
@@ -669,7 +671,7 @@ Thomas Hilbish papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [7319334586864964439]" altrender="box">3</container>
               <unittitle>Reel to Reel Digitizations</unittitle>
               <physdesc>
                 <physfacet>DVD-R</physfacet>
@@ -678,7 +680,7 @@ Thomas Hilbish papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [7319334586864964439]" altrender="box">3</container>
               <unittitle><title render="italic">Symphony of Psalms</title>, Igor Stravinsky</unittitle>
               <physdesc>
                 <physfacet>VHS</physfacet>
@@ -687,7 +689,7 @@ Thomas Hilbish papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [7319334586864964439]" altrender="box">3</container>
               <unittitle>Tom at Miami Graduation <unitdate type="inclusive" normal="1992">1992</unitdate></unittitle>
               <physdesc>
                 <physfacet>VHS</physfacet>
@@ -696,7 +698,7 @@ Thomas Hilbish papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [7319334586864964439]" altrender="box">3</container>
               <unittitle><title render="italic">The War Requiem</title>, Benjamin Britten, University of Michigan Choir &amp; Orchestra, Ann Arbor, MI, <unitdate type="inclusive" normal="1987-04-21">April 21, 1987</unitdate></unittitle>
               <physdesc altrender="part">
                 <extent altrender="materialtype spaceoccupied">4 videotapes</extent>
@@ -710,7 +712,7 @@ Thomas Hilbish papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [7319334586864964439]" altrender="box">3</container>
               <unittitle>Winter Concert, Princeton High School Choir 50th Reunion, Princeton, NJ <unitdate type="inclusive" normal="1995-12-21">December 21, 1995</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 videotapes</extent>

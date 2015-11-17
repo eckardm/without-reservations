@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Ann Edwards papers, 1946-1957</titleproper>
       <author>Finding aid created by <lb/>Michigan Historical Collections staff</author>
     </titlepage>
@@ -78,14 +78,14 @@ Ann Edwards papers, Bentley Historical Library, University of Michigan</p>
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <geogname source="lcsh" encodinganalog="651">Indiana.</geogname>
-        <geogname source="lcsh" encodinganalog="651">Missouri.</geogname>
-        <geogname source="local" encodinganalog="691">Missouri--Politics and government.</geogname>
-        <subject source="lcsh" encodinganalog="650">Prohibition--Missouri.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1742">Indiana.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1743">Missouri.</geogname>
+        <geogname source="local" encodinganalog="691" ref="/subjects/827">Missouri--Politics and government.</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7393">Prohibition--Missouri.</subject>
         <corpname source="lcnaf" encodinganalog="610">Prohibition Party (Mo.)</corpname>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n79041725.html">Saint Louis (Mo.)</geogname>
-        <subject source="lcsh" encodinganalog="650">Women in politics--Missouri.</subject>
-        <subject source="lcsh" encodinganalog="650">Women in politics--Indiana.</subject>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n79041725.html" ref="/subjects/1744">Saint Louis (Mo.)</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7394">Women in politics--Missouri.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7395">Women in politics--Indiana.</subject>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -95,37 +95,39 @@ Ann Edwards papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [143871024219942168992163]" altrender="box">1</container>
             <unittitle>Correspondence <unitdate type="inclusive" normal="1948/1956">1948-1956</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [143871024219942168992163]" altrender="box">1</container>
             <unittitle>Minutes of the Greater St. Louis Prohibition Clubs <unitdate type="inclusive" normal="1946/1949">1946-1949</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <unittitle>Minutes of the Greater St. Louis Prohibition Clubs <unitdate type="inclusive" normal="1950/1952">1950-1952</unitdate>, <unitdate type="inclusive" normal="1955/1956">1955-1956</unitdate></unittitle>
+            <container type="box" label="Box [143871024219942168992163]" altrender="box">1</container>
+            <unittitle>Minutes of the Greater St. Louis Prohibition Clubs</unittitle>
+            <unitdate type="inclusive" normal="1950/1952">1950-1952</unitdate>
+            <unitdate type="inclusive" normal="1955/1956">1955-1956</unitdate>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [143871024219942168992163]" altrender="box">1</container>
             <unittitle>Papers concerning the Missouri Prohibition Party <unitdate type="inclusive" normal="1946/1957">1946-1957</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [143871024219942168992163]" altrender="box">1</container>
             <unittitle>Missouri Prohibition Party miscellaneous</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [143871024219942168992163]" altrender="box">1</container>
             <unittitle>Missouri Prohibitionist newsletter; miscellaneous printed material</unittitle>
           </did>
         </c02>

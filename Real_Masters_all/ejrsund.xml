@@ -42,7 +42,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding Aid for <lb/>Eliza Jane Read Sunderland Papers, <date type="inclusive">1865-1910</date></titleproper>
       <author>Finding aid prepared by: <lb/>Bentley Historical Library Staff</author>
     </titlepage>
@@ -107,15 +107,15 @@
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n79022219.html">Ann Arbor (Mich.)</geogname>
-        <subject source="lcsh" encodinganalog="650">Education--United States.</subject>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n79022219.html" ref="/subjects/860">Ann Arbor (Mich.)</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6116">Education--United States.</subject>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n50003979">Scott, Fred Newton, 1860-1931.</persname>
         <persname source="lcnaf" encodinganalog="600">Sunderland, Eliza Read, 1839-1910.</persname>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n91027331">Tufts, James Hayden, 1862-1942.</persname>
-        <subject source="lcsh" encodinganalog="650">Unitarian churches.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7401">Unitarian churches.</subject>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan--Student notebooks.</corpname>
-        <subject source="lcsh" encodinganalog="650">Women--Suffrage--Michigan.</subject>
-        <subject source="lcsh" encodinganalog="650">Women's rights--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6042">Women--Suffrage--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6223">Women's rights--Michigan.</subject>
         <corpname source="lcnaf" encodinganalog="611" authfilenumber="http://id.loc.gov/authorities/names/n80008759">World's Columbian Exposition (1893: Chicago, Ill.)</corpname>
       </controlaccess>
       <controlaccess>
@@ -142,7 +142,7 @@
       </controlaccess>
       <controlaccess>
         <head>Genre/Form:</head>
-        <genreform source="aat" encodinganalog="655">Sermons.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3191">Sermons.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -155,7 +155,7 @@
         </scopecontent>
         <c02 level="file">
           <did>
-            <container label="Box" type="box">1</container>
+            <container label="Box [0742427463961080580]" type="box" altrender="box">1</container>
             <unittitle>
               <unitdate>Undated</unitdate>
               <unitdate type="inclusive" normal="1865/1910">1865-1910</unitdate>
@@ -175,7 +175,7 @@
         </scopecontent>
         <c02 level="file">
           <did>
-            <container label="Box" type="box">2</container>
+            <container label="Box [32863524988488617]" type="box" altrender="box">2</container>
             <unittitle>Biographical material</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">5 folders</extent>
@@ -184,7 +184,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [32863524988488617]" altrender="box">2</container>
             <unittitle>Pamphlets and articles by Mrs. Sunderland <unitdate type="inclusive" normal="1878/1903">1878-1903</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -201,12 +201,12 @@
         </scopecontent>
         <c02 level="file">
           <did>
-            <container label="Box" type="box">2</container>
+            <container label="Box [32863524988488617]" type="box" altrender="box">2</container>
             <unittitle>University of Michigan student notebooks</unittitle>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [32863524988488617]" altrender="box">2</container>
               <unittitle>Introduction to Philosophy course taught by John Dewey <unitdate type="inclusive" normal="1890">1890</unitdate></unittitle>
             </did>
             <odd>
@@ -215,13 +215,13 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [32863524988488617]" altrender="box">2</container>
               <unittitle>Aesthetics course taught by Fred N. Scott <unitdate type="inclusive" normal="1890">1890</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [32863524988488617]" altrender="box">2</container>
               <unittitle>Real Logic course taught by John Dewey <unitdate type="inclusive" normal="1890">1890</unitdate></unittitle>
             </did>
             <odd>
@@ -230,7 +230,7 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [32863524988488617]" altrender="box">2</container>
               <unittitle>Kant's Critique of Pure Reason and Caird's Critical Philosophy of Kant courses taught by John Dewey <unitdate type="inclusive" normal="1890">1890</unitdate></unittitle>
             </did>
             <odd>
@@ -239,13 +239,13 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [32863524988488617]" altrender="box">2</container>
               <unittitle>Studies in the History and Philosophy of Religion course taught by James H., Tufts <unitdate type="inclusive" normal="1891">1891</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [32863524988488617]" altrender="box">2</container>
               <unittitle>Hegel's logic course taught by John Dewey <unitdate type="inclusive" normal="1891">1891</unitdate></unittitle>
             </did>
             <odd>
@@ -254,7 +254,7 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [32863524988488617]" altrender="box">2</container>
               <unittitle>Hegel's Philosophy of Spirit course taught by John Dewey <unitdate type="inclusive" normal="1891">1891</unitdate></unittitle>
             </did>
             <odd>
@@ -263,13 +263,13 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [32863524988488617]" altrender="box">2</container>
               <unittitle>Social and Industrial Reforms course taught by Henry Carter Adams <unitdate type="inclusive" normal="1891">1891</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [32863524988488617]" altrender="box">2</container>
               <unittitle>Movements of Thought in the Nineteenth Century <unitdate type="inclusive" normal="1891">1891</unitdate> taught by John Dewey</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 volumes</extent>
@@ -281,7 +281,7 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [32863524988488617]" altrender="box">2</container>
               <unittitle>Ethical Problems seminar taught by John Dewey <unitdate type="inclusive" normal="1892" certainty="approximate">circa 1892</unitdate></unittitle>
             </did>
             <odd>
@@ -290,8 +290,10 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
-              <unittitle>Notebook contains seminar papers on Herbert Spencer's Psychology <unitdate type="inclusive" normal="1882">1882</unitdate> and Berkley's Principles of Human Knowledge, <unitdate type="inclusive" normal="1888">1888</unitdate></unittitle>
+              <container type="box" label="Box [32863524988488617]" altrender="box">2</container>
+              <unittitle>Notebook contains seminar papers on Herbert Spencer's Psychology 1882 and Berkley's Principles of Human Knowledge, 1888</unittitle>
+              <unitdate type="inclusive" normal="1882">1882</unitdate>
+              <unitdate type="inclusive" normal="1888">1888</unitdate>
             </did>
           </c03>
         </c02>
@@ -301,25 +303,25 @@
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [32863524988488617]" altrender="box">2</container>
               <unittitle>Rough draft of Sunderland's PhD. thesis, undated</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [32863524988488617]" altrender="box">2</container>
               <unittitle>Notes on Rome, undated</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [32863524988488617]" altrender="box">2</container>
               <unittitle>Notes on Italy and Robert Burns, undated</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [32863524988488617]" altrender="box">2</container>
               <unittitle>Account book of household income and expenditures <unitdate normal="1884/1894">1884-1894</unitdate></unittitle>
             </did>
             <odd>
@@ -328,7 +330,7 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [32863524988488617]" altrender="box">2</container>
               <unittitle>Diary of trip to England <unitdate type="inclusive" normal="1895">1895</unitdate></unittitle>
             </did>
             <odd>
@@ -350,85 +352,85 @@
           </did>
           <c03 level="file">
             <did>
-              <container label="Box" type="box">2</container>
+              <container label="Box [32863524988488617]" type="box" altrender="box">2</container>
               <unittitle>After Vacation, What?</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [32863524988488617]" altrender="box">2</container>
               <unittitle>Agnosticism</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [32863524988488617]" altrender="box">2</container>
               <unittitle>Agnosticism: A Historical and Practical Study</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [32863524988488617]" altrender="box">2</container>
               <unittitle>An Analysis of Jastro's "The Subconscious"</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [32863524988488617]" altrender="box">2</container>
               <unittitle>Books and Reading for Children Young and Old</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [32863524988488617]" altrender="box">2</container>
               <unittitle>Christian Art</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [32863524988488617]" altrender="box">2</container>
               <unittitle>Christianity Since Jesus</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [32863524988488617]" altrender="box">2</container>
               <unittitle>The Comparative Value of the Pulpit and the Press as a Means of Liberal Religious Propaganda</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [32863524988488617]" altrender="box">2</container>
               <unittitle>Conversion of the Barbarians</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [32863524988488617]" altrender="box">2</container>
               <unittitle>The Cross of Christ</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [32863524988488617]" altrender="box">2</container>
               <unittitle>The Duty of Patriotic Citizens in Time of War</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [32863524988488617]" altrender="box">2</container>
               <unittitle>Early American Literature</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [32863524988488617]" altrender="box">2</container>
               <unittitle>Early Beginnings of American Unitarianism</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container label="Box" type="box">3</container>
+              <container label="Box [487459002940821999989775]" type="box" altrender="box">3</container>
               <unittitle>Education</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -437,175 +439,175 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [487459002940821999989775]" altrender="box">3</container>
               <unittitle>The Educational Work of Women's Clubs</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [487459002940821999989775]" altrender="box">3</container>
               <unittitle>The Effects of the Reformation on Philosophy and Science</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [487459002940821999989775]" altrender="box">3</container>
               <unittitle>England at Play</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [487459002940821999989775]" altrender="box">3</container>
               <unittitle>England at School</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [487459002940821999989775]" altrender="box">3</container>
               <unittitle>The First Seven Years of the Child's Life</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [487459002940821999989775]" altrender="box">3</container>
               <unittitle>The Foundations of Religion</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [487459002940821999989775]" altrender="box">3</container>
               <unittitle>Herman Lotze</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [487459002940821999989775]" altrender="box">3</container>
               <unittitle>The High Church Movement</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [487459002940821999989775]" altrender="box">3</container>
               <unittitle>The Higher Education of Women</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [487459002940821999989775]" altrender="box">3</container>
               <unittitle>The History of Music</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [487459002940821999989775]" altrender="box">3</container>
               <unittitle>How Can We Know God?</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [487459002940821999989775]" altrender="box">3</container>
               <unittitle>The Influence of Religion Upon Fine Art</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [487459002940821999989775]" altrender="box">3</container>
               <unittitle>The Inspiration of the Vir (?) and of the Home</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [487459002940821999989775]" altrender="box">3</container>
               <unittitle>The Jewish Messiah</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [487459002940821999989775]" altrender="box">3</container>
               <unittitle>Longfellow</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [487459002940821999989775]" altrender="box">3</container>
               <unittitle>Man: His Origin, Destiny, and End</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [487459002940821999989775]" altrender="box">3</container>
               <unittitle>Medieval Universities</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [487459002940821999989775]" altrender="box">3</container>
               <unittitle>The New Basis of Civilization</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [487459002940821999989775]" altrender="box">3</container>
               <unittitle>New Testament Criticism of the Nineteenth Century</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [487459002940821999989775]" altrender="box">3</container>
               <unittitle>A New Year's Sermon on the Past, Present, and Future of Christianity</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [487459002940821999989775]" altrender="box">3</container>
               <unittitle>Old World Art in New World Life</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [487459002940821999989775]" altrender="box">3</container>
               <unittitle>Our Father Who Art in Heaven</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [487459002940821999989775]" altrender="box">3</container>
               <unittitle>Our Modern Sale of Indulgence</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [487459002940821999989775]" altrender="box">3</container>
               <unittitle>The Protective Tariff</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [487459002940821999989775]" altrender="box">3</container>
               <unittitle>Religion in Italy</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [487459002940821999989775]" altrender="box">3</container>
               <unittitle>Schopenhauer and Steiner</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [487459002940821999989775]" altrender="box">3</container>
               <unittitle>Some Religious Teachings of Emerson</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [487459002940821999989775]" altrender="box">3</container>
               <unittitle>The Soul</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [487459002940821999989775]" altrender="box">3</container>
               <unittitle>Studies in the Life of Jesus</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">4 folders</extent>
@@ -614,55 +616,55 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [487459002940821999989775]" altrender="box">3</container>
               <unittitle>Victor Hugo</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [487459002940821999989775]" altrender="box">3</container>
               <unittitle>Vocations and Avocations for Women</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [487459002940821999989775]" altrender="box">3</container>
               <unittitle>What is the Bible?</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [487459002940821999989775]" altrender="box">3</container>
               <unittitle>Whereesoever This Gospel Shall Be Preached ... There Shall Also This That His Women Hath Done, Be Told for a Memorial of Her</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [487459002940821999989775]" altrender="box">3</container>
               <unittitle>Will Education Destroy Intemperance?</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [487459002940821999989775]" altrender="box">3</container>
               <unittitle>William Wordsworth</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [487459002940821999989775]" altrender="box">3</container>
               <unittitle>Wise and Foolish Virgins in Gothic Cathedrals</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [487459002940821999989775]" altrender="box">3</container>
               <unittitle>Woman as an Economic Factor in the American Life</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [487459002940821999989775]" altrender="box">3</container>
               <unittitle>The World Waits Upon the Babe</unittitle>
             </did>
           </c03>
@@ -679,7 +681,7 @@
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [487459002940821999989775]" altrender="box">3</container>
                 <unittitle>The Book</unittitle>
               </did>
             </c04>
@@ -692,7 +694,7 @@
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [487459002940821999989775]" altrender="box">3</container>
                 <unittitle>Lucretia Mott</unittitle>
               </did>
             </c04>
@@ -705,7 +707,7 @@
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [487459002940821999989775]" altrender="box">3</container>
                 <unittitle>The Attitude of the Great Religions of the World Toward Women</unittitle>
               </did>
             </c04>
@@ -718,7 +720,7 @@
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [487459002940821999989775]" altrender="box">3</container>
                 <unittitle>Dr. J.G. Holland</unittitle>
               </did>
             </c04>
@@ -731,43 +733,43 @@
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [487459002940821999989775]" altrender="box">3</container>
                 <unittitle>History of Unitarianism</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [487459002940821999989775]" altrender="box">3</container>
                 <unittitle>The Study of Religious Literature as an Essential Part of Church Work</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [487459002940821999989775]" altrender="box">3</container>
                 <unittitle>The Secret of Success in Life</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [487459002940821999989775]" altrender="box">3</container>
                 <unittitle>The Problem of Life</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [487459002940821999989775]" altrender="box">3</container>
                 <unittitle>Where is thy Brother</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [487459002940821999989775]" altrender="box">3</container>
                 <unittitle>Bear Ye One Another's Burdens</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [487459002940821999989775]" altrender="box">3</container>
                 <unittitle>The Everlasting Gospel</unittitle>
               </did>
             </c04>
@@ -780,7 +782,7 @@
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [487459002940821999989775]" altrender="box">3</container>
                 <unittitle>Parasites</unittitle>
               </did>
             </c04>
@@ -793,7 +795,7 @@
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [487459002940821999989775]" altrender="box">3</container>
                 <unittitle>What Has Jesus Done for the World</unittitle>
               </did>
             </c04>
@@ -806,7 +808,7 @@
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [487459002940821999989775]" altrender="box">3</container>
                 <unittitle>A Christmas Sermon</unittitle>
               </did>
             </c04>
@@ -819,19 +821,19 @@
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [487459002940821999989775]" altrender="box">3</container>
                 <unittitle>The Essence of Unitarian Christianity</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [487459002940821999989775]" altrender="box">3</container>
                 <unittitle>In Memoriam</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [487459002940821999989775]" altrender="box">3</container>
                 <unittitle>Scientific Truth and Religious Truth</unittitle>
               </did>
             </c04>
@@ -844,7 +846,7 @@
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [487459002940821999989775]" altrender="box">3</container>
                 <unittitle>Man's Relation to the Absolute According to the Philosophy of Kant and of Hegel</unittitle>
               </did>
             </c04>
@@ -857,13 +859,13 @@
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [487459002940821999989775]" altrender="box">3</container>
                 <unittitle>The Higher Education of Women and Its Influence on the Home Life</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container label="Box" type="box">4</container>
+                <container label="Box [87315945002497873417]" type="box" altrender="box">4</container>
                 <unittitle>Importance of the Study of Comparative Religion</unittitle>
               </did>
             </c04>
@@ -876,67 +878,67 @@
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [87315945002497873417]" altrender="box">4</container>
                 <unittitle>Lost Paradises</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [87315945002497873417]" altrender="box">4</container>
                 <unittitle>The Religious Field</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [87315945002497873417]" altrender="box">4</container>
                 <unittitle>The Historic Resurrection and the Real Resurrection</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [87315945002497873417]" altrender="box">4</container>
                 <unittitle>Old Testament Biblical Criticism</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [87315945002497873417]" altrender="box">4</container>
                 <unittitle>Immanuel Kant</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [87315945002497873417]" altrender="box">4</container>
                 <unittitle>Georg Wilhelm Friedrich Hegel</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [87315945002497873417]" altrender="box">4</container>
                 <unittitle>Arthur Schopenhauer and Karl Robert Edward Von Hartmann</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [87315945002497873417]" altrender="box">4</container>
                 <unittitle>August Comte</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [87315945002497873417]" altrender="box">4</container>
                 <unittitle>John Stuart Mill and Herbert Spencer</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [87315945002497873417]" altrender="box">4</container>
                 <unittitle>James Martineau</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [87315945002497873417]" altrender="box">4</container>
                 <unittitle>The Scientists</unittitle>
               </did>
             </c04>
@@ -949,7 +951,7 @@
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [87315945002497873417]" altrender="box">4</container>
                 <unittitle>Thomas Carlyle's House</unittitle>
               </did>
             </c04>
@@ -962,19 +964,19 @@
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [87315945002497873417]" altrender="box">4</container>
                 <unittitle>Immortality</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [87315945002497873417]" altrender="box">4</container>
                 <unittitle>Paul on Mars Hill</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [87315945002497873417]" altrender="box">4</container>
                 <unittitle>Three Stories of Creation</unittitle>
               </did>
             </c04>
@@ -987,25 +989,25 @@
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [87315945002497873417]" altrender="box">4</container>
                 <unittitle>Salvation</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [87315945002497873417]" altrender="box">4</container>
                 <unittitle>Elements Which Enter into the Making of a Great Soul</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [87315945002497873417]" altrender="box">4</container>
                 <unittitle>The Way of Salvation</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [87315945002497873417]" altrender="box">4</container>
                 <unittitle>The Secret of Jesus</unittitle>
               </did>
             </c04>
@@ -1018,7 +1020,7 @@
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [87315945002497873417]" altrender="box">4</container>
                 <unittitle>Some Things Worth Living For</unittitle>
               </did>
             </c04>
@@ -1031,7 +1033,7 @@
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [87315945002497873417]" altrender="box">4</container>
                 <unittitle>Righteousness</unittitle>
               </did>
             </c04>
@@ -1044,13 +1046,13 @@
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [87315945002497873417]" altrender="box">4</container>
                 <unittitle>Political speech</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [87315945002497873417]" altrender="box">4</container>
                 <unittitle>Right and Wrong Uses of the Bible in Sunday School</unittitle>
               </did>
             </c04>
@@ -1063,7 +1065,7 @@
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [87315945002497873417]" altrender="box">4</container>
                 <unittitle>Henrik Ibsen</unittitle>
               </did>
             </c04>
@@ -1076,7 +1078,7 @@
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [87315945002497873417]" altrender="box">4</container>
                 <unittitle>A Study of the American Public School System</unittitle>
               </did>
             </c04>
@@ -1089,37 +1091,37 @@
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [87315945002497873417]" altrender="box">4</container>
                 <unittitle>Some Reasons Why Women Should Have the Ballot</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [87315945002497873417]" altrender="box">4</container>
                 <unittitle>The Great Choice</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [87315945002497873417]" altrender="box">4</container>
                 <unittitle>The Growing Boy</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [87315945002497873417]" altrender="box">4</container>
                 <unittitle>The Making of the Man</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [87315945002497873417]" altrender="box">4</container>
                 <unittitle>Teaching and Healing</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [87315945002497873417]" altrender="box">4</container>
                 <unittitle>The Infancy Legends</unittitle>
               </did>
             </c04>
@@ -1135,25 +1137,25 @@
         </scopecontent>
         <c02 level="file">
           <did>
-            <container label="Box" type="box">4</container>
+            <container label="Box [87315945002497873417]" type="box" altrender="box">4</container>
             <unittitle>Women and women's organizations <unitdate>undated</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [87315945002497873417]" altrender="box">4</container>
             <unittitle>Women and women's organizations <unitdate type="inclusive" normal="1878/1899">1878-1899</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [87315945002497873417]" altrender="box">4</container>
             <unittitle>Women and women's organizations <unitdate type="inclusive" normal="1900/1909">1900-1909</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [87315945002497873417]" altrender="box">4</container>
             <unittitle>Working women <unitdate type="inclusive" normal="1879/1898">1879-1898</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -1162,7 +1164,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [87315945002497873417]" altrender="box">4</container>
             <unittitle>Higher Education of Women and the Association of Collegiate Alumnae <unitdate type="inclusive" normal="1882/1897">1882-1897</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -1171,31 +1173,31 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [87315945002497873417]" altrender="box">4</container>
             <unittitle>World's Congress of Representative Women <unitdate type="inclusive" normal="1893">1893</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [87315945002497873417]" altrender="box">4</container>
             <unittitle>Activities of Eliza Sunderland <unitdate type="inclusive" normal="1877/1903">1877-1903</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [87315945002497873417]" altrender="box">4</container>
             <unittitle>Obituaries of Eliza Sunderland <unitdate type="inclusive" normal="1910">1910</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [87315945002497873417]" altrender="box">4</container>
             <unittitle>Notes on William Ewart Gladstone</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [87315945002497873417]" altrender="box">4</container>
             <unittitle>Miscellanea</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">5 folders</extent>
@@ -1204,7 +1206,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [87315945002497873417]" altrender="box">4</container>
             <unittitle>Autograph Book <unitdate type="inclusive" normal="1890/1897">1890-1897</unitdate></unittitle>
           </did>
         </c02>

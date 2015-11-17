@@ -35,7 +35,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Fred E. Minard photograph collection, 1918-1919</titleproper>
       <author>Finding aid created by <lb/>Len Coombs, 2010</author>
     </titlepage>
@@ -89,32 +89,32 @@
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <geogname source="lcnaf" encodinganalog="651.">England.</geogname>
-        <geogname source="lcnaf" encodinganalog="651.">France.</geogname>
-        <geogname source="lcnaf" encodinganalog="651.">Soviet Union--History--Allied intervention, 1918-1920.</geogname>
-        <subject source="lcsh" encodinganalog="650">World War, 1914-1918.</subject>
-        <subject source="lctgm" encodinganalog="650">Airplanes.</subject>
-        <subject source="lctgm" encodinganalog="650">Campaigns and battles--Soviet Union.</subject>
-        <subject source="lctgm" encodinganalog="650">Carts and wagons.</subject>
-        <subject source="lctgm" encodinganalog="650">Dogsleds.</subject>
-        <subject source="lctgm" encodinganalog="650">Military art and science.</subject>
-        <subject source="lctgm" encodinganalog="650">Military camps.</subject>
-        <subject source="lctgm" encodinganalog="650">Military cookery.</subject>
-        <subject source="lctgm" encodinganalog="650">Military life.</subject>
-        <subject source="lctgm" encodinganalog="650">Military parades and ceremonies.</subject>
-        <subject source="lctgm" encodinganalog="650">Railroads--Russia (Federation)</subject>
-        <subject source="lctgm" encodinganalog="650">Recreation.</subject>
-        <subject source="lctgm" encodinganalog="650">Refugees--Russian.</subject>
-        <subject source="lctgm" encodinganalog="650">Ships.</subject>
-        <subject source="lctgm" encodinganalog="650">Skiing.</subject>
-        <subject source="lctgm" encodinganalog="650">Soldiers--American--Russia (Federation)</subject>
-        <subject source="lctgm" encodinganalog="650">War casualties.</subject>
-        <subject source="lctgm" encodinganalog="650">War damage.</subject>
+        <geogname source="lcnaf" encodinganalog="651." ref="/subjects/768">England.</geogname>
+        <geogname source="lcnaf" encodinganalog="651." ref="/subjects/769">France.</geogname>
+        <geogname source="lcnaf" encodinganalog="651." ref="/subjects/760">Soviet Union--History--Allied intervention, 1918-1920.</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5712">World War, 1914-1918.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4173">Airplanes.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4213">Campaigns and battles--Soviet Union.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4214">Carts and wagons.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4138">Dogsleds.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3773">Military art and science.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3747">Military camps.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4215">Military cookery.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4216">Military life.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3984">Military parades and ceremonies.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4217">Railroads--Russia (Federation)</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3629">Recreation.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4218">Refugees--Russian.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3918">Ships.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4006">Skiing.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3770">Soldiers--American--Russia (Federation)</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4219">War casualties.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4220">War damage.</subject>
         <corpname encodinganalog="690" source="lcnaf" authfilenumber="http://id.loc.gov/authorities/names/n2008059426">Polar Bear Expedition.</corpname>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -131,9 +131,9 @@
           </did>
           <c03 level="file">
             <did>
-              <container type="folder" label="Folder">1</container>
+              <container type="folder" label="Folder [051646146523976578]" altrender="folder">1</container>
               <unittitle>France</unittitle>
-              <dao show="new" actuate="onrequest" href="minard0001">
+              <dao show="new" actuate="onRequest" href="minard0001" ref="/repositories/2/digital_objects/4110">
                 <daodesc>
                   <p>[view items]</p>
                 </daodesc>
@@ -142,9 +142,9 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="folder" label="Folder">2</container>
+              <container type="folder" label="Folder [38198164392958805]" altrender="folder">2</container>
               <unittitle>Russian Expedition Photos by John Wilson</unittitle>
-              <dao show="new" actuate="onrequest" href="minard0002">
+              <dao show="new" actuate="onRequest" href="minard0002" ref="/repositories/2/digital_objects/4111">
                 <daodesc>
                   <p>[view items]</p>
                 </daodesc>
@@ -154,7 +154,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container label="Box" type="box">1</container>
+            <container label="Box [9908626541789391276338]" type="box" altrender="box">1</container>
             <unittitle>Photograph Prints</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">4 folders</extent>
@@ -190,7 +190,7 @@
         </did>
         <c02 level="file">
           <did>
-            <container label="Box" type="box">1</container>
+            <container label="Box [9908626541789391276338]" type="box" altrender="box">1</container>
             <unittitle>Papers</unittitle>
           </did>
           <odd>

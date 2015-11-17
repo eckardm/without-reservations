@@ -31,7 +31,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Arthur W. Kramer sound recording collection, 1958-1965</titleproper>
       <author>Finding aid created by <lb/>Leonard A. Coombs, 2009</author>
     </titlepage>
@@ -83,8 +83,8 @@ Arthur W. Kramer sound recording collection, Bentley Historical Library, Univers
       </p>
       <controlaccess>
         <head>Subjects - Sound Recordings:</head>
-        <subject source="lcsh" encodinganalog="650">Anti-communist movements--United States.</subject>
-        <subject source="lcsh" encodinganalog="650">Anti-communist movements--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/8701">Anti-communist movements--United States.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/8702">Anti-communist movements--Michigan.</subject>
       </controlaccess>
       <controlaccess>
         <head>Contributors: Sound recordings</head>
@@ -138,7 +138,7 @@ Arthur W. Kramer sound recording collection, Bentley Historical Library, Univers
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Sound recordings.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3143">Sound recordings.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -154,7 +154,7 @@ Arthur W. Kramer sound recording collection, Bentley Historical Library, Univers
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [93674379139438974]" altrender="box">1</container>
               <unittitle>Bouscaren/Dunker.</unittitle>
             </did>
             <odd>
@@ -623,7 +623,9 @@ Arthur W. Kramer sound recording collection, Bentley Historical Library, Univers
           </c03>
           <c03 level="file">
             <did>
-              <unittitle>Hoover/McIntire. Radio talks by Carl McIntire <unitdate type="inclusive" normal="1962-10-24/1962-10-27">October 24-27, 1962</unitdate> J. Edgar Hoover, <unitdate type="inclusive" normal="1962-10-09">October 9, 1962</unitdate></unittitle>
+              <unittitle>Hoover/McIntire. Radio talks by Carl McIntire October 24-27, 1962 J. Edgar Hoover, October 9, 1962</unittitle>
+              <unitdate type="inclusive" normal="1962-10-24/1962-10-27">October 24-27, 1962</unitdate>
+              <unitdate type="inclusive" normal="1962-10-09">October 9, 1962</unitdate>
             </did>
             <odd>
               <p>[Tape 26]</p>
@@ -775,7 +777,7 @@ Arthur W. Kramer sound recording collection, Bentley Historical Library, Univers
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [3086050943692693733]" altrender="box">2</container>
               <unittitle>"American Opinion Interviews," Ann Arbor, Mich. <unitdate type="inclusive" normal="1964-03">March 1964</unitdate></unittitle>
             </did>
             <odd>

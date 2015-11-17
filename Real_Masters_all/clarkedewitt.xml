@@ -31,7 +31,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for<lb/> De Witt and Sarah Clarke Papers, 1864-1900</titleproper>
       <author>Finding aid created by<lb/> Daina Andries, July, 2015</author>
     </titlepage>
@@ -87,11 +87,11 @@
         <head>Subjects:</head>
         <persname source="lcnaf" encodinganalog="600">Clarke, De Witt C.</persname>
         <persname source="lcnaf" encodinganalog="600">Clarke, Sarah.</persname>
-        <subject source="lcsh" encodinganalog="650">Homemakers--Michigan.</subject>
-        <geogname source="lcsh" encodinganalog="651">Michigan--History--Civil War, 1861-1865.</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6827">Homemakers--Michigan.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1588">Michigan--History--Civil War, 1861-1865.</geogname>
         <corpname source="lcnaf" encodinganalog="610">United States. Army. Missouri Cavalry, 2nd.</corpname>
-        <geogname source="lcsh" encodinganalog="651">United States--History--Civil War, 1861-1865.</geogname>
-        <subject source="lcsh" encodinganalog="650">Women--Michigan.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/909">United States--History--Civil War, 1861-1865.</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6367">Women--Michigan.</subject>
       </controlaccess>
       <controlaccess>
         <head>Contributors: </head>
@@ -99,8 +99,8 @@
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Business records.</genreform>
-        <genreform source="aat" encodinganalog="655">Correspondence.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3177">Business records.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3210">Correspondence.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -110,7 +110,7 @@
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [7421134634470785121810]" altrender="box">1</container>
             <unittitle>Transcripts and lists of letters</unittitle>
           </did>
         </c02>
@@ -120,7 +120,7 @@
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [7421134634470785121810]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1864/1865">1864-1865</unitdate>
               </unittitle>
@@ -131,7 +131,7 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [7421134634470785121810]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1864/1896">1864-1896</unitdate>
               </unittitle>
@@ -140,7 +140,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [7421134634470785121810]" altrender="box">1</container>
             <unittitle>Business correspondence, <unitdate type="inclusive" normal="1868/1896">1868-1896</unitdate></unittitle>
           </did>
         </c02>

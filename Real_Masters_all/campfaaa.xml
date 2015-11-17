@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Campbell family papers, 1860-1865 and 1879-1949</titleproper>
       <author>Finding aid created by <lb/>Michigan Historical Collections staff</author>
     </titlepage>
@@ -37,7 +37,9 @@
       <origination>
         <famname source="lcnaf" encodinganalog="100">Campbell family.</famname>
       </origination>
-      <unittitle encodinganalog="245">Campbell family papers <unitdate type="inclusive" encodinganalog="245$f" normal="1860/1865">1860-1865</unitdate>, <unitdate type="inclusive" encodinganalog="245$f" normal="1879/1949">1879-1949</unitdate></unittitle>
+      <unittitle encodinganalog="245">Campbell family papers</unittitle>
+      <unitdate type="inclusive" encodinganalog="245$f" normal="1860/1865">1860-1865</unitdate>
+      <unitdate type="inclusive" encodinganalog="245$f" normal="1879/1949">1879-1949</unitdate>
       <unitid encodinganalog="852$h" repositorycode="MiU-H" countrycode="us" type="call number">85891 Aa 2</unitid>
       <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language></langmaterial>
       <abstract>Ypsilanti and Ann Arbor, Michigan, area family; correspondence, diaries, and other family materials.</abstract>
@@ -80,56 +82,56 @@ Campbell family papers, Bentley Historical Library, University of Michigan</p>
       <controlaccess>
         <head>Subjects:</head>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n50036849">Adams, Henry Carter, 1851-1921.</persname>
-        <subject source="lcsh" encodinganalog="650">Agriculture--Michigan--Washtenaw County.</subject>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n79022219.html">Ann Arbor (Mich.)</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6650">Agriculture--Michigan--Washtenaw County.</subject>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n79022219.html" ref="/subjects/860">Ann Arbor (Mich.)</geogname>
         <corpname source="lcnaf" encodinganalog="610">Ann Arbor High School (Mich.)--Students.</corpname>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n79060532">Dewey, John, 1859-1952.</persname>
-        <subject source="lcsh" encodinganalog="650">Farm life--Michigan--Washtenaw County.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5823">Farm life--Michigan--Washtenaw County.</subject>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n50034941">Hinsdale, B. A. (Burke Aaron), 1837-1900.</persname>
         <persname source="lcnaf" encodinganalog="600">Johnson, Lorenzo Nickerson, d.1897.</persname>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n87126725">Lloyd, Alfred H. (Alfred Henry), 1864-1927.</persname>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n50013667">Mead, George Herbert, 1863-1931.</persname>
-        <geogname source="local" encodinganalog="691">Michigan--Politics and government--1877-1898.</geogname>
-        <geogname source="local" encodinganalog="691">Michigan--Social life and customs--1891-1900.</geogname>
-        <geogname source="local" encodinganalog="691">Michigan--Social life and customs--1901-1910.</geogname>
-        <subject source="lcsh" encodinganalog="650">Presidents--United States--Election--1896.</subject>
+        <geogname source="local" encodinganalog="691" ref="/subjects/805">Michigan--Politics and government--1877-1898.</geogname>
+        <geogname source="local" encodinganalog="691" ref="/subjects/800">Michigan--Social life and customs--1891-1900.</geogname>
+        <geogname source="local" encodinganalog="691" ref="/subjects/815">Michigan--Social life and customs--1901-1910.</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6002">Presidents--United States--Election--1896.</subject>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/no2002065707">Reighard, Jacob, 1861-1942</persname>
         <corpname source="lcnaf" encodinganalog="610">Republican Party (Mich.)</corpname>
-        <subject source="lcsh" encodinganalog="650">Schools--Michigan--Washtenaw County.</subject>
-        <subject source="lcsh" encodinganalog="650">Silver question.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6651">Schools--Michigan--Washtenaw County.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6003">Silver question.</subject>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/no2003104243">Spalding, Volney Morgan, 1849-1918.</persname>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/no92003683">Stanley, Albert A. (Albert Augustus), 1851-1932.</persname>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/no2007120169">Steere, Joseph Beal, 1842-1940.</persname>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n80009873">Taylor, F. M. (Fred Manville), 1855-1932.</persname>
-        <subject source="lcsh" encodinganalog="650">Teachers--Michigan--Washtenaw County.</subject>
-        <geogname source="lcsh" encodinganalog="651">United States--History--Civil War, 1861-1865.</geogname>
-        <geogname source="lcsh" encodinganalog="651">United States--Politics and government--1893-1897.</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6652">Teachers--Michigan--Washtenaw County.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/909">United States--History--Civil War, 1861-1865.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1435">United States--Politics and government--1893-1897.</geogname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan--Student notebooks.</corpname>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n87816194">Ward, Henry Baldwin, 1865-1945.</persname>
-        <geogname source="lcsh" encodinganalog="651">Washtenaw County (Mich.)</geogname>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n80006284.html">Ypsilanti (Mich.)</geogname>
-        <subject source="lcsh" encodinganalog="650">Women--Michigan--Washtenaw County.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/847">Washtenaw County (Mich.)</geogname>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n80006284.html" ref="/subjects/999">Ypsilanti (Mich.)</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5869">Women--Michigan--Washtenaw County.</subject>
         <famname source="lcnaf" encodinganalog="600">Campbell family.</famname>
-        <geogname source="lcsh" encodinganalog="651">Michigan--Politics and government--1837-1950.</geogname>
-        <geogname source="lcsh" encodinganalog="651">Michigan--Social life and customs--19th century.</geogname>
-        <geogname source="lcsh" encodinganalog="651">Michigan--Social life and customs--20th century.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/884">Michigan--Politics and government--1837-1950.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1302">Michigan--Social life and customs--19th century.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/851">Michigan--Social life and customs--20th century.</geogname>
       </controlaccess>
       <controlaccess>
         <head>Subjects: Visual Materials</head>
         <famname source="lcnaf" encodinganalog="600">Campbell family.</famname>
-        <subject source="lctgm" encodinganalog="650">Carriages and coaches.</subject>
-        <subject source="lctgm" encodinganalog="650">Churches--Michigan--Detroit.</subject>
-        <subject source="lctgm" encodinganalog="650">Churches--Michigan--Ypsilanti.</subject>
-        <subject source="lctgm" encodinganalog="650">Dwellings.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3654">Carriages and coaches.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3724">Churches--Michigan--Detroit.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4012">Churches--Michigan--Ypsilanti.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3994">Dwellings.</subject>
         <corpname source="lcnaf" encodinganalog="610">First Presbyterian Church (Ypsilanti, Mich.)</corpname>
-        <subject source="lctgm" encodinganalog="650">Holidays.</subject>
-        <subject source="lctgm" encodinganalog="650">Interiors.</subject>
-        <geogname source="lcsh" encodinganalog="651">Muskegon (Mich.)</geogname>
-        <subject source="lctgm" encodinganalog="650">Parades and processions.</subject>
-        <subject source="lctgm" encodinganalog="650">Photography.</subject>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n85188836.html">Pinckney (Mich.)</geogname>
-        <subject source="lctgm" encodinganalog="650">Recreation.</subject>
-        <geogname source="lcsh" encodinganalog="651">State Street (Ann Arbor, Mich.)</geogname>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3938">Holidays.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3689">Interiors.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1171">Muskegon (Mich.)</geogname>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3574">Parades and processions.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3941">Photography.</subject>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n85188836.html" ref="/subjects/1199">Pinckney (Mich.)</geogname>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3629">Recreation.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/856">State Street (Ann Arbor, Mich.)</geogname>
         <corpname source="lcnaf" encodinganalog="610">Stone School (Ann Arbor, Mich.)</corpname>
       </controlaccess>
       <controlaccess>
@@ -141,9 +143,9 @@ Campbell family papers, Bentley Historical Library, University of Michigan</p>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="gmgpc" encodinganalog="655">Cyanotypes.</genreform>
-        <genreform source="aat" encodinganalog="655">Diaries.</genreform>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="gmgpc" encodinganalog="655" ref="/subjects/3474">Cyanotypes.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3150">Diaries.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -153,7 +155,7 @@ Campbell family papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [75904596415264674535]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1860/1865">1860-1865</unitdate>
             </unittitle>
@@ -161,7 +163,7 @@ Campbell family papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [75904596415264674535]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1879/1889">1879-1889</unitdate>
             </unittitle>
@@ -169,7 +171,7 @@ Campbell family papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [75904596415264674535]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1896/1897">1896-1897</unitdate>
             </unittitle>
@@ -177,7 +179,7 @@ Campbell family papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [75904596415264674535]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1898">1898</unitdate>
             </unittitle>
@@ -188,7 +190,7 @@ Campbell family papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [75904596415264674535]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1899">1899</unitdate>
             </unittitle>
@@ -196,7 +198,7 @@ Campbell family papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [75904596415264674535]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1900/1903">1900-1903</unitdate>
             </unittitle>
@@ -204,7 +206,7 @@ Campbell family papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [75904596415264674535]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1904">1904</unitdate>
             </unittitle>
@@ -215,7 +217,7 @@ Campbell family papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [75904596415264674535]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1905">1905</unitdate>
             </unittitle>
@@ -223,7 +225,7 @@ Campbell family papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [75904596415264674535]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1906">1906</unitdate>
             </unittitle>
@@ -234,7 +236,7 @@ Campbell family papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [75904596415264674535]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1907">1907</unitdate>
             </unittitle>
@@ -242,7 +244,7 @@ Campbell family papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [75904596415264674535]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1908/1910">1908-1910</unitdate>
             </unittitle>
@@ -250,7 +252,7 @@ Campbell family papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [75904596415264674535]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1911/1919">1911-1919</unitdate>
             </unittitle>
@@ -258,7 +260,7 @@ Campbell family papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [75904596415264674535]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1920/1926">1920-1926</unitdate>
             </unittitle>
@@ -266,7 +268,7 @@ Campbell family papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [75904596415264674535]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1927/1949">1927-1949</unitdate>
             </unittitle>
@@ -274,7 +276,7 @@ Campbell family papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [75904596415264674535]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive">Undated</unitdate>
             </unittitle>
@@ -287,7 +289,7 @@ Campbell family papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [75904596415264674535]" altrender="box">1</container>
             <unittitle><genreform normal="Diaries">Diaries</genreform>, <unitdate type="inclusive" normal="1882/1897">1882-1897</unitdate> (some gaps)</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">12 volumes</extent>
@@ -296,7 +298,7 @@ Campbell family papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [75904596415264674535]" altrender="box">1</container>
             <unittitle>Bank book <unitdate type="inclusive" normal="1892/1907">1892-1907</unitdate></unittitle>
           </did>
         </c02>
@@ -307,8 +309,12 @@ Campbell family papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <unittitle><genreform normal="Diaries">Diary-Account</genreform> books, <unitdate type="inclusive" normal="1892" certainty="approximate">1892</unitdate> <unitdate type="inclusive" normal="1893">1893</unitdate>, <unitdate type="inclusive" normal="1894">1894</unitdate>, <unitdate type="inclusive" normal="1899">1899</unitdate></unittitle>
+            <container type="box" label="Box [75904596415264674535]" altrender="box">1</container>
+            <unittitle><genreform normal="Diaries">Diary-Account</genreform> books</unittitle>
+            <unitdate type="inclusive" normal="1892" certainty="approximate">1892</unitdate>
+            <unitdate type="inclusive" normal="1893">1893</unitdate>
+            <unitdate type="inclusive" normal="1894">1894</unitdate>
+            <unitdate type="inclusive" normal="1899">1899</unitdate>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">4 volumes</extent>
             </physdesc>
@@ -316,7 +322,7 @@ Campbell family papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [7290006423967020]" altrender="box">2</container>
             <unittitle>High school course notes (probably Ann Arbor High School): geometry and chemistry</unittitle>
           </did>
         </c02>
@@ -329,25 +335,25 @@ Campbell family papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [7290006423967020]" altrender="box">2</container>
               <unittitle>Combined volume <unitdate type="inclusive" normal="1891">1891</unitdate>: Botany (V.M. Spalding); Zoology (J.E. Reighard), Zoology (J.B. Steere)</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [7290006423967020]" altrender="box">2</container>
               <unittitle>Biology <unitdate type="inclusive" normal="1893">1893</unitdate>: Zoology (Ward) and Botany (Johnson)</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [7290006423967020]" altrender="box">2</container>
               <unittitle>Political economy (H.C. Adams) <unitdate type="inclusive" normal="1892">1892</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [7290006423967020]" altrender="box">2</container>
               <unittitle>Political philosophy (John Dewey <unitdate type="inclusive" normal="1893">1893</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 volumes</extent>
@@ -356,61 +362,61 @@ Campbell family papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [7290006423967020]" altrender="box">2</container>
               <unittitle>Pedagogy course 1 (B.A. Hinsdale) <unitdate type="inclusive" normal="1892">1892</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [7290006423967020]" altrender="box">2</container>
               <unittitle>Pedagogy 2 <unitdate type="inclusive" normal="1894">1894</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [7290006423967020]" altrender="box">2</container>
               <unittitle>Pedagogy (B.A. Hinsdale) <unitdate type="inclusive" normal="1892">1892</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [7290006423967020]" altrender="box">2</container>
               <unittitle>Pedagogy (Hinsdale) <unitdate type="inclusive" normal="1893">1893</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [7290006423967020]" altrender="box">2</container>
               <unittitle>Political economy 2 (Taylor) <unitdate type="inclusive" normal="1894">1894</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [7290006423967020]" altrender="box">2</container>
               <unittitle>Spanish exercises <unitdate type="inclusive" normal="1892">1892</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [7290006423967020]" altrender="box">2</container>
               <unittitle>Qualitative chemical analysis</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [7290006423967020]" altrender="box">2</container>
               <unittitle>Philosophy (Mead) <unitdate type="inclusive" normal="1893">1893</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [7290006423967020]" altrender="box">2</container>
               <unittitle>Philosophy -- British ethics (Lloyd) <unitdate type="inclusive" normal="1892">1892</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [7290006423967020]" altrender="box">2</container>
               <unittitle>Music course (Stanley)</unittitle>
             </did>
           </c03>
@@ -426,7 +432,7 @@ Campbell family papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [7290006423967020]" altrender="box">2</container>
               <unittitle>Physical laboratory notebooks</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 volumes</extent>
@@ -435,7 +441,7 @@ Campbell family papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [7290006423967020]" altrender="box">2</container>
               <unittitle>Chemical laboratory</unittitle>
             </did>
           </c03>
@@ -446,7 +452,7 @@ Campbell family papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [7290006423967020]" altrender="box">2</container>
               <unittitle>Ann Arbor High School physical laboratory notebooks</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 volumes</extent>
@@ -455,26 +461,26 @@ Campbell family papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [7290006423967020]" altrender="box">2</container>
               <unittitle>Botany</unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [7290006423967020]" altrender="box">2</container>
             <unittitle>Miscellanea</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [7290006423967020]" altrender="box">2</container>
             <unittitle>School essays</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [7290006423967020]" altrender="box">2</container>
             <unittitle>Printed material</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">4 folders</extent>
@@ -483,7 +489,7 @@ Campbell family papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [7290006423967020]" altrender="box">2</container>
             <unittitle>
               <genreform normal="Photographs">Photographs</genreform>
             </unittitle>
@@ -497,7 +503,7 @@ Campbell family papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [7290006423967020]" altrender="box">2</container>
             <unittitle><genreform normal="Diary">Diary</genreform> (unidentified), <unitdate type="inclusive" normal="1946">1946</unitdate></unittitle>
           </did>
         </c02>

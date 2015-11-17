@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>W. Wallace Kent papers, 1954-1973</titleproper>
       <author>Finding aid created by <lb/>Anita L. Morse, May 1990</author>
     </titlepage>
@@ -37,7 +37,9 @@
       <origination>
         <persname source="lcnaf" encodinganalog="100">Kent, W. Wallace (William Wallace), 1916-1973.</persname>
       </origination>
-      <unittitle encodinganalog="245">W. Wallace Kent papers <unitdate type="inclusive" encodinganalog="245$f" normal="1954/1973">1954-1973</unitdate>, <unitdate type="bulk" encodinganalog="245$g" normal="1969/1973">1969-1973</unitdate></unittitle>
+      <unittitle encodinganalog="245">W. Wallace Kent papers</unittitle>
+      <unitdate type="inclusive" encodinganalog="245$f" normal="1954/1973">1954-1973</unitdate>
+      <unitdate type="bulk" encodinganalog="245$g" normal="1969/1973">1969-1973</unitdate>
       <unitid encodinganalog="852$h" repositorycode="MiU-H" countrycode="us" type="call number">85243 Aa 2</unitid>
       <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language></langmaterial>
       <abstract>Kalamazoo, Michigan, attorney; U. S. District Judge, 1954-1970, in the Western District, Michigan; judge U. S. Court of Appeals, 6th Circuit, 1971-1973. Case docket sheets, judges' case files, unpublished opinions, judges' memoranda, Court of Appeals panel reports, Court of Appeals Circuit Council reports; cases relate in part to school desegregation, Indian treaty rights, labor relations, and questions of civil liberties.</abstract>
@@ -82,13 +84,13 @@ W. Wallace Kent papers, Bentley Historical Library, University of Michigan</p>
       <controlaccess>
         <head>Subjects:</head>
         <persname source="lcnaf" encodinganalog="600">Davis, Chandler.</persname>
-        <subject source="lcsh" encodinganalog="650">Freemasonry--Michigan.</subject>
-        <subject source="lcsh" encodinganalog="650">Indians of North America--Treaties.</subject>
-        <subject source="lcsh" encodinganalog="650">Judges--Michigan.</subject>
-        <geogname source="lcsh" encodinganalog="651">Kalamazoo (Mich.)</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6061">Freemasonry--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/8643">Indians of North America--Treaties.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5732">Judges--Michigan.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/980">Kalamazoo (Mich.)</geogname>
         <persname source="lcnaf" encodinganalog="600">Kent, W. Wallace (William Wallace), 1916-1973.</persname>
-        <subject source="lcsh" encodinganalog="650">Law.</subject>
-        <subject source="lcsh" encodinganalog="650">School integration--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5825">Law.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/8644">School integration--Michigan.</subject>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n80097979">United States. Court of Appeals (6th Circuit)</corpname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/no98083658">United States. District Court (Michigan : Western District)</corpname>
       </controlaccess>
@@ -107,38 +109,38 @@ W. Wallace Kent papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [0045784887161382508340]" altrender="box">1</container>
               <unittitle>Civil Docket Sheets</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [46020136473888457856]" altrender="box">2</container>
               <unittitle>Civil Docket Sheets (cont.)</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [46020136473888457856]" altrender="box">2</container>
               <unittitle>Criminal Docket Sheets</unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [46020136473888457856]" altrender="box">2</container>
             <unittitle>Alphabetical Index Cards</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [46020136473888457856]" altrender="box">2</container>
             <unittitle>Docket Number Index Cards</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [46020136473888457856]" altrender="box">2</container>
             <unittitle>Biographical Sketch and photograph (Kent)</unittitle>
           </did>
         </c02>
@@ -156,55 +158,55 @@ W. Wallace Kent papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [11069515488282551122]" altrender="box">3</container>
               <unittitle>Civil Docket, Cases 7-59</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [5195595554568010193349]" altrender="box">4</container>
               <unittitle>Civil Docket, Cases 101-499</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [660500188148540441356088]" altrender="box">5</container>
               <unittitle>Civil Docket, Cases 805-1122</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [8523522964450688507329]" altrender="box">6</container>
               <unittitle>Civil Docket, Cases 1120-1222</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">7</container>
+              <container type="box" label="Box [13622811410975377244]" altrender="box">7</container>
               <unittitle>Civil Docket, Cases 1224-1338</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">8</container>
+              <container type="box" label="Box [418406345878524411535]" altrender="box">8</container>
               <unittitle>Civil Docket, Cases 1343-2077</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">9</container>
+              <container type="box" label="Box [59195715441185275795613]" altrender="box">9</container>
               <unittitle>Civil Docket, Cases 5403/4-5876</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">10</container>
+              <container type="box" label="Box [76391704967548999763]" altrender="box">10</container>
               <unittitle>Three Judge Courts</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">10</container>
+              <container type="box" label="Box [76391704967548999763]" altrender="box">10</container>
               <unittitle>Criminal Docket</unittitle>
             </did>
           </c03>
@@ -223,78 +225,78 @@ W. Wallace Kent papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">11</container>
+              <container type="box" label="Box [256674255224746069400355156]" altrender="box">11</container>
               <unittitle>Three Judge Court Proceedings</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">12</container>
+              <container type="box" label="Box [481224818223787388851]" altrender="box">12</container>
               <unittitle>Three Judge Court Proceedings</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">13</container>
+              <container type="box" label="Box [47126118344869961043049]" altrender="box">13</container>
               <unittitle>Panel Reports <unitdate type="inclusive" normal="1971/1973">1971-1973</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">14</container>
+              <container type="box" label="Box [27490294989999443228]" altrender="box">14</container>
               <unittitle>Panel Reports <unitdate type="inclusive" normal="1973">1973</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">14</container>
+              <container type="box" label="Box [27490294989999443228]" altrender="box">14</container>
               <unittitle>Special Panels</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">14</container>
+              <container type="box" label="Box [27490294989999443228]" altrender="box">14</container>
               <unittitle>Unpublished Opinions and Orders (Kent)</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">14</container>
+              <container type="box" label="Box [27490294989999443228]" altrender="box">14</container>
               <unittitle>Circuit Council Meetings</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">15</container>
+              <container type="box" label="Box [9166470848914118]" altrender="box">15</container>
               <unittitle>Hearing Memoranda, Orders, and Opinions <unitdate type="inclusive" normal="1971-12/1972-04">December 1971-April 1972</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">16</container>
+              <container type="box" label="Box [771436754320105797758]" altrender="box">16</container>
               <unittitle>Hearing Memoranda, Orders, and Opinions</unittitle>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">16</container>
+                <container type="box" label="Box [771436754320105797758]" altrender="box">16</container>
                 <unittitle>20,761-20,762</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">17</container>
+                <container type="box" label="Box [141274782338960619]" altrender="box">17</container>
                 <unittitle>71-1,000; 21,001-71-1001 20,725-21,000; 18,000-20,724; 20,692-</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">18</container>
+                <container type="box" label="Box [1423444189033921661]" altrender="box">18</container>
                 <unittitle>72-1800-; 72-1450-; 72-(); 72-1450 71-1800 71-1600 71-1000-; 72-1078-</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">19</container>
+                <container type="box" label="Box [34705878478689717062]" altrender="box">19</container>
                 <unittitle>K Panels; 71-1105-; 71-1220-;71-1415-</unittitle>
               </did>
             </c04>

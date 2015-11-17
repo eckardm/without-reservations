@@ -38,7 +38,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding Aid for <lb/>James B. Sibley papers, <date>1918-1919.</date></titleproper>
       <author>Finding aid prepared by: <lb/>Len Coombs</author>
     </titlepage>
@@ -87,20 +87,20 @@
       <controlaccess>
         <head>Subjects</head>
         <persname source="lcnaf" encodinganalog="600">Sibley, James B.</persname>
-        <geogname source="lcsh" encodinganalog="651">Soviet Union--History--Allied intervention, 1918-1920.</geogname>
-        <subject source="lcsh" encodinganalog="650">World War, 1914-1918.</subject>
-        <subject source="local" encodinganalog="690" authfilenumber="http://id.loc.gov/authorities/names/n2008059426">Polar Bear Expedition.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/883">Soviet Union--History--Allied intervention, 1918-1920.</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5712">World War, 1914-1918.</subject>
+        <subject source="local" encodinganalog="690" authfilenumber="http://id.loc.gov/authorities/names/n2008059426" ref="/subjects/3518">Polar Bear Expedition.</subject>
       </controlaccess>
       <controlaccess>
         <head>Genre/Form:</head>
-        <genreform source="aat" encodinganalog="655">Diaries.</genreform>
-        <genreform source="aat" encodinganalog="655">Artifacts.</genreform>
-        <genreform source="aat" encodinganalog="655">Dog tags.</genreform>
-        <genreform source="aat" encodinganalog="655">Garrison caps.</genreform>
-        <genreform source="aat" encodinganalog="655">Helmets.</genreform>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
-        <genreform source="aat" encodinganalog="655">Shells (ammunition)</genreform>
-        <genreform source="aat" encodinganalog="655">Trench art.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3150">Diaries.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3265">Artifacts.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3184">Dog tags.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3366">Garrison caps.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3367">Helmets.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3368">Shells (ammunition)</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3369">Trench art.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -110,7 +110,7 @@
         </did>
         <c02 level="file">
           <did>
-            <container type="folder" label="Folder">1</container>
+            <container type="folder" label="Folder [799602291402929026534094675]" altrender="folder">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1918/1919">1918-1919</unitdate>
             </unittitle>
@@ -129,7 +129,7 @@
         </did>
         <c02 level="file">
           <did>
-            <container type="folder" label="Folder">2</container>
+            <container type="folder" label="Folder [448106842585561914065]" altrender="folder">2</container>
             <unittitle>Photographs</unittitle>
           </did>
           <odd>
@@ -146,7 +146,7 @@
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6490086472910335551656]" altrender="box">1</container>
             <unittitle>Shell casing trench art (75 mm), 37 mm shell, VFW Post 436 cap, and uniform insignia</unittitle>
           </did>
           <odd>
@@ -155,7 +155,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [34669942439791927810]" altrender="box">2</container>
             <unittitle>Helmet</unittitle>
           </did>
           <odd>

@@ -47,7 +47,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding Aid for <lb/>Merrill M. Flood Papers, <date>1930-1991</date></titleproper>
       <author>Finding aid prepared by <lb/>Christopher A. Peters, 1997</author>
     </titlepage>
@@ -57,7 +57,9 @@
       <origination>
         <persname source="lcnaf">Flood, Merrill Meeks, 1908-</persname>
       </origination>
-      <unittitle encodinganalog="245">Merrill M. Flood Papers <unitdate type="inclusive" encodinganalog="245$f" normal="1930/1991">1930-1991</unitdate>, <unitdate type="bulk" normal="1943/1990">1943-1990</unitdate></unittitle>
+      <unittitle encodinganalog="245">Merrill M. Flood Papers</unittitle>
+      <unitdate type="inclusive" encodinganalog="245$f" normal="1930/1991">1930-1991</unitdate>
+      <unitdate type="bulk" normal="1943/1990">1943-1990</unitdate>
       <unitid label="Call No." encodinganalog="099" type="call number">9757 Aa 2</unitid>
       <langmaterial>The materials are in <language encodinganalog="041" langcode="eng">English.</language></langmaterial>
       <abstract>Mathematician, student of John Von Neumann, specializing in applied mathematics and game theory and decision making theory, director of several research laboratories, including Willow Run at the University of Michigan. Papers include, research notes, publications, correspondence and other material relating to his research and professional activities.</abstract>
@@ -117,12 +119,12 @@
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n83029012">University of Michigan. Mental Health Research Institute.</corpname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan. Faculty Research Program on University Governance.</corpname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n78083407">Rand Corporation.</corpname>
-        <subject source="lcsh" encodinganalog="650">Organization--Research.</subject>
-        <subject source="lcsh" encodinganalog="650">Decision-making, Group.</subject>
-        <subject source="lcsh" encodinganalog="650">Aerial observation (Military Science)</subject>
-        <subject source="lcsh" encodinganalog="650">Game theory.</subject>
-        <subject source="lcsh" encodinganalog="650">Aerial photogrammetry.</subject>
-        <subject source="lcsh" encodinganalog="650">Operations research.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7069">Organization--Research.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7788">Decision-making, Group.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7789">Aerial observation (Military Science)</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7790">Game theory.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7791">Aerial photogrammetry.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7792">Operations research.</subject>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -135,7 +137,7 @@
         </scopecontent>
         <c02 level="file">
           <did>
-            <container label="Box" type="box">1</container>
+            <container label="Box [47311241916603553321]" type="box" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1959/1991">1959-1991</unitdate>
             </unittitle>
@@ -151,19 +153,19 @@
         </scopecontent>
         <c02 level="file">
           <did>
-            <container label="Box" type="box">1</container>
+            <container label="Box [47311241916603553321]" type="box" altrender="box">1</container>
             <unittitle><persname>Mendel, Clifford</persname>, <unitdate type="inclusive" normal="1938/1946">1938-1946</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [47311241916603553321]" altrender="box">1</container>
             <unittitle><subject>Classes</subject>, <unitdate type="inclusive" normal="1942/1946">1942-1946</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [47311241916603553321]" altrender="box">1</container>
             <unittitle><persname>Leon, Alberto</persname>, <unitdate type="inclusive" normal="1963">1963</unitdate></unittitle>
           </did>
         </c02>
@@ -173,7 +175,7 @@
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [47311241916603553321]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1947/1987">1947-1987</unitdate>
               </unittitle>
@@ -184,7 +186,7 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [47311241916603553321]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1987/1990">1987-1990</unitdate>
               </unittitle>
@@ -201,7 +203,7 @@
         </scopecontent>
         <c02 level="file">
           <did>
-            <container label="Box" type="box">1</container>
+            <container label="Box [47311241916603553321]" type="box" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1937/1984">1937-1984, n.d.</unitdate>
             </unittitle>
@@ -218,163 +220,163 @@
         </scopecontent>
         <c02 level="file">
           <did>
-            <container label="Box" type="box">1</container>
+            <container label="Box [47311241916603553321]" type="box" altrender="box">1</container>
             <unittitle>"Forms of Primes Having a Given Number As a Quadratic Resolution" (University of Nebraska Master's Thesis) <unitdate type="inclusive" normal="1930">1930</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [47311241916603553321]" altrender="box">1</container>
             <unittitle>"Measuring Local Government" <unitdate type="inclusive" normal="1937">1937</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [47311241916603553321]" altrender="box">1</container>
             <unittitle>"Winning Games of Chance" <unitdate type="inclusive" normal="1939">1939</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [47311241916603553321]" altrender="box">1</container>
             <unittitle>"Semi-Annual Reports to Aero Service Corporation" <unitdate type="inclusive" normal="1943">1943</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [47311241916603553321]" altrender="box">1</container>
             <unittitle>Report to American Geographical Society on Miller Stereoscopic Mapping Instrument <unitdate normal="1943">1943</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [47311241916603553321]" altrender="box">1</container>
             <unittitle>Reports to National Defense Research Committee on Optical Instruments and Aerial Surveillance <unitdate normal="1943/1944">1943-44</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [47311241916603553321]" altrender="box">1</container>
             <unittitle>Progress Reports to <corpname>National Defense Research Committee</corpname>, <unitdate type="inclusive" normal="1943/1945">1943-1945</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [47311241916603553321]" altrender="box">1</container>
             <unittitle>"Mapping Studies" <unitdate type="inclusive" normal="1943/1944">1943-1944</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [47311241916603553321]" altrender="box">1</container>
             <unittitle>Report on Pacific Fleet Conditions Regarding Photogrammetric Equipment <unitdate type="inclusive" normal="1944">1944</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [47311241916603553321]" altrender="box">1</container>
             <unittitle>Memorandum to Harvard School of Education <unitdate type="inclusive" normal="1946">1946</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [47311241916603553321]" altrender="box">1</container>
             <unittitle>"Preference Experiment Papers" (RAND) <unitdate type="inclusive" normal="1951">1951</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [47311241916603553321]" altrender="box">1</container>
             <unittitle>"Some Experimental Games" (RAND) <unitdate type="inclusive" normal="1952">1952</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [47311241916603553321]" altrender="box">1</container>
             <unittitle>"Aerial Bombing Tactics: General Considerations" (RAND) <unitdate type="inclusive" normal="1952">1952</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [47311241916603553321]" altrender="box">1</container>
             <unittitle>"The Influence of Environmental Non-Stationary in a Sequential Decision-Making Experiment" (RAND) <unitdate type="inclusive" normal="1952">1952</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [47311241916603553321]" altrender="box">1</container>
             <unittitle>"On Game-Learning Theory and Some Decision-Making Experiments" (RAND) <unitdate type="inclusive" normal="1952">1952</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [47311241916603553321]" altrender="box">1</container>
             <unittitle>Minutes of University Seminar on Labor <unitdate type="inclusive" normal="1955">1955</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [47311241916603553321]" altrender="box">1</container>
             <unittitle>Presidential Address at Meeting of the <corpname>Institute for Management Sciences</corpname>, <unitdate type="inclusive" normal="1955">1955</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [47311241916603553321]" altrender="box">1</container>
             <unittitle>"New Mathematical Tools for Decision-Making" <unitdate type="inclusive" normal="1956">1956</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [47311241916603553321]" altrender="box">1</container>
             <unittitle>Seven Reports, on Learning Models, Adaptive Systems, and Information Networks, from the Mental Health Research Institute <unitdate type="inclusive" normal="1959/1967">1959-1967</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [47311241916603553321]" altrender="box">1</container>
             <unittitle>"A Group Interaction Experiment" <unitdate type="inclusive" normal="1963">1963</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [47311241916603553321]" altrender="box">1</container>
             <unittitle>Report for Communications Workers of America on Public Broadcasting <unitdate type="inclusive" normal="1967">1967</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [47311241916603553321]" altrender="box">1</container>
             <unittitle>"Information System Value" <unitdate type="inclusive" normal="1967">1967</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [47311241916603553321]" altrender="box">1</container>
             <unittitle>"Optimization of Steady State Pipeline Networks" <unitdate type="inclusive" normal="1973">1973</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [47311241916603553321]" altrender="box">1</container>
             <unittitle>Six Working Papers and Related Correspondence, on Decision-Making Models, from the Faculty Research Program on University Governance <unitdate type="inclusive" normal="1974/1981">1974-1981, n.d.</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [47311241916603553321]" altrender="box">1</container>
             <unittitle>"Game-by-Game Predictions in Chess Matches" <unitdate type="inclusive" normal="1980" certainty="approximate">circa 1980</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [47311241916603553321]" altrender="box">1</container>
             <unittitle>Miscellaneous Reports on Decision-Making and Organization Theory <unitdate>Undated</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [47311241916603553321]" altrender="box">1</container>
             <unittitle>"Some Problems in the Analysis of Consecutive Measurements" <unitdate>Undated</unitdate></unittitle>
           </did>
         </c02>
@@ -388,7 +390,7 @@
         </scopecontent>
         <c02 level="file">
           <did>
-            <container label="Box" type="box">1</container>
+            <container label="Box [47311241916603553321]" type="box" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1929/1967">1929-1967</unitdate>
             </unittitle>

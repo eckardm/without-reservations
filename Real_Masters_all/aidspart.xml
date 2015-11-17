@@ -30,7 +30,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>AIDS Partnership Michigan Records, 1983-2005</titleproper>
       <author>Finding aid created by <lb/>Adriane Hanson, May 2005</author>
     </titlepage>
@@ -84,9 +84,9 @@ AIDS Partnership Michigan Records
         <head>Subjects:</head>
         <corpname source="lcnaf" encodinganalog="610">AIDS Partnership Michigan.</corpname>
         <corpname source="lcnaf" encodinganalog="610">AIDS Care Connection.</corpname>
-        <subject source="lcsh" encodinganalog="650">AIDS (Disease)--Michigan.</subject>
-        <subject source="lcsh" encodinganalog="650">AIDS (Disease)--Patients--Services for.</subject>
-        <subject source="lcsh" encodinganalog="650">HIV-positive persons--Services for.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5762">AIDS (Disease)--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5763">AIDS (Disease)--Patients--Services for.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5764">HIV-positive persons--Services for.</subject>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/no91004755">Wellness Networks (Organization)</corpname>
       </controlaccess>
       <controlaccess>
@@ -108,7 +108,7 @@ AIDS Partnership Michigan Records
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [9324219740860019201505]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1983/1986-05">1983-May 1986</unitdate>
               </unittitle>
@@ -119,7 +119,7 @@ AIDS Partnership Michigan Records
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [0780066482897435061]" altrender="box">2</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1986/1988">June 1986-1988</unitdate>
               </unittitle>
@@ -130,7 +130,7 @@ AIDS Partnership Michigan Records
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [77108920045081614949516]" altrender="box">3</container>
               <unittitle>1989-March 1996</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">12 folders</extent>
@@ -140,13 +140,15 @@ AIDS Partnership Michigan Records
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
-            <unittitle>Educational Pamphlets <unitdate type="inclusive" normal="1991">1991</unitdate>, <unitdate type="inclusive" normal="1994">1994</unitdate></unittitle>
+            <container type="box" label="Box [77108920045081614949516]" altrender="box">3</container>
+            <unittitle>Educational Pamphlets</unittitle>
+            <unitdate type="inclusive" normal="1991">1991</unitdate>
+            <unitdate type="inclusive" normal="1994">1994</unitdate>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [77108920045081614949516]" altrender="box">3</container>
             <unittitle>Financial Reports <unitdate type="inclusive" normal="1991/1995">1991-1995</unitdate></unittitle>
           </did>
         </c02>
@@ -160,25 +162,25 @@ AIDS Partnership Michigan Records
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [77108920045081614949516]" altrender="box">3</container>
             <unittitle>Annual Reports <unitdate type="inclusive" normal="1997/2003">1997-2003</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [77108920045081614949516]" altrender="box">3</container>
             <unittitle>Board and Committee Meeting Minutes, April 1996-June 1997</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [77108920045081614949516]" altrender="box">3</container>
             <unittitle>Educational Advertisements and Pamphlets</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [77108920045081614949516]" altrender="box">3</container>
             <unittitle>Financial Reports <unitdate type="inclusive" normal="1996/2004">1996-2004</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -187,19 +189,19 @@ AIDS Partnership Michigan Records
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [77108920045081614949516]" altrender="box">3</container>
             <unittitle>Fundraising Gala Programs <unitdate type="inclusive" normal="2000/2004">2000-2004</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [77108920045081614949516]" altrender="box">3</container>
             <unittitle>Strategic Plans <unitdate type="inclusive" normal="1999/2005">1999-2005</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [77108920045081614949516]" altrender="box">3</container>
             <unittitle>25th Anniversary Gala <unitdate type="inclusive" normal="2008">2008</unitdate></unittitle>
           </did>
           <odd>

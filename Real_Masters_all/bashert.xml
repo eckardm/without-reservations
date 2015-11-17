@@ -30,7 +30,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Beth Bashert Papers, 1988-2010</titleproper>
       <author>Finding aid created by <lb/>Mary Kenney, October 2004 <lb/>Olga Virakhovskaya, June 2014</author>
     </titlepage>
@@ -93,12 +93,12 @@ Beth Bashert Papers, Bentley Historical Library, University of Michigan</p>
       <controlaccess>
         <head>Subjects:</head>
         <persname source="lcnaf" encodinganalog="600">Bashert, Beth.</persname>
-        <subject source="lcsh" encodinganalog="650">Gays--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5744">Gays--Michigan.</subject>
         <corpname source="lcnaf" encodinganalog="610">Campaign for Equality (Organization)</corpname>
-        <subject source="lcsh" encodinganalog="650">Lesbians--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5743">Lesbians--Michigan.</subject>
         <corpname source="lcnaf" encodinganalog="610">Michigan Equality (Organization)</corpname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n82125269">National Abortion and Reproductive Rights Action League.</corpname>
-        <geogname source="lcsh" encodinganalog="651">Ypsilanti (Mich.)--Politics and government.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1012">Ypsilanti (Mich.)--Politics and government.</geogname>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -111,7 +111,7 @@ Beth Bashert Papers, Bentley Historical Library, University of Michigan</p>
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [876977248879625570805]" altrender="box">1</container>
             <unittitle>Rape Project <unitdate type="inclusive" normal="1988">1988</unitdate></unittitle>
             <physdesc altrender="part">
               <extent altrender="materialtype spaceoccupied">1 folders</extent>
@@ -123,7 +123,7 @@ Beth Bashert Papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [876977248879625570805]" altrender="box">1</container>
             <unittitle>Washtenaw Rainbow Action Project <unitdate type="inclusive" normal="1996">1996</unitdate></unittitle>
           </did>
         </c02>
@@ -133,13 +133,13 @@ Beth Bashert Papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [876977248879625570805]" altrender="box">1</container>
               <unittitle>Business Plan</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [876977248879625570805]" altrender="box">1</container>
               <unittitle>Floor Plan</unittitle>
             </did>
           </c03>
@@ -149,7 +149,7 @@ Beth Bashert Papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [876977248879625570805]" altrender="box">1</container>
                 <unittitle>Correspondence</unittitle>
               </did>
             </c04>
@@ -159,33 +159,33 @@ Beth Bashert Papers, Bentley Historical Library, University of Michigan</p>
               </did>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">1</container>
+                  <container type="box" label="Box [876977248879625570805]" altrender="box">1</container>
                   <unittitle>Legal papers</unittitle>
                 </did>
               </c05>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">1</container>
+                  <container type="box" label="Box [876977248879625570805]" altrender="box">1</container>
                   <unittitle>Product</unittitle>
                 </did>
               </c05>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [876977248879625570805]" altrender="box">1</container>
                 <unittitle>Real Estate Purchase</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [876977248879625570805]" altrender="box">1</container>
                 <unittitle>When Pigs Fly DBA <unitdate type="inclusive" normal="1995">1995</unitdate></unittitle>
               </did>
             </c04>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [876977248879625570805]" altrender="box">1</container>
               <unittitle>Programming</unittitle>
             </did>
           </c03>
@@ -196,7 +196,7 @@ Beth Bashert Papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [876977248879625570805]" altrender="box">1</container>
               <unittitle>Citizens for Community <unitdate type="inclusive" normal="1997">1997</unitdate></unittitle>
             </did>
           </c03>
@@ -206,26 +206,30 @@ Beth Bashert Papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
-                <unittitle>Campaign Strategy <unitdate type="inclusive" normal="1998">1998</unitdate>, <unitdate type="inclusive" normal="2001">2001</unitdate></unittitle>
+                <container type="box" label="Box [876977248879625570805]" altrender="box">1</container>
+                <unittitle>Campaign Strategy</unittitle>
+                <unitdate type="inclusive" normal="1998">1998</unitdate>
+                <unitdate type="inclusive" normal="2001">2001</unitdate>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [876977248879625570805]" altrender="box">1</container>
                 <unittitle>Correspondence</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [876977248879625570805]" altrender="box">1</container>
                 <unittitle>Financial Report</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
-                <unittitle>Fund Raising State Filing <unitdate type="inclusive" normal="1998">1998</unitdate>, <unitdate type="inclusive" normal="2001">2001</unitdate></unittitle>
+                <container type="box" label="Box [876977248879625570805]" altrender="box">1</container>
+                <unittitle>Fund Raising State Filing</unittitle>
+                <unitdate type="inclusive" normal="1998">1998</unitdate>
+                <unitdate type="inclusive" normal="2001">2001</unitdate>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">2 folders</extent>
                 </physdesc>
@@ -233,19 +237,19 @@ Beth Bashert Papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [876977248879625570805]" altrender="box">1</container>
                 <unittitle>Minutes</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [876977248879625570805]" altrender="box">1</container>
                 <unittitle>Press Releases/Media List</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [876977248879625570805]" altrender="box">1</container>
                 <unittitle>Publicity/Clippings</unittitle>
               </did>
             </c04>
@@ -257,20 +261,20 @@ Beth Bashert Papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [876977248879625570805]" altrender="box">1</container>
               <unittitle>Clippings</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [876977248879625570805]" altrender="box">1</container>
               <unittitle>Organizational</unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [876977248879625570805]" altrender="box">1</container>
             <unittitle>Shelter Association of Washtenaw County <unitdate type="inclusive" normal="2002/2003">2002-2003</unitdate></unittitle>
           </did>
         </c02>
@@ -288,7 +292,7 @@ Beth Bashert Papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [876977248879625570805]" altrender="box">1</container>
               <unittitle>Choice for America</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">6 folders</extent>
@@ -297,7 +301,7 @@ Beth Bashert Papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [876977248879625570805]" altrender="box">1</container>
               <unittitle>Crisis Pregnancy Centers</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -307,7 +311,7 @@ Beth Bashert Papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [7773574236480754]" altrender="box">2</container>
             <unittitle>Michigan Equality</unittitle>
           </did>
           <c03 level="file">
@@ -316,13 +320,13 @@ Beth Bashert Papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [7773574236480754]" altrender="box">2</container>
                 <unittitle>Board</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [7773574236480754]" altrender="box">2</container>
                 <unittitle>Board Note Books</unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">1 volumes</extent>
@@ -331,19 +335,19 @@ Beth Bashert Papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [7773574236480754]" altrender="box">2</container>
                 <unittitle>Budget</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [7773574236480754]" altrender="box">2</container>
                 <unittitle>Correspondence</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [7773574236480754]" altrender="box">2</container>
                 <unittitle>Minutes</unittitle>
               </did>
             </c04>
@@ -358,13 +362,13 @@ Beth Bashert Papers, Bentley Historical Library, University of Michigan</p>
               </did>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">2</container>
+                  <container type="box" label="Box [7773574236480754]" altrender="box">2</container>
                   <unittitle>Human Rights Campaign</unittitle>
                 </did>
               </c05>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">2</container>
+                  <container type="box" label="Box [7773574236480754]" altrender="box">2</container>
                   <unittitle>Voter Identification</unittitle>
                 </did>
               </c05>
@@ -375,44 +379,44 @@ Beth Bashert Papers, Bentley Historical Library, University of Michigan</p>
               </did>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">2</container>
+                  <container type="box" label="Box [7773574236480754]" altrender="box">2</container>
                   <unittitle>Grand Ledge</unittitle>
                 </did>
               </c05>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">2</container>
+                  <container type="box" label="Box [7773574236480754]" altrender="box">2</container>
                   <unittitle>Huntington Woods</unittitle>
                 </did>
               </c05>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">2</container>
+                  <container type="box" label="Box [7773574236480754]" altrender="box">2</container>
                   <unittitle>Kalamazoo</unittitle>
                 </did>
               </c05>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">2</container>
+                  <container type="box" label="Box [7773574236480754]" altrender="box">2</container>
                   <unittitle>Royal Oak</unittitle>
                 </did>
               </c05>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">2</container>
+                  <container type="box" label="Box [7773574236480754]" altrender="box">2</container>
                   <unittitle>Traverse City</unittitle>
                 </did>
               </c05>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [7773574236480754]" altrender="box">2</container>
                 <unittitle>Year in Review <unitdate type="inclusive" normal="2001">2001</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [7773574236480754]" altrender="box">2</container>
                 <unittitle><title render="italic">Gay Rights at the Ballot Box</title> by Amy L. Stone</unittitle>
               </did>
             </c04>
@@ -423,19 +427,19 @@ Beth Bashert Papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [7773574236480754]" altrender="box">2</container>
                 <unittitle>American Family Association</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [7773574236480754]" altrender="box">2</container>
                 <unittitle>Charter Amendment for Public Transit <unitdate type="inclusive" normal="2010">2010</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [7773574236480754]" altrender="box">2</container>
                 <unittitle>Pride PAC</unittitle>
               </did>
             </c04>
@@ -446,7 +450,7 @@ Beth Bashert Papers, Bentley Historical Library, University of Michigan</p>
                 <physdesc>
                   <physfacet>.ZIP file</physfacet>
                 </physdesc>
-                <dao href="http://hdl.handle.net/2027.42/107975" show="new" actuate="onrequest">
+                <dao href="http://hdl.handle.net/2027.42/107975" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/1407">
                   <daodesc>
                     <p>[download item]</p>
                   </daodesc>

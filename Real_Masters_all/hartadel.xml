@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Adelaide J. Hart papers, 1948-1980, 1995</titleproper>
       <author>Finding aid created by <lb/>Thomas E. Powers, February 1991</author>
     </titlepage>
@@ -37,7 +37,10 @@
       <origination>
         <persname source="lcnaf" encodinganalog="100">Hart, Adelaide J., 1900-1995</persname>
       </origination>
-      <unittitle encodinganalog="245">Adelaide J. Hart papers <unitdate type="inclusive" encodinganalog="245$f" normal="1948/1980">1948-1980</unitdate>, <unitdate type="inclusive" encodinganalog="245$f" normal="1995">1995</unitdate>, <unitdate type="bulk" encodinganalog="245$g" normal="1948/1970">1948-1970</unitdate></unittitle>
+      <unittitle encodinganalog="245">Adelaide J. Hart papers</unittitle>
+      <unitdate type="inclusive" encodinganalog="245$f" normal="1948/1980">1948-1980</unitdate>
+      <unitdate type="inclusive" encodinganalog="245$f" normal="1995">1995</unitdate>
+      <unitdate type="bulk" encodinganalog="245$g" normal="1948/1970">1948-1970</unitdate>
       <unitid encodinganalog="852$h" repositorycode="MiU-H" countrycode="us" type="call number">851450 Aa 2</unitid>
       <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language></langmaterial>
       <abstract>Vice chairman of the Democratic Party State Central Committee, primarily during the gubernatorial administration of G. Mennen Williams. Office files concerning party conventions, election issues, and the work of the state central committee, particularly the role of women in the party and the Women for Humphrey organization during the election of 1968; and scrapbooks and photographs.</abstract>
@@ -86,15 +89,15 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n94090783">Democratic Party (Mich.). State Central Committee.</corpname>
         <persname source="lcnaf" encodinganalog="600">Hart, Adelaide, 1900-</persname>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n79026910">Humphrey, Hubert H. (Hubert Horatio), 1911-1978.</persname>
-        <geogname source="local" encodinganalog="691">Michigan--Politics and government--1946-1960.</geogname>
-        <geogname source="local" encodinganalog="691">Michigan--Politics and government--1961-1970.</geogname>
-        <subject source="lcsh" encodinganalog="650">Presidents--United States--Election--1968.</subject>
-        <geogname source="lcsh" encodinganalog="651">United States--Politics and government--1963-1969.</geogname>
+        <geogname source="local" encodinganalog="691" ref="/subjects/809">Michigan--Politics and government--1946-1960.</geogname>
+        <geogname source="local" encodinganalog="691" ref="/subjects/810">Michigan--Politics and government--1961-1970.</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6617">Presidents--United States--Election--1968.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/942">United States--Politics and government--1963-1969.</geogname>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n80084463">Williams, G. Mennen, 1911-1988.</persname>
         <corpname source="lcnaf" encodinganalog="610">Women for Humphrey.</corpname>
-        <subject source="lcsh" encodinganalog="650">Women in politics--Michigan.</subject>
-        <subject source="lcsh" encodinganalog="650">Women--Michigan--Societies and clubs.</subject>
-        <geogname source="lcsh" encodinganalog="651">Michigan--Politics and government--1951-</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5735">Women in politics--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6649">Women--Michigan--Societies and clubs.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/910">Michigan--Politics and government--1951-</geogname>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Materials:</head>
@@ -102,16 +105,16 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n83163731">Democratic Party (Mich.)</corpname>
         <persname source="lcnaf" encodinganalog="600">Hart, Adelaide, 1900-</persname>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n79055297">Kennedy, John F. (John Fitzgerald), 1917-1963.</persname>
-        <subject source="lctgm" encodinganalog="650">Political elections.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4117">Political elections.</subject>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/nr89001910">Staebler, Neil, 1905-2000</persname>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n79029742">Truman, Harry S., 1884-1972.</persname>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n80084463">Williams, G. Mennen, 1911-1988.</persname>
-        <subject source="lctgm" encodinganalog="650">Women.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3619">Women.</subject>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
-        <genreform source="aat" encodinganalog="655">Scrapbooks.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3139">Scrapbooks.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -121,7 +124,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [66515543590023612]" altrender="box">1</container>
             <unittitle>Clippings and miscellaneous</unittitle>
           </did>
           <odd>
@@ -135,7 +138,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [66515543590023612]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1952">1952</unitdate>
             </unittitle>
@@ -143,7 +146,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [66515543590023612]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1956">1956</unitdate>
             </unittitle>
@@ -154,7 +157,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [66515543590023612]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1960">1960</unitdate>
             </unittitle>
@@ -165,7 +168,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [66515543590023612]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1964">1964</unitdate>
             </unittitle>
@@ -176,7 +179,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [66515543590023612]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1968">1968</unitdate>
             </unittitle>
@@ -192,7 +195,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [66515543590023612]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1952/1954">1952-1954</unitdate>
             </unittitle>
@@ -200,7 +203,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [66515543590023612]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1955">1955</unitdate>
             </unittitle>
@@ -208,7 +211,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [66515543590023612]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1955">1955</unitdate>
             </unittitle>
@@ -216,7 +219,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [66515543590023612]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1956">1956</unitdate>
             </unittitle>
@@ -224,7 +227,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [66515543590023612]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1957">1957</unitdate>
             </unittitle>
@@ -232,7 +235,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [66515543590023612]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1958">1958</unitdate>
             </unittitle>
@@ -243,7 +246,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [66515543590023612]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1959">1959</unitdate>
             </unittitle>
@@ -254,7 +257,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [66515543590023612]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1960">1960</unitdate>
             </unittitle>
@@ -265,7 +268,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [66515543590023612]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1961">1961</unitdate>
             </unittitle>
@@ -276,7 +279,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [66515543590023612]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1962">1962</unitdate>
             </unittitle>
@@ -284,7 +287,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [66515543590023612]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1963">1963</unitdate>
             </unittitle>
@@ -292,7 +295,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [66515543590023612]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1966">1966</unitdate>
             </unittitle>
@@ -300,7 +303,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [66515543590023612]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1967">1967</unitdate>
             </unittitle>
@@ -311,7 +314,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [66515543590023612]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1968">1968</unitdate>
             </unittitle>
@@ -319,7 +322,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [66515543590023612]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1969">1969</unitdate>
             </unittitle>
@@ -332,7 +335,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [6490084540475084563623]" altrender="box">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1948">1948</unitdate>
             </unittitle>
@@ -340,13 +343,13 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [6490084540475084563623]" altrender="box">2</container>
             <unittitle><unitdate type="inclusive" normal="1949">1949</unitdate> (Detroit mayoralty)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [6490084540475084563623]" altrender="box">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1950">1950</unitdate>
             </unittitle>
@@ -357,7 +360,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [6490084540475084563623]" altrender="box">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1952">1952</unitdate>
             </unittitle>
@@ -368,7 +371,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [6490084540475084563623]" altrender="box">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1953">1953</unitdate>
             </unittitle>
@@ -376,7 +379,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [6490084540475084563623]" altrender="box">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1954">1954</unitdate>
             </unittitle>
@@ -387,7 +390,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [6490084540475084563623]" altrender="box">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1955">1955</unitdate>
             </unittitle>
@@ -398,7 +401,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [6490084540475084563623]" altrender="box">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1956">1956</unitdate>
             </unittitle>
@@ -409,7 +412,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [6490084540475084563623]" altrender="box">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1957">1957</unitdate>
             </unittitle>
@@ -417,7 +420,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [6490084540475084563623]" altrender="box">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1958">1958</unitdate>
             </unittitle>
@@ -428,7 +431,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [6490084540475084563623]" altrender="box">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1959">1959</unitdate>
             </unittitle>
@@ -439,7 +442,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [06511438179307185266]" altrender="box">3</container>
             <unittitle>
               <unitdate type="inclusive" normal="1960">1960</unitdate>
             </unittitle>
@@ -450,7 +453,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [06511438179307185266]" altrender="box">3</container>
             <unittitle>
               <unitdate type="inclusive" normal="1961">1961</unitdate>
             </unittitle>
@@ -458,7 +461,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [06511438179307185266]" altrender="box">3</container>
             <unittitle>
               <unitdate type="inclusive" normal="1962">1962</unitdate>
             </unittitle>
@@ -469,7 +472,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [06511438179307185266]" altrender="box">3</container>
             <unittitle>
               <unitdate type="inclusive" normal="1963">1963</unitdate>
             </unittitle>
@@ -477,7 +480,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [06511438179307185266]" altrender="box">3</container>
             <unittitle>
               <unitdate type="inclusive" normal="1964">1964</unitdate>
             </unittitle>
@@ -485,7 +488,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [06511438179307185266]" altrender="box">3</container>
             <unittitle>
               <unitdate type="inclusive" normal="1966">1966</unitdate>
             </unittitle>
@@ -496,7 +499,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [06511438179307185266]" altrender="box">3</container>
             <unittitle>
               <unitdate type="inclusive" normal="1967">1967</unitdate>
             </unittitle>
@@ -504,7 +507,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [06511438179307185266]" altrender="box">3</container>
             <unittitle>
               <unitdate type="inclusive" normal="1968">1968</unitdate>
             </unittitle>
@@ -515,13 +518,13 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [06511438179307185266]" altrender="box">3</container>
             <unittitle><unitdate type="inclusive" normal="1969">1969</unitdate> (Detroit mayoralty)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [06511438179307185266]" altrender="box">3</container>
             <unittitle>
               <unitdate type="inclusive" normal="1970">1970</unitdate>
             </unittitle>
@@ -534,7 +537,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [06511438179307185266]" altrender="box">3</container>
             <unittitle>General</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -543,7 +546,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [06511438179307185266]" altrender="box">3</container>
             <unittitle>
               <unitdate type="inclusive" normal="1953">1953</unitdate>
             </unittitle>
@@ -551,7 +554,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [06511438179307185266]" altrender="box">3</container>
             <unittitle>
               <unitdate type="inclusive" normal="1954">1954</unitdate>
             </unittitle>
@@ -562,7 +565,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [06511438179307185266]" altrender="box">3</container>
             <unittitle>
               <unitdate type="inclusive" normal="1955">1955</unitdate>
             </unittitle>
@@ -570,7 +573,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [761920544483822875098]" altrender="box">4</container>
             <unittitle>
               <unitdate type="inclusive" normal="1956">1956</unitdate>
             </unittitle>
@@ -581,7 +584,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [761920544483822875098]" altrender="box">4</container>
             <unittitle>
               <unitdate type="inclusive" normal="1957">1957</unitdate>
             </unittitle>
@@ -589,7 +592,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [761920544483822875098]" altrender="box">4</container>
             <unittitle>
               <unitdate type="inclusive" normal="1958">1958</unitdate>
             </unittitle>
@@ -600,7 +603,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [761920544483822875098]" altrender="box">4</container>
             <unittitle>
               <unitdate type="inclusive" normal="1959">1959</unitdate>
             </unittitle>
@@ -608,7 +611,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [761920544483822875098]" altrender="box">4</container>
             <unittitle>
               <unitdate type="inclusive" normal="1960">1960</unitdate>
             </unittitle>
@@ -619,7 +622,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [761920544483822875098]" altrender="box">4</container>
             <unittitle>
               <unitdate type="inclusive" normal="1961">1961</unitdate>
             </unittitle>
@@ -630,7 +633,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [761920544483822875098]" altrender="box">4</container>
             <unittitle>
               <unitdate type="inclusive" normal="1962">1962</unitdate>
             </unittitle>
@@ -638,7 +641,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [761920544483822875098]" altrender="box">4</container>
             <unittitle>
               <unitdate type="inclusive" normal="1963">1963</unitdate>
             </unittitle>
@@ -646,7 +649,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [761920544483822875098]" altrender="box">4</container>
             <unittitle>
               <unitdate type="inclusive" normal="1964">1964</unitdate>
             </unittitle>
@@ -654,7 +657,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [761920544483822875098]" altrender="box">4</container>
             <unittitle>
               <unitdate type="inclusive" normal="1965">1965</unitdate>
             </unittitle>
@@ -662,7 +665,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [761920544483822875098]" altrender="box">4</container>
             <unittitle>
               <unitdate type="inclusive" normal="1966">1966</unitdate>
             </unittitle>
@@ -670,7 +673,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [761920544483822875098]" altrender="box">4</container>
             <unittitle>
               <unitdate type="inclusive" normal="1966">1966</unitdate>
             </unittitle>
@@ -678,7 +681,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [761920544483822875098]" altrender="box">4</container>
             <unittitle>
               <unitdate type="inclusive" normal="1967">1967</unitdate>
             </unittitle>
@@ -686,7 +689,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [761920544483822875098]" altrender="box">4</container>
             <unittitle>
               <unitdate type="inclusive" normal="1968">1968</unitdate>
             </unittitle>
@@ -699,7 +702,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [761920544483822875098]" altrender="box">4</container>
             <unittitle>
               <unitdate type="inclusive" normal="1951">1951</unitdate>
             </unittitle>
@@ -710,7 +713,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [761920544483822875098]" altrender="box">4</container>
             <unittitle>
               <unitdate type="inclusive" normal="1952">1952</unitdate>
             </unittitle>
@@ -721,7 +724,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [761920544483822875098]" altrender="box">4</container>
             <unittitle>
               <unitdate type="inclusive" normal="1953">1953</unitdate>
             </unittitle>
@@ -732,7 +735,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [761920544483822875098]" altrender="box">4</container>
             <unittitle>
               <unitdate type="inclusive" normal="1954">1954</unitdate>
             </unittitle>
@@ -740,7 +743,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [761920544483822875098]" altrender="box">4</container>
             <unittitle>
               <unitdate type="inclusive" normal="1955">1955</unitdate>
             </unittitle>
@@ -751,7 +754,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [2943779384172272916895]" altrender="box">5</container>
             <unittitle>
               <unitdate type="inclusive" normal="1956">1956</unitdate>
             </unittitle>
@@ -762,7 +765,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [2943779384172272916895]" altrender="box">5</container>
             <unittitle>
               <unitdate type="inclusive" normal="1957">1957</unitdate>
             </unittitle>
@@ -773,7 +776,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [2943779384172272916895]" altrender="box">5</container>
             <unittitle>
               <unitdate type="inclusive" normal="1958">1958</unitdate>
             </unittitle>
@@ -784,7 +787,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [2943779384172272916895]" altrender="box">5</container>
             <unittitle>
               <unitdate type="inclusive" normal="1959">1959</unitdate>
             </unittitle>
@@ -795,7 +798,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [2943779384172272916895]" altrender="box">5</container>
             <unittitle>
               <unitdate type="inclusive" normal="1960">1960</unitdate>
             </unittitle>
@@ -806,7 +809,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [2943779384172272916895]" altrender="box">5</container>
             <unittitle>
               <unitdate type="inclusive" normal="1962">1962</unitdate>
             </unittitle>
@@ -814,7 +817,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [2943779384172272916895]" altrender="box">5</container>
             <unittitle>
               <unitdate type="inclusive" normal="1963">1963</unitdate>
             </unittitle>
@@ -822,7 +825,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [2943779384172272916895]" altrender="box">5</container>
             <unittitle>
               <unitdate type="inclusive" normal="1965">1965</unitdate>
             </unittitle>
@@ -830,7 +833,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [2943779384172272916895]" altrender="box">5</container>
             <unittitle>
               <unitdate type="inclusive" normal="1967">1967</unitdate>
             </unittitle>
@@ -841,7 +844,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [2943779384172272916895]" altrender="box">5</container>
             <unittitle>
               <unitdate type="inclusive" normal="1968">1968</unitdate>
             </unittitle>
@@ -857,7 +860,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [2943779384172272916895]" altrender="box">5</container>
             <unittitle>
               <unitdate type="inclusive" normal="1951/1963">1951-1963</unitdate>
             </unittitle>
@@ -873,31 +876,31 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [10961631544625003962263]" altrender="box">6</container>
             <unittitle>Civil rights <unitdate type="inclusive" normal="1957">1957</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [10961631544625003962263]" altrender="box">6</container>
             <unittitle>Democratic Forum (Paul Douglas) <unitdate type="inclusive" normal="1967">1967</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [10961631544625003962263]" altrender="box">6</container>
             <unittitle>Education <unitdate type="inclusive" normal="1957">1957</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [10961631544625003962263]" altrender="box">6</container>
             <unittitle>Hoffa, James <unitdate type="inclusive" normal="1953/1958">1953-1958</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [10961631544625003962263]" altrender="box">6</container>
             <unittitle>Michigan Committee for Civil Rights <unitdate type="inclusive" normal="1948/1950">1948-1950</unitdate></unittitle>
           </did>
         </c02>
@@ -907,7 +910,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [10961631544625003962263]" altrender="box">6</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1954">1954</unitdate>
               </unittitle>
@@ -915,7 +918,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [10961631544625003962263]" altrender="box">6</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1956">1956</unitdate>
               </unittitle>
@@ -923,7 +926,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [10961631544625003962263]" altrender="box">6</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1958">1958</unitdate>
               </unittitle>
@@ -932,13 +935,13 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [10961631544625003962263]" altrender="box">6</container>
             <unittitle>State Finances <unitdate type="inclusive" normal="1959">1959</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [10961631544625003962263]" altrender="box">6</container>
             <unittitle>Williams Day <unitdate type="inclusive" normal="1950">1950</unitdate></unittitle>
           </did>
         </c02>
@@ -949,7 +952,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [10961631544625003962263]" altrender="box">6</container>
             <unittitle>
               <unitdate type="inclusive" normal="1953">1953</unitdate>
             </unittitle>
@@ -957,7 +960,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [10961631544625003962263]" altrender="box">6</container>
             <unittitle>
               <unitdate type="inclusive" normal="1955">1955</unitdate>
             </unittitle>
@@ -968,13 +971,13 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [10961631544625003962263]" altrender="box">6</container>
             <unittitle>National Conference of the State Chairmen and the Vice Chairmen <unitdate type="inclusive" normal="1959">1959</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [10961631544625003962263]" altrender="box">6</container>
             <unittitle>
               <unitdate type="inclusive" normal="1960">1960</unitdate>
             </unittitle>
@@ -990,7 +993,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [10961631544625003962263]" altrender="box">6</container>
             <unittitle>
               <unitdate type="inclusive" normal="1950/1953">1950-1953</unitdate>
             </unittitle>
@@ -998,7 +1001,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [10961631544625003962263]" altrender="box">6</container>
             <unittitle>
               <unitdate type="inclusive" normal="1955">1955</unitdate>
             </unittitle>
@@ -1006,7 +1009,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [10961631544625003962263]" altrender="box">6</container>
             <unittitle>
               <unitdate type="inclusive" normal="1956">1956</unitdate>
             </unittitle>
@@ -1014,7 +1017,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [10961631544625003962263]" altrender="box">6</container>
             <unittitle>
               <unitdate type="inclusive" normal="1957">1957</unitdate>
             </unittitle>
@@ -1022,7 +1025,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [10961631544625003962263]" altrender="box">6</container>
             <unittitle>
               <unitdate type="inclusive" normal="1958">1958</unitdate>
             </unittitle>
@@ -1030,7 +1033,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [10961631544625003962263]" altrender="box">6</container>
             <unittitle>
               <unitdate type="inclusive" normal="1959">1959</unitdate>
             </unittitle>
@@ -1038,7 +1041,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [10961631544625003962263]" altrender="box">6</container>
             <unittitle>
               <unitdate type="inclusive" normal="1960">1960</unitdate>
             </unittitle>
@@ -1046,7 +1049,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [10961631544625003962263]" altrender="box">6</container>
             <unittitle>
               <unitdate type="inclusive" normal="1961/1963">1961-1963</unitdate>
             </unittitle>
@@ -1054,7 +1057,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [10961631544625003962263]" altrender="box">6</container>
             <unittitle>
               <unitdate type="inclusive" normal="1965">1965</unitdate>
             </unittitle>
@@ -1062,7 +1065,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [10961631544625003962263]" altrender="box">6</container>
             <unittitle>
               <unitdate type="inclusive" normal="1968">1968</unitdate>
             </unittitle>
@@ -1079,7 +1082,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [10961631544625003962263]" altrender="box">6</container>
               <unittitle>
                 <unitdate type="inclusive">Undated</unitdate>
                 <unitdate type="inclusive" normal="1949/1955">1949-1955</unitdate>
@@ -1088,7 +1091,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [10961631544625003962263]" altrender="box">6</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1956/1960">1956-1960</unitdate>
               </unittitle>
@@ -1096,7 +1099,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [10961631544625003962263]" altrender="box">6</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1961/1971">1961-1971</unitdate>
               </unittitle>
@@ -1105,7 +1108,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [10961631544625003962263]" altrender="box">6</container>
             <unittitle>With Nancy Williams</unittitle>
           </did>
         </c02>
@@ -1115,7 +1118,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [10961631544625003962263]" altrender="box">6</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1949/1959">1949-1959</unitdate>
               </unittitle>
@@ -1123,7 +1126,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [10961631544625003962263]" altrender="box">6</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1960/1961">1960-1961</unitdate>
               </unittitle>
@@ -1131,7 +1134,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [10961631544625003962263]" altrender="box">6</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1962/1965">1962-1965</unitdate>
               </unittitle>
@@ -1139,7 +1142,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [10961631544625003962263]" altrender="box">6</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1966/1971">1966-1971</unitdate>
               </unittitle>
@@ -1153,31 +1156,33 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
-            <unittitle>G. Mennen Williams <unitdate type="inclusive" normal="1959">1959</unitdate>, <unitdate type="inclusive" normal="1960/1965">1960-1965</unitdate></unittitle>
+            <container type="box" label="Box [10961631544625003962263]" altrender="box">6</container>
+            <unittitle>G. Mennen Williams</unittitle>
+            <unitdate type="inclusive" normal="1959">1959</unitdate>
+            <unitdate type="inclusive" normal="1960/1965">1960-1965</unitdate>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [10961631544625003962263]" altrender="box">6</container>
             <unittitle>Diary of out-of-state political trips <unitdate type="inclusive" normal="1959">1959</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [10961631544625003962263]" altrender="box">6</container>
             <unittitle>From Jim Vinall re higher education and the constitutional convention <unitdate type="inclusive" normal="1961">1961</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [10961631544625003962263]" altrender="box">6</container>
             <unittitle>Patrick McNamara and Jimmy Hoffa, late <unitdate type="inclusive" normal="1950/1959" certainty="approximate">1950s</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [10961631544625003962263]" altrender="box">6</container>
             <unittitle>Re support of Neil Staebler as chairman of the Democratic State Central Committee <unitdate type="inclusive" normal="1964">1964</unitdate></unittitle>
           </did>
         </c02>
@@ -1188,7 +1193,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">9</container>
+            <container type="box" label="Box [70618858844158485560984613]" altrender="box">9</container>
             <unittitle>
               <unitdate type="inclusive" normal="1951">1951</unitdate>
             </unittitle>
@@ -1199,7 +1204,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">7</container>
+            <container type="box" label="Box [4830048496894758133]" altrender="box">7</container>
             <unittitle>
               <unitdate type="inclusive" normal="1952/1956">1952-1956</unitdate>
             </unittitle>
@@ -1213,7 +1218,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">8</container>
+            <container type="box" label="Box [27336144692421543067]" altrender="box">8</container>
             <unittitle>
               <unitdate type="inclusive" normal="1957/1960">1957-1960</unitdate>
             </unittitle>
@@ -1224,7 +1229,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">9</container>
+            <container type="box" label="Box [70618858844158485560984613]" altrender="box">9</container>
             <unittitle>
               <unitdate type="inclusive" normal="1961">1961</unitdate>
             </unittitle>
@@ -1235,7 +1240,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">10</container>
+            <container type="box" label="Box [9267533484113777925]" altrender="box">10</container>
             <unittitle>
               <unitdate type="inclusive" normal="1961/1964">1961-1964</unitdate>
             </unittitle>
@@ -1246,7 +1251,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">11</container>
+            <container type="box" label="Box [1084748796485835499562]" altrender="box">11</container>
             <unittitle>
               <unitdate type="inclusive" normal="1965/1967">1965-1967</unitdate>
             </unittitle>
@@ -1257,7 +1262,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">12</container>
+            <container type="box" label="Box [86377834890864858593]" altrender="box">12</container>
             <unittitle>
               <unitdate type="inclusive" normal="1968/1970">1968-1970</unitdate>
             </unittitle>
@@ -1268,7 +1273,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">12</container>
+            <container type="box" label="Box [86377834890864858593]" altrender="box">12</container>
             <unittitle>Photograph album <unitdate type="inclusive" normal="1970/1980" certainty="approximate">circa 1970-1980</unitdate></unittitle>
           </did>
           <odd>
@@ -1277,7 +1282,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">12</container>
+            <container type="box" label="Box [86377834890864858593]" altrender="box">12</container>
             <unittitle>Photograph album <unitdate type="inclusive" normal="1963/1975" certainty="approximate">1963-circa 1975</unitdate>:</unittitle>
           </did>
           <odd>
@@ -1286,7 +1291,7 @@ Adelaide J. Hart papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">12</container>
+            <container type="box" label="Box [86377834890864858593]" altrender="box">12</container>
             <unittitle>Photographs</unittitle>
           </did>
           <odd>

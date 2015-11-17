@@ -34,7 +34,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding Aid for <lb/>W. B. Pillsbury Papers, <date>1858-1960</date></titleproper>
       <author>Finding aid prepared by: <lb/>Bentley Historical Library staff</author>
     </titlepage>
@@ -44,7 +44,9 @@
       <origination>
         <persname source="lcnaf" encodinganalog="100" authfilenumber="http://id.loc.gov/authorities/names/no95038753">Pillsbury, W. B. (Walter Bowers), 1872-1960.</persname>
       </origination>
-      <unittitle encodinganalog="245$a">W. B. Pillsbury papers <unitdate type="inclusive" encodinganalog="245$f" normal="1858/1960">1858-1960</unitdate>, <unitdate type="bulk" encodinganalog="245$g" normal="1890/1942">1890-1942</unitdate></unittitle>
+      <unittitle encodinganalog="245$a">W. B. Pillsbury papers</unittitle>
+      <unitdate type="inclusive" encodinganalog="245$f" normal="1858/1960">1858-1960</unitdate>
+      <unitdate type="bulk" encodinganalog="245$g" normal="1890/1942">1890-1942</unitdate>
       <abstract>Pillsbury was professor of psychology at the University of Michigan from 1897 to 1942. His papers include family and professional correspondence, University of Michigan materials, writings, and photographs.</abstract>
       <unitid countrycode="us" repositorycode="MiU-H" encodinganalog="099" type="call number">852269 Aa/2</unitid>
       <langmaterial>The materials are in <language encodinganalog="041" langcode="eng">English.</language></langmaterial>
@@ -88,16 +90,16 @@
         <corpname source="lcnaf" encodinganalog="611">Henry Russel Award (University of Michigan)</corpname>
         <persname source="lcnaf" encodinganalog="600">Meyer, Adolph, 1866-1950.</persname>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/no95038753">Pillsbury, W. B. (Walter Bowers), 1872-1960.</persname>
-        <subject source="lcsh">Psychology.</subject>
+        <subject source="lcsh" ref="/subjects/8619">Psychology.</subject>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan. Dept. of Psychology.</corpname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan--Faculty.</corpname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan. Scientific Club.</corpname>
-        <subject source="lcsh" encodinganalog="650">Voyages and travels.</subject>
-        <subject source="lcsh" encodinganalog="650">World War, 1914-1918.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6009">Voyages and travels.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5712">World War, 1914-1918.</subject>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Material:</head>
-        <subject source="lctgm" encodinganalog="650">Laboratories--Michigan--Ann Arbor.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4089">Laboratories--Michigan--Ann Arbor.</subject>
         <persname source="lcnaf" encodinganalog="600">Little, Clarence C. (Clarence Cook), b. 1888.</persname>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/no95038753">Pillsbury, W. B. (Walter Bowers), 1872-1960.</persname>
       </controlaccess>
@@ -137,7 +139,7 @@
       </controlaccess>
       <controlaccess>
         <head>Genre/Form:</head>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -150,7 +152,7 @@
         </scopecontent>
         <c02 level="file">
           <did>
-            <container label="Box" type="box">1</container>
+            <container label="Box [8074224543244519728]" type="box" altrender="box">1</container>
             <unittitle>Autobiographical sketch, memorial essay, etc</unittitle>
           </did>
         </c02>
@@ -171,7 +173,7 @@
           </scopecontent>
           <c03 level="file">
             <did>
-              <container label="Box" type="box">1</container>
+              <container label="Box [8074224543244519728]" type="box" altrender="box">1</container>
               <unittitle>
                 <unitdate>Undated</unitdate>
                 <unitdate type="inclusive" normal="1893/1960">1893-1960</unitdate>
@@ -188,7 +190,7 @@
           </did>
           <c03 level="file">
             <did>
-              <container label="Box" type="box">2</container>
+              <container label="Box [65101195984768785040620018]" type="box" altrender="box">2</container>
               <unittitle>E. B. Titchener memorial volume <unitdate type="inclusive" normal="1916/1917">1916-1917</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -205,7 +207,7 @@
           </scopecontent>
           <c03 level="file">
             <did>
-              <container label="Box" type="box">2</container>
+              <container label="Box [65101195984768785040620018]" type="box" altrender="box">2</container>
               <unittitle>Lecture notes <unitdate>undated</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -214,13 +216,13 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [65101195984768785040620018]" altrender="box">2</container>
               <unittitle>Examination questions <unitdate type="inclusive" normal="1909/1940" certainty="approximate">circa 1909-1940</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [65101195984768785040620018]" altrender="box">2</container>
               <unittitle>Student examinations</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -229,13 +231,13 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [65101195984768785040620018]" altrender="box">2</container>
               <unittitle>Psychology department and classroom miscellanea (scattered dates)</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [65101195984768785040620018]" altrender="box">2</container>
               <unittitle>Record book (psychological laboratory) <unitdate type="inclusive" normal="1894/1922">1894-1922</unitdate></unittitle>
             </did>
             <odd>
@@ -252,25 +254,25 @@
           </scopecontent>
           <c03 level="file">
             <did>
-              <container label="Box" type="box">2</container>
+              <container label="Box [65101195984768785040620018]" type="box" altrender="box">2</container>
               <unittitle>Manuscript of novel</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [65101195984768785040620018]" altrender="box">2</container>
               <unittitle>Manuscript of <title render="italic">Psychology and economics</title></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [65101195984768785040620018]" altrender="box">2</container>
               <unittitle>Manuscript of <title render="italic">Concepts in psychology</title></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [65101195984768785040620018]" altrender="box">2</container>
               <unittitle>Miscellaneous reviews, drafts of articles, notes, etc.</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">6 folders</extent>
@@ -287,19 +289,19 @@
           </scopecontent>
           <c03 level="file">
             <did>
-              <container label="Box" type="box">2</container>
+              <container label="Box [65101195984768785040620018]" type="box" altrender="box">2</container>
               <unittitle>Rorschach test materials</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [65101195984768785040620018]" altrender="box">2</container>
               <unittitle>Announcement poster for Pillsbury talk; clippings</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [65101195984768785040620018]" altrender="box">2</container>
               <unittitle>Reports, notes, unidentified</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -319,13 +321,13 @@
         </scopecontent>
         <c02 level="file">
           <did>
-            <container label="Box" type="box">3</container>
+            <container label="Box [733420671406393383705899]" type="box" altrender="box">3</container>
             <unittitle>Portraits of Pillsbury and others, group photos, laboratory apparatus, etc</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [733420671406393383705899]" altrender="box">3</container>
             <unittitle>Family snapshots (mother and child)</unittitle>
           </did>
         </c02>
@@ -343,19 +345,19 @@
           </did>
           <c03 level="file">
             <did>
-              <container label="Box" type="box">3</container>
+              <container label="Box [733420671406393383705899]" type="box" altrender="box">3</container>
               <unittitle>Letter of William H. H. Pillsbury to sister <unitdate type="inclusive" normal="1858">1858</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [733420671406393383705899]" altrender="box">3</container>
               <unittitle>Letters from William H. H. Pillsbury and Nahum Pillsbury written while serving in the Civil War <unitdate type="inclusive" normal="1862/1863">1862-1863</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [733420671406393383705899]" altrender="box">3</container>
               <unittitle>Family letters, various correspondents, mainly Walter B. Pillsbury to his parents and wife, especially when traveling abroad <unitdate type="inclusive" normal="1869/1900">1869-1900</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">21 folders</extent>
@@ -364,8 +366,10 @@
           </c03>
           <c03 level="file">
             <did>
-              <container label="Box" type="box">4</container>
-              <unittitle>Family letters, various correspondents, mainly Walter B. Pillsbury to his parents and wife, especially when traveling abroad <unitdate type="inclusive" normal="1901/1924">1901-1924</unitdate>, <unitdate type="inclusive" normal="1956">1956</unitdate></unittitle>
+              <container label="Box [6167705084137370153783]" type="box" altrender="box">4</container>
+              <unittitle>Family letters, various correspondents, mainly Walter B. Pillsbury to his parents and wife, especially when traveling abroad</unittitle>
+              <unitdate type="inclusive" normal="1901/1924">1901-1924</unitdate>
+              <unitdate type="inclusive" normal="1956">1956</unitdate>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">8 folders</extent>
               </physdesc>
@@ -373,7 +377,7 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [6167705084137370153783]" altrender="box">4</container>
               <unittitle>Letters of Elizabeth (Margaret Elizabeth) Pillsbury <unitdate type="inclusive" normal="1922">1922</unitdate></unittitle>
             </did>
             <odd>
@@ -382,7 +386,7 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [6167705084137370153783]" altrender="box">4</container>
               <unittitle>Letters from son Milbank Pillsbury <unitdate type="inclusive" normal="1944/1945">1944-1945</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -399,31 +403,31 @@
           </did>
           <c03 level="file">
             <did>
-              <container label="Box" type="box">4</container>
+              <container label="Box [6167705084137370153783]" type="box" altrender="box">4</container>
               <unittitle>Family history and genealogy</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [6167705084137370153783]" altrender="box">4</container>
               <unittitle>Accounts</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [6167705084137370153783]" altrender="box">4</container>
               <unittitle>Journal of Margaret E. Pillsbury of European tour <unitdate type="inclusive" normal="1913">1913</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [6167705084137370153783]" altrender="box">4</container>
               <unittitle>Journal of Margaret E. Pillsbury of trip to Europe <unitdate type="inclusive" normal="1922">1922</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [6167705084137370153783]" altrender="box">4</container>
               <unittitle>Journal of Margaret E. Pillsbury of European trip <unitdate type="inclusive" normal="1925/1926">1925-1926</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 volumes</extent>
@@ -432,7 +436,7 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [6167705084137370153783]" altrender="box">4</container>
               <unittitle>Journal of Margaret E. Pillsbury of trip to Europe <unitdate type="inclusive" normal="1932/1933">1932-1933</unitdate></unittitle>
             </did>
           </c03>
@@ -443,7 +447,7 @@
           </did>
           <c03 level="file">
             <did>
-              <container label="Box" type="box">4</container>
+              <container label="Box [6167705084137370153783]" type="box" altrender="box">4</container>
               <unittitle>Letters of William Bowers to his sister Eliza C. Bowers while serving as a soldier in the Civil War <unitdate type="inclusive" normal="1861/1862">1861-1862</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>

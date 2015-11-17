@@ -31,7 +31,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Chauncey C. Wade papers, 1917-1932</titleproper>
       <author>Finding aid created by <lb/>Len Coombs, 2010</author>
     </titlepage>
@@ -89,27 +89,27 @@
       <controlaccess>
         <head>Subjects:</head>
         <persname source="lcnaf" encodinganalog="600">Wade, Chauncey C.</persname>
-        <geogname source="lcnaf" encodinganalog="651">Soviet Union--History--Allied intervention, 1918-1920.</geogname>
-        <subject source="lcsh" encodinganalog="650">World War, 1914-1918.</subject>
+        <geogname source="lcnaf" encodinganalog="651" ref="/subjects/760">Soviet Union--History--Allied intervention, 1918-1920.</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5712">World War, 1914-1918.</subject>
         <corpname encodinganalog="690" source="lcnaf" authfilenumber="http://id.loc.gov/authorities/names/n2008059426">Polar Bear Expedition.</corpname>
         <corpname source="lcnaf" encodinganalog="610">United States. Army. Infantry, 339th. Supply Company.</corpname>
-        <geogname source="lcnaf" encodinganalog="651">Arkhangel'sk (Russia)</geogname>
-        <geogname source="lcnaf" encodinganalog="651">Bakaritsa (Russia)</geogname>
-        <subject source="lctgm" encodinganalog="650">Soldiers--American--Russia (Federation)</subject>
-        <subject source="lctgm" encodinganalog="650">Ships.</subject>
-        <subject source="lctgm" encodinganalog="650">Reindeer.</subject>
-        <subject source="lctgm" encodinganalog="650">Sleds and sleighs--Russia (Federation)</subject>
-        <subject source="lctgm" encodinganalog="650">Women--Soviet Union--Work.</subject>
-        <subject source="lctgm" encodinganalog="650">Forts and fortifications--Russia (Federation)</subject>
-        <subject source="lctgm" encodinganalog="650">Barracks--American--Russia (Federation)</subject>
-        <subject source="lctgm" encodinganalog="650">Weddings--Russia (Federation)</subject>
-        <subject source="lctgm" encodinganalog="650">Villages--Russia (Federation)</subject>
-        <subject source="lctgm" encodinganalog="650">Stores and shops--Russia (Federation)</subject>
+        <geogname source="lcnaf" encodinganalog="651" ref="/subjects/773">Arkhangel'sk (Russia)</geogname>
+        <geogname source="lcnaf" encodinganalog="651" ref="/subjects/787">Bakaritsa (Russia)</geogname>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3770">Soldiers--American--Russia (Federation)</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3918">Ships.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/5520">Reindeer.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/5244">Sleds and sleighs--Russia (Federation)</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/5304">Women--Soviet Union--Work.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4702">Forts and fortifications--Russia (Federation)</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/5521">Barracks--American--Russia (Federation)</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/5522">Weddings--Russia (Federation)</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/5523">Villages--Russia (Federation)</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/5524">Stores and shops--Russia (Federation)</subject>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">CD-ROMs.</genreform>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3151">CD-ROMs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -119,9 +119,9 @@
         </did>
         <c02 level="file">
           <did>
-            <container type="folder" label="Folder">2</container>
+            <container type="folder" label="Folder [8090790044466020078]" altrender="folder">2</container>
             <unittitle><unitdate type="inclusive" normal="1917-08-02/1917-08-14">August 2-August 14, 1917</unitdate> (Fort Sheridan, Illinois)</unittitle>
-            <dao href="wadec0002" show="new" actuate="onrequest">
+            <dao href="wadec0002" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/9507">
               <daodesc>
                 <p>[view items]</p>
               </daodesc>
@@ -130,9 +130,9 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="folder" label="Folder">3</container>
+            <container type="folder" label="Folder [06491421488020578910]" altrender="folder">3</container>
             <unittitle><unitdate type="inclusive" normal="1917-08/1918-07">August, 1917-July, 1918</unitdate> (Battle Creek, Michigan)</unittitle>
-            <dao href="wadec0003" show="new" actuate="onrequest">
+            <dao href="wadec0003" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/9508">
               <daodesc>
                 <p>[view items]</p>
               </daodesc>
@@ -141,9 +141,9 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="folder" label="Folder">4</container>
+            <container type="folder" label="Folder [8944736540578906725]" altrender="folder">4</container>
             <unittitle><unitdate type="inclusive" normal="1918-07-17/1918-07-19">July 17-19, 1918</unitdate> (Camp Mills, New York)</unittitle>
-            <dao href="wadec0004" show="new" actuate="onrequest">
+            <dao href="wadec0004" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/9509">
               <daodesc>
                 <p>[view items]</p>
               </daodesc>
@@ -152,11 +152,11 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="folder" label="Folder">5</container>
+            <container type="folder" label="Folder [294280745082520196]" altrender="folder">5</container>
             <unittitle>
               <unitdate type="inclusive" normal="1918-07-21/1918-10">July 21-October, 1918</unitdate>
             </unittitle>
-            <dao href="wadec0005" show="new" actuate="onrequest">
+            <dao href="wadec0005" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/9510">
               <daodesc>
                 <p>[view items]</p>
               </daodesc>
@@ -165,11 +165,11 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="folder" label="Folder">6</container>
+            <container type="folder" label="Folder [171031647308488553379367]" altrender="folder">6</container>
             <unittitle>
               <unitdate type="inclusive" normal="1918-11/1918-12">November-December, 1918</unitdate>
             </unittitle>
-            <dao href="wadec0006" show="new" actuate="onrequest">
+            <dao href="wadec0006" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/9511">
               <daodesc>
                 <p>[view items]</p>
               </daodesc>
@@ -178,11 +178,11 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="folder" label="Folder">7</container>
+            <container type="folder" label="Folder [980257467872653861]" altrender="folder">7</container>
             <unittitle>
               <unitdate type="inclusive" normal="1919-01/1919-02">January-February, 1919</unitdate>
             </unittitle>
-            <dao href="wadec0007" show="new" actuate="onrequest">
+            <dao href="wadec0007" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/9512">
               <daodesc>
                 <p>[view items]</p>
               </daodesc>
@@ -191,11 +191,11 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="folder" label="Folder">8</container>
+            <container type="folder" label="Folder [4387598484554824205]" altrender="folder">8</container>
             <unittitle>
               <unitdate type="inclusive" normal="1919-03/1919-06">March-June, 1919</unitdate>
             </unittitle>
-            <dao href="wadec0008" show="new" actuate="onrequest">
+            <dao href="wadec0008" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/9513">
               <daodesc>
                 <p>[view items]</p>
               </daodesc>
@@ -204,7 +204,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="folder" label="Oversize Folder">13</container>
+            <container type="folder" label="Oversize Folder [1150617824060611819035298]" altrender="folder">13</container>
             <unittitle>Red Guard Broadside oversize</unittitle>
           </did>
           <odd>
@@ -221,9 +221,9 @@
         </did>
         <c02 level="file">
           <did>
-            <container type="folder" label="Folder">9</container>
+            <container type="folder" label="Folder [1182040540800379337]" altrender="folder">9</container>
             <unittitle>Papers</unittitle>
-            <dao href="wadec0009" show="new" actuate="onrequest">
+            <dao href="wadec0009" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/9514">
               <daodesc>
                 <p>[view items]</p>
               </daodesc>
@@ -237,9 +237,9 @@
         </did>
         <c02 level="file">
           <did>
-            <container type="folder" label="Folder">10</container>
+            <container type="folder" label="Folder [711863075490876137203]" altrender="folder">10</container>
             <unittitle>Photographs, Camp Custer, Michigan <unitdate type="inclusive" normal="1917">1917</unitdate></unittitle>
-            <dao href="wadec0010" show="new" actuate="onrequest">
+            <dao href="wadec0010" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/9515">
               <daodesc>
                 <p>[view items]</p>
               </daodesc>
@@ -248,12 +248,12 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="folder" label="Folder">1</container>
+            <container type="folder" label="Folder [862054621405491861601]" altrender="folder">1</container>
             <unittitle>Photograph album</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">116 images</extent>
             </physdesc>
-            <dao href="wadec0001" show="new" actuate="onrequest">
+            <dao href="wadec0001" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/9516">
               <daodesc>
                 <p>[view items]</p>
               </daodesc>
@@ -262,9 +262,9 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="folder" label="Folder">11</container>
+            <container type="folder" label="Folder [3621441281447490]" altrender="folder">11</container>
             <unittitle>Group photo, Camp Pontanezen, Brest France <unitdate type="inclusive" normal="1919">1919</unitdate></unittitle>
-            <dao href="wadec0011" show="new" actuate="onrequest">
+            <dao href="wadec0011" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/9517">
               <daodesc>
                 <p>[view items]</p>
               </daodesc>
@@ -276,9 +276,9 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="folder" label="Folder">12</container>
+            <container type="folder" label="Folder [95728755455027804322204]" altrender="folder">12</container>
             <unittitle>U.S.S. Grant, (outsize photograph)</unittitle>
-            <dao href="wadec0012" show="new" actuate="onrequest">
+            <dao href="wadec0012" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/9518">
               <daodesc>
                 <p>[view items]</p>
               </daodesc>

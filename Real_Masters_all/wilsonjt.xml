@@ -26,7 +26,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>James T. Wilson Papers, 1940-1978</titleproper>
       <author>Finding aid created by <lb/>Gael Graham, July 1984</author>
     </titlepage>
@@ -82,24 +82,24 @@ James T. Wilson Papers, Bentley Historical Library, University of Michigan</p>
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <subject source="lcsh" encodinganalog="650">Earthquakes.</subject>
-        <subject source="lcsh" encodinganalog="650">Geology.</subject>
-        <subject source="lcsh" encodinganalog="650">Seismology.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/10741">Earthquakes.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7931">Geology.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/10742">Seismology.</subject>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan--Faculty.</corpname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan. Institute of Science and Technology.</corpname>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Materials:</head>
-        <subject source="lctgm" encodinganalog="650">Airplanes.</subject>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n81091936.html">Cheboygan County (Mich.)</geogname>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4173">Airplanes.</subject>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n81091936.html" ref="/subjects/979">Cheboygan County (Mich.)</geogname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n79134170">Great Lakes Foundation.</corpname>
-        <subject source="lctgm" encodinganalog="650">Laboratories.</subject>
-        <subject source="lctgm" encodinganalog="650">Military art and science.</subject>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n81120287.html">Monroe County (Mich.)</geogname>
-        <geogname source="lcsh" encodinganalog="651">North Campus (University of Michigan)</geogname>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3792">Laboratories.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3773">Military art and science.</subject>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n81120287.html" ref="/subjects/1482">Monroe County (Mich.)</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/968">North Campus (University of Michigan)</geogname>
         <corpname source="lcnaf" encodinganalog="610">Project Michigan.</corpname>
-        <subject source="lctgm" encodinganalog="650">Radar.</subject>
-        <subject source="lcsh" encodinganalog="650">Remote sensing.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4208">Radar.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/10743">Remote sensing.</subject>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n81004153">Seismological Society of America. Eastern Section.</corpname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n79063202">United States. Army.</corpname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n80149747">University of Michigan. Biological Station.</corpname>
@@ -110,8 +110,8 @@ James T. Wilson Papers, Bentley Historical Library, University of Michigan</p>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="gmgpc" encodinganalog="655">Aerial photographs.</genreform>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="gmgpc" encodinganalog="655" ref="/subjects/3451">Aerial photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -124,7 +124,7 @@ James T. Wilson Papers, Bentley Historical Library, University of Michigan</p>
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6403130404820954427944549]" altrender="box">1</container>
             <unittitle>Miscellaneous vitas, etc.</unittitle>
           </did>
         </c02>
@@ -138,7 +138,7 @@ James T. Wilson Papers, Bentley Historical Library, University of Michigan</p>
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6403130404820954427944549]" altrender="box">1</container>
             <unittitle>Advanced Research Projects Agency (Department of Defense) <unitdate type="inclusive" normal="1960/1966">1960-1966</unitdate></unittitle>
           </did>
         </c02>
@@ -148,13 +148,13 @@ James T. Wilson Papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [6403130404820954427944549]" altrender="box">1</container>
               <unittitle>General <unitdate type="inclusive" normal="1961/1968">1961-1968</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [6403130404820954427944549]" altrender="box">1</container>
               <unittitle>Visiting Scientist Program <unitdate type="inclusive" normal="1962/1970">1962-1970</unitdate></unittitle>
             </did>
           </c03>
@@ -165,31 +165,31 @@ James T. Wilson Papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [6403130404820954427944549]" altrender="box">1</container>
               <unittitle>Committee on Institutional Cooperation (CIC) <unitdate type="inclusive" normal="1963/1969">1963-1969</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [6403130404820954427944549]" altrender="box">1</container>
               <unittitle>Account Information</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [6403130404820954427944549]" altrender="box">1</container>
               <unittitle>Economic Growth, Committee on</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [6403130404820954427944549]" altrender="box">1</container>
               <unittitle>Economic Growth, Technology and Public Policy, Council on</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [6403130404820954427944549]" altrender="box">1</container>
               <unittitle>Ice Formation Control, Meeting on</unittitle>
             </did>
           </c03>
@@ -199,25 +199,25 @@ James T. Wilson Papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [6403130404820954427944549]" altrender="box">1</container>
                 <unittitle>Ocean Sciences</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [6403130404820954427944549]" altrender="box">1</container>
                 <unittitle>Summer Study on Systems Model on the Great Lakes</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [6403130404820954427944549]" altrender="box">1</container>
                 <unittitle>University-Industry Relations</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [6403130404820954427944549]" altrender="box">1</container>
                 <unittitle>Water Resources</unittitle>
               </did>
             </c04>
@@ -229,20 +229,20 @@ James T. Wilson Papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [6403130404820954427944549]" altrender="box">1</container>
               <unittitle>General</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [6403130404820954427944549]" altrender="box">1</container>
               <unittitle>Committee on Strong Motion</unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6403130404820954427944549]" altrender="box">1</container>
             <unittitle>Great Lakes Foundation Trustees</unittitle>
           </did>
         </c02>
@@ -252,26 +252,26 @@ James T. Wilson Papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [6403130404820954427944549]" altrender="box">1</container>
               <unittitle>General</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [6403130404820954427944549]" altrender="box">1</container>
               <unittitle>12th Congress, Helsinki <unitdate type="inclusive" normal="1960">1960</unitdate></unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6403130404820954427944549]" altrender="box">1</container>
             <unittitle>Michigan Basin Geological Society <unitdate type="inclusive" normal="1974">1974</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6403130404820954427944549]" altrender="box">1</container>
             <unittitle>NASA-Manned Space Science Geophysics Working Group <unitdate type="inclusive" normal="1965/1966">1965-1966</unitdate></unittitle>
           </did>
         </c02>
@@ -281,68 +281,68 @@ James T. Wilson Papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [6403130404820954427944549]" altrender="box">1</container>
               <unittitle>Computer Usage, Committee on</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [6403130404820954427944549]" altrender="box">1</container>
               <unittitle>Earthquake Reduction, Task Force on</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [6403130404820954427944549]" altrender="box">1</container>
               <unittitle>Gas Reserve Estimates</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [6403130404820954427944549]" altrender="box">1</container>
               <unittitle>Panel Remote Sensing of Environment, Committee on, and Subcommittee on Declassification</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [6403130404820954427944549]" altrender="box">1</container>
               <unittitle>Seismology, Committee on</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [6403130404820954427944549]" altrender="box">1</container>
               <unittitle>Strong Motion Seismology, Panel on</unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6403130404820954427944549]" altrender="box">1</container>
             <unittitle>Royal Astronomical Society <unitdate type="inclusive" normal="1964/1965">1964-1965</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6403130404820954427944549]" altrender="box">1</container>
             <unittitle>Seismological Society of America <unitdate type="inclusive" normal="1960/1975">1960-1975</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6403130404820954427944549]" altrender="box">1</container>
             <unittitle>Society of Exploration Geophysicists <unitdate type="inclusive" normal="1973/1974">1973-1974</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6403130404820954427944549]" altrender="box">1</container>
             <unittitle>Theta Tau <unitdate type="inclusive" normal="1972">1972</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6403130404820954427944549]" altrender="box">1</container>
             <unittitle>U.S. Coast and Geodetic Survey <unitdate type="inclusive" normal="1962">1962</unitdate></unittitle>
           </did>
         </c02>
@@ -362,7 +362,7 @@ James T. Wilson Papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [6403130404820954427944549]" altrender="box">1</container>
               <unittitle>National Academy Society-National Research Council Conference</unittitle>
             </did>
           </c03>
@@ -375,7 +375,7 @@ James T. Wilson Papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [6403130404820954427944549]" altrender="box">1</container>
               <unittitle>Michigan Industry-University Space Age Research Conference</unittitle>
             </did>
           </c03>
@@ -388,19 +388,19 @@ James T. Wilson Papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [6403130404820954427944549]" altrender="box">1</container>
               <unittitle>Dedication of Data Analysis Center, Washington, D.C.</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [6403130404820954427944549]" altrender="box">1</container>
               <unittitle>American Ordnance Association Combat and Tactical Division</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [6403130404820954427944549]" altrender="box">1</container>
               <unittitle>Geophysical Service Inc.-Annual Earth Science Orientation Session</unittitle>
             </did>
           </c03>
@@ -413,7 +413,7 @@ James T. Wilson Papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [6403130404820954427944549]" altrender="box">1</container>
               <unittitle>Electromagnetic Sensing of the Earth from Satellites symposium</unittitle>
             </did>
           </c03>
@@ -426,19 +426,19 @@ James T. Wilson Papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [6403130404820954427944549]" altrender="box">1</container>
               <unittitle>Conference on Engineering Seismology.</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [6403130404820954427944549]" altrender="box">1</container>
               <unittitle>Symposium on Astrogeology</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [6403130404820954427944549]" altrender="box">1</container>
               <unittitle>National Conference on Technology Utilization and Economic Growth</unittitle>
             </did>
           </c03>
@@ -451,19 +451,19 @@ James T. Wilson Papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [6403130404820954427944549]" altrender="box">1</container>
               <unittitle>Uppsala Symposium on the Management of Large Lakes and Impoundments</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [6403130404820954427944549]" altrender="box">1</container>
               <unittitle>Great Lakes Water Research Conference</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [6403130404820954427944549]" altrender="box">1</container>
               <unittitle>National Classification Management Society</unittitle>
             </did>
           </c03>
@@ -478,7 +478,7 @@ James T. Wilson Papers, Bentley Historical Library, University of Michigan</p>
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6403130404820954427944549]" altrender="box">1</container>
             <unittitle>Bryant Family Estate <unitdate type="inclusive" normal="1941/1954">1941-1954</unitdate></unittitle>
           </did>
         </c02>
@@ -488,86 +488,86 @@ James T. Wilson Papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [6403130404820954427944549]" altrender="box">1</container>
               <unittitle><unitdate type="inclusive" normal="1955">1955</unitdate> Zug Island Site</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [6403130404820954427944549]" altrender="box">1</container>
               <unittitle><unitdate type="inclusive" normal="1955/1958">1955-1958</unitdate> Lagoona Site</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [6403130404820954427944549]" altrender="box">1</container>
               <unittitle><unitdate type="inclusive" normal="1956/1958">1956-1958</unitdate> Monroe Site</unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6403130404820954427944549]" altrender="box">1</container>
             <unittitle>Diamond Alkali Company <unitdate type="inclusive" normal="1953/1954">1953-1954</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6403130404820954427944549]" altrender="box">1</container>
             <unittitle>Employers' Group Insurance Companies <unitdate type="inclusive" normal="1955">1955</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6403130404820954427944549]" altrender="box">1</container>
             <unittitle>Hartford Accident and Indemnity Company <unitdate type="inclusive" normal="1958">1958</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6403130404820954427944549]" altrender="box">1</container>
             <unittitle>McHenry, James <unitdate type="inclusive" normal="1956">1956</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6403130404820954427944549]" altrender="box">1</container>
             <unittitle>Mammoth Cave</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6403130404820954427944549]" altrender="box">1</container>
             <unittitle>Michigan Vitrified <unitdate type="inclusive" normal="1954/1955">1954-1955</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6403130404820954427944549]" altrender="box">1</container>
             <unittitle>Power Reactor Development Company <unitdate type="inclusive" normal="1957/1960">1957-1960</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6403130404820954427944549]" altrender="box">1</container>
             <unittitle>Schlee, McIntosh and Simpson <unitdate type="inclusive" normal="1957">1957</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6403130404820954427944549]" altrender="box">1</container>
             <unittitle>United States Senate, Subcommittee on Disarmament <unitdate type="inclusive" normal="1958">1958</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6403130404820954427944549]" altrender="box">1</container>
             <unittitle>University of California, Los Angeles <unitdate type="inclusive" normal="1974">1974</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6403130404820954427944549]" altrender="box">1</container>
             <unittitle>Wyandotte Clinker-Cooler <unitdate type="inclusive" normal="1956/1957">1956-1957</unitdate></unittitle>
           </did>
         </c02>
@@ -581,7 +581,7 @@ James T. Wilson Papers, Bentley Historical Library, University of Michigan</p>
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6403130404820954427944549]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1960/1963">1960-1963</unitdate>
             </unittitle>
@@ -589,7 +589,7 @@ James T. Wilson Papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6403130404820954427944549]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1964/1966">1964-1966</unitdate>
             </unittitle>
@@ -597,7 +597,7 @@ James T. Wilson Papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6403130404820954427944549]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1967/1972">1967-1972</unitdate>
             </unittitle>
@@ -605,7 +605,7 @@ James T. Wilson Papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6403130404820954427944549]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1973/1978">1973-1978</unitdate>
             </unittitle>
@@ -621,13 +621,13 @@ James T. Wilson Papers, Bentley Historical Library, University of Michigan</p>
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6403130404820954427944549]" altrender="box">1</container>
             <unittitle>Conference on the University <unitdate type="inclusive" normal="1972-05-18/1972-05-19">May 18-19, 1972</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6403130404820954427944549]" altrender="box">1</container>
             <unittitle>Institute of Science and Technology <unitdate type="inclusive" normal="1961/1977">1961-1977</unitdate></unittitle>
           </did>
         </c02>
@@ -637,25 +637,25 @@ James T. Wilson Papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [6403130404820954427944549]" altrender="box">1</container>
               <unittitle>Camp Davis</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [6403130404820954427944549]" altrender="box">1</container>
               <unittitle>Earthquakes</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [6403130404820954427944549]" altrender="box">1</container>
               <unittitle>Graduate Students</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [6403130404820954427944549]" altrender="box">1</container>
               <unittitle>Personnel</unittitle>
             </did>
           </c03>
@@ -665,13 +665,13 @@ James T. Wilson Papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [6403130404820954427944549]" altrender="box">1</container>
                 <unittitle>Construction</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [6403130404820954427944549]" altrender="box">1</container>
                 <unittitle>Operation</unittitle>
               </did>
             </c04>
@@ -691,7 +691,7 @@ James T. Wilson Papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [2305419151005599]" altrender="box">2</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1940/1959">1940-1959</unitdate>
               </unittitle>
@@ -699,7 +699,7 @@ James T. Wilson Papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [2305419151005599]" altrender="box">2</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1962/1963">1962-1963</unitdate>
               </unittitle>
@@ -707,7 +707,7 @@ James T. Wilson Papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [2305419151005599]" altrender="box">2</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1964/1974">1964-1974</unitdate>
               </unittitle>
@@ -716,13 +716,13 @@ James T. Wilson Papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [2305419151005599]" altrender="box">2</container>
             <unittitle>Reviews <unitdate type="inclusive" normal="1961/1976">1961-1976</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [2305419151005599]" altrender="box">2</container>
             <unittitle>Others <unitdate type="inclusive" normal="1964/1978">1964-1978</unitdate></unittitle>
           </did>
         </c02>
@@ -738,19 +738,19 @@ James T. Wilson Papers, Bentley Historical Library, University of Michigan</p>
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [2305419151005599]" altrender="box">2</container>
             <unittitle>Portraits</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [2305419151005599]" altrender="box">2</container>
             <unittitle>Willow Run facility</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [2305419151005599]" altrender="box">2</container>
             <unittitle>Miscellaneous</unittitle>
           </did>
           <odd>
@@ -759,7 +759,7 @@ James T. Wilson Papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [2305419151005599]" altrender="box">2</container>
             <unittitle>Department of Defense, Project Michigan photographs</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">1 volumes</extent>

@@ -30,7 +30,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Lisa Marshall Bashert Papers, 1971-2010</titleproper>
       <author>Finding aid created by <lb/>Thomas E. Powers, 2005</author>
     </titlepage>
@@ -84,17 +84,17 @@ Lisa Marshall Bashert Papers, Bentley Historical Library, University of Michigan
         <head>Subjects:</head>
         <persname source="lcnaf" encodinganalog="600">Bashert, Lisa Marshall.</persname>
         <persname source="lcnaf" encodinganalog="600">Bashert, Beth.</persname>
-        <subject source="lcsh" encodinganalog="650">Coming out (Sexual orientation)</subject>
-        <subject source="lcsh" encodinganalog="650">Feminists--Michigan--Ypsilanti.</subject>
-        <subject source="lcsh" encodinganalog="650">Gays--Michigan--Ypsilanti.</subject>
-        <subject source="lcsh" encodinganalog="650">Lesbians--Michigan--Ypsilanti.</subject>
-        <subject source="lcsh" encodinganalog="650">Witchcraft--Michigan--Ypsilanti.</subject>
-        <subject source="lcsh" encodinganalog="650">New Age movement.</subject>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n80006284.html">Ypsilanti (Mich.)</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6140">Coming out (Sexual orientation)</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6141">Feminists--Michigan--Ypsilanti.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6142">Gays--Michigan--Ypsilanti.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6143">Lesbians--Michigan--Ypsilanti.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6144">Witchcraft--Michigan--Ypsilanti.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6145">New Age movement.</subject>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n80006284.html" ref="/subjects/999">Ypsilanti (Mich.)</geogname>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Diaries.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3150">Diaries.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -107,7 +107,7 @@ Lisa Marshall Bashert Papers, Bentley Historical Library, University of Michigan
         </odd>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [843462344873830978]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1971/1990">1971-1990</unitdate>
             </unittitle>
@@ -115,7 +115,7 @@ Lisa Marshall Bashert Papers, Bentley Historical Library, University of Michigan
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [3438234646302475]" altrender="box">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1990/1993">1990-1993</unitdate>
             </unittitle>
@@ -123,7 +123,7 @@ Lisa Marshall Bashert Papers, Bentley Historical Library, University of Michigan
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [09176494322809259345169]" altrender="box">3</container>
             <unittitle>
               <unitdate type="inclusive" normal="1996/1999">1996-1999</unitdate>
             </unittitle>
@@ -131,7 +131,7 @@ Lisa Marshall Bashert Papers, Bentley Historical Library, University of Michigan
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [5712463084569450384385]" altrender="box">4</container>
             <unittitle>
               <unitdate type="inclusive" normal="2000/2005">2000-2005</unitdate>
             </unittitle>
@@ -139,7 +139,7 @@ Lisa Marshall Bashert Papers, Bentley Historical Library, University of Michigan
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [44546187492198785]" altrender="box">5</container>
             <unittitle>
               <unitdate type="inclusive" normal="1994/2005">1994-2005</unitdate>
             </unittitle>
@@ -153,7 +153,7 @@ Lisa Marshall Bashert Papers, Bentley Historical Library, University of Michigan
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [44546187492198785]" altrender="box">5</container>
             <unittitle>
               <unitdate type="inclusive" normal="2006">2006</unitdate>
             </unittitle>
@@ -164,7 +164,7 @@ Lisa Marshall Bashert Papers, Bentley Historical Library, University of Michigan
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [1870567264901510480697241]" altrender="box">6</container>
             <unittitle>
               <unitdate type="inclusive" normal="2007/2010">2007-2010</unitdate>
             </unittitle>
@@ -180,13 +180,13 @@ Lisa Marshall Bashert Papers, Bentley Historical Library, University of Michigan
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [1870567264901510480697241]" altrender="box">6</container>
             <unittitle>Rainbow Neighbors <unitdate type="inclusive" normal="1999/2000">1999-2000</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [1870567264901510480697241]" altrender="box">6</container>
             <unittitle>CD-ROM copy of Bashert journals <unitdate type="inclusive" normal="1998/2004">1998-2004</unitdate></unittitle>
           </did>
         </c02>

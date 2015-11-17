@@ -26,7 +26,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Frederick A. Aldrich Papers, 1887-1893</titleproper>
       <author>Finding aid created by <lb/>Michigan Historical Collections staff, 1958</author>
     </titlepage>
@@ -79,7 +79,7 @@ Frederick A. Aldrich Papers, Bentley Historical Library, University of Michigan<
       <controlaccess>
         <head>Subjects:</head>
         <persname source="lcnaf" encodinganalog="600">Aldrich, Frederick A.</persname>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n82166396.html">Flint (Mich.)</geogname>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n82166396.html" ref="/subjects/893">Flint (Mich.)</geogname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n87910587">Michigan. National Guard.</corpname>
         <corpname source="lcnaf" encodinganalog="610">Michigan. State Troops (1862-1893)</corpname>
       </controlaccess>
@@ -88,11 +88,11 @@ Frederick A. Aldrich Papers, Bentley Historical Library, University of Michigan<
         <persname source="lcnaf" encodinganalog="600">Aldrich, Frederick A.</persname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n87910587">Michigan. National Guard.</corpname>
         <corpname source="lcnaf" encodinganalog="610">Michigan. State Troops (1862-1893)</corpname>
-        <geogname source="lctgm" encodinganalog="651">Military camps.</geogname>
+        <geogname source="lctgm" encodinganalog="651" ref="/subjects/217">Military camps.</geogname>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -102,14 +102,16 @@ Frederick A. Aldrich Papers, Bentley Historical Library, University of Michigan<
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6824036816364652]" altrender="box">1</container>
             <unittitle>Commissions <unitdate type="inclusive" normal="1887/1889">1887-1889</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <unittitle>Correspondence <unitdate type="inclusive" normal="1888/1893">1888-1893</unitdate>, <unitdate type="inclusive">undated</unitdate></unittitle>
+            <container type="box" label="Box [6824036816364652]" altrender="box">1</container>
+            <unittitle>Correspondence</unittitle>
+            <unitdate type="inclusive" normal="1888/1893">1888-1893</unitdate>
+            <unitdate type="inclusive">undated</unitdate>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">11 folders</extent>
             </physdesc>
@@ -120,43 +122,43 @@ Frederick A. Aldrich Papers, Bentley Historical Library, University of Michigan<
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6824036816364652]" altrender="box">1</container>
             <unittitle>Ordnance and quartermaster store returns</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6824036816364652]" altrender="box">1</container>
             <unittitle>Miscellaneous invitations</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6824036816364652]" altrender="box">1</container>
             <unittitle>General Orders of National Guard <unitdate type="inclusive" normal="1888/1893">1888-1893</unitdate> (printed)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6824036816364652]" altrender="box">1</container>
             <unittitle>Miscellaneous receipts and invoices</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6824036816364652]" altrender="box">1</container>
             <unittitle>Invoices of quartermaster's store</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6824036816364652]" altrender="box">1</container>
             <unittitle>Miscellaneous papers</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="folder" label="Oversize Folder">UAm</container>
+            <container type="folder" label="Oversize Folder [1882328006453066934060]" altrender="folder">UAm</container>
             <unittitle><genreform normal="Photographs">Photograph</genreform> showing Aldrich and other members of the 3rd Regiment, Michigan State Troops seated at tables underneath a tent, <unitdate type="inclusive" normal="1890" certainty="approximate">circa 1890</unitdate></unittitle>
           </did>
           <odd>

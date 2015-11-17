@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Elizabeth Lemmer papers, 1969-1978</titleproper>
       <author>Finding aid created by <lb/>Michigan Historical Collections staff</author>
     </titlepage>
@@ -76,14 +76,14 @@ Elizabeth Lemmer papers, Bentley Historical Library, University of Michigan</p>
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <subject source="lcsh" encodinganalog="650">Pro-life movement--Michigan.</subject>
-        <subject source="lcsh" encodinganalog="650">Elections--Michigan--1972.</subject>
-        <geogname source="local" encodinganalog="691">Michigan--Politics and government--1971-1980.</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6739">Pro-life movement--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6884">Elections--Michigan--1972.</subject>
+        <geogname source="local" encodinganalog="691" ref="/subjects/801">Michigan--Politics and government--1971-1980.</geogname>
         <corpname source="lcnaf" encodinganalog="610">Michigan Right-to-Life Committee.</corpname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/nr92006190">Right to Life of Michigan.</corpname>
-        <subject source="lcsh" encodinganalog="650">Women's rights--Michigan.</subject>
-        <subject source="lcsh" encodinganalog="650">Women in politics--Michigan--Ann Arbor.</subject>
-        <geogname source="lcsh" encodinganalog="651">Michigan--Politics and government--1951-</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6223">Women's rights--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6575">Women in politics--Michigan--Ann Arbor.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/910">Michigan--Politics and government--1951-</geogname>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -93,13 +93,13 @@ Elizabeth Lemmer papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [41218274896486704]" altrender="box">1</container>
             <unittitle>Correspondence <unitdate type="inclusive" normal="1971/1978">1971-1978</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [41218274896486704]" altrender="box">1</container>
             <unittitle>Michigan Citizens for Life-Conventions <unitdate type="inclusive" normal="1974/1976">1974-1976</unitdate></unittitle>
           </did>
         </c02>
@@ -109,13 +109,13 @@ Elizabeth Lemmer papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [41218274896486704]" altrender="box">1</container>
               <unittitle>Miscellaneous and printed material regarding abortion <unitdate type="inclusive" normal="1971/1976">1971-1976</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [41218274896486704]" altrender="box">1</container>
               <unittitle>Promotional and campaign literature</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -125,7 +125,7 @@ Elizabeth Lemmer papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [41218274896486704]" altrender="box">1</container>
             <unittitle>National Right-to-Life Convention (Detroit) <unitdate type="inclusive" normal="1973">1973</unitdate></unittitle>
           </did>
         </c02>
@@ -135,7 +135,7 @@ Elizabeth Lemmer papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [41218274896486704]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1972">1972</unitdate>
               </unittitle>
@@ -143,13 +143,13 @@ Elizabeth Lemmer papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [41218274896486704]" altrender="box">1</container>
               <unittitle><unitdate type="inclusive" normal="1973">1973</unitdate> (Grand Rapids Right-to-Life Committee)</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [41218274896486704]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1974/1977">1974-1977</unitdate>
               </unittitle>
@@ -158,8 +158,10 @@ Elizabeth Lemmer papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <unittitle>Newspaper clippings <unitdate type="inclusive" normal="1971/1978">1971-1978</unitdate>, <unitdate type="inclusive">undated</unitdate></unittitle>
+            <container type="box" label="Box [41218274896486704]" altrender="box">1</container>
+            <unittitle>Newspaper clippings</unittitle>
+            <unitdate type="inclusive" normal="1971/1978">1971-1978</unitdate>
+            <unitdate type="inclusive">undated</unitdate>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">14 folders</extent>
             </physdesc>
@@ -167,8 +169,10 @@ Elizabeth Lemmer papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <unittitle><genreform normal="Sound recordings">Audio cassettes</genreform>, undated, <unitdate type="inclusive" normal="1969">1969</unitdate>, <unitdate type="inclusive" normal="1972">1972</unitdate></unittitle>
+            <container type="box" label="Box [41218274896486704]" altrender="box">1</container>
+            <unittitle><genreform normal="Sound recordings">Audio cassettes</genreform>, undated</unittitle>
+            <unitdate type="inclusive" normal="1969">1969</unitdate>
+            <unitdate type="inclusive" normal="1972">1972</unitdate>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">4 audiocassettes</extent>
             </physdesc>

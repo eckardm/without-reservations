@@ -38,7 +38,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding Aid for <lb/>Hugh D. McPhail papers, <date>1918-1957</date></titleproper>
       <author>Finding aid prepared by: <lb/>Len Coombs</author>
     </titlepage>
@@ -86,9 +86,9 @@
         <head>Subjects</head>
         <persname source="lcnaf" encodinganalog="600">McPhail, Hugh D.</persname>
         <persname source="lcnaf" encodinganalog="600">Odjard, Otto Arthur.</persname>
-        <geogname source="lcsh" encodinganalog="651">Soviet Union--History--Allied intervention, 1918-1920.</geogname>
-        <subject source="lcsh" encodinganalog="650">World War, 1914-1918.</subject>
-        <subject source="local" encodinganalog="690" authfilenumber="http://id.loc.gov/authorities/names/n2008059426">Polar Bear Expedition.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/883">Soviet Union--History--Allied intervention, 1918-1920.</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5712">World War, 1914-1918.</subject>
+        <subject source="local" encodinganalog="690" authfilenumber="http://id.loc.gov/authorities/names/n2008059426" ref="/subjects/3518">Polar Bear Expedition.</subject>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -98,31 +98,31 @@
         </did>
         <c02 level="file">
           <did>
-            <container label="Folder" type="folder">1</container>
+            <container label="Folder [7261401418328217487298]" type="folder" altrender="folder">1</container>
             <unittitle>Scrapbook 1 Part 1</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container label="Folder" type="folder">2</container>
+            <container label="Folder [16197564295982302530]" type="folder" altrender="folder">2</container>
             <unittitle>Scrapbook 1 Part 2</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container label="Folder" type="folder">3</container>
+            <container label="Folder [07786583344009281833696]" type="folder" altrender="folder">3</container>
             <unittitle>Photocopy of scrapbook 1 (partial)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container label="Folder" type="folder">4</container>
+            <container label="Folder [94249347047165445299704]" type="folder" altrender="folder">4</container>
             <unittitle>Scrapbook 2</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container label="Folder" type="folder">5</container>
+            <container label="Folder [867233140058854848194]" type="folder" altrender="folder">5</container>
             <unittitle>Photocopy of scrapbook 2</unittitle>
           </did>
           <odd>
@@ -131,13 +131,13 @@
         </c02>
         <c02 level="file">
           <did>
-            <container label="Folder" type="folder">6</container>
+            <container label="Folder [4880627605462558494499]" type="folder" altrender="folder">6</container>
             <unittitle>Miscellanea</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container label="Folder" type="folder">7</container>
+            <container label="Folder [677867452961681498]" type="folder" altrender="folder">7</container>
             <unittitle>Miscellanea</unittitle>
           </did>
         </c02>

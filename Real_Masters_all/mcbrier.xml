@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Edwin M. McBrier Papers, 1926, 1929-1930, and 1955</titleproper>
       <author>Finding aid created by <lb/>Carol Hofstadter, December 1986</author>
     </titlepage>
@@ -37,7 +37,10 @@
       <origination>
         <persname source="lcnaf" encodinganalog="100">McBrier, Edwin Merton, 1865-</persname>
       </origination>
-      <unittitle encodinganalog="245">Edwin M. McBrier papers <unitdate type="inclusive" encodinganalog="245$f" normal="1926">1926</unitdate>, <unitdate type="inclusive" encodinganalog="245$f" normal="1929/1930">1929-1930</unitdate>, <unitdate type="inclusive" encodinganalog="245$f" normal="1955">1955</unitdate></unittitle>
+      <unittitle encodinganalog="245">Edwin M. McBrier papers</unittitle>
+      <unitdate type="inclusive" encodinganalog="245$f" normal="1926">1926</unitdate>
+      <unitdate type="inclusive" encodinganalog="245$f" normal="1929/1930">1929-1930</unitdate>
+      <unitdate type="inclusive" encodinganalog="245$f" normal="1955">1955</unitdate>
       <unitid encodinganalog="852$h" repositorycode="MiU-H" countrycode="us" type="call number">8720 Aa 2</unitid>
       <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language></langmaterial>
       <abstract>Executive with the F. W. Woolworth Co., member of the Executive committee of the Board of Foreign Missions of the Methodist Episcopal Church. Photoprints, 1926, of his trip to Europe to investigate the Methodist Church's foreign mission; include photoprints taken in France, Sweden, Finland, Germany, Austria, Rumania, Bulgaria, and Yugoslavia; also brief reminiscences, 1955, and mimeographed travel letters, 1929-1930, of trip around the world.</abstract>
@@ -81,29 +84,29 @@ Edwin M. McBrier papers, Bentley Historical Library, University of Michigan</p>
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <geogname source="lcsh" encodinganalog="651">Europe.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/984">Europe.</geogname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/no95038590">Methodist Episcopal Church. Board of Foreign Missions.</corpname>
         <corpname source="lcnaf" encodinganalog="610">Methodist Episcopal Church--Missions.</corpname>
-        <subject source="lcsh" encodinganalog="650">Travelers.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6010">Travelers.</subject>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Material:</head>
-        <geogname source="lcsh" encodinganalog="651">Austria.</geogname>
-        <geogname source="lcsh" encodinganalog="651">Bulgaria.</geogname>
-        <geogname source="lcsh" encodinganalog="651">Finland.</geogname>
-        <geogname source="lcsh" encodinganalog="651">France.</geogname>
-        <geogname source="lcsh" encodinganalog="651">Germany.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/2305">Austria.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/2306">Bulgaria.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1285">Finland.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1768">France.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/919">Germany.</geogname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/no95038590">Methodist Episcopal Church. Board of Foreign Missions.</corpname>
-        <subject source="lctgm" encodinganalog="650">Missions--Europe.</subject>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
-        <geogname source="lcsh" encodinganalog="651">Romania.</geogname>
-        <geogname source="lcsh" encodinganalog="651">Sweden.</geogname>
-        <subject source="lctgm" encodinganalog="650">Travel.</subject>
-        <geogname source="lcsh" encodinganalog="651">Yugoslavia.</geogname>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4752">Missions--Europe.</subject>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1599">Romania.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1295">Sweden.</geogname>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3859">Travel.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1681">Yugoslavia.</geogname>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -113,7 +116,7 @@ Edwin M. McBrier papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [62670869644397514916974]" altrender="box">1</container>
             <unittitle><unitdate type="inclusive" normal="1926">1926</unitdate> European Trip</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">214 prints</extent>
@@ -127,13 +130,13 @@ Edwin M. McBrier papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="item">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [62670869644397514916974]" altrender="box">1</container>
             <unittitle>Some reminiscences of Edwin Merton McBrier</unittitle>
           </did>
         </c02>
         <c02 level="item">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [62670869644397514916974]" altrender="box">1</container>
             <unittitle>Trip Around the World <unitdate type="inclusive" normal="1929/1930">1929-1930</unitdate></unittitle>
           </did>
         </c02>

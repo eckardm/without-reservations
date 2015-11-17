@@ -26,7 +26,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>University Archives and Records Program <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/2">University Archives and Records Program <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Campus Information Centers <lb/>(University of Michigan), <lb/>Publications, 1983-[Ongoing]</titleproper>
       <author>Finding aid created by <lb/>Stacy Foley, 1993</author>
     </titlepage>
@@ -36,7 +36,9 @@
       <origination>
         <corpname source="lcnaf" encodinganalog="110">University of Michigan. Campus Information Centers.</corpname>
       </origination>
-      <unittitle encodinganalog="245">Campus Information Centers (University of Michigan) Publications <unitdate type="inclusive" encodinganalog="245$f" normal="1983/9999">1983-[ongoing]</unitdate>, <unitdate type="bulk" encodinganalog="245$g" normal="1988/1990">1988-1990</unitdate></unittitle>
+      <unittitle encodinganalog="245">Campus Information Centers (University of Michigan) Publications</unittitle>
+      <unitdate type="inclusive" encodinganalog="245$f" normal="1983/9999">1983-[ongoing]</unitdate>
+      <unitdate type="bulk" encodinganalog="245$g" normal="1988/1990">1988-1990</unitdate>
       <unitid encodinganalog="099" repositorycode="MiU-H" countrycode="us" type="call number">9936 Bimu B6 2</unitid>
       <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language></langmaterial>
       <abstract>The Campus Information Centers publications include miscellaneous brochures and manuals created by the Campus Information Centers and calendars and flyers collected by the CIC from various campus units describing activities and events held on the campus.</abstract>
@@ -81,7 +83,7 @@ Campus Information Centers (University of Michigan) Records, Bentley Historical 
         <head>Subjects:</head>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/no90015192">Korn, Harold A. (Harold Allen)</persname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n79021846">University of Michigan.</corpname>
-        <genreform source="aat" encodinganalog="655">Videotapes.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3140">Videotapes.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -91,7 +93,7 @@ Campus Information Centers (University of Michigan) Records, Bentley Historical 
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [9488019142282587589128]" altrender="box">1</container>
             <unittitle>Brochures <unitdate type="inclusive" normal="1986/1990">1986-1990</unitdate></unittitle>
           </did>
         </c02>
@@ -101,7 +103,7 @@ Campus Information Centers (University of Michigan) Records, Bentley Historical 
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [9488019142282587589128]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1987-09/1987-12">September-December 1987</unitdate>
               </unittitle>
@@ -112,7 +114,7 @@ Campus Information Centers (University of Michigan) Records, Bentley Historical 
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [9488019142282587589128]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1988-01/1988-12">January-December 1988</unitdate>
               </unittitle>
@@ -123,7 +125,7 @@ Campus Information Centers (University of Michigan) Records, Bentley Historical 
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [9705304468803366826]" altrender="box">2</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1989-01/1989-12">January-December 1989</unitdate>
               </unittitle>
@@ -134,7 +136,7 @@ Campus Information Centers (University of Michigan) Records, Bentley Historical 
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [3373934146311625902462]" altrender="box">3</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1990-01/1990-12">January-December 1990</unitdate>
               </unittitle>
@@ -145,7 +147,7 @@ Campus Information Centers (University of Michigan) Records, Bentley Historical 
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [3373934146311625902462]" altrender="box">3</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1991-01/1991-05">January-May 1991</unitdate>
               </unittitle>
@@ -156,7 +158,7 @@ Campus Information Centers (University of Michigan) Records, Bentley Historical 
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [3373934146311625902462]" altrender="box">3</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1992-01/1992-07">January-July 1992</unitdate>
               </unittitle>
@@ -167,7 +169,7 @@ Campus Information Centers (University of Michigan) Records, Bentley Historical 
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [90774255454296566415]" altrender="box">4</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1992-08/1992-12">August-December 1992</unitdate>
               </unittitle>
@@ -178,7 +180,7 @@ Campus Information Centers (University of Michigan) Records, Bentley Historical 
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [90774255454296566415]" altrender="box">4</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1993-01/1993-04">January-April 1993</unitdate>
               </unittitle>
@@ -194,7 +196,7 @@ Campus Information Centers (University of Michigan) Records, Bentley Historical 
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [90774255454296566415]" altrender="box">4</container>
               <unittitle><title render="italic">Resource Guide for New Students</title>, <unitdate type="inclusive" normal="1983/1986">1983-1986</unitdate></unittitle>
             </did>
           </c03>

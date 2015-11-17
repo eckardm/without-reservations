@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Alfred E. Lyttle papers, 1918-1919</titleproper>
       <author>Finding aid created by <lb/>Julianna Barrera-Gomez, 2012</author>
     </titlepage>
@@ -82,16 +82,16 @@
       <controlaccess>
         <head>Subjects:</head>
         <persname source="lcnaf" encodinganalog="600">Lyttle, Alfred E.</persname>
-        <geogname source="lcnaf" encodinganalog="651.">Soviet Union--History--Allied intervention, 1918-1920.</geogname>
-        <subject source="lcsh" encodinganalog="650">World War, 1914-1918.</subject>
+        <geogname source="lcnaf" encodinganalog="651." ref="/subjects/760">Soviet Union--History--Allied intervention, 1918-1920.</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5712">World War, 1914-1918.</subject>
         <corpname encodinganalog="690" source="lcnaf" authfilenumber="http://id.loc.gov/authorities/names/n2008059426">Polar Bear Expedition.</corpname>
-        <geogname source="lcnaf" encodinganalog="651.">Arkhangel'sk (Russia)</geogname>
-        <geogname source="lcnaf" encodinganalog="651.">Murmansk (Russia)</geogname>
-        <subject source="lctgm" encodinganalog="650">Soldiers--American--Russia (Federation)</subject>
+        <geogname source="lcnaf" encodinganalog="651." ref="/subjects/773">Arkhangel'sk (Russia)</geogname>
+        <geogname source="lcnaf" encodinganalog="651." ref="/subjects/774">Murmansk (Russia)</geogname>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3770">Soldiers--American--Russia (Federation)</subject>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -101,12 +101,12 @@
         </did>
         <c02 level="file">
           <did>
-            <container type="folder" label="Folder">1</container>
+            <container type="folder" label="Folder [3131569604202983042178]" altrender="folder">1</container>
             <unittitle>Correspondence from A. Lyttle</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">11 digital files</extent>
             </physdesc>
-            <dao href="2012073-0001" show="new" actuate="onrequest">
+            <dao href="2012073-0001" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/3974">
               <daodesc>
                 <p>[view items]</p>
               </daodesc>
@@ -115,12 +115,12 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="folder" label="Folder">2</container>
+            <container type="folder" label="Folder [05514408429124774208]" altrender="folder">2</container>
             <unittitle>Articles concerning A. Lyttle's death and burial</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">25 digital files</extent>
             </physdesc>
-            <dao href="2012073-0002" show="new" actuate="onrequest">
+            <dao href="2012073-0002" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/3975">
               <daodesc>
                 <p>[view items]</p>
               </daodesc>
@@ -129,12 +129,12 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="folder" label="Folder">3</container>
+            <container type="folder" label="Folder [38379270481916370726517]" altrender="folder">3</container>
             <unittitle>Articles concerning death benefits</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">47 digital files</extent>
             </physdesc>
-            <dao href="2012073-0003" show="new" actuate="onrequest">
+            <dao href="2012073-0003" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/3976">
               <daodesc>
                 <p>[view items]</p>
               </daodesc>
@@ -143,12 +143,12 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="folder" label="Folder">4</container>
+            <container type="folder" label="Folder [1963140435631827733]" altrender="folder">4</container>
             <unittitle>Miscellaneous articles</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">4 digital files</extent>
             </physdesc>
-            <dao href="2012073-0004" show="new" actuate="onrequest">
+            <dao href="2012073-0004" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/3977">
               <daodesc>
                 <p>[view items]</p>
               </daodesc>
@@ -162,12 +162,12 @@
         </did>
         <c02 level="file">
           <did>
-            <container type="folder" label="Folder">5</container>
+            <container type="folder" label="Folder [168713304384296824815]" altrender="folder">5</container>
             <unittitle>Photographs of Lyttle's grave and memorial</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">3 digital files</extent>
             </physdesc>
-            <dao href="2012073-0005" show="new" actuate="onrequest">
+            <dao href="2012073-0005" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/3978">
               <daodesc>
                 <p>[view items]</p>
               </daodesc>

@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for<lb/> Elizabeth Ann Allen Papers, 1918-2014</titleproper>
       <author>Finding aid created by<lb/> Alexa Hagen, in July 2015</author>
     </titlepage>
@@ -92,30 +92,30 @@
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <subject source="lcsh" encodinganalog="650">African American nurses.</subject>
-        <subject source="lcsh" encodinganalog="650">African American women--Michigan--Ann Arbor.</subject>
-        <subject source="lcsh" encodinganalog="650">Agent Orange.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5814">African American nurses.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5815">African American women--Michigan--Ann Arbor.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5816">Agent Orange.</subject>
         <persname source="lcnaf" encodinganalog="600">Allen, Elizabeth A.</persname>
-        <subject source="lcsh" encodinganalog="650">Desegregation in education.</subject>
-        <geogname source="lcsh" encodinganalog="651">Huntington (W. Va.)</geogname>
-        <geogname source="lcsh" encodinganalog="651">Pleiku (Vietnam)</geogname>
-        <subject source="lcsh" encodinganalog="650">Post-traumatic stress disorder.</subject>
-        <subject source="lcsh" encodinganalog="650">Tet Offensive, 1968.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5817">Desegregation in education.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/914">Huntington (W. Va.)</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/915">Pleiku (Vietnam)</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5818">Post-traumatic stress disorder.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5819">Tet Offensive, 1968.</subject>
         <corpname source="lcnaf" encodinganalog="610">United States. Army Nurse Corps.</corpname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan. School of Nursing--Faculty.</corpname>
         <corpname source="lcnaf" encodinganalog="610">Vietnam Veterans of America.</corpname>
-        <subject source="lcsh" encodinganalog="650">Vietnam War, 1961-1975.</subject>
-        <subject source="lcsh" encodinganalog="650">Vietnam War, 1961-1975--African Americans.</subject>
-        <subject source="lcsh" encodinganalog="650">Vietnam War, 1961-1975--Medical care.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5820">Vietnam War, 1961-1975.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5821">Vietnam War, 1961-1975--African Americans.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5822">Vietnam War, 1961-1975--Medical care.</subject>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Materials:</head>
-        <subject source="lctgm" encodinganalog="650">African Americans.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3680">African Americans.</subject>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Digital moving formats.</genreform>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3168">Digital moving formats.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -132,7 +132,7 @@
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [1376477427394557378908]" altrender="box">1</container>
               <unittitle>Curriculum Vitae and Autobiography, circa <unitdate type="inclusive" normal="1991">1991</unitdate></unittitle>
             </did>
           </c03>
@@ -143,7 +143,7 @@
               <physdesc>
                 <physfacet>.ZIP and .MP4 files)</physfacet>
               </physdesc>
-              <dao href="http://hdl.handle.net/2027.42/112055" show="new" actuate="onrequest">
+              <dao href="http://hdl.handle.net/2027.42/112055" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/1343">
                 <daodesc>
                   <p>[view item]</p>
                 </daodesc>
@@ -157,7 +157,7 @@
               <physdesc>
                 <physfacet>.ZIP and .MP4 files</physfacet>
               </physdesc>
-              <dao href="http://hdl.handle.net/2027.42/112056" show="new" actuate="onrequest">
+              <dao href="http://hdl.handle.net/2027.42/112056" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/1344">
                 <daodesc>
                   <p>[view item]</p>
                 </daodesc>
@@ -167,32 +167,36 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [1376477427394557378908]" altrender="box">1</container>
             <unittitle>Correspondence, <unitdate type="inclusive" normal="1990/2011">1990-2011</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <unittitle>Department of Veteran Affairs, <unitdate type="inclusive" normal="2007">2007</unitdate>, <unitdate type="inclusive" normal="2009">2009</unitdate></unittitle>
+            <container type="box" label="Box [1376477427394557378908]" altrender="box">1</container>
+            <unittitle>Department of Veteran Affairs</unittitle>
+            <unitdate type="inclusive" normal="2007">2007</unitdate>
+            <unitdate type="inclusive" normal="2009">2009</unitdate>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [1376477427394557378908]" altrender="box">1</container>
             <unittitle>Family Correspondence, <unitdate type="inclusive" normal="1936/1977">1936-1977</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [1376477427394557378908]" altrender="box">1</container>
             <unittitle>Family Military Records, <unitdate type="inclusive" normal="1918/1952">1918-1952</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <unittitle>Family Records, <unitdate type="inclusive" normal="1910/1999" certainty="approximate">1910s-1990s</unitdate>, <unitdate type="inclusive">undated</unitdate></unittitle>
+            <container type="box" label="Box [1376477427394557378908]" altrender="box">1</container>
+            <unittitle>Family Records</unittitle>
+            <unitdate type="inclusive" normal="1910/1999" certainty="approximate">1910s-1990s</unitdate>
+            <unitdate type="inclusive">undated</unitdate>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">7 folders</extent>
             </physdesc>
@@ -200,19 +204,19 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [1376477427394557378908]" altrender="box">1</container>
             <unittitle>Photographs, circa <unitdate type="inclusive" normal="1910/2009" certainty="approximate">1910-2000s</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [1376477427394557378908]" altrender="box">1</container>
             <unittitle>Poems, Lyrics, and Therapy Materials, circa <unitdate type="inclusive" normal="1990/1999" certainty="approximate">1990s</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [1376477427394557378908]" altrender="box">1</container>
             <unittitle>Writings, <unitdate type="inclusive" normal="1990/2009" certainty="approximate">1990s-2000s</unitdate></unittitle>
           </did>
         </c02>
@@ -226,31 +230,31 @@
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [1376477427394557378908]" altrender="box">1</container>
             <unittitle>Articles, <unitdate type="inclusive" normal="1989/1994">1989-1994</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [1376477427394557378908]" altrender="box">1</container>
             <unittitle>Newsletters and Magazines, <unitdate type="inclusive" normal="1988/2013">1988-2013</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [1376477427394557378908]" altrender="box">1</container>
             <unittitle>Newspaper Clippings, <unitdate type="inclusive" normal="1985/2012">1985-2012</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [1376477427394557378908]" altrender="box">1</container>
             <unittitle>Presentations and Awards, <unitdate type="inclusive" normal="1988/2014">1988-2014</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [1376477427394557378908]" altrender="box">1</container>
             <unittitle>Professional Service, <unitdate type="inclusive" normal="1990/2006">1990-2006</unitdate></unittitle>
           </did>
         </c02>

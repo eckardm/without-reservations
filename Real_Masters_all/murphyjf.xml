@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>John Francis Murphy papers, 1883-1940</titleproper>
       <author>Finding aid created by <lb/>Michigan Historical Collections staff</author>
     </titlepage>
@@ -77,13 +77,13 @@ John Francis Murphy papers, Bentley Historical Library, University of Michigan</
       <controlaccess>
         <head>Subjects:</head>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n83163731">Democratic Party (Mich.)</corpname>
-        <subject source="lcsh" encodinganalog="650">Elections--Michigan--1886.</subject>
-        <subject source="lcsh" encodinganalog="650">Elections--Michigan--1888.</subject>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n85115336.html">Harbor Beach (Mich.)</geogname>
-        <subject source="lcsh" encodinganalog="650">Lawyers--Michigan.</subject>
-        <subject source="lcsh" encodinganalog="650">Taxation--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6150">Elections--Michigan--1886.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/9470">Elections--Michigan--1888.</subject>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n85115336.html" ref="/subjects/1109">Harbor Beach (Mich.)</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5733">Lawyers--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6189">Taxation--Michigan.</subject>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan--Law School.</corpname>
-        <subject source="lcsh" encodinganalog="650">World War, 1914-1918.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5712">World War, 1914-1918.</subject>
       </controlaccess>
       <controlaccess>
         <head>Contributors:</head>
@@ -99,7 +99,7 @@ John Francis Murphy papers, Bentley Historical Library, University of Michigan</
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [10932646495413010174]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1883/1918">1883-1918</unitdate>
             </unittitle>
@@ -110,7 +110,7 @@ John Francis Murphy papers, Bentley Historical Library, University of Michigan</
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [989819945940616976299]" altrender="box">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1919/1940">1919-1940</unitdate>
               <unitdate type="inclusive">undated</unitdate>
@@ -123,23 +123,27 @@ John Francis Murphy papers, Bentley Historical Library, University of Michigan</
       </c01>
       <c01 level="series">
         <did>
-          <unittitle>Other papers <unitdate type="inclusive" normal="1883/1920">1883-1920</unitdate>, <unitdate type="inclusive">undated</unitdate></unittitle>
+          <unittitle>Other papers</unittitle>
+          <unitdate type="inclusive" normal="1883/1920">1883-1920</unitdate>
+          <unitdate type="inclusive">undated</unitdate>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
-            <unittitle>Clippings, certificates, flyers, etc. <unitdate type="inclusive" normal="1889/1920">1889-1920</unitdate>, <unitdate type="inclusive">undated</unitdate></unittitle>
+            <container type="box" label="Box [989819945940616976299]" altrender="box">2</container>
+            <unittitle>Clippings, certificates, flyers, etc.</unittitle>
+            <unitdate type="inclusive" normal="1889/1920">1889-1920</unitdate>
+            <unitdate type="inclusive">undated</unitdate>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [989819945940616976299]" altrender="box">2</container>
             <unittitle>Miscellanea: docket book <unitdate type="inclusive" normal="1885">1885</unitdate> prayer book, picture of Mary Brennan Murphy, etc.</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [989819945940616976299]" altrender="box">2</container>
             <unittitle>Miscellanea <unitdate type="inclusive">undated</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>

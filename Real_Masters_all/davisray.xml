@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Raymond Cazallis Davis papers, 1850-1917</titleproper>
       <author>Finding aid created by <lb/>Michigan Historical Collections staff</author>
     </titlepage>
@@ -83,13 +83,13 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <geogname source="lcsh" encodinganalog="651">California--Description and travel.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1680">California--Description and travel.</geogname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/nr99003347">Delta Kappa Epsilon. Omicron Chapter (University of Michigan)</corpname>
-        <subject source="lcsh" encodinganalog="650">Libraries--Michigan--Ann Arbor.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6305">Libraries--Michigan--Ann Arbor.</subject>
         <corpname source="lcnaf" encodinganalog="610">Literary Adelphi (University of Michigan).</corpname>
-        <subject source="lcsh" encodinganalog="650">Voyages and travels.</subject>
-        <subject source="lcsh" encodinganalog="650">Travelers.</subject>
-        <geogname source="lcsh" encodinganalog="651">United States--History--Civil War, 1861-1865.</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6009">Voyages and travels.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6010">Travelers.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/909">United States--History--Civil War, 1861-1865.</geogname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan. Library.</corpname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan--Students--Correspondence.</corpname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan--Students--Social life and customs--1851-1860.</corpname>
@@ -99,7 +99,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         <head>Subjects - Visual Materials:</head>
         <persname source="lcnaf" encodinganalog="600">Davis, Ellen Regal.</persname>
         <persname source="lcnaf" encodinganalog="600">Davis, R. C. (Raymond Cazallis), b. 1836.</persname>
-        <subject source="lcsh" encodinganalog="650">Living rooms--Michigan--Ann Arbor.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7157">Living rooms--Michigan--Ann Arbor.</subject>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan--Faculty.</corpname>
       </controlaccess>
       <controlaccess>
@@ -124,10 +124,10 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="gmgpc" encodinganalog="655">Ambrotypes.</genreform>
-        <genreform source="gmgpc" encodinganalog="655">Daguerreotypes.</genreform>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
-        <genreform source="gmgpc" encodinganalog="655">Tintypes.</genreform>
+        <genreform source="gmgpc" encodinganalog="655" ref="/subjects/3469">Ambrotypes.</genreform>
+        <genreform source="gmgpc" encodinganalog="655" ref="/subjects/3480">Daguerreotypes.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
+        <genreform source="gmgpc" encodinganalog="655" ref="/subjects/3455">Tintypes.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -137,7 +137,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6583488878077035]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1850/1859">1850-1859</unitdate>
             </unittitle>
@@ -148,7 +148,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6583488878077035]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1860/1864">1860-1864</unitdate>
             </unittitle>
@@ -159,7 +159,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6583488878077035]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1865/1869">1865-1869</unitdate>
             </unittitle>
@@ -170,7 +170,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6583488878077035]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1872/1877">1872-1877</unitdate>
             </unittitle>
@@ -181,7 +181,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6583488878077035]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1878-01/1878-06">January-June 1878</unitdate>
             </unittitle>
@@ -189,7 +189,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6583488878077035]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1878-07/1878-12">July-December 1878</unitdate>
             </unittitle>
@@ -197,7 +197,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6583488878077035]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1879-01/1879-02">January-February 1879</unitdate>
             </unittitle>
@@ -205,7 +205,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6583488878077035]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1879-04/1879-07">April-July 1879</unitdate>
             </unittitle>
@@ -213,7 +213,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6583488878077035]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1879-08/1879-12">August-December 1879</unitdate>
             </unittitle>
@@ -221,7 +221,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6583488878077035]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1880-01/1880-03">January-March 1880</unitdate>
             </unittitle>
@@ -229,7 +229,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6583488878077035]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1880-04/1880-08">April-August 1880</unitdate>
             </unittitle>
@@ -237,7 +237,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6583488878077035]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1880-09/1880-12">September-December 1880</unitdate>
             </unittitle>
@@ -245,7 +245,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6583488878077035]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1881-01/1881-04">January-April 1881</unitdate>
             </unittitle>
@@ -253,7 +253,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6583488878077035]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1881-05/1881-09">May-September 1881</unitdate>
             </unittitle>
@@ -261,7 +261,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6583488878077035]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1881-10/1881-12">October-December 1881</unitdate>
             </unittitle>
@@ -269,7 +269,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6583488878077035]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1882-01/1882-03">January-March 1882</unitdate>
             </unittitle>
@@ -277,7 +277,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6583488878077035]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1882-04/1882-06">April-June 1882</unitdate>
             </unittitle>
@@ -285,7 +285,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6583488878077035]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1882-07/1882-09">July-September 1882</unitdate>
             </unittitle>
@@ -293,7 +293,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6583488878077035]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1882-10/1882-12">October-December 1882</unitdate>
             </unittitle>
@@ -301,7 +301,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6583488878077035]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1883-01/1883-03">January-March 1883</unitdate>
             </unittitle>
@@ -309,7 +309,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6583488878077035]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1883-04/1883-06">April-June 1883</unitdate>
             </unittitle>
@@ -317,7 +317,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6583488878077035]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1883-07/1883-09">July-September 1883</unitdate>
             </unittitle>
@@ -325,7 +325,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6583488878077035]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1883-10">October 1883</unitdate>
             </unittitle>
@@ -333,7 +333,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6583488878077035]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1884-01/1884-02">January-February 1884</unitdate>
             </unittitle>
@@ -341,7 +341,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6583488878077035]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1884-03/1884-05">March-May 1884</unitdate>
             </unittitle>
@@ -349,7 +349,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6583488878077035]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1884-06/1884-09">June-September 1884</unitdate>
             </unittitle>
@@ -357,7 +357,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6583488878077035]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1884-10/1884-12">October-December 1884</unitdate>
             </unittitle>
@@ -365,7 +365,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6583488878077035]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1885-01/1885-03">January-March 1885</unitdate>
             </unittitle>
@@ -373,7 +373,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6583488878077035]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1885-04/1885-06">April-June 1885</unitdate>
             </unittitle>
@@ -381,7 +381,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6583488878077035]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1885-07/1885-09">July-September 1885</unitdate>
             </unittitle>
@@ -389,7 +389,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6583488878077035]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1885-10/1885-12">October-December 1885</unitdate>
             </unittitle>
@@ -397,7 +397,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [302145437435821924963771]" altrender="box">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1886-01/1886-03">January-March 1886</unitdate>
             </unittitle>
@@ -405,7 +405,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [302145437435821924963771]" altrender="box">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1886-04/1886-06">April-June 1886</unitdate>
             </unittitle>
@@ -413,7 +413,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [302145437435821924963771]" altrender="box">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1886-07/1886-09">July-September 1886</unitdate>
             </unittitle>
@@ -421,7 +421,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [302145437435821924963771]" altrender="box">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1886-10/1886-12">October-December 1886</unitdate>
             </unittitle>
@@ -429,7 +429,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [302145437435821924963771]" altrender="box">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1887-01/1887-04">January-April 1887</unitdate>
             </unittitle>
@@ -440,7 +440,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [302145437435821924963771]" altrender="box">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1887-05/1887-10">May-October 1887</unitdate>
             </unittitle>
@@ -451,7 +451,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [302145437435821924963771]" altrender="box">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1887-11/1887-12">November-December 1887</unitdate>
             </unittitle>
@@ -462,7 +462,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [302145437435821924963771]" altrender="box">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1888-01/1888-03">January-March 1888</unitdate>
             </unittitle>
@@ -470,7 +470,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [302145437435821924963771]" altrender="box">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1888-04/1888-06">April-June 1888</unitdate>
             </unittitle>
@@ -481,7 +481,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [302145437435821924963771]" altrender="box">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1888-07/1888-10">July-October 1888</unitdate>
             </unittitle>
@@ -489,7 +489,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [302145437435821924963771]" altrender="box">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1888-11/1888-12">November-December 1888</unitdate>
             </unittitle>
@@ -500,7 +500,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [302145437435821924963771]" altrender="box">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1889-01/1889-02">January-February 1889</unitdate>
             </unittitle>
@@ -508,7 +508,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [302145437435821924963771]" altrender="box">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1889-03/1889-04">March-April 1889</unitdate>
             </unittitle>
@@ -516,7 +516,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [302145437435821924963771]" altrender="box">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1889-05/1889-06">May-June 1889</unitdate>
             </unittitle>
@@ -524,7 +524,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [302145437435821924963771]" altrender="box">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1889-07/1889-10">July-October 1889</unitdate>
             </unittitle>
@@ -532,7 +532,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [302145437435821924963771]" altrender="box">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1889-11/1889-12">November-December 1889</unitdate>
             </unittitle>
@@ -540,7 +540,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [302145437435821924963771]" altrender="box">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1890-01/1890-03">January-March 1890</unitdate>
             </unittitle>
@@ -548,7 +548,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [302145437435821924963771]" altrender="box">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1890-04/1890-06">April-June 1890</unitdate>
             </unittitle>
@@ -556,7 +556,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [302145437435821924963771]" altrender="box">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1890-07/1890-10">July-October 1890</unitdate>
             </unittitle>
@@ -564,7 +564,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [302145437435821924963771]" altrender="box">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1890-11/1890-12">November-December 1890</unitdate>
             </unittitle>
@@ -572,7 +572,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [302145437435821924963771]" altrender="box">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1891-01/1891-03">January-March 1891</unitdate>
             </unittitle>
@@ -580,7 +580,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [302145437435821924963771]" altrender="box">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1891-04/1891-06">April-June 1891</unitdate>
             </unittitle>
@@ -588,7 +588,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [302145437435821924963771]" altrender="box">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1891-07/1891-09">July-September 1891</unitdate>
             </unittitle>
@@ -596,7 +596,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [302145437435821924963771]" altrender="box">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1891-10/1891-12">October-December 1891</unitdate>
             </unittitle>
@@ -604,7 +604,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [302145437435821924963771]" altrender="box">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1892-01/1892-02">January-February 1892</unitdate>
             </unittitle>
@@ -612,7 +612,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [302145437435821924963771]" altrender="box">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1892-03/1892-05">March-May 1892</unitdate>
             </unittitle>
@@ -620,7 +620,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [56067911438418995838]" altrender="box">3</container>
             <unittitle>
               <unitdate type="inclusive" normal="1892-06/1892-09">June-September 1892</unitdate>
             </unittitle>
@@ -628,7 +628,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [56067911438418995838]" altrender="box">3</container>
             <unittitle>
               <unitdate type="inclusive" normal="1892-10/1892-12">October-December 1892</unitdate>
             </unittitle>
@@ -639,7 +639,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [56067911438418995838]" altrender="box">3</container>
             <unittitle>
               <unitdate type="inclusive" normal="1893-01/1893-03">January-March 1893</unitdate>
             </unittitle>
@@ -647,7 +647,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [56067911438418995838]" altrender="box">3</container>
             <unittitle>
               <unitdate type="inclusive" normal="1893-04/1893-06">April-June 1893</unitdate>
             </unittitle>
@@ -658,7 +658,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [56067911438418995838]" altrender="box">3</container>
             <unittitle>
               <unitdate type="inclusive" normal="1893-07/1893-09">July-September 1893</unitdate>
             </unittitle>
@@ -666,7 +666,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [56067911438418995838]" altrender="box">3</container>
             <unittitle>
               <unitdate type="inclusive" normal="1893-10/1893-12">October-December 1893</unitdate>
             </unittitle>
@@ -674,7 +674,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [56067911438418995838]" altrender="box">3</container>
             <unittitle>
               <unitdate type="inclusive" normal="1894-01/1894-02">January-February 1894</unitdate>
             </unittitle>
@@ -682,7 +682,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [56067911438418995838]" altrender="box">3</container>
             <unittitle>
               <unitdate type="inclusive" normal="1894-03/1894-04">March-April 1894</unitdate>
             </unittitle>
@@ -690,7 +690,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [56067911438418995838]" altrender="box">3</container>
             <unittitle>
               <unitdate type="inclusive" normal="1894-05/1894-06">May-June 1894</unitdate>
             </unittitle>
@@ -698,7 +698,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [56067911438418995838]" altrender="box">3</container>
             <unittitle>
               <unitdate type="inclusive" normal="1894-07/1894-08">July-August 1894</unitdate>
             </unittitle>
@@ -706,7 +706,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [56067911438418995838]" altrender="box">3</container>
             <unittitle>
               <unitdate type="inclusive" normal="1894-09/1894-10">September-October 1894</unitdate>
             </unittitle>
@@ -714,7 +714,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [56067911438418995838]" altrender="box">3</container>
             <unittitle>
               <unitdate type="inclusive" normal="1894-11/1894-12">November-December 1894</unitdate>
             </unittitle>
@@ -722,7 +722,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [56067911438418995838]" altrender="box">3</container>
             <unittitle>
               <unitdate type="inclusive" normal="1895-01/1895-02">January-February 1895</unitdate>
             </unittitle>
@@ -730,7 +730,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [56067911438418995838]" altrender="box">3</container>
             <unittitle>
               <unitdate type="inclusive" normal="1895-03/1895-04">March-April 1895</unitdate>
             </unittitle>
@@ -738,7 +738,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [56067911438418995838]" altrender="box">3</container>
             <unittitle>
               <unitdate type="inclusive" normal="1895-05/1895-06">May-June 1895</unitdate>
             </unittitle>
@@ -746,7 +746,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [56067911438418995838]" altrender="box">3</container>
             <unittitle>
               <unitdate type="inclusive" normal="1895-07/1895-09">July-September 1895</unitdate>
             </unittitle>
@@ -754,7 +754,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [56067911438418995838]" altrender="box">3</container>
             <unittitle>
               <unitdate type="inclusive" normal="1895-10/1895-12">October-December 1895</unitdate>
             </unittitle>
@@ -762,7 +762,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [56067911438418995838]" altrender="box">3</container>
             <unittitle>
               <unitdate type="inclusive" normal="1896-01/1896-02">January-February 1896</unitdate>
             </unittitle>
@@ -770,7 +770,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [56067911438418995838]" altrender="box">3</container>
             <unittitle>
               <unitdate type="inclusive" normal="1896-03/1896-04">March-April 1896</unitdate>
             </unittitle>
@@ -778,7 +778,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [56067911438418995838]" altrender="box">3</container>
             <unittitle>
               <unitdate type="inclusive" normal="1896-05/1896-06">May-June 1896</unitdate>
             </unittitle>
@@ -786,7 +786,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [56067911438418995838]" altrender="box">3</container>
             <unittitle>
               <unitdate type="inclusive" normal="1896-07/1896-09">July-September 1896</unitdate>
             </unittitle>
@@ -797,7 +797,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [56067911438418995838]" altrender="box">3</container>
             <unittitle>
               <unitdate type="inclusive" normal="1896-10/1896-12">October-December 1896</unitdate>
             </unittitle>
@@ -805,7 +805,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [952066674360817296410]" altrender="box">4</container>
             <unittitle>
               <unitdate type="inclusive" normal="1897-01/1897-03">January-March 1897</unitdate>
             </unittitle>
@@ -813,7 +813,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [952066674360817296410]" altrender="box">4</container>
             <unittitle>
               <unitdate type="inclusive" normal="1897-04/1897-06">April-June 1897</unitdate>
             </unittitle>
@@ -821,7 +821,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [952066674360817296410]" altrender="box">4</container>
             <unittitle>
               <unitdate type="inclusive" normal="1897-07/1897-09">July-September 1897</unitdate>
             </unittitle>
@@ -829,7 +829,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [952066674360817296410]" altrender="box">4</container>
             <unittitle>
               <unitdate type="inclusive" normal="1897-10/1897-12">October-December 1897</unitdate>
             </unittitle>
@@ -837,7 +837,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [952066674360817296410]" altrender="box">4</container>
             <unittitle>
               <unitdate type="inclusive" normal="1898-01/1898-02">January-February 1898</unitdate>
             </unittitle>
@@ -845,7 +845,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [952066674360817296410]" altrender="box">4</container>
             <unittitle>
               <unitdate type="inclusive" normal="1898-03/1898-04">March-April 1898</unitdate>
             </unittitle>
@@ -853,7 +853,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [952066674360817296410]" altrender="box">4</container>
             <unittitle>
               <unitdate type="inclusive" normal="1898-05/1898-06">May-June 1898</unitdate>
             </unittitle>
@@ -861,7 +861,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [952066674360817296410]" altrender="box">4</container>
             <unittitle>
               <unitdate type="inclusive" normal="1898-07/1898-09">July-September 1898</unitdate>
             </unittitle>
@@ -869,7 +869,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [952066674360817296410]" altrender="box">4</container>
             <unittitle>
               <unitdate type="inclusive" normal="1898-10/1898-12">October-December 1898</unitdate>
             </unittitle>
@@ -877,7 +877,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [952066674360817296410]" altrender="box">4</container>
             <unittitle>
               <unitdate type="inclusive" normal="1899-01/1899-03">January-March 1899</unitdate>
             </unittitle>
@@ -885,7 +885,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [952066674360817296410]" altrender="box">4</container>
             <unittitle>
               <unitdate type="inclusive" normal="1899-04/1899-06">April-June 1899</unitdate>
             </unittitle>
@@ -893,7 +893,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [952066674360817296410]" altrender="box">4</container>
             <unittitle>
               <unitdate type="inclusive" normal="1899-07/1899-09">July-September 1899</unitdate>
             </unittitle>
@@ -901,7 +901,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [952066674360817296410]" altrender="box">4</container>
             <unittitle>
               <unitdate type="inclusive" normal="1899-10/1899-12">October-December 1899</unitdate>
             </unittitle>
@@ -909,7 +909,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [952066674360817296410]" altrender="box">4</container>
             <unittitle>
               <unitdate type="inclusive" normal="1900-01/1900-02">January-February 1900</unitdate>
             </unittitle>
@@ -917,7 +917,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [952066674360817296410]" altrender="box">4</container>
             <unittitle>
               <unitdate type="inclusive" normal="1900-03/1900-04">March-April 1900</unitdate>
             </unittitle>
@@ -925,7 +925,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [952066674360817296410]" altrender="box">4</container>
             <unittitle>
               <unitdate type="inclusive" normal="1900-05/1900-06">May-June 1900</unitdate>
             </unittitle>
@@ -933,7 +933,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [952066674360817296410]" altrender="box">4</container>
             <unittitle>
               <unitdate type="inclusive" normal="1900-07/1900-10">July-October 1900</unitdate>
             </unittitle>
@@ -941,7 +941,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [952066674360817296410]" altrender="box">4</container>
             <unittitle>
               <unitdate type="inclusive" normal="1900-11/1900-12">November-December 1900</unitdate>
             </unittitle>
@@ -949,7 +949,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [952066674360817296410]" altrender="box">4</container>
             <unittitle>
               <unitdate type="inclusive" normal="1901-01/1901-03">January-March 1901</unitdate>
             </unittitle>
@@ -957,7 +957,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [952066674360817296410]" altrender="box">4</container>
             <unittitle>
               <unitdate type="inclusive" normal="1901-04/1901-05">April-May 1901</unitdate>
             </unittitle>
@@ -965,7 +965,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [952066674360817296410]" altrender="box">4</container>
             <unittitle>
               <unitdate type="inclusive" normal="1901-07/1901-12">July-December 1901</unitdate>
             </unittitle>
@@ -973,7 +973,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [952066674360817296410]" altrender="box">4</container>
             <unittitle>
               <unitdate type="inclusive" normal="1902-01/1902-03">January-March 1902</unitdate>
             </unittitle>
@@ -981,7 +981,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [952066674360817296410]" altrender="box">4</container>
             <unittitle>
               <unitdate type="inclusive" normal="1902-04/1902-08">April-August 1902</unitdate>
             </unittitle>
@@ -989,7 +989,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [952066674360817296410]" altrender="box">4</container>
             <unittitle>
               <unitdate type="inclusive" normal="1902-09/1902-12">September-December 1902</unitdate>
             </unittitle>
@@ -997,7 +997,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [952066674360817296410]" altrender="box">4</container>
             <unittitle>
               <unitdate type="inclusive" normal="1903-01/1903-02">January-February 1903</unitdate>
             </unittitle>
@@ -1005,7 +1005,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [952066674360817296410]" altrender="box">4</container>
             <unittitle>
               <unitdate type="inclusive" normal="1903-03/1903-04">March-April 1903</unitdate>
             </unittitle>
@@ -1013,7 +1013,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [952066674360817296410]" altrender="box">4</container>
             <unittitle>
               <unitdate type="inclusive" normal="1903-05/1903-07">May-July 1903</unitdate>
             </unittitle>
@@ -1021,7 +1021,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [952066674360817296410]" altrender="box">4</container>
             <unittitle>
               <unitdate type="inclusive" normal="1903-08/1903-10">August-October 1903</unitdate>
             </unittitle>
@@ -1029,7 +1029,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [952066674360817296410]" altrender="box">4</container>
             <unittitle>
               <unitdate type="inclusive" normal="1903-11/1903-12">November-December 1903</unitdate>
             </unittitle>
@@ -1040,7 +1040,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [677725339740165370171]" altrender="box">5</container>
             <unittitle>
               <unitdate type="inclusive" normal="1904-01/1904-03">January-March 1904</unitdate>
             </unittitle>
@@ -1048,7 +1048,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [677725339740165370171]" altrender="box">5</container>
             <unittitle>
               <unitdate type="inclusive" normal="1904-04/1904-05">April-May 1904</unitdate>
             </unittitle>
@@ -1056,7 +1056,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [677725339740165370171]" altrender="box">5</container>
             <unittitle>
               <unitdate type="inclusive" normal="1904-06/1904-08">June-August 1904</unitdate>
             </unittitle>
@@ -1067,7 +1067,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [677725339740165370171]" altrender="box">5</container>
             <unittitle>
               <unitdate type="inclusive" normal="1904-09/1904-12">September-December 1904</unitdate>
             </unittitle>
@@ -1075,7 +1075,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [677725339740165370171]" altrender="box">5</container>
             <unittitle>
               <unitdate type="inclusive" normal="1905-01/1905-02">January-February 1905</unitdate>
             </unittitle>
@@ -1083,7 +1083,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [677725339740165370171]" altrender="box">5</container>
             <unittitle>
               <unitdate type="inclusive" normal="1905-03/1905-04">March-April 1905</unitdate>
             </unittitle>
@@ -1091,7 +1091,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [677725339740165370171]" altrender="box">5</container>
             <unittitle>
               <unitdate type="inclusive" normal="1905-05/1905-06">May-June 1905</unitdate>
             </unittitle>
@@ -1099,7 +1099,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [677725339740165370171]" altrender="box">5</container>
             <unittitle>
               <unitdate type="inclusive" normal="1905-07/1905-12">July-December 1905</unitdate>
             </unittitle>
@@ -1107,7 +1107,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [677725339740165370171]" altrender="box">5</container>
             <unittitle>
               <unitdate type="inclusive" normal="1906">1906</unitdate>
             </unittitle>
@@ -1115,7 +1115,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [677725339740165370171]" altrender="box">5</container>
             <unittitle>
               <unitdate type="inclusive" normal="1910/1922">1910-1922 (scattered)</unitdate>
             </unittitle>
@@ -1123,7 +1123,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [677725339740165370171]" altrender="box">5</container>
             <unittitle><unitdate type="inclusive">Undated</unitdate> and various</unittitle>
           </did>
         </c02>
@@ -1134,61 +1134,61 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [677725339740165370171]" altrender="box">5</container>
             <unittitle>Manuscript, report, other items relating to opening of the new library <unitdate type="inclusive" normal="1883">1883</unitdate>, as well as miscellanea concerning the operation of the library, duties of the librarian and the assistant</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [677725339740165370171]" altrender="box">5</container>
             <unittitle>Annual report of the librarian to the Board of Regents <unitdate type="inclusive" normal="1885">1885</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [677725339740165370171]" altrender="box">5</container>
             <unittitle>Annual report of the librarian to the Board of Regents <unitdate type="inclusive" normal="1892">1892</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [677725339740165370171]" altrender="box">5</container>
             <unittitle>Annual report of the librarian to the Board of Regents <unitdate type="inclusive" normal="1893">1893</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [677725339740165370171]" altrender="box">5</container>
             <unittitle>Correspondence with various book companies about an exhibit of University of Michigan professors' books at the Chicago World's Fair <unitdate type="inclusive" normal="1893">1893</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [677725339740165370171]" altrender="box">5</container>
             <unittitle>B.A. Finney's report to Davis on annual circulation <unitdate type="inclusive" normal="1895">1895</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [677725339740165370171]" altrender="box">5</container>
             <unittitle>B.A. Finney's annual report to Davis on circulation <unitdate type="inclusive" normal="1903">1903</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [677725339740165370171]" altrender="box">5</container>
             <unittitle>Building of Carnegie Libraries, correspondence regarding <unitdate type="inclusive" normal="1902/1904">1902-1904</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [677725339740165370171]" altrender="box">5</container>
             <unittitle>Annual reports of B.A. Finney and H.O. Severance <unitdate type="inclusive" normal="1905">1905</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [677725339740165370171]" altrender="box">5</container>
             <unittitle>Bills and receipts <unitdate type="inclusive" normal="1870/1906">1870-1906</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">5 folders</extent>
@@ -1197,13 +1197,13 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [677725339740165370171]" altrender="box">5</container>
             <unittitle>War Department forms acknowledging return of books loaned to University of Michigan Library</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [677725339740165370171]" altrender="box">5</container>
             <unittitle>Library miscellaneous</unittitle>
           </did>
         </c02>
@@ -1214,7 +1214,7 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [677725339740165370171]" altrender="box">5</container>
             <unittitle>Autobiography and related</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -1223,31 +1223,31 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [677725339740165370171]" altrender="box">5</container>
             <unittitle>Commonplace book with notes on sermons, etc.</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [677725339740165370171]" altrender="box">5</container>
             <unittitle>Miscellanea-will, cemetery deed, land grants</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [677725339740165370171]" altrender="box">5</container>
             <unittitle>Senate memorial for R.C. Davis</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [677725339740165370171]" altrender="box">5</container>
             <unittitle>Miscellaneous manuscripts-poem, bibliography, bibliographical data</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [677725339740165370171]" altrender="box">5</container>
             <unittitle><genreform normal="Photographs">Photographs</genreform>, mainly portraits of Davis and his wife and at his residence</unittitle>
           </did>
           <odd>
@@ -1261,67 +1261,67 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [90499947044268374494294]" altrender="box">6</container>
             <unittitle>On Thompson's Rocks-The Idemic Sin</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [90499947044268374494294]" altrender="box">6</container>
             <unittitle>The Librarian's Relation to Material Things (read before the Columbia Library School)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [90499947044268374494294]" altrender="box">6</container>
             <unittitle>The Books of <unitdate type="inclusive" normal="1886">1886</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [90499947044268374494294]" altrender="box">6</container>
             <unittitle>Address read before the Student Christian Association <unitdate type="inclusive">undated</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [90499947044268374494294]" altrender="box">6</container>
             <unittitle>Maine Artillery on a Lark-a story</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [90499947044268374494294]" altrender="box">6</container>
             <unittitle>Interview with the Animals</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [90499947044268374494294]" altrender="box">6</container>
             <unittitle>The Diamond and the Pearl</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [90499947044268374494294]" altrender="box">6</container>
             <unittitle>The History of Philosophy</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [90499947044268374494294]" altrender="box">6</container>
             <unittitle>Pink and Pedro-(story)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [90499947044268374494294]" altrender="box">6</container>
             <unittitle>Tales of a Wayside</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [90499947044268374494294]" altrender="box">6</container>
             <unittitle>The Twin Voyages of Captains Teel and Rawley</unittitle>
           </did>
         </c02>
@@ -1331,104 +1331,104 @@ Raymond Cazallis Davis papers, Bentley Historical Library, University of Michiga
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [90499947044268374494294]" altrender="box">6</container>
               <unittitle>Book I Lucullus (outline)</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [90499947044268374494294]" altrender="box">6</container>
               <unittitle>Book II Demetrius</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [90499947044268374494294]" altrender="box">6</container>
               <unittitle>Book IV The Fortunate Isles</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [90499947044268374494294]" altrender="box">6</container>
               <unittitle>Book V The Battle of Actium</unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [90499947044268374494294]" altrender="box">6</container>
             <unittitle>Maine Yarns</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [90499947044268374494294]" altrender="box">6</container>
             <unittitle>References and notes for Practical and Intellectual Bibliography and other subjects</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [90499947044268374494294]" altrender="box">6</container>
             <unittitle>Capture and Recapture (story)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [90499947044268374494294]" altrender="box">6</container>
             <unittitle>Richard Hooker-an analysis of Hooker as writer</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [90499947044268374494294]" altrender="box">6</container>
             <unittitle>Unselfish nature of bibliographical labor in the last century (2 copies)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [90499947044268374494294]" altrender="box">6</container>
             <unittitle>The Williams Emeritus Professorship Fund</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [90499947044268374494294]" altrender="box">6</container>
             <unittitle>Prefatory matter of books</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [90499947044268374494294]" altrender="box">6</container>
             <unittitle>An Irish Idyll (story)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [90499947044268374494294]" altrender="box">6</container>
             <unittitle>Introductory to Nature and the Supernatural</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [90499947044268374494294]" altrender="box">6</container>
             <unittitle>Sea Serpent (2 copies)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [90499947044268374494294]" altrender="box">6</container>
             <unittitle>Novel reading (essay)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [90499947044268374494294]" altrender="box">6</container>
             <unittitle>Original manuscript of the <title render="italic">History of Books</title>, including omitted material</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [90499947044268374494294]" altrender="box">6</container>
             <unittitle>Notebooks on the history of books and printing</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">9 tablets</extent>

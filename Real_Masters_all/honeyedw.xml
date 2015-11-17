@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Edward M. Honey photographs, 1903-1929</titleproper>
       <author>Finding aid created by <lb/>Michigan Historical Collections staff</author>
     </titlepage>
@@ -79,17 +79,17 @@ Edward M. Honey photographs, Bentley Historical Library, University of Michigan<
       </p>
       <controlaccess>
         <head>Subjects - Visual Materials:</head>
-        <subject source="lctgm" encodinganalog="650">Buildings--Michigan--Detroit.</subject>
-        <subject source="lctgm" encodinganalog="650">Construction industry.</subject>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n79045539.html">Detroit (Mich.)</geogname>
-        <geogname source="lctgm" encodinganalog="651">Detroit (Mich.)--Buildings.</geogname>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4029">Buildings--Michigan--Detroit.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3691">Construction industry.</subject>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n79045539.html" ref="/subjects/933">Detroit (Mich.)</geogname>
+        <geogname source="lctgm" encodinganalog="651" ref="/subjects/239">Detroit (Mich.)--Buildings.</geogname>
         <corpname source="lcnaf" encodinganalog="610">Hill Auditorium (University of Michigan)</corpname>
-        <subject source="lctgm" encodinganalog="650">Laborers.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3665">Laborers.</subject>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="gmgpc" encodinganalog="655">Cyanotypes.</genreform>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="gmgpc" encodinganalog="655" ref="/subjects/3474">Cyanotypes.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -101,7 +101,7 @@ Edward M. Honey photographs, Bentley Historical Library, University of Michigan<
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [550908989444396909749]" altrender="box">1</container>
             <unittitle>Barlum Tower, Detroit <unitdate type="inclusive" normal="1927">1927</unitdate></unittitle>
           </did>
           <odd>
@@ -110,7 +110,7 @@ Edward M. Honey photographs, Bentley Historical Library, University of Michigan<
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [550908989444396909749]" altrender="box">1</container>
             <unittitle>Bell Telephone Building, Detroit <unitdate type="inclusive" normal="1927">1927</unitdate></unittitle>
           </did>
           <odd>
@@ -119,7 +119,7 @@ Edward M. Honey photographs, Bentley Historical Library, University of Michigan<
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [550908989444396909749]" altrender="box">1</container>
             <unittitle>Fort Shelby Hotel, Detroit <unitdate type="inclusive" normal="1927">1927</unitdate></unittitle>
           </did>
           <odd>
@@ -128,7 +128,7 @@ Edward M. Honey photographs, Bentley Historical Library, University of Michigan<
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [550908989444396909749]" altrender="box">1</container>
             <unittitle>Hunter Building, Detroit <unitdate type="inclusive" normal="1911">1911</unitdate></unittitle>
           </did>
           <odd>
@@ -137,7 +137,7 @@ Edward M. Honey photographs, Bentley Historical Library, University of Michigan<
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [550908989444396909749]" altrender="box">1</container>
             <unittitle>Michigan State Fair <unitdate type="inclusive" normal="1929">1929</unitdate></unittitle>
           </did>
           <odd>
@@ -153,32 +153,32 @@ Edward M. Honey photographs, Bentley Historical Library, University of Michigan<
           </odd>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [550908989444396909749]" altrender="box">1</container>
               <unittitle>Palms Building <unitdate type="inclusive" normal="1908">1908</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [550908989444396909749]" altrender="box">1</container>
               <unittitle>1200 Washington Boulevard</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [550908989444396909749]" altrender="box">1</container>
               <unittitle>Vocational High School</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [550908989444396909749]" altrender="box">1</container>
               <unittitle>Masonic Temple</unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [550908989444396909749]" altrender="box">1</container>
             <unittitle>Unidentified <unitdate type="inclusive" normal="1911">1911</unitdate></unittitle>
           </did>
           <odd>
@@ -187,7 +187,7 @@ Edward M. Honey photographs, Bentley Historical Library, University of Michigan<
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [550908989444396909749]" altrender="box">1</container>
             <unittitle>Unidentified <unitdate type="inclusive" normal="1914/1920">1914-1920</unitdate></unittitle>
           </did>
           <odd>
@@ -196,7 +196,7 @@ Edward M. Honey photographs, Bentley Historical Library, University of Michigan<
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [550908989444396909749]" altrender="box">1</container>
             <unittitle>Unidentified <unitdate type="inclusive" normal="1922">1922</unitdate></unittitle>
           </did>
           <odd>
@@ -205,7 +205,7 @@ Edward M. Honey photographs, Bentley Historical Library, University of Michigan<
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [550908989444396909749]" altrender="box">1</container>
             <unittitle>Unidentified <unitdate type="inclusive">undated</unitdate></unittitle>
           </did>
           <odd>
@@ -219,13 +219,13 @@ Edward M. Honey photographs, Bentley Historical Library, University of Michigan<
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [550908989444396909749]" altrender="box">1</container>
             <unittitle>Album <unitdate type="inclusive" normal="1911">1911</unitdate>; include Hunter Building, Detroit and unidentified building next to Detroiter Abend Post Building</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [550908989444396909749]" altrender="box">1</container>
             <unittitle>Album <unitdate type="inclusive" normal="1903/1912">1903-1912</unitdate></unittitle>
           </did>
           <odd>

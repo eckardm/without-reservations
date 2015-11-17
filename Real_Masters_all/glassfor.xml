@@ -30,7 +30,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding Aid for <lb/>Harold T. Glassford photograph collection, <date>ca. 1900s-ca. 1940s</date></titleproper>
       <author>Finding aid prepared by: <lb/>Len Coombs</author>
     </titlepage>
@@ -79,12 +79,12 @@
       <controlaccess>
         <head>Subjects</head>
         <persname source="lcnaf" encodinganalog="600">Glassford, Harold T., 1903-1984.</persname>
-        <subject source="lctgm" encodinganalog="650">Soldiers--American.</subject>
-        <subject source="lctgm" encodinganalog="650">Military art and science--United States.</subject>
-        <geogname source="lcsh" encodinganalog="651">Soviet Union--History--Allied intervention, 1918-1920.</geogname>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3674">Soldiers--American.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4407">Military art and science--United States.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/883">Soviet Union--History--Allied intervention, 1918-1920.</geogname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n82129076">United States. Army. Infantry, 339th.</corpname>
-        <genreform source="aat" encodinganalog="655">Scrapbooks.</genreform>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3139">Scrapbooks.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
         <persname source="lcnaf" encodinganalog="700">Harts, William.</persname>
         <persname source="lcnaf" encodinganalog="700">Bell, Leon.</persname>
       </controlaccess>
@@ -96,7 +96,7 @@
         </did>
         <c02 level="file">
           <did>
-            <container type="folder" label="Folder">1</container>
+            <container type="folder" label="Folder [11915084969240429291270]" altrender="folder">1</container>
             <unittitle>Military (Spanish-American War era?)</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">5 items</extent>
@@ -105,7 +105,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="folder" label="Folder">2</container>
+            <container type="folder" label="Folder [3208090945921162929205]" altrender="folder">2</container>
             <unittitle>Polar Bear intervention</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 items</extent>
@@ -114,7 +114,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="folder" label="Folder">3</container>
+            <container type="folder" label="Folder [62910574899413632244]" altrender="folder">3</container>
             <unittitle>Harold Glassford photo album</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">39 items</extent>
@@ -123,7 +123,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="folder" label="Folder">4</container>
+            <container type="folder" label="Folder [551046609651665]" altrender="folder">4</container>
             <unittitle>Loose photos from scrapbook</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">7 items</extent>
@@ -132,7 +132,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="folder" label="Folder">5</container>
+            <container type="folder" label="Folder [76457444326618620486]" altrender="folder">5</container>
             <unittitle>Photographs</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">12 items</extent>
@@ -141,7 +141,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="folder" label="Folder">6</container>
+            <container type="folder" label="Folder [50840544583440175614]" altrender="folder">6</container>
             <unittitle>Misc. military and personal photos</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">16 items</extent>
@@ -150,7 +150,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="folder" label="Folder">7</container>
+            <container type="folder" label="Folder [272949643321970]" altrender="folder">7</container>
             <unittitle>Negatives</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">23 items</extent>
@@ -159,7 +159,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="folder" label="Folder">8</container>
+            <container type="folder" label="Folder [449079445884703855163]" altrender="folder">8</container>
             <unittitle>Miscellaneous printed</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">1 items</extent>
@@ -168,7 +168,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="folder" label="Folder">9</container>
+            <container type="folder" label="Folder [880728877649321993290449509]" altrender="folder">9</container>
             <unittitle>Medium-sized photograph</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">1 items</extent>
@@ -177,7 +177,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="folder" label="Folder">10</container>
+            <container type="folder" label="Folder [983845925832]" altrender="folder">10</container>
             <unittitle>Large-sized photograph</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">1 items</extent>

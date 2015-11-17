@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Wooster Woodruff Beman Papers, 1865-1938</titleproper>
       <author>Finding aid created by <lb/>Michigan Historical Collections staff.</author>
     </titlepage>
@@ -37,7 +37,9 @@
       <origination>
         <persname source="lcnaf" encodinganalog="100" authfilenumber="http://id.loc.gov/authorities/names/n84805201">Beman, Wooster Woodruff, 1850-1922.</persname>
       </origination>
-      <unittitle encodinganalog="245">Wooster Woodruff Beman papers <unitdate type="inclusive" encodinganalog="245$f" normal="1865/1938">1865-1938</unitdate>, <unitdate type="bulk" encodinganalog="245$g" normal="1878/1922">1878-1922</unitdate></unittitle>
+      <unittitle encodinganalog="245">Wooster Woodruff Beman papers</unittitle>
+      <unitdate type="inclusive" encodinganalog="245$f" normal="1865/1938">1865-1938</unitdate>
+      <unitdate type="bulk" encodinganalog="245$g" normal="1878/1922">1878-1922</unitdate>
       <unitid encodinganalog="852$h" repositorycode="MiU-H" countrycode="us" type="call number">85735 Aa 2</unitid>
       <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language></langmaterial>
       <abstract>Instructor at Kalamazoo College, later professor of mathematics at the University of Michigan; correspondence, mathematical papers; and miscellaneous topical files.</abstract>
@@ -81,10 +83,10 @@ Wooster Woodruff Beman Papers, Bentley Historical Library, University of Michiga
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n79022219.html">Ann Arbor (Mich.)</geogname>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n79022219.html" ref="/subjects/860">Ann Arbor (Mich.)</geogname>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n84805201">Beman, Wooster Woodruff, 1850-1922.</persname>
-        <subject source="lcsh" encodinganalog="650">Mathematics.</subject>
-        <subject source="lcsh" encodinganalog="650">Prostitution--Michigan--Ann Arbor.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6252">Mathematics.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6253">Prostitution--Michigan--Ann Arbor.</subject>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n88657243">University of Michigan. Dept. of Mathematics.</corpname>
       </controlaccess>
       <controlaccess>
@@ -107,7 +109,7 @@ Wooster Woodruff Beman Papers, Bentley Historical Library, University of Michiga
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -117,7 +119,7 @@ Wooster Woodruff Beman Papers, Bentley Historical Library, University of Michiga
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [733542204347852138773]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1878/1888">1878-1888</unitdate>
             </unittitle>
@@ -125,7 +127,7 @@ Wooster Woodruff Beman Papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [733542204347852138773]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1889/1891">1889-1891</unitdate>
             </unittitle>
@@ -133,7 +135,7 @@ Wooster Woodruff Beman Papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [733542204347852138773]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1892/1897">1892-1897</unitdate>
             </unittitle>
@@ -141,7 +143,7 @@ Wooster Woodruff Beman Papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [733542204347852138773]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1898/1906">1898-1906</unitdate>
             </unittitle>
@@ -149,7 +151,7 @@ Wooster Woodruff Beman Papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [733542204347852138773]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1907/1913">1907-1913</unitdate>
             </unittitle>
@@ -157,7 +159,7 @@ Wooster Woodruff Beman Papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [733542204347852138773]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1914/1922">1914-1922</unitdate>
             </unittitle>
@@ -170,13 +172,13 @@ Wooster Woodruff Beman Papers, Bentley Historical Library, University of Michiga
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [733542204347852138773]" altrender="box">1</container>
             <unittitle>Walter W. Campbell <unitdate type="inclusive" normal="1892/1900">1892-1900</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [733542204347852138773]" altrender="box">1</container>
             <unittitle>Arthur G. Hall <unitdate type="inclusive" normal="1901/1903">1901-1903</unitdate></unittitle>
           </did>
         </c02>
@@ -186,7 +188,7 @@ Wooster Woodruff Beman Papers, Bentley Historical Library, University of Michiga
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [733542204347852138773]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1896/1900">1896-1900</unitdate>
               </unittitle>
@@ -194,7 +196,7 @@ Wooster Woodruff Beman Papers, Bentley Historical Library, University of Michiga
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [733542204347852138773]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1901/1906">1901-1906</unitdate>
               </unittitle>
@@ -203,19 +205,19 @@ Wooster Woodruff Beman Papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [733542204347852138773]" altrender="box">1</container>
             <unittitle>William J. Hussey <unitdate type="inclusive" normal="1898/1903">1898-1903</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [733542204347852138773]" altrender="box">1</container>
             <unittitle>W.F. Osgood <unitdate type="inclusive" normal="1900">1900</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [733542204347852138773]" altrender="box">1</container>
             <unittitle>Volney Spalding (and Effie Spalding) <unitdate type="inclusive" normal="1893/1918">1893-1918</unitdate></unittitle>
           </did>
           <odd>
@@ -229,31 +231,31 @@ Wooster Woodruff Beman Papers, Bentley Historical Library, University of Michiga
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [733542204347852138773]" altrender="box">1</container>
             <unittitle>Extract from Cesaro's <title render="italic">Analisi Algebrica</title></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [733542204347852138773]" altrender="box">1</container>
             <unittitle>Irrational Numbers</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [733542204347852138773]" altrender="box">1</container>
             <unittitle>Petersen's Forelaesninger over Funktion's Theori</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [733542204347852138773]" altrender="box">1</container>
             <unittitle>Saggio</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [733542204347852138773]" altrender="box">1</container>
             <unittitle>Unidentified</unittitle>
           </did>
         </c02>
@@ -264,8 +266,10 @@ Wooster Woodruff Beman Papers, Bentley Historical Library, University of Michiga
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <unittitle>Petitions and surveillance reports documenting various vice in the city <unitdate type="inclusive" normal="1885">1885</unitdate>, <unitdate type="inclusive" normal="1898">1898</unitdate></unittitle>
+            <container type="box" label="Box [733542204347852138773]" altrender="box">1</container>
+            <unittitle>Petitions and surveillance reports documenting various vice in the city</unittitle>
+            <unitdate type="inclusive" normal="1885">1885</unitdate>
+            <unitdate type="inclusive" normal="1898">1898</unitdate>
           </did>
           <odd>
             <p>(mainly violations of the laws pertaining to saloons, but also gambling and prostitution)</p>
@@ -273,7 +277,7 @@ Wooster Woodruff Beman Papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [733542204347852138773]" altrender="box">1</container>
             <unittitle>Ann Arbor Charter Commission <unitdate type="inclusive" normal="1920">1920</unitdate></unittitle>
           </did>
         </c02>
@@ -284,49 +288,49 @@ Wooster Woodruff Beman Papers, Bentley Historical Library, University of Michiga
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [733542204347852138773]" altrender="box">1</container>
             <unittitle>Booklists</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [733542204347852138773]" altrender="box">1</container>
             <unittitle>Notes of visits to Johns Hopkins and Rochester University <unitdate type="inclusive" normal="1882">1882</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [733542204347852138773]" altrender="box">1</container>
             <unittitle>Memorials to W.W. Beman <unitdate type="inclusive" normal="1922">1922</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [733542204347852138773]" altrender="box">1</container>
             <unittitle>Memorials/eulogies to colleagues by W.W. Beman</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [733542204347852138773]" altrender="box">1</container>
             <unittitle>University of Michigan Math Club minutes <unitdate type="inclusive" normal="1887/1889">1887-1889</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [733542204347852138773]" altrender="box">1</container>
             <unittitle>Miscellaneous</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [733542204347852138773]" altrender="box">1</container>
             <unittitle>Clippings</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [733542204347852138773]" altrender="box">1</container>
             <unittitle><genreform normal="Photographs">Photographs</genreform>: portraits</unittitle>
           </did>
         </c02>

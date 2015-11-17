@@ -31,7 +31,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Michigan-Ohio Regional Education Laboratory <lb/>Records, 1966-1969</titleproper>
       <author>Finding aid created by <lb/>Michigan Historical Collections staff</author>
     </titlepage>
@@ -84,13 +84,13 @@ Michigan-Ohio Regional Education Laboratory records, Bentley Historical Library,
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <subject source="lcsh" encodinganalog="650">African Americans--Michigan.</subject>
-        <subject source="lcsh" encodinganalog="650">African Americans--Ohio.</subject>
-        <subject source="lcsh" encodinganalog="650">Education--Ohio.</subject>
-        <subject source="lcsh" encodinganalog="650">Education--Michigan.</subject>
-        <geogname source="lcsh" encodinganalog="651">Ohio.</geogname>
-        <subject source="lcsh" encodinganalog="650">Teachers--Ohio.</subject>
-        <subject source="lcsh" encodinganalog="650">Teachers--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5756">African Americans--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/9370">African Americans--Ohio.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/9371">Education--Ohio.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5727">Education--Michigan.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1578">Ohio.</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/9372">Teachers--Ohio.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/8266">Teachers--Michigan.</subject>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -100,7 +100,7 @@ Michigan-Ohio Regional Education Laboratory records, Bentley Historical Library,
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [053676821214438912464729]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1966/1969">1966-1969</unitdate>
             </unittitle>
@@ -108,7 +108,7 @@ Michigan-Ohio Regional Education Laboratory records, Bentley Historical Library,
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [2795811428067391418]" altrender="box">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1966/1969">1966-1969</unitdate>
             </unittitle>
@@ -121,22 +121,13 @@ Michigan-Ohio Regional Education Laboratory records, Bentley Historical Library,
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [5859482466999921271]" altrender="box">3</container>
             <unittitle>Correspondence, administrative materials, etc.</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
-            <unittitle>Correspondence, administrative materials, etc.</unittitle>
-          </did>
-          <odd>
-            <p>(continued)</p>
-          </odd>
-        </c02>
-        <c02 level="file">
-          <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [2519314435830686434]" altrender="box">4</container>
             <unittitle>Correspondence, administrative materials, etc.</unittitle>
           </did>
           <odd>
@@ -145,7 +136,7 @@ Michigan-Ohio Regional Education Laboratory records, Bentley Historical Library,
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [3900911194628572374427]" altrender="box">5</container>
             <unittitle>Correspondence, administrative materials, etc.</unittitle>
           </did>
           <odd>
@@ -154,7 +145,16 @@ Michigan-Ohio Regional Education Laboratory records, Bentley Historical Library,
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">7</container>
+            <container type="box" label="Box [7823947134832506427]" altrender="box">6</container>
+            <unittitle>Correspondence, administrative materials, etc.</unittitle>
+          </did>
+          <odd>
+            <p>(continued)</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box [34194394709640521367]" altrender="box">7</container>
             <unittitle>Correspondence, administrative materials, and tapes</unittitle>
           </did>
         </c02>
@@ -165,13 +165,13 @@ Michigan-Ohio Regional Education Laboratory records, Bentley Historical Library,
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">8</container>
+            <container type="box" label="Box [6418354287447872442845256]" altrender="box">8</container>
             <unittitle>Miscellaneous</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">9</container>
+            <container type="box" label="Box [049113488645735]" altrender="box">9</container>
             <unittitle>Miscellaneous</unittitle>
           </did>
           <odd>
@@ -180,7 +180,7 @@ Michigan-Ohio Regional Education Laboratory records, Bentley Historical Library,
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">10</container>
+            <container type="box" label="Box [427614414413991983]" altrender="box">10</container>
             <unittitle>Miscellaneous</unittitle>
           </did>
           <odd>

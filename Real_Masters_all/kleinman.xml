@@ -30,7 +30,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding Aid for <lb/>Rose Parker Kleinman Papers, <date type="inclusive">1947-1977</date></titleproper>
       <author>Finding aid prepared by: <lb/>Christine Weideman</author>
     </titlepage>
@@ -40,7 +40,9 @@
       <origination>
         <persname source="lcnaf" encodinganalog="100">Kleinman, Rose Parker, 1914-1977.</persname>
       </origination>
-      <unittitle encodinganalog="245">Rose Parker Kleinman papers <unitdate type="inclusive" encodinganalog="245$f" normal="1947/1977">1947-1977</unitdate>, <unitdate type="bulk" encodinganalog="245$g" normal="1964/1977">1964-1977</unitdate></unittitle>
+      <unittitle encodinganalog="245">Rose Parker Kleinman papers</unittitle>
+      <unitdate type="inclusive" encodinganalog="245$f" normal="1947/1977">1947-1977</unitdate>
+      <unitdate type="bulk" encodinganalog="245$g" normal="1964/1977">1964-1977</unitdate>
       <abstract>Detroit, Michigan, social activist and reformer. Correspondence and subject files relating to her interest in cooperatives, especially organizations concerned with low-income, open housing projects; also photographs and audio-tapes.</abstract>
       <unitid countrycode="us" repositorycode="MiU-H" encodinganalog="099" type="call number">861024 Aa 2</unitid>
       <langmaterial>The materials are in <language encodinganalog="041" langcode="eng">English.</language></langmaterial>
@@ -81,26 +83,26 @@
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <subject source="lcsh" encodinganalog="650">Afro-Americans--Michigan.</subject>
-        <subject source="lcsh" encodinganalog="650">Civil rights--Michigan.</subject>
-        <subject source="lcsh" encodinganalog="650">Cooperative societies--Michigan.</subject>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n79045539.html">Detroit (Mich.)</geogname>
-        <subject source="lcsh" encodinganalog="650">Discrimination in housing--Michigan.</subject>
-        <subject source="lcsh" encodinganalog="650">Housing--Michigan.</subject>
-        <subject source="lcsh" encodinganalog="650">Social reformers--Michigan--Detroit.</subject>
-        <subject source="lcsh" encodinganalog="650">Women social reformers--Michigan--Detroit.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5905">Afro-Americans--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5726">Civil rights--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5831">Cooperative societies--Michigan.</subject>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n79045539.html" ref="/subjects/933">Detroit (Mich.)</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/8684">Discrimination in housing--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7356">Housing--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/8685">Social reformers--Michigan--Detroit.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/8686">Women social reformers--Michigan--Detroit.</subject>
         <persname source="lcnaf" encodinganalog="600">Kleinman, Rose Parker, 1914-1977.</persname>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Material:</head>
-        <subject source="lctgm" encodinganalog="650">Activists.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4634">Activists.</subject>
         <persname source="lcnaf" encodinganalog="600">Kleinman, Rose Parker, 1914-1977.</persname>
-        <subject source="lctgm" encodinganalog="650">Women.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3619">Women.</subject>
       </controlaccess>
       <controlaccess>
         <head>Genre/Form:</head>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
-        <genreform source="aat" encodinganalog="655">Sound recordings.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3143">Sound recordings.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -113,14 +115,16 @@
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [4604402900454951579]" altrender="box">1</container>
             <unittitle>Background (mostly letters of recommendation and resumes)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <unittitle>European Trips <unitdate type="inclusive" normal="1966">1966</unitdate>, <unitdate type="inclusive" normal="1975">1975</unitdate></unittitle>
+            <container type="box" label="Box [4604402900454951579]" altrender="box">1</container>
+            <unittitle>European Trips</unittitle>
+            <unitdate type="inclusive" normal="1966">1966</unitdate>
+            <unitdate type="inclusive" normal="1975">1975</unitdate>
           </did>
           <odd>
             <p>(handwritten notes, schedules, itineraries, memorandums, correspondence)</p>
@@ -128,7 +132,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [4604402900454951579]" altrender="box">1</container>
             <unittitle>"Fair Play or Foul" <unitdate type="inclusive" normal="1948/1949">1948-1949</unitdate></unittitle>
           </did>
           <odd>
@@ -137,7 +141,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [4604402900454951579]" altrender="box">1</container>
             <unittitle>Speeches/Writings</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -157,25 +161,31 @@
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <unittitle>General <unitdate type="inclusive">undated</unitdate>, <unitdate type="inclusive" normal="1947">1947</unitdate>, <unitdate type="inclusive" normal="1959">1959</unitdate>, <unitdate type="inclusive" normal="1965/1977">1965-1977</unitdate></unittitle>
+            <container type="box" label="Box [4604402900454951579]" altrender="box">1</container>
+            <unittitle>General</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <unitdate type="inclusive" normal="1947">1947</unitdate>
+            <unitdate type="inclusive" normal="1959">1959</unitdate>
+            <unitdate type="inclusive" normal="1965/1977">1965-1977</unitdate>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [4604402900454951579]" altrender="box">1</container>
             <unittitle>Derrick, Paul (The Coop Party, London, England) <unitdate type="inclusive" normal="1975/1976">1975-1976</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <unittitle>Dreyer, Stanley (President, Cooperative League of the USA) <unitdate type="inclusive" normal="1971">1971</unitdate>, <unitdate type="inclusive" normal="1975/1976">1975-1976</unitdate></unittitle>
+            <container type="box" label="Box [4604402900454951579]" altrender="box">1</container>
+            <unittitle>Dreyer, Stanley (President, Cooperative League of the USA)</unittitle>
+            <unitdate type="inclusive" normal="1971">1971</unitdate>
+            <unitdate type="inclusive" normal="1975/1976">1975-1976</unitdate>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [4604402900454951579]" altrender="box">1</container>
             <unittitle>Housing and Urban Development <unitdate type="inclusive" normal="1976/1977">1976-1977</unitdate></unittitle>
           </did>
           <odd>
@@ -184,20 +194,26 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <unittitle>Laidlaw, A.F. (Central Mortgage and Housing Corporation-Canada) <unitdate type="inclusive" normal="1972">1972</unitdate>, <unitdate type="inclusive" normal="1973">1973</unitdate>, <unitdate type="inclusive" normal="1975">1975</unitdate></unittitle>
+            <container type="box" label="Box [4604402900454951579]" altrender="box">1</container>
+            <unittitle>Laidlaw, A.F. (Central Mortgage and Housing Corporation-Canada)</unittitle>
+            <unitdate type="inclusive" normal="1972">1972</unitdate>
+            <unitdate type="inclusive" normal="1973">1973</unitdate>
+            <unitdate type="inclusive" normal="1975">1975</unitdate>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [4604402900454951579]" altrender="box">1</container>
             <unittitle>Rose, Bonnie (Proaction, Inc., Canada) <unitdate type="inclusive" normal="1975/1976">1975-1976</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <unittitle>Voorhis, Jerry <unitdate type="inclusive">Undated</unitdate>, <unitdate type="inclusive" normal="1967/1968">1967-1968</unitdate>, <unitdate type="inclusive" normal="1974/1977">1974-1977</unitdate></unittitle>
+            <container type="box" label="Box [4604402900454951579]" altrender="box">1</container>
+            <unittitle>Voorhis, Jerry</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <unitdate type="inclusive" normal="1967/1968">1967-1968</unitdate>
+            <unitdate type="inclusive" normal="1974/1977">1974-1977</unitdate>
           </did>
           <odd>
             <p>(contains Kleinman letter on Detroit race riot, 1967)</p>
@@ -205,8 +221,11 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <unittitle>Wilcox, Roger <unitdate type="inclusive" normal="1959">1959</unitdate>, <unitdate type="inclusive" normal="1965">1965</unitdate>, <unitdate type="inclusive" normal="1968">1968</unitdate></unittitle>
+            <container type="box" label="Box [4604402900454951579]" altrender="box">1</container>
+            <unittitle>Wilcox, Roger</unittitle>
+            <unitdate type="inclusive" normal="1959">1959</unitdate>
+            <unitdate type="inclusive" normal="1965">1965</unitdate>
+            <unitdate type="inclusive" normal="1968">1968</unitdate>
           </did>
         </c02>
       </c01>
@@ -219,7 +238,7 @@
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [4604402900454951579]" altrender="box">1</container>
             <unittitle>Background</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -235,7 +254,7 @@
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [4604402900454951579]" altrender="box">1</container>
               <unittitle>General, early <unitdate type="inclusive" normal="1970/1979" certainty="approximate">1970s</unitdate></unittitle>
             </did>
             <odd>
@@ -244,7 +263,7 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [4604402900454951579]" altrender="box">1</container>
               <unittitle>Committee Meetings <unitdate type="inclusive" normal="1970/1971">1970-1971</unitdate></unittitle>
             </did>
             <odd>
@@ -253,7 +272,7 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [4604402900454951579]" altrender="box">1</container>
               <unittitle>Correspondence <unitdate type="inclusive" normal="1970/1973">1970-1973</unitdate></unittitle>
             </did>
             <odd>
@@ -262,7 +281,7 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [4604402900454951579]" altrender="box">1</container>
               <unittitle>Finances <unitdate type="inclusive" normal="1970/1973">1970-1973</unitdate></unittitle>
             </did>
             <odd>
@@ -272,7 +291,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [4604402900454951579]" altrender="box">1</container>
             <unittitle>Ferndale Cooperative, Inc. <unitdate type="inclusive" normal="1960/1979" certainty="approximate">1960s-1970s</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -288,7 +307,7 @@
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [4604402900454951579]" altrender="box">1</container>
               <unittitle>Foundation for Cooperative Housing Services, Inc. <unitdate type="inclusive" normal="1965/1970">1965-1970</unitdate></unittitle>
             </did>
             <odd>
@@ -297,8 +316,11 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
-              <unittitle>Legislation <unitdate type="inclusive" normal="1967">1967</unitdate>, <unitdate type="inclusive" normal="1969">1969</unitdate>, <unitdate type="inclusive" normal="1976">1976</unitdate></unittitle>
+              <container type="box" label="Box [4604402900454951579]" altrender="box">1</container>
+              <unittitle>Legislation</unittitle>
+              <unitdate type="inclusive" normal="1967">1967</unitdate>
+              <unitdate type="inclusive" normal="1969">1969</unitdate>
+              <unitdate type="inclusive" normal="1976">1976</unitdate>
             </did>
             <odd>
               <p>(summaries, bills, correspondence re: state and national laws)</p>
@@ -306,7 +328,7 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [4604402900454951579]" altrender="box">1</container>
               <unittitle>Michigan housing Associates <unitdate type="inclusive" normal="1964/1971">1964-1971</unitdate></unittitle>
             </did>
             <odd>
@@ -315,7 +337,7 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [4604402900454951579]" altrender="box">1</container>
               <unittitle>National Association of Housing Cooperatives, undated <unitdate type="inclusive" normal="1968">1968</unitdate></unittitle>
             </did>
             <odd>
@@ -324,7 +346,7 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [6033458439904752862]" altrender="box">2</container>
               <unittitle>Prefabricated Housing <unitdate type="inclusive" normal="1968/1971">1968-1971</unitdate></unittitle>
             </did>
             <odd>
@@ -333,8 +355,10 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
-              <unittitle>Rehabilitation Housing, undated <unitdate type="inclusive" normal="1960/1969" certainty="approximate">1960s</unitdate>, <unitdate type="inclusive" normal="1975">1975</unitdate></unittitle>
+              <container type="box" label="Box [6033458439904752862]" altrender="box">2</container>
+              <unittitle>Rehabilitation Housing, undated</unittitle>
+              <unitdate type="inclusive" normal="1960/1969" certainty="approximate">1960s</unitdate>
+              <unitdate type="inclusive" normal="1975">1975</unitdate>
             </did>
             <odd>
               <p>(mostly correspondence re: proposed projects)</p>
@@ -342,8 +366,10 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
-              <unittitle>Senior Citizens <unitdate type="inclusive" normal="1960/1969" certainty="approximate">1960s</unitdate>, <unitdate type="inclusive" normal="1970/1979" certainty="approximate">1970s</unitdate></unittitle>
+              <container type="box" label="Box [6033458439904752862]" altrender="box">2</container>
+              <unittitle>Senior Citizens</unittitle>
+              <unitdate type="inclusive" normal="1960/1969" certainty="approximate">1960s</unitdate>
+              <unitdate type="inclusive" normal="1970/1979" certainty="approximate">1970s</unitdate>
             </did>
             <odd>
               <p>(includes correspondence, drafts of ideas/proposals, minutes, and legislation)</p>
@@ -351,7 +377,7 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [6033458439904752862]" altrender="box">2</container>
               <unittitle>Student</unittitle>
             </did>
             <odd>
@@ -361,7 +387,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [6033458439904752862]" altrender="box">2</container>
             <unittitle>Workers' Cooperatives <unitdate type="inclusive" normal="1976/1977">1976-1977</unitdate></unittitle>
           </did>
           <odd>
@@ -378,13 +404,16 @@
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
-            <unittitle>Background <unitdate type="inclusive" normal="1950/1959" certainty="approximate">1950s</unitdate>, <unitdate type="inclusive" normal="1960/1969" certainty="approximate">1960s</unitdate>, <unitdate type="inclusive" normal="1970/1979" certainty="approximate">1970s</unitdate></unittitle>
+            <container type="box" label="Box [6033458439904752862]" altrender="box">2</container>
+            <unittitle>Background</unittitle>
+            <unitdate type="inclusive" normal="1950/1959" certainty="approximate">1950s</unitdate>
+            <unitdate type="inclusive" normal="1960/1969" certainty="approximate">1960s</unitdate>
+            <unitdate type="inclusive" normal="1970/1979" certainty="approximate">1970s</unitdate>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [6033458439904752862]" altrender="box">2</container>
             <unittitle>Equal Housing Opportunities <unitdate type="inclusive" normal="1966/1969">1966-1969</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -396,8 +425,10 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
-            <unittitle>Fair Housing Listing Service <unitdate type="inclusive">undated</unitdate>, <unitdate type="inclusive" normal="1966">1966</unitdate></unittitle>
+            <container type="box" label="Box [6033458439904752862]" altrender="box">2</container>
+            <unittitle>Fair Housing Listing Service</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <unitdate type="inclusive" normal="1966">1966</unitdate>
           </did>
           <odd>
             <p>(proposals, correspondence, and handwritten notes)</p>
@@ -405,8 +436,10 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
-            <unittitle>Greater Detroit Fair Housing, Inc. <unitdate type="inclusive" normal="1965">1965</unitdate>, <unitdate type="inclusive" normal="1967">1967</unitdate></unittitle>
+            <container type="box" label="Box [6033458439904752862]" altrender="box">2</container>
+            <unittitle>Greater Detroit Fair Housing, Inc.</unittitle>
+            <unitdate type="inclusive" normal="1965">1965</unitdate>
+            <unitdate type="inclusive" normal="1967">1967</unitdate>
           </did>
           <odd>
             <p>(bylaws, correspondence re: open housing)</p>
@@ -414,7 +447,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [6033458439904752862]" altrender="box">2</container>
             <unittitle>Housing Opportunities Made Equal Services <unitdate type="inclusive" normal="1969/1970">1969-1970</unitdate></unittitle>
           </did>
           <odd>
@@ -423,7 +456,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [6033458439904752862]" altrender="box">2</container>
             <unittitle>Michigan Welfare League <unitdate type="inclusive" normal="1969">1969</unitdate></unittitle>
           </did>
           <odd>
@@ -432,7 +465,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [6033458439904752862]" altrender="box">2</container>
             <unittitle>Model Cities <unitdate type="inclusive" normal="1969">1969</unitdate></unittitle>
           </did>
           <odd>
@@ -441,7 +474,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [6033458439904752862]" altrender="box">2</container>
             <unittitle>New Detroit Committee <unitdate type="inclusive" normal="1968">1968</unitdate></unittitle>
           </did>
           <odd>
@@ -450,7 +483,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [6033458439904752862]" altrender="box">2</container>
             <unittitle>New Towns <unitdate>undated</unitdate></unittitle>
           </did>
           <odd>
@@ -467,7 +500,7 @@
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [6033458439904752862]" altrender="box">2</container>
             <unittitle>Notebooks, etc.</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -476,7 +509,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [6033458439904752862]" altrender="box">2</container>
             <unittitle>
               <genreform source="aat" normal="Photographs">Photographs</genreform>
             </unittitle>
@@ -484,7 +517,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [6033458439904752862]" altrender="box">2</container>
             <unittitle>Audio-tapes of cooperative housing breakfast meeting sponsored by the Wayne County AFL-CIO, Jerry Voorhis, principal speaker <unitdate type="inclusive" normal="1964-08-11">August 11, 1964</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">3 7" inch reels</extent>

@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>University Archives and Records Program <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/2">University Archives and Records Program <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Transplant and Health Policy Center <lb/>(University of Michigan) <lb/>Records, 1986-1992</titleproper>
       <author>Finding aid created by <lb/>Karen L. Jania, July 1993</author>
     </titlepage>
@@ -37,7 +37,9 @@
       <origination>
         <corpname source="lcnaf" encodinganalog="110">University of Michigan. Transplant and Health Policy Center.</corpname>
       </origination>
-      <unittitle encodinganalog="245">Transplant and Health Policy Center (University of Michigan) records <unitdate type="inclusive" encodinganalog="245$f" normal="1986/1992">1986-1992</unitdate>, <unitdate type="bulk" encodinganalog="245$g" normal="1987/1990">1987-1990</unitdate></unittitle>
+      <unittitle encodinganalog="245">Transplant and Health Policy Center (University of Michigan) records</unittitle>
+      <unitdate type="inclusive" encodinganalog="245$f" normal="1986/1992">1986-1992</unitdate>
+      <unitdate type="bulk" encodinganalog="245$g" normal="1987/1990">1987-1990</unitdate>
       <unitid encodinganalog="852$h" repositorycode="MiU-H" countrycode="us" type="call number">93836 Bimu 2</unitid>
       <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language></langmaterial>
       <abstract>Multi-disciplinary center established to gather data by organ transplantation and to disseminate information to state and private health agencies, transplant programs, and other interested public organizations. The collection documents aspects of ethical and policy issues surrounding organ transplants. Series include education committee, ethics and social impact committee, liaison committee, and public policy committee.</abstract>
@@ -85,8 +87,8 @@ Transplant and Health Policy Center (University of Michigan) records, Bentley Hi
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <subject encodinganalog="650" source="lcsh">Donation of organs, tissues, etc.</subject>
-        <subject encodinganalog="650" source="lcsh">Transplantation of organs, tissues, etc.</subject>
+        <subject encodinganalog="650" source="lcsh" ref="/subjects/8653">Donation of organs, tissues, etc.</subject>
+        <subject encodinganalog="650" source="lcsh" ref="/subjects/10392">Transplantation of organs, tissues, etc.</subject>
         <corpname encodinganalog="610" source="lcnaf">University of Michigan. Transplant and Health Policy Center.</corpname>
       </controlaccess>
     </controlaccess>
@@ -101,7 +103,7 @@ Transplant and Health Policy Center (University of Michigan) records, Bentley Hi
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [28704499367935]" altrender="box">1</container>
             <unittitle>Budget <unitdate type="inclusive" normal="1986">1986</unitdate></unittitle>
           </did>
         </c02>
@@ -111,7 +113,7 @@ Transplant and Health Policy Center (University of Michigan) records, Bentley Hi
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [28704499367935]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1986">1986</unitdate>
               </unittitle>
@@ -119,7 +121,7 @@ Transplant and Health Policy Center (University of Michigan) records, Bentley Hi
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [28704499367935]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1987">1987</unitdate>
               </unittitle>
@@ -127,7 +129,7 @@ Transplant and Health Policy Center (University of Michigan) records, Bentley Hi
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [28704499367935]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1988">1988</unitdate>
               </unittitle>
@@ -135,7 +137,7 @@ Transplant and Health Policy Center (University of Michigan) records, Bentley Hi
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [28704499367935]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1989">1989</unitdate>
               </unittitle>
@@ -143,7 +145,7 @@ Transplant and Health Policy Center (University of Michigan) records, Bentley Hi
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [28704499367935]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1990">1990</unitdate>
               </unittitle>
@@ -151,7 +153,7 @@ Transplant and Health Policy Center (University of Michigan) records, Bentley Hi
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [28704499367935]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1991/1992">1991-1992</unitdate>
               </unittitle>
@@ -160,7 +162,7 @@ Transplant and Health Policy Center (University of Michigan) records, Bentley Hi
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [28704499367935]" altrender="box">1</container>
             <unittitle>Grant Proposals <unitdate type="inclusive" normal="1986">1986</unitdate></unittitle>
           </did>
         </c02>
@@ -170,7 +172,7 @@ Transplant and Health Policy Center (University of Michigan) records, Bentley Hi
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [28704499367935]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1988">1988</unitdate>
               </unittitle>
@@ -178,7 +180,7 @@ Transplant and Health Policy Center (University of Michigan) records, Bentley Hi
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [28704499367935]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1989">1989</unitdate>
               </unittitle>
@@ -186,7 +188,7 @@ Transplant and Health Policy Center (University of Michigan) records, Bentley Hi
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [28704499367935]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1990">1990</unitdate>
               </unittitle>
@@ -197,7 +199,7 @@ Transplant and Health Policy Center (University of Michigan) records, Bentley Hi
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [28704499367935]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1991">1991</unitdate>
               </unittitle>
@@ -206,7 +208,7 @@ Transplant and Health Policy Center (University of Michigan) records, Bentley Hi
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [28704499367935]" altrender="box">1</container>
             <unittitle>Michigan Comprehensive Health Curriculum <unitdate type="inclusive" normal="1987/1988">1987-1988</unitdate></unittitle>
           </did>
         </c02>
@@ -216,7 +218,7 @@ Transplant and Health Policy Center (University of Michigan) records, Bentley Hi
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [28704499367935]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1986/1987">1986-1987</unitdate>
               </unittitle>
@@ -224,7 +226,7 @@ Transplant and Health Policy Center (University of Michigan) records, Bentley Hi
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [28704499367935]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1988">1988</unitdate>
               </unittitle>
@@ -232,7 +234,7 @@ Transplant and Health Policy Center (University of Michigan) records, Bentley Hi
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [28704499367935]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1989">1989</unitdate>
               </unittitle>
@@ -240,7 +242,7 @@ Transplant and Health Policy Center (University of Michigan) records, Bentley Hi
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [28704499367935]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1990/1991">1990-1991</unitdate>
               </unittitle>
@@ -253,7 +255,7 @@ Transplant and Health Policy Center (University of Michigan) records, Bentley Hi
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [28704499367935]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1986">1986</unitdate>
               </unittitle>
@@ -261,7 +263,7 @@ Transplant and Health Policy Center (University of Michigan) records, Bentley Hi
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [28704499367935]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1987">1987</unitdate>
               </unittitle>
@@ -269,7 +271,7 @@ Transplant and Health Policy Center (University of Michigan) records, Bentley Hi
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [28704499367935]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1988">1988</unitdate>
               </unittitle>
@@ -277,7 +279,7 @@ Transplant and Health Policy Center (University of Michigan) records, Bentley Hi
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [28704499367935]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1989">1989</unitdate>
               </unittitle>
@@ -285,7 +287,7 @@ Transplant and Health Policy Center (University of Michigan) records, Bentley Hi
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [28704499367935]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1990">1990</unitdate>
               </unittitle>
@@ -293,7 +295,7 @@ Transplant and Health Policy Center (University of Michigan) records, Bentley Hi
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [28704499367935]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1991/1992">1991-1992</unitdate>
               </unittitle>
@@ -306,13 +308,13 @@ Transplant and Health Policy Center (University of Michigan) records, Bentley Hi
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [28704499367935]" altrender="box">1</container>
               <unittitle>Professional Education <unitdate type="inclusive" normal="1988">1988</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [28704499367935]" altrender="box">1</container>
               <unittitle>Public Education <unitdate type="inclusive" normal="1987/1988">1987-1988</unitdate></unittitle>
             </did>
           </c03>
@@ -327,7 +329,7 @@ Transplant and Health Policy Center (University of Michigan) records, Bentley Hi
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [7851121648978626334073508]" altrender="box">2</container>
             <unittitle>Budget <unitdate type="inclusive" normal="1986/1988">1986-1988</unitdate></unittitle>
           </did>
         </c02>
@@ -337,7 +339,7 @@ Transplant and Health Policy Center (University of Michigan) records, Bentley Hi
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [7851121648978626334073508]" altrender="box">2</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1986/1987">1986-1987</unitdate>
               </unittitle>
@@ -345,7 +347,7 @@ Transplant and Health Policy Center (University of Michigan) records, Bentley Hi
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [7851121648978626334073508]" altrender="box">2</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1988">1988</unitdate>
               </unittitle>
@@ -353,7 +355,7 @@ Transplant and Health Policy Center (University of Michigan) records, Bentley Hi
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [7851121648978626334073508]" altrender="box">2</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1989">1989</unitdate>
               </unittitle>
@@ -361,7 +363,7 @@ Transplant and Health Policy Center (University of Michigan) records, Bentley Hi
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [7851121648978626334073508]" altrender="box">2</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1990">1990</unitdate>
               </unittitle>
@@ -369,7 +371,7 @@ Transplant and Health Policy Center (University of Michigan) records, Bentley Hi
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [7851121648978626334073508]" altrender="box">2</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1991">1991</unitdate>
               </unittitle>
@@ -377,7 +379,7 @@ Transplant and Health Policy Center (University of Michigan) records, Bentley Hi
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [7851121648978626334073508]" altrender="box">2</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1992">1992</unitdate>
               </unittitle>
@@ -386,13 +388,13 @@ Transplant and Health Policy Center (University of Michigan) records, Bentley Hi
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [7851121648978626334073508]" altrender="box">2</container>
             <unittitle>Handouts <unitdate type="inclusive" normal="1991/1992">1991-1992</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [7851121648978626334073508]" altrender="box">2</container>
             <unittitle>Members <unitdate type="inclusive" normal="1986/1988">1986-1988</unitdate></unittitle>
           </did>
         </c02>
@@ -402,7 +404,7 @@ Transplant and Health Policy Center (University of Michigan) records, Bentley Hi
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [7851121648978626334073508]" altrender="box">2</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1986">1986</unitdate>
               </unittitle>
@@ -410,7 +412,7 @@ Transplant and Health Policy Center (University of Michigan) records, Bentley Hi
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [7851121648978626334073508]" altrender="box">2</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1987">1987</unitdate>
               </unittitle>
@@ -418,7 +420,7 @@ Transplant and Health Policy Center (University of Michigan) records, Bentley Hi
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [7851121648978626334073508]" altrender="box">2</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1988">1988</unitdate>
               </unittitle>
@@ -426,7 +428,7 @@ Transplant and Health Policy Center (University of Michigan) records, Bentley Hi
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [7851121648978626334073508]" altrender="box">2</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1989">1989</unitdate>
               </unittitle>
@@ -434,7 +436,7 @@ Transplant and Health Policy Center (University of Michigan) records, Bentley Hi
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [7851121648978626334073508]" altrender="box">2</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1990">1990</unitdate>
               </unittitle>
@@ -442,7 +444,7 @@ Transplant and Health Policy Center (University of Michigan) records, Bentley Hi
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [7851121648978626334073508]" altrender="box">2</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1991">1991</unitdate>
               </unittitle>
@@ -450,7 +452,7 @@ Transplant and Health Policy Center (University of Michigan) records, Bentley Hi
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [7851121648978626334073508]" altrender="box">2</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1992">1992</unitdate>
               </unittitle>
@@ -467,7 +469,7 @@ Transplant and Health Policy Center (University of Michigan) records, Bentley Hi
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [7851121648978626334073508]" altrender="box">2</container>
             <unittitle>Budget <unitdate type="inclusive" normal="1986/1988">1986-1988</unitdate></unittitle>
           </did>
         </c02>
@@ -477,7 +479,7 @@ Transplant and Health Policy Center (University of Michigan) records, Bentley Hi
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [7851121648978626334073508]" altrender="box">2</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1986/1987">1986-1987</unitdate>
               </unittitle>
@@ -485,7 +487,7 @@ Transplant and Health Policy Center (University of Michigan) records, Bentley Hi
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [7851121648978626334073508]" altrender="box">2</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1988">1988</unitdate>
               </unittitle>
@@ -493,7 +495,7 @@ Transplant and Health Policy Center (University of Michigan) records, Bentley Hi
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [7851121648978626334073508]" altrender="box">2</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1989">1989</unitdate>
               </unittitle>
@@ -501,7 +503,7 @@ Transplant and Health Policy Center (University of Michigan) records, Bentley Hi
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [7851121648978626334073508]" altrender="box">2</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1990/1991">1990-1991</unitdate>
               </unittitle>
@@ -514,7 +516,7 @@ Transplant and Health Policy Center (University of Michigan) records, Bentley Hi
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [7851121648978626334073508]" altrender="box">2</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1986">1986</unitdate>
               </unittitle>
@@ -522,7 +524,7 @@ Transplant and Health Policy Center (University of Michigan) records, Bentley Hi
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [7851121648978626334073508]" altrender="box">2</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1987">1987</unitdate>
               </unittitle>
@@ -530,7 +532,7 @@ Transplant and Health Policy Center (University of Michigan) records, Bentley Hi
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [7851121648978626334073508]" altrender="box">2</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1988">1988</unitdate>
               </unittitle>
@@ -538,7 +540,7 @@ Transplant and Health Policy Center (University of Michigan) records, Bentley Hi
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [7851121648978626334073508]" altrender="box">2</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1989">1989</unitdate>
               </unittitle>
@@ -546,7 +548,7 @@ Transplant and Health Policy Center (University of Michigan) records, Bentley Hi
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [7851121648978626334073508]" altrender="box">2</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1990/1991">1990-1991</unitdate>
               </unittitle>
@@ -555,7 +557,7 @@ Transplant and Health Policy Center (University of Michigan) records, Bentley Hi
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [7851121648978626334073508]" altrender="box">2</container>
             <unittitle>Members, 1986-87</unittitle>
           </did>
         </c02>
@@ -565,7 +567,7 @@ Transplant and Health Policy Center (University of Michigan) records, Bentley Hi
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [7851121648978626334073508]" altrender="box">2</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1986">1986</unitdate>
               </unittitle>
@@ -573,7 +575,7 @@ Transplant and Health Policy Center (University of Michigan) records, Bentley Hi
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [7851121648978626334073508]" altrender="box">2</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1987">1987</unitdate>
               </unittitle>
@@ -581,7 +583,7 @@ Transplant and Health Policy Center (University of Michigan) records, Bentley Hi
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [7851121648978626334073508]" altrender="box">2</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1988">1988</unitdate>
               </unittitle>
@@ -589,7 +591,7 @@ Transplant and Health Policy Center (University of Michigan) records, Bentley Hi
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [7851121648978626334073508]" altrender="box">2</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1989">1989</unitdate>
               </unittitle>
@@ -597,7 +599,7 @@ Transplant and Health Policy Center (University of Michigan) records, Bentley Hi
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [7851121648978626334073508]" altrender="box">2</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1990">1990</unitdate>
               </unittitle>
@@ -605,7 +607,7 @@ Transplant and Health Policy Center (University of Michigan) records, Bentley Hi
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [7851121648978626334073508]" altrender="box">2</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1991">1991</unitdate>
               </unittitle>
@@ -614,7 +616,7 @@ Transplant and Health Policy Center (University of Michigan) records, Bentley Hi
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [7851121648978626334073508]" altrender="box">2</container>
             <unittitle>Research Grants <unitdate type="inclusive" normal="1986">1986</unitdate></unittitle>
           </did>
         </c02>
@@ -628,7 +630,7 @@ Transplant and Health Policy Center (University of Michigan) records, Bentley Hi
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [4986854788206170]" altrender="box">3</container>
             <unittitle>Budget <unitdate type="inclusive" normal="1986">1986</unitdate></unittitle>
           </did>
         </c02>
@@ -638,7 +640,7 @@ Transplant and Health Policy Center (University of Michigan) records, Bentley Hi
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [4986854788206170]" altrender="box">3</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1986">1986</unitdate>
               </unittitle>
@@ -646,7 +648,7 @@ Transplant and Health Policy Center (University of Michigan) records, Bentley Hi
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [4986854788206170]" altrender="box">3</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1987">1987</unitdate>
               </unittitle>
@@ -654,7 +656,7 @@ Transplant and Health Policy Center (University of Michigan) records, Bentley Hi
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [4986854788206170]" altrender="box">3</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1988">1988</unitdate>
               </unittitle>
@@ -662,7 +664,7 @@ Transplant and Health Policy Center (University of Michigan) records, Bentley Hi
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [4986854788206170]" altrender="box">3</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1989">1989</unitdate>
               </unittitle>
@@ -670,7 +672,7 @@ Transplant and Health Policy Center (University of Michigan) records, Bentley Hi
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [4986854788206170]" altrender="box">3</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1990">1990</unitdate>
               </unittitle>
@@ -678,7 +680,7 @@ Transplant and Health Policy Center (University of Michigan) records, Bentley Hi
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [4986854788206170]" altrender="box">3</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1991">1991</unitdate>
               </unittitle>
@@ -686,7 +688,7 @@ Transplant and Health Policy Center (University of Michigan) records, Bentley Hi
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [4986854788206170]" altrender="box">3</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1992">1992</unitdate>
               </unittitle>
@@ -695,7 +697,7 @@ Transplant and Health Policy Center (University of Michigan) records, Bentley Hi
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [4986854788206170]" altrender="box">3</container>
             <unittitle>Federal/State Legislation <unitdate type="inclusive" normal="1984/1987">1984-1987</unitdate></unittitle>
           </did>
         </c02>
@@ -705,7 +707,7 @@ Transplant and Health Policy Center (University of Michigan) records, Bentley Hi
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [4986854788206170]" altrender="box">3</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1988">1988</unitdate>
               </unittitle>
@@ -713,7 +715,7 @@ Transplant and Health Policy Center (University of Michigan) records, Bentley Hi
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [4986854788206170]" altrender="box">3</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1989">1989</unitdate>
               </unittitle>
@@ -721,7 +723,7 @@ Transplant and Health Policy Center (University of Michigan) records, Bentley Hi
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [4986854788206170]" altrender="box">3</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1990">1990</unitdate>
               </unittitle>
@@ -729,7 +731,7 @@ Transplant and Health Policy Center (University of Michigan) records, Bentley Hi
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [4986854788206170]" altrender="box">3</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1991">1991</unitdate>
               </unittitle>
@@ -738,7 +740,7 @@ Transplant and Health Policy Center (University of Michigan) records, Bentley Hi
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [4986854788206170]" altrender="box">3</container>
             <unittitle>Members <unitdate type="inclusive" normal="1986/1988">1986-1988</unitdate></unittitle>
           </did>
         </c02>
@@ -748,7 +750,7 @@ Transplant and Health Policy Center (University of Michigan) records, Bentley Hi
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [4986854788206170]" altrender="box">3</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1986/1988">1986-1988</unitdate>
               </unittitle>
@@ -756,7 +758,7 @@ Transplant and Health Policy Center (University of Michigan) records, Bentley Hi
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [4986854788206170]" altrender="box">3</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1989">1989</unitdate>
               </unittitle>
@@ -764,7 +766,7 @@ Transplant and Health Policy Center (University of Michigan) records, Bentley Hi
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [4986854788206170]" altrender="box">3</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1990">1990</unitdate>
               </unittitle>
@@ -772,7 +774,7 @@ Transplant and Health Policy Center (University of Michigan) records, Bentley Hi
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [4986854788206170]" altrender="box">3</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1990">1990</unitdate>
               </unittitle>
@@ -780,7 +782,7 @@ Transplant and Health Policy Center (University of Michigan) records, Bentley Hi
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [4986854788206170]" altrender="box">3</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1991">1991</unitdate>
               </unittitle>

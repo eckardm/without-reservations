@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Walter F. Colby papers, 1924-1970</titleproper>
       <author>Finding aid created by <lb/>Michigan Historical Collections staff</author>
     </titlepage>
@@ -84,12 +84,12 @@ Walter F. Colby papers, Bentley Historical Library, University of Michigan</p>
         <persname source="lcnaf" encodinganalog="600">Colby, Walter F. (Walter Francis), b. 1880.</persname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan. Dept. of Physics.</corpname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan--Faculty.</corpname>
-        <subject source="lcsh" encodinganalog="650">Physicists--Michigan--Ann Arbor.</subject>
-        <subject source="lcsh" encodinganalog="650">Physics.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6877">Physicists--Michigan--Ann Arbor.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6878">Physics.</subject>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Materials:</head>
-        <subject source="lctgm" encodinganalog="650">Astronomical observatories.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3735">Astronomical observatories.</subject>
         <persname source="lcnaf" encodinganalog="600">Colby, Walter F. (Walter Francis), b. 1880.</persname>
       </controlaccess>
       <controlaccess>
@@ -101,7 +101,7 @@ Walter F. Colby papers, Bentley Historical Library, University of Michigan</p>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -111,7 +111,7 @@ Walter F. Colby papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [706815406336206070]" altrender="box">1</container>
             <unittitle>Personal and biographical material</unittitle>
           </did>
           <odd>
@@ -120,7 +120,7 @@ Walter F. Colby papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [706815406336206070]" altrender="box">1</container>
             <unittitle>Correspondence, research notes, and related material</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -129,31 +129,31 @@ Walter F. Colby papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [706815406336206070]" altrender="box">1</container>
             <unittitle>Martha Guernsey Colby personal and biographical material; also reprints of articles</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [706815406336206070]" altrender="box">1</container>
             <unittitle>Edwin C. Kemble materials</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [706815406336206070]" altrender="box">1</container>
             <unittitle>E. C. Kemble paper: "Molecular Models, Gyroscopic Motion, the Zeerman Effect, and Related Topics" (Chapter VII)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [706815406336206070]" altrender="box">1</container>
             <unittitle>Guillemin-Sommerfeld paper on structure of methane <unitdate type="inclusive" normal="1926">1926</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [706815406336206070]" altrender="box">1</container>
             <unittitle>David Dennison correspondence and research on methane <unitdate type="inclusive" normal="1924/1925">1924-1925</unitdate></unittitle>
           </did>
         </c02>
@@ -169,7 +169,7 @@ Walter F. Colby papers, Bentley Historical Library, University of Michigan</p>
           </odd>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [706815406336206070]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1926/1948">1926-1948</unitdate>
               </unittitle>
@@ -177,7 +177,7 @@ Walter F. Colby papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [706815406336206070]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1949">1949</unitdate>
               </unittitle>
@@ -185,7 +185,7 @@ Walter F. Colby papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [706815406336206070]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1950/1951">1950-1951</unitdate>
               </unittitle>
@@ -193,7 +193,7 @@ Walter F. Colby papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [706815406336206070]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1952/1953">1952-1953</unitdate>
               </unittitle>
@@ -201,7 +201,7 @@ Walter F. Colby papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [706815406336206070]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1954/1971">1954-1971</unitdate>
               </unittitle>
@@ -209,7 +209,7 @@ Walter F. Colby papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [706815406336206070]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive">Undated</unitdate>
               </unittitle>
@@ -218,13 +218,13 @@ Walter F. Colby papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [706815406336206070]" altrender="box">1</container>
             <unittitle>Manuscript account of Niels Bohr and wife, Margrethe</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [706815406336206070]" altrender="box">1</container>
             <unittitle>
               <genreform normal="Photographs">Photographs</genreform>
             </unittitle>

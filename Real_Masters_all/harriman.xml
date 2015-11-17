@@ -30,7 +30,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>John Harriman Poster Collection, ca. 1985-2005</titleproper>
       <author>Finding aid created by <lb/>Laura Schmidt, April 2005</author>
     </titlepage>
@@ -85,14 +85,14 @@ John Harriman Poster Collection
       </p>
       <controlaccess>
         <head>Subjects - Visual Materials:</head>
-        <geogname source="lcsh" encodinganalog="651">Ann Arbor (Mich.)--Social life and customs.</geogname>
-        <subject source="lctgm" encodinganalog="650">Manners and customs--Michigan--Ann Arbor.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/973">Ann Arbor (Mich.)--Social life and customs.</geogname>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4476">Manners and customs--Michigan--Ann Arbor.</subject>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan--Posters.</corpname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan--Students.</corpname>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Posters.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3144">Posters.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -105,7 +105,7 @@ John Harriman Poster Collection
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [273851372242388929369041]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1991-01/1992-03">January 1991-March 1992</unitdate>
             </unittitle>
@@ -113,7 +113,7 @@ John Harriman Poster Collection
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [7988104882585808300]" altrender="box">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1991/2000" certainty="approximate">circa 1991-2000</unitdate>
             </unittitle>
@@ -132,13 +132,13 @@ John Harriman Poster Collection
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [64907744254443034]" altrender="box">3</container>
             <unittitle>University of Michigan activities and events</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [985294554737455685]" altrender="box">4</container>
             <unittitle>University of Michigan activities and events</unittitle>
           </did>
           <odd>
@@ -147,7 +147,7 @@ John Harriman Poster Collection
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [600924844354933125]" altrender="box">5</container>
             <unittitle>Ann Arbor and other Michigan community activities and events</unittitle>
           </did>
         </c02>
@@ -161,13 +161,13 @@ John Harriman Poster Collection
         </did>
         <c02 level="file">
           <did>
-            <container type="map-case" label="Drawer">1</container>
+            <container type="map-case" label="Drawer [3261574878007439570]" altrender="map-case">1</container>
             <unittitle>University of Michigan activities and events</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="map-case" label="Drawer">111</container>
+            <container type="map-case" label="Drawer [197485543883369584263]" altrender="map-case">111</container>
             <unittitle>Ann Arbor and other Michigan community activities and events</unittitle>
           </did>
         </c02>

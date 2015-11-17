@@ -26,7 +26,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Wilbur Emery Hammaker Papers, 1947-1965</titleproper>
       <author>Finding aid created by <lb/>William H. McNitt, 1970</author>
     </titlepage>
@@ -76,14 +76,14 @@ Wilbur Emery Hammaker Papers
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <subject source="lcsh" encodinganalog="650">Clergy--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5682">Clergy--Michigan.</subject>
         <persname source="lcnaf" encodinganalog="600">Hammaker, Wilbur Emery, 1876-1968.</persname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n80021644">Methodist Episcopal Church.</corpname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n86054026">Methodist Church (U.S.). General Board of Temperance.</corpname>
         <corpname source="lcnaf" encodinganalog="610">National Temperance and Prohibition Council.</corpname>
-        <subject source="lcsh" encodinganalog="650">Prohibition--United States.</subject>
-        <subject source="lcsh" encodinganalog="650">Social reformers--Michigan.</subject>
-        <subject source="lcsh" encodinganalog="650">Temperance--United States.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5853">Prohibition--United States.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/8099">Social reformers--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5854">Temperance--United States.</subject>
       </controlaccess>
       <controlaccess>
         <head>Contributors:</head>
@@ -97,7 +97,7 @@ Wilbur Emery Hammaker Papers
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [47712414936084103]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive">Undated</unitdate>
               <unitdate type="inclusive" normal="1947/1953-01">1947-January 1953</unitdate>
@@ -109,25 +109,25 @@ Wilbur Emery Hammaker Papers
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [47712414936084103]" altrender="box">1</container>
             <unittitle>Manuscript of <title render="italic">Drinking -- Is it Wrong?</title>, <unitdate type="inclusive" normal="1949">1949</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [47712414936084103]" altrender="box">1</container>
             <unittitle>"The History and Philosophy of the Temperance Movement" <unitdate type="inclusive">undated</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [47712414936084103]" altrender="box">1</container>
             <unittitle>Speeches of Deets Pickett <unitdate type="inclusive">undated</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [47712414936084103]" altrender="box">1</container>
             <unittitle>Speeches of other temperance advocates</unittitle>
           </did>
         </c02>
@@ -138,7 +138,7 @@ Wilbur Emery Hammaker Papers
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [47712414936084103]" altrender="box">1</container>
             <unittitle>Papers <unitdate type="inclusive" normal="1942/1965">1942-1965</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">11 folders</extent>
@@ -152,7 +152,7 @@ Wilbur Emery Hammaker Papers
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [47712414936084103]" altrender="box">1</container>
             <unittitle>Temperance organizations (general) <unitdate type="inclusive" normal="1950/1952">1950-1952</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -161,7 +161,7 @@ Wilbur Emery Hammaker Papers
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [47712414936084103]" altrender="box">1</container>
             <unittitle>Caradine R. Hooton papers <unitdate type="inclusive" normal="1951/1965">1951-1965</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -173,7 +173,7 @@ Wilbur Emery Hammaker Papers
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [47712414936084103]" altrender="box">1</container>
             <unittitle>Temperance pamphlets <unitdate type="inclusive" normal="1944/1965">1944-1965</unitdate></unittitle>
           </did>
         </c02>

@@ -30,7 +30,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Allan Schreiber papers, 1968-1988</titleproper>
       <author>Finding aid created by <lb/>Polly Reynolds, August 2006</author>
     </titlepage>
@@ -88,19 +88,19 @@ Allan Schreiber papers, Bentley Historical Library, University of Michigan</p>
         <persname source="lcnaf" encodinganalog="600">Schreiber, Allan.</persname>
         <corpname source="lcnaf" encodinganalog="610">Earthworks (School : Ann Arbor, Mich.)</corpname>
         <corpname source="lcnaf" encodinganalog="610">Community High School (Ann Arbor, Mich.)</corpname>
-        <subject source="lcsh" encodinganalog="650">Alternative schools--Michigan--Ann Arbor.</subject>
-        <subject source="lcsh" encodinganalog="650">Schools--Michigan--Ann Arbor.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/9424">Alternative schools--Michigan--Ann Arbor.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5698">Schools--Michigan--Ann Arbor.</subject>
         <corpname source="lcnaf" encodinganalog="610">Pioneer High School (Ann Arbor, Mich.)</corpname>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Materials:</head>
         <persname source="lcnaf" encodinganalog="600">Schreiber, Allan.</persname>
         <corpname source="lcnaf" encodinganalog="610">Earthworks (School : Ann Arbor, Mich.)</corpname>
-        <subject source="lcsh" encodinganalog="650">Alternative schools--Michigan--Ann Arbor.</subject>
-        <subject source="lctgm" encodinganalog="650">Schools--Michigan--Ann Arbor.</subject>
-        <subject source="lctgm" encodinganalog="650">Students--Michigan--Ann Arbor.</subject>
-        <subject source="lctgm" encodinganalog="650">Teachers--Michigan--Ann Arbor.</subject>
-        <subject source="lctgm" encodinganalog="650">School field trips--Michigan--Ann Arbor.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/9424">Alternative schools--Michigan--Ann Arbor.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3603">Schools--Michigan--Ann Arbor.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4221">Students--Michigan--Ann Arbor.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4090">Teachers--Michigan--Ann Arbor.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/5274">School field trips--Michigan--Ann Arbor.</subject>
       </controlaccess>
       <controlaccess>
         <head>Contributors:</head>
@@ -108,8 +108,8 @@ Allan Schreiber papers, Bentley Historical Library, University of Michigan</p>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Motion pictures.</genreform>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3167">Motion pictures.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -126,13 +126,13 @@ Allan Schreiber papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [8653273148331385745]" altrender="box">1</container>
               <unittitle>Earthworks history <unitdate type="inclusive" normal="1988">1988</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [8653273148331385745]" altrender="box">1</container>
               <unittitle>Clippings</unittitle>
             </did>
           </c03>
@@ -142,25 +142,25 @@ Allan Schreiber papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [8653273148331385745]" altrender="box">1</container>
                 <unittitle>Nicholas Schreiber's file on <unitdate type="inclusive" normal="1968">spring 1968</unitdate> disturbances</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [8653273148331385745]" altrender="box">1</container>
                 <unittitle><unitdate type="inclusive" normal="1970-09-30">September 30, 1970</unitdate> file</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [8653273148331385745]" altrender="box">1</container>
                 <unittitle>Student unrest, <unitdate type="inclusive" normal="1971">Fall 1971</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [8653273148331385745]" altrender="box">1</container>
                 <unittitle>Meetings, memos, correspondence, etc. <unitdate type="inclusive" normal="1969/1970">1969-1970</unitdate></unittitle>
               </did>
             </c04>
@@ -172,25 +172,25 @@ Allan Schreiber papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [8653273148331385745]" altrender="box">1</container>
               <unittitle>Pre-Earthworks correspondence <unitdate type="inclusive" normal="1969/1971">1969-1971</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [8653273148331385745]" altrender="box">1</container>
               <unittitle>Early founding material <unitdate type="inclusive" normal="1971">1971</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [8653273148331385745]" altrender="box">1</container>
               <unittitle>In-service plan <unitdate type="inclusive" normal="1976/1977">1976-1977</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [8653273148331385745]" altrender="box">1</container>
               <unittitle>Secondary Alternatives Coordinating Council (SACC) <unitdate type="inclusive" normal="1977">1977</unitdate></unittitle>
             </did>
           </c03>
@@ -205,7 +205,7 @@ Allan Schreiber papers, Bentley Historical Library, University of Michigan</p>
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8653273148331385745]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1971/1977">1971-1977</unitdate>
             </unittitle>
@@ -224,31 +224,31 @@ Allan Schreiber papers, Bentley Historical Library, University of Michigan</p>
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8653273148331385745]" altrender="box">1</container>
             <unittitle>Community High founding blueprint <unitdate type="inclusive" normal="1972" certainty="approximate">circa 1972</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8653273148331385745]" altrender="box">1</container>
             <unittitle>Community High School concerns (pros and cons of becoming department of CHS) <unitdate type="inclusive" normal="1975/1977">1975-1977</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8653273148331385745]" altrender="box">1</container>
             <unittitle>Merger pre-planning <unitdate type="inclusive" normal="1977/1978">1977-1978</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8653273148331385745]" altrender="box">1</container>
             <unittitle>Merger planning <unitdate type="inclusive" normal="1977">1977</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8653273148331385745]" altrender="box">1</container>
             <unittitle>Post-merger <unitdate type="inclusive" normal="1978/1979">1978-1979</unitdate></unittitle>
           </did>
         </c02>
@@ -262,43 +262,43 @@ Allan Schreiber papers, Bentley Historical Library, University of Michigan</p>
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8653273148331385745]" altrender="box">1</container>
             <unittitle>Mid-year evaluation <unitdate type="inclusive" normal="1972">1972</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8653273148331385745]" altrender="box">1</container>
             <unittitle>Studies/assessments by "outsiders," <unitdate type="inclusive" normal="1972/1974">1972-1974</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8653273148331385745]" altrender="box">1</container>
             <unittitle>In-house evaluation <unitdate type="inclusive" normal="1973/1974">1973-1974</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8653273148331385745]" altrender="box">1</container>
             <unittitle>Bureau of School Services <unitdate type="inclusive" normal="1974">1974</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8653273148331385745]" altrender="box">1</container>
             <unittitle>Self-evaluation, <unitdate type="inclusive" normal="1974">fall 1974</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8653273148331385745]" altrender="box">1</container>
             <unittitle>Marbles game, Len Svransky paper, (Earthworks, Huron High School, St. Thomas) <unitdate type="inclusive" normal="1974/1975" certainty="approximate">1974-1975</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8653273148331385745]" altrender="box">1</container>
             <unittitle>Questionnaire responses, Pioneer High School-Huron High School, <unitdate type="inclusive" normal="1975">Fall 1975</unitdate></unittitle>
           </did>
           <odd>
@@ -307,63 +307,65 @@ Allan Schreiber papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8653273148331385745]" altrender="box">1</container>
             <unittitle>Evaluation proposal <unitdate type="inclusive" normal="1976">1976</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8653273148331385745]" altrender="box">1</container>
             <unittitle>Student responses, in-house evaluation <unitdate type="inclusive" normal="1976">1976</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8653273148331385745]" altrender="box">1</container>
             <unittitle><title render="italic">Ann Arbor needs more alternative programs</title>, Allan Schreiber, <unitdate type="inclusive" normal="1976/1978" certainty="approximate">circa 1976-1978</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8653273148331385745]" altrender="box">1</container>
             <unittitle><title render="italic">Ann Arbor Pioneer High School North Central Report: team visit to Pioneer</title>, <unitdate type="inclusive" normal="1977-03-15/1977-03-17">March 15-17, 1977</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8653273148331385745]" altrender="box">1</container>
             <unittitle>"Official" evaluation by E. Brzezinski (evaluation specialist) <unitdate type="inclusive" normal="1977">1977</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8653273148331385745]" altrender="box">1</container>
             <unittitle>Testimonials <unitdate type="inclusive" normal="1977">1977</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8653273148331385745]" altrender="box">1</container>
             <unittitle>Evaluations <unitdate type="inclusive">undated</unitdate> (in-house and visitors)</unittitle>
           </did>
         </c02>
       </c01>
       <c01 level="series">
         <did>
-          <unittitle>Reunion <unitdate type="inclusive" normal="1975">1975</unitdate>, <unitdate type="inclusive" normal="1982">1982</unitdate></unittitle>
+          <unittitle>Reunion</unittitle>
+          <unitdate type="inclusive" normal="1975">1975</unitdate>
+          <unitdate type="inclusive" normal="1982">1982</unitdate>
         </did>
         <scopecontent>
           <p>The Reunion series (1975 and 1982) consists of correspondence relating to efforts to put together several Earthworks reunions.</p>
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [96296124328310904]" altrender="box">2</container>
             <unittitle>Christmas reunion <unitdate type="inclusive" normal="1975">1975</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [96296124328310904]" altrender="box">2</container>
             <unittitle>Correspondence <unitdate type="inclusive" normal="1982">1982</unitdate></unittitle>
           </did>
         </c02>
@@ -377,19 +379,19 @@ Allan Schreiber papers, Bentley Historical Library, University of Michigan</p>
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [96296124328310904]" altrender="box">2</container>
             <unittitle>Annual reports <unitdate type="inclusive" normal="1972/1975">1972-1975</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [96296124328310904]" altrender="box">2</container>
             <unittitle>Forms and handouts <unitdate type="inclusive" normal="1974/1977">1974-1977</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [96296124328310904]" altrender="box">2</container>
             <unittitle>Forms and library journal</unittitle>
           </did>
         </c02>
@@ -399,7 +401,7 @@ Allan Schreiber papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [96296124328310904]" altrender="box">2</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1973/1974">1973-1974</unitdate>
               </unittitle>
@@ -407,7 +409,7 @@ Allan Schreiber papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [96296124328310904]" altrender="box">2</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1975/1976">1975-1976</unitdate>
               </unittitle>
@@ -415,7 +417,7 @@ Allan Schreiber papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [96296124328310904]" altrender="box">2</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1976/1977">1976-1977</unitdate>
               </unittitle>
@@ -426,14 +428,14 @@ Allan Schreiber papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [96296124328310904]" altrender="box">2</container>
               <unittitle><unitdate type="inclusive" normal="1978">1978</unitdate> mock-up</unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [96296124328310904]" altrender="box">2</container>
             <unittitle>Student publications</unittitle>
           </did>
           <odd>
@@ -450,7 +452,7 @@ Allan Schreiber papers, Bentley Historical Library, University of Michigan</p>
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [96296124328310904]" altrender="box">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1972/1973">1972-1973</unitdate>
             </unittitle>
@@ -464,13 +466,13 @@ Allan Schreiber papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [96296124328310904]" altrender="box">2</container>
             <unittitle><unitdate type="inclusive" normal="1973">1973</unitdate> fall</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [96296124328310904]" altrender="box">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1974/1975">1974-1975</unitdate>
             </unittitle>
@@ -481,13 +483,13 @@ Allan Schreiber papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [96296124328310904]" altrender="box">2</container>
             <unittitle><unitdate type="inclusive" normal="1976">1976</unitdate> spring</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [96296124328310904]" altrender="box">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1976/1977">1976-1977</unitdate>
             </unittitle>
@@ -498,7 +500,7 @@ Allan Schreiber papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [96296124328310904]" altrender="box">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1977">1977</unitdate>
             </unittitle>
@@ -509,13 +511,13 @@ Allan Schreiber papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [96296124328310904]" altrender="box">2</container>
             <unittitle>River trip</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [96296124328310904]" altrender="box">2</container>
             <unittitle>Fragments (trips to Niagara-Toronto, camping on AAPS wilderness property, Innisfree)</unittitle>
           </did>
         </c02>
@@ -535,37 +537,37 @@ Allan Schreiber papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [9323430434688899]" altrender="box">3</container>
               <unittitle>Dickson Museum, Anderson Lake <unitdate type="inclusive" normal="1973-10-19" certainty="approximate">October 19, 1973</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [9323430434688899]" altrender="box">3</container>
               <unittitle>Dickson Museum logos/Lincoln's New Salem <unitdate type="inclusive">undated</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [9323430434688899]" altrender="box">3</container>
               <unittitle>Jim Rees <unitdate type="inclusive">undated</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [9323430434688899]" altrender="box">3</container>
               <unittitle>School, dance, arboretum <unitdate type="inclusive">undated</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [9323430434688899]" altrender="box">3</container>
               <unittitle>School, feet, etc. <unitdate type="inclusive">undated</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [9323430434688899]" altrender="box">3</container>
               <unittitle>St. Genevieve <unitdate type="inclusive">undated</unitdate></unittitle>
             </did>
           </c03>
@@ -578,8 +580,11 @@ Allan Schreiber papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
-              <unittitle>Earthworks Fritz Building <unitdate type="inclusive" normal="1974-04">April 1974</unitdate>, <unitdate type="inclusive" normal="1977-03">March 1977</unitdate>, <unitdate type="inclusive" normal="1976-11">November 1976</unitdate></unittitle>
+              <container type="box" label="Box [9323430434688899]" altrender="box">3</container>
+              <unittitle>Earthworks Fritz Building</unittitle>
+              <unitdate type="inclusive" normal="1974-04">April 1974</unitdate>
+              <unitdate type="inclusive" normal="1977-03">March 1977</unitdate>
+              <unitdate type="inclusive" normal="1976-11">November 1976</unitdate>
             </did>
           </c03>
           <c03 level="file">
@@ -588,31 +593,31 @@ Allan Schreiber papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [9323430434688899]" altrender="box">3</container>
                 <unittitle>AAPS property <unitdate type="inclusive" normal="1974-05">May 1974</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [9323430434688899]" altrender="box">3</container>
                 <unittitle>Anekan (?) Mounds, caves, South Ohio <unitdate type="inclusive" normal="1974-10">October 1974</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [9323430434688899]" altrender="box">3</container>
                 <unittitle>Silver Lake Dunes, Hartwick Pines <unitdate type="inclusive" normal="1975">1975</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [9323430434688899]" altrender="box">3</container>
                 <unittitle>Upper Peninsula <unitdate type="inclusive" normal="1976-10">October 1976</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [9323430434688899]" altrender="box">3</container>
                 <unittitle>Ohio Indian mounds <unitdate type="inclusive" normal="1977-06">June 1977</unitdate></unittitle>
               </did>
             </c04>
@@ -626,13 +631,13 @@ Allan Schreiber papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [9323430434688899]" altrender="box">3</container>
               <unittitle>At the Fritz building</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [9323430434688899]" altrender="box">3</container>
               <unittitle>Earthworks activities at the Fritz building <unitdate type="inclusive" normal="1974/1977" certainty="approximate">circa 1974-1977</unitdate></unittitle>
             </did>
             <odd>
@@ -641,7 +646,7 @@ Allan Schreiber papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [9323430434688899]" altrender="box">3</container>
               <unittitle>Earthworks camping trip to evaluate Ann Arbor Public Schools property (near Clare, MI?)</unittitle>
             </did>
           </c03>
@@ -654,13 +659,13 @@ Allan Schreiber papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [9323430434688899]" altrender="box">3</container>
               <unittitle>Dance concert by students <unitdate type="inclusive" normal="1978-06-09">June 9, 1978</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [9323430434688899]" altrender="box">3</container>
               <unittitle>Earthworks animation film <unitdate type="inclusive">undated</unitdate></unittitle>
             </did>
           </c03>

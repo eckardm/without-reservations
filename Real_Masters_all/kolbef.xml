@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Frank F. Kolbe papers, 1944-1977</titleproper>
       <author>Finding aid created by <lb/>Michigan Historical Collections staff</author>
     </titlepage>
@@ -79,26 +79,26 @@ Frank F. Kolbe papers, Bentley Historical Library, University of Michigan</p>
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <geogname source="lcsh" encodinganalog="651">Chicago (Ill.)</geogname>
-        <subject source="lcsh" encodinganalog="650">Coal trade.</subject>
-        <subject source="lcsh" encodinganalog="650">Inventions.</subject>
-        <subject source="lcsh" encodinganalog="650">Mines and mineral resources--United States.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1451">Chicago (Ill.)</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/8696">Coal trade.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6022">Inventions.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7735">Mines and mineral resources--United States.</subject>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n50060825">National Coal Association.</corpname>
         <corpname source="lcnaf" encodinganalog="610">United Electric Coal Companies (Chicago, Ill.)</corpname>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Materials:</head>
-        <subject source="lctgm" encodinganalog="650">Coal mines.</subject>
-        <subject source="lctgm" encodinganalog="650">Costumes.</subject>
-        <subject source="lctgm" encodinganalog="650">Horseback riding.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4639">Coal mines.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3625">Costumes.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4412">Horseback riding.</subject>
         <persname source="lcnaf" encodinganalog="600">Kolbe, Frank F.</persname>
-        <subject source="lctgm" encodinganalog="650">Leisure.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3924">Leisure.</subject>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n50060825">National Coal Association.</corpname>
-        <geogname source="lcsh" encodinganalog="651">Poland.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1291">Poland.</geogname>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -108,14 +108,16 @@ Frank F. Kolbe papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [97242255477888058918089]" altrender="box">1</container>
             <unittitle>Biographical material and autobiographical writings</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <unittitle>Correspondence <unitdate type="inclusive" normal="1948">1948</unitdate>, <unitdate type="inclusive" normal="1957/1977">1957-1977</unitdate></unittitle>
+            <container type="box" label="Box [97242255477888058918089]" altrender="box">1</container>
+            <unittitle>Correspondence</unittitle>
+            <unitdate type="inclusive" normal="1948">1948</unitdate>
+            <unitdate type="inclusive" normal="1957/1977">1957-1977</unitdate>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">8 folders</extent>
             </physdesc>
@@ -123,37 +125,37 @@ Frank F. Kolbe papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [97242255477888058918089]" altrender="box">1</container>
             <unittitle>Manuscript of proposed book on art</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [97242255477888058918089]" altrender="box">1</container>
             <unittitle>Kolbe wheel excavator materials</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [97242255477888058918089]" altrender="box">1</container>
             <unittitle>Review of Felix Frankfurter book</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [97242255477888058918089]" altrender="box">1</container>
             <unittitle>Speeches</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [97242255477888058918089]" altrender="box">1</container>
             <unittitle>Chicago Association of Commerce and Industry materials</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [97242255477888058918089]" altrender="box">1</container>
             <unittitle>Miscellaneous writings</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -162,7 +164,7 @@ Frank F. Kolbe papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [97242255477888058918089]" altrender="box">1</container>
             <unittitle><genreform normal="Photographs">Photographs</genreform> of Kolbe at various meetings and leisure-time activities</unittitle>
           </did>
         </c02>

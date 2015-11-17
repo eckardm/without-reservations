@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Edward William Staebler papers, 1870-1952</titleproper>
       <author>Finding aid created by <lb/>Michigan Historical Collections staff</author>
     </titlepage>
@@ -37,7 +37,9 @@
       <origination>
         <persname source="lcnaf" encodinganalog="100">Staebler, Edward William, 1872-1946.</persname>
       </origination>
-      <unittitle encodinganalog="245">Edward William Staebler papers <unitdate type="inclusive" encodinganalog="245$f" normal="1870/1952">1870-1952</unitdate>, <unitdate type="bulk" encodinganalog="245$g" normal="1922/1944">1922-1944</unitdate></unittitle>
+      <unittitle encodinganalog="245">Edward William Staebler papers</unittitle>
+      <unitdate type="inclusive" encodinganalog="245$f" normal="1870/1952">1870-1952</unitdate>
+      <unitdate type="bulk" encodinganalog="245$g" normal="1922/1944">1922-1944</unitdate>
       <unitid encodinganalog="852$h" repositorycode="MiU-H" countrycode="us" type="call number">8643 Aa 2</unitid>
       <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language></langmaterial>
       <abstract>Ann Arbor, Michigan businessman and Democratic mayor of the city, 1927-1931. Mayoralty files; papers, 1922-1926, concerning the Ann Arbor Board of Education; also papers, 1922-1952, of Staebler and Son, automobile dealership.</abstract>
@@ -79,29 +81,29 @@ Edward William Staebler papers, Bentley Historical Library, University of Michig
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n79022219.html">Ann Arbor (Mich.)</geogname>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n79022219.html" ref="/subjects/860">Ann Arbor (Mich.)</geogname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n86851070">Ann Arbor (Mich.). Board of Education.</corpname>
-        <subject source="lcsh" encodinganalog="650">Mayors--Michigan--Ann Arbor.</subject>
-        <subject source="lcsh" encodinganalog="650">Automobile industry and trade--Michigan--Ann Arbor.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6242">Mayors--Michigan--Ann Arbor.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6509">Automobile industry and trade--Michigan--Ann Arbor.</subject>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n83163731">Democratic Party (Mich.)</corpname>
-        <subject source="lcsh" encodinganalog="650">Depressions--1929--Michigan--Ann Arbor.</subject>
-        <subject source="lcsh" encodinganalog="650">Education--Michigan--Ann Arbor.</subject>
-        <subject source="lcsh" encodinganalog="650">Municipal government--Michigan--Ann Arbor.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/10191">Depressions--1929--Michigan--Ann Arbor.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5679">Education--Michigan--Ann Arbor.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5661">Municipal government--Michigan--Ann Arbor.</subject>
         <persname source="lcnaf" encodinganalog="600">Staebler, Edward William, 1872-1946.</persname>
         <corpname source="lcnaf" encodinganalog="610">Staebler and Sons (Ann Arbor, Mich.)</corpname>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Materials:</head>
-        <subject source="lctgm" encodinganalog="650">Automobiles--1901-1910.</subject>
-        <subject source="lctgm" encodinganalog="650">Children.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/5372">Automobiles--1901-1910.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3622">Children.</subject>
         <persname source="lcnaf" encodinganalog="600">Staebler, Edward William, 1872-1946.</persname>
         <famname source="lcnaf" encodinganalog="600">Staebler family.</famname>
-        <subject source="lctgm" encodinganalog="650">Women.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3619">Women.</subject>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
-        <genreform source="gmgpc" encodinganalog="655">Tintypes.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
+        <genreform source="gmgpc" encodinganalog="655" ref="/subjects/3455">Tintypes.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -115,7 +117,7 @@ Edward William Staebler papers, Bentley Historical Library, University of Michig
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [4297874158712191234071]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1927-04/1927-09">April-September 1927</unitdate>
               </unittitle>
@@ -123,7 +125,7 @@ Edward William Staebler papers, Bentley Historical Library, University of Michig
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [4297874158712191234071]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1927-10/1927-12">October-December 1927</unitdate>
               </unittitle>
@@ -131,7 +133,7 @@ Edward William Staebler papers, Bentley Historical Library, University of Michig
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [4297874158712191234071]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1928-01/1928-03">January-March 1928</unitdate>
               </unittitle>
@@ -139,7 +141,7 @@ Edward William Staebler papers, Bentley Historical Library, University of Michig
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [4297874158712191234071]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1928-04/1928-06">April-June 1928</unitdate>
               </unittitle>
@@ -147,7 +149,7 @@ Edward William Staebler papers, Bentley Historical Library, University of Michig
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [4297874158712191234071]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1928-07/1928-09">July-September 1928</unitdate>
               </unittitle>
@@ -155,7 +157,7 @@ Edward William Staebler papers, Bentley Historical Library, University of Michig
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [4297874158712191234071]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1928-10/1928-12">October-December 1928</unitdate>
               </unittitle>
@@ -163,7 +165,7 @@ Edward William Staebler papers, Bentley Historical Library, University of Michig
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [4297874158712191234071]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1929-01/1929-03">January-March 1929</unitdate>
               </unittitle>
@@ -171,7 +173,7 @@ Edward William Staebler papers, Bentley Historical Library, University of Michig
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [4297874158712191234071]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1929-04/1929-06">April-June 1929</unitdate>
               </unittitle>
@@ -179,7 +181,7 @@ Edward William Staebler papers, Bentley Historical Library, University of Michig
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [4297874158712191234071]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1929-07/1929-09">July-September 1929</unitdate>
               </unittitle>
@@ -187,7 +189,7 @@ Edward William Staebler papers, Bentley Historical Library, University of Michig
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [4297874158712191234071]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1929-10/1929-12">October-December 1929</unitdate>
               </unittitle>
@@ -195,7 +197,7 @@ Edward William Staebler papers, Bentley Historical Library, University of Michig
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [4297874158712191234071]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1930-01/1930-03">January-March 1930</unitdate>
               </unittitle>
@@ -203,7 +205,7 @@ Edward William Staebler papers, Bentley Historical Library, University of Michig
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [4297874158712191234071]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1930-04/1930-06">April-June 1930</unitdate>
               </unittitle>
@@ -211,7 +213,7 @@ Edward William Staebler papers, Bentley Historical Library, University of Michig
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [4297874158712191234071]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1930-07/1930-08">July-August 1930</unitdate>
               </unittitle>
@@ -219,7 +221,7 @@ Edward William Staebler papers, Bentley Historical Library, University of Michig
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [4297874158712191234071]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1930-09/1930-12">September-December 1930</unitdate>
               </unittitle>
@@ -227,7 +229,7 @@ Edward William Staebler papers, Bentley Historical Library, University of Michig
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [4297874158712191234071]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1931-01/1931-04">January-April 1931</unitdate>
               </unittitle>
@@ -240,349 +242,349 @@ Edward William Staebler papers, Bentley Historical Library, University of Michig
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [4297874158712191234071]" altrender="box">1</container>
               <unittitle>Accountant and Accounting System</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [4297874158712191234071]" altrender="box">1</container>
               <unittitle>Ann Arbor Municipal Airport</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [4297874158712191234071]" altrender="box">1</container>
               <unittitle>Air Tour <unitdate type="inclusive" normal="1930">1930</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [4297874158712191234071]" altrender="box">1</container>
               <unittitle>Amateur Cinema</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [4297874158712191234071]" altrender="box">1</container>
               <unittitle>Amendments (proposed state)</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [4297874158712191234071]" altrender="box">1</container>
               <unittitle>Amendment of city charter re. pensions</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [4297874158712191234071]" altrender="box">1</container>
               <unittitle>Appointments to office</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [4297874158712191234071]" altrender="box">1</container>
               <unittitle>Aviation</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [4297874158712191234071]" altrender="box">1</container>
               <unittitle>Board of Public Works <unitdate type="inclusive" normal="1927">1927</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [4297874158712191234071]" altrender="box">1</container>
               <unittitle>Board of Public Works <unitdate type="inclusive" normal="1929">1929</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [20633047639181820]" altrender="box">2</container>
               <unittitle>Board of Supervisors</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [20633047639181820]" altrender="box">2</container>
               <unittitle>Budgets</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [20633047639181820]" altrender="box">2</container>
               <unittitle>Building Code</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [20633047639181820]" altrender="box">2</container>
               <unittitle>Bus Service</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [20633047639181820]" altrender="box">2</container>
               <unittitle>City attorney</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [20633047639181820]" altrender="box">2</container>
               <unittitle>Clean Up-Paint Up Week</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [20633047639181820]" altrender="box">2</container>
               <unittitle>Complaints and Claims against the city</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [20633047639181820]" altrender="box">2</container>
               <unittitle>Council (communications to)</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [20633047639181820]" altrender="box">2</container>
               <unittitle>Day nursery reports</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [20633047639181820]" altrender="box">2</container>
               <unittitle>Election registration <unitdate type="inclusive" normal="1928">1928</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [20633047639181820]" altrender="box">2</container>
               <unittitle>Election of <unitdate type="inclusive" normal="1932">1932</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [20633047639181820]" altrender="box">2</container>
               <unittitle>Electrical inspection</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [20633047639181820]" altrender="box">2</container>
               <unittitle>Family Welfare Bureau</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [20633047639181820]" altrender="box">2</container>
               <unittitle>Financial statements of Ann Arbor</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [20633047639181820]" altrender="box">2</container>
               <unittitle>Finances and bonds</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [20633047639181820]" altrender="box">2</container>
               <unittitle>Fire department</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [20633047639181820]" altrender="box">2</container>
               <unittitle>Gasoline ordinance</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [20633047639181820]" altrender="box">2</container>
               <unittitle>Health unit, Washtenaw County</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [20633047639181820]" altrender="box">2</container>
               <unittitle>Highways</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [20633047639181820]" altrender="box">2</container>
               <unittitle>Hospital (proposed state psychopathic)</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [20633047639181820]" altrender="box">2</container>
               <unittitle>Hotels</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [20633047639181820]" altrender="box">2</container>
               <unittitle>Housing Law</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [20633047639181820]" altrender="box">2</container>
               <unittitle>Insurance of city property</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [20633047639181820]" altrender="box">2</container>
               <unittitle>Keihl, Frank (dismissal)</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [20633047639181820]" altrender="box">2</container>
               <unittitle>Labor Unions</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [20633047639181820]" altrender="box">2</container>
               <unittitle>League of Michigan Municipalities</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [20633047639181820]" altrender="box">2</container>
               <unittitle>Market Committee</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [20633047639181820]" altrender="box">2</container>
               <unittitle>Market site</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [20633047639181820]" altrender="box">2</container>
               <unittitle>Messages and recommendations</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [20633047639181820]" altrender="box">2</container>
               <unittitle>Michigan Central Railroad</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [20633047639181820]" altrender="box">2</container>
               <unittitle>Newkirk, H. Wirt</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [20633047639181820]" altrender="box">2</container>
               <unittitle>Ordinances</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [20633047639181820]" altrender="box">2</container>
               <unittitle>Park Commission</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [20633047639181820]" altrender="box">2</container>
               <unittitle>Permits issued</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [20633047639181820]" altrender="box">2</container>
               <unittitle>Planning and Zoning Conference</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [20633047639181820]" altrender="box">2</container>
               <unittitle>Precincts [new] <unitdate type="inclusive" normal="1929">1929</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [20633047639181820]" altrender="box">2</container>
               <unittitle>Proclamations</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [20633047639181820]" altrender="box">2</container>
               <unittitle>Prohibition</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [20633047639181820]" altrender="box">2</container>
               <unittitle>Public and Community Service Committee</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [20633047639181820]" altrender="box">2</container>
               <unittitle>Real Estate Board</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [20633047639181820]" altrender="box">2</container>
               <unittitle>Salvation Army</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [20633047639181820]" altrender="box">2</container>
               <unittitle>Scrip and Tax anticipation notes</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [20633047639181820]" altrender="box">2</container>
               <unittitle>Sewage disposal system</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [5496447554501442270077]" altrender="box">3</container>
               <unittitle>Sewer construction</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [5496447554501442270077]" altrender="box">3</container>
               <unittitle>Soliciting (law on)</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [5496447554501442270077]" altrender="box">3</container>
               <unittitle>Speeches and material for talks</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [5496447554501442270077]" altrender="box">3</container>
               <unittitle>Supervisor's investigation of road commission</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [5496447554501442270077]" altrender="box">3</container>
               <unittitle>Taxation</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -591,19 +593,19 @@ Edward William Staebler papers, Bentley Historical Library, University of Michig
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [5496447554501442270077]" altrender="box">3</container>
               <unittitle>Taxis, regulations</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [5496447554501442270077]" altrender="box">3</container>
               <unittitle>Treasurer's reports</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [5496447554501442270077]" altrender="box">3</container>
               <unittitle>Unemployment</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -612,43 +614,43 @@ Edward William Staebler papers, Bentley Historical Library, University of Michig
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [5496447554501442270077]" altrender="box">3</container>
               <unittitle>University of Michigan</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [5496447554501442270077]" altrender="box">3</container>
               <unittitle>University of Michigan Fraternity Raid <unitdate type="inclusive" normal="1931">1931</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [5496447554501442270077]" altrender="box">3</container>
               <unittitle>Veterans bonus</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [5496447554501442270077]" altrender="box">3</container>
               <unittitle>Voting machines</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [5496447554501442270077]" altrender="box">3</container>
               <unittitle>Washington Bicentennial Program</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [5496447554501442270077]" altrender="box">3</container>
               <unittitle>Washtenaw Museum</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [5496447554501442270077]" altrender="box">3</container>
               <unittitle>Water Department</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">6 folders</extent>
@@ -657,19 +659,19 @@ Edward William Staebler papers, Bentley Historical Library, University of Michig
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [79656926413646158394]" altrender="box">4</container>
               <unittitle>Y.M.C.A.</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [79656926413646158394]" altrender="box">4</container>
               <unittitle>Youth Commission</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [79656926413646158394]" altrender="box">4</container>
               <unittitle>Zoning</unittitle>
             </did>
           </c03>
@@ -681,7 +683,7 @@ Edward William Staebler papers, Bentley Historical Library, University of Michig
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [79656926413646158394]" altrender="box">4</container>
             <unittitle>Ann Arbor Board of Education <unitdate type="inclusive" normal="1922/1926">1922-1926</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">4 folders</extent>
@@ -694,73 +696,73 @@ Edward William Staebler papers, Bentley Historical Library, University of Michig
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [79656926413646158394]" altrender="box">4</container>
               <unittitle>American Road Builders Association</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [79656926413646158394]" altrender="box">4</container>
               <unittitle>Bankruptcy court</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [79656926413646158394]" altrender="box">4</container>
               <unittitle>Bookkeeper applications</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [79656926413646158394]" altrender="box">4</container>
               <unittitle>Coal cubing machine</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [79656926413646158394]" altrender="box">4</container>
               <unittitle>Credit ratings</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [79656926413646158394]" altrender="box">4</container>
               <unittitle>Dixie Refining Company</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [79656926413646158394]" altrender="box">4</container>
               <unittitle>Gas heating</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [79656926413646158394]" altrender="box">4</container>
               <unittitle>Gasoline tax</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [79656926413646158394]" altrender="box">4</container>
               <unittitle>Salaries and wages</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [79656926413646158394]" altrender="box">4</container>
               <unittitle>United Reproducers Corporation</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [79656926413646158394]" altrender="box">4</container>
               <unittitle>Miscellanea</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [79656926413646158394]" altrender="box">4</container>
               <unittitle>Financial statements <unitdate type="inclusive" normal="1931/1952">1931-1952</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">1 folders</extent>
@@ -770,13 +772,13 @@ Edward William Staebler papers, Bentley Historical Library, University of Michig
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [79656926413646158394]" altrender="box">4</container>
             <unittitle>Order of the Eastern Star <unitdate type="inclusive" normal="1932/1944">1932-1944</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [79656926413646158394]" altrender="box">4</container>
             <unittitle>Rotary International Service Committee <unitdate type="inclusive" normal="1937/1940">1937-1940</unitdate></unittitle>
           </did>
         </c02>
@@ -787,7 +789,7 @@ Edward William Staebler papers, Bentley Historical Library, University of Michig
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [79656926413646158394]" altrender="box">4</container>
             <unittitle>Portraits, presumably of Staebler family members; and copy print photographs of Staebler and others driving automobiles sold by Staebler</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 envelopes</extent>

@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Heidi Van Arnem papers, 1977-2003</titleproper>
       <author>Finding aid created by <lb/>Rachael Dreyer, 2009</author>
     </titlepage>
@@ -37,7 +37,9 @@
       <origination>
         <persname source="lcnaf" encodinganalog="100">Van Arnem, Heidi.</persname>
       </origination>
-      <unittitle encodinganalog="245">Heidi Van Arnem papers <unitdate type="inclusive" encodinganalog="245$f" normal="1977/2003">1977-2003</unitdate>, <unitdate type="bulk" encodinganalog="245$g" normal="1994/2001">1994-2001</unitdate></unittitle>
+      <unittitle encodinganalog="245">Heidi Van Arnem papers</unittitle>
+      <unitdate type="inclusive" encodinganalog="245$f" normal="1977/2003">1977-2003</unitdate>
+      <unitdate type="bulk" encodinganalog="245$g" normal="1994/2001">1994-2001</unitdate>
       <unitid encodinganalog="852$h" repositorycode="MiU-H" countrycode="us" type="call number">2009126 Aa 2</unitid>
       <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language></langmaterial>
       <abstract>Entrepreneur and disability rights activist from Birmingham, Michigan. The collection document’s Van Arnem’s life and career through news clippings, columns that Heidi Van Arnem wrote for the Detroit Free Press and Detroit News, business materials, files relating to her advocacy and fundraising efforts, and visual materials.</abstract>
@@ -86,28 +88,28 @@ Heidi Van Arnem papers, Bentley Historical Library, University of Michigan</p>
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <subject source="lcsh" encodinganalog="650">Computers and people with disabilities--Michigan.</subject>
-        <subject source="lcsh" encodinganalog="650">Entrepreneurship--Michigan.</subject>
-        <subject source="lcsh" encodinganalog="650">Fund raising--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/10507">Computers and people with disabilities--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/10508">Entrepreneurship--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/9770">Fund raising--Michigan.</subject>
         <corpname source="lcnaf" encodinganalog="610">iCan, Inc.</corpname>
-        <subject source="lcsh" encodinganalog="650">People with disabilities--Michigan.</subject>
-        <subject source="lcsh" encodinganalog="650">Quadriplegics--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6159">People with disabilities--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7794">Quadriplegics--Michigan.</subject>
         <corpname source="lcnaf" encodinganalog="610">Travel Headquarters (Corporation)</corpname>
         <persname source="lcnaf" encodinganalog="600">Van Arnem, Heidi.</persname>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Materials:</head>
-        <subject source="lctgm" encodinganalog="650">Fund raising.</subject>
-        <subject source="lctgm" encodinganalog="650">Golf--Michigan.</subject>
-        <subject source="lctgm" encodinganalog="650">People with disabilities--Michigan--Birmingham.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3585">Fund raising.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3943">Golf--Michigan.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/5500">People with disabilities--Michigan--Birmingham.</subject>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n88027389">Reeve, Christopher, 1952-2004.</persname>
         <persname source="lcnaf" encodinganalog="600">Van Arnem, Heidi.</persname>
         <persname source="lcnaf" encodinganalog="600">Wonder, Stevie.</persname>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
-        <genreform source="aat" encodinganalog="655">Videotapes.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3140">Videotapes.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -120,7 +122,7 @@ Heidi Van Arnem papers, Bentley Historical Library, University of Michigan</p>
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">1</container>
+            <container type="volume" label="Oversize Volume [87062947487635678461032]" altrender="volume">1</container>
             <unittitle>Scrapbook <unitdate type="inclusive" normal="1977/1995">1977-1995</unitdate></unittitle>
           </did>
           <odd>
@@ -129,19 +131,22 @@ Heidi Van Arnem papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [76378546471997330951991]" altrender="box">1</container>
             <unittitle>United States Patent: Method for Lifting and Transferring a Disabled Person to and from a Wheelchair <unitdate type="inclusive" normal="1994">1994</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <unittitle>Awards: Golden Apple <unitdate type="inclusive" normal="1997">1997</unitdate>, Women of the Web, <unitdate type="inclusive" normal="2000">2000</unitdate> Community Luminary, <unitdate type="inclusive">undated</unitdate></unittitle>
+            <container type="box" label="Box [76378546471997330951991]" altrender="box">1</container>
+            <unittitle>Awards: Golden Apple 1997, Women of the Web, 2000 Community Luminary, undated</unittitle>
+            <unitdate type="inclusive" normal="1997">1997</unitdate>
+            <unitdate type="inclusive" normal="2000">2000</unitdate>
+            <unitdate type="inclusive">undated</unitdate>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [76378546471997330951991]" altrender="box">1</container>
             <unittitle>Interviews with Heidi Van Arnem <unitdate type="inclusive" normal="2000">2000</unitdate></unittitle>
           </did>
           <odd>
@@ -150,13 +155,13 @@ Heidi Van Arnem papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [76378546471997330951991]" altrender="box">1</container>
             <unittitle>I-Can, Inc. Press Releases and Publicity Materials <unitdate type="inclusive" normal="2000/2001">2000-2001</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [76378546471997330951991]" altrender="box">1</container>
             <unittitle>Memorials and Obituaries <unitdate type="inclusive" normal="2001/2002">2001-2002</unitdate></unittitle>
           </did>
         </c02>
@@ -170,25 +175,25 @@ Heidi Van Arnem papers, Bentley Historical Library, University of Michigan</p>
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [76378546471997330951991]" altrender="box">1</container>
             <unittitle>Spring into Fashion Benefit <unitdate type="inclusive" normal="1994">1994</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [76378546471997330951991]" altrender="box">1</container>
             <unittitle>Heidi Van Arnem Foundation Golf Classic <unitdate type="inclusive" normal="1995/1997">1995-1997</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [76378546471997330951991]" altrender="box">1</container>
             <unittitle>Wayne State University, Disability Awareness Awards <unitdate type="inclusive" normal="1997">1997</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [76378546471997330951991]" altrender="box">1</container>
             <unittitle>Spend a Day in a Wheelchair <unitdate type="inclusive" normal="1997/1998">1997-1998</unitdate></unittitle>
           </did>
           <odd>
@@ -197,19 +202,21 @@ Heidi Van Arnem papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [76378546471997330951991]" altrender="box">1</container>
             <unittitle>"Rack 'Em Up for Paralysis" Billiards Event <unitdate type="inclusive" normal="1998">1998</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <unittitle>Executive Declarations and Certificates from Governor John Engler <unitdate type="inclusive" normal="1997/1999">1997-1999</unitdate>, <unitdate type="inclusive" normal="2001">2001</unitdate></unittitle>
+            <container type="box" label="Box [76378546471997330951991]" altrender="box">1</container>
+            <unittitle>Executive Declarations and Certificates from Governor John Engler</unittitle>
+            <unitdate type="inclusive" normal="1997/1999">1997-1999</unitdate>
+            <unitdate type="inclusive" normal="2001">2001</unitdate>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [76378546471997330951991]" altrender="box">1</container>
             <unittitle>Heidi's Dream Ball <unitdate type="inclusive" normal="2002/2003">2002-2003</unitdate></unittitle>
           </did>
           <odd>
@@ -218,7 +225,7 @@ Heidi Van Arnem papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [76378546471997330951991]" altrender="box">1</container>
             <unittitle>Correspondence</unittitle>
           </did>
           <odd>
@@ -235,36 +242,40 @@ Heidi Van Arnem papers, Bentley Historical Library, University of Michigan</p>
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <unittitle>Open Roads Column <unitdate type="inclusive" normal="1994">1994</unitdate>, <unitdate type="inclusive">undated</unitdate></unittitle>
+            <container type="box" label="Box [76378546471997330951991]" altrender="box">1</container>
+            <unittitle>Open Roads Column</unittitle>
+            <unitdate type="inclusive" normal="1994">1994</unitdate>
+            <unitdate type="inclusive">undated</unitdate>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [76378546471997330951991]" altrender="box">1</container>
             <unittitle>Biographical <unitdate type="inclusive" normal="1996/2001">1996-2001</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [76378546471997330951991]" altrender="box">1</container>
             <unittitle>Disability, General <unitdate type="inclusive" normal="1996/2000">1996-2000</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [76378546471997330951991]" altrender="box">1</container>
             <unittitle>Travel Headquarters <unitdate type="inclusive" normal="1996/1997">1996-1997</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <unittitle>Disability Today Column <unitdate type="inclusive" normal="1997/1998">1997-1998</unitdate>, <unitdate type="inclusive">undated</unitdate></unittitle>
+            <container type="box" label="Box [76378546471997330951991]" altrender="box">1</container>
+            <unittitle>Disability Today Column</unittitle>
+            <unitdate type="inclusive" normal="1997/1998">1997-1998</unitdate>
+            <unitdate type="inclusive">undated</unitdate>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [76378546471997330951991]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1997">1997</unitdate>
               </unittitle>
@@ -272,7 +283,7 @@ Heidi Van Arnem papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [76378546471997330951991]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1998">1998</unitdate>
               </unittitle>
@@ -280,7 +291,7 @@ Heidi Van Arnem papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [76378546471997330951991]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive">undated</unitdate>
               </unittitle>
@@ -289,13 +300,13 @@ Heidi Van Arnem papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [76378546471997330951991]" altrender="box">1</container>
             <unittitle>I-Can <unitdate type="inclusive" normal="2000/2001">2000-2001</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [76378546471997330951991]" altrender="box">1</container>
             <unittitle>Heidi Van Arnem Disability Consumer Research Report <unitdate type="inclusive" normal="2002">2002</unitdate></unittitle>
           </did>
         </c02>
@@ -315,19 +326,19 @@ Heidi Van Arnem papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [76378546471997330951991]" altrender="box">1</container>
               <unittitle>Childhood</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [76378546471997330951991]" altrender="box">1</container>
               <unittitle>Formal and Informal</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [76378546471997330951991]" altrender="box">1</container>
               <unittitle>Portraits of Family and Friends</unittitle>
             </did>
           </c03>
@@ -337,7 +348,7 @@ Heidi Van Arnem papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [76378546471997330951991]" altrender="box">1</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1997">1997</unitdate>
                 </unittitle>
@@ -348,7 +359,7 @@ Heidi Van Arnem papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [76378546471997330951991]" altrender="box">1</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1998">1998</unitdate>
                 </unittitle>
@@ -356,7 +367,7 @@ Heidi Van Arnem papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [76378546471997330951991]" altrender="box">1</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1999/2000">1999-2000</unitdate>
                 </unittitle>
@@ -364,7 +375,7 @@ Heidi Van Arnem papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [76378546471997330951991]" altrender="box">1</container>
                 <unittitle>
                   <unitdate type="inclusive">Undated</unitdate>
                 </unittitle>
@@ -376,13 +387,13 @@ Heidi Van Arnem papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [76378546471997330951991]" altrender="box">1</container>
               <unittitle>Group photos</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [76378546471997330951991]" altrender="box">1</container>
               <unittitle>Miscellaneous</unittitle>
             </did>
           </c03>
@@ -399,7 +410,7 @@ Heidi Van Arnem papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [737946827408630825722]" altrender="box">2</container>
                 <unittitle>Heidi Van Arnem</unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">3 tapes</extent>
@@ -408,19 +419,19 @@ Heidi Van Arnem papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [737946827408630825722]" altrender="box">2</container>
                 <unittitle>Heidi Van Arnem Foundation Radio Spot <unitdate type="inclusive" normal="1999-06-21">06/21/1999</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [737946827408630825722]" altrender="box">2</container>
                 <unittitle>Heidi and Stevie Wonder <unitdate type="inclusive" normal="2001">2001</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [737946827408630825722]" altrender="box">2</container>
                 <unittitle>Heidi's Dream Ball commercial <unitdate type="inclusive" normal="2003">2003</unitdate></unittitle>
               </did>
             </c04>
@@ -430,7 +441,7 @@ Heidi Van Arnem papers, Bentley Historical Library, University of Michigan</p>
               </did>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">2</container>
+                  <container type="box" label="Box [737946827408630825722]" altrender="box">2</container>
                   <unittitle>Opening Speaker</unittitle>
                 </did>
                 <odd>
@@ -439,7 +450,7 @@ Heidi Van Arnem papers, Bentley Historical Library, University of Michigan</p>
               </c05>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">2</container>
+                  <container type="box" label="Box [737946827408630825722]" altrender="box">2</container>
                   <unittitle>Christopher Reeve Speech</unittitle>
                 </did>
                 <odd>
@@ -454,13 +465,13 @@ Heidi Van Arnem papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [737946827408630825722]" altrender="box">2</container>
                 <unittitle>The Miami Project to Cure Paralysis, "Just a Step Away," <unitdate type="inclusive" normal="1993">1993</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [737946827408630825722]" altrender="box">2</container>
                 <unittitle>Heidi Van Arnem Foundation Video <unitdate type="inclusive" normal="1995" certainty="approximate">circa 1995</unitdate></unittitle>
               </did>
               <odd>
@@ -474,7 +485,7 @@ Heidi Van Arnem papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [49075140875031243]" altrender="box">3</container>
                 <unittitle>Heidi Van Arnem Foundation <unitdate type="inclusive" normal="1995">1995</unitdate></unittitle>
               </did>
               <odd>
@@ -483,7 +494,7 @@ Heidi Van Arnem papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [49075140875031243]" altrender="box">3</container>
                 <unittitle>Heidi Van Arnem Foundation <unitdate type="inclusive" normal="1995">1995</unitdate></unittitle>
               </did>
               <odd>
@@ -495,7 +506,7 @@ Heidi Van Arnem papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [49075140875031243]" altrender="box">3</container>
                 <unittitle>EHMS Wheelchair for a Day <unitdate type="inclusive" normal="1996-03-04">03/04/1996</unitdate></unittitle>
               </did>
               <odd>
@@ -504,7 +515,7 @@ Heidi Van Arnem papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [49075140875031243]" altrender="box">3</container>
                 <unittitle>Dateline Detroit <unitdate type="inclusive" normal="1996-04-13">04/13/1996</unitdate></unittitle>
               </did>
               <odd>
@@ -513,7 +524,7 @@ Heidi Van Arnem papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [49075140875031243]" altrender="box">3</container>
                 <unittitle>Five Inspiring Women, Detroit Channel 4 <unitdate type="inclusive" normal="1996">1996</unitdate></unittitle>
               </did>
               <odd>
@@ -522,7 +533,7 @@ Heidi Van Arnem papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [49075140875031243]" altrender="box">3</container>
                 <unittitle>From the Inside Heidi Van Arnem <unitdate type="inclusive" normal="1996">1996</unitdate></unittitle>
               </did>
               <odd>
@@ -531,7 +542,7 @@ Heidi Van Arnem papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [49075140875031243]" altrender="box">3</container>
                 <unittitle>TV 4 News <unitdate type="inclusive" normal="1997-01-26">01/26/1997</unitdate></unittitle>
               </did>
               <odd>
@@ -540,7 +551,7 @@ Heidi Van Arnem papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [49075140875031243]" altrender="box">3</container>
                 <unittitle>Van Arnem Travel, First Business <unitdate type="inclusive" normal="1997-04-24">04/24/1997</unitdate></unittitle>
               </did>
               <odd>
@@ -549,7 +560,7 @@ Heidi Van Arnem papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [49075140875031243]" altrender="box">3</container>
                 <unittitle>Detroit TV News Clips <unitdate type="inclusive">undated</unitdate></unittitle>
               </did>
               <odd>
@@ -561,7 +572,7 @@ Heidi Van Arnem papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [49075140875031243]" altrender="box">3</container>
                 <unittitle>Spend a Day in a Wheelchair <unitdate type="inclusive" normal="1998">1998</unitdate></unittitle>
               </did>
               <odd>
@@ -570,7 +581,7 @@ Heidi Van Arnem papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [49075140875031243]" altrender="box">3</container>
                 <unittitle>Wyndham's Women on Their Way Awards <unitdate type="inclusive" normal="2000">2000</unitdate></unittitle>
               </did>
               <odd>
@@ -579,7 +590,7 @@ Heidi Van Arnem papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [49075140875031243]" altrender="box">3</container>
                 <unittitle>Top Women on the Web <unitdate type="inclusive" normal="2000">2000</unitdate></unittitle>
               </did>
               <odd>
@@ -588,7 +599,7 @@ Heidi Van Arnem papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [49075140875031243]" altrender="box">3</container>
                 <unittitle>I-Can.com on Fox 2 News, Detroit <unitdate type="inclusive" normal="2001-06-16">06/16/2001</unitdate></unittitle>
               </did>
               <odd>
@@ -597,7 +608,7 @@ Heidi Van Arnem papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [49075140875031243]" altrender="box">3</container>
                 <unittitle>Television news coverage of Heidi's Death <unitdate type="inclusive" normal="2001-11-01">11/01/2001</unitdate></unittitle>
               </did>
               <odd>
@@ -606,7 +617,7 @@ Heidi Van Arnem papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [49075140875031243]" altrender="box">3</container>
                 <unittitle>Heidi Van Arnem, iCan! Inc., Entrepreneur of the Year <unitdate type="inclusive" normal="2001">2001</unitdate></unittitle>
               </did>
               <odd>
@@ -615,7 +626,7 @@ Heidi Van Arnem papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [49075140875031243]" altrender="box">3</container>
                 <unittitle>Stevie Wonder <unitdate type="inclusive" normal="2001">2001</unitdate></unittitle>
               </did>
               <odd>
@@ -627,7 +638,7 @@ Heidi Van Arnem papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [49075140875031243]" altrender="box">3</container>
                 <unittitle>Office Depot Visionary Award Winners <unitdate type="inclusive" normal="2002">2002</unitdate></unittitle>
               </did>
               <odd>
@@ -636,7 +647,7 @@ Heidi Van Arnem papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [49075140875031243]" altrender="box">3</container>
                 <unittitle>Karen Colvin <unitdate type="inclusive" normal="2002-10">October 2002</unitdate></unittitle>
               </did>
               <odd>
@@ -649,7 +660,7 @@ Heidi Van Arnem papers, Bentley Historical Library, University of Michigan</p>
               </did>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">3</container>
+                  <container type="box" label="Box [49075140875031243]" altrender="box">3</container>
                   <unittitle>Opening speaker, dining room scenes, ribbon tying</unittitle>
                 </did>
                 <odd>
@@ -658,7 +669,7 @@ Heidi Van Arnem papers, Bentley Historical Library, University of Michigan</p>
               </c05>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">3</container>
+                  <container type="box" label="Box [49075140875031243]" altrender="box">3</container>
                   <unittitle>Karen and Chris's speeches, award presentation</unittitle>
                 </did>
                 <odd>
@@ -667,7 +678,7 @@ Heidi Van Arnem papers, Bentley Historical Library, University of Michigan</p>
               </c05>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">3</container>
+                  <container type="box" label="Box [49075140875031243]" altrender="box">3</container>
                   <unittitle>Raffle, end of program</unittitle>
                 </did>
                 <odd>
@@ -676,7 +687,7 @@ Heidi Van Arnem papers, Bentley Historical Library, University of Michigan</p>
               </c05>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">3</container>
+                  <container type="box" label="Box [49075140875031243]" altrender="box">3</container>
                   <unittitle>VIP Reception</unittitle>
                 </did>
                 <odd>
@@ -686,7 +697,7 @@ Heidi Van Arnem papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [49075140875031243]" altrender="box">3</container>
                 <unittitle>Senior Travel <unitdate type="inclusive">undated</unitdate></unittitle>
               </did>
               <odd>
@@ -695,7 +706,7 @@ Heidi Van Arnem papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [49075140875031243]" altrender="box">3</container>
                 <unittitle>Disabilities Today MABED Awards <unitdate type="inclusive">undated</unitdate></unittitle>
               </did>
               <odd>
@@ -704,7 +715,7 @@ Heidi Van Arnem papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [49075140875031243]" altrender="box">3</container>
                 <unittitle>Blue Chip Interview <unitdate type="inclusive">undated</unitdate></unittitle>
               </did>
               <odd>

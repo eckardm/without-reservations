@@ -31,7 +31,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Rentschler's Studio photograph collection, 1889-1969</titleproper>
       <author>Finding aid created by <lb/>Christopher Leonard</author>
     </titlepage>
@@ -92,7 +92,7 @@ Rentschler's Studio photograph collection, Bentley Historical Library, Universit
       <controlaccess>
         <head>Subjects - Visual Materials:</head>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n79021469">Dewey, Thomas E. (Thomas Edmund), 1902-1971.</persname>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
         <corpname encodinganalog="610" source="lcnaf">Rentschler's Studio (Ann Arbor, Mich.)</corpname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan--Sports.</corpname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan--Baseball.</corpname>
@@ -111,7 +111,7 @@ Rentschler's Studio photograph collection, Bentley Historical Library, Universit
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat">Photographs.</genreform>
+        <genreform source="aat" ref="/subjects/3141">Photographs.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -140,19 +140,19 @@ glass and film negatives, comprises the vast majority of the collection and are 
           </odd>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [34984714297920024258]" altrender="box">1</container>
               <unittitle>05010-29999</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [66945048324480766]" altrender="box">2</container>
               <unittitle>30000-57999</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [89793322840168989263]" altrender="box">3</container>
               <unittitle>58000-84999</unittitle>
             </did>
           </c03>
@@ -175,13 +175,18 @@ glass and film negatives, comprises the vast majority of the collection and are 
             </odd>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
-                <unittitle>Copy negatives <unitdate type="inclusive" normal="1884">1884</unitdate>, <unitdate type="inclusive" normal="1887/1890">1887-1890</unitdate>, <unitdate type="inclusive" normal="1894/1898">1894-1898</unitdate>, <unitdate type="inclusive" normal="1902">1902</unitdate>, <unitdate type="inclusive" normal="1918">1918</unitdate></unittitle>
+                <container type="box" label="Box [600886824068929964615459]" altrender="box">4</container>
+                <unittitle>Copy negatives</unittitle>
+                <unitdate type="inclusive" normal="1884">1884</unitdate>
+                <unitdate type="inclusive" normal="1887/1890">1887-1890</unitdate>
+                <unitdate type="inclusive" normal="1894/1898">1894-1898</unitdate>
+                <unitdate type="inclusive" normal="1902">1902</unitdate>
+                <unitdate type="inclusive" normal="1918">1918</unitdate>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [600886824068929964615459]" altrender="box">4</container>
                 <unittitle>Original negatives <unitdate type="inclusive" normal="1943/1968">1943-1968</unitdate></unittitle>
               </did>
             </c04>
@@ -192,8 +197,12 @@ glass and film negatives, comprises the vast majority of the collection and are 
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
-                <unittitle>Copy Negatives <unitdate type="inclusive" normal="1875">1875</unitdate>, <unitdate type="inclusive" normal="1892">1892</unitdate>, <unitdate type="inclusive" normal="1896">1896</unitdate>, <unitdate type="inclusive" normal="1899">1899</unitdate></unittitle>
+                <container type="box" label="Box [600886824068929964615459]" altrender="box">4</container>
+                <unittitle>Copy Negatives</unittitle>
+                <unitdate type="inclusive" normal="1875">1875</unitdate>
+                <unitdate type="inclusive" normal="1892">1892</unitdate>
+                <unitdate type="inclusive" normal="1896">1896</unitdate>
+                <unitdate type="inclusive" normal="1899">1899</unitdate>
                 <physdesc>
                   <physfacet>(5x7 glass negatives</physfacet>
                 </physdesc>
@@ -201,7 +210,7 @@ glass and film negatives, comprises the vast majority of the collection and are 
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [600886824068929964615459]" altrender="box">4</container>
                 <unittitle>Original negatives <unitdate type="inclusive" normal="1947/1967">1947-1967</unitdate></unittitle>
               </did>
             </c04>
@@ -212,7 +221,7 @@ glass and film negatives, comprises the vast majority of the collection and are 
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [600886824068929964615459]" altrender="box">4</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1947/1969">1947-1969</unitdate>
                 </unittitle>
@@ -220,7 +229,7 @@ glass and film negatives, comprises the vast majority of the collection and are 
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [600886824068929964615459]" altrender="box">4</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1965/1966">1965-1966</unitdate>
                 </unittitle>
@@ -232,36 +241,41 @@ glass and film negatives, comprises the vast majority of the collection and are 
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
-              <unittitle>Golf <unitdate type="inclusive" normal="1947/1969">1947-1969</unitdate>, <unitdate type="inclusive" normal="1948">1948</unitdate> junior team</unittitle>
+              <container type="box" label="Box [600886824068929964615459]" altrender="box">4</container>
+              <unittitle>Golf 1947-1969, 1948 junior team</unittitle>
+              <unitdate type="inclusive" normal="1947/1969">1947-1969</unitdate>
+              <unitdate type="inclusive" normal="1948">1948</unitdate>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [600886824068929964615459]" altrender="box">4</container>
               <unittitle>Gymnastics <unitdate type="inclusive" normal="1949/1957">1949-1957</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [600886824068929964615459]" altrender="box">4</container>
               <unittitle>Swimming <unitdate type="inclusive" normal="1948/1951">1948-1951</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [600886824068929964615459]" altrender="box">4</container>
               <unittitle>Tennis <unitdate type="inclusive" normal="1963/1968">1963-1968</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [600886824068929964615459]" altrender="box">4</container>
               <unittitle>Track</unittitle>
             </did>
             <c04 level="file">
               <did>
-                <unittitle><unitdate type="inclusive" normal="1896">1896</unitdate>, <unitdate type="inclusive" normal="1898">1898</unitdate>, <unitdate type="inclusive" normal="1900">1900</unitdate>, <unitdate type="inclusive" normal="1900" certainty="approximate">circa 1900</unitdate></unittitle>
+                <unitdate type="inclusive" normal="1896">1896</unitdate>
+                <unitdate type="inclusive" normal="1898">1898</unitdate>
+                <unitdate type="inclusive" normal="1900">1900</unitdate>
+                <unitdate type="inclusive" normal="1900" certainty="approximate">circa 1900</unitdate>
                 <physdesc>
                   <physfacet>5x7 glass negatives</physfacet>
                 </physdesc>
@@ -269,7 +283,9 @@ glass and film negatives, comprises the vast majority of the collection and are 
             </c04>
             <c04 level="file">
               <did>
-                <unittitle><unitdate type="inclusive" normal="1948/1969">1948-1969</unitdate>, <unitdate type="inclusive" normal="1968">1968</unitdate> relay team</unittitle>
+                <unittitle>1948-1969, 1968 relay team</unittitle>
+                <unitdate type="inclusive" normal="1948/1969">1948-1969</unitdate>
+                <unitdate type="inclusive" normal="1968">1968</unitdate>
                 <physdesc>
                   <physfacet>8x10 and 5x7 film negatives</physfacet>
                 </physdesc>
@@ -278,8 +294,11 @@ glass and film negatives, comprises the vast majority of the collection and are 
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
-              <unittitle>Wrestling <unitdate type="inclusive" normal="1947">1947</unitdate>, <unitdate type="inclusive" normal="1951/1953">1951-1953</unitdate>, <unitdate type="inclusive" normal="1955/1965">1955-1965</unitdate></unittitle>
+              <container type="box" label="Box [600886824068929964615459]" altrender="box">4</container>
+              <unittitle>Wrestling</unittitle>
+              <unitdate type="inclusive" normal="1947">1947</unitdate>
+              <unitdate type="inclusive" normal="1951/1953">1951-1953</unitdate>
+              <unitdate type="inclusive" normal="1955/1965">1955-1965</unitdate>
             </did>
           </c03>
         </c02>
@@ -289,7 +308,7 @@ glass and film negatives, comprises the vast majority of the collection and are 
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [600886824068929964615459]" altrender="box">4</container>
               <unittitle>Portraits <unitdate type="inclusive" normal="1950/1959" certainty="approximate">1950s</unitdate> and 1960s</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">100 negatives</extent>
@@ -303,7 +322,7 @@ glass and film negatives, comprises the vast majority of the collection and are 
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [600886824068929964615459]" altrender="box">4</container>
               <unittitle>Portraits and Copy Negatives</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">100 negatives</extent>
@@ -336,13 +355,13 @@ glass and film negatives, comprises the vast majority of the collection and are 
           </odd>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [600886824068929964615459]" altrender="box">4</container>
               <unittitle>Baseball <unitdate type="inclusive" normal="1950/1967">1950-1967</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [600886824068929964615459]" altrender="box">4</container>
               <unittitle>Basketball <unitdate type="inclusive" normal="1949/1969">1949-1969</unitdate></unittitle>
             </did>
           </c03>
@@ -352,13 +371,13 @@ glass and film negatives, comprises the vast majority of the collection and are 
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [600886824068929964615459]" altrender="box">4</container>
                 <unittitle>Team photos <unitdate type="inclusive" normal="1943/1968">1943-1968</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [600886824068929964615459]" altrender="box">4</container>
                 <unittitle>Senior portraits <unitdate type="inclusive" normal="1965/1969">1965-1969</unitdate></unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">5 folders</extent>
@@ -371,25 +390,25 @@ glass and film negatives, comprises the vast majority of the collection and are 
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [600886824068929964615459]" altrender="box">4</container>
               <unittitle>Golf <unitdate type="inclusive" normal="1961/1969">1961-1969</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [600886824068929964615459]" altrender="box">4</container>
               <unittitle>Tennis <unitdate type="inclusive" normal="1967">1967</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [600886824068929964615459]" altrender="box">4</container>
               <unittitle>Track <unitdate type="inclusive" normal="1950/1969">1950-1969</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [600886824068929964615459]" altrender="box">4</container>
               <unittitle>Wrestling <unitdate type="inclusive" normal="1965/1967">1965-1967</unitdate></unittitle>
             </did>
           </c03>
@@ -400,13 +419,13 @@ glass and film negatives, comprises the vast majority of the collection and are 
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [600886824068929964615459]" altrender="box">4</container>
               <unittitle>Identified</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [600886824068929964615459]" altrender="box">4</container>
               <unittitle>Unidentified</unittitle>
             </did>
           </c03>
@@ -429,13 +448,14 @@ glass and film negatives, comprises the vast majority of the collection and are 
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">5</container>
-                <unittitle><unitdate type="inclusive" normal="1896">1896</unitdate>, <unitdate type="inclusive" normal="1898/1910">1898-1910</unitdate></unittitle>
+                <container type="box" label="Box [1630466664991948874816]" altrender="box">5</container>
+                <unitdate type="inclusive" normal="1896">1896</unitdate>
+                <unitdate type="inclusive" normal="1898/1910">1898-1910</unitdate>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">6</container>
+                <container type="box" label="Box [6273558499440151594]" altrender="box">6</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1911/1926">1911-1926</unitdate>
                 </unittitle>
@@ -443,7 +463,7 @@ glass and film negatives, comprises the vast majority of the collection and are 
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">7</container>
+                <container type="box" label="Box [58249184698370555403]" altrender="box">7</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1927/1942">1927-1942</unitdate>
                 </unittitle>
@@ -463,7 +483,7 @@ glass and film negatives, comprises the vast majority of the collection and are 
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">8</container>
+            <container type="box" label="Box [870110154869645668935]" altrender="box">8</container>
             <unittitle>Photo log books</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 volumes</extent>
@@ -472,7 +492,7 @@ glass and film negatives, comprises the vast majority of the collection and are 
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">8</container>
+            <container type="box" label="Box [870110154869645668935]" altrender="box">8</container>
             <unittitle>Address Book</unittitle>
           </did>
         </c02>
@@ -488,11 +508,11 @@ glass and film negatives, comprises the vast majority of the collection and are 
         <list type="simple">
           <head>Football Senior Portraits
   (2.75x3.75 b/w white prints, located in box 4)</head>
-          <item>1965 <list type="simple"><item>Bayster, Berline, Byers, Dayton, D'Eramo, Doty, Goss, Hanna, Heffelinger, Hollis, Johnson, Knapp, Landsittel, Mair, Morgan, Muir, Nowak, O'Donnell, Porter, Pullen, Rosema, Salmi, Sharpe, Sieber, Spencer, Thomas, Yednak</item></list></item>
-          <item>1966: <list type="simple"><item>Adam, Baumgartner, Brown, Frysinger, Hartman, Hoey, Hribal, Humphries, Jobe, Johnson, Ron; Kietg, Kramer, Kunsa, Miklos, Nelson, Penksa, Phillips, Radigan, Reynolds, Salt, Sipp, Stincic, Tackett, Wedge, Wilhite, Williamson, Yanz</item></list></item>
-          <item>1967: <list type="simple"><item>Barnes, Bolduc, Brown, r., Craw, Doane, Drehmann, Federico, Gabler, Goodman, Hall, Harris, Healy, Kenney, Lukz, Mandich, Marley, Monthei, Mouch, Pierson, Pniewski, Prusiecki, Sansom, Sarantos, Seymour, Sorenson, Wall, Weinmann, Werner, White, Wooley</item></list></item>
-          <item>1968 <list type="simple"><item>Abrahams, Baldwin, Berotti, Betts, Catallo, Denzin, Dierdorf, Dutcher, Falkenhagen, Farabee, Flanagan, Francis, Al; Harrison, Hill, Henry; Huff, Imsland, Kitzmiller, Kohn, McCaffrey, McCoy, Mandler, Moore, Newell, Perkins, Ritley, Sample, Sams, Schleffler, Sirosky, Staroba, Titas, Wilhite</item></list></item>
-          <item>1969: <list type="simple"><item>Beckman, Betts, Branstatter, Carpenter, Curtis, Darden, Elliott, Grambau, Gusich, Hall, Huiskens, Jones, Keller, McKenzie, Mandich, Murdock, Seyferth, Shaw, Taylor, Bill; Taylor, Mike; Wadhams, Zucarelli, Zuganelis</item></list></item>
+          <item>1965 <list type="simple"><item altrender="skip">Bayster, Berline, Byers, Dayton, D'Eramo, Doty, Goss, Hanna, Heffelinger, Hollis, Johnson, Knapp, Landsittel, Mair, Morgan, Muir, Nowak, O'Donnell, Porter, Pullen, Rosema, Salmi, Sharpe, Sieber, Spencer, Thomas, Yednak</item></list></item>
+          <item>1966: <list type="simple"><item altrender="skip">Adam, Baumgartner, Brown, Frysinger, Hartman, Hoey, Hribal, Humphries, Jobe, Johnson, Ron; Kietg, Kramer, Kunsa, Miklos, Nelson, Penksa, Phillips, Radigan, Reynolds, Salt, Sipp, Stincic, Tackett, Wedge, Wilhite, Williamson, Yanz</item></list></item>
+          <item>1967: <list type="simple"><item altrender="skip">Barnes, Bolduc, Brown, r., Craw, Doane, Drehmann, Federico, Gabler, Goodman, Hall, Harris, Healy, Kenney, Lukz, Mandich, Marley, Monthei, Mouch, Pierson, Pniewski, Prusiecki, Sansom, Sarantos, Seymour, Sorenson, Wall, Weinmann, Werner, White, Wooley</item></list></item>
+          <item>1968 <list type="simple"><item altrender="skip">Abrahams, Baldwin, Berotti, Betts, Catallo, Denzin, Dierdorf, Dutcher, Falkenhagen, Farabee, Flanagan, Francis, Al; Harrison, Hill, Henry; Huff, Imsland, Kitzmiller, Kohn, McCaffrey, McCoy, Mandler, Moore, Newell, Perkins, Ritley, Sample, Sams, Schleffler, Sirosky, Staroba, Titas, Wilhite</item></list></item>
+          <item>1969: <list type="simple"><item altrender="skip">Beckman, Betts, Branstatter, Carpenter, Curtis, Darden, Elliott, Grambau, Gusich, Hall, Huiskens, Jones, Keller, McKenzie, Mandich, Murdock, Seyferth, Shaw, Taylor, Bill; Taylor, Mike; Wadhams, Zucarelli, Zuganelis</item></list></item>
         </list>
         </odd>
         <odd>

@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Michigan Alliance of Cooperatives <lb/>Videocassettes, 1986-1989 and undated</titleproper>
       <author>Finding aid created by <lb/>Michigan Historical Collections staff, 2011</author>
     </titlepage>
@@ -37,7 +37,9 @@
       <origination>
         <corpname source="lcnaf" encodinganalog="110" authfilenumber="http://id.loc.gov/authorities/names/no99046678">Michigan Alliance of Cooperatives.</corpname>
       </origination>
-      <unittitle encodinganalog="245">Michigan Alliance of Cooperatives videocassettes <unitdate type="inclusive" encodinganalog="245$f" normal="1986/1989">1986-1989</unitdate>, <unitdate type="inclusive" encodinganalog="245$f">undated</unitdate></unittitle>
+      <unittitle encodinganalog="245">Michigan Alliance of Cooperatives videocassettes</unittitle>
+      <unitdate type="inclusive" encodinganalog="245$f" normal="1986/1989">1986-1989</unitdate>
+      <unitdate type="inclusive" encodinganalog="245$f">undated</unitdate>
       <unitid encodinganalog="852$h" repositorycode="MiU-H" countrycode="us" type="call number">2011177 Bj 2</unitid>
       <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language></langmaterial>
       <physdesc altrender="whole">
@@ -84,12 +86,12 @@ Michigan Alliance of Cooperatives videocassettes, Bentley Historical Library, Un
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/no2003126794">Hansknecht, Joseph L, 1923-</persname>
         <persname source="lcnaf" encodinganalog="600">McClanahan, Jack.</persname>
         <persname source="lcnaf" encodinganalog="600">Thornthwaite, Fred.</persname>
-        <subject source="aat" encodinganalog="650">Cooperatives--Michigan.</subject>
+        <subject source="aat" encodinganalog="650" ref="/subjects/10858">Cooperatives--Michigan.</subject>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Oral histories.</genreform>
-        <genreform source="aat" encodinganalog="655">Videotapes.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3161">Oral histories.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3140">Videotapes.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -104,7 +106,7 @@ Michigan Alliance of Cooperatives videocassettes, Bentley Historical Library, Un
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [5152225384486515654080]" altrender="box">1</container>
             <unittitle>Panel #1</unittitle>
           </did>
           <odd>
@@ -113,7 +115,7 @@ Michigan Alliance of Cooperatives videocassettes, Bentley Historical Library, Un
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [5152225384486515654080]" altrender="box">1</container>
             <unittitle>Panel #2</unittitle>
           </did>
           <odd>
@@ -122,7 +124,7 @@ Michigan Alliance of Cooperatives videocassettes, Bentley Historical Library, Un
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [5152225384486515654080]" altrender="box">1</container>
             <unittitle>Panel #3</unittitle>
           </did>
           <odd>
@@ -131,7 +133,7 @@ Michigan Alliance of Cooperatives videocassettes, Bentley Historical Library, Un
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [5152225384486515654080]" altrender="box">1</container>
             <unittitle>Panel #4</unittitle>
           </did>
           <odd>
@@ -140,7 +142,7 @@ Michigan Alliance of Cooperatives videocassettes, Bentley Historical Library, Un
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [5152225384486515654080]" altrender="box">1</container>
             <unittitle>Panel #5</unittitle>
           </did>
           <odd>
@@ -149,7 +151,7 @@ Michigan Alliance of Cooperatives videocassettes, Bentley Historical Library, Un
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [5152225384486515654080]" altrender="box">1</container>
             <unittitle>Panel #6 / Interview Cecil Crews</unittitle>
           </did>
           <odd>
@@ -158,7 +160,7 @@ Michigan Alliance of Cooperatives videocassettes, Bentley Historical Library, Un
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [5152225384486515654080]" altrender="box">1</container>
             <unittitle>Cecil Crews #2</unittitle>
           </did>
           <odd>
@@ -167,7 +169,7 @@ Michigan Alliance of Cooperatives videocassettes, Bentley Historical Library, Un
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [5152225384486515654080]" altrender="box">1</container>
             <unittitle>Cecil Crews #3</unittitle>
           </did>
           <odd>
@@ -176,7 +178,7 @@ Michigan Alliance of Cooperatives videocassettes, Bentley Historical Library, Un
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [5152225384486515654080]" altrender="box">1</container>
             <unittitle>Cecil Crews #4</unittitle>
           </did>
           <odd>
@@ -185,7 +187,7 @@ Michigan Alliance of Cooperatives videocassettes, Bentley Historical Library, Un
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [5152225384486515654080]" altrender="box">1</container>
             <unittitle>Cecil Crews #5 / Fred Thornthwaide #1</unittitle>
           </did>
           <odd>
@@ -194,7 +196,7 @@ Michigan Alliance of Cooperatives videocassettes, Bentley Historical Library, Un
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [5152225384486515654080]" altrender="box">1</container>
             <unittitle>Fred Thornthwaide #2</unittitle>
           </did>
           <odd>
@@ -203,7 +205,7 @@ Michigan Alliance of Cooperatives videocassettes, Bentley Historical Library, Un
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [5152225384486515654080]" altrender="box">1</container>
             <unittitle>Fred Thornthwaide #3 / Chet Reimbough #1</unittitle>
           </did>
           <odd>
@@ -212,7 +214,7 @@ Michigan Alliance of Cooperatives videocassettes, Bentley Historical Library, Un
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [164569743796011881]" altrender="box">2</container>
             <unittitle>Chet Reimbough #2</unittitle>
           </did>
           <odd>
@@ -221,7 +223,7 @@ Michigan Alliance of Cooperatives videocassettes, Bentley Historical Library, Un
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [164569743796011881]" altrender="box">2</container>
             <unittitle>Banquet #2</unittitle>
           </did>
           <odd>
@@ -230,7 +232,7 @@ Michigan Alliance of Cooperatives videocassettes, Bentley Historical Library, Un
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [164569743796011881]" altrender="box">2</container>
             <unittitle>Banquet #15 / Pioneers #3</unittitle>
           </did>
           <odd>
@@ -239,7 +241,7 @@ Michigan Alliance of Cooperatives videocassettes, Bentley Historical Library, Un
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [164569743796011881]" altrender="box">2</container>
             <unittitle>Fred and Ving Accepting Award</unittitle>
           </did>
           <odd>
@@ -248,7 +250,7 @@ Michigan Alliance of Cooperatives videocassettes, Bentley Historical Library, Un
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [164569743796011881]" altrender="box">2</container>
             <unittitle>Jack McClanahan #1</unittitle>
           </did>
           <odd>
@@ -257,7 +259,7 @@ Michigan Alliance of Cooperatives videocassettes, Bentley Historical Library, Un
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [164569743796011881]" altrender="box">2</container>
             <unittitle>Jack McClanahan #2</unittitle>
           </did>
           <odd>
@@ -266,7 +268,7 @@ Michigan Alliance of Cooperatives videocassettes, Bentley Historical Library, Un
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [164569743796011881]" altrender="box">2</container>
             <unittitle>Jack McClanahan #3</unittitle>
           </did>
           <odd>
@@ -275,7 +277,7 @@ Michigan Alliance of Cooperatives videocassettes, Bentley Historical Library, Un
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [164569743796011881]" altrender="box">2</container>
             <unittitle>Jack McClanahan #4</unittitle>
           </did>
           <odd>
@@ -284,7 +286,7 @@ Michigan Alliance of Cooperatives videocassettes, Bentley Historical Library, Un
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [164569743796011881]" altrender="box">2</container>
             <unittitle>Bill Dueweke #1</unittitle>
           </did>
           <odd>
@@ -293,7 +295,7 @@ Michigan Alliance of Cooperatives videocassettes, Bentley Historical Library, Un
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [164569743796011881]" altrender="box">2</container>
             <unittitle>Bill Dueweke #2 / Jack McClanahan Speech / Luther Buchele #1</unittitle>
           </did>
           <odd>
@@ -302,7 +304,7 @@ Michigan Alliance of Cooperatives videocassettes, Bentley Historical Library, Un
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [164569743796011881]" altrender="box">2</container>
             <unittitle>Luther Buchele #2</unittitle>
           </did>
           <odd>
@@ -311,7 +313,7 @@ Michigan Alliance of Cooperatives videocassettes, Bentley Historical Library, Un
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [164569743796011881]" altrender="box">2</container>
             <unittitle>Luther Buchele #3</unittitle>
           </did>
           <odd>
@@ -320,7 +322,7 @@ Michigan Alliance of Cooperatives videocassettes, Bentley Historical Library, Un
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [52986879489771732787680]" altrender="box">3</container>
             <unittitle>Luther Buchele #4</unittitle>
           </did>
           <odd>
@@ -329,7 +331,7 @@ Michigan Alliance of Cooperatives videocassettes, Bentley Historical Library, Un
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [52986879489771732787680]" altrender="box">3</container>
             <unittitle>Elton Smith #1</unittitle>
           </did>
           <odd>
@@ -338,7 +340,7 @@ Michigan Alliance of Cooperatives videocassettes, Bentley Historical Library, Un
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [52986879489771732787680]" altrender="box">3</container>
             <unittitle>Elton Smith #2</unittitle>
           </did>
           <odd>
@@ -347,7 +349,7 @@ Michigan Alliance of Cooperatives videocassettes, Bentley Historical Library, Un
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [52986879489771732787680]" altrender="box">3</container>
             <unittitle>Elton Smith #3</unittitle>
           </did>
           <odd>
@@ -356,7 +358,7 @@ Michigan Alliance of Cooperatives videocassettes, Bentley Historical Library, Un
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [52986879489771732787680]" altrender="box">3</container>
             <unittitle>Paris Henke / Jim Clark #1</unittitle>
           </did>
           <odd>
@@ -365,7 +367,7 @@ Michigan Alliance of Cooperatives videocassettes, Bentley Historical Library, Un
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [52986879489771732787680]" altrender="box">3</container>
             <unittitle>Jim Clark #2 / Doris Henke #1</unittitle>
           </did>
           <odd>
@@ -374,7 +376,7 @@ Michigan Alliance of Cooperatives videocassettes, Bentley Historical Library, Un
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [52986879489771732787680]" altrender="box">3</container>
             <unittitle>Willard Henke #1</unittitle>
           </did>
           <odd>
@@ -383,7 +385,7 @@ Michigan Alliance of Cooperatives videocassettes, Bentley Historical Library, Un
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [52986879489771732787680]" altrender="box">3</container>
             <unittitle>Willard Henke #2</unittitle>
           </did>
           <odd>
@@ -392,7 +394,7 @@ Michigan Alliance of Cooperatives videocassettes, Bentley Historical Library, Un
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [52986879489771732787680]" altrender="box">3</container>
             <unittitle>Willard Henke #3 / Francis Lesnieski #1</unittitle>
           </did>
           <odd>
@@ -401,7 +403,7 @@ Michigan Alliance of Cooperatives videocassettes, Bentley Historical Library, Un
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [52986879489771732787680]" altrender="box">3</container>
             <unittitle>Francis Lesnieski #2</unittitle>
           </did>
           <odd>
@@ -410,7 +412,7 @@ Michigan Alliance of Cooperatives videocassettes, Bentley Historical Library, Un
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [52986879489771732787680]" altrender="box">3</container>
             <unittitle>Francis Lesnieski #3</unittitle>
           </did>
           <odd>
@@ -419,7 +421,7 @@ Michigan Alliance of Cooperatives videocassettes, Bentley Historical Library, Un
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [52986879489771732787680]" altrender="box">3</container>
             <unittitle>Francis Lesnieski #4</unittitle>
           </did>
           <odd>
@@ -428,7 +430,7 @@ Michigan Alliance of Cooperatives videocassettes, Bentley Historical Library, Un
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [517698874780906947812]" altrender="box">4</container>
             <unittitle>Glenn Lake #1</unittitle>
           </did>
           <odd>
@@ -437,7 +439,7 @@ Michigan Alliance of Cooperatives videocassettes, Bentley Historical Library, Un
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [517698874780906947812]" altrender="box">4</container>
             <unittitle>Glenn Lake #2</unittitle>
           </did>
           <odd>
@@ -446,7 +448,7 @@ Michigan Alliance of Cooperatives videocassettes, Bentley Historical Library, Un
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [517698874780906947812]" altrender="box">4</container>
             <unittitle>Glenn Lake #3/Julia Szabo #1</unittitle>
           </did>
           <odd>
@@ -455,7 +457,7 @@ Michigan Alliance of Cooperatives videocassettes, Bentley Historical Library, Un
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [517698874780906947812]" altrender="box">4</container>
             <unittitle>Julia Szabo #2</unittitle>
           </did>
           <odd>
@@ -464,7 +466,7 @@ Michigan Alliance of Cooperatives videocassettes, Bentley Historical Library, Un
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [517698874780906947812]" altrender="box">4</container>
             <unittitle>Julia Szabo #3/Esther Shapiro #1</unittitle>
           </did>
           <odd>
@@ -473,7 +475,7 @@ Michigan Alliance of Cooperatives videocassettes, Bentley Historical Library, Un
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [517698874780906947812]" altrender="box">4</container>
             <unittitle>Esther Shapiro #2</unittitle>
           </did>
           <odd>
@@ -482,7 +484,7 @@ Michigan Alliance of Cooperatives videocassettes, Bentley Historical Library, Un
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [517698874780906947812]" altrender="box">4</container>
             <unittitle>Lee Feller #1</unittitle>
           </did>
           <odd>
@@ -491,7 +493,7 @@ Michigan Alliance of Cooperatives videocassettes, Bentley Historical Library, Un
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [517698874780906947812]" altrender="box">4</container>
             <unittitle>Lee Feller #2</unittitle>
           </did>
           <odd>
@@ -500,7 +502,7 @@ Michigan Alliance of Cooperatives videocassettes, Bentley Historical Library, Un
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [517698874780906947812]" altrender="box">4</container>
             <unittitle>Jack Shelton #1</unittitle>
           </did>
           <odd>
@@ -509,7 +511,7 @@ Michigan Alliance of Cooperatives videocassettes, Bentley Historical Library, Un
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [517698874780906947812]" altrender="box">4</container>
             <unittitle>Jack Shelton #2</unittitle>
           </did>
           <odd>
@@ -518,7 +520,7 @@ Michigan Alliance of Cooperatives videocassettes, Bentley Historical Library, Un
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [517698874780906947812]" altrender="box">4</container>
             <unittitle>Jack Shelton #3</unittitle>
           </did>
           <odd>
@@ -527,7 +529,7 @@ Michigan Alliance of Cooperatives videocassettes, Bentley Historical Library, Un
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [87791904586849046256]" altrender="box">5</container>
             <unittitle>Al Rightley #1</unittitle>
           </did>
           <odd>
@@ -536,7 +538,7 @@ Michigan Alliance of Cooperatives videocassettes, Bentley Historical Library, Un
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [87791904586849046256]" altrender="box">5</container>
             <unittitle>Al Rightley #2 / Jo Hansknecht #1</unittitle>
           </did>
           <odd>
@@ -545,7 +547,7 @@ Michigan Alliance of Cooperatives videocassettes, Bentley Historical Library, Un
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [87791904586849046256]" altrender="box">5</container>
             <unittitle>Jo Hansknecht #2</unittitle>
           </did>
           <odd>
@@ -554,7 +556,7 @@ Michigan Alliance of Cooperatives videocassettes, Bentley Historical Library, Un
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [87791904586849046256]" altrender="box">5</container>
             <unittitle>Jo Hansknecht #3</unittitle>
           </did>
           <odd>
@@ -563,7 +565,7 @@ Michigan Alliance of Cooperatives videocassettes, Bentley Historical Library, Un
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [87791904586849046256]" altrender="box">5</container>
             <unittitle>Jo Hansknecht #4</unittitle>
           </did>
           <odd>
@@ -572,7 +574,7 @@ Michigan Alliance of Cooperatives videocassettes, Bentley Historical Library, Un
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [87791904586849046256]" altrender="box">5</container>
             <unittitle>Random Tape: Banquet #1 (Kids Dancing)</unittitle>
           </did>
         </c02>
@@ -585,19 +587,19 @@ Michigan Alliance of Cooperatives videocassettes, Bentley Historical Library, Un
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [87791904586849046256]" altrender="box">5</container>
               <unittitle>Co-op Conference Panel #1-4, Cecil Crews #6-9, Fred Thornthwaide #10-11, Chet Reimbough #12-13, Banquet #14-16</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [87791904586849046256]" altrender="box">5</container>
               <unittitle>Jack McClanahan #17-20, Bill Dueweke #21-22, Luther Buchele #23-25</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [87791904586849046256]" altrender="box">5</container>
               <unittitle>Interviews-Lansing Chapter: Elton Smith #26-28, Jim Clark #29-30, Doris and Willard Henke #29-30 and #31-32, Francis Lesnieski #33-36</unittitle>
             </did>
           </c03>
@@ -611,19 +613,19 @@ Michigan Alliance of Cooperatives videocassettes, Bentley Historical Library, Un
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [3339447443697463558594]" altrender="box">6</container>
               <unittitle>Tapes 37-43 <unitdate type="inclusive" normal="1988-07-11">July 11, 1988</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [3339447443697463558594]" altrender="box">6</container>
               <unittitle>Tapes 43-48 <unitdate type="inclusive" normal="1988-07-11">July 11, 1988</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [3339447443697463558594]" altrender="box">6</container>
               <unittitle>Tapes 49-50 <unitdate type="inclusive" normal="1988-07-11">July 11, 1988</unitdate></unittitle>
             </did>
           </c03>
@@ -637,7 +639,7 @@ Michigan Alliance of Cooperatives videocassettes, Bentley Historical Library, Un
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [3339447443697463558594]" altrender="box">6</container>
               <unittitle>"Cooperative Voices: Speak About Food Co-ops" Parts 1 &amp; 2 -- Rough Cut <unitdate type="inclusive" normal="1988-10">October 1988</unitdate></unittitle>
               <physdesc altrender="whole">
                 <dimensions>26:22</dimensions>
@@ -646,55 +648,55 @@ Michigan Alliance of Cooperatives videocassettes, Bentley Historical Library, Un
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [3339447443697463558594]" altrender="box">6</container>
               <unittitle>"Cooperative Voices" Script 1-5, Panel: Various Co-op Sectors</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [3339447443697463558594]" altrender="box">6</container>
               <unittitle>"Cooperative Voices" Script 5-11, Panel Cont'd: Various Co-op Sectors, Co-op Governance, Structure, Education, Dairy Co-op, Senior Housing</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [3339447443697463558594]" altrender="box">6</container>
               <unittitle>"Cooperative Voices" Script 11-17, Agriculture Co-ops, Education, Banquet, Pioneer Awards, Co-op Songs, Great Depression, Food Co-ops, Union Support</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [3339447443697463558594]" altrender="box">6</container>
               <unittitle>"Cooperative Voices" Script 18-23, Student Co-ops, NASCO, Influence Society, Agriculture Co-ops, Legislation Int'l Society, Processing Co-ops, Financing</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [3339447443697463558594]" altrender="box">6</container>
               <unittitle>"Cooperative Voices" Script 29-35, Agriculture Co-ops, Electric Co-op, Women, Rural Co-ops, Songs, Credit Unions</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [3339447443697463558594]" altrender="box">6</container>
               <unittitle>"Cooperative Voices" Script 35-41, Credit Union, Milk Co-op, Legislation, Electricity, Senior Housing, Consumer Advocacy, Consumer Advocacy, NAACP</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [3339447443697463558594]" altrender="box">6</container>
               <unittitle>"Cooperative Voices" Script 41-47, Financing, Community, Food Co-op, Administrative Training, Rochdale Principle, Food Co-ops in Europe, Workers Collective-Foraging</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [3339447443697463558594]" altrender="box">6</container>
               <unittitle>"Cooperative Voices" Script 48-52, Labor Movement, Food Co-ops, Credit Unions, Alternative to Capitalism</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [3339447443697463558594]" altrender="box">6</container>
               <unittitle>Cooperative Voices: Speak About Food Co-ops, Part I Edited Master</unittitle>
               <physdesc altrender="whole">
                 <dimensions>8:09</dimensions>
@@ -710,7 +712,7 @@ Michigan Alliance of Cooperatives videocassettes, Bentley Historical Library, Un
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">6</container>
+                <container type="box" label="Box [3339447443697463558594]" altrender="box">6</container>
                 <unittitle>New Edited Master <unitdate type="inclusive" normal="1988-04">April 1988</unitdate></unittitle>
                 <physdesc>
                   <physfacet>U-matic</physfacet>
@@ -720,7 +722,7 @@ Michigan Alliance of Cooperatives videocassettes, Bentley Historical Library, Un
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [3339447443697463558594]" altrender="box">6</container>
               <unittitle>"Cooperative Voices" (Combined Version)</unittitle>
               <physdesc altrender="whole">
                 <dimensions>28:15</dimensions>
@@ -732,7 +734,7 @@ Michigan Alliance of Cooperatives videocassettes, Bentley Historical Library, Un
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [3339447443697463558594]" altrender="box">6</container>
               <unittitle>Michigan Alliance of Cooperatives "Cooperative Voices" Part One (9:18); Part Two (11:27); Part Three (10:49)</unittitle>
               <physdesc>
                 <physfacet>U-matic</physfacet>
@@ -741,7 +743,7 @@ Michigan Alliance of Cooperatives videocassettes, Bentley Historical Library, Un
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [3339447443697463558594]" altrender="box">6</container>
               <unittitle>"Cooperative Voices: Speak About Food Co-ops" Parts I &amp; II <unitdate type="inclusive" normal="1988-10">October 1988</unitdate></unittitle>
               <physdesc altrender="whole">
                 <dimensions>26:22</dimensions>
@@ -753,7 +755,7 @@ Michigan Alliance of Cooperatives videocassettes, Bentley Historical Library, Un
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [3339447443697463558594]" altrender="box">6</container>
               <unittitle>Michigan Alliance of Cooperatives "Cooperative Voices" <unitdate type="inclusive" normal="1989-04-05">April 5, 1989</unitdate></unittitle>
               <physdesc altrender="whole">
                 <dimensions>31:34</dimensions>
@@ -765,7 +767,7 @@ Michigan Alliance of Cooperatives videocassettes, Bentley Historical Library, Un
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">7</container>
+              <container type="box" label="Box [538852114591504295216]" altrender="box">7</container>
               <unittitle>Introduction for "Cooperative Voices" First DVE pas</unittitle>
               <physdesc>
                 <physfacet>U-matic cassette</physfacet>
@@ -774,7 +776,7 @@ Michigan Alliance of Cooperatives videocassettes, Bentley Historical Library, Un
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">7</container>
+              <container type="box" label="Box [538852114591504295216]" altrender="box">7</container>
               <unittitle>"Cooperative Voices" Master preview</unittitle>
               <physdesc>
                 <physfacet>U-matic cassette</physfacet>
@@ -783,7 +785,7 @@ Michigan Alliance of Cooperatives videocassettes, Bentley Historical Library, Un
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">7</container>
+              <container type="box" label="Box [538852114591504295216]" altrender="box">7</container>
               <unittitle>"Cooperative Voices" Stills <unitdate type="inclusive" normal="1989-03-28">March 28, 1989</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 videotapes</extent>
@@ -793,7 +795,7 @@ Michigan Alliance of Cooperatives videocassettes, Bentley Historical Library, Un
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">7</container>
+              <container type="box" label="Box [538852114591504295216]" altrender="box">7</container>
               <unittitle>Part II: Cooperative Voices: Speak to Foot Coops <unitdate type="inclusive" normal="1988-10">October 1988</unitdate></unittitle>
               <physdesc>
                 <physfacet>U-matic cassette</physfacet>
@@ -802,7 +804,7 @@ Michigan Alliance of Cooperatives videocassettes, Bentley Historical Library, Un
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">7</container>
+              <container type="box" label="Box [538852114591504295216]" altrender="box">7</container>
               <unittitle>"Cooperative Voices" stills</unittitle>
               <physdesc>
                 <physfacet>VHS cassette</physfacet>
@@ -811,7 +813,7 @@ Michigan Alliance of Cooperatives videocassettes, Bentley Historical Library, Un
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">7</container>
+              <container type="box" label="Box [538852114591504295216]" altrender="box">7</container>
               <unittitle>"Cooperative Voices" Sample/Draft preview <unitdate type="inclusive" normal="1988-04">April 1988</unitdate></unittitle>
               <physdesc>
                 <physfacet>VHS cassette</physfacet>
@@ -820,7 +822,7 @@ Michigan Alliance of Cooperatives videocassettes, Bentley Historical Library, Un
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">7</container>
+              <container type="box" label="Box [538852114591504295216]" altrender="box">7</container>
               <unittitle>"Cooperative Voices" Preview tape <unitdate type="inclusive" normal="1988-05">May 1988</unitdate></unittitle>
               <physdesc>
                 <physfacet>VHS cassette</physfacet>
@@ -829,7 +831,7 @@ Michigan Alliance of Cooperatives videocassettes, Bentley Historical Library, Un
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">7</container>
+              <container type="box" label="Box [538852114591504295216]" altrender="box">7</container>
               <unittitle>"Cooperative Voices" Speak about food coops, Parts I and II <unitdate type="inclusive" normal="1988-10">October 1988</unitdate></unittitle>
               <physdesc>
                 <physfacet>VHS cassette</physfacet>
@@ -839,7 +841,7 @@ Michigan Alliance of Cooperatives videocassettes, Bentley Historical Library, Un
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">7</container>
+            <container type="box" label="Box [538852114591504295216]" altrender="box">7</container>
             <unittitle>Master raw footage of "A Tribute to Elton Smith" and <unitdate type="inclusive" normal="1986">1986</unitdate> Michigan Farm Bureau Annual Meeting</unittitle>
             <physdesc>
               <physfacet>VHS cassette</physfacet>
@@ -848,7 +850,7 @@ Michigan Alliance of Cooperatives videocassettes, Bentley Historical Library, Un
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">7</container>
+            <container type="box" label="Box [538852114591504295216]" altrender="box">7</container>
             <unittitle>Interview and Transition Examples</unittitle>
             <physdesc>
               <physfacet>VHS cassette</physfacet>

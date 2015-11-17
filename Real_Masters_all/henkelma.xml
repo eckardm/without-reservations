@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>This being a suppliment [sic] of the Barracks bladder, of Co. B 339th Inf. ..., [192-?]</titleproper>
       <author>Finding aid created by <lb/>Len Coombs, 2010</author>
     </titlepage>
@@ -80,14 +80,14 @@
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <geogname source="lcnaf" encodinganalog="651">Tulgas (Russia)--Maps.</geogname>
-        <geogname source="lcnaf" encodinganalog="651.">Soviet Union--History--Allied intervention, 1918-1920--Maps.</geogname>
+        <geogname source="lcnaf" encodinganalog="651" ref="/subjects/770">Tulgas (Russia)--Maps.</geogname>
+        <geogname source="lcnaf" encodinganalog="651." ref="/subjects/767">Soviet Union--History--Allied intervention, 1918-1920--Maps.</geogname>
         <corpname source="lcnaf" encodinganalog="610">United States. Army. Infantry, 339th. Company B--Maps.</corpname>
         <corpname encodinganalog="611" source="lcnaf" authfilenumber="http://id.loc.gov/authorities/names/n2008059426">Polar Bear Expedition (1918-1919)--Maps.</corpname>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Maps.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3142">Maps.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -97,7 +97,7 @@
         </did>
         <c02 level="file">
           <did>
-            <container type="folder" label="Folder">1</container>
+            <container type="folder" label="Folder [76486945831048992]" altrender="folder">1</container>
             <unittitle>Maps</unittitle>
           </did>
         </c02>

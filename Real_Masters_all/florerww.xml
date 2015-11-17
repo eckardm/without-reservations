@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Warren W. Florer papers, 1877-1955</titleproper>
       <author>Finding aid created by <lb/>Michigan Historical Collections staff</author>
     </titlepage>
@@ -82,23 +82,23 @@ Warren W. Florer papers, Bentley Historical Library, University of Michigan</p>
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <geogname source="lcsh" encodinganalog="651">Clinton (Mich.)</geogname>
-        <subject source="lcsh" encodinganalog="650">Discrimination in employment--Michigan--Ann Arbor.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1577">Clinton (Mich.)</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5738">Discrimination in employment--Michigan--Ann Arbor.</subject>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/no2008187825">Florer, Warren Washburn, 1869-1958.</persname>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n86113633">Frenssen, Gustav, 1863-1945.</persname>
-        <subject source="lcsh" encodinganalog="650">German Americans--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5827">German Americans--Michigan.</subject>
         <persname source="lcnaf" encodinganalog="600">Kiefer, Hermann, 1825-1911.</persname>
         <persname source="lcnaf" encodinganalog="600">Kopp, Anton.</persname>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n50042689">Kossuth, Lajos, 1802-1894.</persname>
         <famname source="lcnaf" encodinganalog="600">Schilling family.</famname>
-        <geogname source="lcsh" encodinganalog="651">Scio (Mich. : Township)</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/876">Scio (Mich. : Township)</geogname>
         <corpname source="lcnaf" encodinganalog="610">Sons of the American Revolution. Michigan Society. Washtenaw County Chapter No. 1.</corpname>
-        <geogname source="lcsh" encodinganalog="651">Washtenaw County (Mich.)</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/847">Washtenaw County (Mich.)</geogname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/nr89016998">University of Michigan. Board of Regents.</corpname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan. Dept. of Germanic Languages and Literatures.</corpname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan--Faculty.</corpname>
-        <subject source="lcsh" encodinganalog="650">World War, 1914-1918--Education and the war.</subject>
-        <subject source="lcsh" encodinganalog="650">World War, 1914-1918--Michigan--Ann Arbor.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6987">World War, 1914-1918--Education and the war.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6986">World War, 1914-1918--Michigan--Ann Arbor.</subject>
       </controlaccess>
       <controlaccess>
         <head>Visual Materials - Subjects</head>
@@ -114,7 +114,7 @@ Warren W. Florer papers, Bentley Historical Library, University of Michigan</p>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -124,7 +124,7 @@ Warren W. Florer papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6672893294386347895]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1877/1901">1877-1901</unitdate>
             </unittitle>
@@ -132,7 +132,7 @@ Warren W. Florer papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6672893294386347895]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1902/1909">1902-1909</unitdate>
             </unittitle>
@@ -140,7 +140,7 @@ Warren W. Florer papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6672893294386347895]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1910/1915">1910-1915</unitdate>
             </unittitle>
@@ -148,7 +148,7 @@ Warren W. Florer papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6672893294386347895]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1916/1920">1916-1920</unitdate>
             </unittitle>
@@ -156,7 +156,7 @@ Warren W. Florer papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6672893294386347895]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1930/1941">1930-1941</unitdate>
             </unittitle>
@@ -169,25 +169,25 @@ Warren W. Florer papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6672893294386347895]" altrender="box">1</container>
             <unittitle>Education at the University of Leipzig</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6672893294386347895]" altrender="box">1</container>
             <unittitle>Washtenaw County chapter of the Sons of the American Revolution</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6672893294386347895]" altrender="box">1</container>
             <unittitle>Miscellaneous clippings</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6672893294386347895]" altrender="box">1</container>
             <unittitle>
               <genreform normal="Photographs">Photographs</genreform>
             </unittitle>
@@ -195,19 +195,19 @@ Warren W. Florer papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="folder" label="Oversize Folder">1</container>
+            <container type="folder" label="Oversize Folder [82497974045622423663]" altrender="folder">1</container>
             <unittitle>Photostats of newspaper clippings</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="folder" label="Oversize Folder">1</container>
+            <container type="folder" label="Oversize Folder [82497974045622423663]" altrender="folder">1</container>
             <unittitle>Collected German documents</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="folder" label="Oversize Folder">1</container>
+            <container type="folder" label="Oversize Folder [82497974045622423663]" altrender="folder">1</container>
             <unittitle>Certificate of appointment as instructor first lieutenant in the University's Reserve Officer Training Corps <unitdate type="inclusive" normal="1918">1918</unitdate></unittitle>
           </did>
         </c02>
@@ -218,19 +218,19 @@ Warren W. Florer papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6672893294386347895]" altrender="box">1</container>
             <unittitle>Bismarck celebration at the University of Michigan (newspaper clippings concerning) <unitdate type="inclusive" normal="1914">1914</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6672893294386347895]" altrender="box">1</container>
             <unittitle>Anti-socialist speeches by Florer (newspaper clippings and correspondence concerning) <unitdate type="inclusive" normal="1912">1912</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6672893294386347895]" altrender="box">1</container>
             <unittitle>The German Department at the University of Michigan (particularly during World War I</unittitle>
           </did>
         </c02>
@@ -241,13 +241,13 @@ Warren W. Florer papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6672893294386347895]" altrender="box">1</container>
             <unittitle>Teaching of German in Michigan high schools</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6672893294386347895]" altrender="box">1</container>
             <unittitle>Surveys on the teaching of German in Michigan high schools <unitdate type="inclusive" normal="1912/1915">1912-1915</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">9 folders</extent>
@@ -256,7 +256,7 @@ Warren W. Florer papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6672893294386347895]" altrender="box">1</container>
             <unittitle>Education in Lutheran schools</unittitle>
           </did>
         </c02>
@@ -267,25 +267,25 @@ Warren W. Florer papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6672893294386347895]" altrender="box">1</container>
             <unittitle>Hessians in colonial America</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6672893294386347895]" altrender="box">1</container>
             <unittitle>Louis Kossuth's visit to Ohio, Michigan, Illinois and Indiana (Notes for an article on)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6672893294386347895]" altrender="box">1</container>
             <unittitle>Ernst Peter Schilling family of Scio Township, Washtenaw County</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6672893294386347895]" altrender="box">1</container>
             <unittitle>Anton Kopp (early German settler of Clinton, Mich.)</unittitle>
           </did>
           <odd>
@@ -294,7 +294,7 @@ Warren W. Florer papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6672893294386347895]" altrender="box">1</container>
             <unittitle><title render="italic">The German Element in Michigan</title> (manuscript)</unittitle>
           </did>
         </c02>
@@ -304,68 +304,68 @@ Warren W. Florer papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [6672893294386347895]" altrender="box">1</container>
               <unittitle>Speeches given about</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [6672893294386347895]" altrender="box">1</container>
               <unittitle>Draft of paper on Schiller and the American Revolution</unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6672893294386347895]" altrender="box">1</container>
             <unittitle>Hermann Suderman</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6672893294386347895]" altrender="box">1</container>
             <unittitle>Materials for article on classical writers</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6672893294386347895]" altrender="box">1</container>
             <unittitle>Rough drafts of articles on religious topics</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6672893294386347895]" altrender="box">1</container>
             <unittitle>Offenburg and Freiberg resolutions</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6672893294386347895]" altrender="box">1</container>
             <unittitle>Article on Art vs. Formalism</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6672893294386347895]" altrender="box">1</container>
             <unittitle>Notes on the Eschenburg manuscript</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6672893294386347895]" altrender="box">1</container>
             <unittitle>Notes for Use of German</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6672893294386347895]" altrender="box">1</container>
             <unittitle>Article on Goethe (Rough draft of)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6672893294386347895]" altrender="box">1</container>
             <unittitle>Gustav Frenssen</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -374,7 +374,7 @@ Warren W. Florer papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6672893294386347895]" altrender="box">1</container>
             <unittitle>Hermann Kiefer</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -387,13 +387,13 @@ Warren W. Florer papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [25546145433716941]" altrender="box">2</container>
               <unittitle>Miscellaneous</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [25546145433716941]" altrender="box">2</container>
               <unittitle>Materials concerning Martin Luther's translation of the Psalms</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -403,13 +403,13 @@ Warren W. Florer papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [25546145433716941]" altrender="box">2</container>
             <unittitle>Poem by Freiligrath and correspondence concerning its publication <unitdate type="inclusive" normal="1950/1955">1950-1955</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [25546145433716941]" altrender="box">2</container>
             <unittitle>Photostats acquired in research projects</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -418,7 +418,7 @@ Warren W. Florer papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [25546145433716941]" altrender="box">2</container>
             <unittitle>Miscellaneous Articles and Speeches</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -427,7 +427,7 @@ Warren W. Florer papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [25546145433716941]" altrender="box">2</container>
             <unittitle>Miscellaneous notes</unittitle>
           </did>
         </c02>

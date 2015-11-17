@@ -30,7 +30,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding Aid for <lb/>C. L. Franklin Papers, <date>1957-1991</date></titleproper>
       <author>Finding aid prepared by: <lb/>Thomas E. Powers</author>
     </titlepage>
@@ -40,7 +40,9 @@
       <origination>
         <persname source="lcnaf" encodinganalog="100" authfilenumber="http://id.loc.gov/authorities/names/n88276628">Franklin, C. L. (Clarence LaVaughn), 1915-1984.</persname>
       </origination>
-      <unittitle encodinganalog="245">C. L. Franklin Papers <unitdate type="inclusive" encodinganalog="245$f" normal="1957/1991">1957-1991</unitdate>, <unitdate type="bulk" encodinganalog="245$g" normal="1963/1984">1963-1984</unitdate></unittitle>
+      <unittitle encodinganalog="245">C. L. Franklin Papers</unittitle>
+      <unitdate type="inclusive" encodinganalog="245$f" normal="1957/1991">1957-1991</unitdate>
+      <unitdate type="bulk" encodinganalog="245$g" normal="1963/1984">1963-1984</unitdate>
       <abstract>Detroit African American clergyman and civil rights activist. Papers accumulated by Franklin's daughter, Erma Franklin, relating to the life and career of her father; include biographical information, transcripts of oral interviews; scattered sermons and correspondence, including letters from daughter Aretha and from Dr. Martin Luther King, Jr.; topical files about his church and civil rights activities; and photographs</abstract>
       <unitid countrycode="us" repositorycode="MiU-H" encodinganalog="099" type="call number">99100 Aa 2</unitid>
       <langmaterial>The materials are in <language encodinganalog="041" langcode="eng">English.</language></langmaterial>
@@ -90,25 +92,25 @@ family.</p>
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <subject source="lcsh" encodinganalog="650">Afro-American clergy--Michigan--Detroit.</subject>
-        <subject source="lcsh" encodinganalog="650">Afro-American churches--Michigan--Detroit.</subject>
-        <subject source="lcsh" encodinganalog="650">Afro-Americans--Michigan--Detroit.</subject>
-        <subject source="lcsh" encodinganalog="650">Baptists, Black--Michigan--Detroit.</subject>
-        <subject source="lcsh" encodinganalog="650">Clergy--Michigan--Detroit.</subject>
-        <subject source="lcsh" encodinganalog="650">Civil rights--Michigan--Detroit.</subject>
-        <geogname source="lcsh" encodinganalog="651">Detroit (Mich.)--Church history.</geogname>
-        <geogname source="lcsh" encodinganalog="651">Detroit (Mich.)--Race relations.</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7856">Afro-American clergy--Michigan--Detroit.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7857">Afro-American churches--Michigan--Detroit.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7363">Afro-Americans--Michigan--Detroit.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7858">Baptists, Black--Michigan--Detroit.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7414">Clergy--Michigan--Detroit.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7354">Civil rights--Michigan--Detroit.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/952">Detroit (Mich.)--Church history.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1691">Detroit (Mich.)--Race relations.</geogname>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n84028907">Franklin, Aretha.</persname>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n88276628">Franklin, C. L. (Clarence LaVaughn), 1915-1984.</persname>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/no98027241">Franklin, Erma.</persname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n94070744">New Bethel Baptist Church (Detroit, Mich.)</corpname>
-        <subject source="lcsh" encodinganalog="650">Sermons.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7079">Sermons.</subject>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Material:</head>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n84028909">Belafonte, Harry, 1927-</persname>
-        <subject source="lctgm" encodinganalog="650">Churches--Michigan--Detroit.</subject>
-        <geogname source="lctgm" encodinganalog="651">Detroit (Mich.)--Churches.</geogname>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3724">Churches--Michigan--Detroit.</subject>
+        <geogname source="lctgm" encodinganalog="651" ref="/subjects/218">Detroit (Mich.)--Churches.</geogname>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n84028907">Franklin, Aretha.</persname>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n88276628">Franklin, C. L. (Clarence LaVaughn), 1915-1984.</persname>
         <persname source="lcnaf" encodinganalog="600">Jones Prophet.</persname>
@@ -116,7 +118,7 @@ family.</p>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n50049525">King, Coretta Scott, 1927-2006</persname>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n50027942">Jackson, Mahalia, 1911-1972.</persname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n94070744">New Bethel Baptist Church (Detroit, Mich.)</corpname>
-        <subject source="lctgm" encodinganalog="650">Parades &amp; processions--Michigan--Detroit.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4339">Parades &amp; processions--Michigan--Detroit.</subject>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n82012171">Powell, Adam Clayton, 1908-1972.</persname>
         <persname source="lcnaf" encodinganalog="600">St. Marie, Buffy.</persname>
       </controlaccess>
@@ -126,7 +128,7 @@ family.</p>
       </controlaccess>
       <controlaccess>
         <head>Genre/Form:</head>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -139,19 +141,19 @@ family.</p>
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [3492854492999052559]" altrender="box">1</container>
             <unittitle>Summary information and articles</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [3492854492999052559]" altrender="box">1</container>
             <unittitle>Clippings (largely obituaries)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [3492854492999052559]" altrender="box">1</container>
             <unittitle>Memorial service programs <unitdate type="inclusive" normal="1984">1984</unitdate></unittitle>
           </did>
         </c02>
@@ -161,14 +163,16 @@ family.</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [3492854492999052559]" altrender="box">1</container>
               <unittitle>Article: "Reverend C.L. Franklin; Black-American Preacher Poet" (from <title render="italic">Folklife Annual</title> 1987), <unitdate type="inclusive" normal="1987">1987</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
-              <unittitle>Transcript of interview with CLF <unitdate type="inclusive" normal="1976-02-27">February 27, 1976</unitdate>, <unitdate type="inclusive" normal="1977-10-05">October 5, 1977</unitdate></unittitle>
+              <container type="box" label="Box [3492854492999052559]" altrender="box">1</container>
+              <unittitle>Transcript of interview with CLF</unittitle>
+              <unitdate type="inclusive" normal="1976-02-27">February 27, 1976</unitdate>
+              <unitdate type="inclusive" normal="1977-10-05">October 5, 1977</unitdate>
             </did>
             <odd>
               <p>(includes correspondence related to the interviews and to Titon's book)</p>
@@ -176,7 +180,7 @@ family.</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [3492854492999052559]" altrender="box">1</container>
               <unittitle>Transcripts of CLF sermons <unitdate type="inclusive" normal="1977">1977</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">6 items</extent>
@@ -194,13 +198,15 @@ family.</p>
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <unittitle>Correspondence <unitdate type="inclusive" normal="1957/1991">1957-1991</unitdate>, <unitdate type="inclusive">undated</unitdate></unittitle>
+            <container type="box" label="Box [3492854492999052559]" altrender="box">1</container>
+            <unittitle>Correspondence</unittitle>
+            <unitdate type="inclusive" normal="1957/1991">1957-1991</unitdate>
+            <unitdate type="inclusive">undated</unitdate>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [3492854492999052559]" altrender="box">1</container>
             <unittitle>Sermons</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -209,13 +215,13 @@ family.</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [3492854492999052559]" altrender="box">1</container>
             <unittitle>Clippings</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [3492854492999052559]" altrender="box">1</container>
             <unittitle>Miscellaneous</unittitle>
           </did>
         </c02>
@@ -229,67 +235,67 @@ family.</p>
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [3492854492999052559]" altrender="box">1</container>
             <unittitle>Detroit Council for Human Rights <unitdate type="inclusive" normal="1963">1963</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [3492854492999052559]" altrender="box">1</container>
             <unittitle>Evangelistic Board, National Baptist Convention, USA mid-winter board meetings <unitdate type="inclusive" normal="1961">1961</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [3492854492999052559]" altrender="box">1</container>
             <unittitle>Franklin. C.L. Franklin Memorial Committee/C.L. Franklin Medical Trust Fund <unitdate type="inclusive" normal="1983/1992">1983-1992</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [3492854492999052559]" altrender="box">1</container>
             <unittitle>Franklin family information</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [3492854492999052559]" altrender="box">1</container>
             <unittitle>International Afro Musical and Cultural Festival</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [3492854492999052559]" altrender="box">1</container>
             <unittitle>King. Martin Luther King, Jr. (letters) <unitdate type="inclusive" normal="1963">1963</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [3492854492999052559]" altrender="box">1</container>
             <unittitle>March of Freedom in Detroit <unitdate type="inclusive" normal="1963-06">June 1963</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [3492854492999052559]" altrender="box">1</container>
             <unittitle>March of Freedom in Detroit (later commemorations)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [3492854492999052559]" altrender="box">1</container>
             <unittitle>Metropolitan Civic League for Legal Action</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [3492854492999052559]" altrender="box">1</container>
             <unittitle>New Bethel Baptist Church (publications, etc.)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [3492854492999052559]" altrender="box">1</container>
             <unittitle>"An Open Letter to White America" <unitdate type="inclusive" normal="1967">1967</unitdate></unittitle>
           </did>
           <odd>
@@ -298,7 +304,7 @@ family.</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [3492854492999052559]" altrender="box">1</container>
             <unittitle>"Soul Bowl '69'" <unitdate type="inclusive" normal="1969">1969</unitdate></unittitle>
           </did>
         </c02>
@@ -314,19 +320,19 @@ family.</p>
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [3492854492999052559]" altrender="box">1</container>
             <unittitle>Portraits of CLF</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [3492854492999052559]" altrender="box">1</container>
             <unittitle>CLF with children</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [3492854492999052559]" altrender="box">1</container>
             <unittitle>Aretha Franklin (Aretha Franklin Day) <unitdate type="inclusive" normal="1968">1968</unitdate></unittitle>
           </did>
           <odd>
@@ -335,7 +341,7 @@ family.</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [3492854492999052559]" altrender="box">1</container>
             <unittitle>CLF with other dignitaries</unittitle>
           </did>
           <odd>
@@ -344,13 +350,13 @@ family.</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [3492854492999052559]" altrender="box">1</container>
             <unittitle>March of Freedom in Detroit <unitdate type="inclusive" normal="1963-06">June 1963</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [3492854492999052559]" altrender="box">1</container>
             <unittitle>New Bethel Baptist Church</unittitle>
           </did>
           <odd>
@@ -359,7 +365,7 @@ family.</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [3492854492999052559]" altrender="box">1</container>
             <unittitle>Various</unittitle>
           </did>
           <odd>
@@ -368,7 +374,7 @@ family.</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [3492854492999052559]" altrender="box">1</container>
             <unittitle>Photocopies of photographs for which copyprints were not made</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -387,7 +393,7 @@ family.</p>
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Sound Disc">1</container>
+            <container type="box" label="Sound Disc [129960971945071464579]" altrender="box">1</container>
             <unittitle>Phonograph record: Rev. C.L. Franklin and Congregation sings (65-A) "I love the Lord" (65-B) "Heard the Voice of Jesus" J-V-B Recording Co.</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">1 phonograph records</extent>
@@ -400,7 +406,7 @@ family.</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Sound Disc">1</container>
+            <container type="box" label="Sound Disc [129960971945071464579]" altrender="box">1</container>
             <unittitle>C.L. Franklin Preaching, "Show to show thyself approved unto God" and Silver and Gold have I none but such as I have thee..."</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">1 audiocassettes</extent>
@@ -409,7 +415,7 @@ family.</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Sound Disc">1</container>
+            <container type="box" label="Sound Disc [129960971945071464579]" altrender="box">1</container>
             <unittitle>Funeral Service for Rev. C.L. Franklin</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">3 audiocassettes</extent>

@@ -30,7 +30,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>University Archives and Records Program <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/2">University Archives and Records Program <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>School of Nursing Alumni Association <lb/>(University of Michigan) <lb/>Records, 1909-1998</titleproper>
       <author>Finding aid created by <lb/>Anne Frantilla, June 1984 <lb/>Mark Greene, March 1985 (photographs)</author>
     </titlepage>
@@ -87,17 +87,17 @@ School of Nursing Alumni Association (University of Michigan) Records, Bentley H
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <subject source="lcsh" encodinganalog="650">Nurses--Michigan--Ann Arbor.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6088">Nurses--Michigan--Ann Arbor.</subject>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan--Alumni and alumnae.</corpname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan. School of Nursing. Alumni Association.</corpname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/no96022006">University of Michigan. School of Nursing.</corpname>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Materials:</head>
-        <subject source="lctgm" encodinganalog="650">Hospitals--Michigan--Ann Arbor.</subject>
-        <subject source="lctgm" encodinganalog="650">Nurses--Michigan--Ann Arbor.</subject>
-        <subject source="lctgm" encodinganalog="650">Nursing--Michigan--Ann Arbor.</subject>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4409">Hospitals--Michigan--Ann Arbor.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/5081">Nurses--Michigan--Ann Arbor.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/5082">Nursing--Michigan--Ann Arbor.</subject>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan--Alumni and alumnae.</corpname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan--Classes.</corpname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan--Faculty.</corpname>
@@ -105,11 +105,11 @@ School of Nursing Alumni Association (University of Michigan) Records, Bentley H
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/no96022006">University of Michigan. School of Nursing.</corpname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan. University Hospital.</corpname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan--Students.</corpname>
-        <subject source="lcsh" encodinganalog="650">Women college students--Michigan--Ann Arbor.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5837">Women college students--Michigan--Ann Arbor.</subject>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform encodinganalog="655" source="aat">Photographs.</genreform>
+        <genreform encodinganalog="655" source="aat" ref="/subjects/3141">Photographs.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -122,13 +122,13 @@ School of Nursing Alumni Association (University of Michigan) Records, Bentley H
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6734334048128803]" altrender="box">1</container>
             <unittitle>Constitution, Bylaws and Policies <unitdate type="inclusive" normal="1909/1978">1909-1978</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6734334048128803]" altrender="box">1</container>
             <unittitle>Board of Directors <unitdate type="inclusive" normal="1977/1980">1977-1980</unitdate></unittitle>
           </did>
         </c02>
@@ -138,7 +138,7 @@ School of Nursing Alumni Association (University of Michigan) Records, Bentley H
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [6734334048128803]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1910-06/1911-05">June 1910-May 1911</unitdate>
               </unittitle>
@@ -146,7 +146,7 @@ School of Nursing Alumni Association (University of Michigan) Records, Bentley H
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [6734334048128803]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1911-05/1925-10">May 1911-October 1925</unitdate>
               </unittitle>
@@ -154,7 +154,7 @@ School of Nursing Alumni Association (University of Michigan) Records, Bentley H
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [6734334048128803]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1926-01/1940-10">January 1926-October 1940</unitdate>
               </unittitle>
@@ -162,7 +162,7 @@ School of Nursing Alumni Association (University of Michigan) Records, Bentley H
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [6734334048128803]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1940-11/1947-06">November 1940-June 1947</unitdate>
               </unittitle>
@@ -170,7 +170,7 @@ School of Nursing Alumni Association (University of Michigan) Records, Bentley H
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [6734334048128803]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1948-01/1954-06">January 1948-June 1954</unitdate>
               </unittitle>
@@ -178,7 +178,7 @@ School of Nursing Alumni Association (University of Michigan) Records, Bentley H
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [6734334048128803]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1954-06/1958-09">June 1954-September 1958</unitdate>
               </unittitle>
@@ -186,7 +186,7 @@ School of Nursing Alumni Association (University of Michigan) Records, Bentley H
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [6734334048128803]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1959-01/1963-11">January 1959-November 1963</unitdate>
               </unittitle>
@@ -195,7 +195,7 @@ School of Nursing Alumni Association (University of Michigan) Records, Bentley H
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6734334048128803]" altrender="box">1</container>
             <unittitle>Officer's Duties <unitdate type="inclusive" normal="1977" certainty="approximate">circa 1977</unitdate></unittitle>
           </did>
         </c02>
@@ -205,7 +205,7 @@ School of Nursing Alumni Association (University of Michigan) Records, Bentley H
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [6734334048128803]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1932/1954">1932-1954</unitdate>
               </unittitle>
@@ -213,7 +213,7 @@ School of Nursing Alumni Association (University of Michigan) Records, Bentley H
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [6734334048128803]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1955/1993">1955-1993</unitdate>
               </unittitle>
@@ -221,7 +221,7 @@ School of Nursing Alumni Association (University of Michigan) Records, Bentley H
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [6734334048128803]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1992/1998">1992-1998</unitdate>
               </unittitle>
@@ -234,7 +234,7 @@ School of Nursing Alumni Association (University of Michigan) Records, Bentley H
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [6734334048128803]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1924/1928">1924-1928</unitdate>
               </unittitle>
@@ -242,7 +242,7 @@ School of Nursing Alumni Association (University of Michigan) Records, Bentley H
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [6734334048128803]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1929/1933">1929-1933</unitdate>
               </unittitle>
@@ -250,7 +250,7 @@ School of Nursing Alumni Association (University of Michigan) Records, Bentley H
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [6734334048128803]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1934/1942">1934-1942</unitdate>
               </unittitle>
@@ -258,7 +258,7 @@ School of Nursing Alumni Association (University of Michigan) Records, Bentley H
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [6734334048128803]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1942/1950">1942-1950</unitdate>
               </unittitle>
@@ -266,7 +266,7 @@ School of Nursing Alumni Association (University of Michigan) Records, Bentley H
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [6734334048128803]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1950/1953">1950-1953</unitdate>
               </unittitle>
@@ -274,7 +274,7 @@ School of Nursing Alumni Association (University of Michigan) Records, Bentley H
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [6734334048128803]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1954/1969">1954-1969</unitdate>
               </unittitle>
@@ -282,7 +282,7 @@ School of Nursing Alumni Association (University of Michigan) Records, Bentley H
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [522948906100621356]" altrender="box">2</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1953/1962">1953-1962</unitdate>
               </unittitle>
@@ -291,7 +291,7 @@ School of Nursing Alumni Association (University of Michigan) Records, Bentley H
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [522948906100621356]" altrender="box">2</container>
             <unittitle>Statement of Account <unitdate type="inclusive" normal="1954/1972">1954-1972</unitdate></unittitle>
           </did>
         </c02>
@@ -305,7 +305,7 @@ School of Nursing Alumni Association (University of Michigan) Records, Bentley H
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [522948906100621356]" altrender="box">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1907/1930">1907-1930 (scattered dates)</unitdate>
             </unittitle>
@@ -313,7 +313,7 @@ School of Nursing Alumni Association (University of Michigan) Records, Bentley H
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [522948906100621356]" altrender="box">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1931/1940">1931-1940</unitdate>
             </unittitle>
@@ -321,7 +321,7 @@ School of Nursing Alumni Association (University of Michigan) Records, Bentley H
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [522948906100621356]" altrender="box">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1943/1956">1943-1956 (scattered dates)</unitdate>
             </unittitle>
@@ -329,7 +329,7 @@ School of Nursing Alumni Association (University of Michigan) Records, Bentley H
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [522948906100621356]" altrender="box">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1960/1984">1960-1984 (scattered dates)</unitdate>
             </unittitle>
@@ -345,7 +345,7 @@ School of Nursing Alumni Association (University of Michigan) Records, Bentley H
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [522948906100621356]" altrender="box">2</container>
             <unittitle>Alumnae Loan Fund <unitdate type="inclusive" normal="1917/1949">1917-1949</unitdate></unittitle>
           </did>
           <odd>
@@ -354,7 +354,7 @@ School of Nursing Alumni Association (University of Michigan) Records, Bentley H
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [522948906100621356]" altrender="box">2</container>
             <unittitle>Alumnae Room Committee <unitdate type="inclusive" normal="1964/1978">1964-1978</unitdate></unittitle>
           </did>
           <odd>
@@ -363,13 +363,13 @@ School of Nursing Alumni Association (University of Michigan) Records, Bentley H
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [522948906100621356]" altrender="box">2</container>
             <unittitle>American Red Cross Association <unitdate type="inclusive" normal="1917/1918">1917-1918</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [522948906100621356]" altrender="box">2</container>
             <unittitle>Curriculum Committee <unitdate type="inclusive" normal="1970/1978">1970-1978</unitdate></unittitle>
           </did>
           <odd>
@@ -378,7 +378,7 @@ School of Nursing Alumni Association (University of Michigan) Records, Bentley H
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [522948906100621356]" altrender="box">2</container>
             <unittitle>Dean Search and Study Committee <unitdate type="inclusive" normal="1969/1971">1969-1971</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -391,7 +391,7 @@ School of Nursing Alumni Association (University of Michigan) Records, Bentley H
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [522948906100621356]" altrender="box">2</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1969/1979">1969-1979 (scattered dates)</unitdate>
               </unittitle>
@@ -399,7 +399,7 @@ School of Nursing Alumni Association (University of Michigan) Records, Bentley H
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [522948906100621356]" altrender="box">2</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1970/1974">1970-1974</unitdate>
               </unittitle>
@@ -411,25 +411,28 @@ School of Nursing Alumni Association (University of Michigan) Records, Bentley H
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [522948906100621356]" altrender="box">2</container>
             <unittitle>Educational Concerns, Committee on <unitdate type="inclusive" normal="1969">1969</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
-            <unittitle>Honorary Members <unitdate type="inclusive" normal="1931">1931</unitdate>, <unitdate type="inclusive" normal="1954">1954</unitdate>, <unitdate type="inclusive">undated</unitdate></unittitle>
+            <container type="box" label="Box [522948906100621356]" altrender="box">2</container>
+            <unittitle>Honorary Members</unittitle>
+            <unitdate type="inclusive" normal="1931">1931</unitdate>
+            <unitdate type="inclusive" normal="1954">1954</unitdate>
+            <unitdate type="inclusive">undated</unitdate>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [522948906100621356]" altrender="box">2</container>
             <unittitle>Membership Lists, [1893-1939] <unitdate type="inclusive" normal="1931/1952">1931-1952</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [522948906100621356]" altrender="box">2</container>
             <unittitle>Michigan State Nurses Association <unitdate type="inclusive" normal="1919/1941">1919-1941</unitdate></unittitle>
           </did>
           <odd>
@@ -438,7 +441,7 @@ School of Nursing Alumni Association (University of Michigan) Records, Bentley H
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [522948906100621356]" altrender="box">2</container>
             <unittitle>Nursing Pins <unitdate type="inclusive" normal="1957/1983">1957-1983</unitdate></unittitle>
           </did>
           <odd>
@@ -451,13 +454,13 @@ School of Nursing Alumni Association (University of Michigan) Records, Bentley H
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [522948906100621356]" altrender="box">2</container>
               <unittitle>Dorothy Bissell <unitdate type="inclusive" normal="1953/1956">1953-1956</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [522948906100621356]" altrender="box">2</container>
               <unittitle>Esther Warzynski <unitdate type="inclusive" normal="1956/1959">1956-1959</unitdate></unittitle>
             </did>
           </c03>
@@ -468,7 +471,7 @@ School of Nursing Alumni Association (University of Michigan) Records, Bentley H
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [522948906100621356]" altrender="box">2</container>
               <unittitle>Programs <unitdate type="inclusive" normal="1907/1962">1907-1962</unitdate></unittitle>
             </did>
             <odd>
@@ -477,7 +480,7 @@ School of Nursing Alumni Association (University of Michigan) Records, Bentley H
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [522948906100621356]" altrender="box">2</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1941">1941</unitdate>
               </unittitle>
@@ -485,7 +488,7 @@ School of Nursing Alumni Association (University of Michigan) Records, Bentley H
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [522948906100621356]" altrender="box">2</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1950">1950</unitdate>
               </unittitle>
@@ -493,32 +496,34 @@ School of Nursing Alumni Association (University of Michigan) Records, Bentley H
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [522948906100621356]" altrender="box">2</container>
               <unittitle><unitdate type="inclusive" normal="1981">1981</unitdate> (class of 1941)</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [522948906100621356]" altrender="box">2</container>
               <unittitle>Miscellaneous</unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [50363346049142410457]" altrender="box">3</container>
             <unittitle>School of Nursing Historical Material, [1886-1939]</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
-            <unittitle>Shirley Titus Scholarship Fund <unitdate type="inclusive" normal="1932/1963">1932-1963</unitdate>, <unitdate type="inclusive" normal="1978">1978</unitdate></unittitle>
+            <container type="box" label="Box [50363346049142410457]" altrender="box">3</container>
+            <unittitle>Shirley Titus Scholarship Fund</unittitle>
+            <unitdate type="inclusive" normal="1932/1963">1932-1963</unitdate>
+            <unitdate type="inclusive" normal="1978">1978</unitdate>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [50363346049142410457]" altrender="box">3</container>
             <unittitle>Sick Nurses Relief Fund <unitdate type="inclusive" normal="1931/1948">1931-1948</unitdate></unittitle>
           </did>
         </c02>
@@ -528,32 +533,32 @@ School of Nursing Alumni Association (University of Michigan) Records, Bentley H
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [50363346049142410457]" altrender="box">3</container>
               <unittitle>Organization of Nursing Schools <unitdate type="inclusive" normal="1925/1926">1925-1926</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [50363346049142410457]" altrender="box">3</container>
               <unittitle>Psychological Tests <unitdate type="inclusive" normal="1926/1927">1926-1927</unitdate></unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [50363346049142410457]" altrender="box">3</container>
             <unittitle>Uniforms <unitdate type="inclusive" normal="1927/1960">1927-1960</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [50363346049142410457]" altrender="box">3</container>
             <unittitle>Miscellaneous <unitdate type="inclusive" normal="1909/1954">1909-1954 (scattered dates)</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [50363346049142410457]" altrender="box">3</container>
             <unittitle>Newspaper Clippings <unitdate type="inclusive" normal="1914/1965">1914-1965</unitdate></unittitle>
           </did>
         </c02>
@@ -571,7 +576,7 @@ School of Nursing Alumni Association (University of Michigan) Records, Bentley H
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [50363346049142410457]" altrender="box">3</container>
               <unittitle>
                 <title render="italic">Florence Nightingale Certificate, 1856</title>
               </unittitle>
@@ -580,13 +585,13 @@ School of Nursing Alumni Association (University of Michigan) Records, Bentley H
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [50363346049142410457]" altrender="box">3</container>
             <unittitle>Stegeman, Thelma I. <unitdate type="inclusive" normal="1971">1971</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [50363346049142410457]" altrender="box">3</container>
             <unittitle>Ziegler, Minnie Holzhauser <unitdate type="inclusive" normal="1913/1922">1913-1922</unitdate></unittitle>
           </did>
         </c02>
@@ -600,19 +605,21 @@ School of Nursing Alumni Association (University of Michigan) Records, Bentley H
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
-            <unittitle>Directories <unitdate type="inclusive" normal="1950">1950</unitdate>, <unitdate type="inclusive" normal="1960">1960</unitdate></unittitle>
+            <container type="box" label="Box [50363346049142410457]" altrender="box">3</container>
+            <unittitle>Directories</unittitle>
+            <unitdate type="inclusive" normal="1950">1950</unitdate>
+            <unitdate type="inclusive" normal="1960">1960</unitdate>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [50363346049142410457]" altrender="box">3</container>
             <unittitle>Annual Dinner and Meeting Programs <unitdate type="inclusive" normal="1985/1991">1985-1991</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [50363346049142410457]" altrender="box">3</container>
             <unittitle><title render="italic">Journal of the Alumnae Association</title>, <unitdate type="inclusive" normal="1907/1914">1907-1914</unitdate></unittitle>
           </did>
         </c02>
@@ -624,7 +631,7 @@ School of Nursing Alumni Association (University of Michigan) Records, Bentley H
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [50363346049142410457]" altrender="box">3</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1937/1951">1937-1951 (scattered dates)</unitdate>
               </unittitle>
@@ -632,7 +639,7 @@ School of Nursing Alumni Association (University of Michigan) Records, Bentley H
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [50363346049142410457]" altrender="box">3</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1953/1958">1953-1958</unitdate>
               </unittitle>
@@ -640,7 +647,7 @@ School of Nursing Alumni Association (University of Michigan) Records, Bentley H
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [50363346049142410457]" altrender="box">3</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1959/1965">1959-1965</unitdate>
               </unittitle>
@@ -648,7 +655,7 @@ School of Nursing Alumni Association (University of Michigan) Records, Bentley H
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [50363346049142410457]" altrender="box">3</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1966/1992">1966-1992</unitdate>
               </unittitle>
@@ -665,57 +672,59 @@ School of Nursing Alumni Association (University of Michigan) Records, Bentley H
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
-            <container type="folder" label="Folder">1</container>
+            <container type="box" label="Box [55488975841169998428162056]" id="dd2a1a57-6aa7-432b-acaa-fb7cfcb3ccf3" altrender="box">4</container>
+            <container type="folder" label="Folder" parent="dd2a1a57-6aa7-432b-acaa-fb7cfcb3ccf3">1</container>
             <unittitle>Album <unitdate type="inclusive" normal="1910/1913">1910-1913</unitdate> (snapshots of students, campus, hospitals, staff, 1959 reunions)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
-            <container type="folder" label="Folder">2</container>
+            <container type="box" label="Box [55488975841169998428162056]" id="feffda9c-c0d7-4f79-8f70-a37a1d38b2c2" altrender="box">4</container>
+            <container type="folder" label="Folder" parent="feffda9c-c0d7-4f79-8f70-a37a1d38b2c2">2</container>
             <unittitle>Class of <unitdate type="inclusive" normal="1913">1913</unitdate> (loose photographs from album)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
-            <container type="folder" label="Folder">3</container>
+            <container type="box" label="Box [55488975841169998428162056]" id="4cffa861-60d5-442b-8d43-4adc7f03a158" altrender="box">4</container>
+            <container type="folder" label="Folder" parent="4cffa861-60d5-442b-8d43-4adc7f03a158">3</container>
             <unittitle>Class Photographs <unitdate type="inclusive" normal="1890/1910">1890-1910</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
-            <container type="folder" label="Folder">4</container>
+            <container type="box" label="Box [55488975841169998428162056]" id="bd34707f-1a3d-489a-a12b-7052399fcd64" altrender="box">4</container>
+            <container type="folder" label="Folder" parent="bd34707f-1a3d-489a-a12b-7052399fcd64">4</container>
             <unittitle>Class Photographs <unitdate type="inclusive" normal="1911/1920">1911-1920</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
-            <container type="folder" label="Folder">5</container>
+            <container type="box" label="Box [55488975841169998428162056]" id="8e45e9ba-d618-4f0e-8007-18e66314f8a8" altrender="box">4</container>
+            <container type="folder" label="Folder" parent="8e45e9ba-d618-4f0e-8007-18e66314f8a8">5</container>
             <unittitle>Class Photographs <unitdate type="inclusive" normal="1921/1930">1921-1930</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
-            <container type="folder" label="Folder">6</container>
+            <container type="box" label="Box [55488975841169998428162056]" id="42660b06-3b00-4c06-a62e-59f1b4f7b0bc" altrender="box">4</container>
+            <container type="folder" label="Folder" parent="42660b06-3b00-4c06-a62e-59f1b4f7b0bc">6</container>
             <unittitle>Class Photographs <unitdate type="inclusive" normal="1931/1934">1931-1934</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
-            <container type="folder" label="Folder">7</container>
-            <unittitle>Class Photographs <unitdate type="inclusive" normal="1942/1944">1942-1944</unitdate>, <unitdate type="inclusive" normal="1950">1950</unitdate></unittitle>
+            <container type="box" label="Box [55488975841169998428162056]" id="0eb3e718-88d4-419b-9d53-84fe2e0d2e7a" altrender="box">4</container>
+            <container type="folder" label="Folder" parent="0eb3e718-88d4-419b-9d53-84fe2e0d2e7a">7</container>
+            <unittitle>Class Photographs</unittitle>
+            <unitdate type="inclusive" normal="1942/1944">1942-1944</unitdate>
+            <unitdate type="inclusive" normal="1950">1950</unitdate>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
-            <container type="folder" label="Folder">8</container>
+            <container type="box" label="Box [55488975841169998428162056]" id="9db14b9b-3e4d-415b-964e-4bc4b62e7efd" altrender="box">4</container>
+            <container type="folder" label="Folder" parent="9db14b9b-3e4d-415b-964e-4bc4b62e7efd">8</container>
             <unittitle>Student Groups and Clubs <unitdate type="inclusive" normal="1929/1934">1929-1934</unitdate></unittitle>
           </did>
         </c02>
@@ -725,78 +734,78 @@ School of Nursing Alumni Association (University of Michigan) Records, Bentley H
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
-              <container type="folder" label="Folder">9</container>
+              <container type="box" label="Box [55488975841169998428162056]" id="731e683f-cd55-4c5d-9f1e-db8dae86a1be" altrender="box">4</container>
+              <container type="folder" label="Folder" parent="731e683f-cd55-4c5d-9f1e-db8dae86a1be">9</container>
               <unittitle>Adams, Dr. Theodore <unitdate type="inclusive" normal="1924">1924</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
-              <container type="folder" label="Folder">9</container>
+              <container type="box" label="Box [55488975841169998428162056]" id="38cf1bb5-4bf8-4e93-942e-bf1c688ea0cf" altrender="box">4</container>
+              <container type="folder" label="Folder" parent="38cf1bb5-4bf8-4e93-942e-bf1c688ea0cf">9</container>
               <unittitle>Birk, Miss <unitdate type="inclusive" normal="1920/1929" certainty="approximate">1920s</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
-              <container type="folder" label="Folder">9</container>
+              <container type="box" label="Box [55488975841169998428162056]" id="94b1496b-b378-4df6-8f63-65eb8c9398a5" altrender="box">4</container>
+              <container type="folder" label="Folder" parent="94b1496b-b378-4df6-8f63-65eb8c9398a5">9</container>
               <unittitle>Brown, Grace <unitdate type="inclusive" normal="1912">1912</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
-              <container type="folder" label="Folder">9</container>
+              <container type="box" label="Box [55488975841169998428162056]" id="4304fd98-7068-41d9-9c06-a14d5fccaa1b" altrender="box">4</container>
+              <container type="folder" label="Folder" parent="4304fd98-7068-41d9-9c06-a14d5fccaa1b">9</container>
               <unittitle>Cartwill, Miss <unitdate type="inclusive" normal="1920/1929" certainty="approximate">1920s</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
-              <container type="folder" label="Folder">9</container>
+              <container type="box" label="Box [55488975841169998428162056]" id="3c3886bf-d20c-4e13-9784-4790792c59ff" altrender="box">4</container>
+              <container type="folder" label="Folder" parent="3c3886bf-d20c-4e13-9784-4790792c59ff">9</container>
               <unittitle>Culp, David <unitdate type="inclusive" normal="1950/1959" certainty="approximate">1950s</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
-              <container type="folder" label="Folder">9</container>
+              <container type="box" label="Box [55488975841169998428162056]" id="91226734-170e-4fda-9539-18998708be36" altrender="box">4</container>
+              <container type="folder" label="Folder" parent="91226734-170e-4fda-9539-18998708be36">9</container>
               <unittitle>Easton, Charlotte D. <unitdate type="inclusive" normal="1903">1903</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
-              <container type="folder" label="Folder">9</container>
+              <container type="box" label="Box [55488975841169998428162056]" id="1ee08308-d40b-41af-81ac-2f14a7577310" altrender="box">4</container>
+              <container type="folder" label="Folder" parent="1ee08308-d40b-41af-81ac-2f14a7577310">9</container>
               <unittitle>Emerson, Elsie <unitdate type="inclusive" normal="1921">1921</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
-              <container type="folder" label="Folder">9</container>
+              <container type="box" label="Box [55488975841169998428162056]" id="d214711a-c514-4095-a34b-38d91b078828" altrender="box">4</container>
+              <container type="folder" label="Folder" parent="d214711a-c514-4095-a34b-38d91b078828">9</container>
               <unittitle>Giles, Mary <unitdate type="inclusive" normal="1926">1926</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
-              <container type="folder" label="Folder">9</container>
+              <container type="box" label="Box [55488975841169998428162056]" id="e8337fd1-8d4c-450b-8540-26f00e69484d" altrender="box">4</container>
+              <container type="folder" label="Folder" parent="e8337fd1-8d4c-450b-8540-26f00e69484d">9</container>
               <unittitle>Henderson, Frances <unitdate type="inclusive" normal="1912">1912</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
-              <container type="folder" label="Folder">9</container>
+              <container type="box" label="Box [55488975841169998428162056]" id="01bf1ad4-0784-472c-813b-8d06587fa4b2" altrender="box">4</container>
+              <container type="folder" label="Folder" parent="01bf1ad4-0784-472c-813b-8d06587fa4b2">9</container>
               <unittitle>Henderson, P.M. <unitdate type="inclusive">undated</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
-              <container type="folder" label="Folder">9</container>
+              <container type="box" label="Box [55488975841169998428162056]" id="00e3b8c0-8d83-4fd3-8866-c1f32c0958db" altrender="box">4</container>
+              <container type="folder" label="Folder" parent="00e3b8c0-8d83-4fd3-8866-c1f32c0958db">9</container>
               <unittitle>Ide, Dr. <unitdate type="inclusive" normal="1926">1926</unitdate></unittitle>
             </did>
           </c03>
@@ -807,71 +816,73 @@ School of Nursing Alumni Association (University of Michigan) Records, Bentley H
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
-              <container type="folder" label="Folder">10</container>
+              <container type="box" label="Box [55488975841169998428162056]" id="0a05a1e6-4976-47fc-8216-0f956f758bdb" altrender="box">4</container>
+              <container type="folder" label="Folder" parent="0a05a1e6-4976-47fc-8216-0f956f758bdb">10</container>
               <unittitle>Koch, Blossom <unitdate type="inclusive" normal="1928">1928</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
-              <container type="folder" label="Folder">10</container>
+              <container type="box" label="Box [55488975841169998428162056]" id="477dd74f-298f-439b-9c4c-6f42cb0c0910" altrender="box">4</container>
+              <container type="folder" label="Folder" parent="477dd74f-298f-439b-9c4c-6f42cb0c0910">10</container>
               <unittitle>Leary, Ann <unitdate type="inclusive" normal="1911/1912">1911-1912</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
-              <container type="folder" label="Folder">10</container>
+              <container type="box" label="Box [55488975841169998428162056]" id="43fbeaaa-4818-4fba-aacf-8453d6563328" altrender="box">4</container>
+              <container type="folder" label="Folder" parent="43fbeaaa-4818-4fba-aacf-8453d6563328">10</container>
               <unittitle>Lisle, Dorothy (with children) <unitdate type="inclusive" normal="1925">1925</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
-              <container type="folder" label="Folder">10</container>
+              <container type="box" label="Box [55488975841169998428162056]" id="e1978f40-096b-45de-a21f-c8f83c59b5ef" altrender="box">4</container>
+              <container type="folder" label="Folder" parent="e1978f40-096b-45de-a21f-c8f83c59b5ef">10</container>
               <unittitle>Love, Agnes <unitdate type="inclusive" normal="1950/1959" certainty="approximate">1950s</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
-              <container type="folder" label="Folder">10</container>
+              <container type="box" label="Box [55488975841169998428162056]" id="35dba590-4174-4a75-a7b5-609215db8657" altrender="box">4</container>
+              <container type="folder" label="Folder" parent="35dba590-4174-4a75-a7b5-609215db8657">10</container>
               <unittitle>Maxwell, Ina <unitdate type="inclusive" normal="1915">1915</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
-              <container type="folder" label="Folder">10</container>
+              <container type="box" label="Box [55488975841169998428162056]" id="789d65eb-f304-4717-9edd-f4b2142889b0" altrender="box">4</container>
+              <container type="folder" label="Folder" parent="789d65eb-f304-4717-9edd-f4b2142889b0">10</container>
               <unittitle>Menhennet, Ella <unitdate type="inclusive" normal="1910">1910</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
-              <container type="folder" label="Folder">10</container>
+              <container type="box" label="Box [55488975841169998428162056]" id="1ec9f0c2-d0ff-4ab7-89b0-8e29aadde591" altrender="box">4</container>
+              <container type="folder" label="Folder" parent="1ec9f0c2-d0ff-4ab7-89b0-8e29aadde591">10</container>
               <unittitle>Meyers, Jessie <unitdate type="inclusive" normal="1912">1912</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
-              <container type="folder" label="Folder">10</container>
-              <unittitle>Neelands, Ethel <unitdate type="inclusive" normal="1911">1911</unitdate>, <unitdate type="inclusive" normal="1913">1913</unitdate></unittitle>
+              <container type="box" label="Box [55488975841169998428162056]" id="6bdcc13f-332c-4ebe-9e47-7bc46736aea6" altrender="box">4</container>
+              <container type="folder" label="Folder" parent="6bdcc13f-332c-4ebe-9e47-7bc46736aea6">10</container>
+              <unittitle>Neelands, Ethel</unittitle>
+              <unitdate type="inclusive" normal="1911">1911</unitdate>
+              <unitdate type="inclusive" normal="1913">1913</unitdate>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
-              <container type="folder" label="Folder">10</container>
+              <container type="box" label="Box [55488975841169998428162056]" id="092f55a2-5404-4cd5-88b8-bf40082d64b7" altrender="box">4</container>
+              <container type="folder" label="Folder" parent="092f55a2-5404-4cd5-88b8-bf40082d64b7">10</container>
               <unittitle>Niensma, Frederica <unitdate type="inclusive" normal="1918">1918</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
-              <container type="folder" label="Folder">10</container>
+              <container type="box" label="Box [55488975841169998428162056]" id="95536735-4503-4d74-bb1f-2780d3c8769e" altrender="box">4</container>
+              <container type="folder" label="Folder" parent="95536735-4503-4d74-bb1f-2780d3c8769e">10</container>
               <unittitle>Osterbloom, Margaret <unitdate type="inclusive" normal="1934">1934</unitdate></unittitle>
             </did>
           </c03>
@@ -882,85 +893,87 @@ School of Nursing Alumni Association (University of Michigan) Records, Bentley H
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
-              <container type="folder" label="Folder">11</container>
+              <container type="box" label="Box [55488975841169998428162056]" id="08ab7997-5b14-4e31-9d09-15166f4b7ef9" altrender="box">4</container>
+              <container type="folder" label="Folder" parent="08ab7997-5b14-4e31-9d09-15166f4b7ef9">11</container>
               <unittitle>Pemberton, Miss <unitdate type="inclusive" normal="1910" certainty="approximate">circa 1910</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
-              <container type="folder" label="Folder">11</container>
+              <container type="box" label="Box [55488975841169998428162056]" id="4554b2d8-8a7d-49fe-aa75-e9e9af7bc43c" altrender="box">4</container>
+              <container type="folder" label="Folder" parent="4554b2d8-8a7d-49fe-aa75-e9e9af7bc43c">11</container>
               <unittitle>Richards, Linda <unitdate type="inclusive" normal="1917">1917</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
-              <container type="folder" label="Folder">11</container>
+              <container type="box" label="Box [55488975841169998428162056]" id="b0bdd96d-ab6e-4a10-8889-1a40acef69df" altrender="box">4</container>
+              <container type="folder" label="Folder" parent="b0bdd96d-ab6e-4a10-8889-1a40acef69df">11</container>
               <unittitle>Robb, Isabel Hampton <unitdate type="inclusive" normal="1917">1917</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
-              <container type="folder" label="Folder">11</container>
+              <container type="box" label="Box [55488975841169998428162056]" id="8785c17d-68fe-4c11-8983-4c2687b256d9" altrender="box">4</container>
+              <container type="folder" label="Folder" parent="8785c17d-68fe-4c11-8983-4c2687b256d9">11</container>
               <unittitle>Sanquist, L.K. <unitdate type="inclusive" normal="1946">1946</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
-              <container type="folder" label="Folder">11</container>
+              <container type="box" label="Box [55488975841169998428162056]" id="41fc1614-04ab-4e0c-965c-dc598f586699" altrender="box">4</container>
+              <container type="folder" label="Folder" parent="41fc1614-04ab-4e0c-965c-dc598f586699">11</container>
               <unittitle>Schell, V. <unitdate type="inclusive" normal="1938">1938</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
-              <container type="folder" label="Folder">11</container>
+              <container type="box" label="Box [55488975841169998428162056]" id="2fd6ace1-f023-4046-820a-29b9f0153002" altrender="box">4</container>
+              <container type="folder" label="Folder" parent="2fd6ace1-f023-4046-820a-29b9f0153002">11</container>
               <unittitle>Scully, Patrick Henry <unitdate type="inclusive" normal="1912">1912</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
-              <container type="folder" label="Folder">11</container>
+              <container type="box" label="Box [55488975841169998428162056]" id="17aa2aac-f818-4bcd-9102-173c6179aa1f" altrender="box">4</container>
+              <container type="folder" label="Folder" parent="17aa2aac-f818-4bcd-9102-173c6179aa1f">11</container>
               <unittitle>Spier, Elsa <unitdate type="inclusive" normal="1915" certainty="approximate">circa 1915</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [55488975841169998428162056]" altrender="box">4</container>
               <unittitle>Svoboda, Elsie <unitdate type="inclusive" normal="1926">1926</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
-              <container type="folder" label="Folder">11</container>
+              <container type="box" label="Box [55488975841169998428162056]" id="d700f5b8-a09b-48d7-9a5d-b1e627ca2b80" altrender="box">4</container>
+              <container type="folder" label="Folder" parent="d700f5b8-a09b-48d7-9a5d-b1e627ca2b80">11</container>
               <unittitle>Tasker, Children of Dorothy Stannard ('22)</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
-              <container type="folder" label="Folder">11</container>
+              <container type="box" label="Box [55488975841169998428162056]" id="c08d9642-6bcf-4f58-96e6-2519afc58f2b" altrender="box">4</container>
+              <container type="folder" label="Folder" parent="c08d9642-6bcf-4f58-96e6-2519afc58f2b">11</container>
               <unittitle>Wines-Murphy, Anna ('34), with children</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
-              <container type="folder" label="Folder">11</container>
-              <unittitle>Wubbena, Talka <unitdate type="inclusive" normal="1914">1914</unitdate>, <unitdate type="inclusive" normal="1931">1931</unitdate></unittitle>
+              <container type="box" label="Box [55488975841169998428162056]" id="952c3ac2-4288-4b20-bfe8-601949158fc2" altrender="box">4</container>
+              <container type="folder" label="Folder" parent="952c3ac2-4288-4b20-bfe8-601949158fc2">11</container>
+              <unittitle>Wubbena, Talka</unittitle>
+              <unitdate type="inclusive" normal="1914">1914</unitdate>
+              <unitdate type="inclusive" normal="1931">1931</unitdate>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
-            <container type="folder" label="Folder">12</container>
+            <container type="box" label="Box [55488975841169998428162056]" id="d80b4890-1338-46a2-896c-6ec7e9555613" altrender="box">4</container>
+            <container type="folder" label="Folder" parent="d80b4890-1338-46a2-896c-6ec7e9555613">12</container>
             <unittitle>Head Nurses <unitdate type="inclusive" normal="1927/1937">1927-1937</unitdate></unittitle>
           </did>
         </c02>
@@ -970,37 +983,37 @@ School of Nursing Alumni Association (University of Michigan) Records, Bentley H
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
-              <container type="folder" label="Folder">13</container>
+              <container type="box" label="Box [55488975841169998428162056]" id="62ecde83-c491-4c1f-bb46-28973f152e3c" altrender="box">4</container>
+              <container type="folder" label="Folder" parent="62ecde83-c491-4c1f-bb46-28973f152e3c">13</container>
               <unittitle>Darling, Cyrennus</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
-              <container type="folder" label="Folder">13</container>
+              <container type="box" label="Box [55488975841169998428162056]" id="0a84293c-adee-4a52-a234-d1ec30fa7d77" altrender="box">4</container>
+              <container type="folder" label="Folder" parent="0a84293c-adee-4a52-a234-d1ec30fa7d77">13</container>
               <unittitle>Nancrede, Charles Beylard Guerard de</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
-              <container type="folder" label="Folder">13</container>
+              <container type="box" label="Box [55488975841169998428162056]" id="6a1b5c63-4d98-4859-ad2f-f4d27cab9abd" altrender="box">4</container>
+              <container type="folder" label="Folder" parent="6a1b5c63-4d98-4859-ad2f-f4d27cab9abd">13</container>
               <unittitle>Peterson, Reuben</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
-              <container type="folder" label="Folder">13</container>
+              <container type="box" label="Box [55488975841169998428162056]" id="f581cb2f-e177-47e1-853a-1dab766aefb4" altrender="box">4</container>
+              <container type="folder" label="Folder" parent="f581cb2f-e177-47e1-853a-1dab766aefb4">13</container>
               <unittitle>Read, Genevieve</unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
-            <container type="folder" label="Folder">14</container>
+            <container type="box" label="Box [55488975841169998428162056]" id="f72bdd46-39a8-4895-9549-ad0bbc96a157" altrender="box">4</container>
+            <container type="folder" label="Folder" parent="f72bdd46-39a8-4895-9549-ad0bbc96a157">14</container>
             <unittitle>Administrative Staff <unitdate type="inclusive" normal="1930/1934">1930-1934</unitdate> [14]</unittitle>
           </did>
         </c02>
@@ -1010,122 +1023,122 @@ School of Nursing Alumni Association (University of Michigan) Records, Bentley H
           </did>
           <c03 level="file">
             <did>
-              <container type="folder" label="Oversize Folder">UBImum/C276</container>
+              <container type="folder" label="Oversize Folder [710410624178219956202]" altrender="folder">UBImum/C276</container>
               <unittitle>Haarter, Mary <unitdate type="inclusive" normal="1906/1909">1906-1909</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="folder" label="Oversize Folder">UBImum/C276</container>
+              <container type="folder" label="Oversize Folder [710410624178219956202]" altrender="folder">UBImum/C276</container>
               <unittitle>Holt, Elizabeth</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="folder" label="Oversize Folder">UBImum/C276</container>
+              <container type="folder" label="Oversize Folder [710410624178219956202]" altrender="folder">UBImum/C276</container>
               <unittitle>Pindell, Jane <unitdate type="inclusive" normal="1913/1915">1913-1915</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
-              <container type="folder" label="Folder">15</container>
+              <container type="box" label="Box [55488975841169998428162056]" id="78bbc435-79fa-454b-b4b6-1c8428bf6156" altrender="box">4</container>
+              <container type="folder" label="Folder" parent="78bbc435-79fa-454b-b4b6-1c8428bf6156">15</container>
               <unittitle>Pemberton, Fantine <unitdate type="inclusive" normal="1915/1918">1915-1918</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="folder" label="Oversize Folder">UBImum/C276</container>
+              <container type="folder" label="Oversize Folder [710410624178219956202]" altrender="folder">UBImum/C276</container>
               <unittitle>Welsh, Mary <unitdate type="inclusive" normal="1918/1922">1918-1922</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
-              <container type="folder" label="Folder">15</container>
+              <container type="box" label="Box [55488975841169998428162056]" id="51426e20-b33a-42b7-840e-f602b85a2966" altrender="box">4</container>
+              <container type="folder" label="Folder" parent="51426e20-b33a-42b7-840e-f602b85a2966">15</container>
               <unittitle>Lake, Alice <unitdate type="inclusive" normal="1923/1925">1923-1925</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="folder" label="Oversize Folder">UBImum/C276</container>
+              <container type="folder" label="Oversize Folder [710410624178219956202]" altrender="folder">UBImum/C276</container>
               <unittitle>Titus, Shirley <unitdate type="inclusive" normal="1925/1930">1925-1930</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="folder" label="Oversize Folder">UBImum/C276</container>
+              <container type="folder" label="Oversize Folder [710410624178219956202]" altrender="folder">UBImum/C276</container>
               <unittitle>Durell, Marian <unitdate type="inclusive" normal="1930/1940">1930-1940</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
-              <container type="folder" label="Folder">15</container>
+              <container type="box" label="Box [55488975841169998428162056]" id="e77da5d3-3969-4108-a2ed-bc31885ca118" altrender="box">4</container>
+              <container type="folder" label="Folder" parent="e77da5d3-3969-4108-a2ed-bc31885ca118">15</container>
               <unittitle>Reddig, Rhoda <unitdate type="inclusive" normal="1940">1940</unitdate></unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
-            <container type="folder" label="Folder">16</container>
+            <container type="box" label="Box [55488975841169998428162056]" id="62cd63d4-c8b9-4c3d-8213-c97a90f68f6a" altrender="box">4</container>
+            <container type="folder" label="Folder" parent="62cd63d4-c8b9-4c3d-8213-c97a90f68f6a">16</container>
             <unittitle>Nursing Groups: Instructors, Students, Homeopathic Hospital, Meeting of Detroit Club, State League of Nursing, Misc.</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
-            <container type="folder" label="Folder">17</container>
+            <container type="box" label="Box [55488975841169998428162056]" id="e831ed4f-6e5b-4f2d-8f80-9b85cf4615fa" altrender="box">4</container>
+            <container type="folder" label="Folder" parent="e831ed4f-6e5b-4f2d-8f80-9b85cf4615fa">17</container>
             <unittitle>Reunions, Class of <unitdate type="inclusive" normal="1913">1913</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
-            <container type="folder" label="Folder">18</container>
+            <container type="box" label="Box [55488975841169998428162056]" id="9c5adf92-a59f-4b02-b320-73b9c12d01fe" altrender="box">4</container>
+            <container type="folder" label="Folder" parent="9c5adf92-a59f-4b02-b320-73b9c12d01fe">18</container>
             <unittitle>Reunions, Classes of <unitdate type="inclusive" normal="1905/1929">1905-1929</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
-            <container type="folder" label="Folder">19</container>
+            <container type="box" label="Box [55488975841169998428162056]" id="1cbdd060-eb6f-45f2-97fb-1c5d60c796ba" altrender="box">4</container>
+            <container type="folder" label="Folder" parent="1cbdd060-eb6f-45f2-97fb-1c5d60c796ba">19</container>
             <unittitle>Reunions, Classes of <unitdate type="inclusive" normal="1930/1939" certainty="approximate">1930s</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
-            <container type="folder" label="Folder">20</container>
+            <container type="box" label="Box [55488975841169998428162056]" id="5a20e795-dcb7-4ec6-b324-044b83962f86" altrender="box">4</container>
+            <container type="folder" label="Folder" parent="5a20e795-dcb7-4ec6-b324-044b83962f86">20</container>
             <unittitle>Reunions, Classes of <unitdate type="inclusive" normal="1940/1949" certainty="approximate">1940s</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
-            <container type="folder" label="Folder">21</container>
+            <container type="box" label="Box [55488975841169998428162056]" id="fbc8a218-f4d0-46b5-a355-f4c4c583a2d9" altrender="box">4</container>
+            <container type="folder" label="Folder" parent="fbc8a218-f4d0-46b5-a355-f4c4c583a2d9">21</container>
             <unittitle>Reunions, Classes of <unitdate type="inclusive" normal="1950/1959" certainty="approximate">1950s</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
-            <container type="folder" label="Folder">22</container>
+            <container type="box" label="Box [55488975841169998428162056]" id="c9d114fb-d60d-4ab8-9685-8e3899dceb3a" altrender="box">4</container>
+            <container type="folder" label="Folder" parent="c9d114fb-d60d-4ab8-9685-8e3899dceb3a">22</container>
             <unittitle>Alumnae, Mixed Classes</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
-            <container type="folder" label="Folder">23</container>
+            <container type="box" label="Box [55488975841169998428162056]" id="2c6059d9-7cf6-42eb-b7a6-4f333912ab26" altrender="box">4</container>
+            <container type="folder" label="Folder" parent="2c6059d9-7cf6-42eb-b7a6-4f333912ab26">23</container>
             <unittitle>Hospitals, University of Michigan</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
-            <container type="folder" label="Folder">24</container>
+            <container type="box" label="Box [55488975841169998428162056]" id="0a30c7ad-560c-4c4a-b040-124cdf95e6b0" altrender="box">4</container>
+            <container type="folder" label="Folder" parent="0a30c7ad-560c-4c4a-b040-124cdf95e6b0">24</container>
             <unittitle>Miscellaneous [24]</unittitle>
           </did>
         </c02>

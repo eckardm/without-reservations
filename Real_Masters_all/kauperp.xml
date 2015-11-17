@@ -30,7 +30,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Paul G. Kauper papers, 1925-1974</titleproper>
       <author>Finding aid created by <lb/>Michigan Historical Collections staff</author>
     </titlepage>
@@ -84,42 +84,42 @@ Paul G. Kauper Papers, Bentley Historical Library, University of Michigan</p>
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <subject source="lcsh" encodinganalog="650">African Americans--Michigan.</subject>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n79022219.html">Ann Arbor (Mich.)</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5756">African Americans--Michigan.</subject>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n79022219.html" ref="/subjects/860">Ann Arbor (Mich.)</geogname>
         <corpname source="lcnaf" encodinganalog="610">Ann Arbor Citizens' Council.</corpname>
-        <subject source="lcsh" encodinganalog="650">Church and state.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/8597">Church and state.</subject>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n79119400">Kauper, Paul G.</persname>
-        <subject source="lcsh" encodinganalog="650">Law.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5825">Law.</subject>
         <corpname source="lcnaf" encodinganalog="610">Lutheran Church--Michigan--Ann Arbor.</corpname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n79071132">State Bar of Michigan.</corpname>
         <corpname source="lcnaf" encodinganalog="610">Michigan. Governor's Transportation Study Commission (1950-1952)</corpname>
-        <subject source="lcsh" encodinganalog="650">Transportation--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/8005">Transportation--Michigan.</subject>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan--Faculty.</corpname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan--Law School.</corpname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan--Students--Social life and customs--1951-1960.</corpname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan--Students--Social life and customs--1961-1970.</corpname>
         <corpname source="lcnaf" encodinganalog="610">Zion Lutheran Church (Ann Arbor, Mich.)</corpname>
-        <subject source="lcsh" encodinganalog="650">Public schools--Michigan--Ann Arbor.</subject>
-        <subject source="lcsh" encodinganalog="650">Trucking--United States.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5696">Public schools--Michigan--Ann Arbor.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/8598">Trucking--United States.</subject>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Materials:</head>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n79119400">Kauper, Paul G.</persname>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
         <corpname source="lcnaf" encodinganalog="610">University of Heidelberg.</corpname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan--Law School--Faculty.</corpname>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Sound Recordings:</head>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n79119400">Kauper, Paul G.</persname>
-        <subject source="lcsh" encodinganalog="650">Church and state--United States.</subject>
-        <geogname source="lcsh" encodinganalog="651">Ann Arbor (Mich.)--Religion.</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6373">Church and state--United States.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1297">Ann Arbor (Mich.)--Religion.</geogname>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Compact discs.</genreform>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
-        <genreform source="aat" encodinganalog="655">Sound recordings.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3170">Compact discs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3143">Sound recordings.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -132,7 +132,7 @@ Paul G. Kauper Papers, Bentley Historical Library, University of Michigan</p>
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [1592884365394830025]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1925/1947">1925-1947</unitdate>
             </unittitle>
@@ -140,7 +140,7 @@ Paul G. Kauper Papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [4191038498457660]" altrender="box">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1948/1956">1948-1956</unitdate>
             </unittitle>
@@ -148,7 +148,7 @@ Paul G. Kauper Papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [8808164412844097665362]" altrender="box">3</container>
             <unittitle>
               <unitdate type="inclusive" normal="1957/1963">1957-1963</unitdate>
             </unittitle>
@@ -156,7 +156,7 @@ Paul G. Kauper Papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [221082702487921234431966]" altrender="box">4</container>
             <unittitle>
               <unitdate type="inclusive" normal="1964/1968">1964-1968</unitdate>
             </unittitle>
@@ -164,7 +164,7 @@ Paul G. Kauper Papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [6471542328345338195906506]" altrender="box">5</container>
             <unittitle>
               <unitdate type="inclusive" normal="1969/1974">1969-1974</unitdate>
             </unittitle>
@@ -172,7 +172,7 @@ Paul G. Kauper Papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [97739054948746046365]" altrender="box">6</container>
             <unittitle>Correspondence with publishers</unittitle>
           </did>
         </c02>
@@ -186,43 +186,43 @@ Paul G. Kauper Papers, Bentley Historical Library, University of Michigan</p>
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">7</container>
+            <container type="box" label="Box [44486762343579189137]" altrender="box">7</container>
             <unittitle>Constitutional Law</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">8</container>
+            <container type="box" label="Box [14269214453449451393]" altrender="box">8</container>
             <unittitle>Constitutional Law</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">9</container>
+            <container type="box" label="Box [527034477785675765408]" altrender="box">9</container>
             <unittitle>Constitutional Law</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">9</container>
+            <container type="box" label="Box [527034477785675765408]" altrender="box">9</container>
             <unittitle>Municipal Corporations</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">10</container>
+            <container type="box" label="Box [769280403610808007]" altrender="box">10</container>
             <unittitle>Comparative Constitutional Law</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">11</container>
+            <container type="box" label="Box [812613804717905052362]" altrender="box">11</container>
             <unittitle>Church State Seminar</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">11</container>
+            <container type="box" label="Box [812613804717905052362]" altrender="box">11</container>
             <unittitle>Federal Income Taxation</unittitle>
           </did>
         </c02>
@@ -236,37 +236,37 @@ Paul G. Kauper Papers, Bentley Historical Library, University of Michigan</p>
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">12</container>
+            <container type="box" label="Box [875482124714954280122]" altrender="box">12</container>
             <unittitle>Order of the COIF</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">12</container>
+            <container type="box" label="Box [875482124714954280122]" altrender="box">12</container>
             <unittitle>American Association of Law Schools: Curriculum Committee</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">12</container>
+            <container type="box" label="Box [875482124714954280122]" altrender="box">12</container>
             <unittitle>U of M Law School Curriculum Committee</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">13</container>
+            <container type="box" label="Box [3228910434750110943547]" altrender="box">13</container>
             <unittitle>Institute of Public Administration</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">13</container>
+            <container type="box" label="Box [3228910434750110943547]" altrender="box">13</container>
             <unittitle>Lutheran Church in America activities</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">14</container>
+            <container type="box" label="Box [1979314058743279]" altrender="box">14</container>
             <unittitle>Ann Arbor. Zion Lutheran Church</unittitle>
           </did>
         </c02>
@@ -276,104 +276,104 @@ Paul G. Kauper Papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">14</container>
+              <container type="box" label="Box [1979314058743279]" altrender="box">14</container>
               <unittitle>Honorary Degrees Committee</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">14</container>
+              <container type="box" label="Box [1979314058743279]" altrender="box">14</container>
               <unittitle>Distinguished Faculty Awards Committee</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">14</container>
+              <container type="box" label="Box [1979314058743279]" altrender="box">14</container>
               <unittitle>Planning Committee</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">14</container>
+              <container type="box" label="Box [1979314058743279]" altrender="box">14</container>
               <unittitle>Development Committee</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">14</container>
+              <container type="box" label="Box [1979314058743279]" altrender="box">14</container>
               <unittitle>Building Committee</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">15</container>
+              <container type="box" label="Box [8944207479116262377]" altrender="box">15</container>
               <unittitle>Fulbright Grant Evaluation Committee</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">15</container>
+              <container type="box" label="Box [8944207479116262377]" altrender="box">15</container>
               <unittitle>University of Michigan Law School: Committee on Graduate and Research work</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">15</container>
+              <container type="box" label="Box [8944207479116262377]" altrender="box">15</container>
               <unittitle>University Musical Society</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">15</container>
+              <container type="box" label="Box [8944207479116262377]" altrender="box">15</container>
               <unittitle>Law School: Administrative Communications</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">15</container>
+              <container type="box" label="Box [8944207479116262377]" altrender="box">15</container>
               <unittitle>Committee on Year-Round Operations</unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">15</container>
+            <container type="box" label="Box [8944207479116262377]" altrender="box">15</container>
             <unittitle>Michigan State Bar Committee on Constitutional Law</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">16</container>
+            <container type="box" label="Box [87002562846849271103033]" altrender="box">16</container>
             <unittitle>University of Michigan</unittitle>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">16</container>
+              <container type="box" label="Box [87002562846849271103033]" altrender="box">16</container>
               <unittitle>Student Religious Association</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">16</container>
+              <container type="box" label="Box [87002562846849271103033]" altrender="box">16</container>
               <unittitle>Interfaith Center</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">16</container>
+              <container type="box" label="Box [87002562846849271103033]" altrender="box">16</container>
               <unittitle>Office of Religious Affairs</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">16</container>
+              <container type="box" label="Box [87002562846849271103033]" altrender="box">16</container>
               <unittitle>Committee on Studies in Religion</unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">16</container>
+            <container type="box" label="Box [87002562846849271103033]" altrender="box">16</container>
             <unittitle>American Association of Law Schools: Committee on Academic Freedom and Tenure</unittitle>
           </did>
         </c02>
@@ -383,19 +383,19 @@ Paul G. Kauper Papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">16</container>
+              <container type="box" label="Box [87002562846849271103033]" altrender="box">16</container>
               <unittitle>Ad Hoc Committee on Grading Standards and Graduation Requirements</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">16</container>
+              <container type="box" label="Box [87002562846849271103033]" altrender="box">16</container>
               <unittitle>Senate By-Laws Committee (1954)</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">16</container>
+              <container type="box" label="Box [87002562846849271103033]" altrender="box">16</container>
               <unittitle>Law School Committee on Evaluation of Faculty Services <unitdate type="inclusive" normal="1940">1940</unitdate></unittitle>
             </did>
           </c03>
@@ -406,13 +406,13 @@ Paul G. Kauper Papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">17</container>
+              <container type="box" label="Box [015563980498881910530]" altrender="box">17</container>
               <unittitle>Bibliographical material</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">17</container>
+              <container type="box" label="Box [015563980498881910530]" altrender="box">17</container>
               <unittitle>Personal memorabilia <unitdate type="inclusive" normal="1929/1967">1929-1967</unitdate></unittitle>
             </did>
             <odd>
@@ -426,242 +426,242 @@ Paul G. Kauper Papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">17</container>
+              <container type="box" label="Box [015563980498881910530]" altrender="box">17</container>
               <unittitle>Committee on Taxation <unitdate type="inclusive" normal="1951/1955">1951-1955</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">17</container>
+              <container type="box" label="Box [015563980498881910530]" altrender="box">17</container>
               <unittitle>Law School Library Advisory Committee</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">17</container>
+              <container type="box" label="Box [015563980498881910530]" altrender="box">17</container>
               <unittitle>Law School: Committee on Tenure Procedures</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">17</container>
+              <container type="box" label="Box [015563980498881910530]" altrender="box">17</container>
               <unittitle>Law School Summer Institute (Taxation) of Business Enterprise) <unitdate type="inclusive" normal="1951">1951</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">17</container>
+              <container type="box" label="Box [015563980498881910530]" altrender="box">17</container>
               <unittitle>Phoenix Project Faculty Committee.</unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">17</container>
+            <container type="box" label="Box [015563980498881910530]" altrender="box">17</container>
             <unittitle>Visiting Professor, University of Arizona</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">17</container>
+            <container type="box" label="Box [015563980498881910530]" altrender="box">17</container>
             <unittitle>Earlham College Alumni matters</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">18</container>
+            <container type="box" label="Box [560988044195197]" altrender="box">18</container>
             <unittitle>Lutheran Educational Conference of North America: Commission on the Future</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">18</container>
+            <container type="box" label="Box [560988044195197]" altrender="box">18</container>
             <unittitle>Proposed Journal on Law Reform (University of Michigan)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">18</container>
+            <container type="box" label="Box [560988044195197]" altrender="box">18</container>
             <unittitle>Heidelberg University: Honorary Degree <unitdate type="inclusive" normal="1970">1970</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">18</container>
+            <container type="box" label="Box [560988044195197]" altrender="box">18</container>
             <unittitle>Michigan Constitutional Convention <unitdate type="inclusive" normal="1962">1962</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">18</container>
+            <container type="box" label="Box [560988044195197]" altrender="box">18</container>
             <unittitle>Legal memoranda and private case material <unitdate type="inclusive" normal="1930">1930</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">18</container>
+            <container type="box" label="Box [560988044195197]" altrender="box">18</container>
             <unittitle>Wayne County Law Practice <unitdate type="inclusive" normal="1931/1932">1931-1932</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">18</container>
+            <container type="box" label="Box [560988044195197]" altrender="box">18</container>
             <unittitle>New York State Bar Examinations course <unitdate type="inclusive" normal="1935">1935</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">18</container>
+            <container type="box" label="Box [560988044195197]" altrender="box">18</container>
             <unittitle>Motor carrier transport cases</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">19</container>
+            <container type="box" label="Box [1479537451238643605719]" altrender="box">19</container>
             <unittitle>Committee on Education for Professional Responsibility</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">19</container>
+            <container type="box" label="Box [1479537451238643605719]" altrender="box">19</container>
             <unittitle>Ann Arbor Fair Housing Ordinance</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">19</container>
+            <container type="box" label="Box [1479537451238643605719]" altrender="box">19</container>
             <unittitle>Michigan Civil Rights Commission</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">19</container>
+            <container type="box" label="Box [1479537451238643605719]" altrender="box">19</container>
             <unittitle>Federal Civil Rights Legislation</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">19</container>
+            <container type="box" label="Box [1479537451238643605719]" altrender="box">19</container>
             <unittitle>Proposed Commission on Religion and Public Education</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">19</container>
+            <container type="box" label="Box [1479537451238643605719]" altrender="box">19</container>
             <unittitle>University of Michigan. Faculty Committee on Teaching Methods</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">19</container>
+            <container type="box" label="Box [1479537451238643605719]" altrender="box">19</container>
             <unittitle>University of Michigan. Law School: Editorial Committee</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">19</container>
+            <container type="box" label="Box [1479537451238643605719]" altrender="box">19</container>
             <unittitle>Michigan Aid to Dependent Children of Unemployed Act</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">19</container>
+            <container type="box" label="Box [1479537451238643605719]" altrender="box">19</container>
             <unittitle>Federal legislation to limit state taxing power</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">19</container>
+            <container type="box" label="Box [1479537451238643605719]" altrender="box">19</container>
             <unittitle>Michigan State College name change</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">19</container>
+            <container type="box" label="Box [1479537451238643605719]" altrender="box">19</container>
             <unittitle>Clardy Committee investigating University of Michigan faculty</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">19</container>
+            <container type="box" label="Box [1479537451238643605719]" altrender="box">19</container>
             <unittitle>Taxation materials and cases</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">19</container>
+            <container type="box" label="Box [1479537451238643605719]" altrender="box">19</container>
             <unittitle>University of Michigan. Law School Case Clubs</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">19</container>
+            <container type="box" label="Box [1479537451238643605719]" altrender="box">19</container>
             <unittitle>University of Michigan. Committee for Referral</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">19</container>
+            <container type="box" label="Box [1479537451238643605719]" altrender="box">19</container>
             <unittitle>Constitutional Law: Miscellaneous clippings, speeches, etc.</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">19</container>
+            <container type="box" label="Box [1479537451238643605719]" altrender="box">19</container>
             <unittitle>Lobbying Act Amendments <unitdate type="inclusive" normal="1955/1957">1955-1957</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">19</container>
+            <container type="box" label="Box [1479537451238643605719]" altrender="box">19</container>
             <unittitle>American Enterprise Institute</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">19</container>
+            <container type="box" label="Box [1479537451238643605719]" altrender="box">19</container>
             <unittitle>Proposal to establish Federal Voting Age Standard</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">19</container>
+            <container type="box" label="Box [1479537451238643605719]" altrender="box">19</container>
             <unittitle>Proposal regarding teaching of creation in public schools</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">19</container>
+            <container type="box" label="Box [1479537451238643605719]" altrender="box">19</container>
             <unittitle>Proposal regarding tax credits for private school payment</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">19</container>
+            <container type="box" label="Box [1479537451238643605719]" altrender="box">19</container>
             <unittitle>Proposal regarding property tax and education financing</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">19</container>
+            <container type="box" label="Box [1479537451238643605719]" altrender="box">19</container>
             <unittitle>Campus demonstrators <unitdate type="inclusive" normal="1960/1969" certainty="approximate">1960s</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">19</container>
+            <container type="box" label="Box [1479537451238643605719]" altrender="box">19</container>
             <unittitle>Proposal to Limit Habeus Corpus as Post-Conviction remedy, 1972.</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">19</container>
+            <container type="box" label="Box [1479537451238643605719]" altrender="box">19</container>
             <unittitle>Committee on Academic Standards and Incentives <unitdate type="inclusive" normal="1969/1970">1969-1970</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">20</container>
+            <container type="box" label="Box [96615503401903392944]" altrender="box">20</container>
             <unittitle>American Association of Law Schools: Orientation Program in American Law</unittitle>
           </did>
         </c02>
@@ -671,89 +671,80 @@ Paul G. Kauper Papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">20</container>
+              <container type="box" label="Box [96615503401903392944]" altrender="box">20</container>
               <unittitle>Law School Round Table Programs</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">20</container>
+              <container type="box" label="Box [96615503401903392944]" altrender="box">20</container>
               <unittitle>Calendar Revision <unitdate type="inclusive" normal="1967">1967</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">20</container>
+              <container type="box" label="Box [96615503401903392944]" altrender="box">20</container>
               <unittitle>War Lectures Committee</unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">20</container>
+            <container type="box" label="Box [96615503401903392944]" altrender="box">20</container>
             <unittitle>State Board of Education (Powers of)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">20</container>
+            <container type="box" label="Box [96615503401903392944]" altrender="box">20</container>
             <unittitle>University of Michigan. Law School: Special Admissions Policy</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">20</container>
+            <container type="box" label="Box [96615503401903392944]" altrender="box">20</container>
             <unittitle>U.S. Senate Committee on Termination of National Emergency</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">20</container>
+            <container type="box" label="Box [96615503401903392944]" altrender="box">20</container>
             <unittitle>A.A.L.S.: Committee on Supreme Court Decisions <unitdate type="inclusive" normal="1967/1968">1967-1968</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">20</container>
+            <container type="box" label="Box [96615503401903392944]" altrender="box">20</container>
             <unittitle>Limiting the powers of the President</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">20</container>
+            <container type="box" label="Box [96615503401903392944]" altrender="box">20</container>
             <unittitle>Miscellaneous</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">21</container>
+            <container type="box" label="Box [69357094962884589810]" altrender="box">21</container>
             <unittitle>Comparative Law materials</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">21</container>
+            <container type="box" label="Box [69357094962884589810]" altrender="box">21</container>
             <unittitle>Reprints and copies of articles</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">22</container>
+            <container type="box" label="Box [989340643739355676885]" altrender="box">22</container>
             <unittitle>Topical files concerning Lutheran Church and church-state legal matters</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">23</container>
-            <unittitle>Topical files concerning Lutheran Church and church-state legal matters</unittitle>
-          </did>
-          <odd>
-            <p>(continued)</p>
-          </odd>
-        </c02>
-        <c02 level="file">
-          <did>
-            <container type="box" label="Box">24</container>
+            <container type="box" label="Box [6148964529768166874]" altrender="box">23</container>
             <unittitle>Topical files concerning Lutheran Church and church-state legal matters</unittitle>
           </did>
           <odd>
@@ -762,7 +753,7 @@ Paul G. Kauper Papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">25</container>
+            <container type="box" label="Box [468717642451863796192633]" altrender="box">24</container>
             <unittitle>Topical files concerning Lutheran Church and church-state legal matters</unittitle>
           </did>
           <odd>
@@ -771,7 +762,16 @@ Paul G. Kauper Papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">26</container>
+            <container type="box" label="Box [47034312934596122779]" altrender="box">25</container>
+            <unittitle>Topical files concerning Lutheran Church and church-state legal matters</unittitle>
+          </did>
+          <odd>
+            <p>(continued)</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box" label="Box [660973001423862703]" altrender="box">26</container>
             <unittitle>Topical files concerning Lutheran Church and church-state legal matters</unittitle>
           </did>
           <odd>
@@ -788,13 +788,13 @@ Paul G. Kauper Papers, Bentley Historical Library, University of Michigan</p>
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">27</container>
+            <container type="box" label="Box [513747893012766569]" altrender="box">27</container>
             <unittitle>Speech and conference files</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">28</container>
+            <container type="box" label="Box [369931469382244561]" altrender="box">28</container>
             <unittitle>Speech and conference files</unittitle>
           </did>
           <odd>
@@ -803,19 +803,19 @@ Paul G. Kauper Papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">29</container>
+            <container type="box" label="Box [07491744505969622273]" altrender="box">29</container>
             <unittitle>Manuscripts of writings</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">30</container>
+            <container type="box" label="Box [44084797813496]" altrender="box">30</container>
             <unittitle>Manuscripts of writings</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">30</container>
+            <container type="box" label="Box [44084797813496]" altrender="box">30</container>
             <unittitle>Book reviews</unittitle>
           </did>
         </c02>
@@ -833,14 +833,14 @@ Paul G. Kauper Papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">31</container>
+              <container type="box" label="Box [340029405318306]" altrender="box">31</container>
               <unittitle>General correspondence, reports, recommendations, and membership</unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">31</container>
+            <container type="box" label="Box [340029405318306]" altrender="box">31</container>
             <unittitle>Ann Arbor Citizens' Council, Executive Board <unitdate type="inclusive" normal="1955/1957">1955-1957</unitdate></unittitle>
           </did>
         </c02>
@@ -850,37 +850,37 @@ Paul G. Kauper Papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">31</container>
+              <container type="box" label="Box [340029405318306]" altrender="box">31</container>
               <unittitle>Drafts and final reports</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">31</container>
+              <container type="box" label="Box [340029405318306]" altrender="box">31</container>
               <unittitle>Memoranda</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">31</container>
+              <container type="box" label="Box [340029405318306]" altrender="box">31</container>
               <unittitle>Newspaper and magazine clippings</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">31</container>
+              <container type="box" label="Box [340029405318306]" altrender="box">31</container>
               <unittitle>Official notices, agenda, and minutes of meetings</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">31</container>
+              <container type="box" label="Box [340029405318306]" altrender="box">31</container>
               <unittitle>Reports of testimony</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">31</container>
+              <container type="box" label="Box [340029405318306]" altrender="box">31</container>
               <unittitle>Personal notes</unittitle>
             </did>
           </c03>
@@ -891,19 +891,19 @@ Paul G. Kauper Papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">32</container>
+              <container type="box" label="Box [35183075408531370238]" altrender="box">32</container>
               <unittitle>Reports</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">32</container>
+              <container type="box" label="Box [35183075408531370238]" altrender="box">32</container>
               <unittitle>Correspondence and notes</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">32</container>
+              <container type="box" label="Box [35183075408531370238]" altrender="box">32</container>
               <unittitle>Miscellaneous matters</unittitle>
             </did>
           </c03>
@@ -919,7 +919,7 @@ Paul G. Kauper Papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">33</container>
+              <container type="box" label="Box [8213364284274095]" altrender="box">33</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1962/1963">1962-1963</unitdate>
               </unittitle>
@@ -927,7 +927,7 @@ Paul G. Kauper Papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">33</container>
+              <container type="box" label="Box [8213364284274095]" altrender="box">33</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1971">1971</unitdate>
               </unittitle>
@@ -935,7 +935,7 @@ Paul G. Kauper Papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">33</container>
+              <container type="box" label="Box [8213364284274095]" altrender="box">33</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1972">1972</unitdate>
               </unittitle>
@@ -943,7 +943,7 @@ Paul G. Kauper Papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">33</container>
+              <container type="box" label="Box [8213364284274095]" altrender="box">33</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1973">1973</unitdate>
               </unittitle>
@@ -956,7 +956,7 @@ Paul G. Kauper Papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">33</container>
+              <container type="box" label="Box [8213364284274095]" altrender="box">33</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1956">Spring 1956</unitdate>
               </unittitle>
@@ -964,7 +964,7 @@ Paul G. Kauper Papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">33</container>
+              <container type="box" label="Box [8213364284274095]" altrender="box">33</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1962">Spring 1962</unitdate>
               </unittitle>
@@ -972,7 +972,7 @@ Paul G. Kauper Papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">33</container>
+              <container type="box" label="Box [8213364284274095]" altrender="box">33</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1963">Spring 1963</unitdate>
               </unittitle>
@@ -980,7 +980,7 @@ Paul G. Kauper Papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">33</container>
+              <container type="box" label="Box [8213364284274095]" altrender="box">33</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1968">Winter 1968</unitdate>
               </unittitle>
@@ -988,7 +988,7 @@ Paul G. Kauper Papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">33</container>
+              <container type="box" label="Box [8213364284274095]" altrender="box">33</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1968">Fall 1968</unitdate>
               </unittitle>
@@ -996,7 +996,7 @@ Paul G. Kauper Papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">33</container>
+              <container type="box" label="Box [8213364284274095]" altrender="box">33</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1970">Winter 1970</unitdate>
               </unittitle>
@@ -1004,7 +1004,7 @@ Paul G. Kauper Papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">33</container>
+              <container type="box" label="Box [8213364284274095]" altrender="box">33</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1970">Fall 1970</unitdate>
               </unittitle>
@@ -1012,7 +1012,7 @@ Paul G. Kauper Papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">33</container>
+              <container type="box" label="Box [8213364284274095]" altrender="box">33</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1972">Winter 1972</unitdate>
               </unittitle>
@@ -1023,7 +1023,7 @@ Paul G. Kauper Papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">33</container>
+              <container type="box" label="Box [8213364284274095]" altrender="box">33</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1973">Winter 1973</unitdate>
               </unittitle>
@@ -1031,7 +1031,7 @@ Paul G. Kauper Papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">33</container>
+              <container type="box" label="Box [8213364284274095]" altrender="box">33</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1974">Winter 1974</unitdate>
               </unittitle>
@@ -1044,7 +1044,7 @@ Paul G. Kauper Papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">34</container>
+              <container type="box" label="Box [62299927462872597]" altrender="box">34</container>
               <unittitle>Notes I-A</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -1053,7 +1053,7 @@ Paul G. Kauper Papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">34</container>
+              <container type="box" label="Box [62299927462872597]" altrender="box">34</container>
               <unittitle>Notes I-B</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -1062,7 +1062,7 @@ Paul G. Kauper Papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">34</container>
+              <container type="box" label="Box [62299927462872597]" altrender="box">34</container>
               <unittitle>Notes II-A</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -1071,7 +1071,7 @@ Paul G. Kauper Papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">34</container>
+              <container type="box" label="Box [62299927462872597]" altrender="box">34</container>
               <unittitle>Old Notes-Part 11</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">4 folders</extent>
@@ -1080,61 +1080,61 @@ Paul G. Kauper Papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">34</container>
+              <container type="box" label="Box [62299927462872597]" altrender="box">34</container>
               <unittitle>Outlines <unitdate type="inclusive" normal="1952">1952</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">34</container>
+              <container type="box" label="Box [62299927462872597]" altrender="box">34</container>
               <unittitle>Seminar, <unitdate type="inclusive" normal="1949">Spring 1949</unitdate></unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">34</container>
+            <container type="box" label="Box [62299927462872597]" altrender="box">34</container>
             <unittitle>Municipal Corporations-I</unittitle>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">34</container>
+              <container type="box" label="Box [62299927462872597]" altrender="box">34</container>
               <unittitle>Outline</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">34</container>
+              <container type="box" label="Box [62299927462872597]" altrender="box">34</container>
               <unittitle>Notes-Chapters 1-3</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">34</container>
+              <container type="box" label="Box [62299927462872597]" altrender="box">34</container>
               <unittitle>Notes-Vol. II</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">34</container>
+              <container type="box" label="Box [62299927462872597]" altrender="box">34</container>
               <unittitle>Municipal Contracts</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">34</container>
+              <container type="box" label="Box [62299927462872597]" altrender="box">34</container>
               <unittitle>Municipal Funds</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">35</container>
+              <container type="box" label="Box [46030474519316026657229]" altrender="box">35</container>
               <unittitle>Municipal Indebtedness</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">35</container>
+              <container type="box" label="Box [46030474519316026657229]" altrender="box">35</container>
               <unittitle>Municipal Tort Liability</unittitle>
             </did>
           </c03>
@@ -1145,13 +1145,13 @@ Paul G. Kauper Papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">35</container>
+              <container type="box" label="Box [46030474519316026657229]" altrender="box">35</container>
               <unittitle>Outline</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">35</container>
+              <container type="box" label="Box [46030474519316026657229]" altrender="box">35</container>
               <unittitle>Notes</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -1165,7 +1165,7 @@ Paul G. Kauper Papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">35</container>
+              <container type="box" label="Box [46030474519316026657229]" altrender="box">35</container>
               <unittitle>Outline</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">4 folders</extent>
@@ -1174,7 +1174,7 @@ Paul G. Kauper Papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">35</container>
+              <container type="box" label="Box [46030474519316026657229]" altrender="box">35</container>
               <unittitle>Outline <unitdate type="inclusive" normal="1955">1955</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -1184,7 +1184,7 @@ Paul G. Kauper Papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">35</container>
+            <container type="box" label="Box [46030474519316026657229]" altrender="box">35</container>
             <unittitle>Miscellaneous Notes</unittitle>
           </did>
         </c02>
@@ -1194,7 +1194,7 @@ Paul G. Kauper Papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">35</container>
+              <container type="box" label="Box [46030474519316026657229]" altrender="box">35</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1952">Spring 1952</unitdate>
               </unittitle>
@@ -1202,7 +1202,7 @@ Paul G. Kauper Papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">35</container>
+              <container type="box" label="Box [46030474519316026657229]" altrender="box">35</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1953">Summer 1953</unitdate>
               </unittitle>
@@ -1219,7 +1219,7 @@ Paul G. Kauper Papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">35</container>
+            <container type="box" label="Box [46030474519316026657229]" altrender="box">35</container>
             <unittitle>
               <unitdate type="inclusive" normal="1967">1967</unitdate>
             </unittitle>
@@ -1227,7 +1227,7 @@ Paul G. Kauper Papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">35</container>
+            <container type="box" label="Box [46030474519316026657229]" altrender="box">35</container>
             <unittitle>
               <unitdate type="inclusive" normal="1974">1974</unitdate>
             </unittitle>
@@ -1240,8 +1240,10 @@ Paul G. Kauper Papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">35</container>
-            <unittitle>OPAL (drafts of panel discussions) <unitdate type="inclusive" normal="1965">1965</unitdate>, <unitdate type="inclusive">undated</unitdate></unittitle>
+            <container type="box" label="Box [46030474519316026657229]" altrender="box">35</container>
+            <unittitle>OPAL (drafts of panel discussions)</unittitle>
+            <unitdate type="inclusive" normal="1965">1965</unitdate>
+            <unitdate type="inclusive">undated</unitdate>
           </did>
         </c02>
         <c02 level="file">
@@ -1250,25 +1252,25 @@ Paul G. Kauper Papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">35</container>
+              <container type="box" label="Box [46030474519316026657229]" altrender="box">35</container>
               <unittitle>"The Clayton Act-Section 5"</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">35</container>
+              <container type="box" label="Box [46030474519316026657229]" altrender="box">35</container>
               <unittitle>"The Clayton Act-Amendment 7 it</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">35</container>
+              <container type="box" label="Box [46030474519316026657229]" altrender="box">35</container>
               <unittitle>"The Permissible Scope of FTC....</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">35</container>
+              <container type="box" label="Box [46030474519316026657229]" altrender="box">35</container>
               <unittitle>"Possible Laws vs. Moral and Religious Laws</unittitle>
             </did>
           </c03>
@@ -1279,25 +1281,25 @@ Paul G. Kauper Papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">35</container>
+              <container type="box" label="Box [46030474519316026657229]" altrender="box">35</container>
               <unittitle>"Civil Right-Current Perspective"</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">35</container>
+              <container type="box" label="Box [46030474519316026657229]" altrender="box">35</container>
               <unittitle>"Constitutionalization of Criminal Procedure"</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">35</container>
+              <container type="box" label="Box [46030474519316026657229]" altrender="box">35</container>
               <unittitle>"Legislative Department-Article No. 1"</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">35</container>
+              <container type="box" label="Box [46030474519316026657229]" altrender="box">35</container>
               <unittitle>"Liberty of Mind"</unittitle>
             </did>
           </c03>
@@ -1309,7 +1311,7 @@ Paul G. Kauper Papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">36</container>
+            <container type="box" label="Box [55152421496939292305]" altrender="box">36</container>
             <unittitle>
               <unitdate type="inclusive" normal="1923/1934">1923-1934</unitdate>
               <unitdate type="inclusive" normal="1939/1940">1939-1940</unitdate>
@@ -1318,7 +1320,7 @@ Paul G. Kauper Papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">37</container>
+            <container type="box" label="Box [234965454699477559176]" altrender="box">37</container>
             <unittitle>
               <unitdate type="inclusive" normal="1943/1973">1943-1973</unitdate>
             </unittitle>
@@ -1331,7 +1333,7 @@ Paul G. Kauper Papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">37</container>
+            <container type="box" label="Box [234965454699477559176]" altrender="box">37</container>
             <unittitle>
               <unitdate type="inclusive" normal="1930/1969" certainty="approximate">1930s-1960s</unitdate>
             </unittitle>
@@ -1350,7 +1352,7 @@ Paul G. Kauper Papers, Bentley Historical Library, University of Michigan</p>
         </odd>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">38</container>
+            <container type="box" label="Box [3133025323447814093322683]" altrender="box">38</container>
             <unittitle>
               <unitdate type="inclusive" normal="1930/1956">1930-1956</unitdate>
             </unittitle>
@@ -1358,7 +1360,7 @@ Paul G. Kauper Papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">39</container>
+            <container type="box" label="Box [85327041632871654]" altrender="box">39</container>
             <unittitle>
               <unitdate type="inclusive" normal="1957/1963">1957-1963</unitdate>
             </unittitle>
@@ -1366,7 +1368,7 @@ Paul G. Kauper Papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">40</container>
+            <container type="box" label="Box [86605244304870054]" altrender="box">40</container>
             <unittitle>
               <unitdate type="inclusive" normal="1964/1971">1964-1971</unitdate>
             </unittitle>
@@ -1374,7 +1376,7 @@ Paul G. Kauper Papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">41</container>
+            <container type="box" label="Box [298089346812098348382034]" altrender="box">41</container>
             <unittitle>
               <unitdate type="inclusive" normal="1972/1973">1972-1973</unitdate>
             </unittitle>
@@ -1387,13 +1389,13 @@ Paul G. Kauper Papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">41</container>
+            <container type="box" label="Box [298089346812098348382034]" altrender="box">41</container>
             <unittitle>University of Michigan Lutheran Student Association</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">41</container>
+            <container type="box" label="Box [298089346812098348382034]" altrender="box">41</container>
             <unittitle>Zion Lutheran Church (Ann Arbor, Mich.)</unittitle>
           </did>
         </c02>
@@ -1404,7 +1406,7 @@ Paul G. Kauper Papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">42</container>
+            <container type="box" label="Box [3425583216441778085330]" altrender="box">42</container>
             <unittitle>
               <unitdate type="inclusive" normal="1940/1979" certainty="approximate">1940s-1970s</unitdate>
             </unittitle>
@@ -1427,7 +1429,7 @@ Paul G. Kauper Papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">42</container>
+              <container type="box" label="Box [3425583216441778085330]" altrender="box">42</container>
               <unittitle>audio tapes</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 tapes</extent>
@@ -1436,7 +1438,7 @@ Paul G. Kauper Papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">42</container>
+              <container type="box" label="Box [3425583216441778085330]" altrender="box">42</container>
               <unittitle>CD copies of tapes</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">10 optical disks</extent>
@@ -1448,7 +1450,7 @@ Paul G. Kauper Papers, Bentley Historical Library, University of Michigan</p>
       </c01>
       <c01 level="series">
         <did>
-          <container type="box" label="Box">42</container>
+          <container type="box" label="Box [3425583216441778085330]" altrender="box">42</container>
           <unittitle>Photographs</unittitle>
         </did>
         <scopecontent>

@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Benjamin Sawtell Hanchett Papers, 1858 and 1888-1958</titleproper>
       <author>Finding aid created by <lb/>Michigan Historical Collections staff</author>
     </titlepage>
@@ -37,7 +37,10 @@
       <origination>
         <persname source="lcnaf" encodinganalog="100">Hanchett, Benjamin Sawtell, 1868-1933.</persname>
       </origination>
-      <unittitle encodinganalog="245">Benjamin Sawtell Hanchett Papers <unitdate type="inclusive" encodinganalog="245$f" normal="1858">1858</unitdate>, <unitdate type="inclusive" encodinganalog="245$f" normal="1888/1958">1888-1958</unitdate>, <unitdate type="bulk" encodinganalog="245$g" normal="1888/1931">1888-1931</unitdate></unittitle>
+      <unittitle encodinganalog="245">Benjamin Sawtell Hanchett Papers</unittitle>
+      <unitdate type="inclusive" encodinganalog="245$f" normal="1858">1858</unitdate>
+      <unitdate type="inclusive" encodinganalog="245$f" normal="1888/1958">1888-1958</unitdate>
+      <unitdate type="bulk" encodinganalog="245$g" normal="1888/1931">1888-1931</unitdate>
       <unitid encodinganalog="852$h" repositorycode="MiU-H" countrycode="us" type="call number">851397 Aa 2</unitid>
       <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language></langmaterial>
       <abstract>Correspondence relating to politics and his activities as regent of the University of Michigan; also material concerning the depression and impact of the New Deal on agriculture in Michigan.</abstract>
@@ -80,14 +83,14 @@ Benjamin Sawtell Hanchett Papers, Bentley Historical Library, University of Mich
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <subject source="lcsh" encodinganalog="650">Agriculture--Michigan.</subject>
-        <subject source="lcsh" encodinganalog="650">Depressions--1929--Michigan.</subject>
-        <subject source="lcsh" encodinganalog="650">Farmers--Michigan--Grand Rapids.</subject>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n79133151.html">Grand Rapids (Mich.)</geogname>
-        <subject source="lcsh" encodinganalog="650">New Deal, 1933-1939--Michigan.</subject>
-        <subject source="lcsh" encodinganalog="650">Railroads--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6033">Agriculture--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5941">Depressions--1929--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/8102">Farmers--Michigan--Grand Rapids.</subject>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n79133151.html" ref="/subjects/1102">Grand Rapids (Mich.)</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5942">New Deal, 1933-1939--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6680">Railroads--Michigan.</subject>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/nr89016998">University of Michigan. Board of Regents.</corpname>
-        <geogname source="lcsh" encodinganalog="651">United States--Politics and government--1901-1953.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1633">United States--Politics and government--1901-1953.</geogname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan. President.</corpname>
         <corpname source="lcnaf" encodinganalog="610">Grand Rapids Railway Company.</corpname>
       </controlaccess>
@@ -116,7 +119,7 @@ Benjamin Sawtell Hanchett Papers, Bentley Historical Library, University of Mich
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6057564743595143230]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1888/1922">1888-1922</unitdate>
             </unittitle>
@@ -127,7 +130,7 @@ Benjamin Sawtell Hanchett Papers, Bentley Historical Library, University of Mich
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [6981834446487793094123867]" altrender="box">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1923/1931">1923-1931</unitdate>
               <unitdate type="inclusive">undated</unitdate>
@@ -139,8 +142,10 @@ Benjamin Sawtell Hanchett Papers, Bentley Historical Library, University of Mich
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
-            <unittitle>Family correspondence <unitdate type="inclusive" normal="1858">1858</unitdate>, <unitdate type="inclusive" normal="1935/1958">1935-1958</unitdate></unittitle>
+            <container type="box" label="Box [6981834446487793094123867]" altrender="box">2</container>
+            <unittitle>Family correspondence</unittitle>
+            <unitdate type="inclusive" normal="1858">1858</unitdate>
+            <unitdate type="inclusive" normal="1935/1958">1935-1958</unitdate>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
             </physdesc>
@@ -153,37 +158,37 @@ Benjamin Sawtell Hanchett Papers, Bentley Historical Library, University of Mich
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [6981834446487793094123867]" altrender="box">2</container>
             <unittitle>Young Men's Christian Association</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [6981834446487793094123867]" altrender="box">2</container>
             <unittitle>Grand Rapids Country Club</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [6981834446487793094123867]" altrender="box">2</container>
             <unittitle>Market Administration, National Recovery Administration, etc.</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [6981834446487793094123867]" altrender="box">2</container>
             <unittitle>War Food Administration, Commodity Price Corporation</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [6981834446487793094123867]" altrender="box">2</container>
             <unittitle>Code Authority, Wheat Flour Milling Industry</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [18507949153591232743714]" altrender="box">3</container>
             <unittitle>Indentures, and miscellaneous legal and financial materials</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">13 folders</extent>
@@ -192,13 +197,13 @@ Benjamin Sawtell Hanchett Papers, Bentley Historical Library, University of Mich
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [18507949153591232743714]" altrender="box">3</container>
             <unittitle>Newspaper clippings</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [18507949153591232743714]" altrender="box">3</container>
             <unittitle>Printed miscellanea</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -207,25 +212,25 @@ Benjamin Sawtell Hanchett Papers, Bentley Historical Library, University of Mich
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [18507949153591232743714]" altrender="box">3</container>
             <unittitle>Jenison family miscellanea</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [18507949153591232743714]" altrender="box">3</container>
             <unittitle>Miscellanea (largely University of Michigan related</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [18507949153591232743714]" altrender="box">3</container>
             <unittitle>Photographs (mainly unidentified)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [18507949153591232743714]" altrender="box">3</container>
             <unittitle>Letterbooks containing copies of letters to employees (of Grand Rapids Railway Co.), other business communications, etc. <unitdate type="inclusive" normal="1892/1895">1892-1895</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 volumes</extent>
@@ -234,7 +239,7 @@ Benjamin Sawtell Hanchett Papers, Bentley Historical Library, University of Mich
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [18507949153591232743714]" altrender="box">3</container>
             <unittitle>Letterbook containing copies of letters (mainly non-business) <unitdate type="inclusive" normal="1893/1897">1893-1897</unitdate></unittitle>
           </did>
         </c02>

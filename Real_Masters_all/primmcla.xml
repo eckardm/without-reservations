@@ -31,7 +31,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Clarence J. Primm papers, 1918-1951</titleproper>
       <author>Finding aid created by <lb/>Len Coombs, 2010</author>
     </titlepage>
@@ -88,8 +88,8 @@
       <controlaccess>
         <head>Subjects:</head>
         <persname source="lcnaf" encodinganalog="600">Primm, Clarence J., 1886-1957.</persname>
-        <geogname source="lcnaf" encodinganalog="651.">Soviet Union--History--Allied intervention, 1918-1920.</geogname>
-        <subject source="lcsh" encodinganalog="650">World War, 1914-1918.</subject>
+        <geogname source="lcnaf" encodinganalog="651." ref="/subjects/760">Soviet Union--History--Allied intervention, 1918-1920.</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5712">World War, 1914-1918.</subject>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n82129076">United States. Army. Infantry, 339th.</corpname>
         <corpname encodinganalog="690" source="lcnaf" authfilenumber="http://id.loc.gov/authorities/names/n2008059426">Polar Bear Expedition.</corpname>
       </controlaccess>
@@ -101,7 +101,7 @@
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [6756834861904382051585]" altrender="box">1</container>
             <unittitle>Volume: "Polar Bear Tales"</unittitle>
           </did>
           <odd>
@@ -110,12 +110,12 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="folder" label="Folder">1</container>
+            <container type="folder" label="Folder [205344086161120]" altrender="folder">1</container>
             <unittitle>Digitized "Polar Bear Tales"</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">15 digital files</extent>
             </physdesc>
-            <dao show="new" actuate="onrequest" href="primm0001">
+            <dao show="new" actuate="onRequest" href="primm0001" ref="/repositories/2/digital_objects/8512">
               <daodesc>
                 <p>[view items]</p>
               </daodesc>

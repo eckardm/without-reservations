@@ -34,7 +34,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding Aid for <lb/>Hubert N. Robinson Papers, <date type="inclusive">1948-1984</date></titleproper>
       <author>Finding aid prepared by: <lb/>Chris Leonard</author>
     </titlepage>
@@ -88,23 +88,23 @@
       <controlaccess>
         <head>Subjects:</head>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n80060458">African Methodist Episcopal Church.</corpname>
-        <subject source="lcsh" encodinganalog="650">African Americans--Michigan.</subject>
-        <subject source="lcsh" encodinganalog="650">Clergy--United States.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5756">African Americans--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6369">Clergy--United States.</subject>
         <persname source="lcnaf">Robinson, Hubert Nelson, 1909-</persname>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Material:</head>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n80060458">African Methodist Episcopal Church.</corpname>
-        <subject source="lcsh" encodinganalog="650">African Americans--Spiritual life.</subject>
-        <subject source="lctgm" encodinganalog="650">Clergymen.</subject>
-        <subject source="lctgm" encodinganalog="650">Graduation ceremonies.</subject>
-        <subject source="lctgm" encodinganalog="650">Religious services.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/9897">African Americans--Spiritual life.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3741">Clergymen.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3767">Graduation ceremonies.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4260">Religious services.</subject>
         <persname source="lcnaf">Robinson, Hubert Nelson, 1909-</persname>
-        <geogname source="lcsh" encodinganalog="651">South Africa.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/2760">South Africa.</geogname>
       </controlaccess>
       <controlaccess>
         <head>Genre/Form:</head>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -117,7 +117,7 @@
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [23016483207406023]" altrender="box">1</container>
             <unittitle>Various information</unittitle>
           </did>
         </c02>
@@ -131,7 +131,7 @@
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [23016483207406023]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1950/1984">1950-1984</unitdate>
             </unittitle>
@@ -148,7 +148,7 @@
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [23016483207406023]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1950/1959">1950-1959</unitdate>
               </unittitle>
@@ -156,7 +156,7 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [23016483207406023]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1960/1969">1960-1969</unitdate>
               </unittitle>
@@ -164,7 +164,7 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [23016483207406023]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1970/1979">1970-1979</unitdate>
               </unittitle>
@@ -172,7 +172,7 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [23016483207406023]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1980/1984">1980-1984</unitdate>
               </unittitle>
@@ -188,7 +188,7 @@
           </scopecontent>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">1</container>
+              <container type="volume" label="Oversize Volume [494936524464044954026]" altrender="volume">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1948/1953">1948-1953</unitdate>
               </unittitle>
@@ -196,7 +196,7 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">2</container>
+              <container type="volume" label="Oversize Volume [137586428374930435]" altrender="volume">2</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1953/1955">1953-1955</unitdate>
               </unittitle>
@@ -206,12 +206,12 @@
       </c01>
       <c01 level="series">
         <did>
-          <container type="box" label="Box">1</container>
+          <container type="box" label="Box [23016483207406023]" altrender="box">1</container>
           <unittitle>Programs</unittitle>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [23016483207406023]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1950/1984">1950-1984</unitdate>
             </unittitle>
@@ -224,25 +224,25 @@
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [23016483207406023]" altrender="box">1</container>
             <unittitle>Quality of life centers, 4th Episcopal District <unitdate type="inclusive" normal="1976/1984">1976-1984</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [23016483207406023]" altrender="box">1</container>
             <unittitle>Report of the ad hoc committee for corrections and/or codifications of the <unitdate normal="1980/1984" type="inclusive">1980-1984</unitdate> A.M.E. Discipline, Bishop Hubert N. Robinson, chairman</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [23016483207406023]" altrender="box">1</container>
             <unittitle>Michigan: contains booklets on <unitdate type="inclusive" normal="1982">1982</unitdate> creative arts festival, Camp Baber, and <unitdate type="inclusive" normal="1963">1963</unitdate> North Ohio Conference</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [23016483207406023]" altrender="box">1</container>
             <unittitle>National</unittitle>
           </did>
           <odd>
@@ -251,7 +251,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [23016483207406023]" altrender="box">1</container>
             <unittitle>Swaziland and Bechuanaland: Minutes and notes</unittitle>
           </did>
         </c02>
@@ -267,13 +267,13 @@
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [23016483207406023]" altrender="box">1</container>
             <unittitle>Portrait; preaching in church; receiving honorary degree</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [23016483207406023]" altrender="box">1</container>
             <unittitle>Family and friends</unittitle>
           </did>
         </c02>
@@ -284,8 +284,10 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="folder" label="Oversize Folder">UAm</container>
-            <unittitle>Bishops of A.M.E. Church <unitdate type="inclusive" normal="1980/1984">1980-1984</unitdate>, <unitdate type="inclusive" normal="1984-08">August 1984</unitdate></unittitle>
+            <container type="folder" label="Oversize Folder [6285620440669758160]" altrender="folder">UAm</container>
+            <unittitle>Bishops of A.M.E. Church</unittitle>
+            <unitdate type="inclusive" normal="1980/1984">1980-1984</unitdate>
+            <unitdate type="inclusive" normal="1984-08">August 1984</unitdate>
           </did>
         </c02>
       </c01>

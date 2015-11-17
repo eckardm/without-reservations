@@ -30,7 +30,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>University Archives and Records Program <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/2">University Archives and Records Program <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Stearns Collection of Musical Instruments <lb/>Records, 1897-1921 and 1977-2006</titleproper>
       <author>Finding aid created by <lb/>Bentley Historical Library staff</author>
     </titlepage>
@@ -40,7 +40,9 @@
       <origination>
         <corpname source="lcnaf" encodinganalog="110">Stearns Collection of Musical Instruments.</corpname>
       </origination>
-      <unittitle encodinganalog="245">Stearns Collection of Musical Instruments records <unitdate type="inclusive" encodinganalog="245$f" normal="1897/1921">1897-1921</unitdate>, <unitdate type="inclusive" encodinganalog="245$f" normal="1977/2006">1977-2006</unitdate></unittitle>
+      <unittitle encodinganalog="245">Stearns Collection of Musical Instruments records</unittitle>
+      <unitdate type="inclusive" encodinganalog="245$f" normal="1897/1921">1897-1921</unitdate>
+      <unitdate type="inclusive" encodinganalog="245$f" normal="1977/2006">1977-2006</unitdate>
       <unitid encodinganalog="852$h" repositorycode="MiU-H" countrycode="us" type="call number">87314 Bimu C450 2</unitid>
       <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language></langmaterial>
       <abstract>Records, 1897-1921,of the Stearns Collection of Musical Instruments of the University of Michigan; include correspondence and other papers relating to the development of the collection; also scrapbooks,1890's,containing illustrations of musical instruments. Correspondents include: Francis W. Kelsey, Albert A. Stanley, Frederick Stearns, Frederick Kimball Stearns, George R. Swain, Levi D. Wines, and Dean C. Worcester.</abstract>
@@ -82,8 +84,8 @@ Stearns Collection of Musical Instruments records, Bentley Historical Library, U
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <subject source="lcsh" encodinganalog="650">Music--Michigan--Ann Arbor.</subject>
-        <subject source="lcsh" encodinganalog="650">Musical instruments.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5706">Music--Michigan--Ann Arbor.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/10199">Musical instruments.</subject>
       </controlaccess>
       <controlaccess>
         <head>Contributors:</head>
@@ -96,7 +98,7 @@ Stearns Collection of Musical Instruments records, Bentley Historical Library, U
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Scrapbooks.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3139">Scrapbooks.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -110,7 +112,7 @@ Stearns Collection of Musical Instruments records, Bentley Historical Library, U
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [7204648455576893]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1897/1904">1897-1904</unitdate>
               </unittitle>
@@ -121,7 +123,7 @@ Stearns Collection of Musical Instruments records, Bentley Historical Library, U
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [7204648455576893]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1907">1907</unitdate>
               </unittitle>
@@ -129,7 +131,7 @@ Stearns Collection of Musical Instruments records, Bentley Historical Library, U
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [7204648455576893]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1920/1921">1920-1921</unitdate>
               </unittitle>
@@ -138,55 +140,55 @@ Stearns Collection of Musical Instruments records, Bentley Historical Library, U
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [7204648455576893]" altrender="box">1</container>
             <unittitle>Labels from Musical Instruments</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [7204648455576893]" altrender="box">1</container>
             <unittitle>Annual Reports</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [7204648455576893]" altrender="box">1</container>
             <unittitle>Friends of the Stearns Collection</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [7204648455576893]" altrender="box">1</container>
             <unittitle>Loan Policy</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [7204648455576893]" altrender="box">1</container>
             <unittitle>Evaluation Report on Bowed String Musical Instruments</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [7204648455576893]" altrender="box">1</container>
             <unittitle>Student Paper Describing Stearns Collection</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [7204648455576893]" altrender="box">1</container>
             <unittitle>Robert A. Warner Papers on Stearns Collection</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [7204648455576893]" altrender="box">1</container>
             <unittitle>Miscellaneous</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [7204648455576893]" altrender="box">1</container>
             <unittitle>Musical Instrument Scrapbooks, circa <unitdate type="inclusive" normal="1890/1910">1890-1910</unitdate></unittitle>
           </did>
           <odd>
@@ -200,31 +202,31 @@ Stearns Collection of Musical Instruments records, Bentley Historical Library, U
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [7204648455576893]" altrender="box">1</container>
             <unittitle>Brochures <unitdate type="inclusive">undated</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [7204648455576893]" altrender="box">1</container>
             <unittitle>Centennial Celebration: A Sketch Book <unitdate type="inclusive" normal="1999">1999</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [7204648455576893]" altrender="box">1</container>
             <unittitle><title render="italic">Research News</title> (Stearns Feature), <unitdate type="inclusive" normal="1973">1973</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [7204648455576893]" altrender="box">1</container>
             <unittitle><title render="italic">Stearns @ Hill</title>, <unitdate type="inclusive" normal="2004">Fall 2004</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [7204648455576893]" altrender="box">1</container>
             <unittitle><title render="italic">The Stearns Newsletter</title>, <unitdate type="inclusive" normal="1986/2006">1986-2006</unitdate></unittitle>
           </did>
         </c02>

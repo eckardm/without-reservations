@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Deane Baker papers, 1945-2004</titleproper>
       <author>Finding aid created by <lb/>Carrie E. Hintz, February, 2008; <lb/>Bentley Staff, 2011</author>
     </titlepage>
@@ -37,7 +37,9 @@
       <origination>
         <persname source="lcnaf" encodinganalog="100">Baker, Deane.</persname>
       </origination>
-      <unittitle encodinganalog="245">Deane Baker papers <unitdate type="inclusive" encodinganalog="245$f" normal="1945/2004">1945-2004</unitdate>, <unitdate type="bulk" encodinganalog="245$g" normal="1972/1996">1972-1996</unitdate></unittitle>
+      <unittitle encodinganalog="245">Deane Baker papers</unittitle>
+      <unitdate type="inclusive" encodinganalog="245$f" normal="1945/2004">1945-2004</unitdate>
+      <unitdate type="bulk" encodinganalog="245$g" normal="1972/1996">1972-1996</unitdate>
       <unitid encodinganalog="852$h" repositorycode="MiU-H" countrycode="us" type="call number">2008039 Aa 2 Ac</unitid>
       <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language></langmaterial>
       <abstract>Ann Arbor, Michigan businessman, Republican Regent of the University of Michigan, 1972-1996, candidate for office of United States Senator, 1976 and 1982. The collection includes Campaign and Political Files, 1964-1998, Personal Files, 1945-2004, Regental Files, 1975-1996, Photographs, and University of Michigan Presidential Search Files, 1978-1996.</abstract>
@@ -95,16 +97,16 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
       <controlaccess>
         <head>Subjects:</head>
         <persname source="lcnaf" encodinganalog="600">Baker, Deane.</persname>
-        <subject source="lcsh" encodinganalog="650">Elections--Michigan--1976.</subject>
-        <subject source="lcsh" encodinganalog="650">Elections--Michigan--1982.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5795">Elections--Michigan--1976.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5798">Elections--Michigan--1982.</subject>
         <corpname source="lcnaf" encodinganalog="610">Republican Party (Mich.)</corpname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/nr89016998">University of Michigan. Board of Regents.</corpname>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
-        <genreform source="aat" encodinganalog="655">Sound recordings.</genreform>
-        <genreform source="aat" encodinganalog="655">Videotapes.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3143">Sound recordings.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3140">Videotapes.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -117,7 +119,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [9065525046440896643821]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1964">1964</unitdate>
             </unittitle>
@@ -128,7 +130,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [9065525046440896643821]" altrender="box">1</container>
             <unittitle><unitdate type="inclusive" normal="1966">1966</unitdate> Republican Senate Nomination</unittitle>
           </did>
           <accessrestrict>
@@ -137,7 +139,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [9065525046440896643821]" altrender="box">1</container>
             <unittitle><unitdate type="inclusive" normal="1968">1968</unitdate> Nixon Campaign</unittitle>
           </did>
           <accessrestrict>
@@ -146,7 +148,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [9065525046440896643821]" altrender="box">1</container>
             <unittitle><unitdate type="inclusive" normal="1970">1970</unitdate> Regent Candidacy</unittitle>
           </did>
           <accessrestrict>
@@ -159,7 +161,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [9065525046440896643821]" altrender="box">1</container>
               <unittitle>Campaign</unittitle>
             </did>
             <accessrestrict>
@@ -168,7 +170,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [9065525046440896643821]" altrender="box">1</container>
               <unittitle>Contributions/Thank You Letters</unittitle>
             </did>
             <accessrestrict>
@@ -177,7 +179,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [9065525046440896643821]" altrender="box">1</container>
               <unittitle>Letters</unittitle>
             </did>
             <accessrestrict>
@@ -186,7 +188,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [9065525046440896643821]" altrender="box">1</container>
               <unittitle>Letters of Congratulations</unittitle>
             </did>
             <accessrestrict>
@@ -195,7 +197,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [9065525046440896643821]" altrender="box">1</container>
               <unittitle>Republican Nomination</unittitle>
             </did>
             <accessrestrict>
@@ -204,7 +206,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [9065525046440896643821]" altrender="box">1</container>
               <unittitle>Press Clippings</unittitle>
             </did>
             <accessrestrict>
@@ -213,7 +215,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [9065525046440896643821]" altrender="box">1</container>
               <unittitle>Scheduling</unittitle>
             </did>
             <accessrestrict>
@@ -227,7 +229,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [9065525046440896643821]" altrender="box">1</container>
               <unittitle>Senate Campaign</unittitle>
             </did>
             <accessrestrict>
@@ -236,7 +238,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [9065525046440896643821]" altrender="box">1</container>
               <unittitle>Senate Campaign Clippings</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">4 folders</extent>
@@ -248,7 +250,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [590931594041817002391572]" altrender="box">2</container>
               <unittitle>Senate Campaign Clippings (cont.)</unittitle>
             </did>
             <accessrestrict>
@@ -262,7 +264,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [590931594041817002391572]" altrender="box">2</container>
               <unittitle>Regent Reelection Campaign</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">4 folders</extent>
@@ -274,7 +276,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [590931594041817002391572]" altrender="box">2</container>
               <unittitle>Special Interest Groups Correspondence</unittitle>
             </did>
             <accessrestrict>
@@ -283,7 +285,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [590931594041817002391572]" altrender="box">2</container>
               <unittitle>Press Clippings</unittitle>
             </did>
             <accessrestrict>
@@ -297,7 +299,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [590931594041817002391572]" altrender="box">2</container>
               <unittitle>Senate Campaign</unittitle>
             </did>
             <accessrestrict>
@@ -306,7 +308,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [590931594041817002391572]" altrender="box">2</container>
               <unittitle>Senate Campaign Correspondence</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -318,7 +320,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [590931594041817002391572]" altrender="box">2</container>
               <unittitle>Planning and Exploratory Committee</unittitle>
             </did>
             <accessrestrict>
@@ -327,7 +329,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [590931594041817002391572]" altrender="box">2</container>
               <unittitle>Political Events</unittitle>
             </did>
             <accessrestrict>
@@ -341,7 +343,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [590931594041817002391572]" altrender="box">2</container>
               <unittitle>Campaign Finance</unittitle>
             </did>
             <accessrestrict>
@@ -354,7 +356,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [590931594041817002391572]" altrender="box">2</container>
                 <unittitle>General</unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -366,7 +368,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [590931594041817002391572]" altrender="box">2</container>
                 <unittitle>Convention</unittitle>
               </did>
               <accessrestrict>
@@ -375,7 +377,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [590931594041817002391572]" altrender="box">2</container>
                 <unittitle>College Republicans</unittitle>
               </did>
               <accessrestrict>
@@ -384,7 +386,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [590931594041817002391572]" altrender="box">2</container>
                 <unittitle>Letters of Congratulations</unittitle>
               </did>
               <accessrestrict>
@@ -393,7 +395,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [590931594041817002391572]" altrender="box">2</container>
                 <unittitle>Letters and Personal Thank Yous</unittitle>
               </did>
               <accessrestrict>
@@ -402,7 +404,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [590931594041817002391572]" altrender="box">2</container>
                 <unittitle>Lindemer, Larry</unittitle>
               </did>
               <accessrestrict>
@@ -411,7 +413,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [59241054239911127229]" altrender="box">3</container>
                 <unittitle>Pursell, Carl</unittitle>
               </did>
               <accessrestrict>
@@ -420,7 +422,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [59241054239911127229]" altrender="box">3</container>
                 <unittitle>Thank Yous and Miscellaneous</unittitle>
               </did>
               <accessrestrict>
@@ -430,7 +432,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [59241054239911127229]" altrender="box">3</container>
               <unittitle>Fund Raising</unittitle>
             </did>
             <accessrestrict>
@@ -439,7 +441,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [59241054239911127229]" altrender="box">3</container>
               <unittitle>News Releases</unittitle>
             </did>
             <accessrestrict>
@@ -448,7 +450,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [59241054239911127229]" altrender="box">3</container>
               <unittitle>Post-Convention Press Clips</unittitle>
             </did>
             <accessrestrict>
@@ -457,7 +459,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [59241054239911127229]" altrender="box">3</container>
               <unittitle>Press Clippings and Releases</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -469,7 +471,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [59241054239911127229]" altrender="box">3</container>
               <unittitle>Official Election Returns</unittitle>
             </did>
             <accessrestrict>
@@ -478,7 +480,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [59241054239911127229]" altrender="box">3</container>
               <unittitle>Questionnaires</unittitle>
             </did>
             <accessrestrict>
@@ -494,7 +496,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [59241054239911127229]" altrender="box">3</container>
               <unittitle>Gubernatorial Election, Campaign Support</unittitle>
             </did>
             <accessrestrict>
@@ -510,7 +512,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [59241054239911127229]" altrender="box">3</container>
               <unittitle>Political Correspondence</unittitle>
             </did>
             <accessrestrict>
@@ -524,7 +526,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [59241054239911127229]" altrender="box">3</container>
               <unittitle>Alumni Involvement</unittitle>
             </did>
             <accessrestrict>
@@ -533,7 +535,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [59241054239911127229]" altrender="box">3</container>
               <unittitle>Correspondence</unittitle>
             </did>
             <accessrestrict>
@@ -542,7 +544,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [59241054239911127229]" altrender="box">3</container>
               <unittitle>Fisher, Andrea</unittitle>
             </did>
             <accessrestrict>
@@ -551,7 +553,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [59241054239911127229]" altrender="box">3</container>
               <unittitle>Smith Campaign</unittitle>
             </did>
             <accessrestrict>
@@ -565,7 +567,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [59241054239911127229]" altrender="box">3</container>
               <unittitle>Campaign Finance Reports</unittitle>
             </did>
             <accessrestrict>
@@ -574,7 +576,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [59241054239911127229]" altrender="box">3</container>
               <unittitle>Correspondence</unittitle>
             </did>
             <accessrestrict>
@@ -583,7 +585,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [59241054239911127229]" altrender="box">3</container>
               <unittitle>Department of State Reports (post-election)</unittitle>
             </did>
             <accessrestrict>
@@ -592,7 +594,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [59241054239911127229]" altrender="box">3</container>
               <unittitle>Endorsements</unittitle>
             </did>
             <accessrestrict>
@@ -601,7 +603,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [59241054239911127229]" altrender="box">3</container>
               <unittitle>Support Cards</unittitle>
             </did>
             <accessrestrict>
@@ -615,7 +617,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [59241054239911127229]" altrender="box">3</container>
               <unittitle>Endorsements</unittitle>
             </did>
             <accessrestrict>
@@ -624,7 +626,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [59241054239911127229]" altrender="box">3</container>
               <unittitle>Post-Election Correspondence</unittitle>
             </did>
             <accessrestrict>
@@ -633,7 +635,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [59241054239911127229]" altrender="box">3</container>
               <unittitle>Republican Events and Correspondence</unittitle>
             </did>
             <accessrestrict>
@@ -651,7 +653,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [59241054239911127229]" altrender="box">3</container>
             <unittitle>Biography</unittitle>
           </did>
           <accessrestrict>
@@ -660,7 +662,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [59241054239911127229]" altrender="box">3</container>
             <unittitle>Air War College Thesis</unittitle>
           </did>
           <accessrestrict>
@@ -669,7 +671,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [59241054239911127229]" altrender="box">3</container>
             <unittitle>Certificates (Outsize)</unittitle>
           </did>
           <accessrestrict>
@@ -682,8 +684,9 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="item">
             <did>
-              <container type="box" label="Box">3</container>
-              <unittitle><unitdate type="inclusive" normal="1967/1972">1967-1972</unitdate>, <unitdate type="inclusive" normal="1976">1976</unitdate></unittitle>
+              <container type="box" label="Box [59241054239911127229]" altrender="box">3</container>
+              <unitdate type="inclusive" normal="1967/1972">1967-1972</unitdate>
+              <unitdate type="inclusive" normal="1976">1976</unitdate>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">5 folders</extent>
               </physdesc>
@@ -694,8 +697,9 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="item">
             <did>
-              <container type="box" label="Box">4</container>
-              <unittitle><unitdate type="inclusive" normal="1979/1987">1979-1987</unitdate>, <unitdate type="inclusive" normal="2003/2004">2003-2004</unitdate></unittitle>
+              <container type="box" label="Box [83483152442330047239]" altrender="box">4</container>
+              <unitdate type="inclusive" normal="1979/1987">1979-1987</unitdate>
+              <unitdate type="inclusive" normal="2003/2004">2003-2004</unitdate>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">12 folders</extent>
               </physdesc>
@@ -707,7 +711,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [83483152442330047239]" altrender="box">4</container>
             <unittitle>Deane Baker Scholarship <unitdate type="inclusive" normal="2000/2001">2000-2001</unitdate></unittitle>
           </did>
           <accessrestrict>
@@ -716,7 +720,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [83483152442330047239]" altrender="box">4</container>
             <unittitle>John Deane Baker <unitdate type="inclusive" normal="2004">2004</unitdate></unittitle>
           </did>
           <accessrestrict>
@@ -725,7 +729,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [83483152442330047239]" altrender="box">4</container>
             <unittitle>European Tour <unitdate type="inclusive" normal="1991/1992">1991-1992</unitdate></unittitle>
           </did>
           <accessrestrict>
@@ -734,7 +738,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [83483152442330047239]" altrender="box">4</container>
             <unittitle>Miscellaneous</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -746,8 +750,10 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
-            <unittitle>Presbyterian Church Activities <unitdate type="inclusive" normal="1970/1972">1970-1972</unitdate>, <unitdate type="inclusive" normal="1978/2002">1978-2002</unitdate></unittitle>
+            <container type="box" label="Box [83483152442330047239]" altrender="box">4</container>
+            <unittitle>Presbyterian Church Activities</unittitle>
+            <unitdate type="inclusive" normal="1970/1972">1970-1972</unitdate>
+            <unitdate type="inclusive" normal="1978/2002">1978-2002</unitdate>
           </did>
           <accessrestrict>
             <p>[ER RESTRICTED until <date type="restriction" normal="2032-07-01">July 1, 2032</date>]</p>
@@ -755,7 +761,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [83483152442330047239]" altrender="box">4</container>
             <unittitle>Hazel Littlefield Smith <unitdate type="inclusive" normal="1979/1982">1979-1982</unitdate></unittitle>
           </did>
           <accessrestrict>
@@ -764,7 +770,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [83483152442330047239]" altrender="box">4</container>
             <unittitle>Yankee Air Force <unitdate type="inclusive" normal="2003">2003</unitdate></unittitle>
           </did>
           <accessrestrict>
@@ -787,7 +793,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [22259294634923275014]" altrender="box">5</container>
               <unittitle>Jewell Cobb Tenure Controversy</unittitle>
             </did>
             <accessrestrict>
@@ -796,7 +802,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [22259294634923275014]" altrender="box">5</container>
               <unittitle>PIRGIM <unitdate type="inclusive" normal="1975/1978">1975-1978</unitdate></unittitle>
             </did>
             <accessrestrict>
@@ -805,7 +811,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [22259294634923275014]" altrender="box">5</container>
               <unittitle>Trip to Warsaw, Moscow, Cairo, Athens, Jerusalem, Rome</unittitle>
             </did>
             <accessrestrict>
@@ -821,7 +827,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [22259294634923275014]" altrender="box">5</container>
               <unittitle>China Trip</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -840,7 +846,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [22259294634923275014]" altrender="box">5</container>
               <unittitle>China Trip</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -852,7 +858,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [22259294634923275014]" altrender="box">5</container>
               <unittitle>Schreimer, Christine</unittitle>
             </did>
             <accessrestrict>
@@ -861,7 +867,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [22259294634923275014]" altrender="box">5</container>
               <unittitle>University of Michigan Hospital <unitdate type="inclusive" normal="1977/1981">1977-1981</unitdate></unittitle>
             </did>
             <accessrestrict>
@@ -877,7 +883,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [22259294634923275014]" altrender="box">5</container>
               <unittitle>Correspondence</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -889,7 +895,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [22259294634923275014]" altrender="box">5</container>
               <unittitle>Health, Education, and Welfare (HEW) Rehabilitation Act Compliance</unittitle>
             </did>
             <accessrestrict>
@@ -898,7 +904,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [22259294634923275014]" altrender="box">5</container>
               <unittitle>Office for Civil Rights (OCR)/ HEW Agreement Files</unittitle>
             </did>
             <accessrestrict>
@@ -907,7 +913,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [22259294634923275014]" altrender="box">5</container>
               <unittitle>OCR/HEW Clippings</unittitle>
             </did>
             <accessrestrict>
@@ -916,7 +922,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [22259294634923275014]" altrender="box">5</container>
               <unittitle>South Africa Divestment</unittitle>
             </did>
             <accessrestrict>
@@ -925,7 +931,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [22259294634923275014]" altrender="box">5</container>
               <unittitle>South Africa Clippings</unittitle>
             </did>
             <accessrestrict>
@@ -941,7 +947,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [22259294634923275014]" altrender="box">5</container>
               <unittitle>Art Festival</unittitle>
             </did>
             <accessrestrict>
@@ -950,7 +956,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [22259294634923275014]" altrender="box">5</container>
               <unittitle>Correspondence</unittitle>
             </did>
             <accessrestrict>
@@ -959,7 +965,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [22259294634923275014]" altrender="box">5</container>
               <unittitle>South Africa</unittitle>
             </did>
             <accessrestrict>
@@ -968,7 +974,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [22259294634923275014]" altrender="box">5</container>
               <unittitle>University Hospital</unittitle>
             </did>
             <accessrestrict>
@@ -984,7 +990,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [20917437322043019]" altrender="box">6</container>
               <unittitle>Correspondence</unittitle>
             </did>
             <accessrestrict>
@@ -993,7 +999,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [20917437322043019]" altrender="box">6</container>
               <unittitle>Stegeman/Quadrium Complex</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -1005,7 +1011,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [20917437322043019]" altrender="box">6</container>
               <unittitle>University of Michigan Salaries</unittitle>
             </did>
             <accessrestrict>
@@ -1021,7 +1027,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [20917437322043019]" altrender="box">6</container>
               <unittitle>Brickley Amendment (regarding the appointment vs. election of regents</unittitle>
             </did>
             <accessrestrict>
@@ -1030,7 +1036,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [20917437322043019]" altrender="box">6</container>
               <unittitle>Correspondence</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -1042,7 +1048,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [20917437322043019]" altrender="box">6</container>
               <unittitle>Real Estate Program</unittitle>
             </did>
             <accessrestrict>
@@ -1051,7 +1057,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [20917437322043019]" altrender="box">6</container>
               <unittitle>Replacement Hospital Project</unittitle>
             </did>
             <accessrestrict>
@@ -1067,7 +1073,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [20917437322043019]" altrender="box">6</container>
               <unittitle>Correspondence</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -1079,7 +1085,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [20917437322043019]" altrender="box">6</container>
               <unittitle>PIRGIM</unittitle>
             </did>
             <accessrestrict>
@@ -1088,7 +1094,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [20917437322043019]" altrender="box">6</container>
               <unittitle>Residence Halls</unittitle>
             </did>
             <accessrestrict>
@@ -1104,7 +1110,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [20917437322043019]" altrender="box">6</container>
               <unittitle>Correspondence</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -1116,7 +1122,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">7</container>
+              <container type="box" label="Box [751944378433413942]" altrender="box">7</container>
               <unittitle>Correspondence</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -1128,7 +1134,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">7</container>
+              <container type="box" label="Box [751944378433413942]" altrender="box">7</container>
               <unittitle>Military Research</unittitle>
             </did>
             <accessrestrict>
@@ -1137,7 +1143,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">7</container>
+              <container type="box" label="Box [751944378433413942]" altrender="box">7</container>
               <unittitle>Newspaper Clippings</unittitle>
             </did>
             <accessrestrict>
@@ -1146,7 +1152,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">7</container>
+              <container type="box" label="Box [751944378433413942]" altrender="box">7</container>
               <unittitle>PIRGIM</unittitle>
             </did>
             <accessrestrict>
@@ -1155,7 +1161,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">7</container>
+              <container type="box" label="Box [751944378433413942]" altrender="box">7</container>
               <unittitle>Sexual Orientation Policy</unittitle>
             </did>
             <accessrestrict>
@@ -1164,7 +1170,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">7</container>
+              <container type="box" label="Box [751944378433413942]" altrender="box">7</container>
               <unittitle>South Africa</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">4 folders</extent>
@@ -1183,7 +1189,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">7</container>
+              <container type="box" label="Box [751944378433413942]" altrender="box">7</container>
               <unittitle>Correspondence</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -1195,7 +1201,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">7</container>
+              <container type="box" label="Box [751944378433413942]" altrender="box">7</container>
               <unittitle>Play</unittitle>
             </did>
             <accessrestrict>
@@ -1204,7 +1210,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">7</container>
+              <container type="box" label="Box [751944378433413942]" altrender="box">7</container>
               <unittitle>Proposal C</unittitle>
             </did>
             <accessrestrict>
@@ -1213,7 +1219,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">7</container>
+              <container type="box" label="Box [751944378433413942]" altrender="box">7</container>
               <unittitle>Replacement Hospital</unittitle>
             </did>
             <accessrestrict>
@@ -1222,7 +1228,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">7</container>
+              <container type="box" label="Box [751944378433413942]" altrender="box">7</container>
               <unittitle>Replacement Hospital Program Reports</unittitle>
             </did>
             <accessrestrict>
@@ -1231,7 +1237,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">7</container>
+              <container type="box" label="Box [751944378433413942]" altrender="box">7</container>
               <unittitle>Sexual Orientation Policy</unittitle>
             </did>
             <accessrestrict>
@@ -1240,7 +1246,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">7</container>
+              <container type="box" label="Box [751944378433413942]" altrender="box">7</container>
               <unittitle>Telecommunications Project</unittitle>
             </did>
             <accessrestrict>
@@ -1256,7 +1262,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">8</container>
+              <container type="box" label="Box [16154982479340859361]" altrender="box">8</container>
               <unittitle>Correspondence</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">6 folders</extent>
@@ -1268,7 +1274,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">8</container>
+              <container type="box" label="Box [16154982479340859361]" altrender="box">8</container>
               <unittitle><title render="italic">Michigan Alumnus</title> Perspective, "In Defense of Freedom"</unittitle>
             </did>
             <accessrestrict>
@@ -1277,7 +1283,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">8</container>
+              <container type="box" label="Box [16154982479340859361]" altrender="box">8</container>
               <unittitle>Minority Students</unittitle>
             </did>
             <accessrestrict>
@@ -1286,7 +1292,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">8</container>
+              <container type="box" label="Box [16154982479340859361]" altrender="box">8</container>
               <unittitle>Naval ROTC</unittitle>
             </did>
             <accessrestrict>
@@ -1295,7 +1301,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">8</container>
+              <container type="box" label="Box [16154982479340859361]" altrender="box">8</container>
               <unittitle>PIRGIM</unittitle>
             </did>
             <accessrestrict>
@@ -1304,7 +1310,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">8</container>
+              <container type="box" label="Box [16154982479340859361]" altrender="box">8</container>
               <unittitle>SDI (Strategic Defense Initiative) Research Debate</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -1316,7 +1322,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">8</container>
+              <container type="box" label="Box [16154982479340859361]" altrender="box">8</container>
               <unittitle>Tuition Increase</unittitle>
             </did>
             <accessrestrict>
@@ -1332,7 +1338,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">9</container>
+              <container type="box" label="Box [0721023421195102378]" altrender="box">9</container>
               <unittitle>Correspondence</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">4 folders</extent>
@@ -1344,7 +1350,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">9</container>
+              <container type="box" label="Box [0721023421195102378]" altrender="box">9</container>
               <unittitle>PIRGIM</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -1356,7 +1362,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">9</container>
+              <container type="box" label="Box [0721023421195102378]" altrender="box">9</container>
               <unittitle>Regents</unittitle>
             </did>
             <accessrestrict>
@@ -1365,7 +1371,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">9</container>
+              <container type="box" label="Box [0721023421195102378]" altrender="box">9</container>
               <unittitle>Replacement Hospital</unittitle>
             </did>
             <accessrestrict>
@@ -1374,7 +1380,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">9</container>
+              <container type="box" label="Box [0721023421195102378]" altrender="box">9</container>
               <unittitle>Reserve Officers Training Corp (ROTC) Remarks</unittitle>
             </did>
             <accessrestrict>
@@ -1390,7 +1396,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">9</container>
+              <container type="box" label="Box [0721023421195102378]" altrender="box">9</container>
               <unittitle>Correspondence</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">5 folders</extent>
@@ -1402,7 +1408,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">9</container>
+              <container type="box" label="Box [0721023421195102378]" altrender="box">9</container>
               <unittitle>Black Action Movement</unittitle>
             </did>
             <accessrestrict>
@@ -1411,7 +1417,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">9</container>
+              <container type="box" label="Box [0721023421195102378]" altrender="box">9</container>
               <unittitle>Clippings</unittitle>
             </did>
             <accessrestrict>
@@ -1420,7 +1426,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">9</container>
+              <container type="box" label="Box [0721023421195102378]" altrender="box">9</container>
               <unittitle>Editorials-Racism at Michigan</unittitle>
             </did>
             <accessrestrict>
@@ -1429,7 +1435,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">9</container>
+              <container type="box" label="Box [0721023421195102378]" altrender="box">9</container>
               <unittitle>PIRGIM</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -1441,7 +1447,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">9</container>
+              <container type="box" label="Box [0721023421195102378]" altrender="box">9</container>
               <unittitle>Policy on Sexual Orientation</unittitle>
             </did>
             <accessrestrict>
@@ -1450,7 +1456,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">9</container>
+              <container type="box" label="Box [0721023421195102378]" altrender="box">9</container>
               <unittitle>South Africa (Nelson Mandela Honorary Degree)</unittitle>
             </did>
             <accessrestrict>
@@ -1459,7 +1465,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">9</container>
+              <container type="box" label="Box [0721023421195102378]" altrender="box">9</container>
               <unittitle>Weapons Research</unittitle>
             </did>
             <accessrestrict>
@@ -1475,7 +1481,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">10</container>
+              <container type="box" label="Box [931127501496287119069905]" altrender="box">10</container>
               <unittitle>Correspondence</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -1487,7 +1493,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">10</container>
+              <container type="box" label="Box [931127501496287119069905]" altrender="box">10</container>
               <unittitle>Academic Freedom (Jeane J. Kirkpatrick)</unittitle>
             </did>
             <accessrestrict>
@@ -1496,7 +1502,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">10</container>
+              <container type="box" label="Box [931127501496287119069905]" altrender="box">10</container>
               <unittitle>School of Dentistry</unittitle>
             </did>
             <accessrestrict>
@@ -1505,7 +1511,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">10</container>
+              <container type="box" label="Box [931127501496287119069905]" altrender="box">10</container>
               <unittitle>Washtenaw and Forest Property</unittitle>
             </did>
             <accessrestrict>
@@ -1521,7 +1527,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">10</container>
+              <container type="box" label="Box [931127501496287119069905]" altrender="box">10</container>
               <unittitle>Access by Federal Agencies to Recruit</unittitle>
             </did>
             <accessrestrict>
@@ -1530,7 +1536,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">10</container>
+              <container type="box" label="Box [931127501496287119069905]" altrender="box">10</container>
               <unittitle>Correspondence</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">4 folders</extent>
@@ -1542,7 +1548,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">10</container>
+              <container type="box" label="Box [931127501496287119069905]" altrender="box">10</container>
               <unittitle>Discrimination and Discriminatory Harassment Policy (U of M)</unittitle>
             </did>
             <accessrestrict>
@@ -1551,7 +1557,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">10</container>
+              <container type="box" label="Box [931127501496287119069905]" altrender="box">10</container>
               <unittitle>Michigan Daily</unittitle>
             </did>
             <accessrestrict>
@@ -1560,7 +1566,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">10</container>
+              <container type="box" label="Box [931127501496287119069905]" altrender="box">10</container>
               <unittitle>Political Correctness</unittitle>
             </did>
             <accessrestrict>
@@ -1569,7 +1575,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">10</container>
+              <container type="box" label="Box [931127501496287119069905]" altrender="box">10</container>
               <unittitle>Speeches</unittitle>
             </did>
             <accessrestrict>
@@ -1578,7 +1584,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">10</container>
+              <container type="box" label="Box [931127501496287119069905]" altrender="box">10</container>
               <unittitle>Verbatim Remarks at Regents Meetings</unittitle>
             </did>
             <accessrestrict>
@@ -1594,7 +1600,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">10</container>
+              <container type="box" label="Box [931127501496287119069905]" altrender="box">10</container>
               <unittitle>Correspondence</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -1606,7 +1612,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">11</container>
+              <container type="box" label="Box [42738114919641888118]" altrender="box">11</container>
               <unittitle>Correspondence (cont.)</unittitle>
             </did>
             <accessrestrict>
@@ -1615,7 +1621,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">11</container>
+              <container type="box" label="Box [42738114919641888118]" altrender="box">11</container>
               <unittitle>Apology to Faculty (Davis, Nickerson, Markert) fired in the <unitdate type="inclusive" normal="1950/1959" certainty="approximate">1950s</unitdate></unittitle>
             </did>
             <accessrestrict>
@@ -1624,7 +1630,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">11</container>
+              <container type="box" label="Box [42738114919641888118]" altrender="box">11</container>
               <unittitle><title render="italic">Michigan Review</title> Interview</unittitle>
             </did>
             <accessrestrict>
@@ -1633,7 +1639,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">11</container>
+              <container type="box" label="Box [42738114919641888118]" altrender="box">11</container>
               <unittitle>Political Correctness</unittitle>
             </did>
             <accessrestrict>
@@ -1642,7 +1648,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">11</container>
+              <container type="box" label="Box [42738114919641888118]" altrender="box">11</container>
               <unittitle>President's Advisory Group</unittitle>
             </did>
             <accessrestrict>
@@ -1651,7 +1657,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">11</container>
+              <container type="box" label="Box [42738114919641888118]" altrender="box">11</container>
               <unittitle>Rights and Responsibilities Statement Draft</unittitle>
             </did>
             <accessrestrict>
@@ -1667,7 +1673,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">11</container>
+              <container type="box" label="Box [42738114919641888118]" altrender="box">11</container>
               <unittitle>Correspondence</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">5 folders</extent>
@@ -1679,7 +1685,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">11</container>
+              <container type="box" label="Box [42738114919641888118]" altrender="box">11</container>
               <unittitle>George Bush Commencement</unittitle>
             </did>
             <accessrestrict>
@@ -1688,7 +1694,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">11</container>
+              <container type="box" label="Box [42738114919641888118]" altrender="box">11</container>
               <unittitle>Canceled Regents Meeting</unittitle>
             </did>
             <accessrestrict>
@@ -1697,7 +1703,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">11</container>
+              <container type="box" label="Box [42738114919641888118]" altrender="box">11</container>
               <unittitle>Discrimination and Discriminatory Conduct</unittitle>
             </did>
             <accessrestrict>
@@ -1706,7 +1712,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">11</container>
+              <container type="box" label="Box [42738114919641888118]" altrender="box">11</container>
               <unittitle>HHS Audit</unittitle>
             </did>
             <accessrestrict>
@@ -1715,7 +1721,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">12</container>
+              <container type="box" label="Box [61694404619917304]" altrender="box">12</container>
               <unittitle>Political Correctness</unittitle>
             </did>
             <accessrestrict>
@@ -1724,7 +1730,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">12</container>
+              <container type="box" label="Box [61694404619917304]" altrender="box">12</container>
               <unittitle>Political Correctness Clippings</unittitle>
             </did>
             <accessrestrict>
@@ -1733,7 +1739,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">12</container>
+              <container type="box" label="Box [61694404619917304]" altrender="box">12</container>
               <unittitle>Relation with President and Regents</unittitle>
             </did>
             <accessrestrict>
@@ -1742,7 +1748,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">12</container>
+              <container type="box" label="Box [61694404619917304]" altrender="box">12</container>
               <unittitle>Sexual Harassment Policy</unittitle>
             </did>
             <accessrestrict>
@@ -1751,7 +1757,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">12</container>
+              <container type="box" label="Box [61694404619917304]" altrender="box">12</container>
               <unittitle>WCBN (Obscenity Complaint)</unittitle>
             </did>
             <accessrestrict>
@@ -1767,7 +1773,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">12</container>
+              <container type="box" label="Box [61694404619917304]" altrender="box">12</container>
               <unittitle>Correspondence</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -1779,7 +1785,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">12</container>
+              <container type="box" label="Box [61694404619917304]" altrender="box">12</container>
               <unittitle>Anne Duderstadt Employment</unittitle>
             </did>
             <accessrestrict>
@@ -1788,7 +1794,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">12</container>
+              <container type="box" label="Box [61694404619917304]" altrender="box">12</container>
               <unittitle>Discrimination and Discriminatory Harassment Policy</unittitle>
             </did>
             <accessrestrict>
@@ -1797,7 +1803,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">12</container>
+              <container type="box" label="Box [61694404619917304]" altrender="box">12</container>
               <unittitle>Michigan Collegiate Coalition</unittitle>
             </did>
             <accessrestrict>
@@ -1806,7 +1812,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">12</container>
+              <container type="box" label="Box [61694404619917304]" altrender="box">12</container>
               <unittitle>Notes</unittitle>
             </did>
             <accessrestrict>
@@ -1815,7 +1821,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">12</container>
+              <container type="box" label="Box [61694404619917304]" altrender="box">12</container>
               <unittitle>Political Correctness</unittitle>
             </did>
             <accessrestrict>
@@ -1824,7 +1830,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">12</container>
+              <container type="box" label="Box [61694404619917304]" altrender="box">12</container>
               <unittitle>Speech Code</unittitle>
             </did>
             <accessrestrict>
@@ -1833,7 +1839,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">12</container>
+              <container type="box" label="Box [61694404619917304]" altrender="box">12</container>
               <unittitle>Speech Code Clippings</unittitle>
             </did>
             <accessrestrict>
@@ -1842,7 +1848,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">12</container>
+              <container type="box" label="Box [61694404619917304]" altrender="box">12</container>
               <unittitle>Statement of Student Rights and Responsibilities (proposed)</unittitle>
             </did>
             <accessrestrict>
@@ -1851,7 +1857,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">12</container>
+              <container type="box" label="Box [61694404619917304]" altrender="box">12</container>
               <unittitle>Warner-Lambert Land Sale</unittitle>
             </did>
             <accessrestrict>
@@ -1867,7 +1873,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">12</container>
+              <container type="box" label="Box [61694404619917304]" altrender="box">12</container>
               <unittitle>Correspondence</unittitle>
             </did>
             <accessrestrict>
@@ -1876,7 +1882,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">12</container>
+              <container type="box" label="Box [61694404619917304]" altrender="box">12</container>
               <unittitle>Athletic Director Search</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -1888,7 +1894,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">12</container>
+              <container type="box" label="Box [61694404619917304]" altrender="box">12</container>
               <unittitle>Department of Population Planning and International Health</unittitle>
             </did>
             <accessrestrict>
@@ -1897,7 +1903,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">12</container>
+              <container type="box" label="Box [61694404619917304]" altrender="box">12</container>
               <unittitle>Executive Compensation</unittitle>
             </did>
             <accessrestrict>
@@ -1906,7 +1912,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">12</container>
+              <container type="box" label="Box [61694404619917304]" altrender="box">12</container>
               <unittitle>Mack, Charlie</unittitle>
             </did>
             <accessrestrict>
@@ -1915,7 +1921,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">12</container>
+              <container type="box" label="Box [61694404619917304]" altrender="box">12</container>
               <unittitle>
                 <title render="italic">Michigan Daily</title>
               </unittitle>
@@ -1933,7 +1939,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">13</container>
+              <container type="box" label="Box [040314154003810757411296]" altrender="box">13</container>
               <unittitle>General</unittitle>
             </did>
             <accessrestrict>
@@ -1942,7 +1948,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">13</container>
+              <container type="box" label="Box [040314154003810757411296]" altrender="box">13</container>
               <unittitle>Correspondence, Alumni and Community Members</unittitle>
             </did>
             <accessrestrict>
@@ -1951,7 +1957,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">13</container>
+              <container type="box" label="Box [040314154003810757411296]" altrender="box">13</container>
               <unittitle>Correspondence, College Republicans</unittitle>
             </did>
             <accessrestrict>
@@ -1960,7 +1966,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">13</container>
+              <container type="box" label="Box [040314154003810757411296]" altrender="box">13</container>
               <unittitle>Defense and Indemnification of Regents</unittitle>
             </did>
             <accessrestrict>
@@ -1969,7 +1975,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">13</container>
+              <container type="box" label="Box [040314154003810757411296]" altrender="box">13</container>
               <unittitle>Michigan Agenda for Women</unittitle>
             </did>
             <accessrestrict>
@@ -1985,7 +1991,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">13</container>
+              <container type="box" label="Box [040314154003810757411296]" altrender="box">13</container>
               <unittitle>General</unittitle>
             </did>
             <accessrestrict>
@@ -1994,7 +2000,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">13</container>
+              <container type="box" label="Box [040314154003810757411296]" altrender="box">13</container>
               <unittitle>Clippings</unittitle>
             </did>
             <accessrestrict>
@@ -2003,7 +2009,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">13</container>
+              <container type="box" label="Box [040314154003810757411296]" altrender="box">13</container>
               <unittitle>Selection of New Provost</unittitle>
             </did>
             <accessrestrict>
@@ -2012,7 +2018,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">13</container>
+              <container type="box" label="Box [040314154003810757411296]" altrender="box">13</container>
               <unittitle>Student Rights and Responsibilities (Speech Code)</unittitle>
             </did>
             <accessrestrict>
@@ -2021,7 +2027,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">13</container>
+              <container type="box" label="Box [040314154003810757411296]" altrender="box">13</container>
               <unittitle>Student Rights and Responsibilities Clippings</unittitle>
             </did>
             <accessrestrict>
@@ -2037,7 +2043,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">13</container>
+              <container type="box" label="Box [040314154003810757411296]" altrender="box">13</container>
               <unittitle>General</unittitle>
             </did>
             <accessrestrict>
@@ -2046,7 +2052,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">13</container>
+              <container type="box" label="Box [040314154003810757411296]" altrender="box">13</container>
               <unittitle>Cohen, Carl</unittitle>
             </did>
             <accessrestrict>
@@ -2055,7 +2061,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">13</container>
+              <container type="box" label="Box [040314154003810757411296]" altrender="box">13</container>
               <unittitle>Medical Center, Possible Restructuring</unittitle>
             </did>
             <accessrestrict>
@@ -2064,7 +2070,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">13</container>
+              <container type="box" label="Box [040314154003810757411296]" altrender="box">13</container>
               <unittitle>Neal, Homer (Interim President)</unittitle>
             </did>
             <accessrestrict>
@@ -2073,7 +2079,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">13</container>
+              <container type="box" label="Box [040314154003810757411296]" altrender="box">13</container>
               <unittitle>Undisclosed Employment Agreements</unittitle>
             </did>
             <accessrestrict>
@@ -2082,7 +2088,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">13</container>
+              <container type="box" label="Box [040314154003810757411296]" altrender="box">13</container>
               <unittitle>Last Meeting and Retirement Celebration <unitdate type="inclusive" normal="1996/1997">1996-1997</unitdate></unittitle>
             </did>
             <accessrestrict>
@@ -2100,7 +2106,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">13</container>
+            <container type="box" label="Box [040314154003810757411296]" altrender="box">13</container>
             <unittitle>Campaign Photos</unittitle>
           </did>
           <accessrestrict>
@@ -2113,7 +2119,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">13</container>
+              <container type="box" label="Box [040314154003810757411296]" altrender="box">13</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1978/1988">1978-1988</unitdate>
               </unittitle>
@@ -2124,7 +2130,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">13</container>
+              <container type="box" label="Box [040314154003810757411296]" altrender="box">13</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1988/1989">1988-1989</unitdate>
               </unittitle>
@@ -2136,7 +2142,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">13</container>
+            <container type="box" label="Box [040314154003810757411296]" altrender="box">13</container>
             <unittitle>George H.W. Bush <unitdate type="inclusive" normal="1991">1991</unitdate></unittitle>
           </did>
           <accessrestrict>
@@ -2145,7 +2151,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">13</container>
+            <container type="box" label="Box [040314154003810757411296]" altrender="box">13</container>
             <unittitle>Miscellaneous</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -2171,7 +2177,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">14</container>
+              <container type="box" label="Box [72634838497698803067]" altrender="box">14</container>
               <unittitle>Presidential Selection Committee Report</unittitle>
             </did>
             <accessrestrict>
@@ -2180,7 +2186,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">14</container>
+              <container type="box" label="Box [72634838497698803067]" altrender="box">14</container>
               <unittitle>Search Files</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -2199,7 +2205,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">14</container>
+              <container type="box" label="Box [72634838497698803067]" altrender="box">14</container>
               <unittitle>Presidential Search Files, General</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -2211,7 +2217,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">14</container>
+              <container type="box" label="Box [72634838497698803067]" altrender="box">14</container>
               <unittitle>Pre-Search Interview Files</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">5 folders</extent>
@@ -2223,7 +2229,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">14</container>
+              <container type="box" label="Box [72634838497698803067]" altrender="box">14</container>
               <unittitle>Committee Files</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">5 folders</extent>
@@ -2272,7 +2278,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">16</container>
+            <container type="box" label="Box [314591854869062237888]" altrender="box">16</container>
             <unittitle>Bylaws Committee <unitdate type="inclusive" normal="1993">1993</unitdate></unittitle>
           </did>
           <accessrestrict>
@@ -2281,7 +2287,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">16</container>
+            <container type="box" label="Box [314591854869062237888]" altrender="box">16</container>
             <unittitle>Correspondence</unittitle>
           </did>
           <accessrestrict>
@@ -2290,7 +2296,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">16</container>
+            <container type="box" label="Box [314591854869062237888]" altrender="box">16</container>
             <unittitle>Letters</unittitle>
           </did>
           <accessrestrict>
@@ -2299,7 +2305,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">16</container>
+            <container type="box" label="Box [314591854869062237888]" altrender="box">16</container>
             <unittitle>Mailing List</unittitle>
           </did>
           <accessrestrict>
@@ -2308,7 +2314,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">16</container>
+            <container type="box" label="Box [314591854869062237888]" altrender="box">16</container>
             <unittitle>Media Releases <unitdate type="inclusive" normal="1994">1994</unitdate></unittitle>
           </did>
           <accessrestrict>
@@ -2317,7 +2323,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">16</container>
+            <container type="box" label="Box [314591854869062237888]" altrender="box">16</container>
             <unittitle>News Clippings <unitdate type="inclusive" normal="1990/1994" certainty="approximate">circa 1990-1994</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -2329,7 +2335,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">16</container>
+            <container type="box" label="Box [314591854869062237888]" altrender="box">16</container>
             <unittitle>News Summaries</unittitle>
           </did>
           <accessrestrict>
@@ -2338,7 +2344,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">16</container>
+            <container type="box" label="Box [314591854869062237888]" altrender="box">16</container>
             <unittitle>Notes</unittitle>
           </did>
           <accessrestrict>
@@ -2347,7 +2353,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">16</container>
+            <container type="box" label="Box [314591854869062237888]" altrender="box">16</container>
             <unittitle>Petitions</unittitle>
           </did>
           <accessrestrict>
@@ -2356,7 +2362,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">16</container>
+            <container type="box" label="Box [314591854869062237888]" altrender="box">16</container>
             <unittitle>Statements by Deane Baker <unitdate type="inclusive" normal="1994">1994</unitdate></unittitle>
           </did>
           <accessrestrict>
@@ -2365,7 +2371,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">16</container>
+            <container type="box" label="Box [314591854869062237888]" altrender="box">16</container>
             <unittitle>Regents Meeting <unitdate type="inclusive" normal="1993-09">September 1993</unitdate></unittitle>
           </did>
           <accessrestrict>
@@ -2374,7 +2380,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">16</container>
+            <container type="box" label="Box [314591854869062237888]" altrender="box">16</container>
             <unittitle>Regents Meeting <unitdate type="inclusive" normal="1994-04/1994-05">April-May, 1994</unitdate></unittitle>
           </did>
           <accessrestrict>
@@ -2395,7 +2401,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">17</container>
+              <container type="box" label="Box [765448845167219886]" altrender="box">17</container>
               <unittitle>General</unittitle>
             </did>
             <accessrestrict>
@@ -2404,7 +2410,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">17</container>
+              <container type="box" label="Box [765448845167219886]" altrender="box">17</container>
               <unittitle>ACT-UP Protest at Baker's Residence <unitdate type="inclusive" normal="1990">1990</unitdate></unittitle>
             </did>
             <accessrestrict>
@@ -2413,7 +2419,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">17</container>
+              <container type="box" label="Box [765448845167219886]" altrender="box">17</container>
               <unittitle>Correspondence (re: homosexuality) <unitdate type="inclusive" normal="1990/1991">1990-1991</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -2425,7 +2431,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">17</container>
+              <container type="box" label="Box [765448845167219886]" altrender="box">17</container>
               <unittitle>Gays (articles and clippings)</unittitle>
             </did>
             <accessrestrict>
@@ -2434,7 +2440,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">17</container>
+              <container type="box" label="Box [765448845167219886]" altrender="box">17</container>
               <unittitle>"Homophobia" Course <unitdate type="inclusive" normal="1994">1994</unitdate></unittitle>
             </did>
             <accessrestrict>
@@ -2443,7 +2449,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">17</container>
+              <container type="box" label="Box [765448845167219886]" altrender="box">17</container>
               <unittitle>Lesbian and Gay Male (LGM) Program Office <unitdate type="inclusive" normal="1990/1991">1990-1991</unitdate></unittitle>
             </did>
             <accessrestrict>
@@ -2461,7 +2467,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">17</container>
+            <container type="box" label="Box [765448845167219886]" altrender="box">17</container>
             <unittitle>Book Project Files</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">45 folders</extent>
@@ -2485,7 +2491,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">18</container>
+              <container type="box" label="Box [03555874369560438880]" altrender="box">18</container>
               <unittitle>Audio cassette recordings <unitdate type="inclusive" normal="1984/1996">1984-1996</unitdate> (primarily Regents Meetings)</unittitle>
             </did>
             <accessrestrict>
@@ -2494,7 +2500,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">18</container>
+              <container type="box" label="Box [03555874369560438880]" altrender="box">18</container>
               <unittitle><unitdate type="inclusive" normal="1980">1980</unitdate> Radio Spot</unittitle>
               <physdesc>
                 <physfacet>reel-to-reel</physfacet>
@@ -2511,7 +2517,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">18</container>
+              <container type="box" label="Box [03555874369560438880]" altrender="box">18</container>
               <unittitle>"A Thoughtful Discussion of Political Correctness and Academic Values (University of Michigan Faculty and Regents)," <unitdate type="inclusive" normal="1993-10-21">October 21, 1993</unitdate></unittitle>
             </did>
             <accessrestrict>
@@ -2520,7 +2526,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">18</container>
+              <container type="box" label="Box [03555874369560438880]" altrender="box">18</container>
               <unittitle>"Baker"</unittitle>
               <physdesc>
                 <physfacet>VHS</physfacet>
@@ -2532,7 +2538,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">18</container>
+              <container type="box" label="Box [03555874369560438880]" altrender="box">18</container>
               <unittitle>Bill Bonds Channel 7 Interview (Campus Police Force and Homosexual Rights Demonstration)</unittitle>
               <physdesc>
                 <physfacet>Beta SP</physfacet>
@@ -2544,7 +2550,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">18</container>
+              <container type="box" label="Box [03555874369560438880]" altrender="box">18</container>
               <unittitle>"Capitol Close-Up" Nuclear Disarmament (Perry Bullard, host, Deane Baker and Irwin Gaede) <unitdate type="inclusive" normal="1982-06-25">June 25, 1982</unitdate></unittitle>
               <physdesc>
                 <physfacet>U-matic</physfacet>
@@ -2556,7 +2562,7 @@ Deane Baker papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">18</container>
+              <container type="box" label="Box [03555874369560438880]" altrender="box">18</container>
               <unittitle>"Spotlight 1885" <unitdate type="inclusive" normal="1982-06-12">June 12, 1982</unitdate></unittitle>
               <physdesc>
                 <physfacet>U-matic</physfacet>

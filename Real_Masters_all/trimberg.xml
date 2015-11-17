@@ -34,7 +34,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding Aid for <lb/>Frank P. Trimberger photograph collection, <date>ca. 1918-1919</date></titleproper>
       <author>Finding aid prepared by: <lb/>Len Coombs</author>
     </titlepage>
@@ -88,15 +88,15 @@ original materials.</p>
       <controlaccess>
         <head>Subjects - Visual Material:</head>
         <persname source="lcnaf" encodinganalog="600">Trimberger, Frank P.</persname>
-        <geogname source="lcnaf" encodinganalog="651">Soviet Union--History--Allied intervention, 1918-1920.</geogname>
+        <geogname source="lcnaf" encodinganalog="651" ref="/subjects/760">Soviet Union--History--Allied intervention, 1918-1920.</geogname>
         <corpname source="lcnaf" encodinganalog="610">United States. Army. Engineer Regiment, 310th. Company B.</corpname>
-        <subject source="local" encodinganalog="690" authfilenumber="http://id.loc.gov/authorities/names/n2008059426">Polar Bear Expedition.</subject>
-        <subject source="lctgm" encodinganalog="650">Soldiers--American.</subject>
-        <subject source="lctgm" encodinganalog="650">Barracks--American.</subject>
+        <subject source="local" encodinganalog="690" authfilenumber="http://id.loc.gov/authorities/names/n2008059426" ref="/subjects/3518">Polar Bear Expedition.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3674">Soldiers--American.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/5447">Barracks--American.</subject>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -106,12 +106,12 @@ original materials.</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="folder" label="Folder">1</container>
+            <container type="folder" label="Folder [5408196342534773934977169041]" altrender="folder">1</container>
             <unittitle>Photographs</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 digital files</extent>
             </physdesc>
-            <dao show="new" actuate="onrequest" href="trimberger0001">
+            <dao show="new" actuate="onRequest" href="trimberger0001" ref="/repositories/2/digital_objects/9179">
               <daodesc>
                 <p>[view items]</p>
               </daodesc>

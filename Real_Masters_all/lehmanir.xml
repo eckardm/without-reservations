@@ -31,7 +31,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Ira A. Lehman papers, 1910-1989</titleproper>
       <author>Finding aid created by <lb/>Dennis Moser, January 1993</author>
     </titlepage>
@@ -87,8 +87,8 @@ Ira A. Lehman papers, Bentley Historical Library, University of Michigan</p>
       <controlaccess>
         <head>Subjects:</head>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n82020740">American Association of Orthodontists.</corpname>
-        <subject source="lcsh" encodinganalog="650">Dentistry--United States.</subject>
-        <subject source="lcsh" encodinganalog="650">Dentists--Michigan--Detroit.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7320">Dentistry--United States.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7944">Dentists--Michigan--Detroit.</subject>
         <corpname source="lcnaf" encodinganalog="610">Great Lakes Association of Orthodontists.</corpname>
         <persname source="lcnaf" encodinganalog="600">Lehman, Ira A., 1891-1992.</persname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan. College of Dental Surgery. Class of 1913.</corpname>
@@ -106,7 +106,7 @@ Ira A. Lehman papers, Bentley Historical Library, University of Michigan</p>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -119,19 +119,21 @@ Ira A. Lehman papers, Bentley Historical Library, University of Michigan</p>
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <unittitle>University of Michigan student account book <unitdate type="inclusive" normal="1910/1912">1910-1912</unitdate> and examinations of the Michigan Board of Dental Examiners, <unitdate type="inclusive" normal="1912/1913">1912-1913</unitdate></unittitle>
+            <container type="box" label="Box [749941426869317]" altrender="box">1</container>
+            <unittitle>University of Michigan student account book 1910-1912 and examinations of the Michigan Board of Dental Examiners, 1912-1913</unittitle>
+            <unitdate type="inclusive" normal="1910/1912">1910-1912</unitdate>
+            <unitdate type="inclusive" normal="1912/1913">1912-1913</unitdate>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [749941426869317]" altrender="box">1</container>
             <unittitle>Miscellaneous personal letters <unitdate type="inclusive" normal="1938/1967">1938-1967 (scattered)</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [749941426869317]" altrender="box">1</container>
             <unittitle><genreform normal="Photographs">Photographs</genreform>, miscellaneous (professional meetings, members of the 1913 U-M dental class)</unittitle>
           </did>
         </c02>
@@ -149,14 +151,14 @@ Ira A. Lehman papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [749941426869317]" altrender="box">1</container>
               <unittitle>Correspondence <unitdate type="inclusive" normal="1956/1978">1956-1978</unitdate> largely concerning its museum and library</unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="folder" label="Oversize Folder">1</container>
+            <container type="folder" label="Oversize Folder [7162000845136686020]" altrender="folder">1</container>
             <unittitle>Diplomas</unittitle>
           </did>
         </c02>
@@ -166,20 +168,20 @@ Ira A. Lehman papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [749941426869317]" altrender="box">1</container>
               <unittitle>Correspondence <unitdate type="inclusive" normal="1935/1942">1935-1942</unitdate></unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [749941426869317]" altrender="box">1</container>
             <unittitle>Drafts and manuscripts of professional papers</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [749941426869317]" altrender="box">1</container>
             <unittitle>Reprints of articles</unittitle>
           </did>
         </c02>
@@ -189,7 +191,7 @@ Ira A. Lehman papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [749941426869317]" altrender="box">1</container>
               <unittitle>Correspondence <unitdate type="inclusive" normal="1928/1974">1928-1974 (scattered)</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">12 folders</extent>
@@ -198,7 +200,7 @@ Ira A. Lehman papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [749941426869317]" altrender="box">1</container>
               <unittitle>Lehman's Reminiscences of Johnson <unitdate type="inclusive" normal="1989">1989</unitdate></unittitle>
             </did>
           </c03>
@@ -213,7 +215,7 @@ Ira A. Lehman papers, Bentley Historical Library, University of Michigan</p>
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [749941426869317]" altrender="box">1</container>
             <unittitle>Loan Fund Correspondence <unitdate type="inclusive" normal="1938/1979">1938-1979</unitdate></unittitle>
           </did>
         </c02>

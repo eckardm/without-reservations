@@ -38,7 +38,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>University Archives and Records Program <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/2">University Archives and Records Program <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Michigan Seagrant Program, <lb/>Publications, 1972-2004</titleproper>
       <author>Finding aid created by <lb/>Leslie Knoblauch, February 2004</author>
     </titlepage>
@@ -93,25 +93,25 @@ Michigan Seagrant Program, Publications, Bentley Historical Library, University 
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <subject source="lcsh" encodinganalog="650">Fishing--Great Lakes.</subject>
-        <subject source="lcsh" encodinganalog="650">Scuba diving--Michigan.</subject>
-        <geogname source="lcsh" encodinganalog="651">Great Lakes v Statistics.</geogname>
-        <geogname source="lcsh" encodinganalog="651">Great Lakes--Environmental conditions.</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/10017">Fishing--Great Lakes.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/10018">Scuba diving--Michigan.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/2792">Great Lakes v Statistics.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/2793">Great Lakes--Environmental conditions.</geogname>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <geogname source="lcsh" encodinganalog="651">Great Lakes v Surveys.</geogname>
-        <genreform source="aat" encodinganalog="655">Annual reports.</genreform>
-        <genreform source="aat" encodinganalog="655">Pamphlets.</genreform>
-        <genreform source="aat" encodinganalog="655">Manuals.</genreform>
-        <genreform source="aat" encodinganalog="655">Directories.</genreform>
-        <genreform source="aat" encodinganalog="655">Histories.</genreform>
-        <genreform source="aat" encodinganalog="655">Newsletters.</genreform>
-        <genreform source="aat" encodinganalog="655">Proceedings.</genreform>
-        <genreform source="aat" encodinganalog="655">Bulletins.</genreform>
-        <genreform source="aat" encodinganalog="655">Reports.</genreform>
-        <genreform source="aat" encodinganalog="655">Videotapes.</genreform>
-        <genreform source="aat" encodinganalog="655">CD-ROMs.</genreform>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/2794">Great Lakes v Surveys.</geogname>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3197">Annual reports.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3152">Pamphlets.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3158">Manuals.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3201">Directories.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3156">Histories.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3157">Newsletters.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3245">Proceedings.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3153">Bulletins.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3155">Reports.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3140">Videotapes.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3151">CD-ROMs.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -129,8 +129,12 @@ Michigan Seagrant Program, Publications, Bentley Historical Library, University 
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
-              <unittitle><title render="italic">Michigan Sea Grant Program</title>, <unitdate type="inclusive" normal="1971/1975">1971-1975</unitdate>, <unitdate type="inclusive" normal="1977/1981">1977-1981</unitdate></unittitle>
+              <container type="box" label="Box [430694641205299925897]" altrender="box">1</container>
+              <unittitle>
+                <title render="italic">Michigan Sea Grant Program</title>
+              </unittitle>
+              <unitdate type="inclusive" normal="1971/1975">1971-1975</unitdate>
+              <unitdate type="inclusive" normal="1977/1981">1977-1981</unitdate>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
               </physdesc>
@@ -138,7 +142,7 @@ Michigan Seagrant Program, Publications, Bentley Historical Library, University 
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [430694641205299925897]" altrender="box">1</container>
               <unittitle>
                 <title render="italic">Michigan Sea Grant College Program</title>
                 <unitdate type="inclusive" normal="1982/1983">1982-1983</unitdate>
@@ -153,13 +157,13 @@ Michigan Seagrant Program, Publications, Bentley Historical Library, University 
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [430694641205299925897]" altrender="box">1</container>
               <unittitle><title render="italic">People and Projects</title>, <unitdate type="inclusive" normal="1979/1989">1979-1989</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [430694641205299925897]" altrender="box">1</container>
               <unittitle><title render="italic">People and Projects</title>, <unitdate type="inclusive" normal="1989/1999">1989-1999</unitdate></unittitle>
             </did>
           </c03>
@@ -170,19 +174,19 @@ Michigan Seagrant Program, Publications, Bentley Historical Library, University 
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [430694641205299925897]" altrender="box">1</container>
               <unittitle><title render="italic">Michigan Sea Grant Extension Biennial Report</title>, <unitdate type="inclusive" normal="1985/1986">1985-1986</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [430694641205299925897]" altrender="box">1</container>
               <unittitle><title render="italic">Michigan Sea Grant College Program</title>, <unitdate type="inclusive" normal="1997/1999">1997-1999</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [430694641205299925897]" altrender="box">1</container>
               <unittitle><title render="italic">National Sea Grant College Program</title>, <unitdate type="inclusive" normal="1998/1999">1998-1999</unitdate></unittitle>
             </did>
           </c03>
@@ -193,7 +197,7 @@ Michigan Seagrant Program, Publications, Bentley Historical Library, University 
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [430694641205299925897]" altrender="box">1</container>
               <unittitle>
                 <title render="italic">Michigan Sea Grant College Program</title>
                 <unitdate type="inclusive" normal="1988/1999">1988-1999</unitdate>
@@ -207,7 +211,7 @@ Michigan Seagrant Program, Publications, Bentley Historical Library, University 
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [430694641205299925897]" altrender="box">1</container>
               <unittitle>Marine Advisory Service <unitdate type="inclusive" normal="1976/1990">1976-1990</unitdate></unittitle>
             </did>
           </c03>
@@ -218,13 +222,13 @@ Michigan Seagrant Program, Publications, Bentley Historical Library, University 
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [430694641205299925897]" altrender="box">1</container>
               <unittitle><title render="italic">Great Lakes Legislative Updates, 1-4</title>, <unitdate type="inclusive" normal="1994">1994</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [430694641205299925897]" altrender="box">1</container>
               <unittitle>
                 <title render="italic">Great Lakes Sea Grant Network: Congressional Briefing Book</title>
                 <unitdate type="inclusive" normal="1993">1993</unitdate>
@@ -233,13 +237,13 @@ Michigan Seagrant Program, Publications, Bentley Historical Library, University 
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [430694641205299925897]" altrender="box">1</container>
               <unittitle><title render="italic">Lakewide Management Plan (LAMP)</title>, <unitdate type="inclusive" normal="1992/1994">1992-1994</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [430694641205299925897]" altrender="box">1</container>
               <unittitle>Miscellaneous <unitdate type="inclusive" normal="1990/1997">1990-1997</unitdate></unittitle>
             </did>
           </c03>
@@ -250,8 +254,10 @@ Michigan Seagrant Program, Publications, Bentley Historical Library, University 
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
-              <unittitle>Miscellaneous <unitdate type="inclusive" normal="1989">1989</unitdate>, <unitdate type="inclusive" normal="1999">1999</unitdate></unittitle>
+              <container type="box" label="Box [430694641205299925897]" altrender="box">1</container>
+              <unittitle>Miscellaneous</unittitle>
+              <unitdate type="inclusive" normal="1989">1989</unitdate>
+              <unitdate type="inclusive" normal="1999">1999</unitdate>
             </did>
           </c03>
         </c02>
@@ -261,7 +267,7 @@ Michigan Seagrant Program, Publications, Bentley Historical Library, University 
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [430694641205299925897]" altrender="box">1</container>
               <unittitle>
                 <title render="italic">A Lake Trout Rehabilitation Guide for Lake Huron</title>
                 <unitdate type="inclusive" normal="1998">1998</unitdate>
@@ -270,19 +276,19 @@ Michigan Seagrant Program, Publications, Bentley Historical Library, University 
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [430694641205299925897]" altrender="box">1</container>
               <unittitle><title render="italic">Clean Marina Guidebook</title>, <unitdate type="inclusive" normal="2004">2004</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [430694641205299925897]" altrender="box">1</container>
               <unittitle><title render="italic">Coping with High Lake Levels: Homeowners Guide</title>, <unitdate type="inclusive" normal="1986">1986</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [430694641205299925897]" altrender="box">1</container>
               <unittitle>
                 <title render="italic">Hyperbaric Chamber-Attendants Handbook</title>
                 <unitdate type="inclusive" normal="1979">1979</unitdate>
@@ -291,13 +297,13 @@ Michigan Seagrant Program, Publications, Bentley Historical Library, University 
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [430694641205299925897]" altrender="box">1</container>
               <unittitle><title render="italic">Preparing for the Twenty-First Century: Program Guide</title>, <unitdate type="inclusive" normal="1996">1996</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [430694641205299925897]" altrender="box">1</container>
               <unittitle>
                 <title render="italic">Reporting on Risk</title>
                 <unitdate type="inclusive" normal="1994/1995">1994-1995</unitdate>
@@ -306,7 +312,7 @@ Michigan Seagrant Program, Publications, Bentley Historical Library, University 
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [430694641205299925897]" altrender="box">1</container>
               <unittitle><title render="italic">Water and Land Resource Utilization Simulation (WALRUS 1)</title>, <unitdate type="inclusive" normal="1972">1972</unitdate></unittitle>
             </did>
           </c03>
@@ -316,19 +322,19 @@ Michigan Seagrant Program, Publications, Bentley Historical Library, University 
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [430694641205299925897]" altrender="box">1</container>
                 <unittitle>General <unitdate type="inclusive" normal="1979/1998">1979-1998</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [430694641205299925897]" altrender="box">1</container>
                 <unittitle><title render="italic">Curriculum Project, Interdisciplinary Activities for Grades 6-8</title> #400, <unitdate type="inclusive" normal="1983">1983</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [430694641205299925897]" altrender="box">1</container>
                 <unittitle>
                   <title render="italic">Purple Loosestrife Project</title>
                   <unitdate type="inclusive" normal="1999">1999</unitdate>
@@ -342,7 +348,7 @@ Michigan Seagrant Program, Publications, Bentley Historical Library, University 
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [430694641205299925897]" altrender="box">1</container>
                 <unittitle>
                   <title render="italic">Confined Water Training</title>
                   <unitdate type="inclusive" normal="1978">1978</unitdate>
@@ -357,7 +363,7 @@ Michigan Seagrant Program, Publications, Bentley Historical Library, University 
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [917400404020810694]" altrender="box">2</container>
               <unittitle>
                 <title render="italic">Michigan Sea Grant College Program</title>
                 <unitdate type="inclusive" normal="1987/1988">1987-1988</unitdate>
@@ -370,7 +376,7 @@ Michigan Seagrant Program, Publications, Bentley Historical Library, University 
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [917400404020810694]" altrender="box">2</container>
               <unittitle>
                 <title render="italic">Michigan Sea Grant Integrated Research Program</title>
                 <unitdate type="inclusive" normal="1995/2001">1995-2001</unitdate>
@@ -379,8 +385,10 @@ Michigan Seagrant Program, Publications, Bentley Historical Library, University 
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
-              <unittitle>Strategic Plan <unitdate type="inclusive" normal="2000/2005">2000-2005</unitdate>, <unitdate type="inclusive" normal="2005/2010">2005-2010</unitdate></unittitle>
+              <container type="box" label="Box [917400404020810694]" altrender="box">2</container>
+              <unittitle>Strategic Plan</unittitle>
+              <unitdate type="inclusive" normal="2000/2005">2000-2005</unitdate>
+              <unitdate type="inclusive" normal="2005/2010">2005-2010</unitdate>
             </did>
           </c03>
         </c02>
@@ -390,19 +398,19 @@ Michigan Seagrant Program, Publications, Bentley Historical Library, University 
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [917400404020810694]" altrender="box">2</container>
               <unittitle><title render="italic">Diver Education Series</title>, <unitdate type="inclusive" normal="1991/1992">1991-1992</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [917400404020810694]" altrender="box">2</container>
               <unittitle><title render="italic">Surfbeat</title>, <unitdate type="inclusive">undated</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [917400404020810694]" altrender="box">2</container>
               <unittitle>[<title render="italic">Upwellings</title>; separately cataloged; Call No: EA 80 U71 U71]</unittitle>
             </did>
           </c03>
@@ -413,7 +421,7 @@ Michigan Seagrant Program, Publications, Bentley Historical Library, University 
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [917400404020810694]" altrender="box">2</container>
               <unittitle>
                 <title render="italic">Conditions of Award</title>
                 <unitdate type="inclusive" normal="1989/1999">1989-1999</unitdate>
@@ -427,19 +435,19 @@ Michigan Seagrant Program, Publications, Bentley Historical Library, University 
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [917400404020810694]" altrender="box">2</container>
               <unittitle>Educational <unitdate type="inclusive" normal="1973/2002">1973-2002</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [917400404020810694]" altrender="box">2</container>
               <unittitle>Environmental Issues <unitdate type="inclusive" normal="1973/2003">1973-2003</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [917400404020810694]" altrender="box">2</container>
               <unittitle>
                 <title render="italic">Great Lakes Sea Grant Network</title>
                 <unitdate type="inclusive">undated</unitdate>
@@ -448,7 +456,7 @@ Michigan Seagrant Program, Publications, Bentley Historical Library, University 
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [917400404020810694]" altrender="box">2</container>
               <unittitle>
                 <title render="italic">Michigan Sea Grant College Program</title>
                 <unitdate type="inclusive" normal="1985/1999">1985-1999</unitdate>
@@ -457,13 +465,13 @@ Michigan Seagrant Program, Publications, Bentley Historical Library, University 
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [917400404020810694]" altrender="box">2</container>
               <unittitle><title render="italic">Site Reviews</title>, <unitdate type="inclusive" normal="1982/1986">1982-1986</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [917400404020810694]" altrender="box">2</container>
               <unittitle>
                 <title render="italic">Publications</title>
                 <unitdate type="inclusive" normal="1976/1982">1976-1982</unitdate>
@@ -472,7 +480,7 @@ Michigan Seagrant Program, Publications, Bentley Historical Library, University 
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [917400404020810694]" altrender="box">2</container>
               <unittitle>
                 <title render="italic">Publications Policy</title>
                 <unitdate type="inclusive" normal="1988/2000">1988-2000</unitdate>
@@ -481,13 +489,13 @@ Michigan Seagrant Program, Publications, Bentley Historical Library, University 
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [917400404020810694]" altrender="box">2</container>
               <unittitle>Recreation <unitdate type="inclusive" normal="1979/1994">1979-1994</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [917400404020810694]" altrender="box">2</container>
               <unittitle>
                 <title render="italic">Sea Grant Week 1995 Summary Report</title>
                 <unitdate type="inclusive">undated</unitdate>
@@ -501,13 +509,13 @@ Michigan Seagrant Program, Publications, Bentley Historical Library, University 
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [917400404020810694]" altrender="box">2</container>
               <unittitle>Michigan Sea Grant Retreat <unitdate type="inclusive" normal="1978">1978</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [917400404020810694]" altrender="box">2</container>
               <unittitle>Fishery Conference: Status of Chinook Salmon in Lake Michigan (CD-ROM) <unitdate type="inclusive" normal="2005">2005</unitdate></unittitle>
             </did>
           </c03>
@@ -518,7 +526,7 @@ Michigan Seagrant Program, Publications, Bentley Historical Library, University 
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [917400404020810694]" altrender="box">2</container>
               <unittitle>
                 <title render="italic">Michigan Sea Grant College Program: Volume III</title>
                 <unitdate type="inclusive" normal="1985/1986">1985-1986</unitdate>
@@ -538,19 +546,19 @@ Michigan Seagrant Program, Publications, Bentley Historical Library, University 
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [917400404020810694]" altrender="box">2</container>
                 <unittitle><title render="italic">Annotated Bibliography of Scientific Information on Grand Traverse Bay</title>, #201, <unitdate type="inclusive" normal="1970">1970</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [917400404020810694]" altrender="box">2</container>
                 <unittitle><title render="italic">Shoreland Planning in the Great Lakes Basin and Selected Coastal Zones of the United States</title> #202, <unitdate type="inclusive" normal="1970">1970</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [917400404020810694]" altrender="box">2</container>
                 <unittitle><title render="italic">Interim Bibliography of Scientific Information on Grand Traverse Bay</title>, #903, <unitdate type="inclusive" normal="1970">1970</unitdate></unittitle>
               </did>
             </c04>
@@ -563,43 +571,43 @@ Michigan Seagrant Program, Publications, Bentley Historical Library, University 
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [917400404020810694]" altrender="box">2</container>
                 <unittitle><title render="italic">Cave Diving: Equipment and Procedures</title>, #10, <unitdate type="inclusive" normal="1971">1971</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [917400404020810694]" altrender="box">2</container>
                 <unittitle><title render="italic">A Methodology for Mathematical Modeling of Biological Production</title>, #202, <unitdate type="inclusive" normal="1971">1971</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [917400404020810694]" altrender="box">2</container>
                 <unittitle><title render="italic">Evaluation of Input-Output as a Tool for the Study of Economic Structure of the Grande Traverse Bay Area</title>, #203, <unitdate type="inclusive" normal="1971">1971</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [917400404020810694]" altrender="box">2</container>
                 <unittitle><title render="italic">Grand Traverse Bay in the Great Lakes Basin</title>, #210, <unitdate type="inclusive" normal="1971">1971</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [917400404020810694]" altrender="box">2</container>
                 <unittitle><title render="italic">Research Diver's Manual: Underwater Operations Project</title>, #212, <unitdate type="inclusive" normal="1971">1971</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [917400404020810694]" altrender="box">2</container>
                 <unittitle><title render="italic">Current Meter Observations of the Circulation in Grand Traverse Bay of Lake Michigan: Mooring Methods and Initial Results</title>, #214, <unitdate type="inclusive" normal="1971">1971</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [917400404020810694]" altrender="box">2</container>
                 <unittitle><title render="italic">Diving Techniques Used in the Study of Ferromanganese Nodule Deposits</title>, #300, <unitdate type="inclusive" normal="1971">1971</unitdate></unittitle>
               </did>
             </c04>
@@ -612,55 +620,55 @@ Michigan Seagrant Program, Publications, Bentley Historical Library, University 
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [917400404020810694]" altrender="box">2</container>
                 <unittitle><title render="italic">Grand Traverse Bay Water Quality Investigations</title>, #103, <unitdate type="inclusive" normal="1972">1972</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [917400404020810694]" altrender="box">2</container>
                 <unittitle><title render="italic">Evaluation of Methodology in the University of Michigan's Sea Grant Delphi Inquiry</title>, #202, <unitdate type="inclusive" normal="1972">1972</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [344777646193957132]" altrender="box">3</container>
                 <unittitle><title render="italic">Public Policy and Institutional Interaction Project: Great Lakes Survey Questionnaire, First Progress Report</title>, #203, <unitdate type="inclusive" normal="1972">1972</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [344777646193957132]" altrender="box">3</container>
                 <unittitle><title render="italic">A Description and Analysis of Coastal Zone and Shoreland Management Programs in the United States</title>, #204, <unitdate type="inclusive" normal="1972">1972</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [344777646193957132]" altrender="box">3</container>
                 <unittitle><title render="italic">Public Participation in Decision-Making</title>, #206, <unitdate type="inclusive" normal="1972">1972</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [344777646193957132]" altrender="box">3</container>
                 <unittitle><title render="italic">Steady State Modeling Program: Application Manual</title>, #207, <unitdate type="inclusive" normal="1972">1972</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [344777646193957132]" altrender="box">3</container>
                 <unittitle><title render="italic">The Evolving Role of the Federal Government in the Management of Lake Michigan</title>, #209, <unitdate type="inclusive" normal="1972">1972</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [344777646193957132]" altrender="box">3</container>
                 <unittitle><title render="italic">Oceanography Field Practice</title>, #215, <unitdate type="inclusive" normal="1972">1972</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [344777646193957132]" altrender="box">3</container>
                 <unittitle><title render="italic">A Hydrological Model for Estimating the Inflows to and Outflows from Grand Traverse Bay</title>, #214, <unitdate type="inclusive" normal="1972">1972</unitdate></unittitle>
               </did>
             </c04>
@@ -673,7 +681,7 @@ Michigan Seagrant Program, Publications, Bentley Historical Library, University 
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [344777646193957132]" altrender="box">3</container>
                 <unittitle><title render="italic">An Investigation of the Meteorological Impact of Mechanical-Draft Cooling Towers at the Palisades Nuclear Plant: Progress Report 1973</title>, <unitdate type="inclusive">undated</unitdate></unittitle>
               </did>
             </c04>
@@ -686,31 +694,31 @@ Michigan Seagrant Program, Publications, Bentley Historical Library, University 
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [344777646193957132]" altrender="box">3</container>
                 <unittitle><title render="italic">Shore Erosion Engineering Demonstration Project: Post-Construction-Season Progress 1974</title>, <unitdate type="inclusive">undated</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [344777646193957132]" altrender="box">3</container>
                 <unittitle><title render="italic">A Biological Production Model for Grand Traverse Bay</title>, #200, <unitdate type="inclusive" normal="1974">1974</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [344777646193957132]" altrender="box">3</container>
                 <unittitle><title render="italic">Environmental Decision Making in Industry</title>, #201, <unitdate type="inclusive" normal="1974">1974</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [344777646193957132]" altrender="box">3</container>
                 <unittitle><title render="italic">Air-Control-Communication Console for Surface-Supplied Diving</title>, #204, <unitdate type="inclusive" normal="1974">1974</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [344777646193957132]" altrender="box">3</container>
                 <unittitle><title render="italic">Surface Current Drifters: Evolution and Applications</title>, <unitdate type="inclusive" normal="1974-09">September 1974</unitdate></unittitle>
               </did>
             </c04>
@@ -723,37 +731,37 @@ Michigan Seagrant Program, Publications, Bentley Historical Library, University 
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [344777646193957132]" altrender="box">3</container>
                 <unittitle><title render="italic">A Food Web Model for Lake Michigan Part 2-Model Formulation and Preliminary Verification</title>, #201, <unitdate type="inclusive" normal="1975">1975</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [344777646193957132]" altrender="box">3</container>
                 <unittitle><title render="italic">Computer Simulation in the Analysis of Surface Current Drifter Data</title>, #204, <unitdate type="inclusive" normal="1975">1975</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [344777646193957132]" altrender="box">3</container>
                 <unittitle><title render="italic">Skin and Scuba Diving and Associated Rescue Techniques for Lifeguards and Water Safety Instructors</title>, #601, <unitdate type="inclusive" normal="1975">1975</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [344777646193957132]" altrender="box">3</container>
                 <unittitle><title render="italic">Water and Land Resource Utilization Simulation (WALRUS I): Revised</title>, #602, <unitdate type="inclusive" normal="1975">1975</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [344777646193957132]" altrender="box">3</container>
                 <unittitle><title render="italic">Research Diver Training Program</title>, #603, <unitdate type="inclusive" normal="1975">1975</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [344777646193957132]" altrender="box">3</container>
                 <unittitle><title render="italic">Coastwise Currents in the Vicinity of Chicago, and Currents Elsewshere in Southern Lake Michigan</title>, [1975 ?]</unittitle>
               </did>
             </c04>
@@ -766,43 +774,43 @@ Michigan Seagrant Program, Publications, Bentley Historical Library, University 
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [344777646193957132]" altrender="box">3</container>
                 <unittitle><title render="italic">Fishes of the Grand Traverse Bay Region</title>, #100, <unitdate type="inclusive" normal="1976">1976</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [344777646193957132]" altrender="box">3</container>
                 <unittitle><title render="italic">The Limnology of Grand Traverse Bay, Lake Michigan</title>, #200, <unitdate type="inclusive" normal="1976">1976</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [344777646193957132]" altrender="box">3</container>
                 <unittitle><title render="italic">Grand Traverse Bay Limnological Data</title>, #201, <unitdate type="inclusive" normal="1976">1976</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [344777646193957132]" altrender="box">3</container>
                 <unittitle><title render="italic">Buoyancy Compensation: Use or Abuse and Emergency Ascent Training: Safe or Unsafe</title>, #306 and #307, <unitdate type="inclusive" normal="1976">1976</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [344777646193957132]" altrender="box">3</container>
                 <unittitle><title render="italic">"It Won't Happen to Me" Syndrome: Preparation for an Emergency and Recreational Surface-Supplied Diving</title>, #309 and #310, <unitdate type="inclusive" normal="1976">1976</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [344777646193957132]" altrender="box">3</container>
                 <unittitle><title render="italic">Selected Limnological Data from Saginaw Bay, Lake Huron</title>, #902, <unitdate type="inclusive" normal="1976">1976</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [344777646193957132]" altrender="box">3</container>
                 <unittitle><title render="italic">Consumers' Perceptions of and Responses to the use of Underutilized Fish Species in Hot Dogs</title>, #201, <unitdate type="inclusive" normal="1977">1977</unitdate></unittitle>
               </did>
             </c04>
@@ -815,13 +823,13 @@ Michigan Seagrant Program, Publications, Bentley Historical Library, University 
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [344777646193957132]" altrender="box">3</container>
                 <unittitle><title render="italic">The Michigan Demonstration Erosion Control Program in 1976</title>, #200, <unitdate type="inclusive" normal="1977">1977</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [344777646193957132]" altrender="box">3</container>
                 <unittitle><title render="italic">Guidelines for Preparation of Occupational Safety and Health Standards for Scientific/Educational Diving Operations</title>, #204, <unitdate type="inclusive" normal="1977">1977</unitdate></unittitle>
               </did>
             </c04>
@@ -834,19 +842,19 @@ Michigan Seagrant Program, Publications, Bentley Historical Library, University 
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [344777646193957132]" altrender="box">3</container>
                 <unittitle><title render="italic">Petroleum Hydrocarbons and Heavy Metals in Great Lakes Surface Films</title>, #202, <unitdate type="inclusive" normal="1978">1978</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [344777646193957132]" altrender="box">3</container>
                 <unittitle><title render="italic">Profiles of Aquaculture in Michigan</title>, #203, <unitdate type="inclusive" normal="1978">1978</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [344777646193957132]" altrender="box">3</container>
                 <unittitle><title render="italic">Michigan Commercial Fishing Regulations: Summary of Public Acts and Conservation Commission Orders 1865-1975</title>, #605, <unitdate type="inclusive" normal="1978">1978</unitdate></unittitle>
               </did>
             </c04>
@@ -859,73 +867,73 @@ Michigan Seagrant Program, Publications, Bentley Historical Library, University 
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [344777646193957132]" altrender="box">3</container>
                 <unittitle><title render="italic">Research Strategy for Recreation Sub-Program Michigan Institutional Sea Grant Program</title>, #116, <unitdate type="inclusive" normal="1979">1979</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [344777646193957132]" altrender="box">3</container>
                 <unittitle><title render="italic">Purse Seining on the Great Lakes: Vessels, Gear, and Operation</title>, #200, <unitdate type="inclusive" normal="1979">1979</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [866576544834135080]" altrender="box">4</container>
                 <unittitle><title render="italic">Life History, Abundance, and Potential Harvest of Carp from Michigan Waters of the Great Lakes</title>, #205, <unitdate type="inclusive" normal="1979">1979</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [866576544834135080]" altrender="box">4</container>
                 <unittitle><title render="italic">Bibliography of Coral Reef Fish Research, with Emphasis on Western Atlantic Families</title> (Subject Index Included), #206, <unitdate type="inclusive" normal="1979">1979</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [866576544834135080]" altrender="box">4</container>
                 <unittitle><title render="italic">The Effect of Sediment Oil Contamination on the Bioaccumulation and Excretion of Aroclor 1242 by Chironmid Larvae</title>, #207, <unitdate type="inclusive" normal="1979">1979</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [866576544834135080]" altrender="box">4</container>
                 <unittitle><title render="italic">Purse Seining on the Great Lakes: Catches, Efforts, and Problems</title>, #211, <unitdate type="inclusive" normal="1979">1979</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [866576544834135080]" altrender="box">4</container>
                 <unittitle><title render="italic">Acquisition of Public Access Sites to the Great Lakes</title>, #214, <unitdate type="inclusive" normal="1979">1979</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [866576544834135080]" altrender="box">4</container>
                 <unittitle><title render="italic">Petroleum Transport on the Great Lakes</title>, #217, <unitdate type="inclusive" normal="1979">1979</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [866576544834135080]" altrender="box">4</container>
                 <unittitle><title render="italic">Fishery Management: Goals and Tools</title>, #505, <unitdate type="inclusive" normal="1979">1979</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [866576544834135080]" altrender="box">4</container>
                 <unittitle><title render="italic">Diving Record and Qualification Book II</title>, #602, <unitdate type="inclusive" normal="1979">1979</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [866576544834135080]" altrender="box">4</container>
                 <unittitle><title render="italic">Management of Injuries Caused by Marine Organisms</title>, #604, <unitdate type="inclusive" normal="1979">1979</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [866576544834135080]" altrender="box">4</container>
                 <unittitle><title render="italic">Great Lakes Information: 3rd-11th Quarterly Reports</title>, <unitdate type="inclusive" normal="1979/1981">1979-1981</unitdate></unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">9 folders</extent>
@@ -941,55 +949,55 @@ Michigan Seagrant Program, Publications, Bentley Historical Library, University 
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [866576544834135080]" altrender="box">4</container>
                 <unittitle><title render="italic">Attitudes of a Scuba Diving Population Concerning Governmental Regulation of Underwater Resources</title>, #201, <unitdate type="inclusive" normal="1980">1980</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [866576544834135080]" altrender="box">4</container>
                 <unittitle><title render="italic">Lake Michigan Surface Films: Fatty Acids and Aliphatic Hydrocarbons</title>, #202, <unitdate type="inclusive" normal="1980">1980</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [866576544834135080]" altrender="box">4</container>
                 <unittitle><title render="italic">Environmental Controls on the Composition of the Surface Microlayer in Lake Michigan</title>, #203, <unitdate type="inclusive" normal="1980">1980</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [866576544834135080]" altrender="box">4</container>
                 <unittitle><title render="italic">Shipwreck vs. Nonshipwreck Scuba Divers: Characteristics, Behavior, and Expenditure Patterns</title>, #205, <unitdate type="inclusive" normal="1980">1980</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [866576544834135080]" altrender="box">4</container>
                 <unittitle><title render="italic">Hyperbaric and Undersea Medicine: Near-Drowning</title>, #312, <unitdate type="inclusive" normal="1980">1980</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [866576544834135080]" altrender="box">4</container>
                 <unittitle><title render="italic">Cold Water Near-Drowning</title>, #316, <unitdate type="inclusive" normal="1980">1980</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [866576544834135080]" altrender="box">4</container>
                 <unittitle><title render="italic">Ice Uplift on Piles on the Upper Great Lakes</title>, #506, <unitdate type="inclusive" normal="1980">1980</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [866576544834135080]" altrender="box">4</container>
                 <unittitle><title render="italic">The Use and Construction of Small-Mesh Trap Nets</title>, #516, <unitdate type="inclusive" normal="1980">1980</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [866576544834135080]" altrender="box">4</container>
                 <unittitle><title render="italic">The University of Michigan Manual of Safe Practices for Scientific Academic Scuba Diving</title>, #600, <unitdate type="inclusive" normal="1980">1980</unitdate></unittitle>
               </did>
             </c04>
@@ -1002,67 +1010,67 @@ Michigan Seagrant Program, Publications, Bentley Historical Library, University 
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [866576544834135080]" altrender="box">4</container>
                 <unittitle><title render="italic">Model Great Lakes Commercial Fisheries Statute: Adapted for use in the State of Michigan</title>, #200, <unitdate type="inclusive" normal="1981">1981</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [866576544834135080]" altrender="box">4</container>
                 <unittitle><title render="italic">Surface Ship Path Control Using Multivariable Integral Control</title>, #201, <unitdate type="inclusive" normal="1981">1981</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [866576544834135080]" altrender="box">4</container>
                 <unittitle><title render="italic">Effects of Control Systems on Optimization of Ship Size for Navigation in Restricted Waters of the Great Lakes</title>, #204, <unitdate type="inclusive" normal="1981">1981</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [866576544834135080]" altrender="box">4</container>
                 <unittitle><title render="italic">New No-Decompression Tables Based on No-Decompression Limits Determined by Doppler Ultrasonic Bubble Detection</title>, #205, <unitdate type="inclusive" normal="1981">1981</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [866576544834135080]" altrender="box">4</container>
                 <unittitle><title render="italic">Observations on Low-Cost Shore Protection</title>, #206, <unitdate type="inclusive" normal="1981">1981</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [866576544834135080]" altrender="box">4</container>
                 <unittitle><title render="italic">Mathematical Evaluation of Multi-Level Diving</title>, #207, <unitdate type="inclusive" normal="1981">1981</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [866576544834135080]" altrender="box">4</container>
                 <unittitle><title render="italic">The Legal Rights of the Public in the Foreshores of the Great Lakes</title>, #209, <unitdate type="inclusive" normal="1981">1981</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [866576544834135080]" altrender="box">4</container>
                 <unittitle><title render="italic">Sawdust and Wood Chip Deposits in Near-Shore Lake Michigan Waters Near Manistique, Michigan</title>, #211, <unitdate type="inclusive" normal="1981">1981</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [866576544834135080]" altrender="box">4</container>
                 <unittitle><title render="italic">Preliminary Investigation of Spawning Habitat Conditions and Reproduction of Lake Trout in Eastern Lake Michigan Near Port Sheldon, Michigan</title>, #213, <unitdate type="inclusive" normal="1981">1981</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [866576544834135080]" altrender="box">4</container>
                 <unittitle><title render="italic">Fish in Lake Michigan</title>, #600, <unitdate type="inclusive" normal="1981">1981</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [866576544834135080]" altrender="box">4</container>
                 <unittitle><title render="italic">Pollution Problems of the Great Lakes Region: Conference Proceedings</title>, <unitdate type="inclusive" normal="1980-06-09/1980-06-11">June 9-11, 1980</unitdate> #900, <unitdate type="inclusive" normal="1981">1981</unitdate></unittitle>
               </did>
             </c04>
@@ -1075,85 +1083,85 @@ Michigan Seagrant Program, Publications, Bentley Historical Library, University 
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [866576544834135080]" altrender="box">4</container>
                 <unittitle><title render="italic">Ice Strengthening of Great Lakes Bulk Carriers</title>, #200, <unitdate type="inclusive" normal="1982">1982</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [866576544834135080]" altrender="box">4</container>
                 <unittitle><title render="italic">Management Guidelines for Michigan's Great Lakes Bottomland Preserves</title>, #201, <unitdate type="inclusive" normal="1982">1982</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [866576544834135080]" altrender="box">4</container>
                 <unittitle><title render="italic">1980 Michigan Recreational Boating Survey</title>, #202, <unitdate type="inclusive" normal="1982">1982</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [866576544834135080]" altrender="box">4</container>
                 <unittitle><title render="italic">Michigan Great Lakes Recreational Boating: Synthesis of Current Information</title>, #203, <unitdate type="inclusive" normal="1982">1982</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [866576544834135080]" altrender="box">4</container>
                 <unittitle><title render="italic">Economics of Sport Fishing in Alcona County</title>, #204, <unitdate type="inclusive" normal="1982">1982</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [866576544834135080]" altrender="box">4</container>
                 <unittitle><title render="italic">A Profile of the Michigan Commercial Fisherman</title>, #205, <unitdate type="inclusive" normal="1982">1982</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [866576544834135080]" altrender="box">4</container>
                 <unittitle><title render="italic">Feasibility of Moving Western Coal Through a Transshipment Point Located on Lake Michigan</title>, #206, <unitdate type="inclusive" normal="1982">1982</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [866576544834135080]" altrender="box">4</container>
                 <unittitle><title render="italic">Effects of Pentachlorobiphenyl on Growth of Nutrient Enriched Phytoplankton from Lake Michigan</title>, #300, <unitdate type="inclusive" normal="1982">1982</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [866576544834135080]" altrender="box">4</container>
                 <unittitle><title render="italic">Recreational Boat Owners' Response to Energy Constraints</title>, #301, <unitdate type="inclusive" normal="1982">1982</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [866576544834135080]" altrender="box">4</container>
                 <unittitle><title render="italic">Trends in Recreational Boating in Michigan</title>, #302, <unitdate type="inclusive" normal="1982">1982</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [866576544834135080]" altrender="box">4</container>
                 <unittitle><title render="italic">Great Lakes Shipping, Transportation and Markets for Michigan's Forest Products: A Preliminary Economic Inquiry</title>, #500, <unitdate type="inclusive" normal="1982">1982</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [866576544834135080]" altrender="box">4</container>
                 <unittitle><title render="italic">Grain Transportation on the Great Lakes-St. Lawrence Seaway</title>, #501, <unitdate type="inclusive" normal="1982">1982</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [866576544834135080]" altrender="box">4</container>
                 <unittitle><title render="italic">Aquatic Park Management: Symposium Proceedings</title>, #900, <unitdate type="inclusive" normal="1982">1982</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [866576544834135080]" altrender="box">4</container>
                 <unittitle><title render="italic">Bluff Slumping: Proceedings of the 1982 Workshop</title>, #901, <unitdate type="inclusive" normal="1982">1982</unitdate></unittitle>
               </did>
             </c04>
@@ -1166,43 +1174,43 @@ Michigan Seagrant Program, Publications, Bentley Historical Library, University 
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [866576544834135080]" altrender="box">4</container>
                 <unittitle><title render="italic">Pressure Signatures of Great Lakes Bulk Carriers in Shallow Water and Restricted Channels</title>, #200, <unitdate type="inclusive" normal="1983">1983</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [866576544834135080]" altrender="box">4</container>
                 <unittitle><title render="italic">Economics of Sport Fishing in Muskegon County</title>, #202, <unitdate type="inclusive" normal="1983">1983</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [866576544834135080]" altrender="box">4</container>
                 <unittitle><title render="italic">Spending Patterns and Economic Impacts of Michigan Registered Boat Owners</title>, #210, <unitdate type="inclusive" normal="1983">1983</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">5</container>
+                <container type="box" label="Box [59294341448732942167]" altrender="box">5</container>
                 <unittitle><title render="italic">Fractionation of Hydrophobic Organic Materials in Surface Microlayers</title>, #301, <unitdate type="inclusive" normal="1983">1983</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">5</container>
+                <container type="box" label="Box [59294341448732942167]" altrender="box">5</container>
                 <unittitle><title render="italic">Enrichment of PCBs in Lake Michigan Surface Films</title>, #302, <unitdate type="inclusive" normal="1983">1983</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">5</container>
+                <container type="box" label="Box [59294341448732942167]" altrender="box">5</container>
                 <unittitle><title render="italic">Is Great Lakes Shipping an Underutilized Economic Resource?</title>, #500, <unitdate type="inclusive" normal="1983">1983</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">5</container>
+                <container type="box" label="Box [59294341448732942167]" altrender="box">5</container>
                 <unittitle><title render="italic">Assessment of Wetland Resources: Manual for a Workshop</title>, #600, <unitdate type="inclusive" normal="1983">1983</unitdate></unittitle>
               </did>
             </c04>
@@ -1215,13 +1223,13 @@ Michigan Seagrant Program, Publications, Bentley Historical Library, University 
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">5</container>
+                <container type="box" label="Box [59294341448732942167]" altrender="box">5</container>
                 <unittitle><title render="italic">Proceedings of the 14th International Conference on Underwater Education, November 1983</title>, #300 to #304, <unitdate type="inclusive" normal="1984">1984</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">5</container>
+                <container type="box" label="Box [59294341448732942167]" altrender="box">5</container>
                 <unittitle><title render="italic">Applied Geography Conferences: Cognitive Maps of Tourism Regions</title>, #311, <unitdate type="inclusive" normal="1984">1984</unitdate></unittitle>
               </did>
             </c04>
@@ -1233,37 +1241,37 @@ Michigan Seagrant Program, Publications, Bentley Historical Library, University 
               </did>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">5</container>
+                  <container type="box" label="Box [59294341448732942167]" altrender="box">5</container>
                   <unittitle><title render="italic">Advanced Boatyard Technologies</title>, #600, <unitdate type="inclusive" normal="1984">1984</unitdate></unittitle>
                 </did>
               </c05>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">5</container>
+                  <container type="box" label="Box [59294341448732942167]" altrender="box">5</container>
                   <unittitle><title render="italic">Microcomputer Basics</title>, #601, <unitdate type="inclusive" normal="1984">1984</unitdate></unittitle>
                 </did>
               </c05>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">5</container>
+                  <container type="box" label="Box [59294341448732942167]" altrender="box">5</container>
                   <unittitle><title render="italic">Microcomputer Operating Systems and Languages</title>, #602, <unitdate type="inclusive" normal="1984">1984</unitdate></unittitle>
                 </did>
               </c05>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">5</container>
+                  <container type="box" label="Box [59294341448732942167]" altrender="box">5</container>
                   <unittitle><title render="italic">Microcomputer Business Applications</title>, #603, <unitdate type="inclusive" normal="1984">1984</unitdate></unittitle>
                 </did>
               </c05>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">5</container>
+                  <container type="box" label="Box [59294341448732942167]" altrender="box">5</container>
                   <unittitle><title render="italic">Microcomputers and Production Control</title>, #605, <unitdate type="inclusive" normal="1984">1984</unitdate></unittitle>
                 </did>
               </c05>
               <c05 level="file">
                 <did>
-                  <container type="box" label="Box">5</container>
+                  <container type="box" label="Box [59294341448732942167]" altrender="box">5</container>
                   <unittitle><title render="italic">Microcomputers and Design Aids</title>, #604, <unitdate type="inclusive" normal="1984">1984</unitdate></unittitle>
                 </did>
               </c05>
@@ -1277,7 +1285,7 @@ Michigan Seagrant Program, Publications, Bentley Historical Library, University 
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">5</container>
+                <container type="box" label="Box [59294341448732942167]" altrender="box">5</container>
                 <unittitle><title render="italic">The Great Lakes Charterboat Fishing Industry: Workshop November 1985</title>, <unitdate type="inclusive">undated</unitdate></unittitle>
               </did>
             </c04>
@@ -1290,13 +1298,13 @@ Michigan Seagrant Program, Publications, Bentley Historical Library, University 
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">5</container>
+                <container type="box" label="Box [59294341448732942167]" altrender="box">5</container>
                 <unittitle><title render="italic">Age and Growth of Fish</title>, #310, <unitdate type="inclusive" normal="1986">1986</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">5</container>
+                <container type="box" label="Box [59294341448732942167]" altrender="box">5</container>
                 <unittitle><title render="italic">Diver Education Series</title>, #500 to #513, <unitdate type="inclusive" normal="1986">1986</unitdate></unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -1312,67 +1320,67 @@ Michigan Seagrant Program, Publications, Bentley Historical Library, University 
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">5</container>
+                <container type="box" label="Box [59294341448732942167]" altrender="box">5</container>
                 <unittitle><title render="italic">Institutional Arrangements for Great Lakes Management: Past Practices and Future Alternatives, An Executive Summary</title>, #200E, <unitdate type="inclusive" normal="1987">1987</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">5</container>
+                <container type="box" label="Box [59294341448732942167]" altrender="box">5</container>
                 <unittitle><title render="italic">Institutional Arrangements for Great Lakes Management: Past Practices and Future Alternatives</title>, #200T, <unitdate type="inclusive" normal="1987">1987</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">5</container>
+                <container type="box" label="Box [59294341448732942167]" altrender="box">5</container>
                 <unittitle><title render="italic">Microprocessor Applications to Multi-Level Air Decompression Problems</title>, #201, <unitdate type="inclusive" normal="1987">1987</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">5</container>
+                <container type="box" label="Box [59294341448732942167]" altrender="box">5</container>
                 <unittitle><title render="italic">Diver Education Series</title>, #501 to #504, <unitdate type="inclusive" normal="1987">1987</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">5</container>
+                <container type="box" label="Box [59294341448732942167]" altrender="box">5</container>
                 <unittitle><title render="italic">Behavior Patterns of Divers Visiting the Alger Bottomland Preserve</title>, #505, <unitdate type="inclusive" normal="1987">1987</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">5</container>
+                <container type="box" label="Box [59294341448732942167]" altrender="box">5</container>
                 <unittitle><title render="italic">1986 Recreational Diving Activity in Michigan Bottomland Preserves</title>, #506, <unitdate type="inclusive" normal="1987">1987</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">5</container>
+                <container type="box" label="Box [59294341448732942167]" altrender="box">5</container>
                 <unittitle><title render="italic">A Profile of 1986 Diver Activity in the Thunder Bay Bottomland Preserve</title>, #507, <unitdate type="inclusive" normal="1987">1987</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">5</container>
+                <container type="box" label="Box [59294341448732942167]" altrender="box">5</container>
                 <unittitle><title render="italic">A Profile of Great Lakes Diver Activity, Travel, and Expenditure Patterns</title>, #508, <unitdate type="inclusive" normal="1987">1987</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">5</container>
+                <container type="box" label="Box [59294341448732942167]" altrender="box">5</container>
                 <unittitle><title render="italic">1985 Michigan Charter Fishing Study</title>, #509, <unitdate type="inclusive" normal="1987">1987</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">5</container>
+                <container type="box" label="Box [59294341448732942167]" altrender="box">5</container>
                 <unittitle><title render="italic">Community Enhancement of a Great Lakes Charterboat Fishery in Grand Haven, Michigan</title>, #510, <unitdate type="inclusive" normal="1987">1987</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">5</container>
+                <container type="box" label="Box [59294341448732942167]" altrender="box">5</container>
                 <unittitle><title render="italic">Communicating Science to the Public, Mass Media and Science: Worlds at Odds?</title>, #900, <unitdate type="inclusive" normal="1987">1987</unitdate></unittitle>
               </did>
             </c04>
@@ -1385,7 +1393,7 @@ Michigan Seagrant Program, Publications, Bentley Historical Library, University 
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">5</container>
+                <container type="box" label="Box [59294341448732942167]" altrender="box">5</container>
                 <unittitle><title render="italic">Great Lakes Coastal Erosion Research Needs: Workshop Summary</title>, #900, <unitdate type="inclusive" normal="1988">1988</unitdate></unittitle>
               </did>
             </c04>
@@ -1398,43 +1406,43 @@ Michigan Seagrant Program, Publications, Bentley Historical Library, University 
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">5</container>
+                <container type="box" label="Box [59294341448732942167]" altrender="box">5</container>
                 <unittitle><title render="italic">Hybrid Water Law Systems: Would One Be Advantageous for Michigan?</title>, #200, <unitdate type="inclusive" normal="1989">1989</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">5</container>
+                <container type="box" label="Box [59294341448732942167]" altrender="box">5</container>
                 <unittitle><title render="italic">Trends and Emerging Environmental Issues in the Great Lakes: Perceptions and Assessments</title>, #201, <unitdate type="inclusive" normal="1989">1989</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">5</container>
+                <container type="box" label="Box [59294341448732942167]" altrender="box">5</container>
                 <unittitle><title render="italic">Size and Seasonal Variations of PCBs in Chinook Salmon Fillets from Lake Michigan near Ludington, Michigan</title>, #202, <unitdate type="inclusive" normal="1989">1989</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">5</container>
+                <container type="box" label="Box [59294341448732942167]" altrender="box">5</container>
                 <unittitle><title render="italic">1987 Upper Michigan Charter Fishing Study</title>, #501, <unitdate type="inclusive" normal="1989">1989</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">5</container>
+                <container type="box" label="Box [59294341448732942167]" altrender="box">5</container>
                 <unittitle><title render="italic">Community Enhancement of a Great Lakes Charterboat Fishery in Grand Haven, Michigan</title>, #502, <unitdate type="inclusive" normal="1989">1989</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">5</container>
+                <container type="box" label="Box [59294341448732942167]" altrender="box">5</container>
                 <unittitle><title render="italic">Results of the Sport Diving and Great Lakes Aquatic Parks Survey 1992</title>, <unitdate type="inclusive">undated</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">5</container>
+                <container type="box" label="Box [59294341448732942167]" altrender="box">5</container>
                 <unittitle><title render="italic">Results of the Sport Diving and Great Lakes Aquatic Parks Survey: Executive Summary</title>, #200ex, <unitdate type="inclusive" normal="1992">1992</unitdate></unittitle>
               </did>
             </c04>
@@ -1447,7 +1455,7 @@ Michigan Seagrant Program, Publications, Bentley Historical Library, University 
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">5</container>
+                <container type="box" label="Box [59294341448732942167]" altrender="box">5</container>
                 <unittitle><title render="italic">An Analysis of the Development Needs of Michigan Bottomland (Underwater) Preserve Communities Using the Nominal Group Technique</title>, #201, <unitdate type="inclusive" normal="1993">1993</unitdate></unittitle>
               </did>
             </c04>
@@ -1460,13 +1468,13 @@ Michigan Seagrant Program, Publications, Bentley Historical Library, University 
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">5</container>
+                <container type="box" label="Box [59294341448732942167]" altrender="box">5</container>
                 <unittitle><title render="italic">Upper Peninsula of Michigan Lake Superior 1992 Transient Boater Marketing and Economics Survey</title>, #204, <unitdate type="inclusive" normal="1994">1994</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">5</container>
+                <container type="box" label="Box [59294341448732942167]" altrender="box">5</container>
                 <unittitle><title render="italic">A Comparison of the Escanaba 1988 and 1992 Transient Boater Marketing and Economics Surveys</title>, #205, <unitdate type="inclusive" normal="1994">1994</unitdate></unittitle>
               </did>
             </c04>
@@ -1479,7 +1487,7 @@ Michigan Seagrant Program, Publications, Bentley Historical Library, University 
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">5</container>
+                <container type="box" label="Box [59294341448732942167]" altrender="box">5</container>
                 <unittitle><title render="italic">Chemistry, Temperature, and Secchi Disc Data for Hatchery Bay, Western Lake Erie 1996</title>, <unitdate type="inclusive">undated</unitdate></unittitle>
               </did>
             </c04>
@@ -1492,13 +1500,13 @@ Michigan Seagrant Program, Publications, Bentley Historical Library, University 
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">5</container>
+                <container type="box" label="Box [59294341448732942167]" altrender="box">5</container>
                 <unittitle><title render="italic">Rouge River Assessment 1998</title>, <unitdate type="inclusive">undated</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">5</container>
+                <container type="box" label="Box [59294341448732942167]" altrender="box">5</container>
                 <unittitle><title render="italic">Rouge River Assessment Appendix 1998</title>, <unitdate type="inclusive">undated</unitdate></unittitle>
               </did>
             </c04>
@@ -1507,7 +1515,7 @@ Michigan Seagrant Program, Publications, Bentley Historical Library, University 
       </c01>
       <c01 level="series">
         <did>
-          <container type="box" label="Box">6</container>
+          <container type="box" label="Box [6984740401963402]" altrender="box">6</container>
           <unittitle>Topical Publications</unittitle>
         </did>
         <scopecontent>
@@ -1515,49 +1523,49 @@ Michigan Seagrant Program, Publications, Bentley Historical Library, University 
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [6984740401963402]" altrender="box">6</container>
             <unittitle>Boating</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [6984740401963402]" altrender="box">6</container>
             <unittitle>Economic Opportunities</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [6984740401963402]" altrender="box">6</container>
             <unittitle>Educational Sources</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [6984740401963402]" altrender="box">6</container>
             <unittitle>Environmental Concerns</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [6984740401963402]" altrender="box">6</container>
             <unittitle>Fishing</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [6984740401963402]" altrender="box">6</container>
             <unittitle><title render="italic">Hurricane Mitch Reconstruction: Nicaragua Assistance Program</title> (CD-ROM), <unitdate type="inclusive" normal="2002">2002</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [6984740401963402]" altrender="box">6</container>
             <unittitle>Miscellaneous</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [6984740401963402]" altrender="box">6</container>
             <unittitle>
               <title render="italic">National Marina Network Program</title>
               <unitdate type="inclusive" normal="1997">1997</unitdate>
@@ -1566,19 +1574,19 @@ Michigan Seagrant Program, Publications, Bentley Historical Library, University 
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [6984740401963402]" altrender="box">6</container>
             <unittitle>Recipes</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [6984740401963402]" altrender="box">6</container>
             <unittitle>Recreation</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [6984740401963402]" altrender="box">6</container>
             <unittitle>Zebra Mussels</unittitle>
           </did>
         </c02>
@@ -1588,7 +1596,7 @@ Michigan Seagrant Program, Publications, Bentley Historical Library, University 
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [6984740401963402]" altrender="box">6</container>
               <unittitle>Marine Advisory Program <unitdate type="inclusive" normal="1978/1979">1978-1979</unitdate></unittitle>
             </did>
           </c03>
@@ -1600,7 +1608,7 @@ Michigan Seagrant Program, Publications, Bentley Historical Library, University 
         </did>
         <c02 level="file">
           <did>
-            <container type="folder" label="Oversize Folder">1</container>
+            <container type="folder" label="Oversize Folder [59681253459814362576030]" altrender="folder">1</container>
             <unittitle>Outsize Posters</unittitle>
           </did>
           <odd>

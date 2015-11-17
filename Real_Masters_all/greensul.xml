@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Sullivan Dexter Green papers [microform], 1853-1890</titleproper>
       <author>Finding aid created by <lb/>Michigan Historical Collections staff</author>
     </titlepage>
@@ -85,28 +85,28 @@ Sullivan Dexter Green papers, Bentley Historical Library, University of Michigan
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <subject source="lcsh" encodinganalog="650">Baseball.</subject>
-        <geogname source="lcsh" encodinganalog="651">Detroit (Mich.)--Description and travel.</geogname>
-        <subject source="lcsh" encodinganalog="630">Detroit Free Press.</subject>
-        <geogname source="lcsh" encodinganalog="651">New Hampshire.</geogname>
-        <subject source="lcsh" encodinganalog="650">Temperance--United States.</subject>
-        <subject source="lcsh" encodinganalog="650">Voyages and travels.</subject>
-        <subject source="lcsh" encodinganalog="650">Travelers.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/8051">Baseball.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1953">Detroit (Mich.)--Description and travel.</geogname>
+        <subject source="lcsh" encodinganalog="630" ref="/subjects/5906">Detroit Free Press.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1387">New Hampshire.</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5854">Temperance--United States.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6009">Voyages and travels.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6010">Travelers.</subject>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n2007162970">United States. Army. Michigan Infantry Regiment, 24th (1862-1865). Company F.</corpname>
-        <geogname source="lcsh" encodinganalog="651">United States--History--Civil War, 1861-1865.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/909">United States--History--Civil War, 1861-1865.</geogname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan--Students--Correspondence.</corpname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan--Students--Social life and customs--1851-1860.</corpname>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Materials:</head>
-        <subject source="lctgm" encodinganalog="650">Military life.</subject>
-        <geogname source="lcsh" encodinganalog="651">United States--History--Civil War, 1861-1865.</geogname>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4216">Military life.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/909">United States--History--Civil War, 1861-1865.</geogname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n2007162970">United States. Army. Michigan Infantry Regiment, 24th (1862-1865). Company F.</corpname>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Diaries.</genreform>
-        <genreform source="aat" encodinganalog="655">Drawings.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3150">Diaries.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3189">Drawings.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -116,11 +116,13 @@ Sullivan Dexter Green papers, Bentley Historical Library, University of Michigan
         </did>
         <c02 level="file">
           <did>
-            <unittitle>Correspondence <unitdate type="inclusive" normal="1853/1872">1853-1872</unitdate>, <unitdate type="inclusive" normal="1890">1890</unitdate></unittitle>
+            <unittitle>Correspondence</unittitle>
+            <unitdate type="inclusive" normal="1853/1872">1853-1872</unitdate>
+            <unitdate type="inclusive" normal="1890">1890</unitdate>
           </did>
           <c03 level="file">
             <did>
-              <container type="reel" label="Roll">1</container>
+              <container type="reel" label="Roll [50021124339403594116]" altrender="reel">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1853/1860">1853-1860</unitdate>
               </unittitle>
@@ -128,7 +130,7 @@ Sullivan Dexter Green papers, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="file">
             <did>
-              <container type="reel" label="Roll">1</container>
+              <container type="reel" label="Roll [50021124339403594116]" altrender="reel">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1861/1865">1861-1865</unitdate>
               </unittitle>
@@ -136,7 +138,7 @@ Sullivan Dexter Green papers, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="file">
             <did>
-              <container type="reel" label="Roll">1</container>
+              <container type="reel" label="Roll [50021124339403594116]" altrender="reel">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1871/1872">1871-1872</unitdate>
               </unittitle>
@@ -144,7 +146,7 @@ Sullivan Dexter Green papers, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="file">
             <did>
-              <container type="reel" label="Roll">1</container>
+              <container type="reel" label="Roll [50021124339403594116]" altrender="reel">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1890">1890</unitdate>
               </unittitle>
@@ -159,7 +161,7 @@ Sullivan Dexter Green papers, Bentley Historical Library, University of Michigan
           </did>
           <c03 level="file">
             <did>
-              <container type="reel" label="Roll">1</container>
+              <container type="reel" label="Roll [50021124339403594116]" altrender="reel">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1854">1854</unitdate>
               </unittitle>
@@ -167,7 +169,7 @@ Sullivan Dexter Green papers, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="file">
             <did>
-              <container type="reel" label="Roll">1</container>
+              <container type="reel" label="Roll [50021124339403594116]" altrender="reel">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1856">1856</unitdate>
               </unittitle>
@@ -180,7 +182,7 @@ Sullivan Dexter Green papers, Bentley Historical Library, University of Michigan
           </did>
           <c03 level="file">
             <did>
-              <container type="reel" label="Roll">1</container>
+              <container type="reel" label="Roll [50021124339403594116]" altrender="reel">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1849">1849</unitdate>
               </unittitle>
@@ -188,7 +190,7 @@ Sullivan Dexter Green papers, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="file">
             <did>
-              <container type="reel" label="Roll">1</container>
+              <container type="reel" label="Roll [50021124339403594116]" altrender="reel">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1858">1858</unitdate>
               </unittitle>
@@ -196,7 +198,7 @@ Sullivan Dexter Green papers, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="file">
             <did>
-              <container type="reel" label="Roll">1</container>
+              <container type="reel" label="Roll [50021124339403594116]" altrender="reel">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1863">1863</unitdate>
               </unittitle>
@@ -205,13 +207,13 @@ Sullivan Dexter Green papers, Bentley Historical Library, University of Michigan
         </c02>
         <c02 level="file">
           <did>
-            <container type="reel" label="Roll">1</container>
+            <container type="reel" label="Roll [50021124339403594116]" altrender="reel">1</container>
             <unittitle>Line <genreform normal="Drawings">Drawings</genreform> of Civil War Scenes</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="reel" label="Roll">1</container>
+            <container type="reel" label="Roll [50021124339403594116]" altrender="reel">1</container>
             <unittitle>Civil War Correspondence (misc. correspondents) <unitdate type="inclusive" normal="1864/1865">1864-1865</unitdate></unittitle>
           </did>
         </c02>
@@ -221,7 +223,7 @@ Sullivan Dexter Green papers, Bentley Historical Library, University of Michigan
           </did>
           <c03 level="file">
             <did>
-              <container type="reel" label="Roll">1</container>
+              <container type="reel" label="Roll [50021124339403594116]" altrender="reel">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1862/1865">1862-1865</unitdate>
               </unittitle>
@@ -229,7 +231,7 @@ Sullivan Dexter Green papers, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="file">
             <did>
-              <container type="reel" label="Roll">1</container>
+              <container type="reel" label="Roll [50021124339403594116]" altrender="reel">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1872/1889">1872-1889</unitdate>
               </unittitle>
@@ -238,19 +240,19 @@ Sullivan Dexter Green papers, Bentley Historical Library, University of Michigan
         </c02>
         <c02 level="file">
           <did>
-            <container type="reel" label="Roll">1</container>
+            <container type="reel" label="Roll [50021124339403594116]" altrender="reel">1</container>
             <unittitle>Notes of Detroit Baseball Games</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="reel" label="Roll">1</container>
+            <container type="reel" label="Roll [50021124339403594116]" altrender="reel">1</container>
             <unittitle>Miscellaneous Printed Material</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="reel" label="Roll">1</container>
+            <container type="reel" label="Roll [50021124339403594116]" altrender="reel">1</container>
             <unittitle>Miscellanea</unittitle>
           </did>
         </c02>

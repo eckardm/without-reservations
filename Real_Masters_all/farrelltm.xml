@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Thomas M. Farrell Papers, 1947-2011</titleproper>
       <author>Finding aid created by <lb/>Olga Virakhovskaya, 2013</author>
     </titlepage>
@@ -37,7 +37,9 @@
       <origination>
         <persname source="lcnaf" encodinganalog="100">Farrell, Thomas M.</persname>
       </origination>
-      <unittitle encodinganalog="245">Thomas M. Farrell papers <unitdate type="inclusive" encodinganalog="245$f" normal="1947/2011">1947-2011</unitdate>, <unitdate type="bulk" encodinganalog="245$g" normal="1952/2000">1952-2000</unitdate></unittitle>
+      <unittitle encodinganalog="245">Thomas M. Farrell papers</unittitle>
+      <unitdate type="inclusive" encodinganalog="245$f" normal="1947/2011">1947-2011</unitdate>
+      <unitdate type="bulk" encodinganalog="245$g" normal="1952/2000">1952-2000</unitdate>
       <unitid encodinganalog="852$h" repositorycode="MiU-H" countrycode="us" type="call number">2013128 Aa 2</unitid>
       <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language></langmaterial>
       <abstract>Papers of Thomas M. Farrell, Michigan political journalist, editor, and State public information officer. Farrell started his career as a correspondent for the United Press International, was Congressman John C. Mackie Administrative Assistant (1965-1966), and at different times served as Public Information Officer for the Michigan State Highway Department (1959-1965) and for the Michigan Supreme Court (1985-1993), Public Information Director for the Michigan Department of Transportation (1966-1968) and Department Commerce (1969-1972), Assistant Superintendent for Public Affairs for the Michigan Department of Education (1972-1985), and as Director of Communications for Michigan Catholic Conference (1968-1969). Collection includes correspondence, research material and articles by and about Farrell, as well as material collected by Farrell on subjects of professional and personal interests, mostly related to Michigan politics, government, and political figures; also photographs and VHS videotapes.</abstract>
@@ -87,17 +89,17 @@ Thomas M. Farrell papers, Bentley Historical Library, University of Michigan</p>
         <persname source="lcnaf" encodinganalog="600">Farrell, Thomas M.</persname>
         <persname source="lcnaf" encodinganalog="600">Mackie, John C.</persname>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n80084463">Williams, G. Mennen, 1911-1988.</persname>
-        <geogname source="lcsh" encodinganalog="651">Mackinac Bridge (Mich.)</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1374">Mackinac Bridge (Mich.)</geogname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n80126199">Michigan. Department of Education.</corpname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n81128346">Michigan. Department of State Highways.</corpname>
-        <geogname source="lcsh" encodinganalog="651">Michigan--Politics and government--1951-</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/910">Michigan--Politics and government--1951-</geogname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n81074669">Michigan. Supreme Court.</corpname>
-        <subject source="lcsh" encodinganalog="650">Reporters and reporting--Law and legislation--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7710">Reporters and reporting--Law and legislation--Michigan.</subject>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
-        <genreform source="aat" encodinganalog="655">Videotapes.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3140">Videotapes.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -110,7 +112,7 @@ Thomas M. Farrell papers, Bentley Historical Library, University of Michigan</p>
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [27960495288870]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1947/1985">1947-1985</unitdate>
             </unittitle>
@@ -118,7 +120,7 @@ Thomas M. Farrell papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [27960495288870]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1993/2011">1993-2011</unitdate>
             </unittitle>
@@ -126,7 +128,7 @@ Thomas M. Farrell papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [27960495288870]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive">Undated</unitdate>
             </unittitle>
@@ -142,7 +144,7 @@ Thomas M. Farrell papers, Bentley Historical Library, University of Michigan</p>
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [27960495288870]" altrender="box">1</container>
             <unittitle>Camp Atterbury, Indiana <unitdate type="inclusive" normal="1952">1952</unitdate></unittitle>
           </did>
         </c02>
@@ -152,7 +154,7 @@ Thomas M. Farrell papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [27960495288870]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1960/1966">1960-1966</unitdate>
               </unittitle>
@@ -163,7 +165,7 @@ Thomas M. Farrell papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [27960495288870]" altrender="box">1</container>
               <unittitle><unitdate type="inclusive" normal="1992/2008">1992-2008</unitdate> with gaps</unittitle>
             </did>
           </c03>
@@ -174,7 +176,7 @@ Thomas M. Farrell papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [27960495288870]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1957/1965">1957-1965</unitdate>
               </unittitle>
@@ -182,13 +184,13 @@ Thomas M. Farrell papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [27960495288870]" altrender="box">1</container>
               <unittitle><unitdate type="inclusive" normal="1970/1982">1970-1982</unitdate> with gaps</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [27960495288870]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="2007">2007</unitdate>
               </unittitle>
@@ -197,13 +199,15 @@ Thomas M. Farrell papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <unittitle>Michigan Catholic Conference <unitdate type="inclusive" normal="1955/2010">1955-2010</unitdate> with gaps and <unitdate type="inclusive">undated</unitdate></unittitle>
+            <container type="box" label="Box [27960495288870]" altrender="box">1</container>
+            <unittitle>Michigan Catholic Conference 1955-2010 with gaps and undated</unittitle>
+            <unitdate type="inclusive" normal="1955/2010">1955-2010</unitdate>
+            <unitdate type="inclusive">undated</unitdate>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [27960495288870]" altrender="box">1</container>
             <unittitle>Michigan Department of Commerce <unitdate type="inclusive" normal="1969/1972">1969-1972</unitdate></unittitle>
           </did>
         </c02>
@@ -213,7 +217,7 @@ Thomas M. Farrell papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [27960495288870]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1972/1973">1972-1973</unitdate>
               </unittitle>
@@ -221,7 +225,7 @@ Thomas M. Farrell papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [27960495288870]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1974/1975">1974-1975</unitdate>
               </unittitle>
@@ -229,7 +233,7 @@ Thomas M. Farrell papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [27960495288870]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1976/1985">1976-1985</unitdate>
               </unittitle>
@@ -238,19 +242,19 @@ Thomas M. Farrell papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [27960495288870]" altrender="box">1</container>
             <unittitle>Michigan Department of Transportation <unitdate type="inclusive" normal="1967/1968">1967-1968</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [27960495288870]" altrender="box">1</container>
             <unittitle>Michigan State Highway Department <unitdate type="inclusive" normal="1959/1964">1959-1964</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [27960495288870]" altrender="box">1</container>
             <unittitle>Michigan Supreme Court <unitdate type="inclusive" normal="1985/1994">1985-1994</unitdate></unittitle>
           </did>
           <odd>
@@ -259,7 +263,7 @@ Thomas M. Farrell papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [27960495288870]" altrender="box">1</container>
             <unittitle>Scrapbook <unitdate type="inclusive" normal="1970/1986">1970-1986</unitdate></unittitle>
           </did>
           <odd>
@@ -268,7 +272,7 @@ Thomas M. Farrell papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [27960495288870]" altrender="box">1</container>
             <unittitle>United Press Associations <unitdate type="inclusive" normal="1952/1959">1952-1959</unitdate></unittitle>
           </did>
         </c02>
@@ -278,8 +282,9 @@ Thomas M. Farrell papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
-              <unittitle><unitdate type="inclusive" normal="1953">1953</unitdate>, <unitdate type="inclusive" normal="1982/1987">1982-1987</unitdate></unittitle>
+              <container type="box" label="Box [27960495288870]" altrender="box">1</container>
+              <unitdate type="inclusive" normal="1953">1953</unitdate>
+              <unitdate type="inclusive" normal="1982/1987">1982-1987</unitdate>
             </did>
             <odd>
               <p>includes photograph</p>
@@ -287,7 +292,7 @@ Thomas M. Farrell papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [27960495288870]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1988/2006">1988-2006</unitdate>
               </unittitle>
@@ -304,32 +309,38 @@ Thomas M. Farrell papers, Bentley Historical Library, University of Michigan</p>
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [27960495288870]" altrender="box">1</container>
             <unittitle>Blue Lake Fine Arts Camp <unitdate type="inclusive" normal="1980/2011">1980-2011</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <unittitle>Braun, Norman L <unitdate type="inclusive" normal="1954">1954</unitdate>, <unitdate type="inclusive" normal="1988">1988</unitdate></unittitle>
+            <container type="box" label="Box [27960495288870]" altrender="box">1</container>
+            <unittitle>Braun, Norman L</unittitle>
+            <unitdate type="inclusive" normal="1954">1954</unitdate>
+            <unitdate type="inclusive" normal="1988">1988</unitdate>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [27960495288870]" altrender="box">1</container>
             <unittitle>Brickley, Jim <unitdate type="inclusive" normal="1982">1982</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <unittitle>Historic preservation <unitdate type="inclusive" normal="2009">2009</unitdate>, <unitdate type="inclusive" normal="2011">2011</unitdate></unittitle>
+            <container type="box" label="Box [27960495288870]" altrender="box">1</container>
+            <unittitle>Historic preservation</unittitle>
+            <unitdate type="inclusive" normal="2009">2009</unitdate>
+            <unitdate type="inclusive" normal="2011">2011</unitdate>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <unittitle>Michigan-Shiga Educational and Cultural Exchange <unitdate type="inclusive" normal="1976/2011">1976-2011</unitdate> with gaps and <unitdate type="inclusive">undated</unitdate></unittitle>
+            <container type="box" label="Box [27960495288870]" altrender="box">1</container>
+            <unittitle>Michigan-Shiga Educational and Cultural Exchange 1976-2011 with gaps and undated</unittitle>
+            <unitdate type="inclusive" normal="1976/2011">1976-2011</unitdate>
+            <unitdate type="inclusive">undated</unitdate>
           </did>
           <odd>
             <p>(includes photograph)</p>
@@ -337,7 +348,7 @@ Thomas M. Farrell papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [27960495288870]" altrender="box">1</container>
             <unittitle>Newspaper clippings and articles</unittitle>
           </did>
         </c02>
@@ -351,8 +362,10 @@ Thomas M. Farrell papers, Bentley Historical Library, University of Michigan</p>
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <unittitle>Photographs <unitdate type="inclusive" normal="1960/1969" certainty="approximate">1960s</unitdate>, <unitdate type="inclusive">undated</unitdate></unittitle>
+            <container type="box" label="Box [27960495288870]" altrender="box">1</container>
+            <unittitle>Photographs</unittitle>
+            <unitdate type="inclusive" normal="1960/1969" certainty="approximate">1960s</unitdate>
+            <unitdate type="inclusive">undated</unitdate>
           </did>
         </c02>
         <c02 level="file">
@@ -361,13 +374,13 @@ Thomas M. Farrell papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [27960495288870]" altrender="box">1</container>
               <unittitle><title render="italic">Dedication of the Honorable G. Mennen Williams portrait special session of the Michigan Supreme Court</title>..., <unitdate type="inclusive" normal="1990">1990</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [27960495288870]" altrender="box">1</container>
               <unittitle>Supreme Court restoration meeting <unitdate type="inclusive" normal="1990">1990</unitdate></unittitle>
             </did>
           </c03>

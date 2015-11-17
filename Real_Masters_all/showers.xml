@@ -34,7 +34,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding Aid for <lb/>Paul Showers Papers, <date type="inclusive">1783-1999</date></titleproper>
       <author>Finding aid prepared by: <lb/>Leigh Jasmer</author>
     </titlepage>
@@ -44,7 +44,9 @@
       <origination>
         <persname source="lcnaf" encodinganalog="100" authfilenumber="http://id.loc.gov/authorities/names/n50025900">Showers, Paul.</persname>
       </origination>
-      <unittitle encodinganalog="245">Paul Showers Papers <unitdate type="inclusive" encodinganalog="245$f" normal="1783/1999">1783-1999</unitdate>, <unitdate type="bulk" encodinganalog="245$g" normal="1870/1990">1870-1990</unitdate></unittitle>
+      <unittitle encodinganalog="245">Paul Showers Papers</unittitle>
+      <unitdate type="inclusive" encodinganalog="245$f" normal="1783/1999">1783-1999</unitdate>
+      <unitdate type="bulk" encodinganalog="245$g" normal="1870/1990">1870-1990</unitdate>
       <abstract>Paul Cutler Showers was a journalist and freelance writer. His writing and editing days began through involvement with <title render="italic">The Gargoyle</title> and <title render="italic">The Michigan Daily</title> while attending the University of Michigan. Showers's papers document his lengthy journalism career through his writings, recollections, and correspondence regarding the <title render="italic">Detroit Free Press</title>, the U.S. Army's <title render="italic">Yank Magazine</title>, and the <title render="italic">Sunday New York Times</title>. Family history played an important role in his life and can be seen through his collection of family photographs, recollections, and stories. In his later years, Showers became a prominent children's author known internationally for his work with the "Read and Find Out" series of science books for beginning readers.</abstract>
       <unitid countrycode="us" repositorycode="MiU-H" encodinganalog="099" type="call number">0387; Aa 2; Ac; UAm</unitid>
       <langmaterial>The materials are in <language encodinganalog="041" langcode="eng">English.</language></langmaterial>
@@ -97,23 +99,23 @@
       <controlaccess>
         <head>Subjects:</head>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n50025900">Showers, Paul.</persname>
-        <subject source="lcsh" encodinganalog="650">Authors.</subject>
-        <subject source="lcsh" encodinganalog="611">New York times.</subject>
-        <subject source="lcsh" encodinganalog="611">Gargoyle.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/10061">Authors.</subject>
+        <subject source="lcsh" encodinganalog="611" ref="/subjects/10062">New York times.</subject>
+        <subject source="lcsh" encodinganalog="611" ref="/subjects/10063">Gargoyle.</subject>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan--Students--Social life and customs--1931-1940.</corpname>
-        <subject source="lcsh" encodinganalog="611">Yank.</subject>
-        <subject source="lcsh" encodinganalog="650">World War, 1939-1945--Journalists.</subject>
+        <subject source="lcsh" encodinganalog="611" ref="/subjects/10064">Yank.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/10065">World War, 1939-1945--Journalists.</subject>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Material:</head>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n50025900">Showers, Paul.</persname>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n85149617.html">Almont (Mich.)</geogname>
-        <geogname source="lcsh" encodinganalog="651">Japan.</geogname>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n85149617.html" ref="/subjects/2805">Almont (Mich.)</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/948">Japan.</geogname>
         <corpname source="lcnaf" encodinganalog="610">Michigamua.</corpname>
-        <subject source="lcsh" encodinganalog="611">New York times.</subject>
+        <subject source="lcsh" encodinganalog="611" ref="/subjects/10062">New York times.</subject>
         <famname source="lcnaf" encodinganalog="600">Showers family.</famname>
-        <subject source="lcsh" encodinganalog="650">World War, 1939-1945--Japan.</subject>
-        <subject source="lcsh" encodinganalog="611">Yank.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/10066">World War, 1939-1945--Japan.</subject>
+        <subject source="lcsh" encodinganalog="611" ref="/subjects/10064">Yank.</subject>
       </controlaccess>
       <controlaccess>
         <head>Contributors:</head>
@@ -125,9 +127,9 @@
       </controlaccess>
       <controlaccess>
         <head>Genre/Form:</head>
-        <genreform source="aat" encodinganalog="655">Albums.</genreform>
-        <genreform source="aat" encodinganalog="655">Motion pictures.</genreform>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3211">Albums.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3167">Motion pictures.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -145,32 +147,34 @@
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [14730538114245873958326]" altrender="box">1</container>
               <unittitle>Ethelyne Showers's Friends to Paul Showers <unitdate type="inclusive" normal="1973/1977">1973-1977</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [14730538114245873958326]" altrender="box">1</container>
               <unittitle>Frank Showers, to and from friends and employers <unitdate type="inclusive" normal="1898/1941">1898-1941</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [14730538114245873958326]" altrender="box">1</container>
               <unittitle>Frank and Ethelyne Showers to Paul Showers <unitdate type="inclusive" normal="1941/1945">1941-1945</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [14730538114245873958326]" altrender="box">1</container>
               <unittitle>Kate Showers (regarding Paul Showers' memory booklet) <unitdate type="inclusive" normal="1999">1999</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
-              <unittitle>Paul Showers to Parents (Frank and Ethelyne Showers) <unitdate type="inclusive" normal="1929/1950">1929-1950</unitdate>, <unitdate type="inclusive" normal="1952/1953">1952-1953</unitdate></unittitle>
+              <container type="box" label="Box [14730538114245873958326]" altrender="box">1</container>
+              <unittitle>Paul Showers to Parents (Frank and Ethelyne Showers)</unittitle>
+              <unitdate type="inclusive" normal="1929/1950">1929-1950</unitdate>
+              <unitdate type="inclusive" normal="1952/1953">1952-1953</unitdate>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">7 folders</extent>
               </physdesc>
@@ -178,13 +182,13 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [14730538114245873958326]" altrender="box">1</container>
               <unittitle>Showers Family <unitdate type="inclusive" normal="1931/1978">1931-1978</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [14730538114245873958326]" altrender="box">1</container>
               <unittitle>Ethelyne Walker to Frank Showers <unitdate type="inclusive" normal="1907/1909">1907-1909</unitdate></unittitle>
             </did>
           </c03>
@@ -195,74 +199,74 @@
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [14730538114245873958326]" altrender="box">1</container>
               <unittitle>Edmund Antrobus <unitdate type="inclusive" normal="1992/1994">1992-1994</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [14730538114245873958326]" altrender="box">1</container>
               <unittitle>Audrey Keller <unitdate type="inclusive" normal="1977">1977</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [14730538114245873958326]" altrender="box">1</container>
               <unittitle>Olive Lee <unitdate type="inclusive" normal="1945/1994" certainty="approximate">circa 1945-1994</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [14730538114245873958326]" altrender="box">1</container>
               <unittitle>Alan Handley <unitdate>undated</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [14730538114245873958326]" altrender="box">1</container>
               <unittitle>Edith Ligetti <unitdate type="inclusive" normal="1994">1994</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [14730538114245873958326]" altrender="box">1</container>
               <unittitle>Chick McCarthy <unitdate type="inclusive" normal="1980/1984">1980-1984</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [14730538114245873958326]" altrender="box">1</container>
               <unittitle>Doris Rich <unitdate type="inclusive" normal="1978">1978</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [14730538114245873958326]" altrender="box">1</container>
               <unittitle>George Spater <unitdate type="inclusive" normal="1972/1984">1972-1984</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [14730538114245873958326]" altrender="box">1</container>
               <unittitle>James and Norma Spinning <unitdate type="inclusive" normal="1950/1976">1950-1976</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [14730538114245873958326]" altrender="box">1</container>
               <unittitle>Various Correspondents <unitdate type="inclusive" normal="1970/1989" certainty="approximate">circa 1970s-1989</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [14730538114245873958326]" altrender="box">1</container>
               <unittitle>John Willing <unitdate type="inclusive" normal="1980">1980</unitdate></unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [14730538114245873958326]" altrender="box">1</container>
             <unittitle>Prominent Individuals and Institutions <unitdate type="inclusive" normal="1962/1979">1962-1979</unitdate></unittitle>
           </did>
         </c02>
@@ -276,19 +280,19 @@
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [14730538114245873958326]" altrender="box">1</container>
             <unittitle>"Domestic Legends," unpublished recollections regarding Ethelyne Showers <unitdate type="inclusive" normal="1972/1974">1972-1974</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [14730538114245873958326]" altrender="box">1</container>
             <unittitle>Family Bible, Martha Kelly and George McCrany (photocopies), dates recorded: <unitdate type="inclusive" normal="1783/1934">1783-1934</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [14730538114245873958326]" altrender="box">1</container>
             <unittitle>"Family Chronicle," unpublished Kelly, Showers, and Walker family history <unitdate>undated</unitdate></unittitle>
           </did>
         </c02>
@@ -298,13 +302,13 @@
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [14730538114245873958326]" altrender="box">1</container>
               <unittitle>Birth Record and Death Certificate <unitdate type="inclusive" normal="1882/1979">1882-1979</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [14730538114245873958326]" altrender="box">1</container>
               <unittitle>Diplomas <unitdate type="inclusive" normal="1897/1936">1897-1936</unitdate></unittitle>
             </did>
             <odd>
@@ -313,38 +317,38 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [14730538114245873958326]" altrender="box">1</container>
               <unittitle>Programs and Clippings <unitdate type="inclusive" normal="1900/1945">1900-1945</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [14730538114245873958326]" altrender="box">1</container>
               <unittitle>Recollections <unitdate>undated</unitdate></unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [14730538114245873958326]" altrender="box">1</container>
             <unittitle>Showers Family History <unitdate>undated</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [14730538114245873958326]" altrender="box">1</container>
             <unittitle>Sources and Notes <unitdate>undated</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [14730538114245873958326]" altrender="box">1</container>
             <unittitle>Sunnyside, Washington Material <unitdate type="inclusive" normal="1992">1992</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [14730538114245873958326]" altrender="box">1</container>
             <unittitle>Walker Family <unitdate>undated</unitdate></unittitle>
           </did>
         </c02>
@@ -365,19 +369,19 @@
           </scopecontent>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [14730538114245873958326]" altrender="box">1</container>
               <unittitle>Biographies <unitdate type="inclusive" normal="1989/1999">1989-1999</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [14730538114245873958326]" altrender="box">1</container>
               <unittitle>Chronology and Memories <unitdate>undated</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [14730538114245873958326]" altrender="box">1</container>
               <unittitle>Journal <unitdate type="inclusive" normal="1983/1991">1983-1991</unitdate></unittitle>
             </did>
             <accessrestrict>
@@ -386,13 +390,13 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [14730538114245873958326]" altrender="box">1</container>
               <unittitle>"Notes" (journal) <unitdate type="inclusive" normal="1941/1970">1941-1970</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [14730538114245873958326]" altrender="box">1</container>
               <unittitle>Vital Records <unitdate type="inclusive" normal="1910/1948">1910-1948</unitdate></unittitle>
             </did>
           </c03>
@@ -410,32 +414,32 @@
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [14730538114245873958326]" altrender="box">1</container>
                 <unittitle>"All that Jazz," unpublished manuscript <unitdate type="inclusive" normal="1960/1969" certainty="approximate">circa 1960s</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [14730538114245873958326]" altrender="box">1</container>
                 <unittitle>Recollections <unitdate type="inclusive" normal="1990">1990</unitdate></unittitle>
               </did>
             </c04>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [14730538114245873958326]" altrender="box">1</container>
               <unittitle>Robert LaBour <unitdate type="inclusive" normal="1993">1993</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [14730538114245873958326]" altrender="box">1</container>
               <unittitle>Papers and Newspaper Clippings <unitdate type="inclusive" normal="1930/1931">1930-1931</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [14730538114245873958326]" altrender="box">1</container>
               <unittitle>George Spater <unitdate type="inclusive" normal="1984">1984</unitdate></unittitle>
             </did>
           </c03>
@@ -449,13 +453,13 @@
           </scopecontent>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [14730538114245873958326]" altrender="box">1</container>
               <unittitle>Amy Loomis <unitdate type="inclusive" normal="1950/1990" certainty="approximate">circa 1950s-1990</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [14730538114245873958326]" altrender="box">1</container>
               <unittitle>Programs <unitdate type="inclusive" normal="1926/1934">1926-1934</unitdate></unittitle>
             </did>
           </c03>
@@ -469,31 +473,31 @@
           </scopecontent>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [14730538114245873958326]" altrender="box">1</container>
               <unittitle>Composition Book <unitdate type="inclusive" normal="1942/1945">1942-1945</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [14730538114245873958326]" altrender="box">1</container>
               <unittitle>Military Documents <unitdate type="inclusive" normal="1942/1946">1942-1946</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [14730538114245873958326]" altrender="box">1</container>
               <unittitle>Travel Notes, Ito, Japan <unitdate type="inclusive" normal="1945/1946">1945-1946</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [14730538114245873958326]" altrender="box">1</container>
               <unittitle>Wallet Miscellanea <unitdate type="inclusive" normal="1943/1945">1943-1945</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [14730538114245873958326]" altrender="box">1</container>
               <unittitle>War Years Notebook-and Afterwards <unitdate type="inclusive" normal="1940/1949" certainty="approximate">circa 1940s</unitdate></unittitle>
             </did>
           </c03>
@@ -505,13 +509,13 @@
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [14730538114245873958326]" altrender="box">1</container>
                 <unittitle>Fiftieth Anniversary <unitdate type="inclusive" normal="1992">1992</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [14730538114245873958326]" altrender="box">1</container>
                 <unittitle>Okinawa Materials <unitdate type="inclusive" normal="1945">1945</unitdate></unittitle>
               </did>
             </c04>
@@ -526,61 +530,61 @@
           </scopecontent>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [5221114445586237746781]" altrender="box">2</container>
               <unittitle>(Detroit) Free Press Days <unitdate type="inclusive" normal="1940/1949" certainty="approximate">circa 1940s</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [5221114445586237746781]" altrender="box">2</container>
               <unittitle>Editorial Copy Comments <unitdate>undated</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [5221114445586237746781]" altrender="box">2</container>
               <unittitle>Editorial Structure <unitdate type="inclusive" normal="1974">1974</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [5221114445586237746781]" altrender="box">2</container>
               <unittitle>Lester Markel <unitdate type="inclusive" normal="1963/1977">1963-1977</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [5221114445586237746781]" altrender="box">2</container>
               <unittitle>Miscellaneous Clippings <unitdate type="inclusive" normal="1970/1979" certainty="approximate">circa 1970s</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [5221114445586237746781]" altrender="box">2</container>
               <unittitle>New York University Graduate School <unitdate type="inclusive" normal="1951/1952">1951-1952</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [5221114445586237746781]" altrender="box">2</container>
               <unittitle>Sandbox Group <unitdate type="inclusive" normal="1967/1995">1967-1995</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [5221114445586237746781]" altrender="box">2</container>
               <unittitle>Sherwin Smith <unitdate>undated</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [5221114445586237746781]" altrender="box">2</container>
               <unittitle>"Signals from the Butterfly," <title render="italic">The New York Times Magazine</title> Cover Story, <unitdate type="inclusive" normal="1975-07-27">July 27, 1975</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [5221114445586237746781]" altrender="box">2</container>
               <unittitle>"Topics of the Times" and Book Reviews <title render="italic">New York Times</title>, <unitdate type="inclusive" normal="1962/1975">1962-1975</unitdate></unittitle>
             </did>
             <odd>
@@ -597,49 +601,49 @@
           </scopecontent>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [5221114445586237746781]" altrender="box">2</container>
               <unittitle>Airplane Flights <unitdate>undated</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [5221114445586237746781]" altrender="box">2</container>
               <unittitle>Autobiography <unitdate type="inclusive" normal="1989">1989</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [5221114445586237746781]" altrender="box">2</container>
               <unittitle>"A Bath with Sojin," <title render="italic">New Yorker</title>, <unitdate type="inclusive" normal="1946-04-13">April 13, 1946</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [5221114445586237746781]" altrender="box">2</container>
               <unittitle><title render="italic">Bexley</title>, <unitdate>undated</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [5221114445586237746781]" altrender="box">2</container>
               <unittitle>Childhood Compositions <unitdate type="inclusive" normal="1925" certainty="approximate">circa 1925</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [5221114445586237746781]" altrender="box">2</container>
               <unittitle>Composition Notebooks <unitdate type="inclusive" normal="1930/1950" certainty="approximate">1930- circa 1950</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [5221114445586237746781]" altrender="box">2</container>
               <unittitle><title render="italic">Life</title> Crossword Puzzles, <unitdate type="inclusive" normal="1935">1935</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [5221114445586237746781]" altrender="box">2</container>
               <unittitle>Outstanding Science Books for Children Award for <title render="italic">Sleep is for Everyone</title>, <unitdate type="inclusive" normal="1974">1974</unitdate></unittitle>
             </did>
             <odd>
@@ -648,7 +652,7 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [5221114445586237746781]" altrender="box">2</container>
               <unittitle>"Paul Showers," <title render="italic">Something about the Author Autobiography Series</title>, Volume 7, <unitdate type="inclusive" normal="1989">1989</unitdate></unittitle>
             </did>
           </c03>
@@ -664,26 +668,26 @@
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [1796440798822601666]" altrender="box">3</container>
             <unittitle>
               <genreform source="aat" normal="Albums">Photo Albums</genreform>
             </unittitle>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [1796440798822601666]" altrender="box">3</container>
               <unittitle>Martha Kelly's Album (Paul Showers's Great Grandmother) <unitdate type="inclusive" normal="1860" certainty="approximate">circa 1860</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [1796440798822601666]" altrender="box">3</container>
               <unittitle>Kelly, Smith, and Vandecar Families <unitdate type="inclusive" normal="1860" certainty="approximate">circa 1860</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [1796440798822601666]" altrender="box">3</container>
               <unittitle>Almont-The Old Farm <unitdate type="inclusive" normal="1900/1915" certainty="approximate">circa 1900-1915</unitdate></unittitle>
             </did>
           </c03>
@@ -696,19 +700,19 @@
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [236186141098681174896]" altrender="box">4</container>
               <unittitle>Family Members, Unidentified <unitdate type="inclusive" normal="1860/1950" certainty="approximate">circa 1860-1950</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [236186141098681174896]" altrender="box">4</container>
               <unittitle><title render="italic">(Detroit) Free Press</title> and Theater Groups <unitdate type="inclusive" normal="1930/1939" certainty="approximate">circa 1930s</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [236186141098681174896]" altrender="box">4</container>
               <unittitle>Amy Loomis <unitdate type="inclusive" normal="1950/1990" certainty="approximate">circa 1950-1990</unitdate></unittitle>
             </did>
           </c03>
@@ -720,26 +724,26 @@
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [236186141098681174896]" altrender="box">4</container>
                 <unittitle>Sandbox Group, Sunday Section Staff <unitdate type="inclusive" normal="1970" certainty="approximate">circa 1970</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [236186141098681174896]" altrender="box">4</container>
                 <unittitle>Paul Showers <unitdate type="inclusive" normal="1950/1959" certainty="approximate">circa 1950s</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [236186141098681174896]" altrender="box">4</container>
                 <unittitle>"Times Talk" <unitdate type="inclusive" normal="1950">1950</unitdate></unittitle>
               </did>
             </c04>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [236186141098681174896]" altrender="box">4</container>
               <unittitle>Frank and Ethelyne Showers <unitdate type="inclusive" normal="1907/1959" certainty="approximate">1907-1950s</unitdate></unittitle>
             </did>
             <odd>
@@ -752,7 +756,7 @@
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [236186141098681174896]" altrender="box">4</container>
                 <unittitle>Childhood <unitdate type="inclusive" normal="1910/1928">1910-1928</unitdate></unittitle>
               </did>
               <odd>
@@ -761,13 +765,13 @@
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [236186141098681174896]" altrender="box">4</container>
                 <unittitle>University of Michigan <unitdate type="inclusive" normal="1928/1931">1928-1931</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [236186141098681174896]" altrender="box">4</container>
                 <unittitle>Adult <unitdate type="inclusive" normal="1933/1991" certainty="approximate">1933- circa 1991</unitdate></unittitle>
               </did>
               <odd>
@@ -777,7 +781,7 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [236186141098681174896]" altrender="box">4</container>
               <unittitle>Showers Family <unitdate type="inclusive" normal="1870/1900" certainty="approximate">circa 1870-circa 1900</unitdate></unittitle>
             </did>
             <odd>
@@ -786,19 +790,19 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [236186141098681174896]" altrender="box">4</container>
               <unittitle>Sojin <unitdate type="inclusive" normal="1927" certainty="approximate">circa 1927</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [236186141098681174896]" altrender="box">4</container>
               <unittitle>George Spater <unitdate type="inclusive" normal="1980">1980</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [236186141098681174896]" altrender="box">4</container>
               <unittitle>Walker and Kelly Families <unitdate type="inclusive" normal="1870/1900" certainty="approximate">circa 1870-circa 1900</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -816,19 +820,19 @@
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [236186141098681174896]" altrender="box">4</container>
                 <unittitle>Okinawa <unitdate type="inclusive" normal="1942/1946" certainty="approximate">circa 1942-1946</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [236186141098681174896]" altrender="box">4</container>
                 <unittitle>Press Photographs <unitdate type="inclusive" normal="1942/1945" certainty="approximate">circa 1942-1945</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [236186141098681174896]" altrender="box">4</container>
                 <unittitle>Staff <unitdate type="inclusive" normal="1942/1945" certainty="approximate">circa 1942-1945</unitdate></unittitle>
               </did>
             </c04>
@@ -840,19 +844,19 @@
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [236186141098681174896]" altrender="box">4</container>
               <unittitle>Prints of Scanned Photographs, Walker, Kelly, and Showers Families and Almont, Michigan</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [236186141098681174896]" altrender="box">4</container>
               <unittitle>Drawing of Paul Showers <unitdate>undated</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [236186141098681174896]" altrender="box">4</container>
               <unittitle><genreform source="aat" normal="Moiton pictures">Film</genreform> of Family Reunion, <unitdate type="inclusive" normal="1930/1939" certainty="approximate">circa 1930s</unitdate></unittitle>
               <physdesc>
                 <physfacet>16 mm</physfacet>

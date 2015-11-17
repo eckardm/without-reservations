@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Albert A. Stanley papers, ca. 1890s-1932</titleproper>
       <author>Finding aid created by <lb/>Michigan Historical Collections staff</author>
     </titlepage>
@@ -82,8 +82,8 @@ Albert A. Stanley papers, Bentley Historical Library, University of Michigan</p>
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <subject source="lcsh" encodinganalog="650">Music--Michigan--Ann Arbor.</subject>
-        <subject source="lcsh" encodinganalog="650">Musical instruments.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5706">Music--Michigan--Ann Arbor.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/10199">Musical instruments.</subject>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n89606727">Stearns Collection of Musical Instruments.</corpname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan--Faculty.</corpname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n88656146">Ann Arbor May Festival.</corpname>
@@ -91,9 +91,9 @@ Albert A. Stanley papers, Bentley Historical Library, University of Michigan</p>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Materials:</head>
-        <subject source="lctgm" encodinganalog="650">Composers.</subject>
-        <subject source="lctgm" encodinganalog="650">Musicians.</subject>
-        <subject source="lctgm" encodinganalog="650">Organs.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4408">Composers.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4062">Musicians.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4063">Organs.</subject>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/no92003683">Stanley, Albert A. (Albert Augustus), 1851-1932.</persname>
         <famname source="lcnaf" encodinganalog="600">Stanley family.</famname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan--Faculty.</corpname>
@@ -106,7 +106,7 @@ Albert A. Stanley papers, Bentley Historical Library, University of Michigan</p>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -116,27 +116,27 @@ Albert A. Stanley papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [1461944449640571918]" altrender="box">1</container>
             <unittitle>
               <genreform normal="Photographs">Photographs</genreform>
             </unittitle>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [1461944449640571918]" altrender="box">1</container>
               <unittitle>Portraits and photos of Stanley with his wife and seated at an organ <unitdate type="inclusive" normal="1890/1929" certainty="approximate">circa 1890s-1920s</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [1461944449640571918]" altrender="box">1</container>
               <unittitle>Family members, groups, musical instruments, etc.</unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [1461944449640571918]" altrender="box">1</container>
             <unittitle>Autobiography, "Echoes of a busy life or reminiscences of a professor emeritus"</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">15 folders</extent>
@@ -148,8 +148,10 @@ Albert A. Stanley papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <unittitle>Correspondence <unitdate type="inclusive" normal="1913/1932">1913-1932</unitdate>, <unitdate type="inclusive">undated</unitdate></unittitle>
+            <container type="box" label="Box [1461944449640571918]" altrender="box">1</container>
+            <unittitle>Correspondence</unittitle>
+            <unitdate type="inclusive" normal="1913/1932">1913-1932</unitdate>
+            <unitdate type="inclusive">undated</unitdate>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">3 folders</extent>
             </physdesc>
@@ -160,31 +162,31 @@ Albert A. Stanley papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [1461944449640571918]" altrender="box">1</container>
             <unittitle>International Musical Society correspondence and reports <unitdate type="inclusive" normal="1907/1911">1907-1911</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [1461944449640571918]" altrender="box">1</container>
             <unittitle>Last will and testament <unitdate type="inclusive" normal="1918">1918</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [1461944449640571918]" altrender="box">1</container>
             <unittitle>Miscellaneous texts, sketches, poems</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [1461944449640571918]" altrender="box">1</container>
             <unittitle>Miscellaneous and personal</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [1461944449640571918]" altrender="box">1</container>
             <unittitle>Reviews of "Greek Themes in Modern Musical Settings" <unitdate type="inclusive" normal="1924">1924</unitdate></unittitle>
           </did>
         </c02>
@@ -195,103 +197,105 @@ Albert A. Stanley papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [1461944449640571918]" altrender="box">1</container>
             <unittitle>"Candid considerations of a difficult problem"</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [1461944449640571918]" altrender="box">1</container>
             <unittitle>"Provincial music festival in the United States"</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [1461944449640571918]" altrender="box">1</container>
             <unittitle>"Graduate work in music in America"</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [1461944449640571918]" altrender="box">1</container>
             <unittitle>"Folk songs"</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [1461944449640571918]" altrender="box">1</container>
             <unittitle>"How to listen to a symphony"</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <unittitle>Commencement address, University of Michigan School of Music <unitdate type="inclusive" normal="1920">1920</unitdate>, <unitdate type="inclusive" normal="1921">1921</unitdate></unittitle>
+            <container type="box" label="Box [1461944449640571918]" altrender="box">1</container>
+            <unittitle>Commencement address, University of Michigan School of Music</unittitle>
+            <unitdate type="inclusive" normal="1920">1920</unitdate>
+            <unitdate type="inclusive" normal="1921">1921</unitdate>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [1461944449640571918]" altrender="box">1</container>
             <unittitle>"Modern Concepts of the Structure of Music"</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [1461944449640571918]" altrender="box">1</container>
             <unittitle>"The function of the concert room"</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [1461944449640571918]" altrender="box">1</container>
             <unittitle>Talks on worship music</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [1461944449640571918]" altrender="box">1</container>
             <unittitle>"Literature and music"</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [1461944449640571918]" altrender="box">1</container>
             <unittitle>"Patriotism in music"</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [1461944449640571918]" altrender="box">1</container>
             <unittitle>"Music as an expression of the Spirit of the Age"</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [1461944449640571918]" altrender="box">1</container>
             <unittitle>"Bayreuth and the Wagner Festival"</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [1461944449640571918]" altrender="box">1</container>
             <unittitle>Music and the University</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [1461944449640571918]" altrender="box">1</container>
             <unittitle>Frederick Stearns</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [1461944449640571918]" altrender="box">1</container>
             <unittitle>Title unknown</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [1461944449640571918]" altrender="box">1</container>
             <unittitle>"Modern and Colonial" paper of Mrs. Albert A. Stanley read before the Daughters of the American Revolution <unitdate type="inclusive" normal="1907">1907</unitdate></unittitle>
           </did>
         </c02>
@@ -302,55 +306,55 @@ Albert A. Stanley papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [967554648088980509307]" altrender="box">4</container>
             <unittitle>Illustrations of musical instruments</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [967554648088980509307]" altrender="box">4</container>
             <unittitle>Notes for illustrations of musical instruments</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [967554648088980509307]" altrender="box">4</container>
             <unittitle>Musical scores (fragmentary)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [62584431740441419]" altrender="box">2</container>
             <unittitle>Newspaper clippings largely concerning the May Festival</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [62584431740441419]" altrender="box">2</container>
             <unittitle>Manuscript of Catalogue of the Stearns Collection (fragmentary)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [62584431740441419]" altrender="box">2</container>
             <unittitle>Printed material, including programs</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [62584431740441419]" altrender="box">2</container>
             <unittitle>Musical notes</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [62584431740441419]" altrender="box">2</container>
             <unittitle>Evolution of musical instruments</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [62584431740441419]" altrender="box">2</container>
             <unittitle>Miscellaneous notes</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">12 folders</extent>
@@ -359,7 +363,7 @@ Albert A. Stanley papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [62584431740441419]" altrender="box">2</container>
             <unittitle>Musical analyses</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">6 folders</extent>
@@ -368,7 +372,7 @@ Albert A. Stanley papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [326517579474944360367808]" altrender="box">3</container>
             <unittitle>Scrapbooks containing programs of musical performances</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">8 volumes</extent>
@@ -377,7 +381,7 @@ Albert A. Stanley papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [326517579474944360367808]" altrender="box">3</container>
             <unittitle>Commemorative volume presented to A.A. Stanley on the occasion of the Twentieth Annual May Festival <unitdate type="inclusive" normal="1913">1913</unitdate></unittitle>
           </did>
           <odd>

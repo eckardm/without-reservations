@@ -31,7 +31,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Zonta Club of Owosso records, 1929-2006</titleproper>
       <author>Finding aid created by <lb/>Erin Passehl, January 2007</author>
     </titlepage>
@@ -82,22 +82,22 @@ Zonta Club of Owosso records, Bentley Historical Library, University of Michigan
       <controlaccess>
         <head>Subjects:</head>
         <corpname source="lcnaf" encodinganalog="610">Zonta Club of Owosso.</corpname>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n85081790.html">Owosso (Mich.)</geogname>
-        <subject source="lcsh" encodinganalog="650">Women--Michigan--Owosso--Societies and clubs.</subject>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n85081790.html" ref="/subjects/1190">Owosso (Mich.)</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7087">Women--Michigan--Owosso--Societies and clubs.</subject>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n82277089">Zonta International.</corpname>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Materials:</head>
         <corpname source="lcnaf" encodinganalog="610">Zonta Club of Owosso.</corpname>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n85081790.html">Owosso (Mich.)</geogname>
-        <subject source="lcsh" encodinganalog="650">Women--Michigan--Owosso--Societies and clubs.</subject>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n85081790.html" ref="/subjects/1190">Owosso (Mich.)</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7087">Women--Michigan--Owosso--Societies and clubs.</subject>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n82277089">Zonta International.</corpname>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
-        <genreform source="aat" encodinganalog="655">Scrapbooks.</genreform>
-        <genreform source="aat" encodinganalog="655">Videotapes.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3139">Scrapbooks.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3140">Videotapes.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -110,7 +110,7 @@ Zonta Club of Owosso records, Bentley Historical Library, University of Michigan
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [32276204182935498656389]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1929/1959">1929-1959</unitdate>
             </unittitle>
@@ -124,7 +124,7 @@ Zonta Club of Owosso records, Bentley Historical Library, University of Michigan
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [03901454297334219]" altrender="box">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1960/1977">1960-1977</unitdate>
             </unittitle>
@@ -135,7 +135,7 @@ Zonta Club of Owosso records, Bentley Historical Library, University of Michigan
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [361165431097505638]" altrender="box">3</container>
             <unittitle>
               <unitdate type="inclusive" normal="1978/1985">1978-1985</unitdate>
             </unittitle>
@@ -146,7 +146,7 @@ Zonta Club of Owosso records, Bentley Historical Library, University of Michigan
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [96322644148174631474]" altrender="box">4</container>
             <unittitle>
               <unitdate type="inclusive" normal="1986/1996">1986-1996</unitdate>
             </unittitle>
@@ -157,7 +157,7 @@ Zonta Club of Owosso records, Bentley Historical Library, University of Michigan
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [972526941877750106096]" altrender="box">5</container>
             <unittitle>
               <unitdate type="inclusive" normal="1997/2006">1997-2006</unitdate>
             </unittitle>
@@ -168,7 +168,7 @@ Zonta Club of Owosso records, Bentley Historical Library, University of Michigan
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [972526941877750106096]" altrender="box">5</container>
             <unittitle>
               <unitdate type="inclusive" normal="1990/1999" certainty="approximate">1990s</unitdate>
             </unittitle>
@@ -190,7 +190,7 @@ Zonta Club of Owosso records, Bentley Historical Library, University of Michigan
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [4039388248796800743538]" altrender="box">6</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1939/1949">1939-1949</unitdate>
               </unittitle>
@@ -198,7 +198,7 @@ Zonta Club of Owosso records, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [4039388248796800743538]" altrender="box">6</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1950/1969">1950-1969</unitdate>
               </unittitle>
@@ -206,13 +206,13 @@ Zonta Club of Owosso records, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [4039388248796800743538]" altrender="box">6</container>
               <unittitle><unitdate type="inclusive" normal="1968/1971">1968-1971</unitdate> (scrapbook)</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [4039388248796800743538]" altrender="box">6</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1970/1979">1970-1979</unitdate>
               </unittitle>
@@ -220,7 +220,7 @@ Zonta Club of Owosso records, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [4039388248796800743538]" altrender="box">6</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1980/1989">1980-1989</unitdate>
               </unittitle>
@@ -228,7 +228,7 @@ Zonta Club of Owosso records, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [4039388248796800743538]" altrender="box">6</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1990/1999">1990-1999</unitdate>
               </unittitle>
@@ -236,13 +236,13 @@ Zonta Club of Owosso records, Bentley Historical Library, University of Michigan
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [4039388248796800743538]" altrender="box">6</container>
               <unittitle><unitdate type="inclusive" normal="1997-06/1998-05">June 1997-May 1998</unitdate> (scrapbook)</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [4039388248796800743538]" altrender="box">6</container>
               <unittitle>
                 <unitdate type="inclusive" normal="2000/2003">2000-2003</unitdate>
               </unittitle>
@@ -257,7 +257,7 @@ Zonta Club of Owosso records, Bentley Historical Library, University of Michigan
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [4039388248796800743538]" altrender="box">6</container>
               <unittitle>70th Anniversary <unitdate type="inclusive" normal="1999">1999</unitdate></unittitle>
               <physdesc>
                 <physfacet>VHS and 8mm</physfacet>
@@ -271,43 +271,43 @@ Zonta Club of Owosso records, Bentley Historical Library, University of Michigan
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [4039388248796800743538]" altrender="box">6</container>
               <unittitle>Cleveland Conference <unitdate type="inclusive" normal="1968">1968</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [4039388248796800743538]" altrender="box">6</container>
               <unittitle>Zonta Inter City <unitdate type="inclusive" normal="1971">1971</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [4039388248796800743538]" altrender="box">6</container>
               <unittitle>Zonta Christmas <unitdate type="inclusive" normal="1970">1970</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [4039388248796800743538]" altrender="box">6</container>
               <unittitle>Zonta International Convention, Chicago <unitdate type="inclusive" normal="1970">1970</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [4039388248796800743538]" altrender="box">6</container>
               <unittitle>Zonta International Convention, Minneapolis <unitdate type="inclusive" normal="1968">1968</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [4039388248796800743538]" altrender="box">6</container>
               <unittitle>Zonta District V, Traverse City <unitdate type="inclusive" normal="1968">1968</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [4039388248796800743538]" altrender="box">6</container>
               <unittitle>Zonta 40th Anniversary <unitdate type="inclusive" normal="1969">1969</unitdate></unittitle>
             </did>
           </c03>
@@ -322,13 +322,13 @@ Zonta Club of Owosso records, Bentley Historical Library, University of Michigan
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">7</container>
+            <container type="box" label="Box [29057346042663507157]" altrender="box">7</container>
             <unittitle>"Items about new members"</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">7</container>
+            <container type="box" label="Box [29057346042663507157]" altrender="box">7</container>
             <unittitle>
               <unitdate type="inclusive" normal="1941-06/1943-06">June 1941-June 1943</unitdate>
             </unittitle>
@@ -336,7 +336,7 @@ Zonta Club of Owosso records, Bentley Historical Library, University of Michigan
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">7</container>
+            <container type="box" label="Box [29057346042663507157]" altrender="box">7</container>
             <unittitle>
               <unitdate type="inclusive" normal="1943-06/1944-06">June 1943-June 1944</unitdate>
             </unittitle>
@@ -344,7 +344,7 @@ Zonta Club of Owosso records, Bentley Historical Library, University of Michigan
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">7</container>
+            <container type="box" label="Box [29057346042663507157]" altrender="box">7</container>
             <unittitle>
               <unitdate type="inclusive" normal="1947-06/1948-06">June 1947-June 1948</unitdate>
             </unittitle>
@@ -352,7 +352,7 @@ Zonta Club of Owosso records, Bentley Historical Library, University of Michigan
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">7</container>
+            <container type="box" label="Box [29057346042663507157]" altrender="box">7</container>
             <unittitle>
               <unitdate type="inclusive" normal="1948-06/1949-06">June 1948-June 1949</unitdate>
             </unittitle>
@@ -360,7 +360,7 @@ Zonta Club of Owosso records, Bentley Historical Library, University of Michigan
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">7</container>
+            <container type="box" label="Box [29057346042663507157]" altrender="box">7</container>
             <unittitle>
               <unitdate type="inclusive" normal="1949-06/1950-06">June 1949-June 1950</unitdate>
             </unittitle>
@@ -368,7 +368,7 @@ Zonta Club of Owosso records, Bentley Historical Library, University of Michigan
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">7</container>
+            <container type="box" label="Box [29057346042663507157]" altrender="box">7</container>
             <unittitle>
               <unitdate type="inclusive" normal="1953-06/1954-06">June 1953-June 1954</unitdate>
             </unittitle>
@@ -376,7 +376,7 @@ Zonta Club of Owosso records, Bentley Historical Library, University of Michigan
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">7</container>
+            <container type="box" label="Box [29057346042663507157]" altrender="box">7</container>
             <unittitle>
               <unitdate type="inclusive" normal="1956/1959">1956-1959</unitdate>
             </unittitle>
@@ -384,7 +384,7 @@ Zonta Club of Owosso records, Bentley Historical Library, University of Michigan
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">7</container>
+            <container type="box" label="Box [29057346042663507157]" altrender="box">7</container>
             <unittitle>
               <unitdate type="inclusive" normal="1964/1969">1964-1969</unitdate>
             </unittitle>
@@ -392,7 +392,7 @@ Zonta Club of Owosso records, Bentley Historical Library, University of Michigan
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">7</container>
+            <container type="box" label="Box [29057346042663507157]" altrender="box">7</container>
             <unittitle>
               <unitdate type="inclusive" normal="1968/1969">1968-1969</unitdate>
             </unittitle>
@@ -400,7 +400,7 @@ Zonta Club of Owosso records, Bentley Historical Library, University of Michigan
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">7</container>
+            <container type="box" label="Box [29057346042663507157]" altrender="box">7</container>
             <unittitle>
               <unitdate type="inclusive" normal="1970/1976">1970-1976</unitdate>
             </unittitle>
@@ -408,7 +408,7 @@ Zonta Club of Owosso records, Bentley Historical Library, University of Michigan
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">7</container>
+            <container type="box" label="Box [29057346042663507157]" altrender="box">7</container>
             <unittitle>Newspaper clippings <unitdate type="inclusive" normal="1970/2000" certainty="approximate">circa 1970-2000</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -417,7 +417,7 @@ Zonta Club of Owosso records, Bentley Historical Library, University of Michigan
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">8</container>
+            <container type="box" label="Box [6984322487344608980]" altrender="box">8</container>
             <unittitle>
               <unitdate type="inclusive" normal="1963/1989">1963-1989</unitdate>
             </unittitle>
@@ -425,31 +425,31 @@ Zonta Club of Owosso records, Bentley Historical Library, University of Michigan
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">8</container>
+            <container type="box" label="Box [6984322487344608980]" altrender="box">8</container>
             <unittitle>Ann Bentley scrapbook <unitdate type="inclusive" normal="2001/2003">2001-2003</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">8</container>
+            <container type="box" label="Box [6984322487344608980]" altrender="box">8</container>
             <unittitle>Detroit International Conference <unitdate type="inclusive" normal="1994">1994</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Oversize Box">9</container>
+            <container type="box" label="Oversize Box [05988140074299741]" altrender="box">9</container>
             <unittitle>Laminated scrapbook <unitdate type="inclusive" normal="1934/1937">1934-1937</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Oversize Box">9</container>
+            <container type="box" label="Oversize Box [05988140074299741]" altrender="box">9</container>
             <unittitle>Honolulu Club -- <unitdate type="inclusive" normal="1937">1937</unitdate> Program in Niagara Falls, NY</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Oversize Box">9</container>
+            <container type="box" label="Oversize Box [05988140074299741]" altrender="box">9</container>
             <unittitle>
               <unitdate type="inclusive" normal="1937-07/1940-03">July 1937-March 1940</unitdate>
             </unittitle>

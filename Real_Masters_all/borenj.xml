@@ -34,7 +34,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding Aid for <lb/>John Boren papers, <date>1919, 1957-1962</date></titleproper>
       <author>Finding aid prepared by: <lb/>Len Coombs</author>
     </titlepage>
@@ -44,7 +44,9 @@
       <origination>
         <persname source="lcnaf" encodinganalog="100">Boren, John.</persname>
       </origination>
-      <unittitle encodinganalog="245">John Boren papers <unitdate type="inclusive" encodinganalog="245$f" normal="1919">1919</unitdate>, <unitdate type="inclusive" encodinganalog="245$f" normal="1957/1962">1957-1962</unitdate></unittitle>
+      <unittitle encodinganalog="245">John Boren papers</unittitle>
+      <unitdate type="inclusive" encodinganalog="245$f" normal="1919">1919</unitdate>
+      <unitdate type="inclusive" encodinganalog="245$f" normal="1957/1962">1957-1962</unitdate>
       <abstract>Member of Co. A, 339th U.S. Infantry who served in the Allied intervention in Russia, 1918-1920, the "Polar Bear Expedition." Collection includes clippings relating to the campaign, post cards of Archangel and France, and a YMCA Russian phrase book.</abstract>
       <unitid countrycode="us" repositorycode="MiU-H" encodinganalog="099" type="call number">921076;Aa;1</unitid>
       <langmaterial>The materials are in <language encodinganalog="041" langcode="eng">English.</language></langmaterial>
@@ -77,9 +79,9 @@
       <controlaccess>
         <head>Subjects</head>
         <persname source="lcnaf" encodinganalog="600">Boren, John.</persname>
-        <geogname source="lcsh" encodinganalog="651">Soviet Union--History--Allied intervention, 1918-1920.</geogname>
-        <subject source="lcsh" encodinganalog="650">World War, 1914-1918.</subject>
-        <subject source="local" encodinganalog="690" authfilenumber="http://id.loc.gov/authorities/names/n2008059426">Polar Bear Expedition.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/883">Soviet Union--History--Allied intervention, 1918-1920.</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5712">World War, 1914-1918.</subject>
+        <subject source="local" encodinganalog="690" authfilenumber="http://id.loc.gov/authorities/names/n2008059426" ref="/subjects/3518">Polar Bear Expedition.</subject>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -89,7 +91,7 @@
         </did>
         <c02 level="file">
           <did>
-            <container label="Folder" type="folder">1</container>
+            <container label="Folder [2090685016147988168156238]" type="folder" altrender="folder">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1919">1919</unitdate>
               <unitdate type="inclusive" normal="1957/1962">1957-1962</unitdate>

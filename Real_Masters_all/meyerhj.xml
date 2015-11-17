@@ -26,7 +26,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Henry J. Meyer and Suzanne M. Meyer Papers, 1867-2000</titleproper>
       <author>Finding aid created by <lb/>Bentley Historical Library staff, 1996-2002</author>
     </titlepage>
@@ -36,7 +36,9 @@
       <origination>
         <famname source="lcnaf" encodinganalog="100">Meyer family.</famname>
       </origination>
-      <unittitle encodinganalog="245">Henry J. Meyer and Suzanne M. Meyer Papers <unitdate type="inclusive" encodinganalog="245$f" normal="1867/2000">1867-2000</unitdate>, <unitdate type="bulk" encodinganalog="245$g" normal="1926/2000">1926-2000</unitdate></unittitle>
+      <unittitle encodinganalog="245">Henry J. Meyer and Suzanne M. Meyer Papers</unittitle>
+      <unitdate type="inclusive" encodinganalog="245$f" normal="1867/2000">1867-2000</unitdate>
+      <unitdate type="bulk" encodinganalog="245$g" normal="1926/2000">1926-2000</unitdate>
       <unitid encodinganalog="099" repositorycode="MiU-H" countrycode="us" type="call number">85301 Aa 2</unitid>
       <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language></langmaterial>
       <abstract>Henry J. Meyer was a social worker and University of Michigan professor of sociology. Suzanne M. Meyer was secretary of the Ann Arbor Human Relations Commission, also assistant to the director of student activities and organizations at the University of Michigan. She was also involved both in the Tutorial and Cultural Relations Project and the Opportunity Awards Program. The collection includes professional papers and files relating to their travels and activities abroad.</abstract>
@@ -81,23 +83,23 @@ Henry J. Meyer and Suzanne M. Meyer Papers, Bentley Historical Library, Universi
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <subject source="lcsh" encodinganalog="650">African Americans--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5756">African Americans--Michigan.</subject>
         <corpname source="lcnaf" encodinganalog="610">Ann Arbor (Mich.). Human Relations Commission.</corpname>
-        <subject source="lcsh" encodinganalog="650">Civil rights--Michigan--Ann Arbor.</subject>
-        <geogname source="lcsh" encodinganalog="651">Darmstadt (Germany)</geogname>
-        <geogname source="lcnaf" encodinganalog="651">Germany (West)--Description and travel.</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6574">Civil rights--Michigan--Ann Arbor.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/2335">Darmstadt (Germany)</geogname>
+        <geogname source="lcnaf" encodinganalog="651" ref="/subjects/776">Germany (West)--Description and travel.</geogname>
         <famname source="lcnaf" encodinganalog="600">Myers family.</famname>
-        <subject source="lcsh" encodinganalog="650">Tutors and tutoring.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/9239">Tutors and tutoring.</subject>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan--Faculty.</corpname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan. Tutorial and Cultural Relations Project.</corpname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan. Opportunity Award Program.</corpname>
         <corpname source="lcnaf" encodinganalog="610">Washtenaw County Welfare Agency.</corpname>
-        <subject source="lcsh" encodinganalog="650">Women--Michigan--Ann Arbor.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5739">Women--Michigan--Ann Arbor.</subject>
       </controlaccess>
       <controlaccess>
         <head>Subjects: Visual Materials</head>
-        <geogname source="lcsh" encodinganalog="651">Darmstadt (Germany)</geogname>
-        <geogname source="lcsh" encodinganalog="651">Germany (West)--Description and travel.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/2335">Darmstadt (Germany)</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/2336">Germany (West)--Description and travel.</geogname>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n80145766">Meyer, Henry Joseph, 1913-</persname>
         <persname source="lcnaf" encodinganalog="600">Meyer, Suzanne M.</persname>
       </controlaccess>
@@ -108,7 +110,7 @@ Henry J. Meyer and Suzanne M. Meyer Papers, Bentley Historical Library, Universi
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -121,19 +123,19 @@ Henry J. Meyer and Suzanne M. Meyer Papers, Bentley Historical Library, Universi
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [56866101437151870]" altrender="box">1</container>
             <unittitle>Anderson, Nels, Correspondence and Article <unitdate type="inclusive" normal="1973/1981">1973-1981</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [56866101437151870]" altrender="box">1</container>
             <unittitle>Articles and Reports <unitdate type="inclusive" normal="1940/1968">1940-1968</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [56866101437151870]" altrender="box">1</container>
             <unittitle>Biographical/ Personal <unitdate type="inclusive" normal="1926/2000">1926-2000</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">4 folders</extent>
@@ -145,7 +147,7 @@ Henry J. Meyer and Suzanne M. Meyer Papers, Bentley Historical Library, Universi
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [56866101437151870]" altrender="box">1</container>
             <unittitle>Correspondence <unitdate type="inclusive" normal="1981/1997">1981-1997</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -154,13 +156,13 @@ Henry J. Meyer and Suzanne M. Meyer Papers, Bentley Historical Library, Universi
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [56866101437151870]" altrender="box">1</container>
             <unittitle>Gary, Lawrence, Correspondence and Vita <unitdate type="inclusive" normal="1996/1998">1996-1998</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [56866101437151870]" altrender="box">1</container>
             <unittitle>Henry Meyer Fellowship Fund/ Award <unitdate type="inclusive" normal="1985/1999">1985-1999</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -169,19 +171,19 @@ Henry J. Meyer and Suzanne M. Meyer Papers, Bentley Historical Library, Universi
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [56866101437151870]" altrender="box">1</container>
             <unittitle>McNeely, Roger, Correspondence and Articles <unitdate type="inclusive" normal="1996/1998">1996-1998</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [56866101437151870]" altrender="box">1</container>
             <unittitle>Munday, Brian, Correspondence and Vita <unitdate type="inclusive" normal="1989/1997">1989-1997</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [56866101437151870]" altrender="box">1</container>
             <unittitle>National War Labor Board <unitdate type="inclusive" normal="1942/1947">1942-1947</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -190,19 +192,19 @@ Henry J. Meyer and Suzanne M. Meyer Papers, Bentley Historical Library, Universi
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [56866101437151870]" altrender="box">1</container>
             <unittitle>Regional Wage Stabilization Board <unitdate type="inclusive" normal="1946">1946</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [56866101437151870]" altrender="box">1</container>
             <unittitle>Proseminar in Social Work (SW 800) <unitdate type="inclusive" normal="1997/2000">1997-2000</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [56866101437151870]" altrender="box">1</container>
             <unittitle>Research Material, Ann Arbor's Early Jewish Community--Land Deeds <unitdate type="inclusive" normal="1867/1892">1867-1892</unitdate></unittitle>
           </did>
         </c02>
@@ -212,19 +214,19 @@ Henry J. Meyer and Suzanne M. Meyer Papers, Bentley Historical Library, Universi
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [56866101437151870]" altrender="box">1</container>
               <unittitle>Correspondence <unitdate type="inclusive" normal="1935">1935</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [56866101437151870]" altrender="box">1</container>
               <unittitle>Documentation relating to dismissal (letters, memoranda, reports) <unitdate type="inclusive" normal="1935/1936">1935-1936</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [56866101437151870]" altrender="box">1</container>
               <unittitle>Official Reports <unitdate type="inclusive" normal="1935">1935</unitdate></unittitle>
             </did>
           </c03>
@@ -247,44 +249,44 @@ Henry J. Meyer and Suzanne M. Meyer Papers, Bentley Historical Library, Universi
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [56866101437151870]" altrender="box">1</container>
                 <unittitle>From Henry to family <unitdate type="inclusive" normal="1949-05/1949-07">May 1949-July 1949</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [56866101437151870]" altrender="box">1</container>
                 <unittitle>From Henry to family <unitdate type="inclusive" normal="1949-08/1950">August 1949-1950</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [56866101437151870]" altrender="box">1</container>
                 <unittitle>From Henry and Suzanne to family <unitdate type="inclusive" normal="1950/1951">1950-1951</unitdate></unittitle>
               </did>
             </c04>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [56866101437151870]" altrender="box">1</container>
               <unittitle>Diary of Suzanne while in Germany <unitdate type="inclusive" normal="1950">1950</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [56866101437151870]" altrender="box">1</container>
               <unittitle><genreform normal="Photographs">Photograph</genreform> Album detailing stay in Darmstadt, <unitdate type="inclusive" normal="1949/1952" certainty="approximate">circa 1949-1952</unitdate></unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [760516094096648893]" altrender="box">2</container>
             <unittitle>England <unitdate type="inclusive" normal="1972">1972</unitdate></unittitle>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [760516094096648893]" altrender="box">2</container>
               <unittitle>Letters from Henry and Suzanne to family <unitdate type="inclusive" normal="1972">1972</unitdate></unittitle>
             </did>
           </c03>
@@ -295,7 +297,7 @@ Henry J. Meyer and Suzanne M. Meyer Papers, Bentley Historical Library, Universi
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [760516094096648893]" altrender="box">2</container>
               <unittitle>Letters from Henry and Suzanne to family <unitdate type="inclusive" normal="1972">1972</unitdate></unittitle>
             </did>
           </c03>
@@ -314,32 +316,32 @@ Henry J. Meyer and Suzanne M. Meyer Papers, Bentley Historical Library, Universi
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [760516094096648893]" altrender="box">2</container>
               <unittitle>Case Documentations <unitdate type="inclusive" normal="1957/1972">1957-1972</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [760516094096648893]" altrender="box">2</container>
               <unittitle>Campus Housing Discrimination Cases <unitdate type="inclusive" normal="1959/1965">1959-1965</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [760516094096648893]" altrender="box">2</container>
               <unittitle>Reports <unitdate type="inclusive" normal="1961/1966">1961-1966</unitdate></unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [760516094096648893]" altrender="box">2</container>
             <unittitle>University of Michigan Tutorial Project <unitdate type="inclusive" normal="1963/1965">1963-1965</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [760516094096648893]" altrender="box">2</container>
             <unittitle>University of Michigan Opportunity Awards Program <unitdate type="inclusive" normal="1963/1970">1963-1970</unitdate></unittitle>
           </did>
         </c02>

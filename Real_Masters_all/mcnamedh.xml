@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Edward H. McNamara papers, 1928-2007</titleproper>
       <author>Finding aid created by <lb/>Amy Barritt, June 2007</author>
     </titlepage>
@@ -37,7 +37,9 @@
       <origination>
         <persname source="lcnaf" encodinganalog="100" authfilenumber="http://id.loc.gov/authorities/names/n93079863">McNamara, Edward H.</persname>
       </origination>
-      <unittitle encodinganalog="245">Edward H. McNamara papers <unitdate type="inclusive" encodinganalog="245$f" normal="1928/2007">1928-2007</unitdate>, <unitdate type="bulk" encodinganalog="245$g" normal="1987/2006">1987-2006</unitdate></unittitle>
+      <unittitle encodinganalog="245">Edward H. McNamara papers</unittitle>
+      <unitdate type="inclusive" encodinganalog="245$f" normal="1928/2007">1928-2007</unitdate>
+      <unitdate type="bulk" encodinganalog="245$g" normal="1987/2006">1987-2006</unitdate>
       <unitid encodinganalog="852$h" repositorycode="MiU-H" countrycode="us" type="call number">0790 Aa 2</unitid>
       <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language></langmaterial>
       <abstract>Papers of Edward H. McNamara (1926-2006), Democratic southeastern Michigan politician, served as Wayne county executive (1987-2002), Mayor of Livonia (1970-1986), and Livonia city councilman (1962-1968). The collection includes newspaper clippings, biographical materials, miscellaneous from his political career, and visual materials.</abstract>
@@ -87,9 +89,9 @@ Edward H. McNamara papers, Bentley Historical Library, University of Michigan</p
         <head>Subjects:</head>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n93079863">McNamara, Edward H.</persname>
         <corpname source="lcnaf" encodinganalog="610">Detroit Metro Airport.</corpname>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n82268584.html">Livonia (Mich.)</geogname>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n82268584.html" ref="/subjects/1819">Livonia (Mich.)</geogname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n93079875">Wayne County (Mich.). Executive.</corpname>
-        <geogname source="lcsh" encodinganalog="651">Wayne County (Mich.)--Politics and government.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/2248">Wayne County (Mich.)--Politics and government.</geogname>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Materials:</head>
@@ -101,9 +103,9 @@ Edward H. McNamara papers, Bentley Historical Library, University of Michigan</p
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">DVDs.</genreform>
-        <genreform source="aat" encodinganalog="655">Videotapes.</genreform>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3160">DVDs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3140">Videotapes.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -116,7 +118,7 @@ Edward H. McNamara papers, Bentley Historical Library, University of Michigan</p
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [195969432993153873]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1962/1989">1962-1989</unitdate>
             </unittitle>
@@ -124,7 +126,7 @@ Edward H. McNamara papers, Bentley Historical Library, University of Michigan</p
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [195969432993153873]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1990/1996">1990-1996</unitdate>
             </unittitle>
@@ -132,7 +134,7 @@ Edward H. McNamara papers, Bentley Historical Library, University of Michigan</p
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [195969432993153873]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1998/2002">1998-2002</unitdate>
             </unittitle>
@@ -140,7 +142,7 @@ Edward H. McNamara papers, Bentley Historical Library, University of Michigan</p
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [195969432993153873]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="2006/2007">2006-2007</unitdate>
             </unittitle>
@@ -156,25 +158,25 @@ Edward H. McNamara papers, Bentley Historical Library, University of Michigan</p
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [01678067649811104193028]" altrender="box">2</container>
             <unittitle>Biography manuscript</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [01678067649811104193028]" altrender="box">2</container>
             <unittitle>Biographical Notes and Collected Memories</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [01678067649811104193028]" altrender="box">2</container>
             <unittitle>Honors and Awards Received <unitdate type="inclusive" normal="1979/2006">1979-2006</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [01678067649811104193028]" altrender="box">2</container>
             <unittitle>Dedication of the Edward H. McNamara Terminal <unitdate type="inclusive" normal="1996/2001">1996-2001</unitdate></unittitle>
           </did>
         </c02>
@@ -188,37 +190,37 @@ Edward H. McNamara papers, Bentley Historical Library, University of Michigan</p
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [01678067649811104193028]" altrender="box">2</container>
             <unittitle>Campaign Materials</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [01678067649811104193028]" altrender="box">2</container>
             <unittitle>Citizen's Survey <unitdate type="inclusive" normal="1985">1985</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [01678067649811104193028]" altrender="box">2</container>
             <unittitle>Detroit Survey, Reaction to Archer Decision on Casinos <unitdate type="inclusive" normal="1998">1998</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [01678067649811104193028]" altrender="box">2</container>
             <unittitle>Wayne County Reports <unitdate type="inclusive" normal="2000/2002">2000-2002</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [01678067649811104193028]" altrender="box">2</container>
             <unittitle>State of the County Address <unitdate type="inclusive" normal="1990/1993">1990-1993</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [01678067649811104193028]" altrender="box">2</container>
             <unittitle>Speeches <unitdate type="inclusive" normal="1985/2002">1985-2002</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -241,19 +243,19 @@ Edward H. McNamara papers, Bentley Historical Library, University of Michigan</p
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [01678067649811104193028]" altrender="box">2</container>
               <unittitle>McNamara with Various Groups (Includes portraits and McNamara family)</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [01678067649811104193028]" altrender="box">2</container>
               <unittitle>McNamara at Detroit Metro Airport <unitdate type="inclusive" normal="1998/2002">1998-2002</unitdate> (CD with Descriptions)</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [01678067649811104193028]" altrender="box">2</container>
               <unittitle>McNamara with Political Acquaintances (William Clinton, Richard Gephardt, Dennis Archer and L. Brooks Patterson)</unittitle>
             </did>
           </c03>
@@ -273,7 +275,7 @@ Edward H. McNamara papers, Bentley Historical Library, University of Michigan</p
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [2398303446851083389740]" altrender="box">3</container>
                 <unittitle>First Episode, "Future of the Region at End of Coleman Young's Mayoral Stint", with guest Jon Pepper, Detroit News columnist</unittitle>
               </did>
               <odd>
@@ -282,7 +284,7 @@ Edward H. McNamara papers, Bentley Historical Library, University of Michigan</p
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [2398303446851083389740]" altrender="box">3</container>
                 <unittitle>"Malice Green Trial Outcome", with guest Kym Worthy, Assistant Prosecutor</unittitle>
               </did>
               <odd>
@@ -291,7 +293,7 @@ Edward H. McNamara papers, Bentley Historical Library, University of Michigan</p
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [2398303446851083389740]" altrender="box">3</container>
                 <unittitle>"Campaign Fundraising", with guest Geoffrey Fieger, attorney to Jack Kevorkian</unittitle>
               </did>
               <odd>
@@ -300,7 +302,7 @@ Edward H. McNamara papers, Bentley Historical Library, University of Michigan</p
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [2398303446851083389740]" altrender="box">3</container>
                 <unittitle>With guest Governor John Engler <unitdate type="inclusive" normal="1993">1993</unitdate></unittitle>
               </did>
               <odd>
@@ -314,7 +316,7 @@ Edward H. McNamara papers, Bentley Historical Library, University of Michigan</p
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [2398303446851083389740]" altrender="box">3</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1992">1992</unitdate>
                 </unittitle>
@@ -325,7 +327,7 @@ Edward H. McNamara papers, Bentley Historical Library, University of Michigan</p
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [2398303446851083389740]" altrender="box">3</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="2000">2000</unitdate>
                 </unittitle>
@@ -336,7 +338,7 @@ Edward H. McNamara papers, Bentley Historical Library, University of Michigan</p
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [2398303446851083389740]" altrender="box">3</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="2001">2001</unitdate>
                 </unittitle>
@@ -347,7 +349,7 @@ Edward H. McNamara papers, Bentley Historical Library, University of Michigan</p
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [2398303446851083389740]" altrender="box">3</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="2003">2003</unitdate>
                 </unittitle>
@@ -363,7 +365,7 @@ Edward H. McNamara papers, Bentley Historical Library, University of Michigan</p
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [2398303446851083389740]" altrender="box">3</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1989">1989</unitdate>
                 </unittitle>
@@ -374,7 +376,7 @@ Edward H. McNamara papers, Bentley Historical Library, University of Michigan</p
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [2398303446851083389740]" altrender="box">3</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1990">1990</unitdate>
                 </unittitle>
@@ -385,7 +387,7 @@ Edward H. McNamara papers, Bentley Historical Library, University of Michigan</p
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [2398303446851083389740]" altrender="box">3</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1991">1991</unitdate>
                 </unittitle>
@@ -401,7 +403,7 @@ Edward H. McNamara papers, Bentley Historical Library, University of Michigan</p
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [2398303446851083389740]" altrender="box">3</container>
                 <unittitle>"Perceptions" <unitdate type="inclusive" normal="1985">1985</unitdate></unittitle>
               </did>
               <odd>
@@ -410,7 +412,7 @@ Edward H. McNamara papers, Bentley Historical Library, University of Michigan</p
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [2398303446851083389740]" altrender="box">3</container>
                 <unittitle>"Issues Livonia" <unitdate type="inclusive" normal="1988">1988</unitdate></unittitle>
               </did>
               <odd>
@@ -419,7 +421,7 @@ Edward H. McNamara papers, Bentley Historical Library, University of Michigan</p
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [2398303446851083389740]" altrender="box">3</container>
                 <unittitle>"Up Front"</unittitle>
               </did>
               <odd>
@@ -433,7 +435,7 @@ Edward H. McNamara papers, Bentley Historical Library, University of Michigan</p
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [2398303446851083389740]" altrender="box">3</container>
                 <unittitle>"Family" <unitdate type="inclusive" normal="1994">1994</unitdate></unittitle>
               </did>
               <odd>
@@ -442,7 +444,7 @@ Edward H. McNamara papers, Bentley Historical Library, University of Michigan</p
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [2398303446851083389740]" altrender="box">3</container>
                 <unittitle>"Tolerance" <unitdate type="inclusive" normal="2001">2001</unitdate></unittitle>
               </did>
               <odd>
@@ -451,7 +453,7 @@ Edward H. McNamara papers, Bentley Historical Library, University of Michigan</p
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [2398303446851083389740]" altrender="box">3</container>
                 <unittitle>"Airport Security" <unitdate type="inclusive" normal="2001">2001</unitdate></unittitle>
               </did>
               <odd>
@@ -460,7 +462,7 @@ Edward H. McNamara papers, Bentley Historical Library, University of Michigan</p
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [2398303446851083389740]" altrender="box">3</container>
                 <unittitle>"Metro Airport-Now Open" <unitdate type="inclusive" normal="2002">2002</unitdate></unittitle>
                 <physdesc>
                   <physfacet>(CD</physfacet>
@@ -477,7 +479,7 @@ Edward H. McNamara papers, Bentley Historical Library, University of Michigan</p
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [2398303446851083389740]" altrender="box">3</container>
                 <unittitle>"Farewell, Mayor McNamara" <unitdate type="inclusive" normal="1986">1986</unitdate></unittitle>
               </did>
               <odd>
@@ -486,7 +488,7 @@ Edward H. McNamara papers, Bentley Historical Library, University of Michigan</p
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [2398303446851083389740]" altrender="box">3</container>
                 <unittitle>"Presidential Ground Breaking, Metro Airport" <unitdate type="inclusive" normal="1996">1996</unitdate></unittitle>
               </did>
               <odd>
@@ -495,7 +497,7 @@ Edward H. McNamara papers, Bentley Historical Library, University of Michigan</p
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [2398303446851083389740]" altrender="box">3</container>
                 <unittitle>"Spotlight-Newsmakers of the Year" <unitdate type="inclusive" normal="1996">1996</unitdate></unittitle>
                 <physdesc>
                   <physfacet>(<genreform normal="DVDs">DVD</genreform></physfacet>
@@ -507,7 +509,7 @@ Edward H. McNamara papers, Bentley Historical Library, University of Michigan</p
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [2398303446851083389740]" altrender="box">3</container>
                 <unittitle>"Press Conference, 'He Will Not Run'" <unitdate type="inclusive" normal="2001">2001</unitdate></unittitle>
                 <physdesc>
                   <physfacet>(DVD</physfacet>
@@ -519,7 +521,7 @@ Edward H. McNamara papers, Bentley Historical Library, University of Michigan</p
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [2398303446851083389740]" altrender="box">3</container>
                 <unittitle>"Spotlight-Edward H. McNamara, 1926-2006" <unitdate type="inclusive" normal="2006">2006</unitdate></unittitle>
               </did>
               <odd>
@@ -528,7 +530,7 @@ Edward H. McNamara papers, Bentley Historical Library, University of Michigan</p
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [2398303446851083389740]" altrender="box">3</container>
                 <unittitle>"Michigan Legislator's Tributes to Edward McNamara <unitdate type="inclusive" normal="2006">2006</unitdate></unittitle>
               </did>
               <odd>
@@ -537,7 +539,7 @@ Edward H. McNamara papers, Bentley Historical Library, University of Michigan</p
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [2398303446851083389740]" altrender="box">3</container>
                 <unittitle>"Ed McNamara Terminal Dedication" <unitdate type="inclusive" normal="2006">2006</unitdate></unittitle>
                 <physdesc>
                   <physfacet>(<genreform normal="DVDs">DVD</genreform></physfacet>

@@ -31,7 +31,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Symphony Band 1961 Tour collection, 1961, 2011-2012</titleproper>
       <author>Finding aid created by <lb/>Melissa Hernández Durán, January 2012</author>
     </titlepage>
@@ -41,7 +41,9 @@
       <origination>
         <corpname source="lcnaf" encodinganalog="110" authfilenumber="http://id.loc.gov/authorities/names/n82217048">University of Michigan. Symphony Band.</corpname>
       </origination>
-      <unittitle encodinganalog="245">Symphony Band 1961 Tour collection <unitdate type="inclusive" encodinganalog="245$f" normal="1961">1961</unitdate>, <unitdate type="inclusive" encodinganalog="245$g" normal="2011/2012">2011-2012</unitdate></unittitle>
+      <unittitle encodinganalog="245">Symphony Band 1961 Tour collection</unittitle>
+      <unitdate type="inclusive" encodinganalog="245$f" normal="1961">1961</unitdate>
+      <unitdate type="inclusive" encodinganalog="245$g" normal="2011/2012">2011-2012</unitdate>
       <unitid encodinganalog="852$h" repositorycode="MiU-H" countrycode="us" type="call number">2012087 Bimu 2 UBi mul F90</unitid>
       <langmaterial>The material is primarily in <language langcode="eng" encodinganalog="041">English</language> with some items in <language encodinganalog="041" langcode="ru">Russian</language> and <language langcode="geo" encodinganalog="041">Georgian</language>.</langmaterial>
       <abstract>The collection contains materials collected by University of Michigan Symphony Band Tour members during the Band's international tour through the Soviet Union, Eastern Europe and the Near East, February through June, 1961</abstract>
@@ -97,19 +99,19 @@ Symphony Band 1961 Tour collection, Bentley Historical Library, University of Mi
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <geogname source="lcsh" encodinganalog="651">Soviet Union--Description and travel.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/985">Soviet Union--Description and travel.</geogname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n82217048">University of Michigan. Symphony Band.</corpname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan. Band.</corpname>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Materials:</head>
-        <geogname source="lcsh" encodinganalog="651">Soviet Union--Description and travel.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/985">Soviet Union--Description and travel.</geogname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n82217048">University of Michigan. Symphony Band.</corpname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan. Band.</corpname>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -122,13 +124,13 @@ Symphony Band 1961 Tour collection, Bentley Historical Library, University of Mi
         </scopecontent>
         <c02 level="item">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [3636362143478341]" altrender="box">1</container>
             <unittitle>Reunion program and printed photos</unittitle>
           </did>
         </c02>
         <c02 level="item">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [3636362143478341]" altrender="box">1</container>
             <unittitle>Return to Russia Tour <unitdate type="inclusive" normal="1912">1912</unitdate></unittitle>
           </did>
         </c02>
@@ -142,13 +144,13 @@ Symphony Band 1961 Tour collection, Bentley Historical Library, University of Mi
         </scopecontent>
         <c02 level="item">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [3636362143478341]" altrender="box">1</container>
             <unittitle>News clippings, letters and telegrams</unittitle>
           </did>
         </c02>
         <c02 level="item">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [3636362143478341]" altrender="box">1</container>
             <unittitle>Memorabilia, 50th anniversary materials</unittitle>
           </did>
         </c02>
@@ -162,7 +164,7 @@ Symphony Band 1961 Tour collection, Bentley Historical Library, University of Mi
         </scopecontent>
         <c02 level="item">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [3636362143478341]" altrender="box">1</container>
             <unittitle>Invitations, programs and hotel key from Poland</unittitle>
           </did>
         </c02>
@@ -176,7 +178,7 @@ Symphony Band 1961 Tour collection, Bentley Historical Library, University of Mi
         </scopecontent>
         <c02 level="item">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [3636362143478341]" altrender="box">1</container>
             <unittitle>Newspaper articles and leaflet</unittitle>
           </did>
         </c02>
@@ -190,7 +192,7 @@ Symphony Band 1961 Tour collection, Bentley Historical Library, University of Mi
         </scopecontent>
         <c02 level="item">
           <did>
-            <container type="folder" label="Oversize Folder">UBimul F90</container>
+            <container type="folder" label="Oversize Folder [4095450074448801597478874]" altrender="folder">UBimul F90</container>
             <unittitle>Posters</unittitle>
           </did>
         </c02>
@@ -204,7 +206,7 @@ Symphony Band 1961 Tour collection, Bentley Historical Library, University of Mi
         </scopecontent>
         <c02 level="item">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [3636362143478341]" altrender="box">1</container>
             <unittitle>Pins</unittitle>
           </did>
         </c02>
@@ -218,7 +220,7 @@ Symphony Band 1961 Tour collection, Bentley Historical Library, University of Mi
         </scopecontent>
         <c02 level="item">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [3636362143478341]" altrender="box">1</container>
             <unittitle>CD of Tour band photos <unitdate type="inclusive" normal="1961">1961</unitdate></unittitle>
           </did>
         </c02>
@@ -232,19 +234,19 @@ Symphony Band 1961 Tour collection, Bentley Historical Library, University of Mi
         </scopecontent>
         <c02 level="item">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [3636362143478341]" altrender="box">1</container>
             <unittitle>Scrapbook</unittitle>
           </did>
         </c02>
         <c02 level="item">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [3636362143478341]" altrender="box">1</container>
             <unittitle>Uncle Tom's Cabin</unittitle>
           </did>
         </c02>
         <c02 level="item">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [3636362143478341]" altrender="box">1</container>
             <unittitle>Anthology of Georgian Poetry</unittitle>
           </did>
         </c02>

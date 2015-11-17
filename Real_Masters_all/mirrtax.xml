@@ -30,7 +30,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding Aid for <lb/>Michigan Board of State Tax Commissioners, <lb/>Michigan Railroad Appraisal Record Books, 1900</titleproper>
       <author>Finding aid prepared by: <lb/>Michigan Historical Collections staff, 1944</author>
     </titlepage>
@@ -77,9 +77,9 @@
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <subject source="lcsh" encodinganalog="650">Canals--Michigan.</subject>
-        <subject source="lcsh" encodinganalog="650">Railroads--Michigan.</subject>
-        <subject source="lcsh" encodinganalog="650">Plank roads--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/9374">Canals--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6680">Railroads--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/8248">Plank roads--Michigan.</subject>
         <persname source="lcnaf" encodinganalog="700" authfilenumber="http://id.loc.gov/authorities/names/n84804477">Cooley, Mortimer E. (Mortimer Elwyn), 1855-1944.</persname>
       </controlaccess>
     </controlaccess>
@@ -90,7 +90,7 @@
         </did>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">1</container>
+            <container type="volume" label="Oversize Volume [06445742995345283]" altrender="volume">1</container>
             <unittitle>Volume 1</unittitle>
           </did>
           <c03 level="file">
@@ -146,7 +146,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">2</container>
+            <container type="volume" label="Oversize Volume [638071613864396374818332]" altrender="volume">2</container>
             <unittitle>Volume 2</unittitle>
           </did>
           <c03 level="file">
@@ -157,7 +157,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">3</container>
+            <container type="volume" label="Oversize Volume [227535040985198940392]" altrender="volume">3</container>
             <unittitle>Volume 3</unittitle>
           </did>
           <c03 level="file">
@@ -173,7 +173,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">4</container>
+            <container type="volume" label="Oversize Volume [27871616247830050]" altrender="volume">4</container>
             <unittitle>Volume 4</unittitle>
           </did>
           <c03 level="file">
@@ -184,7 +184,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">5</container>
+            <container type="volume" label="Oversize Volume [45143447980125492029]" altrender="volume">5</container>
             <unittitle>Volume 5</unittitle>
           </did>
           <c03 level="file">
@@ -210,7 +210,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">6</container>
+            <container type="volume" label="Oversize Volume [0555212418299999827]" altrender="volume">6</container>
             <unittitle>Volume 6</unittitle>
           </did>
           <c03 level="file">
@@ -291,7 +291,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">7</container>
+            <container type="volume" label="Oversize Volume [0007567744995315067466]" altrender="volume">7</container>
             <unittitle>Volume 7</unittitle>
           </did>
           <c03 level="file">
@@ -382,7 +382,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">8</container>
+            <container type="volume" label="Oversize Volume [8053144505384297148607]" altrender="volume">8</container>
             <unittitle>Volume 8</unittitle>
           </did>
           <c03 level="file">
@@ -393,7 +393,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">9</container>
+            <container type="volume" label="Oversize Volume [489804161345582843252]" altrender="volume">9</container>
             <unittitle>Volume 9</unittitle>
           </did>
           <c03 level="file">
@@ -425,7 +425,7 @@
       <p>Pages are approximately 20" x 23"</p>
       <p>
         <list type="simple">
-          <item>See Following Indexes: <list type="simple"><item>List of Physical Items Inventoried</item><item>Index by Volume &amp; Page No.</item><item>Index by Alphabetical Names</item><item>Index by Railroad Mileage</item></list></item>
+          <item>See Following Indexes: <list type="simple"><item altrender="skip">List of Physical Items Inventoried</item><item altrender="skip">Index by Volume &amp; Page No.</item><item altrender="skip">Index by Alphabetical Names</item><item altrender="skip">Index by Railroad Mileage</item></list></item>
         </list>
       </p>
       <list type="simple">
@@ -433,178 +433,178 @@
         <item>The following listing describes the categories and the order in which they are listed. This order is followed for each railroad. Only the items describing the physical plant are listed below:</item>
         <item>2. Right of Way &amp; Station Grounds
           <list type="simple">
-            <item>acreage by county</item>
+            <item altrender="skip">acreage by county</item>
           </list>
         </item>
         <item>4. Grading
           <list type="simple">
-            <item>Retaining Walls and Embankments</item>
-            <item>Cubic Yards of material</item>
+            <item altrender="skip">Retaining Walls and Embankments</item>
+            <item altrender="skip">Cubic Yards of material</item>
           </list>
         </item>
         <item>6. Bridges, Trestles &amp; Culverts
           <list type="simple">
-            <item>Classification of structures</item>
-            <item>Quantities of construction material</item>
+            <item altrender="skip">Classification of structures</item>
+            <item altrender="skip">Quantities of construction material</item>
           </list>
         </item>
         <item>7. Ties
           <list type="simple">
-            <item>Mainline, Sidings, Yard Tracks, Switch</item>
-            <item>Type of Wood</item>
-            <item>Mileage of ties</item>
+            <item altrender="skip">Mainline, Sidings, Yard Tracks, Switch</item>
+            <item altrender="skip">Type of Wood</item>
+            <item altrender="skip">Mileage of ties</item>
           </list>
         </item>
         <item>8. Rails
           <list type="simple">
-            <item>Mainline, Secondary, yard, sidings</item>
-            <item>Weight of rail used</item>
+            <item altrender="skip">Mainline, Secondary, yard, sidings</item>
+            <item altrender="skip">Weight of rail used</item>
           </list>
         </item>
         <item>9. Track Fastenings
           <list type="simple">
-            <item>Angle bars, Bolts, Spikes, Nut Licks</item>
-            <item>Fish Plates, Tie Plates</item>
-            <item>Quantities per weight of rail used</item>
+            <item altrender="skip">Angle bars, Bolts, Spikes, Nut Licks</item>
+            <item altrender="skip">Fish Plates, Tie Plates</item>
+            <item altrender="skip">Quantities per weight of rail used</item>
           </list>
         </item>
         <item>10. Frogs, Switches, Crossings
           <list type="simple">
-            <item>Split switches, stub switches, three-throw switches, slip switches double slip switches, rigid frogs, spring frogs switch lamps, interlocking connection street railway crossings diamond crossings, square crossings</item>
-            <item>Quantity used</item>
+            <item altrender="skip">Split switches, stub switches, three-throw switches, slip switches double slip switches, rigid frogs, spring frogs switch lamps, interlocking connection street railway crossings diamond crossings, square crossings</item>
+            <item altrender="skip">Quantity used</item>
           </list>
         </item>
         <item>12. Track - Laying &amp; Surfacing
           <list type="simple">
-            <item>Quantities of switches</item>
-            <item>Miles of siding trackmain line track</item>
+            <item altrender="skip">Quantities of switches</item>
+            <item altrender="skip">Miles of siding trackmain line track</item>
           </list>
         </item>
         <item>13. Fencing
           <list type="simple">
-            <item>Mileage by type of fence</item>
+            <item altrender="skip">Mileage by type of fence</item>
           </list>
         </item>
         <item>14. Crossings, Cattle Guards, &amp; Signs
           <list type="simple">
-            <item>Type of material</item>
+            <item altrender="skip">Type of material</item>
           </list>
         </item>
         <item>15. Interlocking &amp; Signal Apparatus
           <list type="simple">
-            <item>Type of interlocker</item>
-            <item>no of levers</item>
-            <item>date built</item>
-            <item>flagman's cabins</item>
-            <item>no. of towers</item>
-            <item>crossing gates</item>
-            <item>automatic block signal systems</item>
-            <item>date installed</item>
-            <item>alarm bells-date installed</item>
-            <item>semaphores date installed</item>
-            <item>mechanical signals</item>
-            <item>special electrical signal disc</item>
+            <item altrender="skip">Type of interlocker</item>
+            <item altrender="skip">no of levers</item>
+            <item altrender="skip">date built</item>
+            <item altrender="skip">flagman's cabins</item>
+            <item altrender="skip">no. of towers</item>
+            <item altrender="skip">crossing gates</item>
+            <item altrender="skip">automatic block signal systems</item>
+            <item altrender="skip">date installed</item>
+            <item altrender="skip">alarm bells-date installed</item>
+            <item altrender="skip">semaphores date installed</item>
+            <item altrender="skip">mechanical signals</item>
+            <item altrender="skip">special electrical signal disc</item>
           </list>
         </item>
         <item>16. Telegraph/Telephones
           <list type="simple">
-            <item>no. of miles of type of wire</item>
+            <item altrender="skip">no. of miles of type of wire</item>
           </list>
         </item>
         <item>17. Station Buildings and Fixtures
           <list type="simple">
-            <item>Passenger stations</item>
-            <item>Sheds, platforms</item>
-            <item>Freight house, transfer houses</item>
-            <item>Offices</item>
-            <item>Elevators</item>
-            <item>Dimensions, type of material</item>
+            <item altrender="skip">Passenger stations</item>
+            <item altrender="skip">Sheds, platforms</item>
+            <item altrender="skip">Freight house, transfer houses</item>
+            <item altrender="skip">Offices</item>
+            <item altrender="skip">Elevators</item>
+            <item altrender="skip">Dimensions, type of material</item>
           </list>
         </item>
         <item>18. Shops, Roundhouses, Turntables
           <list type="simple">
-            <item>Car Shops, machine shops</item>
-            <item>Blacksmith shops, dry kilns</item>
-            <item>Oil houses, sand houses</item>
-            <item>Storerooms, engine houses</item>
-            <item>Turntables</item>
+            <item altrender="skip">Car Shops, machine shops</item>
+            <item altrender="skip">Blacksmith shops, dry kilns</item>
+            <item altrender="skip">Oil houses, sand houses</item>
+            <item altrender="skip">Storerooms, engine houses</item>
+            <item altrender="skip">Turntables</item>
           </list>
         </item>
         <item>20. Water Stations
           <list type="simple">
-            <item>Dimensions, Type of Material</item>
-            <item>Boilers</item>
-            <item>Engines</item>
-            <item>Pumphouses</item>
+            <item altrender="skip">Dimensions, Type of Material</item>
+            <item altrender="skip">Boilers</item>
+            <item altrender="skip">Engines</item>
+            <item altrender="skip">Pumphouses</item>
           </list>
         </item>
         <item>21. Fuel Stations
           <list type="simple">
-            <item>Coal Shutes</item>
-            <item>Dimensions and no, capacity of shutes</item>
-            <item>Trestles</item>
+            <item altrender="skip">Coal Shutes</item>
+            <item altrender="skip">Dimensions and no, capacity of shutes</item>
+            <item altrender="skip">Trestles</item>
           </list>
         </item>
         <item>22. Grain Elevators
           <list type="simple">
-            <item>Capacity, dimensions, type of material</item>
+            <item altrender="skip">Capacity, dimensions, type of material</item>
           </list>
         </item>
         <item>23. Warehouses
           <list type="simple">
-            <item>Type, dimensions</item>
+            <item altrender="skip">Type, dimensions</item>
           </list>
         </item>
         <item>24. Docks and Wharves
           <list type="simple">
-            <item>type of material</item>
-            <item>dimensions</item>
+            <item altrender="skip">type of material</item>
+            <item altrender="skip">dimensions</item>
           </list>
         </item>
         <item>25. Miscellaneous Structures
           <list type="simple">
-            <item>ice houses</item>
-            <item>salt houses</item>
-            <item>lamp rooms</item>
-            <item>tool houses</item>
-            <item>switch houses</item>
-            <item>phone booths</item>
-            <item>hand car houses</item>
-            <item>barns</item>
-            <item>storehouses</item>
-            <item>dry kilns</item>
-            <item>loading platforms</item>
-            <item>coal boxes</item>
-            <item>mail cranes</item>
-            <item>stock pens</item>
-            <item>stock scales</item>
-            <item>track scales</item>
-            <item>bumping posts</item>
-            <item>tell tales</item>
-            <item>ash pits</item>
-            <item>greenhouses</item>
+            <item altrender="skip">ice houses</item>
+            <item altrender="skip">salt houses</item>
+            <item altrender="skip">lamp rooms</item>
+            <item altrender="skip">tool houses</item>
+            <item altrender="skip">switch houses</item>
+            <item altrender="skip">phone booths</item>
+            <item altrender="skip">hand car houses</item>
+            <item altrender="skip">barns</item>
+            <item altrender="skip">storehouses</item>
+            <item altrender="skip">dry kilns</item>
+            <item altrender="skip">loading platforms</item>
+            <item altrender="skip">coal boxes</item>
+            <item altrender="skip">mail cranes</item>
+            <item altrender="skip">stock pens</item>
+            <item altrender="skip">stock scales</item>
+            <item altrender="skip">track scales</item>
+            <item altrender="skip">bumping posts</item>
+            <item altrender="skip">tell tales</item>
+            <item altrender="skip">ash pits</item>
+            <item altrender="skip">greenhouses</item>
           </list>
         </item>
         <item>26. Locomotives
           <list type="simple">
-            <item>number of engine, type, builder, date, weight, cylinder, service, drivers (diameter and no.), boiler (G.S., H.S.)</item>
+            <item altrender="skip">number of engine, type, builder, date, weight, cylinder, service, drivers (diameter and no.), boiler (G.S., H.S.)</item>
           </list>
         </item>
         <item>27. Passenger Equipment
           <list type="simple">
-            <item>number of car, class, length, wheels (No. and Diameter)t frame type, seats (No.kind), platform, vestibule, coupler, heating, date private, pay, dining, buffet, 1st Class, 2nd Class, P&amp;B, M&amp;P&amp;B, B&amp;E, E&amp;B&amp;M, Mail</item>
+            <item altrender="skip">number of car, class, length, wheels (No. and Diameter)t frame type, seats (No.kind), platform, vestibule, coupler, heating, date private, pay, dining, buffet, 1st Class, 2nd Class, P&amp;B, M&amp;P&amp;B, B&amp;E, E&amp;B&amp;M, Mail</item>
           </list>
         </item>
         <item>28. Freight Equipment
           <list type="simple">
-            <item>Quantity by type of car total cars 9877</item>
-            <item>stock, flat, coal, box (30'-45'), refrigerator, cabooses</item>
+            <item altrender="skip">Quantity by type of car total cars 9877</item>
+            <item altrender="skip">stock, flat, coal, box (30'-45'), refrigerator, cabooses</item>
           </list>
         </item>
         <item>29. Miscellaneous Equipment
           <list type="simple">
-            <item>Quantity by type total 243 cars</item>
-            <item>steam derrick, hand derrick, steam shovels, pile drivers, snow plows, snow flangers, poling cars, construction cars, gravel levelers, tool cars, gasoline excavators, boarding cars</item>
+            <item altrender="skip">Quantity by type total 243 cars</item>
+            <item altrender="skip">steam derrick, hand derrick, steam shovels, pile drivers, snow plows, snow flangers, poling cars, construction cars, gravel levelers, tool cars, gasoline excavators, boarding cars</item>
           </list>
         </item>
       </list>

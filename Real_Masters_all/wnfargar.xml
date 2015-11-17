@@ -31,7 +31,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Woman's National Farm and Garden Association. <lb/>Ann Arbor Branch records, 1946-2011</titleproper>
       <author>Finding aid created by <lb/>Michigan Historical Collections staff</author>
     </titlepage>
@@ -89,19 +89,19 @@ Woman's National Farm and Garden Association. Ann Arbor Branch records, Bentley 
       <controlaccess>
         <head>Subjects:</head>
         <corpname source="lcnaf" encodinganalog="610">Woman's National Farm and Garden Association. Ann Arbor Branch.</corpname>
-        <subject source="lcsh" encodinganalog="650">Gardening--Michigan--Ann Arbor--Societies, etc.</subject>
-        <subject source="lcsh" encodinganalog="650">Women--Michigan--Ann Arbor--Societies and clubs.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/10779">Gardening--Michigan--Ann Arbor--Societies, etc.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5672">Women--Michigan--Ann Arbor--Societies and clubs.</subject>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Materials:</head>
         <corpname source="lcnaf" encodinganalog="610">Woman's National Farm and Garden Association. Ann Arbor Branch.</corpname>
-        <subject source="lctgm" encodinganalog="650">Flower shows--Michigan--Ann Arbor.</subject>
-        <subject source="lctgm" encodinganalog="650">Gardening--Michigan--Ann Arbor.</subject>
-        <subject source="lctgm" encodinganalog="650">Women--Organizations--Michigan--Ann Arbor.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/5616">Flower shows--Michigan--Ann Arbor.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/5617">Gardening--Michigan--Ann Arbor.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/5618">Women--Organizations--Michigan--Ann Arbor.</subject>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -114,19 +114,19 @@ Woman's National Farm and Garden Association. Ann Arbor Branch records, Bentley 
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [26479348421067]" altrender="box">1</container>
             <unittitle>History: Fifty Years of Greens Market <unitdate type="inclusive" normal="1948/1998">1948-1998</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [26479348421067]" altrender="box">1</container>
             <unittitle>A Chronicle: The History of the Woman's National Farm and Garden Association <unitdate type="inclusive" normal="1914/1984">1914-1984</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">1</container>
+            <container type="volume" label="Oversize Volume [3263758348294987645]" altrender="volume">1</container>
             <unittitle>Scrapbooks containing clippings, photographs and correspondence <unitdate type="inclusive" normal="1954/1999">1954-1999</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 oversize volumes</extent>
@@ -143,31 +143,31 @@ Woman's National Farm and Garden Association. Ann Arbor Branch records, Bentley 
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [26479348421067]" altrender="box">1</container>
             <unittitle>Yearbooks <unitdate type="inclusive" normal="1948">1948</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [26479348421067]" altrender="box">1</container>
             <unittitle>Yearbooks <unitdate type="inclusive" normal="1950/1969">1950-1969</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [26479348421067]" altrender="box">1</container>
             <unittitle>Yearbooks <unitdate type="inclusive" normal="1970/1989">1970-1989</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [26479348421067]" altrender="box">1</container>
             <unittitle>Yearbooks <unitdate type="inclusive" normal="1990/1999">1990-1999</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [26479348421067]" altrender="box">1</container>
             <unittitle>Yearbooks <unitdate type="inclusive" normal="1999/2008">1999-2008</unitdate></unittitle>
           </did>
         </c02>
@@ -181,50 +181,52 @@ Woman's National Farm and Garden Association. Ann Arbor Branch records, Bentley 
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [26479348421067]" altrender="box">1</container>
             <unittitle>Awards <unitdate type="inclusive" normal="1986/2005">1986-2005</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [26479348421067]" altrender="box">1</container>
             <unittitle>Bylaws <unitdate type="inclusive" normal="1953/1997">1953-1997</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [26479348421067]" altrender="box">1</container>
             <unittitle>Civic Projects <unitdate type="inclusive" normal="1958/1994">1958-1994</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [26479348421067]" altrender="box">1</container>
             <unittitle>Conservation Committee <unitdate type="inclusive" normal="1957/1988">1957-1988</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [26479348421067]" altrender="box">1</container>
             <unittitle>Conservation <unitdate type="inclusive" normal="1978/1988">1978-1988</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [26479348421067]" altrender="box">1</container>
             <unittitle>Corresponding Secretary <unitdate type="inclusive" normal="1977/1990">1977-1990</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [26479348421067]" altrender="box">1</container>
             <unittitle>Education/Scholarships <unitdate type="inclusive" normal="1952/1996">1952-1996</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <unittitle>Financial Reports <unitdate type="inclusive" normal="1947/1995">1947-1995</unitdate>, <unitdate type="inclusive" normal="2009">2009</unitdate></unittitle>
+            <container type="box" label="Box [26479348421067]" altrender="box">1</container>
+            <unittitle>Financial Reports</unittitle>
+            <unitdate type="inclusive" normal="1947/1995">1947-1995</unitdate>
+            <unitdate type="inclusive" normal="2009">2009</unitdate>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">4 folders</extent>
             </physdesc>
@@ -232,38 +234,40 @@ Woman's National Farm and Garden Association. Ann Arbor Branch records, Bentley 
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [26479348421067]" altrender="box">1</container>
             <unittitle>Foundation Budget <unitdate type="inclusive" normal="1980/1990">1980-1990</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [26479348421067]" altrender="box">1</container>
             <unittitle>Horticultural Therapy <unitdate type="inclusive" normal="1962/1990">1962-1990</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [26479348421067]" altrender="box">1</container>
             <unittitle>Hospitality Committee <unitdate type="inclusive" normal="1982/1994">1982-1994</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [26479348421067]" altrender="box">1</container>
             <unittitle>International Committee <unitdate type="inclusive" normal="1953/1989">1953-1989</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [26479348421067]" altrender="box">1</container>
             <unittitle>Membership Committee <unitdate type="inclusive" normal="1982/1990">1982-1990</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
-            <unittitle>Minutes <unitdate type="inclusive" normal="1946/1994">1946-1994</unitdate>, <unitdate type="inclusive" normal="2000/2009">2000-2009</unitdate></unittitle>
+            <container type="box" label="Box [97847864369420728062842]" altrender="box">2</container>
+            <unittitle>Minutes</unittitle>
+            <unitdate type="inclusive" normal="1946/1994">1946-1994</unitdate>
+            <unitdate type="inclusive" normal="2000/2009">2000-2009</unitdate>
             <physdesc altrender="part">
               <extent altrender="materialtype spaceoccupied">4 volumes</extent>
             </physdesc>
@@ -274,61 +278,61 @@ Woman's National Farm and Garden Association. Ann Arbor Branch records, Bentley 
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [97847864369420728062842]" altrender="box">2</container>
             <unittitle>Miscellaneous</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [97847864369420728062842]" altrender="box">2</container>
             <unittitle>Newsletter <unitdate type="inclusive" normal="1976/1998">1976-1998</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [97847864369420728062842]" altrender="box">2</container>
             <unittitle>President's Reports <unitdate type="inclusive" normal="1949/1999">1949-1999</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [97847864369420728062842]" altrender="box">2</container>
             <unittitle>Program Committee <unitdate type="inclusive" normal="1958/1987">1958-1987</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [97847864369420728062842]" altrender="box">2</container>
             <unittitle>Program Books <unitdate type="inclusive" normal="1975/1981">1975-1981</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [97847864369420728062842]" altrender="box">2</container>
             <unittitle>Publicity <unitdate type="inclusive" normal="1949/1997">1949-1997</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [97847864369420728062842]" altrender="box">2</container>
             <unittitle>Treasurer's Correspondence <unitdate type="inclusive" normal="1979/1989">1979-1989</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [97847864369420728062842]" altrender="box">2</container>
             <unittitle>Thank You Notes <unitdate type="inclusive" normal="1979/1989">1979-1989</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [97847864369420728062842]" altrender="box">2</container>
             <unittitle>Yearbook Committee <unitdate type="inclusive" normal="1963/1990">1963-1990</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [97847864369420728062842]" altrender="box">2</container>
             <unittitle>Later records <unitdate type="inclusive" normal="2010/2011">2010-2011</unitdate></unittitle>
           </did>
         </c02>
@@ -345,13 +349,17 @@ Woman's National Farm and Garden Association. Ann Arbor Branch records, Bentley 
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
-            <unittitle>Photographs <unitdate type="inclusive" normal="1954">1954</unitdate>, <unitdate type="inclusive" normal="1964">1964</unitdate>, <unitdate type="inclusive" normal="1970">1970</unitdate>, <unitdate type="inclusive" normal="1977/1988">1977-1988</unitdate></unittitle>
+            <container type="box" label="Box [6037794574972591472]" altrender="box">3</container>
+            <unittitle>Photographs</unittitle>
+            <unitdate type="inclusive" normal="1954">1954</unitdate>
+            <unitdate type="inclusive" normal="1964">1964</unitdate>
+            <unitdate type="inclusive" normal="1970">1970</unitdate>
+            <unitdate type="inclusive" normal="1977/1988">1977-1988</unitdate>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [6037794574972591472]" altrender="box">3</container>
             <unittitle>Photographs <unitdate type="inclusive" normal="1990/1998">1990-1998</unitdate></unittitle>
           </did>
         </c02>
@@ -365,7 +373,7 @@ Woman's National Farm and Garden Association. Ann Arbor Branch records, Bentley 
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [6037794574972591472]" altrender="box">3</container>
             <unittitle>Greens Market <unitdate type="inclusive" normal="1948/1997">1948-1997</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">27 folders</extent>
@@ -374,7 +382,7 @@ Woman's National Farm and Garden Association. Ann Arbor Branch records, Bentley 
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [6037794574972591472]" altrender="box">3</container>
             <unittitle>Gardenwalk <unitdate type="inclusive" normal="1991/2005">1991-2005</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">10 folders</extent>
@@ -383,7 +391,7 @@ Woman's National Farm and Garden Association. Ann Arbor Branch records, Bentley 
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [6037794574972591472]" altrender="box">3</container>
             <unittitle>Flower Show <unitdate type="inclusive" normal="1975">1975</unitdate></unittitle>
           </did>
         </c02>

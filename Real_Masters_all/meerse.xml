@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Marvin M. Meerse papers, 1943-1978</titleproper>
       <author>Finding aid created by <lb/>Christopher Leonard, May 1985</author>
     </titlepage>
@@ -84,26 +84,26 @@ Marvin M. Meerse papers, Bentley Historical Library, University of Michigan</p>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n79055297">Kennedy, John F. (John Fitzgerald), 1917-1963.</persname>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n80035888">Kennedy, Robert F., 1925-1968.</persname>
         <persname source="lcnaf" encodinganalog="600">Meerse, Marvin M., 1910-1978.</persname>
-        <subject source="lcsh" encodinganalog="650">Speech.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6703">Speech.</subject>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n79063202">United States. Army.</corpname>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Materials:</head>
-        <geogname source="lcsh" encodinganalog="651">Germany.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/919">Germany.</geogname>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n80005801">Johnson, Lyndon B. (Lyndon Baines), 1908-1973.</persname>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n79055297">Kennedy, John F. (John Fitzgerald), 1917-1963.</persname>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n79126802.html">Korea (South)</geogname>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n79126802.html" ref="/subjects/2329">Korea (South)</geogname>
         <persname source="lcnaf" encodinganalog="600">Meerse, Marvin M., 1910-1978.</persname>
-        <subject source="lctgm" encodinganalog="650">Military camps.</subject>
-        <subject source="lctgm" encodinganalog="650">Military inspections.</subject>
-        <subject source="lctgm" encodinganalog="650">Military officers.</subject>
-        <subject source="lctgm" encodinganalog="650">Speechwriting.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3747">Military camps.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4783">Military inspections.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3772">Military officers.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4784">Speechwriting.</subject>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n79063202">United States. Army.</corpname>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Diaries.</genreform>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3150">Diaries.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -113,7 +113,7 @@ Marvin M. Meerse papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [968641204028750094972]" altrender="box">1</container>
             <unittitle>Biographical</unittitle>
           </did>
         </c02>
@@ -123,13 +123,13 @@ Marvin M. Meerse papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [968641204028750094972]" altrender="box">1</container>
               <unittitle>General A.C. McAuliffe <unitdate type="inclusive" normal="1955/1956">1955-1956</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [968641204028750094972]" altrender="box">1</container>
               <unittitle>Several persons <unitdate type="inclusive" normal="1957/1963">1957-1963</unitdate></unittitle>
             </did>
             <odd>
@@ -138,19 +138,19 @@ Marvin M. Meerse papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [968641204028750094972]" altrender="box">1</container>
               <unittitle>Generals Truman, Duncan, and Garrison <unitdate type="inclusive" normal="1960/1961">1960-1961</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [968641204028750094972]" altrender="box">1</container>
               <unittitle>General Paul Freeman <unitdate type="inclusive" normal="1960/1965">1960-1965</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [968641204028750094972]" altrender="box">1</container>
               <unittitle>Generals Freeman and Bruce Clarke <unitdate type="inclusive" normal="1961/1964">1961-1964</unitdate></unittitle>
             </did>
             <odd>
@@ -159,26 +159,26 @@ Marvin M. Meerse papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [968641204028750094972]" altrender="box">1</container>
               <unittitle>Several persons <unitdate type="inclusive" normal="1966/1968">1966-1968</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [968641204028750094972]" altrender="box">1</container>
               <unittitle>Graduation and commencement <unitdate type="inclusive" normal="1950/1961">1950-1961</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [968641204028750094972]" altrender="box">1</container>
               <unittitle>Miscellaneous</unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [968641204028750094972]" altrender="box">1</container>
             <unittitle>Aptitude tests and humorous bits</unittitle>
           </did>
         </c02>
@@ -188,32 +188,32 @@ Marvin M. Meerse papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [968641204028750094972]" altrender="box">1</container>
               <unittitle>Generals Clarke and Freeman <unitdate type="inclusive" normal="1961/1963">1961-1963</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [968641204028750094972]" altrender="box">1</container>
               <unittitle>Generals Dwight Beach, C.H. Bonisteel, and others <unitdate type="inclusive" normal="1964/1968">1964-1968</unitdate></unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [968641204028750094972]" altrender="box">1</container>
             <unittitle>Posters and flyers, NCO Club No. 1 <unitdate type="inclusive" normal="1948/1951">1948-1951</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [968641204028750094972]" altrender="box">1</container>
             <unittitle>Miscellaneous papers</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [968641204028750094972]" altrender="box">1</container>
             <unittitle>Miscellaneous printed</unittitle>
           </did>
         </c02>
@@ -224,7 +224,7 @@ Marvin M. Meerse papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [968641204028750094972]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1950/1970">1950-1970</unitdate>
             </unittitle>
@@ -232,7 +232,7 @@ Marvin M. Meerse papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [968641204028750094972]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1971/1978">1971-1978</unitdate>
             </unittitle>
@@ -240,13 +240,17 @@ Marvin M. Meerse papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <unittitle><genreform normal="Diaries">Diaries</genreform>, <unitdate type="inclusive" normal="1971">1971</unitdate>, <unitdate type="inclusive" normal="1973">1973</unitdate></unittitle>
+            <container type="box" label="Box [968641204028750094972]" altrender="box">1</container>
+            <unittitle>
+              <genreform normal="Diaries">Diaries</genreform>
+            </unittitle>
+            <unitdate type="inclusive" normal="1971">1971</unitdate>
+            <unitdate type="inclusive" normal="1973">1973</unitdate>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [968641204028750094972]" altrender="box">1</container>
             <unittitle>
               <title render="italic">Richmond Junction</title>
               <unitdate type="inclusive" normal="1975">1975</unitdate>
@@ -258,7 +262,7 @@ Marvin M. Meerse papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [968641204028750094972]" altrender="box">1</container>
             <unittitle>
               <genreform normal="Photographs">Photographs</genreform>
             </unittitle>

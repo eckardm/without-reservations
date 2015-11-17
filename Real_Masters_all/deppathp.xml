@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>University Archives and Records Program <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/2">University Archives and Records Program <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Dept. of Pathology <lb/>(University of Michigan) <lb/>publications, 1973-1997</titleproper>
       <author>Finding aid created by <lb/>Jennifer Jacobs, 1999</author>
     </titlepage>
@@ -94,16 +94,16 @@ Dept. of Pathology (University of Michigan) publications, Bentley Historical Lib
         <corpname source="lcnaf" encodinganalog="610">University of Michigan. Dept. of Pathology.</corpname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan. Blood Bank.</corpname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan. Pathology Laboratories.</corpname>
-        <subject source="lcsh" encodinganalog="650">Pathology--Study and teaching--Michigan--Ann Arbor.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7208">Pathology--Study and teaching--Michigan--Ann Arbor.</subject>
         <corpname source="lcnaf" encodinganalog="710" authfilenumber="http://id.loc.gov/authorities/names/nr90017033">University of Michigan. Hospitals. Blood bank.</corpname>
         <corpname source="lcnaf" encodinganalog="710">University of Michigan. Pathology Laboratories.</corpname>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Annual reports.</genreform>
-        <genreform source="aat" encodinganalog="655">Pamphlets.</genreform>
-        <genreform source="aat" encodinganalog="655">Reports.</genreform>
-        <genreform source="aat" encodinganalog="655">Manuals.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3197">Annual reports.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3152">Pamphlets.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3155">Reports.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3158">Manuals.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -113,12 +113,12 @@ Dept. of Pathology (University of Michigan) publications, Bentley Historical Lib
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [877673815442088009819750748]" altrender="box">1</container>
             <unittitle>Annual Reports</unittitle>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [877673815442088009819750748]" altrender="box">1</container>
               <unittitle>Annual Reports <unitdate type="inclusive" normal="1981/1992">1981-1992</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">4 folders</extent>
@@ -132,20 +132,22 @@ Dept. of Pathology (University of Michigan) publications, Bentley Historical Lib
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [877673815442088009819750748]" altrender="box">1</container>
               <unittitle>Abnormal Biology: Understanding and Diagnosis <unitdate type="inclusive" normal="1982">1982</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [877673815442088009819750748]" altrender="box">1</container>
               <unittitle>M Labs <unitdate type="inclusive">undated</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
-              <unittitle>House Officer Training Program, ca <unitdate type="inclusive" normal="1976">1976</unitdate>, <unitdate type="inclusive" normal="1981" certainty="approximate">circa 1981</unitdate></unittitle>
+              <container type="box" label="Box [877673815442088009819750748]" altrender="box">1</container>
+              <unittitle>House Officer Training Program, ca</unittitle>
+              <unitdate type="inclusive" normal="1976">1976</unitdate>
+              <unitdate type="inclusive" normal="1981" certainty="approximate">circa 1981</unitdate>
             </did>
           </c03>
         </c02>
@@ -155,7 +157,7 @@ Dept. of Pathology (University of Michigan) publications, Bentley Historical Lib
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [877673815442088009819750748]" altrender="box">1</container>
               <unittitle>Documents Related to Goals, Medical Service Plan Program, Strategies and Related Matters <unitdate type="inclusive" normal="1980/1981">1980/81</unitdate></unittitle>
             </did>
           </c03>
@@ -175,7 +177,7 @@ Dept. of Pathology (University of Michigan) publications, Bentley Historical Lib
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [877673815442088009819750748]" altrender="box">1</container>
                 <unittitle>Blood Transfusion Policies and Standard Practices <unitdate type="inclusive" normal="1973">1973</unitdate></unittitle>
               </did>
             </c04>
@@ -191,7 +193,7 @@ Dept. of Pathology (University of Michigan) publications, Bentley Historical Lib
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [9914744812209996019]" altrender="box">2</container>
                 <unittitle>Pathology Laboratories Handbook <unitdate type="inclusive" normal="1979/1996">1979-1996</unitdate></unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">8 folders</extent>
@@ -200,7 +202,7 @@ Dept. of Pathology (University of Michigan) publications, Bentley Historical Lib
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [9914744812209996019]" altrender="box">2</container>
                 <unittitle>Pathology Laboratories Handbook: The Mini Book <unitdate type="inclusive" normal="1996/1997">1996/97</unitdate></unittitle>
               </did>
             </c04>
@@ -211,7 +213,7 @@ Dept. of Pathology (University of Michigan) publications, Bentley Historical Lib
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [9914744812209996019]" altrender="box">2</container>
                 <unittitle>Documents Related to Goals, Medical Service Plan Program, Strategies and Related Matters <unitdate type="inclusive" normal="1981">1981</unitdate></unittitle>
               </did>
             </c04>

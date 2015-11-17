@@ -30,7 +30,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding Aid for <lb/>G. B. Harrison Papers <date type="inclusive">1910-1981</date></titleproper>
       <author>Finding aid prepared by: <lb/>Mark Greene</author>
     </titlepage>
@@ -85,15 +85,15 @@
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <subject source="lcsh" encodinganalog="650">Authors, American--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6071">Authors, American--Michigan.</subject>
         <corpname source="lcnaf" encodinganalog="610">Catholic Church.</corpname>
         <persname authfilenumber="http://id.loc.gov/authorities/names/n80020447" source="lcnaf">Harrison, G. B. (George Bagshawe), 1894-1991</persname>
-        <geogname source="lcsh" encodinganalog="651">India.</geogname>
-        <geogname source="lcsh" encodinganalog="651">Iraq.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/969">India.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1996">Iraq.</geogname>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n78095332">Shakespeare, William, 1564-1616.</persname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan. Dept. of English Language and Literature.</corpname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan--Faculty.</corpname>
-        <subject source="lcsh" encodinganalog="650">World War, 1914-1918.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5712">World War, 1914-1918.</subject>
       </controlaccess>
       <controlaccess>
         <head>Contributors:</head>
@@ -102,7 +102,7 @@
       </controlaccess>
       <controlaccess>
         <head>Genre/Form:</head>
-        <genreform source="aat" encodinganalog="655" normal="Diaries">Diaries.</genreform>
+        <genreform source="aat" encodinganalog="655" normal="Diaries" ref="/subjects/3150">Diaries.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -114,13 +114,13 @@
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [39982853437002451306]" altrender="box">1</container>
             <unittitle><unitdate type="inclusive" normal="1910-04">April 1910</unitdate> (Italy)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [39982853437002451306]" altrender="box">1</container>
             <unittitle>World War I (India and Mesopotamia) <unitdate type="inclusive" normal="1914/1918">1914-1918</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">6 volumes</extent>
@@ -130,7 +130,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [39982853437002451306]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1936">1936</unitdate>
             </unittitle>
@@ -138,7 +138,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [39982853437002451306]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1937">1937</unitdate>
             </unittitle>
@@ -146,7 +146,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [39982853437002451306]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1938">1938</unitdate>
             </unittitle>
@@ -154,7 +154,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [39982853437002451306]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1939">1939</unitdate>
             </unittitle>
@@ -162,7 +162,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [39982853437002451306]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1940">1940</unitdate>
             </unittitle>
@@ -170,7 +170,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [39982853437002451306]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1941">1941</unitdate>
             </unittitle>
@@ -178,7 +178,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [39982853437002451306]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1943-09/1944-05">September 1943-May 1944</unitdate>
             </unittitle>
@@ -186,7 +186,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [39982853437002451306]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1945">1945</unitdate>
             </unittitle>
@@ -194,7 +194,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [39982853437002451306]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1946">1946</unitdate>
             </unittitle>
@@ -202,7 +202,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [39982853437002451306]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1947">1947</unitdate>
             </unittitle>
@@ -210,7 +210,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [39982853437002451306]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1948">1948</unitdate>
             </unittitle>
@@ -218,7 +218,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [39982853437002451306]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1949">1949</unitdate>
             </unittitle>
@@ -226,7 +226,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [698421914894166188564]" altrender="box">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1950/1974">1950-1974</unitdate>
             </unittitle>
@@ -237,7 +237,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [968631176314336980866183]" altrender="box">3</container>
             <unittitle>
               <unitdate type="inclusive" normal="1975/1981">1975-1981</unitdate>
             </unittitle>
@@ -261,7 +261,7 @@
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [968631176314336980866183]" altrender="box">3</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1926-10/1927-07">October 1926-July 1927</unitdate>
                 </unittitle>
@@ -272,7 +272,7 @@
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [968631176314336980866183]" altrender="box">3</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1927-07/1928-07">July 1927-July 1928</unitdate>
                 </unittitle>
@@ -283,7 +283,7 @@
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [968631176314336980866183]" altrender="box">3</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1928-07/1929-10">July 1928-October 1929</unitdate>
                 </unittitle>
@@ -294,7 +294,7 @@
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [968631176314336980866183]" altrender="box">3</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1929-07/1930-04">July 1929-April 1930</unitdate>
                 </unittitle>
@@ -305,7 +305,7 @@
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [968631176314336980866183]" altrender="box">3</container>
                 <unittitle>April 1930-Whitsunday <unitdate type="inclusive" normal="1935">1935</unitdate></unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">5 volumes</extent>
@@ -325,7 +325,7 @@
             </odd>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [026631219413970422181]" altrender="box">4</container>
                 <unittitle>re publication of <title render="italic">Companion to Shakespeare studies</title>, <unitdate type="inclusive" normal="1932/1933">1932-1933</unitdate></unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">3 volumes</extent>
@@ -335,13 +335,15 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
-              <unittitle>World War I (letters to parents from India and Mesopotamia) <unitdate type="inclusive" normal="1914-12/1916-09">December 1914-September 1916</unitdate>, <unitdate type="inclusive" normal="1918-03">March 1918</unitdate></unittitle>
+              <container type="box" label="Box [026631219413970422181]" altrender="box">4</container>
+              <unittitle>World War I (letters to parents from India and Mesopotamia)</unittitle>
+              <unitdate type="inclusive" normal="1914-12/1916-09">December 1914-September 1916</unitdate>
+              <unitdate type="inclusive" normal="1918-03">March 1918</unitdate>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [026631219413970422181]" altrender="box">4</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1930/1939" certainty="approximate">1930s</unitdate>
               </unittitle>
@@ -349,7 +351,7 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [026631219413970422181]" altrender="box">4</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1940/1949" certainty="approximate">1940s</unitdate>
               </unittitle>
@@ -357,7 +359,7 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [026631219413970422181]" altrender="box">4</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1944/1949">1944-1949</unitdate>
               </unittitle>
@@ -368,7 +370,7 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [026631219413970422181]" altrender="box">4</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1950/1959" certainty="approximate">1950s</unitdate>
               </unittitle>
@@ -376,7 +378,7 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [026631219413970422181]" altrender="box">4</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1960/1969" certainty="approximate">1960s</unitdate>
               </unittitle>
@@ -384,7 +386,7 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [026631219413970422181]" altrender="box">4</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1970/1980" certainty="approximate">1970s-1980</unitdate>
               </unittitle>
@@ -392,7 +394,7 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [026631219413970422181]" altrender="box">4</container>
               <unittitle>Fragments and <unitdate>undated</unitdate></unittitle>
             </did>
           </c03>
@@ -407,25 +409,25 @@
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [026631219413970422181]" altrender="box">4</container>
                 <unittitle><unitdate type="inclusive" normal="1926">1926</unitdate> (from GBH only)</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [026631219413970422181]" altrender="box">4</container>
                 <unittitle><unitdate type="inclusive" normal="1927">1927</unitdate> (from GBH only)</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [026631219413970422181]" altrender="box">4</container>
                 <unittitle><unitdate type="inclusive" normal="1929">1929</unitdate> (from GBH only)</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [026631219413970422181]" altrender="box">4</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1928/1948">1928-1948 (scattered)</unitdate>
                 </unittitle>
@@ -438,7 +440,7 @@
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [026631219413970422181]" altrender="box">4</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1965/1967">1965-1967</unitdate>
                 </unittitle>
@@ -446,7 +448,7 @@
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [026631219413970422181]" altrender="box">4</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1968/1969">1968-1969</unitdate>
                 </unittitle>
@@ -454,7 +456,7 @@
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [026631219413970422181]" altrender="box">4</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1970/1971">1970-1971</unitdate>
                 </unittitle>
@@ -462,7 +464,7 @@
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [026631219413970422181]" altrender="box">4</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1972/1973">1972-1973</unitdate>
                 </unittitle>
@@ -470,7 +472,7 @@
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [026631219413970422181]" altrender="box">4</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1974/1976">1974-1976</unitdate>
                 </unittitle>
@@ -478,7 +480,7 @@
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">4</container>
+                <container type="box" label="Box [026631219413970422181]" altrender="box">4</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1977/1980">1977-1980</unitdate>
                 </unittitle>
@@ -487,13 +489,13 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [026631219413970422181]" altrender="box">4</container>
               <unittitle>"The Tulsa Feminists," re Profession of English <unitdate type="inclusive" normal="1974">1974</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [026631219413970422181]" altrender="box">4</container>
               <unittitle>Hyman Enzer (Professor of Sociology, Hofstra University), re GBH's first published novel <title render="italic">Fires of Arcadia</title>, <unitdate type="inclusive" normal="1966/1970">1966-1970</unitdate></unittitle>
             </did>
           </c03>
@@ -504,61 +506,61 @@
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [026631219413970422181]" altrender="box">4</container>
               <unittitle>re Companion to Shakespeare <unitdate type="inclusive" normal="1932">1932</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [026631219413970422181]" altrender="box">4</container>
               <unittitle>re Copy of Holinshed's Chronicles though to belong to Shakespeare <unitdate type="inclusive" normal="1935">1935</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [026631219413970422181]" altrender="box">4</container>
               <unittitle>With agent and publisher re <title render="italic">Introducing Shakespeare</title>, <title render="italic">College Shakespeare</title>, and <title render="italic">Complete Shakespeare</title>, <unitdate type="inclusive" normal="1942/1952">1942-1952 (scattered)</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [026631219413970422181]" altrender="box">4</container>
               <unittitle>Re problems with citations in <title render="italic">New Readers' Shakespeare</title>, <unitdate type="inclusive" normal="1945">1945</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [026631219413970422181]" altrender="box">4</container>
               <unittitle>With Martin Holmes re illustrations for Harcourt Brace edition of Shakespeare <unitdate type="inclusive" normal="1946">1946</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [8436096845847578493644]" altrender="box">5</container>
               <unittitle>With George A. Harrap and Co., Ltd. re Tyrone Guthrie's introduction to GBH work <unitdate type="inclusive" normal="1952/1953">1952-1953</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [8436096845847578493644]" altrender="box">5</container>
               <unittitle>With Arthur Eastman re collaboration on <title render="italic">Shakespeare's Critics</title>, <unitdate type="inclusive" normal="1962">1962</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [8436096845847578493644]" altrender="box">5</container>
               <unittitle>With publisher re Adventures in English Literature and Major British Writers <unitdate type="inclusive" normal="1963/1965">1963-1965</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [8436096845847578493644]" altrender="box">5</container>
               <unittitle>Re GBH's reviews of books by A.L. Rowse <unitdate type="inclusive" normal="1963/1965">1963-1965</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [8436096845847578493644]" altrender="box">5</container>
               <unittitle>Re Proposed project for Cliff's Notes <unitdate type="inclusive" normal="1966/1967">1966-1967</unitdate></unittitle>
             </did>
           </c03>
@@ -570,19 +572,19 @@
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [8436096845847578493644]" altrender="box">5</container>
             <unittitle>Conversion to Catholicism <unitdate type="inclusive" normal="1946">1946</unitdate> (includes correspondence and a memoir)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [8436096845847578493644]" altrender="box">5</container>
             <unittitle>International Commission on English in the Liturgy (ICLE) <unitdate type="inclusive" normal="1966/1978">1966-1978</unitdate> (includes correspondence, diary entries, and meditations)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [8436096845847578493644]" altrender="box">5</container>
             <unittitle>Pamphlets and Radio Addresses <unitdate type="inclusive" normal="1976/1982">1976-1982</unitdate> (include correspondence and texts)</unittitle>
           </did>
         </c02>
@@ -593,7 +595,7 @@
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [8436096845847578493644]" altrender="box">5</container>
             <unittitle>On Shakespeare</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">5 folders</extent>
@@ -602,7 +604,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [8436096845847578493644]" altrender="box">5</container>
             <unittitle>On Catholicism and Religion</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -611,7 +613,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [8436096845847578493644]" altrender="box">5</container>
             <unittitle>Miscellaneous, especially Elizabethan literature</unittitle>
           </did>
           <odd>
@@ -620,7 +622,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [1550684268963813294175]" altrender="box">6</container>
             <unittitle>Miscellaneous, especially Elizabethan literature</unittitle>
           </did>
           <odd>
@@ -634,7 +636,7 @@
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [1550684268963813294175]" altrender="box">6</container>
             <unittitle>Scrapbooks <unitdate type="inclusive" normal="1924/1967">1924-1967</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">3 volumes</extent>
@@ -643,7 +645,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [1550684268963813294175]" altrender="box">6</container>
             <unittitle>Shakespeare, Elizabethan drama, and general literature</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -652,7 +654,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">6</container>
+            <container type="box" label="Box [1550684268963813294175]" altrender="box">6</container>
             <unittitle>Catholicism and Religion</unittitle>
           </did>
         </c02>
@@ -670,8 +672,10 @@
           </odd>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">7</container>
-              <unittitle>Correspondence <unitdate type="inclusive" normal="1958/1968">1958-1968</unitdate> (including, <unitdate type="inclusive" normal="1968">1968</unitdate> "history" of the Journal)</unittitle>
+              <container type="box" label="Box [886971840490951395983]" altrender="box">7</container>
+              <unittitle>Correspondence 1958-1968 (including, 1968 "history" of the Journal)</unittitle>
+              <unitdate type="inclusive" normal="1958/1968">1958-1968</unitdate>
+              <unitdate type="inclusive" normal="1968">1968</unitdate>
             </did>
           </c03>
           <c03 level="file">
@@ -680,38 +684,38 @@
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">7</container>
+                <container type="box" label="Box [886971840490951395983]" altrender="box">7</container>
                 <unittitle>1611</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">7</container>
+                <container type="box" label="Box [886971840490951395983]" altrender="box">7</container>
                 <unittitle>1612</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">7</container>
+                <container type="box" label="Box [886971840490951395983]" altrender="box">7</container>
                 <unittitle>1613</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">7</container>
+                <container type="box" label="Box [886971840490951395983]" altrender="box">7</container>
                 <unittitle>1614</unittitle>
               </did>
             </c04>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">7</container>
+              <container type="box" label="Box [886971840490951395983]" altrender="box">7</container>
               <unittitle>Miscellaneous notes</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">7</container>
+              <container type="box" label="Box [886971840490951395983]" altrender="box">7</container>
               <unittitle>Notebooks</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">4 volumes</extent>
@@ -729,31 +733,31 @@
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">7</container>
+                <container type="box" label="Box [886971840490951395983]" altrender="box">7</container>
                 <unittitle>Devil's Bargain</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">7</container>
+                <container type="box" label="Box [886971840490951395983]" altrender="box">7</container>
                 <unittitle>Essex</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">7</container>
+                <container type="box" label="Box [886971840490951395983]" altrender="box">7</container>
                 <unittitle>The Romantic Lover</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">7</container>
+                <container type="box" label="Box [886971840490951395983]" altrender="box">7</container>
                 <unittitle>Uncle Ezra</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">7</container>
+                <container type="box" label="Box [886971840490951395983]" altrender="box">7</container>
                 <unittitle>Unrest in Illyria</unittitle>
               </did>
             </c04>
@@ -764,13 +768,13 @@
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">7</container>
+                <container type="box" label="Box [886971840490951395983]" altrender="box">7</container>
                 <unittitle>Devil's Bargain</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">7</container>
+                <container type="box" label="Box [886971840490951395983]" altrender="box">7</container>
                 <unittitle>Humphrey Maynard</unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -779,19 +783,19 @@
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">7</container>
+                <container type="box" label="Box [886971840490951395983]" altrender="box">7</container>
                 <unittitle>Illyria: Land of Promise</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">7</container>
+                <container type="box" label="Box [886971840490951395983]" altrender="box">7</container>
                 <unittitle>Land of Promise; or Revolution in Illyria (handwritten draft of preceding work)</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">7</container>
+                <container type="box" label="Box [886971840490951395983]" altrender="box">7</container>
                 <unittitle>Love's Labours Won</unittitle>
               </did>
             </c04>
@@ -810,22 +814,13 @@
           <c03 level="file">
             <did>
               <unittitle>Research material</unittitle>
-              <container type="reel" label="Roll">1</container>
+              <container type="reel" label="Roll [1990096044845378772329841]" altrender="reel">1</container>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <unittitle>Research material</unittitle>
-              <container type="reel" label="Roll">2</container>
-            </did>
-            <odd>
-              <p>(continued)</p>
-            </odd>
-          </c03>
-          <c03 level="file">
-            <did>
-              <unittitle>Research material</unittitle>
-              <container type="reel" label="Roll">3</container>
+              <container type="reel" label="Roll [05987994284221972956322080]" altrender="reel">2</container>
             </did>
             <odd>
               <p>(continued)</p>
@@ -834,7 +829,7 @@
           <c03 level="file">
             <did>
               <unittitle>Research material</unittitle>
-              <container type="reel" label="Roll">4</container>
+              <container type="reel" label="Roll [65271743468851268168]" altrender="reel">3</container>
             </did>
             <odd>
               <p>(continued)</p>
@@ -843,7 +838,7 @@
           <c03 level="file">
             <did>
               <unittitle>Research material</unittitle>
-              <container type="reel" label="Roll">5</container>
+              <container type="reel" label="Roll [8489578483989277905]" altrender="reel">4</container>
             </did>
             <odd>
               <p>(continued)</p>
@@ -852,7 +847,7 @@
           <c03 level="file">
             <did>
               <unittitle>Research material</unittitle>
-              <container type="reel" label="Roll">6</container>
+              <container type="reel" label="Roll [666634861917788]" altrender="reel">5</container>
             </did>
             <odd>
               <p>(continued)</p>
@@ -861,7 +856,7 @@
           <c03 level="file">
             <did>
               <unittitle>Research material</unittitle>
-              <container type="reel" label="Roll">7</container>
+              <container type="reel" label="Roll [25870964885646443488]" altrender="reel">6</container>
             </did>
             <odd>
               <p>(continued)</p>
@@ -870,7 +865,7 @@
           <c03 level="file">
             <did>
               <unittitle>Research material</unittitle>
-              <container type="reel" label="Roll">8</container>
+              <container type="reel" label="Roll [85894899815434]" altrender="reel">7</container>
             </did>
             <odd>
               <p>(continued)</p>
@@ -879,7 +874,7 @@
           <c03 level="file">
             <did>
               <unittitle>Research material</unittitle>
-              <container type="reel" label="Roll">9</container>
+              <container type="reel" label="Roll [98178996647766768163]" altrender="reel">8</container>
             </did>
             <odd>
               <p>(continued)</p>
@@ -888,7 +883,7 @@
           <c03 level="file">
             <did>
               <unittitle>Research material</unittitle>
-              <container type="reel" label="Roll">10</container>
+              <container type="reel" label="Roll [682099524926805910429154]" altrender="reel">9</container>
             </did>
             <odd>
               <p>(continued)</p>
@@ -897,7 +892,7 @@
           <c03 level="file">
             <did>
               <unittitle>Research material</unittitle>
-              <container type="reel" label="Roll">11</container>
+              <container type="reel" label="Roll [544233440844112916]" altrender="reel">10</container>
             </did>
             <odd>
               <p>(continued)</p>
@@ -906,7 +901,7 @@
           <c03 level="file">
             <did>
               <unittitle>Research material</unittitle>
-              <container type="reel" label="Roll">12</container>
+              <container type="reel" label="Roll [211405458112007340]" altrender="reel">11</container>
             </did>
             <odd>
               <p>(continued)</p>
@@ -915,7 +910,7 @@
           <c03 level="file">
             <did>
               <unittitle>Research material</unittitle>
-              <container type="reel" label="Roll">13</container>
+              <container type="reel" label="Roll [1616044708560139380]" altrender="reel">12</container>
             </did>
             <odd>
               <p>(continued)</p>
@@ -924,7 +919,7 @@
           <c03 level="file">
             <did>
               <unittitle>Research material</unittitle>
-              <container type="reel" label="Roll">14</container>
+              <container type="reel" label="Roll [39485888482989863887264]" altrender="reel">13</container>
             </did>
             <odd>
               <p>(continued)</p>
@@ -933,7 +928,7 @@
           <c03 level="file">
             <did>
               <unittitle>Research material</unittitle>
-              <container type="reel" label="Roll">15</container>
+              <container type="reel" label="Roll [400232495429979053]" altrender="reel">14</container>
             </did>
             <odd>
               <p>(continued)</p>
@@ -942,7 +937,7 @@
           <c03 level="file">
             <did>
               <unittitle>Research material</unittitle>
-              <container type="reel" label="Roll">16</container>
+              <container type="reel" label="Roll [515203449956158197679]" altrender="reel">15</container>
             </did>
             <odd>
               <p>(continued)</p>
@@ -951,7 +946,7 @@
           <c03 level="file">
             <did>
               <unittitle>Research material</unittitle>
-              <container type="reel" label="Roll">17</container>
+              <container type="reel" label="Roll [08448404406414868]" altrender="reel">16</container>
             </did>
             <odd>
               <p>(continued)</p>
@@ -960,7 +955,16 @@
           <c03 level="file">
             <did>
               <unittitle>Research material</unittitle>
-              <container type="reel" label="Roll">18</container>
+              <container type="reel" label="Roll [2176008847409079604812]" altrender="reel">17</container>
+            </did>
+            <odd>
+              <p>(continued)</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did>
+              <unittitle>Research material</unittitle>
+              <container type="reel" label="Roll [7253490546923046908]" altrender="reel">18</container>
             </did>
             <odd>
               <p>(continued)</p>

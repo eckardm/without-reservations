@@ -31,7 +31,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Kenneth Richard Gibson papers, 1930-1956</titleproper>
       <author>Finding aid created by <lb/>Jennifer Barr, August, 2011.</author>
     </titlepage>
@@ -88,28 +88,28 @@ Kenneth Richard Gibson papers, Bentley Historical Library, University of Michiga
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <subject source="lcsh" encodinganalog="650">Children--Health and hygiene--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6778">Children--Health and hygiene--Michigan.</subject>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n85815930">Children's Fund of Michigan.</corpname>
-        <subject source="lcsh" encodinganalog="650">Dentistry--Michigan.</subject>
-        <subject source="lcsh" encodinganalog="650">Dentistry--Study and teaching--Michigan.</subject>
-        <subject source="lcsh" encodinganalog="650">Dentists--Michigan--Detroit.</subject>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n79045539.html">Detroit (Mich.)</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7203">Dentistry--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7943">Dentistry--Study and teaching--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7944">Dentists--Michigan--Detroit.</subject>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n79045539.html" ref="/subjects/933">Detroit (Mich.)</geogname>
         <corpname source="lcnaf" encodinganalog="610">Michigan School Health Association.</corpname>
-        <subject source="lcsh" encodinganalog="650">Pedodontics--Michigan.</subject>
-        <subject source="lcsh" encodinganalog="650">Public health--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7945">Pedodontics--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6032">Public health--Michigan.</subject>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Materials:</head>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n85815930">Children's Fund of Michigan.</corpname>
-        <subject source="lctgm" encodinganalog="650">Dentistry--Michigan.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4382">Dentistry--Michigan.</subject>
         <persname source="lcnaf" encodinganalog="600">Gibson, Kenneth Richard, 1895-1959.</persname>
-        <subject source="lcsh" encodinganalog="650">Public health--Michigan.</subject>
-        <subject source="lctgm" encodinganalog="650">Schools--Michigan--Bay County.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6032">Public health--Michigan.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4383">Schools--Michigan--Bay County.</subject>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan. College of Dental Surgery. Class of 1918.</corpname>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -122,14 +122,16 @@ Kenneth Richard Gibson papers, Bentley Historical Library, University of Michiga
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [30224848037870838136]" altrender="box">1</container>
             <unittitle>Certificates <unitdate type="inclusive" normal="1947/1949">1947-1949</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <unittitle>Clippings <unitdate type="inclusive" normal="1941/1948">1941-1948</unitdate>, <unitdate type="inclusive">undated</unitdate></unittitle>
+            <container type="box" label="Box [30224848037870838136]" altrender="box">1</container>
+            <unittitle>Clippings</unittitle>
+            <unitdate type="inclusive" normal="1941/1948">1941-1948</unitdate>
+            <unitdate type="inclusive">undated</unitdate>
           </did>
         </c02>
         <c02 level="file">
@@ -138,13 +140,13 @@ Kenneth Richard Gibson papers, Bentley Historical Library, University of Michiga
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [30224848037870838136]" altrender="box">1</container>
               <unittitle>Hygiene, and public health notes <unitdate type="inclusive" normal="1934/1935">1934-1935</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [30224848037870838136]" altrender="box">1</container>
               <unittitle>Notes and syllabi <unitdate type="inclusive" normal="1935/1938">1935-1938</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -153,44 +155,44 @@ Kenneth Richard Gibson papers, Bentley Historical Library, University of Michiga
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [30224848037870838136]" altrender="box">1</container>
               <unittitle>Exams and notes <unitdate type="inclusive" normal="1937">1937</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [30224848037870838136]" altrender="box">1</container>
               <unittitle>Bibliographic notes <unitdate type="inclusive" normal="1942/1944">1942-1944</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [30224848037870838136]" altrender="box">1</container>
               <unittitle>Essays on public health and health sector labor market <unitdate type="inclusive" normal="1943/1946">1943-1946</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [30224848037870838136]" altrender="box">1</container>
               <unittitle>Essays and notes <unitdate type="inclusive" normal="1944/1946">1944-1946</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [30224848037870838136]" altrender="box">1</container>
               <unittitle>Notes: Public health <unitdate type="inclusive" normal="1944/1946">1944-1946</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [30224848037870838136]" altrender="box">1</container>
               <unittitle>Coursework for Public Health Ph.D. <unitdate type="inclusive" normal="1945/1946">1945-1946</unitdate></unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [30224848037870838136]" altrender="box">1</container>
             <unittitle><genreform normal="Photographs">Photographs</genreform>, <unitdate type="inclusive" normal="1936/1950">1936-1950</unitdate></unittitle>
           </did>
           <odd>
@@ -207,19 +209,19 @@ Kenneth Richard Gibson papers, Bentley Historical Library, University of Michiga
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [30224848037870838136]" altrender="box">1</container>
             <unittitle>American Association of Orthodontics, Public Relations Bureau <unitdate type="inclusive" normal="1941/1942">1941-1942</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [30224848037870838136]" altrender="box">1</container>
             <unittitle>American College of Dentists, Committee on Public Relations <unitdate type="inclusive" normal="1956">1956</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [30224848037870838136]" altrender="box">1</container>
             <unittitle>American and Michigan School Health Associations <unitdate type="inclusive" normal="1946/1949">1946-1949</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">4 folders</extent>
@@ -228,7 +230,7 @@ Kenneth Richard Gibson papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [30224848037870838136]" altrender="box">1</container>
             <unittitle>American and Michigan School Health Associations <unitdate type="inclusive" normal="1946/1949">1946-1949</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">4 folders</extent>
@@ -241,50 +243,50 @@ Kenneth Richard Gibson papers, Bentley Historical Library, University of Michiga
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [5298006045819746206691]" altrender="box">2</container>
               <unittitle>State Directors correspondence <unitdate type="inclusive" normal="1951">1951</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [5298006045819746206691]" altrender="box">2</container>
               <unittitle>State Membership Chairmen correspondence <unitdate type="inclusive" normal="1951/1952">1951-1952</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [5298006045819746206691]" altrender="box">2</container>
               <unittitle>Committee on Dental Membership <unitdate type="inclusive" normal="1942/1949">1942-1949</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [5298006045819746206691]" altrender="box">2</container>
               <unittitle>Atlantic City meeting <unitdate type="inclusive" normal="1941">1941</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [5298006045819746206691]" altrender="box">2</container>
               <unittitle>New York City meeting <unitdate type="inclusive" normal="1953">1953</unitdate></unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [5298006045819746206691]" altrender="box">2</container>
             <unittitle>Chicago Dental Society meeting <unitdate type="inclusive" normal="1942">1942</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [5298006045819746206691]" altrender="box">2</container>
             <unittitle>Michigan Department of Health, Michigan Waterworks newsletters <unitdate type="inclusive" normal="1950/1954">1950-1954</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [5298006045819746206691]" altrender="box">2</container>
             <unittitle>Michigan Health Council bulletins <unitdate type="inclusive" normal="1949/1954">1949-1954</unitdate></unittitle>
           </did>
         </c02>
@@ -294,13 +296,13 @@ Kenneth Richard Gibson papers, Bentley Historical Library, University of Michiga
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [5298006045819746206691]" altrender="box">2</container>
               <unittitle>State Aid Bill <unitdate type="inclusive" normal="1949">1949</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [5298006045819746206691]" altrender="box">2</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1952/1953">1952-1953</unitdate>
               </unittitle>
@@ -313,7 +315,7 @@ Kenneth Richard Gibson papers, Bentley Historical Library, University of Michiga
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [5298006045819746206691]" altrender="box">2</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1946/1947">1946-1947</unitdate>
               </unittitle>
@@ -324,14 +326,14 @@ Kenneth Richard Gibson papers, Bentley Historical Library, University of Michiga
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [5298006045819746206691]" altrender="box">2</container>
               <unittitle>Conferences <unitdate type="inclusive" normal="1943/1953">1943-1953</unitdate></unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [5298006045819746206691]" altrender="box">2</container>
             <unittitle>Michigan School Health Association <unitdate type="inclusive" normal="1943/1954">1943-1954</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -352,19 +354,19 @@ Kenneth Richard Gibson papers, Bentley Historical Library, University of Michiga
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [718464129410167843]" altrender="box">3</container>
               <unittitle>CFM annual reports <unitdate type="inclusive" normal="1931/1948">1931-1948</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [718464129410167843]" altrender="box">3</container>
               <unittitle>Children's Fund and Dental Program reports <unitdate type="inclusive" normal="1930/1944">1930-1944</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [718464129410167843]" altrender="box">3</container>
               <unittitle>Annual reports and budgets <unitdate type="inclusive" normal="1931/1949">1931-1949</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">12 folders</extent>
@@ -373,13 +375,13 @@ Kenneth Richard Gibson papers, Bentley Historical Library, University of Michiga
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [718464129410167843]" altrender="box">3</container>
               <unittitle>Budgets, Dental Division <unitdate type="inclusive" normal="1946/1948">1946-1948</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [718464129410167843]" altrender="box">3</container>
               <unittitle>Form books, series 2-10</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -388,7 +390,7 @@ Kenneth Richard Gibson papers, Bentley Historical Library, University of Michiga
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [59260744412876888]" altrender="box">4</container>
               <unittitle>Form books, series 11-25</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -402,7 +404,7 @@ Kenneth Richard Gibson papers, Bentley Historical Library, University of Michiga
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [59260744412876888]" altrender="box">4</container>
               <unittitle>Regular dental program correspondence <unitdate type="inclusive" normal="1930/1940">1930-1940</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -411,7 +413,7 @@ Kenneth Richard Gibson papers, Bentley Historical Library, University of Michiga
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [59260744412876888]" altrender="box">4</container>
               <unittitle>Correspondence and reports <unitdate type="inclusive" normal="1930/1946">1930-1946</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">4 folders</extent>
@@ -420,55 +422,55 @@ Kenneth Richard Gibson papers, Bentley Historical Library, University of Michiga
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [59260744412876888]" altrender="box">4</container>
               <unittitle>Inter-office memos <unitdate type="inclusive" normal="1934/1948">1934-1948</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [59260744412876888]" altrender="box">4</container>
               <unittitle>Thank you letters <unitdate type="inclusive" normal="1931/1941">1931-1941</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [59260744412876888]" altrender="box">4</container>
               <unittitle>American Dental Association Survey of Dental Programs in Schools questionnaires <unitdate type="inclusive" normal="1943/1944">1943-1944</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [59260744412876888]" altrender="box">4</container>
               <unittitle>Children's Fund of Michigan Dental Advisory Committee <unitdate type="inclusive" normal="1936">1936</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [59260744412876888]" altrender="box">4</container>
               <unittitle>County Dental Advisory Committee lists <unitdate type="inclusive" normal="1934/1936">1934-1936</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [59260744412876888]" altrender="box">4</container>
               <unittitle>Future Dental Programs <unitdate type="inclusive" normal="1953">1953</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [59260744412876888]" altrender="box">4</container>
               <unittitle>Inventory of regular dental equipment and supplies <unitdate type="inclusive" normal="1949/1953">1949-1953</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [59260744412876888]" altrender="box">4</container>
               <unittitle>Junior and senior high school examinations <unitdate type="inclusive" normal="1942">1942</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [59260744412876888]" altrender="box">4</container>
               <unittitle>Marquette Dental Meeting <unitdate type="inclusive" normal="1938/1939">1938-1939</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -477,43 +479,43 @@ Kenneth Richard Gibson papers, Bentley Historical Library, University of Michiga
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [59260744412876888]" altrender="box">4</container>
               <unittitle>Michigan State Dental Society Legislative Committee <unitdate type="inclusive" normal="1940/1941">1940-1941</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [59260744412876888]" altrender="box">4</container>
               <unittitle>Michigan State Board of Dentistry correspondence <unitdate type="inclusive" normal="1941/1947">1941-1947</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [59260744412876888]" altrender="box">4</container>
               <unittitle>Michigan House Enrolled Act 79 (regulation of dentistry) <unitdate type="inclusive" normal="1945">1945</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [59260744412876888]" altrender="box">4</container>
               <unittitle>Northwest High School data <unitdate type="inclusive" normal="1940/1948">1940-1948</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [72482442979563350186]" altrender="box">5</container>
               <unittitle>Practicing dentists in certain Michigan counties <unitdate type="inclusive" normal="1942/1943">1942-1943</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [72482442979563350186]" altrender="box">5</container>
               <unittitle>Prices of standard equipment and supplies <unitdate type="inclusive" normal="1935/1951">1935-1951</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [72482442979563350186]" altrender="box">5</container>
               <unittitle>Regular dental staff <unitdate type="inclusive" normal="1930/1951">1930-1951</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -522,7 +524,7 @@ Kenneth Richard Gibson papers, Bentley Historical Library, University of Michiga
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [72482442979563350186]" altrender="box">5</container>
               <unittitle>Reports and program histories <unitdate type="inclusive" normal="1934/1951">1934-1951</unitdate></unittitle>
             </did>
             <odd>
@@ -531,19 +533,19 @@ Kenneth Richard Gibson papers, Bentley Historical Library, University of Michiga
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [72482442979563350186]" altrender="box">5</container>
               <unittitle>Requests for dental service <unitdate type="inclusive" normal="1935/1949">1935-1949</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [72482442979563350186]" altrender="box">5</container>
               <unittitle>Special reports <unitdate type="inclusive" normal="1931">1931</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [72482442979563350186]" altrender="box">5</container>
               <unittitle>War Manpower Commission <unitdate type="inclusive" normal="1943/1947">1943-1947</unitdate></unittitle>
             </did>
           </c03>
@@ -554,7 +556,7 @@ Kenneth Richard Gibson papers, Bentley Historical Library, University of Michiga
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [72482442979563350186]" altrender="box">5</container>
               <unittitle>Regular dental program, Dr. Ketcik correspondence <unitdate type="inclusive" normal="1930/1944">1930-1944</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -563,13 +565,13 @@ Kenneth Richard Gibson papers, Bentley Historical Library, University of Michiga
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [72482442979563350186]" altrender="box">5</container>
               <unittitle>Regular dental program, correspondence and reports <unitdate type="inclusive" normal="1948/1950">1948-1950</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [72482442979563350186]" altrender="box">5</container>
               <unittitle>Monthly reports <unitdate type="inclusive" normal="1932/1949">1932-1949</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">4 folders</extent>
@@ -578,7 +580,7 @@ Kenneth Richard Gibson papers, Bentley Historical Library, University of Michiga
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [72482442979563350186]" altrender="box">5</container>
               <unittitle>Field trip reports <unitdate type="inclusive" normal="1934/1944">1934-1944</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -591,7 +593,7 @@ Kenneth Richard Gibson papers, Bentley Historical Library, University of Michiga
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">5</container>
+                <container type="box" label="Box [72482442979563350186]" altrender="box">5</container>
                 <unittitle>Alger, Schoolcraft, Baraga, and Iron Counties</unittitle>
               </did>
             </c04>
@@ -602,115 +604,115 @@ Kenneth Richard Gibson papers, Bentley Historical Library, University of Michiga
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">6</container>
+                <container type="box" label="Box [36962681742389414624673]" altrender="box">6</container>
                 <unittitle>Bay County</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">6</container>
+                <container type="box" label="Box [36962681742389414624673]" altrender="box">6</container>
                 <unittitle>Berrien, Branch, Grand Traverse, Huron Counties and Lincoln, Monroe, and Wyandotte</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">6</container>
+                <container type="box" label="Box [36962681742389414624673]" altrender="box">6</container>
                 <unittitle>Cheboygan, Alpena, Presque Isle, and Montmorency Counties</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">6</container>
+                <container type="box" label="Box [36962681742389414624673]" altrender="box">6</container>
                 <unittitle>Chippewa and Delta Counties</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">6</container>
+                <container type="box" label="Box [36962681742389414624673]" altrender="box">6</container>
                 <unittitle>Clare, Gladwin, and Arenac Counties</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">6</container>
+                <container type="box" label="Box [36962681742389414624673]" altrender="box">6</container>
                 <unittitle>Crawford, Roscommon, Missaukee, and Kalkaska Counties</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">6</container>
+                <container type="box" label="Box [36962681742389414624673]" altrender="box">6</container>
                 <unittitle>Dickinson County and Hamtramck</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">6</container>
+                <container type="box" label="Box [36962681742389414624673]" altrender="box">6</container>
                 <unittitle>Emmet, Otsego, Antrim, and Charlevoix Counties</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">6</container>
+                <container type="box" label="Box [36962681742389414624673]" altrender="box">6</container>
                 <unittitle>Houghton, Luce, and Mackinac Counties</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">6</container>
+                <container type="box" label="Box [36962681742389414624673]" altrender="box">6</container>
                 <unittitle>Macomb County</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">6</container>
+                <container type="box" label="Box [36962681742389414624673]" altrender="box">6</container>
                 <unittitle>Mason, Manistee, Wexford, and Sanilac Counties</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">6</container>
+                <container type="box" label="Box [36962681742389414624673]" altrender="box">6</container>
                 <unittitle>Mecosta, Osceola, Wexford, and Menominee Counties</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">6</container>
+                <container type="box" label="Box [36962681742389414624673]" altrender="box">6</container>
                 <unittitle>Newaygo, Lake, and Oceana Counties</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">7</container>
+                <container type="box" label="Box [41487459921602248]" altrender="box">7</container>
                 <unittitle>North and South Oakland County</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">7</container>
+                <container type="box" label="Box [41487459921602248]" altrender="box">7</container>
                 <unittitle>Ogemaw, Oscoda, Alcona, Iosco Counties and Boys Club of Detroit</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">7</container>
+                <container type="box" label="Box [41487459921602248]" altrender="box">7</container>
                 <unittitle>Ontonagon and Baraga Counties</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">7</container>
+                <container type="box" label="Box [41487459921602248]" altrender="box">7</container>
                 <unittitle>Ottawa County</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">7</container>
+                <container type="box" label="Box [41487459921602248]" altrender="box">7</container>
                 <unittitle>Saginaw County</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">7</container>
+                <container type="box" label="Box [41487459921602248]" altrender="box">7</container>
                 <unittitle>Rural Wayne County</unittitle>
               </did>
             </c04>
@@ -721,25 +723,25 @@ Kenneth Richard Gibson papers, Bentley Historical Library, University of Michiga
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">7</container>
+                <container type="box" label="Box [41487459921602248]" altrender="box">7</container>
                 <unittitle>Applications for employment <unitdate type="inclusive" normal="1935/1951">1935-1951</unitdate> (10% selection retained)</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">7</container>
+                <container type="box" label="Box [41487459921602248]" altrender="box">7</container>
                 <unittitle>Reports and clinic locations <unitdate type="inclusive" normal="1930/1932">1930-1932</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">7</container>
+                <container type="box" label="Box [41487459921602248]" altrender="box">7</container>
                 <unittitle>Reports <unitdate type="inclusive" normal="1933">1933</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">7</container>
+                <container type="box" label="Box [41487459921602248]" altrender="box">7</container>
                 <unittitle>Correspondence, reports, and clinic locations <unitdate type="inclusive" normal="1934/1936">1934-1936</unitdate></unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">4 folders</extent>
@@ -748,13 +750,13 @@ Kenneth Richard Gibson papers, Bentley Historical Library, University of Michiga
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">7</container>
+                <container type="box" label="Box [41487459921602248]" altrender="box">7</container>
                 <unittitle>Manual of procedure <unitdate type="inclusive" normal="1936">1936</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">8</container>
+                <container type="box" label="Box [35220867544726244936]" altrender="box">8</container>
                 <unittitle>Correspondence, reports, and clinic locations <unitdate type="inclusive" normal="1937/1939">1937-1939</unitdate></unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">5 folders</extent>
@@ -763,13 +765,13 @@ Kenneth Richard Gibson papers, Bentley Historical Library, University of Michiga
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">8</container>
+                <container type="box" label="Box [35220867544726244936]" altrender="box">8</container>
                 <unittitle>Manual of procedure <unitdate type="inclusive" normal="1940">1940</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">8</container>
+                <container type="box" label="Box [35220867544726244936]" altrender="box">8</container>
                 <unittitle>Correspondence, reports, and clinic locations <unitdate type="inclusive" normal="1940/1942">1940-1942</unitdate></unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">6 folders</extent>
@@ -779,7 +781,7 @@ Kenneth Richard Gibson papers, Bentley Historical Library, University of Michiga
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">8</container>
+              <container type="box" label="Box [35220867544726244936]" altrender="box">8</container>
               <unittitle>Summer Dental Sodium Fluoride Program, correspondence by clinic location <unitdate type="inclusive" normal="1949">1949</unitdate></unittitle>
             </did>
           </c03>
@@ -789,7 +791,7 @@ Kenneth Richard Gibson papers, Bentley Historical Library, University of Michiga
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">9</container>
+                <container type="box" label="Box [84602408777821367]" altrender="box">9</container>
                 <unittitle>Correspondence by clinic location <unitdate type="inclusive" normal="1949/1951">1949-1951</unitdate></unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">7 folders</extent>
@@ -798,20 +800,20 @@ Kenneth Richard Gibson papers, Bentley Historical Library, University of Michiga
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">9</container>
+                <container type="box" label="Box [84602408777821367]" altrender="box">9</container>
                 <unittitle>Location assignments and program summary <unitdate type="inclusive" normal="1952">1952</unitdate></unittitle>
               </did>
             </c04>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">9</container>
+              <container type="box" label="Box [84602408777821367]" altrender="box">9</container>
               <unittitle>Regular Dental Health Education Program <unitdate type="inclusive" normal="1937/1938">1937-1938</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">9</container>
+              <container type="box" label="Box [84602408777821367]" altrender="box">9</container>
               <unittitle>Boy's Club of Detroit Dental Program <unitdate type="inclusive" normal="1932/1949">1932-1949</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -820,7 +822,7 @@ Kenneth Richard Gibson papers, Bentley Historical Library, University of Michiga
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">9</container>
+              <container type="box" label="Box [84602408777821367]" altrender="box">9</container>
               <unittitle>Detroit Dental Program <unitdate type="inclusive" normal="1936/1939">1936-1939</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -829,7 +831,7 @@ Kenneth Richard Gibson papers, Bentley Historical Library, University of Michiga
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">10</container>
+              <container type="box" label="Box [68238526485930887773371]" altrender="box">10</container>
               <unittitle>Detroit Dental Program inspection <unitdate type="inclusive" normal="1936/1937">1936-1937</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -838,31 +840,31 @@ Kenneth Richard Gibson papers, Bentley Historical Library, University of Michiga
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">10</container>
+              <container type="box" label="Box [68238526485930887773371]" altrender="box">10</container>
               <unittitle>Detroit Dental Society, Physical Fitness Dental Program <unitdate type="inclusive" normal="1943/1948">1943-1948</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">10</container>
+              <container type="box" label="Box [68238526485930887773371]" altrender="box">10</container>
               <unittitle>Detroit Emergency Dental Program <unitdate type="inclusive" normal="1934">1934</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">10</container>
+              <container type="box" label="Box [68238526485930887773371]" altrender="box">10</container>
               <unittitle>Detroit School Dental Program and Detroit Post-Graduate Course <unitdate type="inclusive" normal="1935/1936">1935-1936</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">10</container>
+              <container type="box" label="Box [68238526485930887773371]" altrender="box">10</container>
               <unittitle>High School Victory Corps Dental Program <unitdate type="inclusive" normal="1943">1943</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">10</container>
+              <container type="box" label="Box [68238526485930887773371]" altrender="box">10</container>
               <unittitle>National Youth Administration Dental Program <unitdate type="inclusive" normal="1941">1941</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -871,7 +873,7 @@ Kenneth Richard Gibson papers, Bentley Historical Library, University of Michiga
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">10</container>
+              <container type="box" label="Box [68238526485930887773371]" altrender="box">10</container>
               <unittitle>WPA Dental Program (proposed) <unitdate type="inclusive" normal="1939">1939</unitdate></unittitle>
             </did>
           </c03>
@@ -882,43 +884,43 @@ Kenneth Richard Gibson papers, Bentley Historical Library, University of Michiga
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">10</container>
+              <container type="box" label="Box [68238526485930887773371]" altrender="box">10</container>
               <unittitle>American Society of Dentistry for Children, Academy Committee correspondence <unitdate type="inclusive" normal="1942">1942</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">10</container>
+              <container type="box" label="Box [68238526485930887773371]" altrender="box">10</container>
               <unittitle>Caries control workshop <unitdate type="inclusive" normal="1947">1947</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">10</container>
+              <container type="box" label="Box [68238526485930887773371]" altrender="box">10</container>
               <unittitle>Child Health Institute exhibit <unitdate type="inclusive" normal="1937">1937</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">10</container>
+              <container type="box" label="Box [68238526485930887773371]" altrender="box">10</container>
               <unittitle>Children's Fund of Michigan Dental Program articles and lectures <unitdate type="inclusive" normal="1932/1945">1932-1945</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">10</container>
+              <container type="box" label="Box [68238526485930887773371]" altrender="box">10</container>
               <unittitle>Children's Fund of Michigan Dental Staff lectures and educational material <unitdate type="inclusive" normal="1936/1940">1936-1940</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">10</container>
+              <container type="box" label="Box [68238526485930887773371]" altrender="box">10</container>
               <unittitle>Child Health Association address <unitdate type="inclusive" normal="1939">1939</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">10</container>
+              <container type="box" label="Box [68238526485930887773371]" altrender="box">10</container>
               <unittitle>Council on Dental Education registers and articles <unitdate type="inclusive" normal="1940/1944">1940-1944</unitdate></unittitle>
             </did>
           </c03>
@@ -928,80 +930,80 @@ Kenneth Richard Gibson papers, Bentley Historical Library, University of Michiga
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">11</container>
+                <container type="box" label="Box [046519421808872]" altrender="box">11</container>
                 <unittitle>Reports <unitdate type="inclusive" normal="1938/1946">1938-1946</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">11</container>
+                <container type="box" label="Box [046519421808872]" altrender="box">11</container>
                 <unittitle>Anesthesia Section articles and lectures <unitdate type="inclusive" normal="1935/1940">1935-1940</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">11</container>
+                <container type="box" label="Box [046519421808872]" altrender="box">11</container>
                 <unittitle>Health Education Section articles, lectures, and pamphlets <unitdate type="inclusive" normal="1938/1948">1938-1948</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">11</container>
+                <container type="box" label="Box [046519421808872]" altrender="box">11</container>
                 <unittitle>Operative Division articles and lectures <unitdate type="inclusive" normal="1938/1947">1938-1947</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">11</container>
+                <container type="box" label="Box [046519421808872]" altrender="box">11</container>
                 <unittitle>Oral Surgery Section articles and lectures <unitdate type="inclusive" normal="1938/1940">1938-1940</unitdate></unittitle>
               </did>
             </c04>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">11</container>
+              <container type="box" label="Box [046519421808872]" altrender="box">11</container>
               <unittitle>Dr. Bion R. East, dental caries correspondence and articles <unitdate type="inclusive" normal="1939/1943">1939-1943</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">11</container>
+              <container type="box" label="Box [046519421808872]" altrender="box">11</container>
               <unittitle>Forsyth Dental Infirmary, Boston <unitdate type="inclusive" normal="1935">1935</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">11</container>
+              <container type="box" label="Box [046519421808872]" altrender="box">11</container>
               <unittitle>Kenneth Gibson dental health and education lectures, articles, and reprints <unitdate type="inclusive" normal="1937/1944">1937-1944</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">11</container>
+              <container type="box" label="Box [046519421808872]" altrender="box">11</container>
               <unittitle>Lantern slide lists <unitdate type="inclusive" normal="1939">1939</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">11</container>
+              <container type="box" label="Box [046519421808872]" altrender="box">11</container>
               <unittitle>Loan and internship plan for dental students <unitdate type="inclusive" normal="1938" certainty="approximate">circa 1938</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">11</container>
+              <container type="box" label="Box [046519421808872]" altrender="box">11</container>
               <unittitle>Lost permanent tooth index for evaluating dental programs <unitdate type="inclusive" normal="1937/1939">1937-1939</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">11</container>
+              <container type="box" label="Box [046519421808872]" altrender="box">11</container>
               <unittitle>Material for dental manual <unitdate type="inclusive">undated</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">11</container>
+              <container type="box" label="Box [046519421808872]" altrender="box">11</container>
               <unittitle>Michigan Department of Health education material <unitdate type="inclusive" normal="1943">1943</unitdate></unittitle>
             </did>
           </c03>
@@ -1011,50 +1013,50 @@ Kenneth Richard Gibson papers, Bentley Historical Library, University of Michiga
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">11</container>
+                <container type="box" label="Box [046519421808872]" altrender="box">11</container>
                 <unittitle>Articles and lectures <unitdate type="inclusive" normal="1935/1937">1935-1937</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">11</container>
+                <container type="box" label="Box [046519421808872]" altrender="box">11</container>
                 <unittitle>Joint Committee on Public Health and Education <unitdate type="inclusive" normal="1937/1938">1937-1938</unitdate></unittitle>
               </did>
             </c04>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">11</container>
+              <container type="box" label="Box [046519421808872]" altrender="box">11</container>
               <unittitle>Post-graduate courses at Ann Arbor <unitdate type="inclusive" normal="1937">1937</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">11</container>
+              <container type="box" label="Box [046519421808872]" altrender="box">11</container>
               <unittitle>Proposed orthodontia program data and clinical research project in orthodontia <unitdate type="inclusive" normal="1935/1936">1935-1936</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">11</container>
+              <container type="box" label="Box [046519421808872]" altrender="box">11</container>
               <unittitle>University of Michigan lectures and educational material <unitdate type="inclusive" normal="1930/1942">1930-1942</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">11</container>
+              <container type="box" label="Box [046519421808872]" altrender="box">11</container>
               <unittitle>University of Michigan School of Public Health, Institute of Dental Health Economics <unitdate type="inclusive" normal="1944">1944</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">12</container>
+              <container type="box" label="Box [1274545338118643706874]" altrender="box">12</container>
               <unittitle>X-Ray and Root Canal Clinic <unitdate type="inclusive" normal="1935/1937">1935-1937</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">12</container>
+              <container type="box" label="Box [1274545338118643706874]" altrender="box">12</container>
               <unittitle>Miscellaneous lectures and educational material <unitdate type="inclusive" normal="1935/1950">1935-1950</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -1072,8 +1074,10 @@ Kenneth Richard Gibson papers, Bentley Historical Library, University of Michiga
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">12</container>
-            <unittitle>Budgets and financial statements <unitdate type="inclusive" normal="1930/1942">1930-1942</unitdate>, <unitdate type="inclusive" normal="1948/1952">1948-1952</unitdate></unittitle>
+            <container type="box" label="Box [1274545338118643706874]" altrender="box">12</container>
+            <unittitle>Budgets and financial statements</unittitle>
+            <unitdate type="inclusive" normal="1930/1942">1930-1942</unitdate>
+            <unitdate type="inclusive" normal="1948/1952">1948-1952</unitdate>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">8 folders</extent>
             </physdesc>
@@ -1081,19 +1085,19 @@ Kenneth Richard Gibson papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">13</container>
+            <container type="box" label="Box [66930974790468198201211]" altrender="box">13</container>
             <unittitle>Annual reports <unitdate type="inclusive" normal="1942/1954">1942-1954</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">13</container>
+            <container type="box" label="Box [66930974790468198201211]" altrender="box">13</container>
             <unittitle>Annual activities summaries <unitdate type="inclusive" normal="1931/1943">1931-1943</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">13</container>
+            <container type="box" label="Box [66930974790468198201211]" altrender="box">13</container>
             <unittitle>Monthly reports <unitdate type="inclusive" normal="1939/1946">1939-1946</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">7 folders</extent>
@@ -1102,37 +1106,37 @@ Kenneth Richard Gibson papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">14</container>
+            <container type="box" label="Box [833531043043576727012]" altrender="box">14</container>
             <unittitle>Monthly reports <unitdate type="inclusive" normal="1946/1947">1946-1947</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">14</container>
+            <container type="box" label="Box [833531043043576727012]" altrender="box">14</container>
             <unittitle>Dr. Carey's memos, reports, and bulletins <unitdate type="inclusive" normal="1943/1945">1943-1945</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">14</container>
+            <container type="box" label="Box [833531043043576727012]" altrender="box">14</container>
             <unittitle>Eye Program monthly records <unitdate type="inclusive" normal="1948/1953">1948-1953</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">14</container>
+            <container type="box" label="Box [833531043043576727012]" altrender="box">14</container>
             <unittitle>Eye program correspondence and reports <unitdate type="inclusive" normal="1948/1954">1948-1954</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">14</container>
+            <container type="box" label="Box [833531043043576727012]" altrender="box">14</container>
             <unittitle>Central Michigan Children's Clinic annual reports <unitdate type="inclusive" normal="1940/1942">1940-1942</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">14</container>
+            <container type="box" label="Box [833531043043576727012]" altrender="box">14</container>
             <unittitle>Central and Northern Michigan Children's Clinics monthly reports <unitdate type="inclusive" normal="1947/1949">1947-1949</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -1141,7 +1145,7 @@ Kenneth Richard Gibson papers, Bentley Historical Library, University of Michiga
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">14</container>
+            <container type="box" label="Box [833531043043576727012]" altrender="box">14</container>
             <unittitle>Northern Michigan Children's Clinic correspondence <unitdate type="inclusive" normal="1948/1951">1948-1951</unitdate></unittitle>
           </did>
         </c02>

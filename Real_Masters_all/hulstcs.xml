@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Cornelia Steketee Hulst papers, 1898-1949</titleproper>
       <author>Finding aid created by <lb/>Michigan Historical Collections staff</author>
     </titlepage>
@@ -84,15 +84,15 @@ Cornelia Steketee Hulst papers, Bentley Historical Library, University of Michig
       <controlaccess>
         <head>Subjects:</head>
         <persname source="lcnaf" encodinganalog="600">Anderson, Rasmus Björn, 1846-1936.</persname>
-        <subject source="lcsh" encodinganalog="650">Dutch Americans--Michigan.</subject>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n79133151.html">Grand Rapids (Mich.)</geogname>
-        <subject source="lcsh" encodinganalog="650">Spanish-American War, 1898.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6035">Dutch Americans--Michigan.</subject>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n79133151.html" ref="/subjects/1102">Grand Rapids (Mich.)</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6011">Spanish-American War, 1898.</subject>
         <persname source="lcnaf" encodinganalog="700" authfilenumber="http://id.loc.gov/authorities/names/n88002366">Hutchins, Harry B. (Harry Burns), 1847-1930.</persname>
         <persname source="lcnaf" encodinganalog="700">Scott, John A.</persname>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <subject source="lcsh" encodinganalog="650">Poetry.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5891">Poetry.</subject>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -102,7 +102,7 @@ Cornelia Steketee Hulst papers, Bentley Historical Library, University of Michig
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [021229914558096120206]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1898/1910">1898-1910</unitdate>
             </unittitle>
@@ -110,7 +110,7 @@ Cornelia Steketee Hulst papers, Bentley Historical Library, University of Michig
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [021229914558096120206]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1911/1920">1911-1920</unitdate>
             </unittitle>
@@ -118,7 +118,7 @@ Cornelia Steketee Hulst papers, Bentley Historical Library, University of Michig
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [021229914558096120206]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1921/1930">1921-1930</unitdate>
             </unittitle>
@@ -126,7 +126,7 @@ Cornelia Steketee Hulst papers, Bentley Historical Library, University of Michig
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [021229914558096120206]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1931/1940">1931-1940</unitdate>
             </unittitle>
@@ -134,7 +134,7 @@ Cornelia Steketee Hulst papers, Bentley Historical Library, University of Michig
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [021229914558096120206]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1941/1950">1941-1950</unitdate>
             </unittitle>
@@ -147,7 +147,7 @@ Cornelia Steketee Hulst papers, Bentley Historical Library, University of Michig
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [021229914558096120206]" altrender="box">1</container>
             <unittitle>Miscellaneous Papers <unitdate type="inclusive">undated</unitdate></unittitle>
           </did>
           <odd>
@@ -156,7 +156,7 @@ Cornelia Steketee Hulst papers, Bentley Historical Library, University of Michig
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [021229914558096120206]" altrender="box">1</container>
             <unittitle>Poetry notebook</unittitle>
           </did>
         </c02>

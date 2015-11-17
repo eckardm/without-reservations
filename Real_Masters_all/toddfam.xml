@@ -26,7 +26,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Todd Family Papers, 1862-1980</titleproper>
       <author>Finding aid created by <lb/>Christine Weideman, March 1984</author>
     </titlepage>
@@ -36,7 +36,9 @@
       <origination>
         <famname source="lcnaf" encodinganalog="100">Todd family.</famname>
       </origination>
-      <unittitle encodinganalog="245">Todd Family Papers <unitdate type="inclusive" encodinganalog="245$f" normal="1862/1980">1862-1980</unitdate>, <unitdate type="bulk" encodinganalog="245$g" normal="1889/1980">1889-1980</unitdate></unittitle>
+      <unittitle encodinganalog="245">Todd Family Papers</unittitle>
+      <unitdate type="inclusive" encodinganalog="245$f" normal="1862/1980">1862-1980</unitdate>
+      <unitdate type="bulk" encodinganalog="245$g" normal="1889/1980">1889-1980</unitdate>
       <unitid encodinganalog="852$h" repositorycode="MiU-H" countrycode="us" type="call number">85567 Aa 2; AC</unitid>
       <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language></langmaterial>
       <abstract>Family of Fred P. Todd and his son, J. Beecher Todd, officers with National Loan and Investment Company in Detroit, Michigan, and its successor institutions, Surety Savings and Loan Association, and Surety Federal Savings and Loan Association. The collection consists of personal papers, files relating to their activities with savings and loan institutions, and photographs.</abstract>
@@ -80,27 +82,27 @@ Todd Family Papers, Bentley Historical Library, University of Michigan</p>
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <subject source="lcsh" encodinganalog="650">Banks and banking--Michigan--Detroit.</subject>
-        <geogname source="lcsh" encodinganalog="651">Berrien County (Mich.)</geogname>
-        <subject source="lcsh" encodinganalog="650">Business records.</subject>
-        <geogname source="local" encodinganalog="691">Detroit (Mich.)--Commerce.</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/8848">Banks and banking--Michigan--Detroit.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1574">Berrien County (Mich.)</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5784">Business records.</subject>
+        <geogname source="local" encodinganalog="691" ref="/subjects/835">Detroit (Mich.)--Commerce.</geogname>
         <corpname source="lcnaf" encodinganalog="610">National Loan and Investment Company.</corpname>
         <corpname source="lcnaf" encodinganalog="610">Surety Federal Savings and Loan Association.</corpname>
         <corpname source="lcnaf" encodinganalog="610">United States. Army. Michigan Infantry Regiment, 25th (1862-1865). Company C.</corpname>
-        <geogname source="lcsh" encodinganalog="651">United States--History--Civil War, 1861-1865.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/909">United States--History--Civil War, 1861-1865.</geogname>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Materials:</head>
-        <subject source="lctgm" encodinganalog="650">Banking.</subject>
-        <subject source="lctgm" encodinganalog="650">Banks.</subject>
-        <geogname source="lcsh" encodinganalog="651">Business enterprises--Michigan--Detroit.</geogname>
-        <subject source="lcsh" encodinganalog="650">Business enterprises--Michigan--Eastpointe.</subject>
-        <subject source="lcsh" encodinganalog="650">Business enterprises--Michigan--Plymouth.</subject>
-        <subject source="lcsh" encodinganalog="650">Business enterprises--Michigan--Redford.</subject>
-        <subject source="lcsh" encodinganalog="650">Business enterprises--Michigan--Rochester.</subject>
-        <subject source="lcsh" encodinganalog="650">Business enterprises--Michigan--Southfield.</subject>
-        <subject source="local" encodinganalog="690">Interiors--Banks.</subject>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n81139923.html">Mackinac Island (Mich.)</geogname>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/5204">Banking.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4679">Banks.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/2981">Business enterprises--Michigan--Detroit.</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/10375">Business enterprises--Michigan--Eastpointe.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/10263">Business enterprises--Michigan--Plymouth.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/10376">Business enterprises--Michigan--Redford.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/10377">Business enterprises--Michigan--Rochester.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/10378">Business enterprises--Michigan--Southfield.</subject>
+        <subject source="local" encodinganalog="690" ref="/subjects/3563">Interiors--Banks.</subject>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n81139923.html" ref="/subjects/949">Mackinac Island (Mich.)</geogname>
         <corpname source="lcnaf" encodinganalog="610">National Loan and Investment Company.</corpname>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n84088248">Sunday, Billy, 1862-1935.</persname>
         <corpname source="lcnaf" encodinganalog="610">Surety Federal Savings and Loan Association.</corpname>
@@ -115,9 +117,9 @@ Todd Family Papers, Bentley Historical Library, University of Michigan</p>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
-        <genreform source="aat" encodinganalog="655">Scrapbooks.</genreform>
-        <genreform source="gmgpc" encodinganalog="655">Tintypes.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3139">Scrapbooks.</genreform>
+        <genreform source="gmgpc" encodinganalog="655" ref="/subjects/3455">Tintypes.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -130,7 +132,7 @@ Todd Family Papers, Bentley Historical Library, University of Michigan</p>
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [884766714928984951]" altrender="box">1</container>
             <unittitle>Civil War letters <unitdate type="inclusive" normal="1862/1865">1862-1865</unitdate></unittitle>
           </did>
           <odd>
@@ -139,13 +141,13 @@ Todd Family Papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [884766714928984951]" altrender="box">1</container>
             <unittitle>Miscellaneous letters written in <unitdate type="inclusive" normal="1908">1908</unitdate> to George Normahls, family relative, recuperating from tuberculosis in New Mexico</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [884766714928984951]" altrender="box">1</container>
             <unittitle><genreform normal="Scrapbooks">Scrapbook</genreform> (mostly clippings), <unitdate type="inclusive" normal="1895/1935">1895-1935</unitdate></unittitle>
           </did>
         </c02>
@@ -167,13 +169,13 @@ Todd Family Papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [884766714928984951]" altrender="box">1</container>
                 <unittitle>Biographical</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [884766714928984951]" altrender="box">1</container>
                 <unittitle>Correspondence</unittitle>
               </did>
             </c04>
@@ -184,20 +186,20 @@ Todd Family Papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [884766714928984951]" altrender="box">1</container>
                 <unittitle>Biographical</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [884766714928984951]" altrender="box">1</container>
                 <unittitle>Correspondence</unittitle>
               </did>
             </c04>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [884766714928984951]" altrender="box">1</container>
               <unittitle>Organization History</unittitle>
             </did>
             <odd>
@@ -211,7 +213,7 @@ Todd Family Papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [884766714928984951]" altrender="box">1</container>
               <unittitle>Asset Statements <unitdate type="inclusive" normal="1890/1944">1890-1944</unitdate></unittitle>
             </did>
           </c03>
@@ -221,7 +223,7 @@ Todd Family Papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [884766714928984951]" altrender="box">1</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1918/1924">1918-1924</unitdate>
                 </unittitle>
@@ -229,7 +231,7 @@ Todd Family Papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [884766714928984951]" altrender="box">1</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1930-03-01">March 1, 1930</unitdate>
                 </unittitle>
@@ -237,7 +239,7 @@ Todd Family Papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="volume" label="Oversize Volume">1</container>
+                <container type="volume" label="Oversize Volume [247817980483850596001452]" altrender="volume">1</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1934/1940">1934-1940</unitdate>
                 </unittitle>
@@ -246,20 +248,22 @@ Todd Family Papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [884766714928984951]" altrender="box">1</container>
               <unittitle>Final Liquidation</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [884766714928984951]" altrender="box">1</container>
               <unittitle>Organizational Materials</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
-              <unittitle>President's Annual Report to Shareholders <unitdate type="inclusive" normal="1935/1938">1935-1938</unitdate>, <unitdate type="inclusive" normal="1940/1944">1940-1944</unitdate></unittitle>
+              <container type="box" label="Box [884766714928984951]" altrender="box">1</container>
+              <unittitle>President's Annual Report to Shareholders</unittitle>
+              <unitdate type="inclusive" normal="1935/1938">1935-1938</unitdate>
+              <unitdate type="inclusive" normal="1940/1944">1940-1944</unitdate>
             </did>
           </c03>
         </c02>
@@ -269,7 +273,7 @@ Todd Family Papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [884766714928984951]" altrender="box">1</container>
               <unittitle>Abstract of Title</unittitle>
             </did>
           </c03>
@@ -279,13 +283,13 @@ Todd Family Papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [884766714928984951]" altrender="box">1</container>
                 <unittitle>General</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">1</container>
+                <container type="box" label="Box [884766714928984951]" altrender="box">1</container>
                 <unittitle>Meetings <unitdate type="inclusive" normal="1948/1953">1948-1953</unitdate></unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -295,67 +299,67 @@ Todd Family Papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [669184779568435912]" altrender="box">2</container>
               <unittitle>Branches (Redford)</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [669184779568435912]" altrender="box">2</container>
               <unittitle>Clippings</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [669184779568435912]" altrender="box">2</container>
               <unittitle>Consumer credit: Regulation "W"</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [669184779568435912]" altrender="box">2</container>
               <unittitle>Court papers (Miscellaneous)</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [669184779568435912]" altrender="box">2</container>
               <unittitle>Employees</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [669184779568435912]" altrender="box">2</container>
               <unittitle>Federal Home Loan Bank: Application for membership</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [669184779568435912]" altrender="box">2</container>
               <unittitle>Michigan State Board of Escheats</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [669184779568435912]" altrender="box">2</container>
               <unittitle>Organizational materials (includes financial statements)</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [669184779568435912]" altrender="box">2</container>
               <unittitle>President's annual report to shareholders <unitdate type="inclusive" normal="1939/1957">1939-1957</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [669184779568435912]" altrender="box">2</container>
               <unittitle>Real estate credit: Regulation "X"</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [669184779568435912]" altrender="box">2</container>
               <unittitle>Semiannual reports <unitdate type="inclusive" normal="1938/1953">1938-1953</unitdate></unittitle>
             </did>
             <odd>
@@ -364,8 +368,11 @@ Todd Family Papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
-              <unittitle>Shareholders meetings <unitdate type="inclusive" normal="1941/1948">1941-1948</unitdate>, <unitdate type="inclusive" normal="1952">1952</unitdate>, <unitdate type="inclusive" normal="1954">1954</unitdate></unittitle>
+              <container type="box" label="Box [669184779568435912]" altrender="box">2</container>
+              <unittitle>Shareholders meetings</unittitle>
+              <unitdate type="inclusive" normal="1941/1948">1941-1948</unitdate>
+              <unitdate type="inclusive" normal="1952">1952</unitdate>
+              <unitdate type="inclusive" normal="1954">1954</unitdate>
             </did>
           </c03>
         </c02>
@@ -375,7 +382,7 @@ Todd Family Papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [669184779568435912]" altrender="box">2</container>
               <unittitle>Board of directors and executive officers</unittitle>
             </did>
             <odd>
@@ -388,56 +395,56 @@ Todd Family Papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [669184779568435912]" altrender="box">2</container>
                 <unittitle>Avon (clippings)</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [669184779568435912]" altrender="box">2</container>
                 <unittitle>Eastland (includes photos)</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">2</container>
+                <container type="box" label="Box [669184779568435912]" altrender="box">2</container>
                 <unittitle>Plymouth</unittitle>
               </did>
             </c04>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [669184779568435912]" altrender="box">2</container>
               <unittitle>Bylaws</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [669184779568435912]" altrender="box">2</container>
               <unittitle>Charter N</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [669184779568435912]" altrender="box">2</container>
               <unittitle>Clippings <unitdate type="inclusive" normal="1957/1966">1957-1966</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [669184779568435912]" altrender="box">2</container>
               <unittitle>Employees</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [669184779568435912]" altrender="box">2</container>
               <unittitle>Home office relocation <unitdate type="inclusive" normal="1976" certainty="approximate">circa 1976</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [669184779568435912]" altrender="box">2</container>
               <unittitle>Organizational materials</unittitle>
             </did>
             <odd>
@@ -451,13 +458,13 @@ Todd Family Papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [595930964499497281451749]" altrender="box">3</container>
               <unittitle>Surety Savings and Surety Federal publications: <title render="italic">News</title> and <title render="italic">Good Living</title></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [595930964499497281451749]" altrender="box">3</container>
               <unittitle>National Loan and Investment Company <unitdate type="inclusive" normal="1891/1944">1891-1944</unitdate></unittitle>
             </did>
             <odd>
@@ -466,7 +473,7 @@ Todd Family Papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [595930964499497281451749]" altrender="box">3</container>
               <unittitle>Surety Savings and Loan Association <unitdate type="inclusive" normal="1938/1961">1938-1961</unitdate></unittitle>
             </did>
             <odd>
@@ -475,7 +482,7 @@ Todd Family Papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [595930964499497281451749]" altrender="box">3</container>
               <unittitle>Surety Federal Savings and Loan Association <unitdate type="inclusive" normal="1962/1979">1962-1979</unitdate></unittitle>
             </did>
             <odd>
@@ -495,7 +502,7 @@ Todd Family Papers, Bentley Historical Library, University of Michigan</p>
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [0493946827468907906439070]" altrender="box">4</container>
             <unittitle>Family</unittitle>
           </did>
           <odd>
@@ -504,13 +511,13 @@ Todd Family Papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [0493946827468907906439070]" altrender="box">4</container>
             <unittitle>Miscellaneous</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [0493946827468907906439070]" altrender="box">4</container>
             <unittitle>National Loan and Investment Company</unittitle>
           </did>
         </c02>
@@ -520,7 +527,7 @@ Todd Family Papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [0493946827468907906439070]" altrender="box">4</container>
               <unittitle>Eastland branch</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -529,32 +536,32 @@ Todd Family Papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [0493946827468907906439070]" altrender="box">4</container>
               <unittitle>Main office 1250 Griswold</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [0493946827468907906439070]" altrender="box">4</container>
               <unittitle>Main office, Southfield, opening</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [0493946827468907906439070]" altrender="box">4</container>
               <unittitle>Plymouth branch</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [0493946827468907906439070]" altrender="box">4</container>
               <unittitle>Plymouth branch album <unitdate type="inclusive" normal="1971">1971</unitdate></unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [0493946827468907906439070]" altrender="box">4</container>
             <unittitle>Family album <unitdate type="inclusive" normal="1911/1918">1911-1918</unitdate></unittitle>
           </did>
           <odd>
@@ -563,7 +570,7 @@ Todd Family Papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [0493946827468907906439070]" altrender="box">4</container>
             <unittitle><genreform normal="Tintypes">Tintype</genreform> of two trumpet players in uniform, <unitdate type="inclusive" normal="1870" certainty="approximate">circa 1870</unitdate></unittitle>
           </did>
         </c02>

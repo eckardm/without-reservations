@@ -30,7 +30,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Tuomy Family Papers, 1840-1966</titleproper>
       <author>Finding aid created by <lb/>Diane LaBarbera, 1991</author>
     </titlepage>
@@ -40,7 +40,9 @@
       <origination>
         <famname source="lcnaf" encodinganalog="100">Tuomy family.</famname>
       </origination>
-      <unittitle encodinganalog="245">Tuomy Family papers <unitdate type="inclusive" encodinganalog="245$f" normal="1840/1966">1840-1966</unitdate>, <unitdate type="bulk" encodinganalog="245$g" normal="1905/1945">1905-1945</unitdate></unittitle>
+      <unittitle encodinganalog="245">Tuomy Family papers</unittitle>
+      <unitdate type="inclusive" encodinganalog="245$f" normal="1840/1966">1840-1966</unitdate>
+      <unitdate type="bulk" encodinganalog="245$g" normal="1905/1945">1905-1945</unitdate>
       <unitid encodinganalog="099" repositorycode="MiU-H" countrycode="us" type="call number">86138 Aa 2 UAm</unitid>
       <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language></langmaterial>
       <abstract>Pioneer Ann Arbor, Michigan family, involved in farming, then real estate, developed the Tuomy Hills area of the city. Papers include personal and business correspondence of Cornelius and Kathryn Tuomy and of other family members; ledger books, 1868-1890, 1911-1938, and diaries, 1920-1921, 1925, 1926, 1936 concerning business and personal affairs; also papers of Kathryn G. Tuomy as president of the Michigan Federation of Business and Professional Women; and photographs.</abstract>
@@ -87,36 +89,36 @@ Tuomy Family Papers, Bentley Historical Library, University of Michigan</p>
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <subject source="lcsh" encodinganalog="650">Agriculture--Michigan--Washtenaw County.</subject>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n79022219.html">Ann Arbor (Mich.)</geogname>
-        <subject source="lcsh" encodinganalog="650">Business records.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6650">Agriculture--Michigan--Washtenaw County.</subject>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n79022219.html" ref="/subjects/860">Ann Arbor (Mich.)</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5784">Business records.</subject>
         <corpname source="lcnaf" encodinganalog="610">Catholic Church.</corpname>
-        <subject source="lcsh" encodinganalog="650">Irish Americans--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6339">Irish Americans--Michigan.</subject>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/no2008135678">Michigan Federation of Business and Professional Women.</corpname>
-        <subject source="lcsh" encodinganalog="650">Prohibition--Michigan.</subject>
-        <subject source="lcsh" encodinganalog="650">Protestant Churches.</subject>
-        <subject source="lcsh" encodinganalog="650">Real estate business--Michigan--Ann Arbor.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6499">Prohibition--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/10405">Protestant Churches.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6156">Real estate business--Michigan--Ann Arbor.</subject>
         <persname source="lcnaf" encodinganalog="600">Tuomy, Cornelius L., 1843-1912.</persname>
         <persname source="lcnaf" encodinganalog="600">Tuomy, Julia Ann, 1855-1938.</persname>
         <persname source="lcnaf" encodinganalog="600">Tuomy, Thomas Kearney.</persname>
         <famname source="lcnaf" encodinganalog="600">Tuomy family.</famname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan--Football.</corpname>
-        <subject source="lcsh" encodinganalog="650">Women--Michigan--Societies and clubs.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6649">Women--Michigan--Societies and clubs.</subject>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Materials:</head>
-        <geogname source="lctgm" encodinganalog="651">Ann Arbor (Mich.)--Dwellings.</geogname>
+        <geogname source="lctgm" encodinganalog="651" ref="/subjects/207">Ann Arbor (Mich.)--Dwellings.</geogname>
         <corpname source="lcnaf" encodinganalog="610">Belle Isle Bridge (Detroit, Mich.)</corpname>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n79045539.html">Detroit (Mich.)</geogname>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n79045539.html" ref="/subjects/933">Detroit (Mich.)</geogname>
         <corpname source="lcnaf" encodinganalog="610">Detroit Opera House (Detroit, Mich.)</corpname>
-        <geogname source="lcsh" encodinganalog="651">Detroit River (Mich. and Ont.)</geogname>
-        <subject source="lcsh" encodinganalog="650">Dwellings--Michigan--Ann Arbor.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1912">Detroit River (Mich. and Ont.)</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6426">Dwellings--Michigan--Ann Arbor.</subject>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n96085441">Ferris, Woodbridge N., 1853-1928.</persname>
         <corpname source="lcnaf" encodinganalog="610">Huron Towers (Ann Arbor, Mich.)</corpname>
         <corpname source="lcnaf" encodinganalog="610">Lamp Post Motel (Ann Arbor, Mich.)</corpname>
-        <subject source="lctgm" encodinganalog="650">Offices--Michigan--Lansing--1915.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/5448">Offices--Michigan--Lansing--1915.</subject>
         <corpname source="lcnaf" encodinganalog="610">St. Patrick's Church (Northfield, Mich.)</corpname>
-        <subject source="lcsh" encodinganalog="650">Streets--Michigan--Detroit.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6105">Streets--Michigan--Detroit.</subject>
         <persname source="lcnaf" encodinganalog="600">Tuomy, Cornelius William, 1886-1966.</persname>
         <persname source="lcnaf" encodinganalog="600">Tuomy, Kathryn Genevieve, 1888-1965.</persname>
         <persname source="lcnaf" encodinganalog="600">Tuomy, Thomas Kearney.</persname>
@@ -130,9 +132,9 @@ Tuomy Family Papers, Bentley Historical Library, University of Michigan</p>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Albums.</genreform>
-        <genreform source="aat" encodinganalog="655">Diaries.</genreform>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3211">Albums.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3150">Diaries.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -145,19 +147,19 @@ Tuomy Family Papers, Bentley Historical Library, University of Michigan</p>
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8961904882413874733045]" altrender="box">1</container>
             <unittitle>Family Obituaries <unitdate type="inclusive" normal="1912/1966">1912-1966</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8961904882413874733045]" altrender="box">1</container>
             <unittitle>Tuomy, Cornelius L.-Biographical Sketches</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8961904882413874733045]" altrender="box">1</container>
             <unittitle>Tuomy, Kathryn G.-Biographical Sketches</unittitle>
           </did>
         </c02>
@@ -171,7 +173,7 @@ Tuomy Family Papers, Bentley Historical Library, University of Michigan</p>
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8961904882413874733045]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1840">1840</unitdate>
             </unittitle>
@@ -179,7 +181,7 @@ Tuomy Family Papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8961904882413874733045]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1874">1874</unitdate>
               <unitdate type="inclusive" normal="1876">1876</unitdate>
@@ -188,7 +190,7 @@ Tuomy Family Papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8961904882413874733045]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1885">1885</unitdate>
             </unittitle>
@@ -196,7 +198,7 @@ Tuomy Family Papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8961904882413874733045]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1900/1909">1900-1909</unitdate>
             </unittitle>
@@ -204,7 +206,7 @@ Tuomy Family Papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8961904882413874733045]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1910/1913">1910-1913</unitdate>
             </unittitle>
@@ -212,7 +214,7 @@ Tuomy Family Papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8961904882413874733045]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1914/1915">1914-1915</unitdate>
             </unittitle>
@@ -220,7 +222,7 @@ Tuomy Family Papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8961904882413874733045]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1916/1917">1916-1917</unitdate>
             </unittitle>
@@ -228,7 +230,7 @@ Tuomy Family Papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8961904882413874733045]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1918">1918</unitdate>
             </unittitle>
@@ -239,7 +241,7 @@ Tuomy Family Papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8961904882413874733045]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1919/1920">1919-1920</unitdate>
             </unittitle>
@@ -247,7 +249,7 @@ Tuomy Family Papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8961904882413874733045]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1921/1923">1921-1923</unitdate>
             </unittitle>
@@ -255,7 +257,7 @@ Tuomy Family Papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8961904882413874733045]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1924/1925">1924-1925</unitdate>
             </unittitle>
@@ -263,7 +265,7 @@ Tuomy Family Papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8961904882413874733045]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1926/1928">1926-1928</unitdate>
             </unittitle>
@@ -271,7 +273,7 @@ Tuomy Family Papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8961904882413874733045]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1929">1929</unitdate>
             </unittitle>
@@ -279,7 +281,7 @@ Tuomy Family Papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8961904882413874733045]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1930/1931">1930-1931</unitdate>
             </unittitle>
@@ -287,7 +289,7 @@ Tuomy Family Papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8961904882413874733045]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1932/1933">1932-1933</unitdate>
             </unittitle>
@@ -295,7 +297,7 @@ Tuomy Family Papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8961904882413874733045]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1934/1935">1934-1935</unitdate>
             </unittitle>
@@ -303,7 +305,7 @@ Tuomy Family Papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8961904882413874733045]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1936/1939">1936-1939</unitdate>
             </unittitle>
@@ -311,7 +313,7 @@ Tuomy Family Papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8961904882413874733045]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1940">1940</unitdate>
             </unittitle>
@@ -319,7 +321,7 @@ Tuomy Family Papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8961904882413874733045]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1941">1941</unitdate>
             </unittitle>
@@ -327,7 +329,7 @@ Tuomy Family Papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8961904882413874733045]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1942/1949">1942-1949</unitdate>
             </unittitle>
@@ -335,7 +337,7 @@ Tuomy Family Papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8961904882413874733045]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1950/1959">1950-1959</unitdate>
             </unittitle>
@@ -343,7 +345,7 @@ Tuomy Family Papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8961904882413874733045]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1960/1965">1960-1965</unitdate>
             </unittitle>
@@ -351,7 +353,7 @@ Tuomy Family Papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8961904882413874733045]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive">Undated</unitdate>
             </unittitle>
@@ -372,8 +374,10 @@ Tuomy Family Papers, Bentley Historical Library, University of Michigan</p>
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <unittitle>Kearney Family Correspondence <unitdate type="inclusive" normal="1902/1936">1902-1936</unitdate>, <unitdate type="inclusive">undated</unitdate></unittitle>
+            <container type="box" label="Box [8961904882413874733045]" altrender="box">1</container>
+            <unittitle>Kearney Family Correspondence</unittitle>
+            <unitdate type="inclusive" normal="1902/1936">1902-1936</unitdate>
+            <unitdate type="inclusive">undated</unitdate>
           </did>
         </c02>
         <c02 level="file">
@@ -382,7 +386,7 @@ Tuomy Family Papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [8961904882413874733045]" altrender="box">1</container>
               <unittitle>Scrapbook <unitdate type="inclusive" normal="1890/1959" certainty="approximate">1890s-1950s</unitdate></unittitle>
             </did>
           </c03>
@@ -393,7 +397,7 @@ Tuomy Family Papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [8961904882413874733045]" altrender="box">1</container>
               <unittitle>Scrapbook with Obituaries and Poems <unitdate type="inclusive" normal="1886/1926">1886-1926</unitdate></unittitle>
             </did>
           </c03>
@@ -404,7 +408,7 @@ Tuomy Family Papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [8961904882413874733045]" altrender="box">1</container>
               <unittitle><genreform normal="Diaries">Diary</genreform>, <unitdate type="inclusive" normal="1920/1921">1920-1921</unitdate></unittitle>
             </did>
           </c03>
@@ -415,19 +419,23 @@ Tuomy Family Papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [8961904882413874733045]" altrender="box">1</container>
               <unittitle>Speech <unitdate type="inclusive" normal="1917">1917</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
-              <unittitle><genreform normal="Diaries">Diaries</genreform>, <unitdate type="inclusive" normal="1925">1925</unitdate>, <unitdate type="inclusive" normal="1926">1926</unitdate></unittitle>
+              <container type="box" label="Box [8961904882413874733045]" altrender="box">1</container>
+              <unittitle>
+                <genreform normal="Diaries">Diaries</genreform>
+              </unittitle>
+              <unitdate type="inclusive" normal="1925">1925</unitdate>
+              <unitdate type="inclusive" normal="1926">1926</unitdate>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [8961904882413874733045]" altrender="box">1</container>
               <unittitle>Land Estimate Sketch Book, ca. <unitdate type="inclusive" normal="1913/1915">1913-1915</unitdate> and Ann Arbor Residence Drawing</unittitle>
             </did>
           </c03>
@@ -438,13 +446,13 @@ Tuomy Family Papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [711447701442056540237]" altrender="box">2</container>
               <unittitle>Family <genreform normal="Photographs">Photographs</genreform></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [711447701442056540237]" altrender="box">2</container>
               <unittitle>Family Residence 2117 Washtenaw Ave.</unittitle>
             </did>
             <odd>
@@ -453,13 +461,13 @@ Tuomy Family Papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [711447701442056540237]" altrender="box">2</container>
               <unittitle>History of the Family Name</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [711447701442056540237]" altrender="box">2</container>
               <unittitle>Nixon and Kennedy Visits to Ann Arbor <unitdate type="inclusive" normal="1961">1961</unitdate></unittitle>
             </did>
             <odd>
@@ -473,19 +481,19 @@ Tuomy Family Papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [711447701442056540237]" altrender="box">2</container>
               <unittitle>Ledger <unitdate type="inclusive" normal="1868/1890">1868-1890</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [711447701442056540237]" altrender="box">2</container>
               <unittitle>Land and Ann Arbor Township Farm Notes <unitdate type="inclusive" normal="1886/1898">1886-1898</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [711447701442056540237]" altrender="box">2</container>
               <unittitle>Ann Arbor Township Farm Purchase Records, ca. <unitdate type="inclusive" normal="1874/1888">1874-1888</unitdate></unittitle>
             </did>
           </c03>
@@ -496,31 +504,31 @@ Tuomy Family Papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [711447701442056540237]" altrender="box">2</container>
               <unittitle>Army Enlistment <unitdate type="inclusive" normal="1917">1917</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [711447701442056540237]" altrender="box">2</container>
               <unittitle>American Legion Scrapbook <unitdate type="inclusive" normal="1927/1928">1927-1928</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [711447701442056540237]" altrender="box">2</container>
               <unittitle>Republican National Convention <unitdate type="inclusive" normal="1932-06-14">June 14, 1932</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [711447701442056540237]" altrender="box">2</container>
               <unittitle>Candidate for Drain Commissioner, Ann Arbor <unitdate type="inclusive" normal="1938">1938</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [711447701442056540237]" altrender="box">2</container>
               <unittitle>University of Michigan Band <unitdate type="inclusive" normal="1960/1961">1960-1961</unitdate></unittitle>
             </did>
             <odd>
@@ -529,13 +537,13 @@ Tuomy Family Papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [711447701442056540237]" altrender="box">2</container>
               <unittitle>Last Will and Testament <unitdate type="inclusive" normal="1965">1965</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [711447701442056540237]" altrender="box">2</container>
               <unittitle>
                 <genreform normal="Photographs">Photographs</genreform>
               </unittitle>
@@ -548,37 +556,37 @@ Tuomy Family Papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [711447701442056540237]" altrender="box">2</container>
               <unittitle>Account Book <unitdate type="inclusive" normal="1911/1914">1911-1914</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [711447701442056540237]" altrender="box">2</container>
               <unittitle>Account Book <unitdate type="inclusive" normal="1914/1920">1914-1920</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [711447701442056540237]" altrender="box">2</container>
               <unittitle>Account Book <unitdate type="inclusive" normal="1920/1927">1920-1927</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [711447701442056540237]" altrender="box">2</container>
               <unittitle>Account Book <unitdate type="inclusive" normal="1927/1938">1927-1938</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [711447701442056540237]" altrender="box">2</container>
               <unittitle><genreform normal="Diaries">Diary</genreform>, <unitdate type="inclusive" normal="1936">1936</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [711447701442056540237]" altrender="box">2</container>
               <unittitle>Property on Washtenaw Avenue <unitdate type="inclusive">undated</unitdate></unittitle>
             </did>
           </c03>
@@ -589,37 +597,39 @@ Tuomy Family Papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [711447701442056540237]" altrender="box">2</container>
               <unittitle>Memorabilia <unitdate type="inclusive" normal="1908/1912">1908-1912</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [711447701442056540237]" altrender="box">2</container>
               <unittitle>Essays on the Business World, ca. <unitdate type="inclusive" normal="1914">1914</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [711447701442056540237]" altrender="box">2</container>
               <unittitle>List of University of Michigan Class of <unitdate type="inclusive" normal="1912">1912</unitdate> ca. <unitdate type="inclusive" normal="1929">1929</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
-              <unittitle>Business and Professional Women's Club of Ann Arbor <unitdate type="inclusive" normal="1925">1925</unitdate>, <unitdate type="inclusive" normal="1947/1949">1947-1949</unitdate></unittitle>
+              <container type="box" label="Box [711447701442056540237]" altrender="box">2</container>
+              <unittitle>Business and Professional Women's Club of Ann Arbor</unittitle>
+              <unitdate type="inclusive" normal="1925">1925</unitdate>
+              <unitdate type="inclusive" normal="1947/1949">1947-1949</unitdate>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [711447701442056540237]" altrender="box">2</container>
               <unittitle>Michigan Federation of Business and Professional Women <unitdate type="inclusive" normal="1929/1930">1929-1930</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [711447701442056540237]" altrender="box">2</container>
               <unittitle>Michigan Federation of Business and Professional Women, ca. <unitdate type="inclusive" normal="1930">1930</unitdate></unittitle>
             </did>
             <odd>
@@ -628,19 +638,21 @@ Tuomy Family Papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
-              <unittitle>National Federation of Business and Professional Women's Clubs, Inc. <unitdate type="inclusive" normal="1929">1929</unitdate>, <unitdate type="inclusive" normal="1931">1931</unitdate></unittitle>
+              <container type="box" label="Box [711447701442056540237]" altrender="box">2</container>
+              <unittitle>National Federation of Business and Professional Women's Clubs, Inc.</unittitle>
+              <unitdate type="inclusive" normal="1929">1929</unitdate>
+              <unitdate type="inclusive" normal="1931">1931</unitdate>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [711447701442056540237]" altrender="box">2</container>
               <unittitle>International Federation of Business and Professional Women <unitdate type="inclusive" normal="1934/1936">1934-1936</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [711447701442056540237]" altrender="box">2</container>
               <unittitle>
                 <genreform normal="Photographs">Photographs</genreform>
               </unittitle>
@@ -653,7 +665,7 @@ Tuomy Family Papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [711447701442056540237]" altrender="box">2</container>
               <unittitle>Football (Detroit University School) and School Papers <unitdate type="inclusive" normal="1909/1912" certainty="approximate">1909-circa 1912</unitdate></unittitle>
             </did>
             <odd>
@@ -662,7 +674,7 @@ Tuomy Family Papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [711447701442056540237]" altrender="box">2</container>
               <unittitle>Poem to Thomas Kearney Tuomy <unitdate type="inclusive" normal="1918">1918</unitdate></unittitle>
             </did>
           </c03>
@@ -673,13 +685,13 @@ Tuomy Family Papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [711447701442056540237]" altrender="box">2</container>
               <unittitle>Diary for Phone Messages <unitdate type="inclusive" normal="1940">1940</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [711447701442056540237]" altrender="box">2</container>
               <unittitle>Business Buildings, ca. <unitdate type="inclusive" normal="1940/1960">1940-1960</unitdate></unittitle>
             </did>
             <odd>
@@ -688,7 +700,7 @@ Tuomy Family Papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [711447701442056540237]" altrender="box">2</container>
               <unittitle>Miscellaneous Buildings, ca. <unitdate type="inclusive" normal="1950/1959" certainty="approximate">1950s</unitdate></unittitle>
             </did>
             <odd>
@@ -697,7 +709,7 @@ Tuomy Family Papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [711447701442056540237]" altrender="box">2</container>
               <unittitle>Construction, ca. <unitdate type="inclusive" normal="1955/1964">1955-1964</unitdate></unittitle>
             </did>
             <odd>
@@ -706,14 +718,16 @@ Tuomy Family Papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [711447701442056540237]" altrender="box">2</container>
               <unittitle>Notebook, ca. <unitdate type="inclusive" normal="1960/1969" certainty="approximate">1960s</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
-              <unittitle>Miscellaneous Homes <unitdate type="inclusive" normal="1960/1964">1960-1964</unitdate>, <unitdate type="inclusive">undated</unitdate></unittitle>
+              <container type="box" label="Box [711447701442056540237]" altrender="box">2</container>
+              <unittitle>Miscellaneous Homes</unittitle>
+              <unitdate type="inclusive" normal="1960/1964">1960-1964</unitdate>
+              <unitdate type="inclusive">undated</unitdate>
             </did>
             <odd>
               <p>(includes <genreform normal="Photographs">photographs</genreform>)</p>
@@ -721,7 +735,7 @@ Tuomy Family Papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [711447701442056540237]" altrender="box">2</container>
               <unittitle>Tuomy Hills Gas Station, ca. <unitdate type="inclusive" normal="1930">1930</unitdate> and ca. <unitdate type="inclusive" normal="1960/1965">1960-1965</unitdate></unittitle>
             </did>
             <odd>
@@ -730,7 +744,7 @@ Tuomy Family Papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [711447701442056540237]" altrender="box">2</container>
               <unittitle>Tuomy and Tuomy Real Estate Office, ca. <unitdate type="inclusive" normal="1961/1963">1961-1963</unitdate></unittitle>
             </did>
             <odd>
@@ -750,19 +764,19 @@ Tuomy Family Papers, Bentley Historical Library, University of Michigan</p>
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [711447701442056540237]" altrender="box">2</container>
             <unittitle>Collected photographs of Detroit, with views of Detroit Opera House fire, Governor Pingree on military inspection, Belle Isle Bridge, etc. <unitdate type="inclusive" normal="1897">1897</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [86083294281774943]" altrender="box">3</container>
             <unittitle>Family portraits and <genreform normal="Albums">albums</genreform></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="folder" label="Oversize Folder">UAm</container>
+            <container type="folder" label="Oversize Folder [909459094424898047484148]" altrender="folder">UAm</container>
             <unittitle>Photograph of Woodbridge Ferris in his office <unitdate type="inclusive" normal="1915">1915</unitdate> photograph of St. Patrick Church; and photograph of U-M student group in costume</unittitle>
           </did>
         </c02>

@@ -31,7 +31,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>John F. Ferguson photograph collection, ca. 1919</titleproper>
       <author>Finding aid created by <lb/>Olga Virakhovskaya, September 2012</author>
     </titlepage>
@@ -81,17 +81,17 @@ John W. Ferguson photograph collection, Bentley Historical Library, University o
       <controlaccess>
         <head>Subjects:</head>
         <persname encodinganalog="600" source="lcnaf">Ferguson, John W.</persname>
-        <subject source="lctgm" encodinganalog="650">Horses--Russia.</subject>
-        <subject source="lctgm" encodinganalog="650">Soldiers--American--Russia.</subject>
-        <geogname source="lcsh" encodinganalog="651">Soviet Union--History--Allied intervention, 1918-1920.</geogname>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4301">Horses--Russia.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/4302">Soldiers--American--Russia.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/883">Soviet Union--History--Allied intervention, 1918-1920.</geogname>
         <corpname source="lcnaf" encodinganalog="610">United States. Army. Engineer Regiment, 310th.</corpname>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
-        <subject source="local" encodinganalog="690" authfilenumber="http://id.loc.gov/authorities/names/n2008059426">Polar Bear Expedition.</subject>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
+        <subject source="local" encodinganalog="690" authfilenumber="http://id.loc.gov/authorities/names/n2008059426" ref="/subjects/3518">Polar Bear Expedition.</subject>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat">Digital files.</genreform>
-        <genreform source="aat">Photographs.</genreform>
+        <genreform source="aat" ref="/subjects/3220">Digital files.</genreform>
+        <genreform source="aat" ref="/subjects/3141">Photographs.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -101,9 +101,9 @@ John W. Ferguson photograph collection, Bentley Historical Library, University o
         </did>
         <c02 level="file">
           <did>
-            <container type="folder" label="Folder">1</container>
+            <container type="folder" label="Folder [5890804969971381524]" altrender="folder">1</container>
             <unittitle>Photograph of John W. Ferguson <unitdate type="inclusive" normal="1919" certainty="approximate">circa 1919</unitdate></unittitle>
-            <dao show="new" actuate="onrequest" href="ferguson0001">
+            <dao show="new" actuate="onRequest" href="ferguson0001" ref="/repositories/2/digital_objects/2747">
               <daodesc>
                 <p>[view items]</p>
               </daodesc>

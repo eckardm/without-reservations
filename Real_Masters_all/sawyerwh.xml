@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Walter H. Sawyer papers, 1900-1931</titleproper>
       <author>Finding aid created by <lb/>Michigan Historical Collections staff</author>
     </titlepage>
@@ -82,17 +82,17 @@ Walter H. Sawyer papers, Bentley Historical Library, University of Michigan</p>
       <controlaccess>
         <head>Subjects:</head>
         <corpname source="lcnaf" encodinganalog="610">Alumni Memorial Hall (University of Michigan)</corpname>
-        <subject source="lcsh" encodinganalog="650">Elections--Michigan--1910.</subject>
-        <subject source="lcsh" encodinganalog="650">Elections--Michigan--1918.</subject>
-        <geogname source="lcsh" encodinganalog="651">Hillsdale (Mich.)</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6196">Elections--Michigan--1910.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6200">Elections--Michigan--1918.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/1118">Hillsdale (Mich.)</geogname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n85137476">Hillsdale College.</corpname>
-        <subject source="lcsh" encodinganalog="650">Medicine--Michigan.</subject>
-        <geogname source="local" encodinganalog="691">Michigan--Politics and government--1917-1921.</geogname>
-        <geogname source="local" encodinganalog="691">Michigan--Politics and government--1922-1928.</geogname>
-        <geogname source="local" encodinganalog="691">Michigan--Politics and government--1929-1938.</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6030">Medicine--Michigan.</subject>
+        <geogname source="local" encodinganalog="691" ref="/subjects/807">Michigan--Politics and government--1917-1921.</geogname>
+        <geogname source="local" encodinganalog="691" ref="/subjects/808">Michigan--Politics and government--1922-1928.</geogname>
+        <geogname source="local" encodinganalog="691" ref="/subjects/803">Michigan--Politics and government--1929-1938.</geogname>
         <corpname source="lcnaf" encodinganalog="610">Michigan. Board of Registration in Medicine.</corpname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n85209439">Michigan State Medical Society.</corpname>
-        <subject source="lcsh" encodinganalog="650">Physicians--Michigan--Hillsdale.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/9980">Physicians--Michigan--Hillsdale.</subject>
         <corpname source="lcnaf" encodinganalog="610">Republican Party (Mich.)</corpname>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/no2008183271">Sawyer, Walter H. (Walter Hulme), 1861-1931.</persname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan--Sports.</corpname>
@@ -101,7 +101,7 @@ Walter H. Sawyer papers, Bentley Historical Library, University of Michigan</p>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan--Law School.</corpname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan. President.</corpname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan. University Hospital.</corpname>
-        <geogname source="lcsh" encodinganalog="651">Michigan--Politics and government--1837-1950.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/884">Michigan--Politics and government--1837-1950.</geogname>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/no97001042">Angell, James Rowland, 1869-1949.</persname>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/no2003068129">Brooks, Stratton D. (Stratton Duluth), 1869-1949.</persname>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/nr98035040">Brown, Elmer Ellsworth, 1861-1934.</persname>
@@ -125,11 +125,11 @@ Walter H. Sawyer papers, Bentley Historical Library, University of Michigan</p>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Materials:</head>
-        <geogname source="lctgm" encodinganalog="651">Hillsdale (Mich.)--Streets.</geogname>
+        <geogname source="lctgm" encodinganalog="651" ref="/subjects/663">Hillsdale (Mich.)--Streets.</geogname>
         <corpname source="lcnaf" encodinganalog="610">Knights Templar (Masonic order)</corpname>
-        <subject source="lctgm" encodinganalog="650">Parades and processions.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3574">Parades and processions.</subject>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/no2008183271">Sawyer, Walter H. (Walter Hulme), 1861-1931.</persname>
-        <subject source="lctgm" encodinganalog="650">Streets--Michigan--Hillsdale.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/5238">Streets--Michigan--Hillsdale.</subject>
       </controlaccess>
       <controlaccess>
         <head>Contributors:</head>
@@ -156,7 +156,7 @@ Walter H. Sawyer papers, Bentley Historical Library, University of Michigan</p>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -166,13 +166,13 @@ Walter H. Sawyer papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [932143302540893628094419]" altrender="box">1</container>
             <unittitle>Miscellaneous and <unitdate type="inclusive">undated</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [932143302540893628094419]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1900/1909-06">1900-June 1909</unitdate>
             </unittitle>
@@ -183,7 +183,7 @@ Walter H. Sawyer papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [904606499642054929]" altrender="box">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1909-07/1913-06">July 1909-June 1913</unitdate>
             </unittitle>
@@ -194,7 +194,7 @@ Walter H. Sawyer papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [273302478717424590]" altrender="box">3</container>
             <unittitle>
               <unitdate type="inclusive" normal="1913-07/1923">July 1913-1923</unitdate>
             </unittitle>
@@ -208,7 +208,7 @@ Walter H. Sawyer papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">4</container>
+            <container type="box" label="Box [900246342782863833897]" altrender="box">4</container>
             <unittitle>
               <unitdate type="inclusive" normal="1924/1929-06">1924-June 1929</unitdate>
             </unittitle>
@@ -219,7 +219,7 @@ Walter H. Sawyer papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [735149082200183]" altrender="box">5</container>
             <unittitle>
               <unitdate type="inclusive" normal="1929-07/1931">July 1929-1931</unitdate>
             </unittitle>
@@ -239,7 +239,7 @@ Walter H. Sawyer papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [735149082200183]" altrender="box">5</container>
               <unittitle>Woodrow Wilson</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -248,79 +248,79 @@ Walter H. Sawyer papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [735149082200183]" altrender="box">5</container>
               <unittitle>John H. Finley</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [735149082200183]" altrender="box">5</container>
               <unittitle>Henry C. King</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [735149082200183]" altrender="box">5</container>
               <unittitle>James R. Garfield</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [735149082200183]" altrender="box">5</container>
               <unittitle>Elmer E. Brown</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [735149082200183]" altrender="box">5</container>
               <unittitle>J. Jenks (Cornell)</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [735149082200183]" altrender="box">5</container>
               <unittitle>David J. Hill</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [735149082200183]" altrender="box">5</container>
               <unittitle>Stratton D. Brooks</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [735149082200183]" altrender="box">5</container>
               <unittitle>Charles E. Hughes</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [735149082200183]" altrender="box">5</container>
               <unittitle>Edwin F. Gay</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [735149082200183]" altrender="box">5</container>
               <unittitle>Bliss Perry</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [735149082200183]" altrender="box">5</container>
               <unittitle>James P. Hall</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [735149082200183]" altrender="box">5</container>
               <unittitle>Charles M. Gayley</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [735149082200183]" altrender="box">5</container>
               <unittitle>General</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -334,13 +334,13 @@ Walter H. Sawyer papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [735149082200183]" altrender="box">5</container>
               <unittitle>Livingston Farrand</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [735149082200183]" altrender="box">5</container>
               <unittitle>James R. Angell</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -349,62 +349,62 @@ Walter H. Sawyer papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [735149082200183]" altrender="box">5</container>
               <unittitle>Albert Ross Hill</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [735149082200183]" altrender="box">5</container>
               <unittitle>Walter A. Jessup (State University of Iowa)</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [735149082200183]" altrender="box">5</container>
               <unittitle>W.T. Foster</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [735149082200183]" altrender="box">5</container>
               <unittitle>Henry Suzzalo (pres., University of Washington)</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [735149082200183]" altrender="box">5</container>
               <unittitle>Frederick P. Keppel</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [735149082200183]" altrender="box">5</container>
               <unittitle>Frank Vanderlip</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [735149082200183]" altrender="box">5</container>
               <unittitle>Donald, J. Cowling</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [735149082200183]" altrender="box">5</container>
               <unittitle>Marion L. Burton</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [735149082200183]" altrender="box">5</container>
               <unittitle>General</unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [735149082200183]" altrender="box">5</container>
             <unittitle>Presidential search <unitdate type="inclusive" normal="1925">1925</unitdate></unittitle>
           </did>
           <odd>
@@ -413,13 +413,13 @@ Walter H. Sawyer papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [735149082200183]" altrender="box">5</container>
             <unittitle>Presidential search correspondence <unitdate type="inclusive" normal="1929">1929</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [735149082200183]" altrender="box">5</container>
             <unittitle>Clements, William L., correspondence with <unitdate type="inclusive" normal="1919/1931">1919-1931</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -428,31 +428,31 @@ Walter H. Sawyer papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [735149082200183]" altrender="box">5</container>
             <unittitle>Investigation of Undersecretary James Wade <unitdate type="inclusive" normal="1908">1908</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [735149082200183]" altrender="box">5</container>
             <unittitle>University Hospital Administration <unitdate type="inclusive" normal="1924">1924</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [735149082200183]" altrender="box">5</container>
             <unittitle>University Hospital; University physician miscellaneous</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [735149082200183]" altrender="box">5</container>
             <unittitle>Relationship of universities to schools of homeopathy <unitdate type="inclusive" normal="1923">1923</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [735149082200183]" altrender="box">5</container>
             <unittitle>Daughters of the American Revolution (A. J. Brosseau) <unitdate type="inclusive" normal="1928">1928</unitdate></unittitle>
           </did>
           <odd>
@@ -461,13 +461,13 @@ Walter H. Sawyer papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [735149082200183]" altrender="box">5</container>
             <unittitle>William Cook will (with biographical sketch)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [735149082200183]" altrender="box">5</container>
             <unittitle>Medical School dean Hugh Cabot</unittitle>
           </did>
         </c02>
@@ -478,19 +478,19 @@ Walter H. Sawyer papers, Bentley Historical Library, University of Michigan</p>
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [735149082200183]" altrender="box">5</container>
             <unittitle>Addresses on medical subjects</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [735149082200183]" altrender="box">5</container>
             <unittitle>Addresses to medical organization</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [735149082200183]" altrender="box">5</container>
             <unittitle>Addresses at Hillsdale College</unittitle>
           </did>
           <odd>
@@ -499,7 +499,7 @@ Walter H. Sawyer papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [735149082200183]" altrender="box">5</container>
             <unittitle>Addresses concerning The University of Michigan</unittitle>
           </did>
           <odd>
@@ -508,25 +508,25 @@ Walter H. Sawyer papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [735149082200183]" altrender="box">5</container>
             <unittitle>Miscellaneous speeches and reports</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [735149082200183]" altrender="box">5</container>
             <unittitle>Legislative acts and resolution concerning medical subjects</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [735149082200183]" altrender="box">5</container>
             <unittitle>Legislative acts and resolution concerning The University of Michigan</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [735149082200183]" altrender="box">5</container>
             <unittitle>Clippings and other printed materials</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -535,7 +535,7 @@ Walter H. Sawyer papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [735149082200183]" altrender="box">5</container>
             <unittitle>Miscellaneous</unittitle>
           </did>
           <odd>
@@ -544,7 +544,7 @@ Walter H. Sawyer papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">5</container>
+            <container type="box" label="Box [735149082200183]" altrender="box">5</container>
             <unittitle>
               <genreform normal="Photographs">Photographs</genreform>
             </unittitle>

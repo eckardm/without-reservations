@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Jean Ledwith King Oral History Collection, circa 1927-2011</titleproper>
       <author>Finding aid created by <lb/>Krista Gray, July 2014</author>
     </titlepage>
@@ -37,7 +37,9 @@
       <origination>
         <persname source="lcnaf" encodinganalog="100">Owens, John</persname>
       </origination>
-      <unittitle encodinganalog="245">Jean Ledwith King Oral History Collection <unitdate type="inclusive" encodinganalog="245$f" normal="1927/2011" certainty="approximate">circa 1927-2011</unitdate>, <unitdate type="bulk" encodinganalog="245$g" normal="2011">2011</unitdate></unittitle>
+      <unittitle encodinganalog="245">Jean Ledwith King Oral History Collection</unittitle>
+      <unitdate type="inclusive" encodinganalog="245$f" normal="1927/2011" certainty="approximate">circa 1927-2011</unitdate>
+      <unitdate type="bulk" encodinganalog="245$g" normal="2011">2011</unitdate>
       <unitid encodinganalog="852$h" repositorycode="MiU-H" countrycode="us" type="call number">2014049 Aa 3</unitid>
       <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language></langmaterial>
       <abstract>Ann Arbor, Michigan attorney who spent her career fighting sex discrimination in education, sports, and politics. The collection contains oral history interviews, tribute statements, and photographs collected on the occasion of renaming the Women's Center of Southeastern Michigan after Jean Ledwith King and for the creation of a documentary, "The Power of One: Celebrating Jean Ledwith King," by John Owens.</abstract>
@@ -94,11 +96,11 @@ Jean Ledwith King Oral History Collection, Bentley Historical Library, Universit
         <corpname source="lcnaf" encodinganalog="610">Jean Ledwith King Women's Center of Southeast Michigan.</corpname>
         <persname source="lcnaf" encodinganalog="600">King, Jean Ledwith.</persname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n79054541">Michigan State University.</corpname>
-        <subject source="lcsh" encodinganalog="650">Sex discrimination against women--Michigan.</subject>
-        <subject source="lcsh" encodinganalog="650">Sex discrimination in sports--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7948">Sex discrimination against women--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7950">Sex discrimination in sports--Michigan.</subject>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n79021846">University of Michigan.</corpname>
-        <subject source="lcsh" encodinganalog="650">Women lawyers--Michigan--Ann Arbor.</subject>
-        <subject source="lcsh" encodinganalog="650">Women's rights--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6480">Women lawyers--Michigan--Ann Arbor.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6223">Women's rights--Michigan.</subject>
       </controlaccess>
       <controlaccess>
         <head>Contributors:</head>
@@ -117,10 +119,10 @@ Jean Ledwith King Oral History Collection, Bentley Historical Library, Universit
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Digital images.</genreform>
-        <genreform source="aat" encodinganalog="655">Digital moving image formats.</genreform>
-        <genreform source="aat" encodinganalog="655">Interviews.</genreform>
-        <genreform source="aat" encodinganalog="655">Oral histories.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3149">Digital images.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3306">Digital moving image formats.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3194">Interviews.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3161">Oral histories.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -145,7 +147,7 @@ Jean Ledwith King Oral History Collection, Bentley Historical Library, Universit
             <did>
               <physloc>Online</physloc>
               <unittitle>Final version of "The Power of One: Celebrating Jean Ledwith King," <unitdate type="inclusive" normal="2011">2011</unitdate></unittitle>
-              <dao href="http://hdl.handle.net/2027.42/108186" show="new" actuate="onrequest">
+              <dao href="http://hdl.handle.net/2027.42/108186" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/3881">
                 <daodesc>
                   <p>[download item]</p>
                 </daodesc>
@@ -156,7 +158,7 @@ Jean Ledwith King Oral History Collection, Bentley Historical Library, Universit
             <did>
               <physloc>Online</physloc>
               <unittitle>Longer version of "The Power of One: Celebrating Jean Ledwith King," <unitdate type="inclusive" normal="2011">2011</unitdate></unittitle>
-              <dao href="http://hdl.handle.net/2027.42/108186" show="new" actuate="onrequest">
+              <dao href="http://hdl.handle.net/2027.42/108186" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/3881">
                 <daodesc>
                   <p>[download item]</p>
                 </daodesc>
@@ -178,7 +180,7 @@ Jean Ledwith King Oral History Collection, Bentley Historical Library, Universit
               <physdesc>
                 <physfacet>.MP4 and .MOV files</physfacet>
               </physdesc>
-              <dao href="http://hdl.handle.net/2027.42/108190" show="new" actuate="onrequest">
+              <dao href="http://hdl.handle.net/2027.42/108190" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/3882">
                 <daodesc>
                   <p>[download item]</p>
                 </daodesc>
@@ -192,7 +194,7 @@ Jean Ledwith King Oral History Collection, Bentley Historical Library, Universit
               <physdesc>
                 <physfacet>.MP4 and .MOV files</physfacet>
               </physdesc>
-              <dao href="http://hdl.handle.net/2027.42/108191" show="new" actuate="onrequest">
+              <dao href="http://hdl.handle.net/2027.42/108191" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/3883">
                 <daodesc>
                   <p>[download item]</p>
                 </daodesc>
@@ -206,7 +208,7 @@ Jean Ledwith King Oral History Collection, Bentley Historical Library, Universit
               <physdesc>
                 <physfacet>.MP4 and .MOV files</physfacet>
               </physdesc>
-              <dao href="http://hdl.handle.net/2027.42/108192" show="new" actuate="onrequest">
+              <dao href="http://hdl.handle.net/2027.42/108192" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/3884">
                 <daodesc>
                   <p>[download item]</p>
                 </daodesc>
@@ -220,7 +222,7 @@ Jean Ledwith King Oral History Collection, Bentley Historical Library, Universit
               <physdesc>
                 <physfacet>.MP4 and .MOV files</physfacet>
               </physdesc>
-              <dao href="http://hdl.handle.net/2027.42/108193" show="new" actuate="onrequest">
+              <dao href="http://hdl.handle.net/2027.42/108193" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/3885">
                 <daodesc>
                   <p>[download item]</p>
                 </daodesc>
@@ -234,7 +236,7 @@ Jean Ledwith King Oral History Collection, Bentley Historical Library, Universit
               <physdesc>
                 <physfacet>.MP4 and .MOV files</physfacet>
               </physdesc>
-              <dao href="http://hdl.handle.net/2027.42/108194" show="new" actuate="onrequest">
+              <dao href="http://hdl.handle.net/2027.42/108194" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/3886">
                 <daodesc>
                   <p>[download item]</p>
                 </daodesc>
@@ -248,7 +250,7 @@ Jean Ledwith King Oral History Collection, Bentley Historical Library, Universit
               <physdesc>
                 <physfacet>.MP4 and .MOV files</physfacet>
               </physdesc>
-              <dao href="http://hdl.handle.net/2027.42/108195" show="new" actuate="onrequest">
+              <dao href="http://hdl.handle.net/2027.42/108195" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/3887">
                 <daodesc>
                   <p>[download item]</p>
                 </daodesc>
@@ -262,7 +264,7 @@ Jean Ledwith King Oral History Collection, Bentley Historical Library, Universit
               <physdesc>
                 <physfacet>.MP4 and .MOV files</physfacet>
               </physdesc>
-              <dao href="http://hdl.handle.net/2027.42/108196" show="new" actuate="onrequest">
+              <dao href="http://hdl.handle.net/2027.42/108196" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/3888">
                 <daodesc>
                   <p>[download item]</p>
                 </daodesc>
@@ -276,7 +278,7 @@ Jean Ledwith King Oral History Collection, Bentley Historical Library, Universit
               <physdesc>
                 <physfacet>.MP4 and .MOV files</physfacet>
               </physdesc>
-              <dao href="http://hdl.handle.net/2027.42/108175" show="new" actuate="onrequest">
+              <dao href="http://hdl.handle.net/2027.42/108175" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/3889">
                 <daodesc>
                   <p>[download item]</p>
                 </daodesc>
@@ -290,7 +292,7 @@ Jean Ledwith King Oral History Collection, Bentley Historical Library, Universit
               <physdesc>
                 <physfacet>.MP4 and .MOV files</physfacet>
               </physdesc>
-              <dao href="http://hdl.handle.net/2027.42/108176" show="new" actuate="onrequest">
+              <dao href="http://hdl.handle.net/2027.42/108176" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/3890">
                 <daodesc>
                   <p>[download item]</p>
                 </daodesc>
@@ -304,7 +306,7 @@ Jean Ledwith King Oral History Collection, Bentley Historical Library, Universit
               <physdesc>
                 <physfacet>.MP4 and .MOV files</physfacet>
               </physdesc>
-              <dao href="http://hdl.handle.net/2027.42/108177" show="new" actuate="onrequest">
+              <dao href="http://hdl.handle.net/2027.42/108177" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/3891">
                 <daodesc>
                   <p>[download item]</p>
                 </daodesc>
@@ -318,7 +320,7 @@ Jean Ledwith King Oral History Collection, Bentley Historical Library, Universit
               <physdesc>
                 <physfacet>.MP4 and .MOV files</physfacet>
               </physdesc>
-              <dao href="http://hdl.handle.net/2027.42/108178" show="new" actuate="onrequest">
+              <dao href="http://hdl.handle.net/2027.42/108178" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/3892">
                 <daodesc>
                   <p>[download item]</p>
                 </daodesc>
@@ -332,7 +334,7 @@ Jean Ledwith King Oral History Collection, Bentley Historical Library, Universit
               <physdesc>
                 <physfacet>.MP4 and .MOV files</physfacet>
               </physdesc>
-              <dao href="http://hdl.handle.net/2027.42/108180" show="new" actuate="onrequest">
+              <dao href="http://hdl.handle.net/2027.42/108180" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/3893">
                 <daodesc>
                   <p>[download item]</p>
                 </daodesc>
@@ -346,7 +348,7 @@ Jean Ledwith King Oral History Collection, Bentley Historical Library, Universit
               <physdesc>
                 <physfacet>.MP4 and .MOV files</physfacet>
               </physdesc>
-              <dao href="http://hdl.handle.net/2027.42/108181" show="new" actuate="onrequest">
+              <dao href="http://hdl.handle.net/2027.42/108181" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/3894">
                 <daodesc>
                   <p>[download item]</p>
                 </daodesc>
@@ -368,7 +370,7 @@ Jean Ledwith King Oral History Collection, Bentley Historical Library, Universit
               <physdesc>
                 <physfacet>.MP4 and .MOV files</physfacet>
               </physdesc>
-              <dao href="http://hdl.handle.net/2027.42/108182" show="new" actuate="onrequest">
+              <dao href="http://hdl.handle.net/2027.42/108182" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/3895">
                 <daodesc>
                   <p>[download item]</p>
                 </daodesc>
@@ -382,7 +384,7 @@ Jean Ledwith King Oral History Collection, Bentley Historical Library, Universit
               <physdesc>
                 <physfacet>.MP4 and .M4V files</physfacet>
               </physdesc>
-              <dao href="http://hdl.handle.net/2027.42/108183" show="new" actuate="onrequest">
+              <dao href="http://hdl.handle.net/2027.42/108183" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/3896">
                 <daodesc>
                   <p>[download item]</p>
                 </daodesc>
@@ -396,7 +398,7 @@ Jean Ledwith King Oral History Collection, Bentley Historical Library, Universit
               <physdesc>
                 <physfacet>.MP4 and .MOV files</physfacet>
               </physdesc>
-              <dao href="http://hdl.handle.net/2027.42/108184" show="new" actuate="onrequest">
+              <dao href="http://hdl.handle.net/2027.42/108184" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/3897">
                 <daodesc>
                   <p>[download item]</p>
                 </daodesc>
@@ -410,7 +412,7 @@ Jean Ledwith King Oral History Collection, Bentley Historical Library, Universit
               <physdesc>
                 <physfacet>.MP4 and .MPG files</physfacet>
               </physdesc>
-              <dao href="http://hdl.handle.net/2027.42/108185" show="new" actuate="onrequest">
+              <dao href="http://hdl.handle.net/2027.42/108185" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/3898">
                 <daodesc>
                   <p>[download item]</p>
                 </daodesc>
@@ -424,7 +426,7 @@ Jean Ledwith King Oral History Collection, Bentley Historical Library, Universit
               <physdesc>
                 <physfacet>.MP4 and .MOV files</physfacet>
               </physdesc>
-              <dao href="http://hdl.handle.net/2027.42/108187" show="new" actuate="onrequest">
+              <dao href="http://hdl.handle.net/2027.42/108187" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/3899">
                 <daodesc>
                   <p>[download item]</p>
                 </daodesc>
@@ -438,7 +440,7 @@ Jean Ledwith King Oral History Collection, Bentley Historical Library, Universit
               <physdesc>
                 <physfacet>.MP4 and .MOV files</physfacet>
               </physdesc>
-              <dao href="http://hdl.handle.net/2027.42/108188" show="new" actuate="onrequest">
+              <dao href="http://hdl.handle.net/2027.42/108188" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/3900">
                 <daodesc>
                   <p>[download item]</p>
                 </daodesc>
@@ -454,7 +456,7 @@ Jean Ledwith King Oral History Collection, Bentley Historical Library, Universit
           <physdesc>
             <physfacet>.ZIP file</physfacet>
           </physdesc>
-          <dao href="http://hdl.handle.net/2027.42/108189" show="new" actuate="onrequest">
+          <dao href="http://hdl.handle.net/2027.42/108189" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/3902">
             <daodesc>
               <p>[download item]</p>
             </daodesc>
@@ -474,7 +476,7 @@ Jean Ledwith King Oral History Collection, Bentley Historical Library, Universit
         <c02 level="file">
           <did>
             <unittitle>Bentley</unittitle>
-            <dao href="http://hdl.handle.net/2027.42/108189" show="new" actuate="onrequest">
+            <dao href="http://hdl.handle.net/2027.42/108189" show="new" actuate="onRequest" ref="/repositories/2/digital_objects/3902">
               <daodesc>
                 <p>[download item]</p>
               </daodesc>

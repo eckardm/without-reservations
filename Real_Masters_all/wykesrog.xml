@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Roger Irving Wykes papers, 1889 and 1907-1938</titleproper>
       <author>Finding aid created by <lb/>Michigan Historical Collections staff</author>
     </titlepage>
@@ -37,7 +37,9 @@
       <origination>
         <persname source="lcnaf" encodinganalog="100">Wykes, Roger Irving, 1874-</persname>
       </origination>
-      <unittitle encodinganalog="245">Roger Irving Wykes papers <unitdate type="inclusive" encodinganalog="245$f" normal="1889">1889</unitdate>, <unitdate type="inclusive" encodinganalog="245$f" normal="1907/1938">1907-1938</unitdate></unittitle>
+      <unittitle encodinganalog="245">Roger Irving Wykes papers</unittitle>
+      <unitdate type="inclusive" encodinganalog="245$f" normal="1889">1889</unitdate>
+      <unitdate type="inclusive" encodinganalog="245$f" normal="1907/1938">1907-1938</unitdate>
       <unitid encodinganalog="852$h" repositorycode="MiU-H" countrycode="us" type="call number">86385 Aa 2</unitid>
       <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language></langmaterial>
       <abstract>Attorney General of Michigan, 1912. Briefs and other legal papers relating to the Duluth, South Shore and Atlantic Railroad case and the Grand Rapids Gas Company case; correspondence, 1907-1908, on his campaign and activities in the Michigan Constitutional Convention; scrapbooks on the Constitutional Convention and Michigan politics, 1907-1920.</abstract>
@@ -85,12 +87,12 @@ Roger Irving Wykes papers, Bentley Historical Library, University of Michigan</p
         <corpname source="lcnaf" encodinganalog="610">Grand Rapids Gas Company.</corpname>
         <corpname source="lcnaf" encodinganalog="610">Michigan. Dept. of Attorney General.</corpname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/no91019584">Michigan. Constitutional Convention (1907-1908)</corpname>
-        <geogname source="local" encodinganalog="691">Michigan--Politics and government--1899-1916.</geogname>
-        <geogname source="local" encodinganalog="691">Michigan--Politics and government--1917-1921.</geogname>
-        <subject source="lcsh" encodinganalog="650">Public utilities--Michigan.</subject>
-        <subject source="lcsh" encodinganalog="650">Railroads--Michigan.</subject>
+        <geogname source="local" encodinganalog="691" ref="/subjects/806">Michigan--Politics and government--1899-1916.</geogname>
+        <geogname source="local" encodinganalog="691" ref="/subjects/807">Michigan--Politics and government--1917-1921.</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7781">Public utilities--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6680">Railroads--Michigan.</subject>
         <corpname source="lcnaf" encodinganalog="610">Republican Party (Mich.)</corpname>
-        <geogname source="lcsh" encodinganalog="651">Michigan--Politics and government--1837-1950.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/884">Michigan--Politics and government--1837-1950.</geogname>
         <persname source="lcnaf" encodinganalog="600">Wykes, Roger Irving, 1874-</persname>
       </controlaccess>
       <controlaccess>
@@ -101,7 +103,7 @@ Roger Irving Wykes papers, Bentley Historical Library, University of Michigan</p
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Scrapbooks.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3139">Scrapbooks.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -111,7 +113,7 @@ Roger Irving Wykes papers, Bentley Historical Library, University of Michigan</p
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [873941253249981714]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1907-06">June 1907</unitdate>
             </unittitle>
@@ -119,7 +121,7 @@ Roger Irving Wykes papers, Bentley Historical Library, University of Michigan</p
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [873941253249981714]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1907-07">July 1907</unitdate>
             </unittitle>
@@ -130,7 +132,7 @@ Roger Irving Wykes papers, Bentley Historical Library, University of Michigan</p
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [873941253249981714]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1907-08">August 1907</unitdate>
             </unittitle>
@@ -138,7 +140,7 @@ Roger Irving Wykes papers, Bentley Historical Library, University of Michigan</p
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [873941253249981714]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1907-09/1907-12">September-December 1907</unitdate>
             </unittitle>
@@ -146,7 +148,7 @@ Roger Irving Wykes papers, Bentley Historical Library, University of Michigan</p
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [873941253249981714]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1908">1908</unitdate>
             </unittitle>
@@ -154,7 +156,7 @@ Roger Irving Wykes papers, Bentley Historical Library, University of Michigan</p
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [873941253249981714]" altrender="box">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1910/1938">1910-1938 (scattered)</unitdate>
             </unittitle>
@@ -167,13 +169,13 @@ Roger Irving Wykes papers, Bentley Historical Library, University of Michigan</p
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [873941253249981714]" altrender="box">1</container>
             <unittitle>Papers <unitdate type="inclusive" normal="1907">1907</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [873941253249981714]" altrender="box">1</container>
             <unittitle>Scrapbook <unitdate type="inclusive" normal="1907/1908">1907-1908</unitdate></unittitle>
           </did>
         </c02>
@@ -184,25 +186,25 @@ Roger Irving Wykes papers, Bentley Historical Library, University of Michigan</p
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [873941253249981714]" altrender="box">1</container>
             <unittitle><genreform normal="Scrapbooks">Scrapbook</genreform>, <unitdate type="inclusive" normal="1912/1920">1912-1920</unitdate> concerning Wykes' political activities</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [873941253249981714]" altrender="box">1</container>
             <unittitle>Miscellaneous family documents, autograph book, land abstract, etc.</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [873941253249981714]" altrender="box">1</container>
             <unittitle>Paper: "A Railway Rate Case; involving the power of, and limitations upon, public control and the means and procedure to, and the principles governing, relief from excesses of state authority"</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [873941253249981714]" altrender="box">1</container>
             <unittitle>Diary of Hattie Jennings of trip from Ann Arbor to Europe <unitdate type="inclusive" normal="1889">1889</unitdate></unittitle>
           </did>
         </c02>
@@ -213,13 +215,13 @@ Roger Irving Wykes papers, Bentley Historical Library, University of Michigan</p
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [873941253249981714]" altrender="box">1</container>
             <unittitle>Grand Rapids Gas Light Company v. Michigan Trust Company</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [873941253249981714]" altrender="box">1</container>
             <unittitle>Grand Rapids East Side Water Power <unitdate type="inclusive" normal="1926">1926</unitdate></unittitle>
           </did>
         </c02>
@@ -229,7 +231,7 @@ Roger Irving Wykes papers, Bentley Historical Library, University of Michigan</p
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [203486341195741]" altrender="box">2</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1913/1914">1913-1914</unitdate>
               </unittitle>
@@ -237,7 +239,7 @@ Roger Irving Wykes papers, Bentley Historical Library, University of Michigan</p
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [02903548724997190155]" altrender="box">3</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1913/1914">1913-1914</unitdate>
               </unittitle>

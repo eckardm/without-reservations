@@ -30,7 +30,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>University Archives and Records Program <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/2">University Archives and Records Program <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Band (University of Michigan) <lb/>Records, 1892, 1929-2012</titleproper>
       <author>Finding aid created by <lb/>Eric Uhl, February 1984 <lb/>Amanda Carvell, October 2004</author>
     </titlepage>
@@ -40,7 +40,9 @@
       <origination>
         <corpname source="lcnaf" encodinganalog="110">University of Michigan. Band.</corpname>
       </origination>
-      <unittitle encodinganalog="245">Band (University of Michigan) records <unitdate type="inclusive" encodinganalog="245$f" normal="1892">1892</unitdate>, <unitdate type="inclusive" encodinganalog="245$f" normal="1929/2012">1929-2012</unitdate></unittitle>
+      <unittitle encodinganalog="245">Band (University of Michigan) records</unittitle>
+      <unitdate type="inclusive" encodinganalog="245$f" normal="1892">1892</unitdate>
+      <unitdate type="inclusive" encodinganalog="245$f" normal="1929/2012">1929-2012</unitdate>
       <unitid encodinganalog="099" repositorycode="MiU-H" countrycode="us" type="call number">861154 BImu, Bimu F90 2, UBimul F90</unitid>
       <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language></langmaterial>
       <abstract>Established by students in 1896, the University of Michigan Band had its first salaried director in 1915. The William Revelli era (1935-1971) brought the Band to prominence as the marching, concert, and symphony bands toured and performed extensively, including a tour of Eastern Europe and the Soviet Union by the Symphony band in 1961. Records include scrapbooks of band activities, 1929-1977 (including photographs); bound volumes ("Blue Books"), 1936-present, containing band formations, newsletters, and announcements of band activities, also topical files relating to band tours and concerts. The Marching Band is best documented, although concert band, symphony band, and related ensembles are represented.</abstract>
@@ -198,35 +200,35 @@
       <controlaccess>
         <head>Subjects:</head>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n79085230">Cavender, George.</persname>
-        <genreform source="lcsh" encodinganalog="655">College publications.</genreform>
-        <subject source="lcsh" encodinganalog="650">Music--Michigan--Ann Arbor.</subject>
-        <subject source="lcsh" encodinganalog="650">Musicians--Michigan--Ann Arbor.</subject>
+        <genreform source="lcsh" encodinganalog="655" ref="/subjects/3431">College publications.</genreform>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5706">Music--Michigan--Ann Arbor.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5707">Musicians--Michigan--Ann Arbor.</subject>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n82217046">Revelli, William D. (William Donald), 1902-1994.</persname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan. Band.</corpname>
-        <genreform source="aat" encodinganalog="655">Scrapbooks.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3139">Scrapbooks.</genreform>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan--Football.</corpname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan--Bands.</corpname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n82063886">University of Michigan. School of Music.</corpname>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Materials:</head>
-        <subject source="lctgm" encodinganalog="650">Bands.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3646">Bands.</subject>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan. Band.</corpname>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan--Bands.</corpname>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n79085230">Cavender, George.</persname>
-        <subject source="lcsh" encodinganalog="650">September 11 Terrorist Attacks, 2001--Songs and music.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6067">September 11 Terrorist Attacks, 2001--Songs and music.</subject>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Sound Recordings:</head>
-        <subject source="lcsh" encodinganalog="650">Band music.</subject>
-        <subject source="lcsh" encodinganalog="650">Football--Songs and music.</subject>
-        <subject source="lcsh" encodinganalog="650">Students' songs--United States.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6068">Band music.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6069">Football--Songs and music.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6070">Students' songs--United States.</subject>
         <corpname source="lcnaf" encodinganalog="610">University of Michigan--Songs and music.</corpname>
-        <title source="local" authfilenumber="740">Hurrah for the yellow and blue.</title>
-        <title source="local" authfilenumber="740">Spirit of Michigan.</title>
-        <title source="local" authfilenumber="740">Halftime classics.</title>
-        <title source="local" authfilenumber="740">Fire up...it's Saturday.</title>
-        <title source="local" authfilenumber="740">It's all about blue.</title>
+        <title source="local" authfilenumber="740" ref="/subjects/200">Hurrah for the yellow and blue.</title>
+        <title source="local" authfilenumber="740" ref="/subjects/201">Spirit of Michigan.</title>
+        <title source="local" authfilenumber="740" ref="/subjects/202">Halftime classics.</title>
+        <title source="local" authfilenumber="740" ref="/subjects/203">Fire up...it's Saturday.</title>
+        <title source="local" authfilenumber="740" ref="/subjects/204">It's all about blue.</title>
       </controlaccess>
       <controlaccess>
         <head>Contributors:</head>
@@ -234,10 +236,10 @@
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
-        <genreform source="aat" encodinganalog="655">Videotapes.</genreform>
-        <genreform source="aat" encodinganalog="655">Scrapbooks.</genreform>
-        <genreform source="aat" encodinganalog="655">Sound recordings.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3140">Videotapes.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3139">Scrapbooks.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3143">Sound recordings.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -254,7 +256,7 @@
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [628652024289715404]" altrender="box">1</container>
               <unittitle>Princeton Game Trip <unitdate type="inclusive" normal="1931-10-31">October 31, 1931</unitdate></unittitle>
             </did>
           </c03>
@@ -265,181 +267,181 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [628652024289715404]" altrender="box">1</container>
               <unittitle>Northwestern Game Trip <unitdate type="inclusive" normal="1933-11-25">November 25, 1933</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [628652024289715404]" altrender="box">1</container>
               <unittitle>Minnesota Trip <unitdate type="inclusive" normal="1934-11-03">November 3, 1934</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [628652024289715404]" altrender="box">1</container>
               <unittitle>Illinois Game Trip <unitdate type="inclusive" normal="1935-11-09">November 9, 1935</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [628652024289715404]" altrender="box">1</container>
               <unittitle>Northwestern Game Trip <unitdate type="inclusive" normal="1937-10-09">October 9, 1937</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [628652024289715404]" altrender="box">1</container>
               <unittitle>Pennsylvania Game Trip <unitdate type="inclusive" normal="1936-11-07">November 7, 1936</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [628652024289715404]" altrender="box">1</container>
               <unittitle>ROTC Band Formations <unitdate type="inclusive" normal="1937/1939">1937/38-1938/39</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [628652024289715404]" altrender="box">1</container>
               <unittitle>Yale Game Trip <unitdate type="inclusive" normal="1938-10-22">October 22, 1938</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [628652024289715404]" altrender="box">1</container>
               <unittitle>Ohio Game Trip <unitdate type="inclusive" normal="1938-11-19">November 19, 1938</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [628652024289715404]" altrender="box">1</container>
               <unittitle>Chicago Game Trip <unitdate type="inclusive" normal="1939-10-21">October 21, 1939</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [628652024289715404]" altrender="box">1</container>
               <unittitle>Pennsylvania Game Trip <unitdate type="inclusive" normal="1939-11-18">November 18, 1939</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [628652024289715404]" altrender="box">1</container>
               <unittitle>Minnesota Game Trip <unitdate type="inclusive" normal="1940-11-09">November 9, 1940</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [628652024289715404]" altrender="box">1</container>
               <unittitle>Harvard Game Trip <unitdate type="inclusive" normal="1940-10-12">October 12, 1940</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [628652024289715404]" altrender="box">1</container>
               <unittitle>Columbia Game Trip <unitdate type="inclusive" normal="1941-11-15">November 15, 1941</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [628652024289715404]" altrender="box">1</container>
               <unittitle>Notre Dame Game Trip <unitdate type="inclusive" normal="1942-11-14">November 14, 1942</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [628652024289715404]" altrender="box">1</container>
               <unittitle>Northwestern Game Trip <unitdate type="inclusive" normal="1941-10-18">October 18, 1941</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [628652024289715404]" altrender="box">1</container>
               <unittitle>Northwestern Game Trip <unitdate type="inclusive" normal="1945-10-05">October 5, 1945</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [628652024289715404]" altrender="box">1</container>
               <unittitle>Minnesota Game Trip <unitdate type="inclusive" normal="1946-11-02">November 2, 1946</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [628652024289715404]" altrender="box">1</container>
               <unittitle>Ohio State Game Trip <unitdate type="inclusive" normal="1945-11-13">November 13, 1945</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [628652024289715404]" altrender="box">1</container>
               <unittitle>Northwestern Game Trip <unitdate type="inclusive" normal="1947-10-18">October 18, 1947</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [628652024289715404]" altrender="box">1</container>
               <unittitle>Purdue Game Trip <unitdate type="inclusive" normal="1948-10-09">October 9, 1948</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [628652024289715404]" altrender="box">1</container>
               <unittitle>Ohio State Game Trip <unitdate type="inclusive" normal="1948-11-22">November 22, 1948</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [628652024289715404]" altrender="box">1</container>
               <unittitle>Minnesota Game Trip <unitdate type="inclusive" normal="1948-10-23">October 23, 1948</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [628652024289715404]" altrender="box">1</container>
               <unittitle>Rose Bowl Trip <unitdate type="inclusive" normal="1948">1948</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [628652024289715404]" altrender="box">1</container>
               <unittitle>Band Trips <unitdate type="inclusive" normal="1949">1949</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [628652024289715404]" altrender="box">1</container>
               <unittitle>Northwestern Game Trip <unitdate type="inclusive" normal="1949-10-15">October 15, 1949</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [628652024289715404]" altrender="box">1</container>
               <unittitle>Illinois Game Trip <unitdate type="inclusive" normal="1949-10-29">October 29, 1949</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [628652024289715404]" altrender="box">1</container>
               <unittitle>Army Game Trip <unitdate type="inclusive" normal="1950-10-14">October 14, 1950</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [628652024289715404]" altrender="box">1</container>
               <unittitle>Minnesota Game Trip <unitdate type="inclusive" normal="1950-10-28">October 28, 1950</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [628652024289715404]" altrender="box">1</container>
               <unittitle>Ohio State Game Trip <unitdate type="inclusive" normal="1950-11-25">November 25, 1950</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [9969394624009610947]" altrender="box">2</container>
               <unittitle>Cornell Game Trip <unitdate type="inclusive" normal="1951-11-10">November 10, 1951</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">8 folders</extent>
@@ -448,7 +450,7 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [9969394624009610947]" altrender="box">2</container>
               <unittitle>Rose Bowl Trip <unitdate type="inclusive" normal="1951-01-01">January 1, 1951</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">7 folders</extent>
@@ -457,223 +459,223 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [9969394624009610947]" altrender="box">2</container>
               <unittitle>Northwestern Game Trip <unitdate type="inclusive" normal="1952-10-18">October 18, 1952</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [9969394624009610947]" altrender="box">2</container>
               <unittitle>Ohio State Game Trip <unitdate type="inclusive" normal="1952-11-22">November 22, 1952</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [9969394624009610947]" altrender="box">2</container>
               <unittitle>Minnesota Trip <unitdate type="inclusive" normal="1953-10-24">October 24, 1953</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [9969394624009610947]" altrender="box">2</container>
               <unittitle>Michigan State Trip <unitdate type="inclusive" normal="1953-11-14">November 14, 1953</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [9969394624009610947]" altrender="box">2</container>
               <unittitle>Michigan Bands <unitdate type="inclusive" normal="1953/1954">1953-1954</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [9969394624009610947]" altrender="box">2</container>
               <unittitle>Michigan Marching Band <unitdate type="inclusive" normal="1954/1955">1954-1955</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [9969394624009610947]" altrender="box">2</container>
               <unittitle>Northwestern Game Trip <unitdate type="inclusive" normal="1954-10-16">October 16, 1954</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [9969394624009610947]" altrender="box">2</container>
               <unittitle>Ohio State Game Trip <unitdate type="inclusive" normal="1954-11-20">November 20, 1954</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [9969394624009610947]" altrender="box">2</container>
               <unittitle>Marching Band <unitdate type="inclusive" normal="1955/1956">1955-1956</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">1</container>
+              <container type="volume" label="Oversize Volume [09796645143286924281638]" altrender="volume">1</container>
               <unittitle>Marching Band Clinic <unitdate type="inclusive" normal="1955">1955</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">2</container>
+              <container type="volume" label="Oversize Volume [9788264444001]" altrender="volume">2</container>
               <unittitle>Minnesota Game Trip <unitdate type="inclusive" normal="1955-10-22">October 22, 1955</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">3</container>
+              <container type="volume" label="Oversize Volume [3487524774196630493128]" altrender="volume">3</container>
               <unittitle>Michigan-Illinois Game Trip <unitdate type="inclusive" normal="1955-11-05">November 5, 1955</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">4</container>
+              <container type="volume" label="Oversize Volume [91739048528545339365]" altrender="volume">4</container>
               <unittitle>Marching Band <unitdate type="inclusive" normal="1956/1957">1956-1957</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">5</container>
+              <container type="volume" label="Oversize Volume [9053434040903807956]" altrender="volume">5</container>
               <unittitle>Iowa Game Trip <unitdate type="inclusive" normal="1956-11-03">November 3, 1956</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">6</container>
+              <container type="volume" label="Oversize Volume [783562204958738692798]" altrender="volume">6</container>
               <unittitle>Marching Band Clinic <unitdate type="inclusive" normal="1956">1956</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">7</container>
+              <container type="volume" label="Oversize Volume [383080545471566819785]" altrender="volume">7</container>
               <unittitle>Marching Band <unitdate type="inclusive" normal="1957/1958">1957-1958</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">8</container>
+              <container type="volume" label="Oversize Volume [16493934408255568440]" altrender="volume">8</container>
               <unittitle>Minnesota Trip <unitdate type="inclusive" normal="1957">1957</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">9</container>
+              <container type="volume" label="Oversize Volume [326939243684560276025]" altrender="volume">9</container>
               <unittitle>Iowa Game Trip <unitdate type="inclusive" normal="1957-11-02">November 2, 1957</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">10</container>
+              <container type="volume" label="Oversize Volume [829227427043925017936919]" altrender="volume">10</container>
               <unittitle>Marching Band <unitdate type="inclusive" normal="1958/1959">1958-1959</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">11</container>
+              <container type="volume" label="Oversize Volume [1810175497344003142411735]" altrender="volume">11</container>
               <unittitle>Michigan State Trip <unitdate type="inclusive" normal="1958-10-04">October 4, 1958</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">12</container>
+              <container type="volume" label="Oversize Volume [9051875412035293625]" altrender="volume">12</container>
               <unittitle>Northwestern Trip <unitdate type="inclusive" normal="1958-10-18">October 18, 1958</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">13</container>
+              <container type="volume" label="Oversize Volume [68929704183981521284]" altrender="volume">13</container>
               <unittitle>Marching Band <unitdate type="inclusive" normal="1959/1960">1959-1960</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">14</container>
+              <container type="volume" label="Oversize Volume [24217419586257721118]" altrender="volume">14</container>
               <unittitle>Indiana Trip <unitdate type="inclusive" normal="1959-11-14">November 14, 1959</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">15</container>
+              <container type="volume" label="Oversize Volume [497926947409529619127]" altrender="volume">15</container>
               <unittitle>Marching Band <unitdate type="inclusive" normal="1960/1961">1960-1961</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">16</container>
+              <container type="volume" label="Oversize Volume [8019951421457963957406974]" altrender="volume">16</container>
               <unittitle>Michigan State Trip <unitdate type="inclusive" normal="1960-10-01">October 1, 1960</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [1729980824492137676283]" altrender="box">3</container>
               <unittitle>Wisconsin Trip <unitdate type="inclusive" normal="1960-10-28/1960-10-29">October 28-29, 1960</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [1729980824492137676283]" altrender="box">3</container>
               <unittitle>Marching Band <unitdate type="inclusive" normal="1961/1962">1961-1962</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [1729980824492137676283]" altrender="box">3</container>
               <unittitle>Minnesota Trip <unitdate type="inclusive" normal="1961-10-27/1961-10-29">October 27-29, 1961</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [1729980824492137676283]" altrender="box">3</container>
               <unittitle>Marching Band <unitdate type="inclusive" normal="1962/1963">1962-1963</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [1729980824492137676283]" altrender="box">3</container>
               <unittitle>Michigan State Trip <unitdate type="inclusive" normal="1962-10-13">October 13, 1962</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [1729980824492137676283]" altrender="box">3</container>
               <unittitle>Purdue Trip <unitdate type="inclusive" normal="1962-10-20">October 20, 1962</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [1729980824492137676283]" altrender="box">3</container>
               <unittitle>Marching Band <unitdate type="inclusive" normal="1963/1964">1963-1964</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [1729980824492137676283]" altrender="box">3</container>
               <unittitle>Minnesota Trip <unitdate type="inclusive" normal="1963">1963</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [1729980824492137676283]" altrender="box">3</container>
               <unittitle>Marching Band European Tour <unitdate type="inclusive" normal="1964">1964</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [1729980824492137676283]" altrender="box">3</container>
               <unittitle>Marching Band <unitdate type="inclusive" normal="1964/1965">1964-1965</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [1729980824492137676283]" altrender="box">3</container>
               <unittitle>Michigan State Trip <unitdate type="inclusive" normal="1964-10-10">October 10, 1964</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [1729980824492137676283]" altrender="box">3</container>
               <unittitle>Ohio State Trip <unitdate type="inclusive" normal="1964-11-20/1964-11-21">November 20-21, 1964</unitdate></unittitle>
             </did>
           </c03>
@@ -684,7 +686,7 @@
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [1729980824492137676283]" altrender="box">3</container>
               <unittitle>Correspondence <unitdate type="inclusive" normal="1926/1945">1926-1945</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -693,7 +695,7 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [1729980824492137676283]" altrender="box">3</container>
               <unittitle>Papers Concerning Varsity Night Performances <unitdate type="inclusive" normal="1946/1955">1946-1955</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">5 folders</extent>
@@ -702,7 +704,7 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [1729980824492137676283]" altrender="box">3</container>
               <unittitle>Papers Concerning the City Concerts <unitdate type="inclusive" normal="1934/1950">1934-1950</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -711,7 +713,7 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [1729980824492137676283]" altrender="box">3</container>
               <unittitle>Papers Concerning the Spring Tours <unitdate type="inclusive" normal="1948/1949">1948-1949</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -720,49 +722,49 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [1729980824492137676283]" altrender="box">3</container>
               <unittitle>Papers Concerning the Philadelphia Concert <unitdate type="inclusive" normal="1952">1952</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [124394719400814875]" altrender="box">4</container>
               <unittitle>Michigan Bands <unitdate type="inclusive" normal="1953/1954">1953-1954</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [124394719400814875]" altrender="box">4</container>
               <unittitle>University Bands News Releases <unitdate type="inclusive" normal="1953/1954">1953-1954</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [124394719400814875]" altrender="box">4</container>
               <unittitle>Papers Concerning the Symphony Band Mid-Semester Tour <unitdate type="inclusive" normal="1954">1954</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [124394719400814875]" altrender="box">4</container>
               <unittitle>Symphony Band Spring Tour <unitdate type="inclusive" normal="1954">1954</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [124394719400814875]" altrender="box">4</container>
               <unittitle>Michigan Bands Tour Arrangements <unitdate type="inclusive" normal="1954/1955">1954-1955</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [124394719400814875]" altrender="box">4</container>
               <unittitle>University Bands News Releases <unitdate type="inclusive" normal="1954/1955">1954-1955</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [124394719400814875]" altrender="box">4</container>
               <unittitle>Symphony Band Spring Tour <unitdate type="inclusive" normal="1955">1955</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">3 folders</extent>
@@ -771,79 +773,79 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [124394719400814875]" altrender="box">4</container>
               <unittitle>Carnegie Hall ticket Arrangements <unitdate type="inclusive" normal="1955-04-08">April 8, 1955</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [124394719400814875]" altrender="box">4</container>
               <unittitle>Carnegie Hall concert <unitdate type="inclusive" normal="1955-04-08">April 8, 1955</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [124394719400814875]" altrender="box">4</container>
               <unittitle>Symphony Band Between Semester Tour <unitdate type="inclusive" normal="1955">1955</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [124394719400814875]" altrender="box">4</container>
               <unittitle>Symphony Band Spring Tour <unitdate type="inclusive" normal="1956">1956</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [124394719400814875]" altrender="box">4</container>
               <unittitle>Varsity Night Concert <unitdate type="inclusive" normal="1956-10-13">October 13, 1956</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [124394719400814875]" altrender="box">4</container>
               <unittitle>Orchestra Hall Ticket Orders <unitdate type="inclusive" normal="1956-12-14">December 14, 1956</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [124394719400814875]" altrender="box">4</container>
               <unittitle>Symphony Band December Tour <unitdate type="inclusive" normal="1956">1956</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [124394719400814875]" altrender="box">4</container>
               <unittitle>Symphony Band <unitdate type="inclusive" normal="1955/1956">1955-1956</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [124394719400814875]" altrender="box">4</container>
               <unittitle>Michigan Bands Miscellaneous <unitdate type="inclusive" normal="1955/1956">1955-1956</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [124394719400814875]" altrender="box">4</container>
               <unittitle>University Bands News Releases <unitdate type="inclusive" normal="1955/1956">1955-1956</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [124394719400814875]" altrender="box">4</container>
               <unittitle>Michigan Bands-Miscellaneous <unitdate type="inclusive" normal="1956/1957">1956-1957</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [124394719400814875]" altrender="box">4</container>
               <unittitle>Symphony Band <unitdate type="inclusive" normal="1956/1957">1956-1957</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [124394719400814875]" altrender="box">4</container>
               <unittitle>Symphony Band Spring Tour <unitdate type="inclusive" normal="1957">1957</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -852,37 +854,37 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [124394719400814875]" altrender="box">4</container>
               <unittitle>Varsity Night <unitdate type="inclusive" normal="1957-10-11">October 11, 1957</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [124394719400814875]" altrender="box">4</container>
               <unittitle>University Bands News Releases <unitdate type="inclusive" normal="1956/1957">1956-1957</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [124394719400814875]" altrender="box">4</container>
               <unittitle>Varsity Night <unitdate type="inclusive" normal="1958-10-31">October 31, 1958</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [124394719400814875]" altrender="box">4</container>
               <unittitle>University Bands News Releases <unitdate type="inclusive" normal="1957/1958">1957-1958</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [124394719400814875]" altrender="box">4</container>
               <unittitle>Symphony Band <unitdate type="inclusive" normal="1957/1958">1957-1958</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [8084062948288022]" altrender="box">5</container>
               <unittitle>Symphony Band Spring Tour <unitdate type="inclusive" normal="1958">1958</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -891,49 +893,49 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [8084062948288022]" altrender="box">5</container>
               <unittitle>Symphony Band <unitdate type="inclusive" normal="1958/1959">1958-1959</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [8084062948288022]" altrender="box">5</container>
               <unittitle>University Bands News Releases <unitdate type="inclusive" normal="1958/1959">1958-1959</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [8084062948288022]" altrender="box">5</container>
               <unittitle>Philadelphia Orchestra <unitdate type="inclusive" normal="1958/1959">1958-1959</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [8084062948288022]" altrender="box">5</container>
               <unittitle>Symphony Band Spring Tour <unitdate type="inclusive" normal="1959-03-20/1959-04-05">March 30-April 5, 1959</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [8084062948288022]" altrender="box">5</container>
               <unittitle>Varsity Night <unitdate type="inclusive" normal="1959-10-16">October 16, 1959</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [8084062948288022]" altrender="box">5</container>
               <unittitle>Carnegie Hall Concert <unitdate type="inclusive" normal="1960-03-28">March 28, 1960</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [8084062948288022]" altrender="box">5</container>
               <unittitle>Carnegie Hall Concert Ticket Orders <unitdate type="inclusive" normal="1960">1960</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [8084062948288022]" altrender="box">5</container>
               <unittitle>Symphony Band Spring Tour <unitdate type="inclusive" normal="1960">1960</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -942,61 +944,61 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [8084062948288022]" altrender="box">5</container>
               <unittitle>Dave Brubeck Quartet <unitdate type="inclusive" normal="1960-09-23">September 23, 1960</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [8084062948288022]" altrender="box">5</container>
               <unittitle>Symphony Band <unitdate type="inclusive" normal="1959/1960">1959-1960</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [8084062948288022]" altrender="box">5</container>
               <unittitle>University Band News Releases <unitdate type="inclusive" normal="1959/1960">1959-1960</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [8084062948288022]" altrender="box">5</container>
               <unittitle>Stan Kenton Show <unitdate type="inclusive" normal="1960">1960</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [8084062948288022]" altrender="box">5</container>
               <unittitle>Symphony Band Requisitions <unitdate type="inclusive" normal="1960/1961">1960-1961</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [8084062948288022]" altrender="box">5</container>
               <unittitle>Symphony Band <unitdate type="inclusive" normal="1960/1961">1960-1961</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [8084062948288022]" altrender="box">5</container>
               <unittitle>University Bands News Releases <unitdate type="inclusive" normal="1960/1961">1960-1961</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [8084062948288022]" altrender="box">5</container>
               <unittitle>Symphony Band Spring Tour <unitdate type="inclusive" normal="1961">1961</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [8084062948288022]" altrender="box">5</container>
               <unittitle>Four Freshmen <unitdate type="inclusive" normal="1961">1961</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [8084062948288022]" altrender="box">5</container>
               <unittitle>Symphony Band Russian Tour <unitdate type="inclusive" normal="1961">1961</unitdate></unittitle>
             </did>
             <odd>
@@ -1005,133 +1007,133 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [8084062948288022]" altrender="box">5</container>
               <unittitle>Symphony Band Russian Tour News Releases <unitdate type="inclusive" normal="1961">1961</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [8084062948288022]" altrender="box">5</container>
               <unittitle>Carnegie Hall Concert <unitdate type="inclusive" normal="1961-06">June 1961</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [8084062948288022]" altrender="box">5</container>
               <unittitle>Carnegie Hall Concert Ticket Requests <unitdate type="inclusive" normal="1961">1961</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [8084062948288022]" altrender="box">5</container>
               <unittitle>Carnegie Hall Ticket Orders filled <unitdate type="inclusive" normal="1961">1961</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [8084062948288022]" altrender="box">5</container>
               <unittitle>University Bands News Releases <unitdate type="inclusive" normal="1961/1962">1961-1962</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [8084062948288022]" altrender="box">5</container>
               <unittitle>Symphony Band Future Concerts <unitdate type="inclusive" normal="1961/1962">1961-1962</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [8084062948288022]" altrender="box">5</container>
               <unittitle>Symphony Band Requisitions <unitdate type="inclusive" normal="1961/1962">1961-1962</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [8084062948288022]" altrender="box">5</container>
               <unittitle>Symphony Band <unitdate type="inclusive" normal="1961/1962">1961-1962</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">6</container>
+              <container type="box" label="Box [76933019894448913389801]" altrender="box">6</container>
               <unittitle>MENC Trip <unitdate type="inclusive" normal="1962-03-16/1962-03-18">March 16-18, 1962</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [8084062948288022]" altrender="box">5</container>
               <unittitle>Symphony Band Spring Tour <unitdate type="inclusive" normal="1962">1962</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [8084062948288022]" altrender="box">5</container>
               <unittitle>Victor Borge <unitdate type="inclusive" normal="1962-10-05">October 5, 1962</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [8084062948288022]" altrender="box">5</container>
               <unittitle>Symphony Band Between Semester Tour <unitdate type="inclusive" normal="1962">1962</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [8084062948288022]" altrender="box">5</container>
               <unittitle>Symphony Band <unitdate type="inclusive" normal="1962/1963">1962-1963</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [8084062948288022]" altrender="box">5</container>
               <unittitle>Symphony Band Spring Tour <unitdate type="inclusive" normal="1963">1963</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [8084062948288022]" altrender="box">5</container>
               <unittitle>Symphony Band <unitdate type="inclusive" normal="1963/1964">1963-1964</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [8084062948288022]" altrender="box">5</container>
               <unittitle>University Bands News Releases <unitdate type="inclusive" normal="1963/1964">1963-1964</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [8084062948288022]" altrender="box">5</container>
               <unittitle>Al Hirt Sextet <unitdate type="inclusive" normal="1963-10-04">October 4, 1963</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [8084062948288022]" altrender="box">5</container>
               <unittitle>Future Concerts <unitdate type="inclusive" normal="1964/1965">1964-1965</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [8084062948288022]" altrender="box">5</container>
               <unittitle>Symphony Band Spring Tour <unitdate type="inclusive" normal="1964">1964</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [8084062948288022]" altrender="box">5</container>
               <unittitle>Victor Borge <unitdate type="inclusive" normal="1964-10-16">October 16, 1964</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [8084062948288022]" altrender="box">5</container>
               <unittitle>Symphony Band Weekend Tour <unitdate type="inclusive" normal="1965">1965</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">5</container>
+              <container type="box" label="Box [8084062948288022]" altrender="box">5</container>
               <unittitle>Survey on Band Awards</unittitle>
             </did>
           </c03>
@@ -1146,7 +1148,7 @@
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">7</container>
+            <container type="box" label="Box [942103064253234173]" altrender="box">7</container>
             <unittitle>
               <unitdate type="inclusive" normal="1981/1995">1981-1995</unitdate>
             </unittitle>
@@ -1158,7 +1160,9 @@
       </c01>
       <c01 level="series">
         <did>
-          <unittitle>Photographs and Posters <unitdate type="inclusive" normal="1892">1892</unitdate>, <unitdate type="inclusive" normal="1949/1980">1949-1980</unitdate></unittitle>
+          <unittitle>Photographs and Posters</unittitle>
+          <unitdate type="inclusive" normal="1892">1892</unitdate>
+          <unitdate type="inclusive" normal="1949/1980">1949-1980</unitdate>
         </did>
         <scopecontent>
           <p>The series Photographs and Posters (1892, 1949-1980) is comprised of outsized photographs and posters. Photographs include the Symphony Band, 1958-1963, various "Band Day" events, a 1970s football formation, and a 1980 formation spelling out Revelli. Also included is an 1892 group photo identified as "University of Michigan Band." Posters announcing concerts during the period 1958 to 1963 are included along with several large format posters from the Soviet Union and Eastern Europe promoting the band's 1961 tour. Foreign newspapers on the 1961 tour are also included.</p>
@@ -1169,7 +1173,7 @@
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Oversize Box">8</container>
+              <container type="box" label="Oversize Box [36942034440201524645552315]" altrender="box">8</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1892">1892</unitdate>
               </unittitle>
@@ -1177,7 +1181,7 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Oversize Box">8</container>
+              <container type="box" label="Oversize Box [36942034440201524645552315]" altrender="box">8</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1940" certainty="approximate">circa 1940</unitdate>
               </unittitle>
@@ -1185,7 +1189,7 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Oversize Box">8</container>
+              <container type="box" label="Oversize Box [36942034440201524645552315]" altrender="box">8</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1951">1951</unitdate>
               </unittitle>
@@ -1193,37 +1197,37 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="folder" label="Oversize Folder">UBimul-F90</container>
+              <container type="folder" label="Oversize Folder [502078640089051270495]" altrender="folder">UBimul-F90</container>
               <unittitle>Band Day <unitdate type="inclusive" normal="1949">1949</unitdate> (located in outsize folder-UBimul F90)</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Oversize Box">8</container>
+              <container type="box" label="Oversize Box [36942034440201524645552315]" altrender="box">8</container>
               <unittitle>Band Day Chart <unitdate type="inclusive" normal="1951">1951</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="folder" label="Oversize Folder">UBimul-F90</container>
+              <container type="folder" label="Oversize Folder [502078640089051270495]" altrender="folder">UBimul-F90</container>
               <unittitle>Band Day <unitdate type="inclusive" normal="1952">1952</unitdate> (located in outsize folder-UBimu F90)</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Oversize Box">8</container>
+              <container type="box" label="Oversize Box [36942034440201524645552315]" altrender="box">8</container>
               <unittitle>Symphony Band <unitdate type="inclusive" normal="1958/1959">1958/1959</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Oversize Box">8</container>
+              <container type="box" label="Oversize Box [36942034440201524645552315]" altrender="box">8</container>
               <unittitle>Symphony Band <unitdate type="inclusive" normal="1960">1960</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Oversize Box">8</container>
+              <container type="box" label="Oversize Box [36942034440201524645552315]" altrender="box">8</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1960">1960</unitdate>
               </unittitle>
@@ -1231,19 +1235,19 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Oversize Box">8</container>
+              <container type="box" label="Oversize Box [36942034440201524645552315]" altrender="box">8</container>
               <unittitle>Symphony Band <unitdate type="inclusive" normal="1962/1963">1962-1963</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Oversize Box">8</container>
+              <container type="box" label="Oversize Box [36942034440201524645552315]" altrender="box">8</container>
               <unittitle>Football Formation (color) <unitdate type="inclusive" normal="1975" certainty="approximate">circa 1975</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Oversize Box">8</container>
+              <container type="box" label="Oversize Box [36942034440201524645552315]" altrender="box">8</container>
               <unittitle>Revelli Formation <unitdate type="inclusive" normal="1980">1980</unitdate></unittitle>
             </did>
           </c03>
@@ -1254,7 +1258,7 @@
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Oversize Box">8</container>
+              <container type="box" label="Oversize Box [36942034440201524645552315]" altrender="box">8</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1958/1963">1958-1963</unitdate>
               </unittitle>
@@ -1262,7 +1266,7 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="folder" label="Oversize Folder">UBimul F90</container>
+              <container type="folder" label="Oversize Folder [661793000460548740094]" altrender="folder">UBimul F90</container>
               <unittitle>Russia and Eastern Europe Tour <unitdate type="inclusive" normal="1961">1961</unitdate></unittitle>
             </did>
           </c03>
@@ -1290,7 +1294,7 @@
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">9</container>
+                <container type="box" label="Box [945223847308291544]" altrender="box">9</container>
                 <unittitle>"Fire Up . . . It's Saturday: Highlights of The Michigan Marching Band, Eric A, Becher, Conductor," <unitdate type="inclusive" normal="1980/1989" certainty="approximate">circa 1980s</unitdate></unittitle>
               </did>
             </c04>
@@ -1301,43 +1305,45 @@
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">9</container>
-                <unittitle>"Halftime Classics: The University of Michigan Marching Band <unitdate type="inclusive" normal="1977/1978">1977-1978</unitdate> George R. Cavender, Conductor," <unitdate type="inclusive" normal="1978">1978</unitdate></unittitle>
+                <container type="box" label="Box [945223847308291544]" altrender="box">9</container>
+                <unittitle>"Halftime Classics: The University of Michigan Marching Band 1977-1978 George R. Cavender, Conductor," 1978</unittitle>
+                <unitdate type="inclusive" normal="1977/1978">1977-1978</unitdate>
+                <unitdate type="inclusive" normal="1978">1978</unitdate>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">9</container>
+                <container type="box" label="Box [945223847308291544]" altrender="box">9</container>
                 <unittitle>"Fire Up . . . It's Saturday: Highlights of The Michigan Marching Band, Eric A, Becher, Conductor," <unitdate type="inclusive" normal="1980/1989" certainty="approximate">circa 1980s</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">9</container>
+                <container type="box" label="Box [945223847308291544]" altrender="box">9</container>
                 <unittitle>"A Saturday Tradition," <unitdate type="inclusive" normal="1993">1993</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">9</container>
+                <container type="box" label="Box [945223847308291544]" altrender="box">9</container>
                 <unittitle>"Hurrah for the Yellow and Blue: Michigan Marching Band, Kevin L. Seatole, Director," <unitdate type="inclusive" normal="1998">1998</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">9</container>
+                <container type="box" label="Box [945223847308291544]" altrender="box">9</container>
                 <unittitle>"Michigan Championship Celebration</unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">9</container>
+                <container type="box" label="Box [945223847308291544]" altrender="box">9</container>
                 <unittitle>"The Spirit of Michigan: Michigan Marching Band, Men's Glee Club, Women's Glee Club," <unitdate type="inclusive" normal="1998">1998</unitdate></unittitle>
               </did>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">9</container>
+                <container type="box" label="Box [945223847308291544]" altrender="box">9</container>
                 <unittitle>"It's All About Blue: Marching Band 1999-2000,"</unittitle>
               </did>
             </c04>
@@ -1349,7 +1355,7 @@
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">9</container>
+              <container type="box" label="Box [945223847308291544]" altrender="box">9</container>
               <unittitle>George Cavender Interview with Jeff Wohl <unitdate type="inclusive" normal="1998-03">March 1998</unitdate></unittitle>
             </did>
           </c03>
@@ -1359,7 +1365,7 @@
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">9</container>
+                <container type="box" label="Box [945223847308291544]" altrender="box">9</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1990">1990</unitdate>
                 </unittitle>
@@ -1370,7 +1376,7 @@
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">9</container>
+                <container type="box" label="Box [945223847308291544]" altrender="box">9</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1991">1991</unitdate>
                 </unittitle>
@@ -1378,7 +1384,7 @@
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">9</container>
+                <container type="box" label="Box [945223847308291544]" altrender="box">9</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1995">1995</unitdate>
                 </unittitle>
@@ -1389,7 +1395,7 @@
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">9</container>
+                <container type="box" label="Box [945223847308291544]" altrender="box">9</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1996">1996</unitdate>
                 </unittitle>
@@ -1400,7 +1406,7 @@
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">9</container>
+                <container type="box" label="Box [945223847308291544]" altrender="box">9</container>
                 <unittitle>
                   <unitdate type="inclusive" normal="1999">1999</unitdate>
                 </unittitle>
@@ -1409,25 +1415,25 @@
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">9</container>
+              <container type="box" label="Box [945223847308291544]" altrender="box">9</container>
               <unittitle>"A Michigan Tribute" (Victims of September 11, 2001) <unitdate type="inclusive" normal="2001">2001</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">9</container>
+              <container type="box" label="Box [945223847308291544]" altrender="box">9</container>
               <unittitle>"Take the Field" Volume I <unitdate type="inclusive" normal="1985">1985</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">9</container>
+              <container type="box" label="Box [945223847308291544]" altrender="box">9</container>
               <unittitle>"Take the Field" Volume II <unitdate type="inclusive" normal="1989">1989</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">9</container>
+              <container type="box" label="Box [945223847308291544]" altrender="box">9</container>
               <unittitle>"Take the Field Volume III Saturday Fantastique," <unitdate type="inclusive" normal="2001">2001</unitdate></unittitle>
             </did>
           </c03>
@@ -1442,7 +1448,7 @@
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">17</container>
+            <container type="volume" label="Oversize Volume [061861448568093637]" altrender="volume">17</container>
             <unittitle>
               <unitdate type="inclusive" normal="1936/1945">1936-1945</unitdate>
             </unittitle>
@@ -1450,7 +1456,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">18</container>
+            <container type="volume" label="Oversize Volume [601258947447995008719]" altrender="volume">18</container>
             <unittitle>
               <unitdate type="inclusive" normal="1946">1946</unitdate>
             </unittitle>
@@ -1461,7 +1467,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">19</container>
+            <container type="volume" label="Oversize Volume [04816632479289142718167]" altrender="volume">19</container>
             <unittitle>
               <unitdate type="inclusive" normal="1949/1951">1949-1951</unitdate>
             </unittitle>
@@ -1469,7 +1475,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">20</container>
+            <container type="volume" label="Oversize Volume [518046964678411377670]" altrender="volume">20</container>
             <unittitle>
               <unitdate type="inclusive" normal="1952">1952</unitdate>
             </unittitle>
@@ -1477,7 +1483,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">21</container>
+            <container type="volume" label="Oversize Volume [328098944445382525]" altrender="volume">21</container>
             <unittitle>
               <unitdate type="inclusive" normal="1953">1953</unitdate>
             </unittitle>
@@ -1485,7 +1491,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">22</container>
+            <container type="volume" label="Oversize Volume [28635731849658591050636]" altrender="volume">22</container>
             <unittitle>
               <unitdate type="inclusive" normal="1954">1954</unitdate>
             </unittitle>
@@ -1493,7 +1499,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">23</container>
+            <container type="volume" label="Oversize Volume [194765344897286453214]" altrender="volume">23</container>
             <unittitle>
               <unitdate type="inclusive" normal="1955">1955</unitdate>
             </unittitle>
@@ -1501,7 +1507,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">24</container>
+            <container type="volume" label="Oversize Volume [9824806846284217438142]" altrender="volume">24</container>
             <unittitle>
               <unitdate type="inclusive" normal="1956">1956</unitdate>
             </unittitle>
@@ -1509,7 +1515,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">25</container>
+            <container type="volume" label="Oversize Volume [64976974759470202779]" altrender="volume">25</container>
             <unittitle>
               <unitdate type="inclusive" normal="1957">1957</unitdate>
             </unittitle>
@@ -1517,7 +1523,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">26</container>
+            <container type="volume" label="Oversize Volume [1690736704445991481388]" altrender="volume">26</container>
             <unittitle>
               <unitdate type="inclusive" normal="1958">1958</unitdate>
             </unittitle>
@@ -1525,7 +1531,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">27</container>
+            <container type="volume" label="Oversize Volume [66761481406902518454]" altrender="volume">27</container>
             <unittitle>
               <unitdate type="inclusive" normal="1959">1959</unitdate>
             </unittitle>
@@ -1533,7 +1539,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">28</container>
+            <container type="volume" label="Oversize Volume [038152214116435975925813]" altrender="volume">28</container>
             <unittitle>
               <unitdate type="inclusive" normal="1960">1960</unitdate>
             </unittitle>
@@ -1541,7 +1547,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">29</container>
+            <container type="volume" label="Oversize Volume [9250635321403539064865632]" altrender="volume">29</container>
             <unittitle>
               <unitdate type="inclusive" normal="1961">1961</unitdate>
             </unittitle>
@@ -1549,7 +1555,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">30</container>
+            <container type="volume" label="Oversize Volume [94055528745826344359]" altrender="volume">30</container>
             <unittitle>
               <unitdate type="inclusive" normal="1962">1962</unitdate>
             </unittitle>
@@ -1557,7 +1563,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">31</container>
+            <container type="volume" label="Oversize Volume [5856795285841108620383452]" altrender="volume">31</container>
             <unittitle>
               <unitdate type="inclusive" normal="1963">1963</unitdate>
             </unittitle>
@@ -1565,7 +1571,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">32</container>
+            <container type="volume" label="Oversize Volume [7946034494579930263753283]" altrender="volume">32</container>
             <unittitle>
               <unitdate type="inclusive" normal="1964">1964</unitdate>
             </unittitle>
@@ -1573,7 +1579,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">33</container>
+            <container type="volume" label="Oversize Volume [476014930244]" altrender="volume">33</container>
             <unittitle>
               <unitdate type="inclusive" normal="1965">1965</unitdate>
             </unittitle>
@@ -1581,7 +1587,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">34</container>
+            <container type="volume" label="Oversize Volume [82751825349692135281816]" altrender="volume">34</container>
             <unittitle>
               <unitdate type="inclusive" normal="1966">1966</unitdate>
             </unittitle>
@@ -1589,7 +1595,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">35</container>
+            <container type="volume" label="Oversize Volume [775527524840587995884174]" altrender="volume">35</container>
             <unittitle>
               <unitdate type="inclusive" normal="1967">1967</unitdate>
             </unittitle>
@@ -1597,7 +1603,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">36</container>
+            <container type="volume" label="Oversize Volume [39269194441989375]" altrender="volume">36</container>
             <unittitle>
               <unitdate type="inclusive" normal="1968">1968</unitdate>
             </unittitle>
@@ -1605,7 +1611,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">37</container>
+            <container type="volume" label="Oversize Volume [9870734843438812921]" altrender="volume">37</container>
             <unittitle>
               <unitdate type="inclusive" normal="1969">1969</unitdate>
             </unittitle>
@@ -1613,7 +1619,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">38</container>
+            <container type="volume" label="Oversize Volume [926604490685115148]" altrender="volume">38</container>
             <unittitle>
               <unitdate type="inclusive" normal="1970">1970</unitdate>
             </unittitle>
@@ -1621,7 +1627,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">39</container>
+            <container type="volume" label="Oversize Volume [1173029415764863294]" altrender="volume">39</container>
             <unittitle>
               <unitdate type="inclusive" normal="1971">1971</unitdate>
             </unittitle>
@@ -1629,7 +1635,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">40</container>
+            <container type="volume" label="Oversize Volume [931373811254874720819787]" altrender="volume">40</container>
             <unittitle>
               <unitdate type="inclusive" normal="1972">1972</unitdate>
             </unittitle>
@@ -1637,7 +1643,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">41</container>
+            <container type="volume" label="Oversize Volume [889175341195222689]" altrender="volume">41</container>
             <unittitle>
               <unitdate type="inclusive" normal="1973">1973</unitdate>
             </unittitle>
@@ -1645,7 +1651,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">42</container>
+            <container type="volume" label="Oversize Volume [5888354346732468331625]" altrender="volume">42</container>
             <unittitle>
               <unitdate type="inclusive" normal="1974">1974</unitdate>
             </unittitle>
@@ -1653,7 +1659,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">43</container>
+            <container type="volume" label="Oversize Volume [3792754440928247351]" altrender="volume">43</container>
             <unittitle>
               <unitdate type="inclusive" normal="1975">1975</unitdate>
             </unittitle>
@@ -1664,7 +1670,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">44</container>
+            <container type="volume" label="Oversize Volume [259168458479408950631301]" altrender="volume">44</container>
             <unittitle>
               <unitdate type="inclusive" normal="1976">1976</unitdate>
             </unittitle>
@@ -1672,7 +1678,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">45</container>
+            <container type="volume" label="Oversize Volume [16422648022294540594]" altrender="volume">45</container>
             <unittitle>
               <unitdate type="inclusive" normal="1977">1977</unitdate>
             </unittitle>
@@ -1680,7 +1686,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">46</container>
+            <container type="volume" label="Oversize Volume [558321414699407775109475]" altrender="volume">46</container>
             <unittitle>
               <unitdate type="inclusive" normal="1978">1978</unitdate>
             </unittitle>
@@ -1688,7 +1694,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">47</container>
+            <container type="volume" label="Oversize Volume [83500784041820613626238]" altrender="volume">47</container>
             <unittitle>
               <unitdate type="inclusive" normal="1980">1980</unitdate>
             </unittitle>
@@ -1696,7 +1702,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">48</container>
+            <container type="volume" label="Oversize Volume [9585464426824496238914]" altrender="volume">48</container>
             <unittitle>
               <unitdate type="inclusive" normal="1983">1983</unitdate>
             </unittitle>
@@ -1704,7 +1710,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">49</container>
+            <container type="volume" label="Oversize Volume [39542826341980506384]" altrender="volume">49</container>
             <unittitle>
               <unitdate type="inclusive" normal="1985">1985</unitdate>
             </unittitle>
@@ -1712,7 +1718,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">50</container>
+            <container type="volume" label="Oversize Volume [8277475884674193]" altrender="volume">50</container>
             <unittitle>
               <unitdate type="inclusive" normal="1986">1986</unitdate>
             </unittitle>
@@ -1720,7 +1726,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">51</container>
+            <container type="volume" label="Oversize Volume [726613470850296133]" altrender="volume">51</container>
             <unittitle>
               <unitdate type="inclusive" normal="1987">1987</unitdate>
             </unittitle>
@@ -1728,7 +1734,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">52</container>
+            <container type="volume" label="Oversize Volume [47973744229648818607]" altrender="volume">52</container>
             <unittitle>
               <unitdate type="inclusive" normal="1988">1988</unitdate>
             </unittitle>
@@ -1736,7 +1742,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">53</container>
+            <container type="volume" label="Oversize Volume [86220858644999603314]" altrender="volume">53</container>
             <unittitle>
               <unitdate type="inclusive" normal="1989">1989</unitdate>
             </unittitle>
@@ -1744,7 +1750,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">54</container>
+            <container type="volume" label="Oversize Volume [924618104881628101899]" altrender="volume">54</container>
             <unittitle>
               <unitdate type="inclusive" normal="1990">1990</unitdate>
             </unittitle>
@@ -1752,7 +1758,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">55</container>
+            <container type="volume" label="Oversize Volume [875330464447909751]" altrender="volume">55</container>
             <unittitle>
               <unitdate type="inclusive" normal="1991">1991</unitdate>
             </unittitle>
@@ -1760,7 +1766,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">56</container>
+            <container type="volume" label="Oversize Volume [18734364245388206]" altrender="volume">56</container>
             <unittitle>
               <unitdate type="inclusive" normal="1992">1992</unitdate>
             </unittitle>
@@ -1768,7 +1774,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">57</container>
+            <container type="volume" label="Oversize Volume [389526547455490081562481]" altrender="volume">57</container>
             <unittitle>
               <unitdate type="inclusive" normal="1993">1993</unitdate>
             </unittitle>
@@ -1779,7 +1785,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">58</container>
+            <container type="volume" label="Oversize Volume [3506044144152006]" altrender="volume">58</container>
             <unittitle>
               <unitdate type="inclusive" normal="1994">1994</unitdate>
             </unittitle>
@@ -1790,7 +1796,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">59</container>
+            <container type="volume" label="Oversize Volume [586036204009644809]" altrender="volume">59</container>
             <unittitle>
               <unitdate type="inclusive" normal="1995">1995</unitdate>
             </unittitle>
@@ -1801,7 +1807,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">60</container>
+            <container type="volume" label="Oversize Volume [348095485789339577108]" altrender="volume">60</container>
             <unittitle>
               <unitdate type="inclusive" normal="1996">1996</unitdate>
             </unittitle>
@@ -1812,7 +1818,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">61</container>
+            <container type="volume" label="Oversize Volume [430574438935017201]" altrender="volume">61</container>
             <unittitle>
               <unitdate type="inclusive" normal="1997">1997</unitdate>
             </unittitle>
@@ -1823,7 +1829,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">62</container>
+            <container type="volume" label="Oversize Volume [6513734211085794307]" altrender="volume">62</container>
             <unittitle>
               <unitdate type="inclusive" normal="1998">1998</unitdate>
             </unittitle>
@@ -1834,7 +1840,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">63</container>
+            <container type="volume" label="Oversize Volume [48076459433896960]" altrender="volume">63</container>
             <unittitle>
               <unitdate type="inclusive" normal="1999">1999</unitdate>
             </unittitle>
@@ -1845,7 +1851,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">64</container>
+            <container type="volume" label="Oversize Volume [722505411463291748]" altrender="volume">64</container>
             <unittitle>
               <unitdate type="inclusive" normal="2000">2000</unitdate>
             </unittitle>
@@ -1856,7 +1862,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">65</container>
+            <container type="volume" label="Oversize Volume [8821976407421270062355]" altrender="volume">65</container>
             <unittitle>
               <unitdate type="inclusive" normal="2001">2001</unitdate>
             </unittitle>
@@ -1867,7 +1873,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">66</container>
+            <container type="volume" label="Oversize Volume [4872892480692798954772]" altrender="volume">66</container>
             <unittitle>
               <unitdate type="inclusive" normal="2002">2002</unitdate>
             </unittitle>
@@ -1878,7 +1884,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">67</container>
+            <container type="volume" label="Oversize Volume [6933445486089581166]" altrender="volume">67</container>
             <unittitle>
               <unitdate type="inclusive" normal="2003">2003</unitdate>
             </unittitle>
@@ -1889,7 +1895,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">68</container>
+            <container type="volume" label="Oversize Volume [5391104393999821]" altrender="volume">68</container>
             <unittitle>
               <unitdate type="inclusive" normal="2004">2004</unitdate>
             </unittitle>
@@ -1900,7 +1906,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">69</container>
+            <container type="volume" label="Oversize Volume [806192944832988863032]" altrender="volume">69</container>
             <unittitle>
               <unitdate type="inclusive" normal="2005">2005</unitdate>
             </unittitle>
@@ -1911,7 +1917,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">70</container>
+            <container type="volume" label="Oversize Volume [03917324495463381298]" altrender="volume">70</container>
             <unittitle>
               <unitdate type="inclusive" normal="2006">2006</unitdate>
             </unittitle>
@@ -1922,7 +1928,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">71</container>
+            <container type="volume" label="Oversize Volume [65880147980286726]" altrender="volume">71</container>
             <unittitle>
               <unitdate type="inclusive" normal="2007">2007</unitdate>
             </unittitle>
@@ -1933,7 +1939,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">72</container>
+            <container type="volume" label="Oversize Volume [96672966942306505]" altrender="volume">72</container>
             <unittitle>
               <unitdate type="inclusive" normal="2008/2009">2008-2009</unitdate>
             </unittitle>
@@ -1944,7 +1950,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">73</container>
+            <container type="volume" label="Oversize Volume [562071609340038237022]" altrender="volume">73</container>
             <unittitle>
               <unitdate type="inclusive" normal="2010/2011">2010-2011</unitdate>
             </unittitle>
@@ -1955,7 +1961,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Oversize Volume">74</container>
+            <container type="volume" label="Oversize Volume [508114244483992190336217]" altrender="volume">74</container>
             <unittitle>
               <unitdate type="inclusive" normal="2011/2012">2011-2012</unitdate>
             </unittitle>
@@ -1974,134 +1980,134 @@
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="volume" label="Scrapbook">1</container>
+            <container type="volume" label="Scrapbook [97826548145113579]" altrender="volume">1</container>
             <unittitle>[Vol. 1] <unitdate type="inclusive" normal="1929/1945">1929-1945</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Scrapbook">2</container>
+            <container type="volume" label="Scrapbook [459714592282615503]" altrender="volume">2</container>
             <unittitle>[Vol. 2] <unitdate type="inclusive" normal="1935/1952">1935-1952</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Scrapbook">3</container>
+            <container type="volume" label="Scrapbook [666012324518861879067657]" altrender="volume">3</container>
             <unittitle>[Vol. 3] <unitdate type="inclusive" normal="1946/1949">1946-1949</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Scrapbook">4</container>
+            <container type="volume" label="Scrapbook [068458253567233479]" altrender="volume">4</container>
             <unittitle>[Vol. 4] <unitdate type="inclusive" normal="1948">1948</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Scrapbook">5</container>
+            <container type="volume" label="Scrapbook [255414450980534881863]" altrender="volume">5</container>
             <unittitle>[Vol. 5] <unitdate type="inclusive" normal="1949/1950">1949-1950</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Scrapbook">6</container>
+            <container type="volume" label="Scrapbook [6673146484893274768593]" altrender="volume">6</container>
             <unittitle>[Vol. 6] <unitdate type="inclusive" normal="1950">1950</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Scrapbook">7</container>
+            <container type="volume" label="Scrapbook [1338299451832707628591]" altrender="volume">7</container>
             <unittitle>[Vol. 7] <unitdate type="inclusive" normal="1951">1951</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Scrapbook">8</container>
+            <container type="volume" label="Scrapbook [0479788504497591441]" altrender="volume">8</container>
             <unittitle>[Vol. 8], 1951 Rose Bowl <unitdate type="inclusive" normal="1951">1951</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Scrapbook">9</container>
+            <container type="volume" label="Scrapbook [249457343418284979]" altrender="volume">9</container>
             <unittitle>[Vol. 9] <unitdate type="inclusive" normal="1952/1953">1952-1953</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Scrapbook">10</container>
+            <container type="volume" label="Scrapbook [608904548045692753614]" altrender="volume">10</container>
             <unittitle>[Vol. 10] <unitdate type="inclusive" normal="1953/1954">1953-1954</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Scrapbook">11</container>
+            <container type="volume" label="Scrapbook [32342583244900803362]" altrender="volume">11</container>
             <unittitle>[Vol. 11] <unitdate type="inclusive" normal="1954/1955">1954-1955</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Scrapbook">12</container>
+            <container type="volume" label="Scrapbook [695397456347886937026]" altrender="volume">12</container>
             <unittitle>[Vol. 12] <unitdate type="inclusive" normal="1955/1956">1955-1956</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Scrapbook">13</container>
+            <container type="volume" label="Scrapbook [2232449948353906427]" altrender="volume">13</container>
             <unittitle>[Vol. 13] <unitdate type="inclusive" normal="1956/1957">1956-1957</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Scrapbook">14</container>
+            <container type="volume" label="Scrapbook [273473443323297550379]" altrender="volume">14</container>
             <unittitle>[Vol. 14] <unitdate type="inclusive" normal="1957/1958">1957-1958</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Scrapbook">15</container>
+            <container type="volume" label="Scrapbook [7793841539470214]" altrender="volume">15</container>
             <unittitle>[Vol. 15] <unitdate type="inclusive" normal="1958/1959">1958-1959</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Scrapbook">16</container>
+            <container type="volume" label="Scrapbook [418405854455869813453962]" altrender="volume">16</container>
             <unittitle>[Vol. 16] <unitdate type="inclusive" normal="1959/1960">1959-1960</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Scrapbook">17</container>
+            <container type="volume" label="Scrapbook [579530852404887258899886]" altrender="volume">17</container>
             <unittitle>[Vol. 17] <unitdate type="inclusive" normal="1960/1961">1960-1961</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Scrapbook">18</container>
+            <container type="volume" label="Scrapbook [00816550248151423434]" altrender="volume">18</container>
             <unittitle>[Vol. 18] <unitdate type="inclusive" normal="1961">1961</unitdate> Soviet Union Tour</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Scrapbook">19</container>
+            <container type="volume" label="Scrapbook [41745644096020646021]" altrender="volume">19</container>
             <unittitle>[Vol. 19] <unitdate type="inclusive" normal="1961/1962">1961-1962</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Scrapbook">20</container>
+            <container type="volume" label="Scrapbook [631528944479864435]" altrender="volume">20</container>
             <unittitle>[Vol. 20] <unitdate type="inclusive" normal="1962/1963">1962-1963</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
             <unittitle>[Vol. 21-22] <unitdate type="inclusive" normal="1964/1965">1964-1965</unitdate></unittitle>
-            <container type="volume" label="Scrapbook">21</container>
+            <container type="volume" label="Scrapbook [1980038234457280490652]" altrender="volume">21</container>
           </did>
         </c02>
         <c02 level="file">
           <did>
             <unittitle>[Vol. 21-22] <unitdate type="inclusive" normal="1964/1965">1964-1965</unitdate></unittitle>
-            <container type="volume" label="Scrapbook">22</container>
+            <container type="volume" label="Scrapbook [9795484497717034]" altrender="volume">22</container>
           </did>
           <odd>
             <p>(continued)</p>
@@ -2109,26 +2115,26 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Scrapbook">23</container>
+            <container type="volume" label="Scrapbook [4898409326421129193426]" altrender="volume">23</container>
             <unittitle>[Vol. 23] <unitdate type="inclusive" normal="1964/1969">1964-1969</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Scrapbook">24</container>
+            <container type="volume" label="Scrapbook [30332011842138564596]" altrender="volume">24</container>
             <unittitle>[Vol. 24] <unitdate type="inclusive" normal="1965">1965</unitdate> Rose Bowl</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
             <unittitle>[Vol. 25-26] <unitdate type="inclusive" normal="1965/1966">1965-1966</unitdate></unittitle>
-            <container type="volume" label="Scrapbook">25</container>
+            <container type="volume" label="Scrapbook [4647944998634703463]" altrender="volume">25</container>
           </did>
         </c02>
         <c02 level="file">
           <did>
             <unittitle>[Vol. 25-26] <unitdate type="inclusive" normal="1965/1966">1965-1966</unitdate></unittitle>
-            <container type="volume" label="Scrapbook">26</container>
+            <container type="volume" label="Scrapbook [2430420835325712386]" altrender="volume">26</container>
           </did>
           <odd>
             <p>(continued)</p>
@@ -2136,38 +2142,38 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Scrapbook">27</container>
+            <container type="volume" label="Scrapbook [2501474107276419279]" altrender="volume">27</container>
             <unittitle>[Vol. 27] <unitdate type="inclusive" normal="1966">1966</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Scrapbook">28</container>
+            <container type="volume" label="Scrapbook [87352142252676582]" altrender="volume">28</container>
             <unittitle>[Vol. 28] <unitdate type="inclusive" normal="1966/1967">1966-1967</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Scrapbook">29</container>
+            <container type="volume" label="Scrapbook [931317475094131617]" altrender="volume">29</container>
             <unittitle>[Vol. 29] <unitdate type="inclusive" normal="1967/1968">1967-1968</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Scrapbook">30</container>
+            <container type="volume" label="Scrapbook [98747954187937070121591]" altrender="volume">30</container>
             <unittitle>[Vol. 30] <unitdate type="inclusive" normal="1968/1969">1968-1969</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
             <unittitle>[Vol. 31-32] <unitdate type="inclusive" normal="1969/1970">1969-1970</unitdate></unittitle>
-            <container type="volume" label="Scrapbook">31</container>
+            <container type="volume" label="Scrapbook [393254347907]" altrender="volume">31</container>
           </did>
         </c02>
         <c02 level="file">
           <did>
             <unittitle>[Vol. 31-32] <unitdate type="inclusive" normal="1969/1970">1969-1970</unitdate></unittitle>
-            <container type="volume" label="Scrapbook">32</container>
+            <container type="volume" label="Scrapbook [30961043872727113]" altrender="volume">32</container>
           </did>
           <odd>
             <p>(continued)</p>
@@ -2175,37 +2181,37 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Scrapbook">33</container>
+            <container type="volume" label="Scrapbook [433684734149894196]" altrender="volume">33</container>
             <unittitle>[Vol. 33] <unitdate type="inclusive" normal="1971/1972">1971-1972</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Scrapbook">34</container>
+            <container type="volume" label="Scrapbook [9215145814194339]" altrender="volume">34</container>
             <unittitle>[Vol. 34] <unitdate type="inclusive" normal="1972/1973">1972-1973</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Scrapbook">35</container>
+            <container type="volume" label="Scrapbook [843305020412711409577]" altrender="volume">35</container>
             <unittitle>[Vol. 35] <unitdate type="inclusive" normal="1973/1974">1973-1974</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Scrapbook">36</container>
+            <container type="volume" label="Scrapbook [0102359473483899434872]" altrender="volume">36</container>
             <unittitle>[Vol. 36] <unitdate type="inclusive" normal="1974/1975">1974-1975</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Scrapbook">37</container>
+            <container type="volume" label="Scrapbook [927117245742869977072]" altrender="volume">37</container>
             <unittitle>[Vol. 37] <unitdate type="inclusive" normal="1975/1976">1975-1976</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="volume" label="Scrapbook">38</container>
+            <container type="volume" label="Scrapbook [870133487952324616]" altrender="volume">38</container>
             <unittitle>[Vol. 38] <unitdate type="inclusive" normal="1977">1977</unitdate></unittitle>
           </did>
         </c02>

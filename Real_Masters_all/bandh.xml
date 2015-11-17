@@ -34,7 +34,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding Aid for <lb/>Harry H. Bandholtz Papers, 1890-1937 <lb/>(Microfilm Edition)</titleproper>
       <author>Finding aid prepared by: <lb/>Thomas E. Powers</author>
     </titlepage>
@@ -44,7 +44,9 @@
       <origination>
         <persname source="lcnaf" encodinganalog="100" authfilenumber="http://id.loc.gov/authorities/names/n2001023829">Bandholtz, Harry Hill, 1864-1925.</persname>
       </origination>
-      <unittitle encodinganalog="245$a">Harry H. Bandholtz Papers (Microform) <unitdate type="inclusive" encodinganalog="245$f" normal="1890/1937">1890-1937</unitdate>, <unitdate type="bulk" encodinganalog="245$g" normal="1899/1925">1899-1925</unitdate></unittitle>
+      <unittitle encodinganalog="245$a">Harry H. Bandholtz Papers (Microform)</unittitle>
+      <unitdate type="inclusive" encodinganalog="245$f" normal="1890/1937">1890-1937</unitdate>
+      <unitdate type="bulk" encodinganalog="245$g" normal="1899/1925">1899-1925</unitdate>
       <abstract>Career military officer, served in the Philippines ca. 1900-1913, chief of the Philippine Constabulary, 1907-1913; papers include correspondence, constabulary reports, diaries, topical files, visual materials, and scrapbooks.</abstract>
       <unitid countrycode="us" repositorycode="MiU-H" encodinganalog="099" type="call number">9436 mf 255</unitid>
       <langmaterial>The materials are in <language encodinganalog="041" langcode="eng">English.</language></langmaterial>
@@ -102,47 +104,47 @@
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n50040351">Aguinaldo, Emilio, 1869-1964.</persname>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n2001023829">Bandholtz, Harry Hill, 1864-1925.</persname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n83163731">Democratic Party (Mich.)</corpname>
-        <subject source="lcsh" encodinganalog="650">Freemasonry--Michigan.</subject>
-        <geogname source="lcsh" encodinganalog="651">Hungary--History--Revolution, 1918-1919.</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6061">Freemasonry--Michigan.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/986">Hungary--History--Revolution, 1918-1919.</geogname>
         <corpname source="lcnaf" encodinganalog="611">Inter-allied Military Mission to Hungary, 1919-1920.</corpname>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n92120793">Malcolm, George A. (George Arthur), 1881-1961.</persname>
         <persname source="lcnaf" encodinganalog="600">Osmeña, Sergio, 1878-1961.</persname>
-        <geogname source="lcsh" encodinganalog="651">Philippines--History--1898-1946.</geogname>
-        <geogname source="lcsh" encodinganalog="651">Philippines--Foreign relations--Japan.</geogname>
-        <subject source="lcsh" encodinganalog="650">Postage-stamps.</subject>
-        <subject source="lcsh" encodinganalog="650">Presidents--United States--Election--1908.</subject>
-        <subject source="lcsh" encodinganalog="650">Presidents--United States--Election--1912.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/944">Philippines--History--1898-1946.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/987">Philippines--Foreign relations--Japan.</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6062">Postage-stamps.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6063">Presidents--United States--Election--1908.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6064">Presidents--United States--Election--1912.</subject>
         <corpname source="lcnaf" encodinganalog="610">Progressive Party (1912)</corpname>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n50050542">Quezon, Manuel Luis, 1878-1944.</persname>
         <corpname source="lcnaf" encodinganalog="610">Republican Party (Mich.)</corpname>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n79022244">Taft, William H. (William Howard), 1857-1930.</persname>
-        <subject source="lcsh" encodinganalog="650">Tariff--United States.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6065">Tariff--United States.</subject>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n79063202">United States. Army.</corpname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n81038421">United States. Congress. House. Committee on Military Affairs.</corpname>
-        <geogname source="lcsh" encodinganalog="651">United States--Foreign relations--Japan.</geogname>
-        <geogname source="lcsh" encodinganalog="651">United States--Politics and government--1901-1909.</geogname>
-        <geogname source="lcsh" encodinganalog="651">United States--Politics and government--1909-1913.</geogname>
-        <geogname source="lcsh" encodinganalog="651">United States--Politics and government--1897-1901.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/988">United States--Foreign relations--Japan.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/989">United States--Politics and government--1901-1909.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/990">United States--Politics and government--1909-1913.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/991">United States--Politics and government--1897-1901.</geogname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n82070032">United Spanish War Veterans.</corpname>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n79046299">Wilson, Woodrow, 1856-1924.</persname>
-        <subject source="lcsh" encodinganalog="650">World War, 1914-1918.</subject>
-        <subject source="lcsh" encodinganalog="650">Spanish-American War, 1898.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5712">World War, 1914-1918.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6011">Spanish-American War, 1898.</subject>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Material:</head>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n2001023829">Bandholtz, Harry Hill, 1864-1925.</persname>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n79091691.html">Budapest (Hungary)</geogname>
-        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n85064127.html">Constantine (Mich.)</geogname>
-        <subject source="lctgm" encodinganalog="650">Dwellings--Michigan--Constantine.</subject>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n79091691.html" ref="/subjects/992">Budapest (Hungary)</geogname>
+        <geogname source="lcsh" encodinganalog="651" authfilenumber="http://id.loc.gov/authorities/names/n85064127.html" ref="/subjects/993">Constantine (Mich.)</geogname>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3771">Dwellings--Michigan--Constantine.</subject>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n50016500">Geronimo, Apache chief, 1829-1909.</persname>
-        <subject source="lctgm" encodinganalog="650">Military officers.</subject>
-        <subject source="lctgm" encodinganalog="650">Military art and science.</subject>
-        <geogname source="lcsh" encodinganalog="651">Philippines--History--1898-1946.</geogname>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3772">Military officers.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3773">Military art and science.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/944">Philippines--History--1898-1946.</geogname>
         <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n50082162">Philippine Constabulary.</corpname>
-        <geogname source="lcsh" encodinganalog="651">Philippines--History--Philippine American War, 1899-1902.</geogname>
-        <geogname source="lcsh" encodinganalog="651">Philippines--History--1898-1946.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/994">Philippines--History--Philippine American War, 1899-1902.</geogname>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/944">Philippines--History--1898-1946.</geogname>
         <corpname source="lcnaf" encodinganalog="610">United States Military Academy. Class of 1890.</corpname>
-        <subject source="lcsh" encodinganalog="650">World War, 1914-1918--France.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6066">World War, 1914-1918--France.</subject>
       </controlaccess>
       <controlaccess>
         <head>Contributors:</head>
@@ -177,9 +179,9 @@
       </controlaccess>
       <controlaccess>
         <head>Genre/Form:</head>
-        <genreform source="aat" encodinganalog="655">Drawings.</genreform>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
-        <genreform source="aat" encodinganalog="655">Scrapbooks.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3189">Drawings.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3139">Scrapbooks.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -201,7 +203,7 @@
           </did>
           <c03 level="file">
             <did>
-              <container label="Roll" type="reel">1</container>
+              <container label="Roll [4082404809984447003]" type="reel" altrender="reel">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1899/1907-04-10">1899-April 10, 1907</unitdate>
               </unittitle>
@@ -209,7 +211,7 @@
           </c03>
           <c03 level="file">
             <did>
-              <container label="Roll" type="reel">2</container>
+              <container label="Roll [44678154954160275]" type="reel" altrender="reel">2</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1907-04-11/1909-05-10">April 11, 1907-May 10, 1909</unitdate>
               </unittitle>
@@ -217,7 +219,7 @@
           </c03>
           <c03 level="file">
             <did>
-              <container label="Roll" type="reel">3</container>
+              <container label="Roll [09611785542954173447832]" type="reel" altrender="reel">3</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1909-05-11/1910-09">May 11, 1909-September 1910</unitdate>
               </unittitle>
@@ -225,7 +227,7 @@
           </c03>
           <c03 level="file">
             <did>
-              <container label="Roll" type="reel">4</container>
+              <container label="Roll [210985543660801141]" type="reel" altrender="reel">4</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1910-10/1911-12-15">October 1910-December 15, 1911</unitdate>
               </unittitle>
@@ -233,7 +235,7 @@
           </c03>
           <c03 level="file">
             <did>
-              <container label="Roll" type="reel">5</container>
+              <container label="Roll [5721292794119641273]" type="reel" altrender="reel">5</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1911-12-16/1913-06">December 16, 1911-June 1913</unitdate>
               </unittitle>
@@ -241,7 +243,7 @@
           </c03>
           <c03 level="file">
             <did>
-              <container label="Roll" type="reel">5</container>
+              <container label="Roll [5721292794119641273]" type="reel" altrender="reel">5</container>
               <unittitle>
                 <unitdate>Undated</unitdate>
               </unittitle>
@@ -260,7 +262,7 @@
           </scopecontent>
           <c03 level="file">
             <did>
-              <container label="Roll" type="reel">7</container>
+              <container label="Roll [1141549439997210409]" type="reel" altrender="reel">7</container>
               <unittitle>
                 <unitdate>Undated</unitdate>
               </unittitle>
@@ -268,7 +270,7 @@
           </c03>
           <c03 level="file">
             <did>
-              <container label="Roll" type="reel">7</container>
+              <container label="Roll [1141549439997210409]" type="reel" altrender="reel">7</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1895/1922">1895-1922</unitdate>
               </unittitle>
@@ -276,7 +278,7 @@
           </c03>
           <c03 level="file">
             <did>
-              <container label="Roll" type="reel">7</container>
+              <container label="Roll [1141549439997210409]" type="reel" altrender="reel">7</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1923/1925">1923-1925</unitdate>
               </unittitle>
@@ -285,7 +287,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container label="Roll" type="reel">8</container>
+            <container label="Roll [93513349549842745324195]" type="reel" altrender="reel">8</container>
             <unittitle>By name</unittitle>
           </did>
           <scopecontent>
@@ -293,25 +295,25 @@
           </scopecontent>
           <c03 level="file">
             <did>
-              <container type="reel" label="Roll">8</container>
+              <container type="reel" label="Roll [93513349549842745324195]" altrender="reel">8</container>
               <unittitle>Quezon, Manuel</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="reel" label="Roll">8</container>
+              <container type="reel" label="Roll [93513349549842745324195]" altrender="reel">8</container>
               <unittitle>Rives, W.C</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="reel" label="Roll">8</container>
+              <container type="reel" label="Roll [93513349549842745324195]" altrender="reel">8</container>
               <unittitle>Swope, Herbert B</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="reel" label="Roll">8</container>
+              <container type="reel" label="Roll [93513349549842745324195]" altrender="reel">8</container>
               <unittitle>Wood, Leonard</unittitle>
             </did>
           </c03>
@@ -323,7 +325,7 @@
         </did>
         <c02 level="file">
           <did>
-            <container label="Roll" type="reel">5</container>
+            <container label="Roll [5721292794119641273]" type="reel" altrender="reel">5</container>
             <unittitle>
               <unitdate type="inclusive" normal="1906/1913">1906-1913</unitdate>
             </unittitle>
@@ -336,7 +338,7 @@
         </did>
         <c02 level="file">
           <did>
-            <container label="Roll" type="reel">5</container>
+            <container label="Roll [5721292794119641273]" type="reel" altrender="reel">5</container>
             <unittitle>Flyers, programs, etc</unittitle>
           </did>
         </c02>
@@ -347,7 +349,7 @@
         </did>
         <c02 level="file">
           <did>
-            <container label="Roll" type="reel">5</container>
+            <container label="Roll [5721292794119641273]" type="reel" altrender="reel">5</container>
             <unittitle>
               <unitdate type="inclusive" normal="1911/1919">1911-1919</unitdate>
             </unittitle>
@@ -369,7 +371,7 @@
         </scopecontent>
         <c02 level="file">
           <did>
-            <container label="Roll" type="reel">6</container>
+            <container label="Roll [953771274406841368725469]" type="reel" altrender="reel">6</container>
             <unittitle>
               <unitdate type="inclusive" normal="1906/1913-06">1906-June 1913</unitdate>
             </unittitle>
@@ -382,7 +384,7 @@
         </did>
         <c02 level="file">
           <did>
-            <container label="Roll" type="reel">7</container>
+            <container label="Roll [1141549439997210409]" type="reel" altrender="reel">7</container>
             <unittitle>Biographical sketches, service record, clippings, etc</unittitle>
           </did>
           <odd>
@@ -391,19 +393,19 @@
         </c02>
         <c02 level="file">
           <did>
-            <container label="Roll" type="reel">7</container>
+            <container label="Roll [1141549439997210409]" type="reel" altrender="reel">7</container>
             <unittitle>Family Miscellanea (including earlier letters from family members)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container label="Roll" type="reel">7</container>
+            <container label="Roll [1141549439997210409]" type="reel" altrender="reel">7</container>
             <unittitle>Address books</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container label="Roll" type="reel">7</container>
+            <container label="Roll [1141549439997210409]" type="reel" altrender="reel">7</container>
             <unittitle>Speeches</unittitle>
           </did>
         </c02>
@@ -420,7 +422,7 @@
         </scopecontent>
         <c02 level="file">
           <did>
-            <container label="Roll" type="reel">8</container>
+            <container label="Roll [93513349549842745324195]" type="reel" altrender="reel">8</container>
             <unittitle>
               <unitdate type="inclusive" normal="1900/1911">1900-1911</unitdate>
             </unittitle>
@@ -428,7 +430,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container label="Roll" type="reel">9</container>
+            <container label="Roll [045010411807054261]" type="reel" altrender="reel">9</container>
             <unittitle>
               <unitdate type="inclusive" normal="1912/1923">1912-1923</unitdate>
             </unittitle>
@@ -447,37 +449,37 @@
         </scopecontent>
         <c02 level="file">
           <did>
-            <container label="Roll" type="reel">9</container>
+            <container label="Roll [045010411807054261]" type="reel" altrender="reel">9</container>
             <unittitle>American Expeditionary Force, Provost Marshal General <unitdate type="inclusive" normal="1918/1919">1918-1919</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="reel" label="Roll">9</container>
+            <container type="reel" label="Roll [045010411807054261]" altrender="reel">9</container>
             <unittitle>Bandholtz, May (hospitalization) <unitdate type="inclusive" normal="1920/1921">1920-1921</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="reel" label="Roll">9</container>
+            <container type="reel" label="Roll [045010411807054261]" altrender="reel">9</container>
             <unittitle>Bandholtz, May (HHB divorce from) <unitdate type="inclusive" normal="1921">1921</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="reel" label="Roll">9</container>
+            <container type="reel" label="Roll [045010411807054261]" altrender="reel">9</container>
             <unittitle>Hungary miscellaneous</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="reel" label="Roll">9</container>
+            <container type="reel" label="Roll [045010411807054261]" altrender="reel">9</container>
             <unittitle>Hungary Society of America</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="reel" label="Roll">9</container>
+            <container type="reel" label="Roll [045010411807054261]" altrender="reel">9</container>
             <unittitle>Income tax files and related</unittitle>
           </did>
         </c02>
@@ -487,32 +489,32 @@
           </did>
           <c03 level="file">
             <did>
-              <container type="reel" label="Roll">9</container>
+              <container type="reel" label="Roll [045010411807054261]" altrender="reel">9</container>
               <unittitle>General</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="reel" label="Roll">9</container>
+              <container type="reel" label="Roll [045010411807054261]" altrender="reel">9</container>
               <unittitle>Draft of <title render="italic">Undiplomatic Diary</title>; also excerpts from official report</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container label="Roll" type="reel">10</container>
+              <container label="Roll [91206143148471967]" type="reel" altrender="reel">10</container>
               <unittitle>Memoranda, reports, and other documents regarding Hungarians held as prisoners of war by Roumanians <unitdate type="inclusive" normal="1919">1919</unitdate></unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="reel" label="Roll">10</container>
+            <container type="reel" label="Roll [91206143148471967]" altrender="reel">10</container>
             <unittitle>Invitations (from emperor of Japan and others)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="reel" label="Roll">10</container>
+            <container type="reel" label="Roll [91206143148471967]" altrender="reel">10</container>
             <unittitle>Masonic miscellaneous</unittitle>
           </did>
         </c02>
@@ -522,32 +524,32 @@
           </did>
           <c03 level="file">
             <did>
-              <container type="reel" label="Roll">10</container>
+              <container type="reel" label="Roll [91206143148471967]" altrender="reel">10</container>
               <unittitle>Volume containing carbon copies of orders given by HHB <unitdate type="inclusive" normal="1900/1901">1900-1901</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="reel" label="Roll">10</container>
+              <container type="reel" label="Roll [91206143148471967]" altrender="reel">10</container>
               <unittitle>Miscellaneous documents containing Bandholtz references</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="reel" label="Roll">10</container>
+              <container type="reel" label="Roll [91206143148471967]" altrender="reel">10</container>
               <unittitle>Miscellaneous documents (in Spanish)</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="reel" label="Roll">10</container>
+              <container type="reel" label="Roll [91206143148471967]" altrender="reel">10</container>
               <unittitle>Miscellanea</unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="reel" label="Roll">10</container>
+            <container type="reel" label="Roll [91206143148471967]" altrender="reel">10</container>
             <unittitle>Polillo Land Company <unitdate type="inclusive" normal="1904/1907">1904-1907</unitdate></unittitle>
           </did>
           <odd>
@@ -556,31 +558,31 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="reel" label="Roll">10</container>
+            <container type="reel" label="Roll [91206143148471967]" altrender="reel">10</container>
             <unittitle>Service orders, etc</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="reel" label="Roll">10</container>
+            <container type="reel" label="Roll [91206143148471967]" altrender="reel">10</container>
             <unittitle>Taylor (Wallace) appointment materials <unitdate type="inclusive" normal="1914">1914</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="reel" label="Roll">10</container>
+            <container type="reel" label="Roll [91206143148471967]" altrender="reel">10</container>
             <unittitle>Travel: Memoranda of trip from Manila to Java <unitdate type="inclusive" normal="1911">1911</unitdate> (author unknown)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="reel" label="Roll">10</container>
+            <container type="reel" label="Roll [91206143148471967]" altrender="reel">10</container>
             <unittitle>War Department, Headquarters District of Washington (orders, memoranda, etc.) <unitdate type="inclusive" normal="1921/1922">1921-1922</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="reel" label="Roll">10</container>
+            <container type="reel" label="Roll [91206143148471967]" altrender="reel">10</container>
             <unittitle>West Point notebook <unitdate type="inclusive" normal="1890" certainty="approximate">circa 1890</unitdate></unittitle>
           </did>
           <odd>
@@ -589,19 +591,19 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="reel" label="Roll">10</container>
+            <container type="reel" label="Roll [91206143148471967]" altrender="reel">10</container>
             <unittitle>West Virginia Coal strike <unitdate type="inclusive" normal="1921">1921</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="reel" label="Roll">10</container>
+            <container type="reel" label="Roll [91206143148471967]" altrender="reel">10</container>
             <unittitle>Willard, C.E. (correspondence with family member in jail)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="reel" label="Roll">10</container>
+            <container type="reel" label="Roll [91206143148471967]" altrender="reel">10</container>
             <unittitle>Worcester, Dean C. <unitdate type="inclusive" normal="1913">1913</unitdate></unittitle>
           </did>
           <odd>
@@ -632,7 +634,7 @@
           </did>
           <c03 level="file">
             <did>
-              <container label="Roll" type="reel">10</container>
+              <container label="Roll [91206143148471967]" type="reel" altrender="reel">10</container>
               <unittitle>West Point sketchbook containing drawings of HHB's West Point classmates <unitdate type="inclusive" normal="1890" certainty="approximate">circa 1890</unitdate></unittitle>
             </did>
             <odd>
@@ -648,7 +650,7 @@
           </did>
           <c03 level="file">
             <did>
-              <container label="Roll" type="reel">10</container>
+              <container label="Roll [91206143148471967]" type="reel" altrender="reel">10</container>
               <unittitle>Portraits (include photograph of HHB statue in Budapest)</unittitle>
             </did>
             <odd>
@@ -657,13 +659,15 @@
           </c03>
           <c03 level="file">
             <did>
-              <container label="Roll" type="reel">11</container>
-              <unittitle>Philippine views <unitdate type="inclusive" normal="1901">1901</unitdate>, <unitdate>undated</unitdate></unittitle>
+              <container label="Roll [188699564514531503771]" type="reel" altrender="reel">11</container>
+              <unittitle>Philippine views</unittitle>
+              <unitdate type="inclusive" normal="1901">1901</unitdate>
+              <unitdate>undated</unitdate>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container label="Roll" type="reel">11</container>
+              <container label="Roll [188699564514531503771]" type="reel" altrender="reel">11</container>
               <unittitle>Philippine Constabulary <unitdate type="inclusive" normal="1900/1905" certainty="approximate">circa 1900-1905</unitdate></unittitle>
             </did>
             <odd>
@@ -672,13 +676,13 @@
           </c03>
           <c03 level="file">
             <did>
-              <container label="Roll" type="reel">11</container>
+              <container label="Roll [188699564514531503771]" type="reel" altrender="reel">11</container>
               <unittitle>Constantine (Michigan) home (also family (?) members)</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container label="Roll" type="reel">11</container>
+              <container label="Roll [188699564514531503771]" type="reel" altrender="reel">11</container>
               <unittitle>Miscellaneous and unidentified</unittitle>
             </did>
           </c03>
@@ -689,7 +693,7 @@
           </did>
           <c03 level="file">
             <did>
-              <container label="Roll" type="reel">11</container>
+              <container label="Roll [188699564514531503771]" type="reel" altrender="reel">11</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1903" certainty="approximate">circa 1903</unitdate>
               </unittitle>
@@ -700,7 +704,7 @@
           </c03>
           <c03 level="file">
             <did>
-              <container label="Roll" type="reel">11</container>
+              <container label="Roll [188699564514531503771]" type="reel" altrender="reel">11</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1900/1920" certainty="approximate">circa 1900-1920</unitdate>
               </unittitle>
@@ -711,7 +715,7 @@
           </c03>
           <c03 level="file">
             <did>
-              <container label="Roll" type="reel">11</container>
+              <container label="Roll [188699564514531503771]" type="reel" altrender="reel">11</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1898/1923">1898-1923</unitdate>
               </unittitle>
@@ -722,7 +726,7 @@
           </c03>
           <c03 level="file">
             <did>
-              <container label="Roll" type="reel">11</container>
+              <container label="Roll [188699564514531503771]" type="reel" altrender="reel">11</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1918/1919">1918-1919</unitdate>
               </unittitle>
@@ -733,7 +737,7 @@
           </c03>
           <c03 level="file">
             <did>
-              <container label="Roll" type="reel">11</container>
+              <container label="Roll [188699564514531503771]" type="reel" altrender="reel">11</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1910" certainty="approximate">circa 1910</unitdate>
               </unittitle>
@@ -744,7 +748,7 @@
           </c03>
           <c03 level="file">
             <did>
-              <container label="Roll" type="reel">11</container>
+              <container label="Roll [188699564514531503771]" type="reel" altrender="reel">11</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1937">1937</unitdate>
               </unittitle>
@@ -767,7 +771,7 @@
         </scopecontent>
         <c02 level="file">
           <did>
-            <container label="Roll" type="reel">11</container>
+            <container label="Roll [188699564514531503771]" type="reel" altrender="reel">11</container>
             <unittitle>
               <unitdate type="inclusive" normal="1896/1909">1896-1909</unitdate>
             </unittitle>
@@ -775,7 +779,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container label="Roll" type="reel">11</container>
+            <container label="Roll [188699564514531503771]" type="reel" altrender="reel">11</container>
             <unittitle>
               <unitdate type="inclusive" normal="1901/1918">1901-1918</unitdate>
             </unittitle>
@@ -786,7 +790,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container label="Roll" type="reel">11</container>
+            <container label="Roll [188699564514531503771]" type="reel" altrender="reel">11</container>
             <unittitle>
               <unitdate type="inclusive" normal="1919/1924">1919-1924</unitdate>
             </unittitle>
@@ -797,7 +801,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container label="Roll" type="reel">11</container>
+            <container label="Roll [188699564514531503771]" type="reel" altrender="reel">11</container>
             <unittitle>
               <unitdate type="inclusive" normal="1890/1910" certainty="approximate">1890s-1910</unitdate>
             </unittitle>
@@ -808,7 +812,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container label="Roll" type="reel">11</container>
+            <container label="Roll [188699564514531503771]" type="reel" altrender="reel">11</container>
             <unittitle>Newspaper clippings</unittitle>
           </did>
         </c02>
@@ -825,37 +829,37 @@
         </scopecontent>
         <c02 level="file">
           <did>
-            <container label="Roll" type="reel">11</container>
+            <container label="Roll [188699564514531503771]" type="reel" altrender="reel">11</container>
             <unittitle>Letters of condolence <unitdate type="inclusive" normal="1925">1925</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container label="Roll" type="reel">12</container>
+            <container label="Roll [9690360438387595257]" type="reel" altrender="reel">12</container>
             <unittitle>Sale of HHB stamp collection <unitdate type="inclusive" normal="1925">1925</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="reel" label="Roll">12</container>
+            <container type="reel" label="Roll [9690360438387595257]" altrender="reel">12</container>
             <unittitle>Visit to Hungary for the dedication of the HHB statue <unitdate type="inclusive" normal="1937">1937</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="reel" label="Roll">12</container>
+            <container type="reel" label="Roll [9690360438387595257]" altrender="reel">12</container>
             <unittitle>Correspondence with, and relating to, Col. Eugen Boross <unitdate type="inclusive" normal="1936/1941">1936-1941</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="reel" label="Roll">12</container>
+            <container type="reel" label="Roll [9690360438387595257]" altrender="reel">12</container>
             <unittitle>Harry Howland/Haan brothers correspondence <unitdate type="inclusive" normal="1925/1931">1925-1931</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="reel" label="Roll">12</container>
+            <container type="reel" label="Roll [9690360438387595257]" altrender="reel">12</container>
             <unittitle>Miscellaneous correspondence <unitdate type="inclusive" normal="1924/1937">1924-1937</unitdate></unittitle>
           </did>
           <odd>
@@ -864,7 +868,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="reel" label="Roll">12</container>
+            <container type="reel" label="Roll [9690360438387595257]" altrender="reel">12</container>
             <unittitle><genreform>Diary</genreform>, <unitdate type="inclusive" normal="1936">1936</unitdate></unittitle>
           </did>
         </c02>
@@ -878,7 +882,7 @@
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">8</container>
+            <container type="box" label="Box [944115644798760322426]" altrender="box">8</container>
             <unittitle>
               <unitdate type="inclusive" normal="1903/1912">1903-1912</unitdate>
             </unittitle>
@@ -886,7 +890,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">8</container>
+            <container type="box" label="Box [944115644798760322426]" altrender="box">8</container>
             <unittitle>
               <unitdate type="inclusive">Miscellanea</unitdate>
             </unittitle>

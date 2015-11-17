@@ -31,7 +31,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Society of Women Engineers, <lb/>University of Michigan <lb/>section records, 1971-2011</titleproper>
       <author>Finding aid created by <lb/>Yolisa Soul, February 1997; <lb/>Alicia Kildau, December 2012,</author>
     </titlepage>
@@ -85,8 +85,8 @@ Society of Women Engineers, University of Michigan section records, Bentley Hist
     <controlaccess>
       <head>Subjects:</head>
       <corpname source="lcnaf" encodinganalog="610">Society of Women Engineers. University of Michigan Section.</corpname>
-      <subject source="lcsh" encodinganalog="650">Engineers--Michigan--Ann Arbor.</subject>
-      <subject source="lcsh" encodinganalog="650">Women engineers--Michigan--Ann Arbor.</subject>
+      <subject source="lcsh" encodinganalog="650" ref="/subjects/6399">Engineers--Michigan--Ann Arbor.</subject>
+      <subject source="lcsh" encodinganalog="650" ref="/subjects/10289">Women engineers--Michigan--Ann Arbor.</subject>
       <corpname source="lcnaf" encodinganalog="610" authfilenumber="http://id.loc.gov/authorities/names/n80094504">University of Michigan. College of Engineering.</corpname>
       <corpname source="lcnaf" encodinganalog="610">University of Michigan--Students--Societies, etc.</corpname>
     </controlaccess>
@@ -100,19 +100,19 @@ Society of Women Engineers, University of Michigan section records, Bentley Hist
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [978828442389344713975]" altrender="box">1</container>
             <unittitle>Awards and Acknowledgments</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [978828442389344713975]" altrender="box">1</container>
             <unittitle>Historical/Background Information (include handbooks and manuals)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [978828442389344713975]" altrender="box">1</container>
             <unittitle>Annual Reports <unitdate type="inclusive" normal="1972/1984">1972-1984</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">9 folders</extent>
@@ -121,14 +121,17 @@ Society of Women Engineers, University of Michigan section records, Bentley Hist
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [978828442389344713975]" altrender="box">1</container>
             <unittitle>News File</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <unittitle>Newsletters <unitdate type="inclusive" normal="1971/1991">1971-1991</unitdate>, <unitdate type="inclusive" normal="1996">1996</unitdate>, <unitdate type="inclusive" normal="2010/2011">2010-2011</unitdate></unittitle>
+            <container type="box" label="Box [978828442389344713975]" altrender="box">1</container>
+            <unittitle>Newsletters</unittitle>
+            <unitdate type="inclusive" normal="1971/1991">1971-1991</unitdate>
+            <unitdate type="inclusive" normal="1996">1996</unitdate>
+            <unitdate type="inclusive" normal="2010/2011">2010-2011</unitdate>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">17 folders</extent>
             </physdesc>
@@ -136,31 +139,33 @@ Society of Women Engineers, University of Michigan section records, Bentley Hist
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [978828442389344713975]" altrender="box">1</container>
             <unittitle>Alumni News <unitdate type="inclusive" normal="1988/1989">1988-1989</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [978828442389344713975]" altrender="box">1</container>
             <unittitle>Newspaper clippings</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <unittitle>Budget File (includes ledger <unitdate type="inclusive" normal="1983/1984">1983/84</unitdate> and treasurer's report, <unitdate type="inclusive" normal="1982">1982</unitdate></unittitle>
+            <container type="box" label="Box [978828442389344713975]" altrender="box">1</container>
+            <unittitle>Budget File (includes ledger 1983/84 and treasurer's report, 1982</unittitle>
+            <unitdate type="inclusive" normal="1983/1984">1983/84</unitdate>
+            <unitdate type="inclusive" normal="1982">1982</unitdate>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [978828442389344713975]" altrender="box">1</container>
             <unittitle>Enrollment of women <unitdate type="inclusive" normal="1973/1976">1973-1976</unitdate> (with graduation statistics for 1982)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [978828442389344713975]" altrender="box">1</container>
             <unittitle>Correspondence file <unitdate type="inclusive" normal="1975/1985">1975-1985 (scattered)</unitdate></unittitle>
           </did>
         </c02>
@@ -174,19 +179,19 @@ Society of Women Engineers, University of Michigan section records, Bentley Hist
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [978828442389344713975]" altrender="box">1</container>
             <unittitle>Competition reports</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [978828442389344713975]" altrender="box">1</container>
             <unittitle>Outreach programs for high school students</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [978828442389344713975]" altrender="box">1</container>
             <unittitle>Student resumes <unitdate type="inclusive" normal="1981/1990">1981-1990</unitdate> (1983 missing)</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">5 volumes</extent>
@@ -195,13 +200,13 @@ Society of Women Engineers, University of Michigan section records, Bentley Hist
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [978828442389344713975]" altrender="box">1</container>
             <unittitle>SWE Region H Conference <unitdate type="inclusive" normal="2011">2011</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [978828442389344713975]" altrender="box">1</container>
             <unittitle>Activities <unitdate type="inclusive" normal="2010/2011">2010-2011</unitdate></unittitle>
           </did>
         </c02>
@@ -212,48 +217,48 @@ Society of Women Engineers, University of Michigan section records, Bentley Hist
         </did>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [66524931359793858295]" altrender="box">2</container>
             <unittitle>Photographs</unittitle>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [66524931359793858295]" altrender="box">2</container>
               <unittitle>Photo Album <unitdate type="inclusive" normal="1989/1990">1989-1990</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [66524931359793858295]" altrender="box">2</container>
               <unittitle>Photo Album <unitdate type="inclusive" normal="1991">1991</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [66524931359793858295]" altrender="box">2</container>
               <unittitle>Photo Album <unitdate type="inclusive" normal="1995">1995</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [66524931359793858295]" altrender="box">2</container>
               <unittitle>Photo Album <unitdate type="inclusive" normal="1999">1999</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">2</container>
+              <container type="box" label="Box [66524931359793858295]" altrender="box">2</container>
               <unittitle>Photo Album <unitdate type="inclusive" normal="2002">2002</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [078545226345694067386425777]" altrender="box">3</container>
               <unittitle>Photo Album, Summer Engineering Exploration <unitdate type="inclusive" normal="2000">2000</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [078545226345694067386425777]" altrender="box">3</container>
               <unittitle>Photo Album, date unknown</unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">2 volumes</extent>
@@ -262,7 +267,7 @@ Society of Women Engineers, University of Michigan section records, Bentley Hist
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [078545226345694067386425777]" altrender="box">3</container>
               <unittitle>Photos, Summer Engineering Exploration <unitdate type="inclusive" normal="2003">2003</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">3 envelopes</extent>
@@ -271,7 +276,7 @@ Society of Women Engineers, University of Michigan section records, Bentley Hist
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [078545226345694067386425777]" altrender="box">3</container>
               <unittitle>Photographic prints, date unknown</unittitle>
             </did>
           </c03>
@@ -282,7 +287,7 @@ Society of Women Engineers, University of Michigan section records, Bentley Hist
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [078545226345694067386425777]" altrender="box">3</container>
               <unittitle>Summer Engineering Exploration photographs <unitdate type="inclusive" normal="2003">2003</unitdate></unittitle>
             </did>
           </c03>
@@ -293,7 +298,7 @@ Society of Women Engineers, University of Michigan section records, Bentley Hist
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [078545226345694067386425777]" altrender="box">3</container>
               <unittitle>Summer Engineering Exploration <unitdate type="inclusive" normal="2000">2000</unitdate></unittitle>
             </did>
             <odd>
@@ -307,14 +312,17 @@ Society of Women Engineers, University of Michigan section records, Bentley Hist
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [078545226345694067386425777]" altrender="box">3</container>
               <unittitle>Negative Strips <unitdate type="inclusive" normal="1989/1994">1989-1994</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
-              <unittitle>SWE Outreach slide negatives <unitdate type="inclusive" normal="1987">1987</unitdate>, <unitdate type="inclusive" normal="1989/1990">1989-1990</unitdate>, <unitdate type="inclusive" normal="1992">1992</unitdate></unittitle>
+              <container type="box" label="Box [078545226345694067386425777]" altrender="box">3</container>
+              <unittitle>SWE Outreach slide negatives</unittitle>
+              <unitdate type="inclusive" normal="1987">1987</unitdate>
+              <unitdate type="inclusive" normal="1989/1990">1989-1990</unitdate>
+              <unitdate type="inclusive" normal="1992">1992</unitdate>
             </did>
           </c03>
         </c02>
@@ -324,61 +332,61 @@ Society of Women Engineers, University of Michigan section records, Bentley Hist
           </did>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">1</container>
+              <container type="volume" label="Oversize Volume [5999727159547381282195442]" altrender="volume">1</container>
               <unittitle>Scrapbook <unitdate type="inclusive" normal="1974/1975">1974-1975</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [65884111605001]" altrender="box">4</container>
               <unittitle>National Convention Scrapbook <unitdate type="inclusive" normal="1989">1989</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">2</container>
+              <container type="volume" label="Oversize Volume [1028962045928679625]" altrender="volume">2</container>
               <unittitle>Society of Women Engineers and Student Conference Scrapbook <unitdate type="inclusive" normal="1990">1990</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [65884111605001]" altrender="box">4</container>
               <unittitle>Scrapbook <unitdate type="inclusive" normal="1993/1994">1993-1994</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [65884111605001]" altrender="box">4</container>
               <unittitle>Scrapbook <unitdate type="inclusive" normal="2000/2002">2000-2002</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [65884111605001]" altrender="box">4</container>
               <unittitle>Scrapbook <unitdate type="inclusive" normal="2003">2003</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">4</container>
+              <container type="box" label="Box [65884111605001]" altrender="box">4</container>
               <unittitle>Scrapbook <unitdate type="inclusive" normal="2004">2004</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">3</container>
+              <container type="volume" label="Oversize Volume [11128581943980722624]" altrender="volume">3</container>
               <unittitle>Scrapbook <unitdate type="inclusive" normal="2005">2005</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">4</container>
+              <container type="volume" label="Oversize Volume [34739504431946456420]" altrender="volume">4</container>
               <unittitle>Scrapbook <unitdate type="inclusive" normal="2006">2006</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="volume" label="Oversize Volume">5</container>
+              <container type="volume" label="Oversize Volume [56153440861477204]" altrender="volume">5</container>
               <unittitle>Scrapbook <unitdate type="inclusive" normal="2010/2011">2010-2011</unitdate></unittitle>
             </did>
           </c03>

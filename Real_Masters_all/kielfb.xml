@@ -34,7 +34,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding Aid for <lb/>Frank Burdette Kiel papers, <date>1917-1923</date></titleproper>
       <author>Finding aid prepared by: <lb/>Len Coombs</author>
     </titlepage>
@@ -81,11 +81,11 @@
         <head>Subjects</head>
         <persname source="lcnaf" encodinganalog="600">Kiel, Frank Burdette.</persname>
         <persname source="lcnaf" encodinganalog="600">Giffels, W. C.</persname>
-        <geogname source="lcsh" encodinganalog="651">Soviet Union--History--Allied intervention, 1918-1920.</geogname>
-        <subject source="lcsh" encodinganalog="650">World War, 1914-1918.</subject>
-        <subject source="local" encodinganalog="690" authfilenumber="http://id.loc.gov/authorities/names/n2008059426">Polar Bear Expedition.</subject>
-        <subject source="lcsh" encodinganalog="650">Engineering.</subject>
-        <subject source="lcsh" encodinganalog="650">Engineers--Michigan--Jackson.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/883">Soviet Union--History--Allied intervention, 1918-1920.</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5712">World War, 1914-1918.</subject>
+        <subject source="local" encodinganalog="690" authfilenumber="http://id.loc.gov/authorities/names/n2008059426" ref="/subjects/3518">Polar Bear Expedition.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/6576">Engineering.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/8658">Engineers--Michigan--Jackson.</subject>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -95,7 +95,7 @@
         </did>
         <c02 level="file">
           <did>
-            <container type="folder" label="Folder">1</container>
+            <container type="folder" label="Folder [9145430492967625942]" altrender="folder">1</container>
             <unittitle>
               <unitdate type="inclusive" normal="1917/1918">1917-1918</unitdate>
             </unittitle>
@@ -106,7 +106,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="folder" label="Folder">2</container>
+            <container type="folder" label="Folder [85129092442757591905]" altrender="folder">2</container>
             <unittitle>
               <unitdate type="inclusive" normal="1919-01/1919-06">January-June 1919</unitdate>
             </unittitle>
@@ -117,7 +117,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="folder" label="Folder">3</container>
+            <container type="folder" label="Folder [7965374174339391119407]" altrender="folder">3</container>
             <unittitle>
               <unitdate type="inclusive" normal="1919-07/1919-12">July-December 1919</unitdate>
             </unittitle>
@@ -128,7 +128,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="folder" label="Folder">4</container>
+            <container type="folder" label="Folder [3739080941483146441410]" altrender="folder">4</container>
             <unittitle>
               <unitdate type="inclusive" normal="1920/1923">1920-1923</unitdate>
             </unittitle>
@@ -139,7 +139,7 @@
         </c02>
         <c02 level="file">
           <did>
-            <container type="folder" label="Folder">5</container>
+            <container type="folder" label="Folder [446396945696481335]" altrender="folder">5</container>
             <unittitle>
               <unitdate type="inclusive">Undated</unitdate>
             </unittitle>

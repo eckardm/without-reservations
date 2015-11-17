@@ -27,7 +27,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/1">Michigan Historical Collections <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Mary M. Culver Papers, 1856-2008</titleproper>
       <author>Finding aid created by <lb/>Olga Virakhovskaya, May 2014</author>
     </titlepage>
@@ -37,7 +37,9 @@
       <origination>
         <persname source="lcnaf" encodinganalog="100">Culver, Mary M.</persname>
       </origination>
-      <unittitle encodinganalog="245">Mary M. Culver Papers <unitdate type="inclusive" encodinganalog="245$f" normal="1856/2008">1856-2008</unitdate>, <unitdate type="bulk" encodinganalog="245$g" normal="1973/1997">1973-1997</unitdate></unittitle>
+      <unittitle encodinganalog="245">Mary M. Culver Papers</unittitle>
+      <unitdate type="inclusive" encodinganalog="245$f" normal="1856/2008">1856-2008</unitdate>
+      <unitdate type="bulk" encodinganalog="245$g" normal="1973/1997">1973-1997</unitdate>
       <unitid encodinganalog="852$h" repositorycode="MiU-H" countrycode="us" type="call number">2014064 Aa 2</unitid>
       <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language></langmaterial>
       <abstract>Papers of Washtenaw County, Mich. architectural historian and preservation activist Mary M. Culver. Collection includes records of Washtenaw County, Mich. historic preservation organizations, Culver's research files and presentations, and images of Michigan historic buildings.</abstract>
@@ -81,12 +83,12 @@ Mary M. Culver papers, Bentley Historical Library, University of Michigan</p>
       <controlaccess>
         <head>Subjects:</head>
         <corpname source="lcnaf" encodinganalog="610">Ann Arbor Historic Commission (Mich.)</corpname>
-        <geogname source="lcsh" encodinganalog="651">Ann Arbor (Mich.)--Buildings, structures, etc.</geogname>
-        <subject source="lcsh" encodinganalog="650">Architects--Michigan.</subject>
-        <subject source="lcsh" encodinganalog="650">Architects and builders--Michigan.</subject>
-        <subject source="lcsh" encodinganalog="650">Architecture--Michigan--History.</subject>
-        <subject source="lcsh" encodinganalog="650">Historic buildings--Michigan.</subject>
-        <subject source="lcsh" encodinganalog="650">Historic districts--Michigan--Ann Arbor.</subject>
+        <geogname source="lcsh" encodinganalog="651" ref="/subjects/849">Ann Arbor (Mich.)--Buildings, structures, etc.</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5759">Architects--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7082">Architects and builders--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7083">Architecture--Michigan--History.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7084">Historic buildings--Michigan.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/7085">Historic districts--Michigan--Ann Arbor.</subject>
         <persname source="lcnaf" encodinganalog="600" authfilenumber="http://id.loc.gov/authorities/names/n80051084">Kimball, Fiske, 1888-1955.</persname>
         <persname source="lcnaf" encodinganalog="600">Mills, Stephen, b. 1809.</persname>
         <persname source="lcnaf" encodinganalog="600">Pond, Allen Bartlit.</persname>
@@ -94,12 +96,12 @@ Mary M. Culver papers, Bentley Historical Library, University of Michigan</p>
       </controlaccess>
       <controlaccess>
         <head>Subjects - Visual Materials:</head>
-        <subject source="lctgm" encodinganalog="650">Buildings--Michigan--Ann Arbor.</subject>
+        <subject source="lctgm" encodinganalog="650" ref="/subjects/3588">Buildings--Michigan--Ann Arbor.</subject>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Color slides.</genreform>
-        <genreform source="aat" encodinganalog="655">Photographs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3212">Color slides.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3141">Photographs.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -116,7 +118,7 @@ Mary M. Culver papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [8327782784639542603064]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1959/1967">1959-1967</unitdate>
               </unittitle>
@@ -127,7 +129,7 @@ Mary M. Culver papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [8327782784639542603064]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1966/1970">1966-1970</unitdate>
               </unittitle>
@@ -138,7 +140,7 @@ Mary M. Culver papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [8327782784639542603064]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1971">1971</unitdate>
               </unittitle>
@@ -149,7 +151,7 @@ Mary M. Culver papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [8327782784639542603064]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1972">1972</unitdate>
               </unittitle>
@@ -162,7 +164,7 @@ Mary M. Culver papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [8327782784639542603064]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1976/1977">1976-1977</unitdate>
               </unittitle>
@@ -170,7 +172,7 @@ Mary M. Culver papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [8327782784639542603064]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1978">1978</unitdate>
               </unittitle>
@@ -178,7 +180,7 @@ Mary M. Culver papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [8327782784639542603064]" altrender="box">1</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1978/1992">1978-1992</unitdate>
               </unittitle>
@@ -186,50 +188,50 @@ Mary M. Culver papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [8327782784639542603064]" altrender="box">1</container>
               <unittitle>Division Street Historic Study Committee <unitdate type="inclusive" normal="1977">1977</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [8327782784639542603064]" altrender="box">1</container>
               <unittitle>Meeting minutes <unitdate type="inclusive" normal="1977/1984">1977-1984</unitdate></unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">1</container>
+              <container type="box" label="Box [8327782784639542603064]" altrender="box">1</container>
               <unittitle>Public History Program proposal <unitdate type="inclusive" normal="1984">1984</unitdate></unittitle>
             </did>
           </c03>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8327782784639542603064]" altrender="box">1</container>
             <unittitle>Ann Arbor Tomorrow <unitdate type="inclusive" normal="1973/1977">1973-1977</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8327782784639542603064]" altrender="box">1</container>
             <unittitle>Downtown Concept Plan (Draft 2) <unitdate type="inclusive" normal="1974">1974</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8327782784639542603064]" altrender="box">1</container>
             <unittitle>Downtown Historic District Study Committee Final report and appendix <unitdate type="inclusive" normal="1989">1989</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8327782784639542603064]" altrender="box">1</container>
             <unittitle>Newspaper clippings <unitdate type="inclusive" normal="1968/1974">1968-1974</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [8327782784639542603064]" altrender="box">1</container>
             <unittitle>Miscellaneous <unitdate type="inclusive" normal="1974/1993">1974-1993 (scattered)</unitdate></unittitle>
           </did>
         </c02>
@@ -243,7 +245,7 @@ Mary M. Culver papers, Bentley Historical Library, University of Michigan</p>
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [09951774499823109324]" altrender="box">2</container>
             <unittitle>Architectural descriptions <unitdate type="inclusive">undated</unitdate></unittitle>
           </did>
           <odd>
@@ -252,7 +254,7 @@ Mary M. Culver papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [09951774499823109324]" altrender="box">2</container>
             <unittitle>Designers Showcase: a Stephen Mills historic house <unitdate type="inclusive" normal="1992">1992</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">1 volumes</extent>
@@ -261,7 +263,7 @@ Mary M. Culver papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [09951774499823109324]" altrender="box">2</container>
             <unittitle>Greek revival: one pioneer's interpretation of the classical ideal <unitdate type="inclusive" normal="1992">1992</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">1 volumes</extent>
@@ -270,7 +272,7 @@ Mary M. Culver papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [09951774499823109324]" altrender="box">2</container>
             <unittitle>Houses of Stephen Mills by Kevin Coleman <unitdate type="inclusive" normal="1991">1991</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">1 volumes</extent>
@@ -279,7 +281,7 @@ Mary M. Culver papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [09951774499823109324]" altrender="box">2</container>
             <unittitle>Pond &amp; Pond: sons of a pioneer, architects of the U-M's hearthstone <unitdate type="inclusive" normal="1995" certainty="approximate">1995</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">1 volumes</extent>
@@ -288,7 +290,7 @@ Mary M. Culver papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [09951774499823109324]" altrender="box">2</container>
             <unittitle>Preservation vanguard: Fiske Kimball: author, architect, and teacher <unitdate type="inclusive" normal="1993">1993</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">1 volumes</extent>
@@ -300,7 +302,7 @@ Mary M. Culver papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [09951774499823109324]" altrender="box">2</container>
             <unittitle>Preservation vanguard: Fiske Kimball: author, architect, and teacher <unitdate type="inclusive" normal="1994">1994</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">1 volumes</extent>
@@ -312,7 +314,7 @@ Mary M. Culver papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [09951774499823109324]" altrender="box">2</container>
             <unittitle>Stephen Mills 1809-1896 his life, his times, and his house, <unitdate type="inclusive" normal="1991">1991</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">1 volumes</extent>
@@ -324,7 +326,7 @@ Mary M. Culver papers, Bentley Historical Library, University of Michigan</p>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [839449907432941477440538]" altrender="box">3</container>
             <unittitle>Washtenaw County Assessment rolls <unitdate type="inclusive" normal="1856/1868">1856-1868</unitdate></unittitle>
           </did>
           <odd>
@@ -337,7 +339,7 @@ Mary M. Culver papers, Bentley Historical Library, University of Michigan</p>
           </did>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [839449907432941477440538]" altrender="box">3</container>
               <unittitle>Images of historic buildings (photo slides) <unitdate type="inclusive" normal="1968/2001">1968-2001</unitdate></unittitle>
               <physdesc altrender="whole">
                 <extent altrender="materialtype spaceoccupied">192 slides</extent>
@@ -350,7 +352,7 @@ Mary M. Culver papers, Bentley Historical Library, University of Michigan</p>
             </did>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [839449907432941477440538]" altrender="box">3</container>
                 <unittitle>1324 Pontiac Trail, Ann Arbor, Mich.</unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">59 slides</extent>
@@ -359,7 +361,7 @@ Mary M. Culver papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [839449907432941477440538]" altrender="box">3</container>
                 <unittitle>Jackson County, Mich.</unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">54 slides</extent>
@@ -368,7 +370,7 @@ Mary M. Culver papers, Bentley Historical Library, University of Michigan</p>
             </c04>
             <c04 level="file">
               <did>
-                <container type="box" label="Box">3</container>
+                <container type="box" label="Box [839449907432941477440538]" altrender="box">3</container>
                 <unittitle>Miscellaneous teaching</unittitle>
                 <physdesc altrender="whole">
                   <extent altrender="materialtype spaceoccupied">53 slides</extent>
@@ -378,7 +380,7 @@ Mary M. Culver papers, Bentley Historical Library, University of Michigan</p>
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [839449907432941477440538]" altrender="box">3</container>
               <unittitle>Main Ann Arbor Post Office, 220 Main St. <unitdate type="inclusive" normal="1976">1976</unitdate> (photographs and negatives)</unittitle>
             </did>
           </c03>

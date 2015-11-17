@@ -30,7 +30,7 @@
   </eadheader>
   <frontmatter>
     <titlepage>
-      <publisher>University Archives and Records Program <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
+      <publisher id="/repositories/2/classifications/2">University Archives and Records Program <lb/>Bentley Historical Library <lb/>University of Michigan</publisher>
       <titleproper>Finding aid for <lb/>Nichols Arboretum <lb/>(University of Michigan), <lb/>Record, 1921-2006</titleproper>
       <author>Finding aid created by <lb/>Christie Peterson, October 2005, <lb/>Hannah Gulick, July 2013</author>
     </titlepage>
@@ -40,7 +40,9 @@
       <origination>
         <corpname source="lcnaf" encodinganalog="110">Nichols Arboretum (University of Michigan)</corpname>
       </origination>
-      <unittitle encodinganalog="245">Nichols Arboretum (University of Michigan) records <unitdate type="inclusive" encodinganalog="245$f" normal="1921/2006">1921-2006</unitdate>, <unitdate type="bulk" encodinganalog="245$g" normal="1995/2004">1995-2004</unitdate></unittitle>
+      <unittitle encodinganalog="245">Nichols Arboretum (University of Michigan) records</unittitle>
+      <unitdate type="inclusive" encodinganalog="245$f" normal="1921/2006">1921-2006</unitdate>
+      <unitdate type="bulk" encodinganalog="245$g" normal="1995/2004">1995-2004</unitdate>
       <unitid encodinganalog="099" repositorycode="MiU-H" countrycode="us" type="call number">05127 Bimu 2</unitid>
       <langmaterial>The material is in <language langcode="eng" encodinganalog="041">English</language></langmaterial>
       <abstract>The Nichols Arboretum consists of 123 acres of land adjacent to the University of Michigan's Central Campus. This collection of the Arboretum's records dates mainly from the latter half of the 20th century, and features publications and printed materials from the 1990s. It also includes written histories from the early 20th century, several files of administrative materials from the late 1960s, and materials pertaining to proposals for the Arboretum grounds in the 1990s</abstract>
@@ -91,16 +93,16 @@ Nichols Arboretum (University of Michigan), Bentley Historical Library, Universi
       </p>
       <controlaccess>
         <head>Subjects:</head>
-        <geogname source="lcsh" encodinganalog="600">Nichols Arboretum (University of Michigan)</geogname>
-        <subject source="lcsh" encodinganalog="650">Landscape architecture--Michigan--Ann Arbor.</subject>
-        <subject source="lcsh" encodinganalog="650">Gardens--Michigan--Ann Arbor.</subject>
-        <subject source="lcsh" encodinganalog="650">Natural areas--Michigan--Ann Arbor.</subject>
+        <geogname source="lcsh" encodinganalog="600" ref="/subjects/923">Nichols Arboretum (University of Michigan)</geogname>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5934">Landscape architecture--Michigan--Ann Arbor.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5935">Gardens--Michigan--Ann Arbor.</subject>
+        <subject source="lcsh" encodinganalog="650" ref="/subjects/5936">Natural areas--Michigan--Ann Arbor.</subject>
       </controlaccess>
       <controlaccess>
         <head>Genre Terms:</head>
-        <genreform source="aat" encodinganalog="655">Newsletters.</genreform>
-        <genreform source="aat" encodinganalog="655">Compact discs.</genreform>
-        <genreform source="aat" encodinganalog="655">Sound recordings.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3157">Newsletters.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3170">Compact discs.</genreform>
+        <genreform source="aat" encodinganalog="655" ref="/subjects/3143">Sound recordings.</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
@@ -113,170 +115,178 @@ Nichols Arboretum (University of Michigan), Bentley Historical Library, Universi
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [2319482480332932643]" altrender="box">1</container>
             <unittitle>Academic Advisory Committee <unitdate type="inclusive" normal="1999/2002">1999-2002</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [2319482480332932643]" altrender="box">1</container>
             <unittitle>Acquisitions</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <unittitle>ARB Provost <unitdate type="inclusive" normal="1997">1997</unitdate>, <unitdate type="inclusive" normal="1999">1999</unitdate>, <unitdate type="inclusive" normal="2001">2001</unitdate></unittitle>
+            <container type="box" label="Box [2319482480332932643]" altrender="box">1</container>
+            <unittitle>ARB Provost</unittitle>
+            <unitdate type="inclusive" normal="1997">1997</unitdate>
+            <unitdate type="inclusive" normal="1999">1999</unitdate>
+            <unitdate type="inclusive" normal="2001">2001</unitdate>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [2319482480332932643]" altrender="box">1</container>
             <unittitle>Budget <unitdate type="inclusive" normal="1992/1997">1992-1997</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <unittitle>Educational and research activities <unitdate type="inclusive" normal="1998">1998</unitdate>, <unitdate type="inclusive" normal="2000">2000</unitdate></unittitle>
+            <container type="box" label="Box [2319482480332932643]" altrender="box">1</container>
+            <unittitle>Educational and research activities</unittitle>
+            <unitdate type="inclusive" normal="1998">1998</unitdate>
+            <unitdate type="inclusive" normal="2000">2000</unitdate>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [2319482480332932643]" altrender="box">1</container>
             <unittitle>Excerpts and summaries of Regents' Proceedings regarding Nichols Arboretum</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [2319482480332932643]" altrender="box">1</container>
             <unittitle>Goals and Objectives <unitdate type="inclusive" normal="2000">2000</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [2319482480332932643]" altrender="box">1</container>
             <unittitle>Grounds Committee <unitdate type="inclusive" normal="1999/2003">1999-2003</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <unittitle>Histories of Nichols Arboretum and Department of Landscape Design / Architecture <unitdate type="inclusive" normal="1935/1945">1935-1945</unitdate>, <unitdate type="inclusive">undated</unitdate></unittitle>
+            <container type="box" label="Box [2319482480332932643]" altrender="box">1</container>
+            <unittitle>Histories of Nichols Arboretum and Department of Landscape Design / Architecture</unittitle>
+            <unitdate type="inclusive" normal="1935/1945">1935-1945</unitdate>
+            <unitdate type="inclusive">undated</unitdate>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [2319482480332932643]" altrender="box">1</container>
             <unittitle>Lists of Maps and Proposals</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [2319482480332932643]" altrender="box">1</container>
             <unittitle>Meeting Minutes <unitdate type="inclusive" normal="1991/1993">1991-1993</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="map-case" label="Drawer">240</container>
-            <container type="folder" label="Folder">1</container>
+            <container type="map-case" label="Drawer [9982903465412505738]" id="bf61d5c1-2c3d-45a1-aef5-8720202a76eb" altrender="map-case">240</container>
+            <container type="folder" label="Folder" parent="bf61d5c1-2c3d-45a1-aef5-8720202a76eb">1</container>
             <unittitle>Meeting notes on Arboretum mission, goals, strengths and threats <unitdate type="inclusive" normal="2001" certainty="approximate">circa 2001</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [2319482480332932643]" altrender="box">1</container>
             <unittitle>Mountain Bike Problem <unitdate type="inclusive" normal="1989">1989</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [2319482480332932643]" altrender="box">1</container>
             <unittitle>Personnel <unitdate type="inclusive" normal="1935/1945">1935-1945</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [2319482480332932643]" altrender="box">1</container>
             <unittitle>Police Reports, Damage and Restitution <unitdate type="inclusive" normal="1970/1988">1970-1988</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [2319482480332932643]" altrender="box">1</container>
             <unittitle>Policies <unitdate type="inclusive" normal="1934/1999">1934-1999</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <unittitle>Position Analyses <unitdate type="inclusive">undated</unitdate> post-1968Word-processed lists of maps and proposals, <unitdate type="inclusive">undated</unitdate></unittitle>
+            <container type="box" label="Box [2319482480332932643]" altrender="box">1</container>
+            <unittitle>Position Analyses undated post-1968Word-processed lists of maps and proposals, undated</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [2319482480332932643]" altrender="box">1</container>
             <unittitle>Programming <unitdate type="inclusive" normal="1997/2003">1997-2003</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [2319482480332932643]" altrender="box">1</container>
             <unittitle>Public Relations <unitdate type="inclusive" normal="1991/1993">1991-1993</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [2319482480332932643]" altrender="box">1</container>
             <unittitle>Public Safety <unitdate type="inclusive" normal="1999">1999</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [2319482480332932643]" altrender="box">1</container>
             <unittitle>Rules of the Arb</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [2319482480332932643]" altrender="box">1</container>
             <unittitle>Sanitary Sewage <unitdate type="inclusive" normal="1988">1988</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [2319482480332932643]" altrender="box">1</container>
             <unittitle>Security and Vandalism <unitdate type="inclusive" normal="1928/1994">1928-1994 (scattered)</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [2319482480332932643]" altrender="box">1</container>
             <unittitle>Space Management <unitdate type="inclusive" normal="2001/2002">2001-2002</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [2319482480332932643]" altrender="box">1</container>
             <unittitle>Staff <unitdate type="inclusive" normal="1994/2004">1994-2004</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [2319482480332932643]" altrender="box">1</container>
             <unittitle>Staff and Committees <unitdate type="inclusive" normal="2000">2000</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [2319482480332932643]" altrender="box">1</container>
             <unittitle>Staff Duties <unitdate type="inclusive" normal="1958">1958</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [2319482480332932643]" altrender="box">1</container>
             <unittitle>Staff Meetings <unitdate type="inclusive" normal="1988/2001">1988-2001</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">8 folders</extent>
@@ -285,61 +295,61 @@ Nichols Arboretum (University of Michigan), Bentley Historical Library, Universi
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [2319482480332932643]" altrender="box">1</container>
             <unittitle>Steering Committee <unitdate type="inclusive" normal="1972/1989">1972-1989</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [2319482480332932643]" altrender="box">1</container>
             <unittitle>Stewardship <unitdate type="inclusive" normal="2002">2002</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [2319482480332932643]" altrender="box">1</container>
             <unittitle>Strategic Planning <unitdate type="inclusive" normal="1999/2001">1999-2001</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [2319482480332932643]" altrender="box">1</container>
             <unittitle>Survey <unitdate type="inclusive" normal="1988">1988</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [2319482480332932643]" altrender="box">1</container>
             <unittitle>Theft Reward <unitdate type="inclusive" normal="1988">1988</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [2319482480332932643]" altrender="box">1</container>
             <unittitle>Tribute Committee <unitdate type="inclusive" normal="2002">2002</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [2319482480332932643]" altrender="box">1</container>
             <unittitle>Usage Studies <unitdate type="inclusive" normal="1988/2000">1988-2000</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [2319482480332932643]" altrender="box">1</container>
             <unittitle>Visitor Survey <unitdate type="inclusive" normal="1988/2000">1988-2000</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [2319482480332932643]" altrender="box">1</container>
             <unittitle>Work activity reports <unitdate type="inclusive" normal="1966/1967">1966-1967</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [2319482480332932643]" altrender="box">1</container>
             <unittitle>Work Orders <unitdate type="inclusive" normal="2000/2002">2000-2002</unitdate></unittitle>
           </did>
         </c02>
@@ -353,38 +363,43 @@ Nichols Arboretum (University of Michigan), Bentley Historical Library, Universi
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [2319482480332932643]" altrender="box">1</container>
             <unittitle>Brady, James J. <unitdate type="inclusive" normal="1992">1992</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [2319482480332932643]" altrender="box">1</container>
             <unittitle>Braman, Arlie <unitdate type="inclusive" normal="1969">1969</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [2319482480332932643]" altrender="box">1</container>
             <unittitle>Closing Nichols Drive <unitdate type="inclusive" normal="1974/1989">1974-1989</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <unittitle>Donor Letters <unitdate type="inclusive" normal="1993">1993</unitdate>, <unitdate type="inclusive" normal="1997/1998">1997-1998</unitdate>, <unitdate type="inclusive" normal="2004">2004</unitdate></unittitle>
+            <container type="box" label="Box [2319482480332932643]" altrender="box">1</container>
+            <unittitle>Donor Letters</unittitle>
+            <unitdate type="inclusive" normal="1993">1993</unitdate>
+            <unitdate type="inclusive" normal="1997/1998">1997-1998</unitdate>
+            <unitdate type="inclusive" normal="2004">2004</unitdate>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [2319482480332932643]" altrender="box">1</container>
             <unittitle>Elliott, Marian J. <unitdate type="inclusive" normal="1994">1994</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
-            <unittitle>General <unitdate type="inclusive" normal="1991">1991</unitdate>, <unitdate type="inclusive" normal="1997">1997</unitdate></unittitle>
+            <container type="box" label="Box [2319482480332932643]" altrender="box">1</container>
+            <unittitle>General</unittitle>
+            <unitdate type="inclusive" normal="1991">1991</unitdate>
+            <unitdate type="inclusive" normal="1997">1997</unitdate>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
             </physdesc>
@@ -392,19 +407,19 @@ Nichols Arboretum (University of Michigan), Bentley Historical Library, Universi
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [2319482480332932643]" altrender="box">1</container>
             <unittitle>Hanson, Richard (Asst. Prof. of Landscape Arch.) to Walter Chambers (Director of Nichols Arboretum) <unitdate type="inclusive" normal="1968/1969">1968-1969</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [2319482480332932643]" altrender="box">1</container>
             <unittitle>President's House <unitdate type="inclusive" normal="1968/1969">1968-1969</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [2319482480332932643]" altrender="box">1</container>
             <unittitle>Wilson, Michelle <unitdate type="inclusive" normal="1993">1993</unitdate></unittitle>
           </did>
         </c02>
@@ -418,39 +433,39 @@ Nichols Arboretum (University of Michigan), Bentley Historical Library, Universi
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [2319482480332932643]" altrender="box">1</container>
             <unittitle>Newspaper Clippings <unitdate type="inclusive" normal="1994/1995">1994-1995</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [2319482480332932643]" altrender="box">1</container>
             <unittitle>Volunteers and Friends of Nichols Arboretum <unitdate type="inclusive" normal="1994">1994</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [2319482480332932643]" altrender="box">1</container>
             <unittitle>Wild Ones Conference <unitdate type="inclusive" normal="2000">2000</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">1</container>
+            <container type="box" label="Box [2319482480332932643]" altrender="box">1</container>
             <unittitle>"Winter in the Arb-Beauty and the Beast"</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="map-case" label="Drawer">240</container>
-            <container type="folder" label="Folder">2</container>
+            <container type="map-case" label="Drawer [9982903465412505738]" id="8cba3650-2901-4ec2-96c3-ec321da83164" altrender="map-case">240</container>
+            <container type="folder" label="Folder" parent="8cba3650-2901-4ec2-96c3-ec321da83164">2</container>
             <unittitle>Laminated map showing trails and benches <unitdate type="inclusive">undated</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="map-case" label="Drawer">240</container>
-            <container type="folder" label="Folder">2</container>
+            <container type="map-case" label="Drawer [9982903465412505738]" id="14c9f98c-a799-43cd-b6d1-8aef1e45fb86" altrender="map-case">240</container>
+            <container type="folder" label="Folder" parent="14c9f98c-a799-43cd-b6d1-8aef1e45fb86">2</container>
             <unittitle>Laminated map showing trail distances <unitdate type="inclusive">undated</unitdate></unittitle>
           </did>
         </c02>
@@ -464,55 +479,57 @@ Nichols Arboretum (University of Michigan), Bentley Historical Library, Universi
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [6009455642959656175507]" altrender="box">2</container>
             <unittitle>5K Run <unitdate type="inclusive" normal="2003">2003</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [6009455642959656175507]" altrender="box">2</container>
             <unittitle>Backyard Wildlife Habitat Tour <unitdate type="inclusive" normal="2001">2001</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [6009455642959656175507]" altrender="box">2</container>
             <unittitle>Borders Benefit Days <unitdate type="inclusive" normal="1998">1998</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [6009455642959656175507]" altrender="box">2</container>
             <unittitle>Centennial <unitdate type="inclusive" normal="2000">2000</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [6009455642959656175507]" altrender="box">2</container>
             <unittitle>Conifer Tree Sale <unitdate type="inclusive" normal="2000">2000</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [6009455642959656175507]" altrender="box">2</container>
             <unittitle>Environmental Education Program <unitdate type="inclusive" normal="1997">1997</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [6009455642959656175507]" altrender="box">2</container>
             <unittitle>"Imagine/Align," <unitdate type="inclusive" normal="2004">2004</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
-            <unittitle>MI Big Ten Run <unitdate type="inclusive" normal="2004">2004</unitdate>, <unitdate type="inclusive" normal="2006">2006</unitdate></unittitle>
+            <container type="box" label="Box [6009455642959656175507]" altrender="box">2</container>
+            <unittitle>MI Big Ten Run</unittitle>
+            <unitdate type="inclusive" normal="2004">2004</unitdate>
+            <unitdate type="inclusive" normal="2006">2006</unitdate>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [6009455642959656175507]" altrender="box">2</container>
             <unittitle>Natural Areas Workshop <unitdate type="inclusive" normal="2000/2001">2000-2001</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -521,31 +538,33 @@ Nichols Arboretum (University of Michigan), Bentley Historical Library, Universi
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [6009455642959656175507]" altrender="box">2</container>
             <unittitle>NRE 445 Activities <unitdate type="inclusive" normal="1995/1998">1995-1998</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
-            <unittitle>Shakespeare in the Arb -- "A Midsummer Night's Dream," <unitdate type="inclusive" normal="2002">2002</unitdate>, <unitdate type="inclusive" normal="2005">2005</unitdate></unittitle>
+            <container type="box" label="Box [6009455642959656175507]" altrender="box">2</container>
+            <unittitle>Shakespeare in the Arb -- "A Midsummer Night's Dream,"</unittitle>
+            <unitdate type="inclusive" normal="2002">2002</unitdate>
+            <unitdate type="inclusive" normal="2005">2005</unitdate>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [6009455642959656175507]" altrender="box">2</container>
             <unittitle>Sustainable Architecture <unitdate type="inclusive" normal="2001">2001</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [6009455642959656175507]" altrender="box">2</container>
             <unittitle>UM Art Department Activities <unitdate type="inclusive" normal="1997/2002">1997-2002</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [6009455642959656175507]" altrender="box">2</container>
             <unittitle>Winter Sports <unitdate type="inclusive" normal="1921/1994">1921-1994</unitdate></unittitle>
           </did>
         </c02>
@@ -559,8 +578,10 @@ Nichols Arboretum (University of Michigan), Bentley Historical Library, Universi
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
-            <unittitle>Annual Meeting <unitdate type="inclusive" normal="1998/2001">1998-2001</unitdate>, <unitdate type="inclusive" normal="2003">2003</unitdate></unittitle>
+            <container type="box" label="Box [6009455642959656175507]" altrender="box">2</container>
+            <unittitle>Annual Meeting</unittitle>
+            <unitdate type="inclusive" normal="1998/2001">1998-2001</unitdate>
+            <unitdate type="inclusive" normal="2003">2003</unitdate>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">5 folders</extent>
             </physdesc>
@@ -568,13 +589,13 @@ Nichols Arboretum (University of Michigan), Bentley Historical Library, Universi
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [6009455642959656175507]" altrender="box">2</container>
             <unittitle>Award <unitdate type="inclusive" normal="1997">1997</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [6009455642959656175507]" altrender="box">2</container>
             <unittitle>Board of Directors <unitdate type="inclusive" normal="1990/2004">1990-2004</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">15 folders</extent>
@@ -583,97 +604,102 @@ Nichols Arboretum (University of Michigan), Bentley Historical Library, Universi
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [6009455642959656175507]" altrender="box">2</container>
             <unittitle>Board of Directors Annual Lists <unitdate type="inclusive" normal="1991/2004">1991-2004</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [6009455642959656175507]" altrender="box">2</container>
             <unittitle>Board of Directors Meeting Papers <unitdate type="inclusive" normal="2002/2003">2002-2003</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [6009455642959656175507]" altrender="box">2</container>
             <unittitle>Board Responsibilities</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [6009455642959656175507]" altrender="box">2</container>
             <unittitle>Budget <unitdate type="inclusive" normal="1999/2000">1999-2000</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
-            <unittitle>Bylaws <unitdate type="inclusive" normal="1991">1991</unitdate>, <unitdate type="inclusive" normal="1992">1992</unitdate>, <unitdate type="inclusive" normal="2002">2002</unitdate></unittitle>
+            <container type="box" label="Box [6009455642959656175507]" altrender="box">2</container>
+            <unittitle>Bylaws</unittitle>
+            <unitdate type="inclusive" normal="1991">1991</unitdate>
+            <unitdate type="inclusive" normal="1992">1992</unitdate>
+            <unitdate type="inclusive" normal="2002">2002</unitdate>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [6009455642959656175507]" altrender="box">2</container>
             <unittitle>Charter Members <unitdate type="inclusive" normal="1991">1991</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [6009455642959656175507]" altrender="box">2</container>
             <unittitle>Financial Reports <unitdate type="inclusive" normal="1991/1994">1991-1994</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [6009455642959656175507]" altrender="box">2</container>
             <unittitle>Formation <unitdate type="inclusive" normal="1988/1989">1988-1989</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [6009455642959656175507]" altrender="box">2</container>
             <unittitle>Fundraising and Development <unitdate type="inclusive" normal="1994/1997">1994-1997</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [6009455642959656175507]" altrender="box">2</container>
             <unittitle>Initial Member Solicitation <unitdate type="inclusive" normal="1991">1991</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [6009455642959656175507]" altrender="box">2</container>
             <unittitle>Meetings <unitdate type="inclusive" normal="1989/1994">1989-1994</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
-            <unittitle>Member List <unitdate type="inclusive" normal="1993">1993</unitdate>, <unitdate type="inclusive" normal="1995">1995</unitdate></unittitle>
+            <container type="box" label="Box [6009455642959656175507]" altrender="box">2</container>
+            <unittitle>Member List</unittitle>
+            <unitdate type="inclusive" normal="1993">1993</unitdate>
+            <unitdate type="inclusive" normal="1995">1995</unitdate>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [6009455642959656175507]" altrender="box">2</container>
             <unittitle>Membership <unitdate type="inclusive" normal="1990/1992">1990-1992</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [6009455642959656175507]" altrender="box">2</container>
             <unittitle>Mission Statement <unitdate type="inclusive" normal="2000">2000</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [6009455642959656175507]" altrender="box">2</container>
             <unittitle>Recruitment Letters <unitdate type="inclusive" normal="1993/1997">1993-1997</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">2</container>
+            <container type="box" label="Box [6009455642959656175507]" altrender="box">2</container>
             <unittitle>Welcome Letter <unitdate type="inclusive" normal="1997">1997</unitdate></unittitle>
           </did>
         </c02>
@@ -687,109 +713,109 @@ Nichols Arboretum (University of Michigan), Bentley Historical Library, Universi
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [552235974733439127663]" altrender="box">3</container>
             <unittitle>Amphitheater Project <unitdate type="inclusive" normal="2004">2004</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [552235974733439127663]" altrender="box">3</container>
             <unittitle>Appalachian Glen <unitdate type="inclusive" normal="1997">1997</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [552235974733439127663]" altrender="box">3</container>
             <unittitle>Burnham House/Gateway Garden Development <unitdate type="inclusive" normal="1995/1999">1995-1999</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [552235974733439127663]" altrender="box">3</container>
             <unittitle>Conrail Underpass <unitdate type="inclusive" normal="1994/1995">1994-1995</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [552235974733439127663]" altrender="box">3</container>
             <unittitle>Dow Field Prairie Burns <unitdate type="inclusive" normal="1998/2000">1998-2000</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [552235974733439127663]" altrender="box">3</container>
             <unittitle>Dow Prairie <unitdate type="inclusive" normal="1993/1994">1993-1994</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [552235974733439127663]" altrender="box">3</container>
             <unittitle>Gateway Garden Development <unitdate type="inclusive" normal="2002">2002</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [552235974733439127663]" altrender="box">3</container>
             <unittitle>Gateway Garden -- Iron Fence <unitdate type="inclusive" normal="1998/2002">1998-2002</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [552235974733439127663]" altrender="box">3</container>
             <unittitle>General <unitdate type="inclusive" normal="1981/1992">1981-1992</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [552235974733439127663]" altrender="box">3</container>
             <unittitle>Horticultural Programs <unitdate type="inclusive" normal="1955">1955</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [552235974733439127663]" altrender="box">3</container>
             <unittitle>"Landscape Explorers" Project <unitdate type="inclusive" normal="2003/2004">2003-2004</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [552235974733439127663]" altrender="box">3</container>
             <unittitle>Medical Campus Walkways <unitdate type="inclusive" normal="2002">2002</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [552235974733439127663]" altrender="box">3</container>
             <unittitle>Michigan Heritage Route <unitdate type="inclusive" normal="1999">1999</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [552235974733439127663]" altrender="box">3</container>
             <unittitle>Plant Collection -- Appalachian Glen</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [552235974733439127663]" altrender="box">3</container>
             <unittitle>Residential College Projects <unitdate type="inclusive" normal="1998">1998</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [552235974733439127663]" altrender="box">3</container>
             <unittitle>Rhododendron Glen <unitdate type="inclusive" normal="1991">1991</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [552235974733439127663]" altrender="box">3</container>
             <unittitle>School Girl's Glen <unitdate type="inclusive" normal="1973/2003">1973-2003</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [552235974733439127663]" altrender="box">3</container>
             <unittitle>Student Projects <unitdate type="inclusive" normal="1992/1998">1992-1998</unitdate></unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -798,37 +824,39 @@ Nichols Arboretum (University of Michigan), Bentley Historical Library, Universi
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
-            <unittitle>Study Center <unitdate type="inclusive" normal="1963/1965">1963-1965</unitdate>, <unitdate type="inclusive" normal="1968">1968</unitdate></unittitle>
+            <container type="box" label="Box [552235974733439127663]" altrender="box">3</container>
+            <unittitle>Study Center</unittitle>
+            <unitdate type="inclusive" normal="1963/1965">1963-1965</unitdate>
+            <unitdate type="inclusive" normal="1968">1968</unitdate>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [552235974733439127663]" altrender="box">3</container>
             <unittitle>Study Center Promotion</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [552235974733439127663]" altrender="box">3</container>
             <unittitle>Tunnel between Park <unitdate type="inclusive" normal="2000">2000</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [552235974733439127663]" altrender="box">3</container>
             <unittitle>Urban Environmental Education Center <unitdate type="inclusive" normal="1997">1997</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [552235974733439127663]" altrender="box">3</container>
             <unittitle>Washington Heights Road <unitdate type="inclusive" normal="1992/1998">1992-1998</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [552235974733439127663]" altrender="box">3</container>
             <unittitle>Work Space <unitdate type="inclusive" normal="1964/1979">1964-1979</unitdate></unittitle>
           </did>
         </c02>
@@ -843,63 +871,73 @@ Nichols Arboretum (University of Michigan), Bentley Historical Library, Universi
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [552235974733439127663]" altrender="box">3</container>
             <unittitle>8 1/2" x 11" flyers <unitdate type="inclusive" normal="1993/2003">1993-2003</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [552235974733439127663]" altrender="box">3</container>
             <unittitle>Educational program announcements and material <unitdate type="inclusive" normal="1995/1999">1995-1999</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [552235974733439127663]" altrender="box">3</container>
             <unittitle>Events materials <unitdate type="inclusive" normal="1995/2004">1995-2004</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="map-case" label="Drawer">240</container>
-            <container type="folder" label="Folder">3</container>
+            <container type="map-case" label="Drawer [9982903465412505738]" id="6dc70d34-d46d-4919-886f-4cc9a2f828dd" altrender="map-case">240</container>
+            <container type="folder" label="Folder" parent="6dc70d34-d46d-4919-886f-4cc9a2f828dd">3</container>
             <unittitle>Event posters <unitdate type="inclusive" normal="1993/2004">1993-2004</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
-            <unittitle>Fundraising and Volunteer Opportunities <unitdate type="inclusive" normal="1996">1996</unitdate>, <unitdate type="inclusive" normal="1999" certainty="approximate">1999 undated</unitdate></unittitle>
+            <container type="box" label="Box [552235974733439127663]" altrender="box">3</container>
+            <unittitle>Fundraising and Volunteer Opportunities</unittitle>
+            <unitdate type="inclusive" normal="1996">1996</unitdate>
+            <unitdate type="inclusive" normal="1999" certainty="approximate">1999 undated</unitdate>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [552235974733439127663]" altrender="box">3</container>
             <unittitle>General brochures, etc. <unitdate type="inclusive">undated</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
-            <unittitle>Guides to local arboreta, gardens and educational organizations <unitdate type="inclusive" normal="1995">1995</unitdate>, <unitdate type="inclusive">undated</unitdate></unittitle>
+            <container type="box" label="Box [552235974733439127663]" altrender="box">3</container>
+            <unittitle>Guides to local arboreta, gardens and educational organizations</unittitle>
+            <unitdate type="inclusive" normal="1995">1995</unitdate>
+            <unitdate type="inclusive">undated</unitdate>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
-            <unittitle>Lists and bloom information regarding plants in Arboretum <unitdate type="inclusive" normal="1996">1996</unitdate>, <unitdate type="inclusive">undated</unitdate></unittitle>
+            <container type="box" label="Box [552235974733439127663]" altrender="box">3</container>
+            <unittitle>Lists and bloom information regarding plants in Arboretum</unittitle>
+            <unitdate type="inclusive" normal="1996">1996</unitdate>
+            <unitdate type="inclusive">undated</unitdate>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [552235974733439127663]" altrender="box">3</container>
             <unittitle>Master Plan <unitdate type="inclusive" normal="1988">1988</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
-            <unittitle><title render="italic">Peony Garden Guide</title>, <unitdate type="inclusive" normal="1995">1995</unitdate>, <unitdate type="inclusive" normal="2000">2000</unitdate></unittitle>
+            <container type="box" label="Box [552235974733439127663]" altrender="box">3</container>
+            <unittitle>
+              <title render="italic">Peony Garden Guide</title>
+            </unittitle>
+            <unitdate type="inclusive" normal="1995">1995</unitdate>
+            <unitdate type="inclusive" normal="2000">2000</unitdate>
           </did>
         </c02>
         <c02 level="file">
@@ -913,7 +951,7 @@ Nichols Arboretum (University of Michigan), Bentley Historical Library, Universi
           </odd>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [552235974733439127663]" altrender="box">3</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1991/1995">1991-1995</unitdate>
               </unittitle>
@@ -921,7 +959,7 @@ Nichols Arboretum (University of Michigan), Bentley Historical Library, Universi
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [552235974733439127663]" altrender="box">3</container>
               <unittitle>
                 <unitdate type="inclusive" normal="1996/1999">1996-1999</unitdate>
               </unittitle>
@@ -929,7 +967,7 @@ Nichols Arboretum (University of Michigan), Bentley Historical Library, Universi
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [552235974733439127663]" altrender="box">3</container>
               <unittitle>
                 <unitdate type="inclusive" normal="2000/2002">2000-2002</unitdate>
               </unittitle>
@@ -937,7 +975,7 @@ Nichols Arboretum (University of Michigan), Bentley Historical Library, Universi
           </c03>
           <c03 level="file">
             <did>
-              <container type="box" label="Box">3</container>
+              <container type="box" label="Box [552235974733439127663]" altrender="box">3</container>
               <unittitle>
                 <unitdate type="inclusive" normal="2003/2004">2003-2004</unitdate>
               </unittitle>
@@ -946,8 +984,10 @@ Nichols Arboretum (University of Michigan), Bentley Historical Library, Universi
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
-            <unittitle>Urban Environmental Education Center <unitdate type="inclusive" normal="1994/1999">1994-1999</unitdate>, <unitdate type="inclusive">undated</unitdate></unittitle>
+            <container type="box" label="Box [552235974733439127663]" altrender="box">3</container>
+            <unittitle>Urban Environmental Education Center</unittitle>
+            <unitdate type="inclusive" normal="1994/1999">1994-1999</unitdate>
+            <unitdate type="inclusive">undated</unitdate>
           </did>
         </c02>
       </c01>
@@ -960,31 +1000,31 @@ Nichols Arboretum (University of Michigan), Bentley Historical Library, Universi
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [552235974733439127663]" altrender="box">3</container>
             <unittitle>Aerial Photographs (oversize)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [552235974733439127663]" altrender="box">3</container>
             <unittitle>Arb Alumni <unitdate type="inclusive" normal="2005">2005</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [552235974733439127663]" altrender="box">3</container>
             <unittitle>Arbfest guest comment book <unitdate type="inclusive" normal="2001">2001</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [552235974733439127663]" altrender="box">3</container>
             <unittitle>Arboretum Videos <unitdate type="inclusive" normal="1997">1997</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [552235974733439127663]" altrender="box">3</container>
             <unittitle>Design for gates by the Department of Landscape Design</unittitle>
             <physdesc>
               <physfacet>oversize</physfacet>
@@ -993,13 +1033,13 @@ Nichols Arboretum (University of Michigan), Bentley Historical Library, Universi
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [552235974733439127663]" altrender="box">3</container>
             <unittitle>Dow Field Species List</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [552235974733439127663]" altrender="box">3</container>
             <unittitle>Drawing of Burnham House by Kemnitz <unitdate type="inclusive">undated</unitdate></unittitle>
             <physdesc>
               <physfacet>oversize</physfacet>
@@ -1008,19 +1048,19 @@ Nichols Arboretum (University of Michigan), Bentley Historical Library, Universi
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [552235974733439127663]" altrender="box">3</container>
             <unittitle>Friends of Stinchfield Woods <unitdate type="inclusive" normal="1994">1994</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [552235974733439127663]" altrender="box">3</container>
             <unittitle>Hiroshima Plant Exchange <unitdate type="inclusive" normal="1998">1998</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [552235974733439127663]" altrender="box">3</container>
             <unittitle>Maps</unittitle>
             <physdesc altrender="whole">
               <extent altrender="materialtype spaceoccupied">2 folders</extent>
@@ -1029,13 +1069,13 @@ Nichols Arboretum (University of Michigan), Bentley Historical Library, Universi
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [552235974733439127663]" altrender="box">3</container>
             <unittitle>Miscellaneous <unitdate type="inclusive" normal="2000">2000</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [552235974733439127663]" altrender="box">3</container>
             <unittitle>Original of Nichols Arboretum logo <unitdate type="inclusive" normal="1990" certainty="approximate">circa 1990</unitdate></unittitle>
             <physdesc>
               <physfacet>oversize</physfacet>
@@ -1044,37 +1084,37 @@ Nichols Arboretum (University of Michigan), Bentley Historical Library, Universi
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [552235974733439127663]" altrender="box">3</container>
             <unittitle>Peony Flowers <unitdate type="inclusive" normal="1991">1991</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [552235974733439127663]" altrender="box">3</container>
             <unittitle>Photograph of Entrance <unitdate type="inclusive" normal="1922">1922</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [552235974733439127663]" altrender="box">3</container>
             <unittitle>Plant Records</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [552235974733439127663]" altrender="box">3</container>
             <unittitle>Press Clippings <unitdate type="inclusive" normal="1952/1964">1952-1964</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [552235974733439127663]" altrender="box">3</container>
             <unittitle>Signage <unitdate type="inclusive" normal="1990/1994">1990-1994</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [552235974733439127663]" altrender="box">3</container>
             <unittitle><title render="italic">Sounds of the Arb</title>, <unitdate type="inclusive" normal="2003">2003</unitdate></unittitle>
             <physdesc>
               <physfacet>compact disc</physfacet>
@@ -1083,13 +1123,13 @@ Nichols Arboretum (University of Michigan), Bentley Historical Library, Universi
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [552235974733439127663]" altrender="box">3</container>
             <unittitle>Website Development <unitdate type="inclusive" normal="2000/2002">2000-2002</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="box" label="Box">3</container>
+            <container type="box" label="Box [552235974733439127663]" altrender="box">3</container>
             <unittitle>Woody Plant Material <unitdate type="inclusive" normal="1991">1991</unitdate></unittitle>
           </did>
         </c02>
@@ -1103,85 +1143,91 @@ Nichols Arboretum (University of Michigan), Bentley Historical Library, Universi
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="map-case" label="Drawer">240</container>
-            <container type="folder" label="Folder">4</container>
-            <unittitle>Copy of <unitdate type="inclusive" normal="1961-06">June 1961</unitdate> map of Arboretum, with indications added for forests, erosion, sled runs, high use areas and property lines, <unitdate type="inclusive">undated</unitdate></unittitle>
+            <container type="map-case" label="Drawer [9982903465412505738]" id="80cd8a10-0c62-410d-9be0-0afcd7dd7a21" altrender="map-case">240</container>
+            <container type="folder" label="Folder" parent="80cd8a10-0c62-410d-9be0-0afcd7dd7a21">4</container>
+            <unittitle>Copy of June 1961 map of Arboretum, with indications added for forests, erosion, sled runs, high use areas and property lines, undated</unittitle>
+            <unitdate type="inclusive" normal="1961-06">June 1961</unitdate>
+            <unitdate type="inclusive">undated</unitdate>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="map-case" label="Drawer">240</container>
-            <container type="folder" label="Folder">4</container>
-            <unittitle>Copy of <unitdate type="inclusive" normal="1961-06">June 1961</unitdate> map of Arboretum, with indications added for Ann Arbor City Park property and potential building sites, <unitdate type="inclusive">undated</unitdate></unittitle>
+            <container type="map-case" label="Drawer [9982903465412505738]" id="861a0e8d-479a-43f3-af64-a6c5df867708" altrender="map-case">240</container>
+            <container type="folder" label="Folder" parent="861a0e8d-479a-43f3-af64-a6c5df867708">4</container>
+            <unittitle>Copy of June 1961 map of Arboretum, with indications added for Ann Arbor City Park property and potential building sites, undated</unittitle>
+            <unitdate type="inclusive" normal="1961-06">June 1961</unitdate>
+            <unitdate type="inclusive">undated</unitdate>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="map-case" label="Drawer">240</container>
-            <container type="folder" label="Folder">4</container>
+            <container type="map-case" label="Drawer [9982903465412505738]" id="781559c8-72df-4dd9-8e63-6dbd024230d7" altrender="map-case">240</container>
+            <container type="folder" label="Folder" parent="781559c8-72df-4dd9-8e63-6dbd024230d7">4</container>
             <unittitle><unitdate type="inclusive" normal="1921">1921</unitdate> Planting Scheme</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="map-case" label="Drawer">240</container>
-            <container type="folder" label="Folder">5</container>
-            <unittitle><unitdate type="inclusive" normal="1927">1927</unitdate> Planting Scheme map, with foot trails added in red pencil, <unitdate type="inclusive">undated</unitdate></unittitle>
+            <container type="map-case" label="Drawer [9982903465412505738]" id="92525785-e322-4365-8313-1edd22500ced" altrender="map-case">240</container>
+            <container type="folder" label="Folder" parent="92525785-e322-4365-8313-1edd22500ced">5</container>
+            <unittitle>1927 Planting Scheme map, with foot trails added in red pencil, undated</unittitle>
+            <unitdate type="inclusive" normal="1927">1927</unitdate>
+            <unitdate type="inclusive">undated</unitdate>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="map-case" label="Drawer">240</container>
-            <container type="folder" label="Folder">4a</container>
+            <container type="map-case" label="Drawer [9982903465412505738]" id="b538535c-0e4b-4a1b-a729-f847fbcc254f" altrender="map-case">240</container>
+            <container type="folder" label="Folder" parent="b538535c-0e4b-4a1b-a729-f847fbcc254f">4a</container>
             <unittitle>Topographical Maps <unitdate type="inclusive" normal="1917/1961">1917-1961</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="map-case" label="Drawer">240</container>
-            <container type="folder" label="Folder">5</container>
+            <container type="map-case" label="Drawer [9982903465412505738]" id="5a827610-1ec3-4db2-8075-f35f5c17f8a5" altrender="map-case">240</container>
+            <container type="folder" label="Folder" parent="5a827610-1ec3-4db2-8075-f35f5c17f8a5">5</container>
             <unittitle>Topographical Map of Nichols Arboretum <unitdate type="inclusive" normal="1943">1943</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="map-case" label="Drawer">240</container>
-            <container type="folder" label="Folder">5</container>
+            <container type="map-case" label="Drawer [9982903465412505738]" id="8aff68a9-e03f-4fc2-845c-becf940a52c1" altrender="map-case">240</container>
+            <container type="folder" label="Folder" parent="8aff68a9-e03f-4fc2-845c-becf940a52c1">5</container>
             <unittitle>Map of Arboretum showing location of 64 specimens <unitdate type="inclusive" normal="1997">1997</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="map-case" label="Drawer">240</container>
-            <container type="folder" label="Folder">5</container>
+            <container type="map-case" label="Drawer [9982903465412505738]" id="49f2beb0-f923-4c7b-8a6a-ff1698507a5f" altrender="map-case">240</container>
+            <container type="folder" label="Folder" parent="49f2beb0-f923-4c7b-8a6a-ff1698507a5f">5</container>
             <unittitle>Peony Garden by A. Arscott <unitdate type="inclusive" normal="2000">2000</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="map-case" label="Drawer">240</container>
-            <container type="folder" label="Folder">5</container>
+            <container type="map-case" label="Drawer [9982903465412505738]" id="57288597-ba68-4676-bbc2-76f8119a6f6b" altrender="map-case">240</container>
+            <container type="folder" label="Folder" parent="57288597-ba68-4676-bbc2-76f8119a6f6b">5</container>
             <unittitle>Peony Garden Identification Chart <unitdate type="inclusive" normal="1927">1927</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="map-case" label="Drawer">240</container>
-            <container type="folder" label="Folder">5</container>
+            <container type="map-case" label="Drawer [9982903465412505738]" id="7edeb8ad-8680-45a9-ad34-d599cd2c855d" altrender="map-case">240</container>
+            <container type="folder" label="Folder" parent="7edeb8ad-8680-45a9-ad34-d599cd2c855d">5</container>
             <unittitle>Peony Garden (draft)</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="map-case" label="Drawer">240</container>
-            <container type="folder" label="Folder">5</container>
+            <container type="map-case" label="Drawer [9982903465412505738]" id="20e72f8c-4467-4c10-8431-eeb9de5b4dd3" altrender="map-case">240</container>
+            <container type="folder" label="Folder" parent="20e72f8c-4467-4c10-8431-eeb9de5b4dd3">5</container>
             <unittitle>Nichols Arboretum <unitdate type="inclusive">undated</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="map-case" label="Drawer">240</container>
-            <container type="folder" label="Folder">5</container>
+            <container type="map-case" label="Drawer [9982903465412505738]" id="d9254433-9004-4902-ab3b-9b278a9784da" altrender="map-case">240</container>
+            <container type="folder" label="Folder" parent="d9254433-9004-4902-ab3b-9b278a9784da">5</container>
             <unittitle>Proposed Winter Sports Arena <unitdate type="inclusive" normal="1927">1927</unitdate></unittitle>
           </did>
         </c02>
@@ -1195,15 +1241,15 @@ Nichols Arboretum (University of Michigan), Bentley Historical Library, Universi
         </scopecontent>
         <c02 level="file">
           <did>
-            <container type="map-case" label="Drawer">240</container>
-            <container type="folder" label="Folder">10</container>
+            <container type="map-case" label="Drawer [9982903465412505738]" id="6db1405e-75c1-41f9-9d85-2ca8f78270bb" altrender="map-case">240</container>
+            <container type="folder" label="Folder" parent="6db1405e-75c1-41f9-9d85-2ca8f78270bb">10</container>
             <unittitle>Appalachian Cove</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="map-case" label="Drawer">240</container>
-            <container type="folder" label="Folder">6</container>
+            <container type="map-case" label="Drawer [9982903465412505738]" id="d826122f-6e50-4e6e-9074-f100ea691cac" altrender="map-case">240</container>
+            <container type="folder" label="Folder" parent="d826122f-6e50-4e6e-9074-f100ea691cac">6</container>
             <unittitle>Service Road <unitdate type="inclusive" normal="1947">1947</unitdate></unittitle>
           </did>
           <odd>
@@ -1220,15 +1266,15 @@ Nichols Arboretum (University of Michigan), Bentley Historical Library, Universi
           <c03 level="file">
             <did>
               <unittitle>"The First Trail" by the Department of Landscape Architecture <unitdate type="inclusive" normal="1965">1965</unitdate></unittitle>
-              <container type="map-case" label="Drawer">241</container>
-              <container type="folder" label="Folder">7</container>
+              <container type="map-case" label="Drawer [2591559586455575597938]" id="1dc17d43-ef77-45af-b62b-61518011ae6c" altrender="map-case">241</container>
+              <container type="folder" label="Folder" parent="1dc17d43-ef77-45af-b62b-61518011ae6c">7</container>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <unittitle>"The First Trail" by the Department of Landscape Architecture <unitdate type="inclusive" normal="1965">1965</unitdate></unittitle>
-              <container type="map-case" label="Drawer">241</container>
-              <container type="folder" label="Folder">8</container>
+              <container type="map-case" label="Drawer [2591559586455575597938]" id="cdb957e2-73f7-48db-833c-ac2ded2ad7f1" altrender="map-case">241</container>
+              <container type="folder" label="Folder" parent="cdb957e2-73f7-48db-833c-ac2ded2ad7f1">8</container>
             </did>
             <odd>
               <p>(continued)</p>
@@ -1237,50 +1283,52 @@ Nichols Arboretum (University of Michigan), Bentley Historical Library, Universi
         </c02>
         <c02 level="file">
           <did>
-            <container type="map-case" label="Drawer">241</container>
-            <container type="folder" label="Folder">8</container>
-            <unittitle>Copies of <unitdate type="inclusive" normal="1961-06">June 1961</unitdate> map of Arboretum, showing alternative sites for a "Study Center," <unitdate type="inclusive">undated</unitdate></unittitle>
+            <container type="map-case" label="Drawer [2591559586455575597938]" id="51320057-6819-4339-b391-064eefb4c587" altrender="map-case">241</container>
+            <container type="folder" label="Folder" parent="51320057-6819-4339-b391-064eefb4c587">8</container>
+            <unittitle>Copies of June 1961 map of Arboretum, showing alternative sites for a "Study Center," undated</unittitle>
+            <unitdate type="inclusive" normal="1961-06">June 1961</unitdate>
+            <unitdate type="inclusive">undated</unitdate>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="map-case" label="Drawer">242</container>
-            <container type="folder" label="Folder">10</container>
+            <container type="map-case" label="Drawer [70251590454633537]" id="c80b7e88-ffca-4e31-a170-8078de2a49b8" altrender="map-case">242</container>
+            <container type="folder" label="Folder" parent="c80b7e88-ffca-4e31-a170-8078de2a49b8">10</container>
             <unittitle>Arboretum Extension Plan <unitdate type="inclusive" normal="1997">1997</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="map-case" label="Drawer">242</container>
-            <container type="folder" label="Folder">11</container>
+            <container type="map-case" label="Drawer [70251590454633537]" id="5d5ff5a0-f35d-4c8b-ade5-1b51ad60b526" altrender="map-case">242</container>
+            <container type="folder" label="Folder" parent="5d5ff5a0-f35d-4c8b-ade5-1b51ad60b526">11</container>
             <unittitle>Burnham house as planned and with two parking alternatives <unitdate type="inclusive">undated</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="map-case" label="Drawer">242</container>
-            <container type="folder" label="Folder">11</container>
+            <container type="map-case" label="Drawer [70251590454633537]" id="aee7d40f-264f-421a-8af8-0f4c0b14e1cc" altrender="map-case">242</container>
+            <container type="folder" label="Folder" parent="aee7d40f-264f-421a-8af8-0f4c0b14e1cc">11</container>
             <unittitle>Interpretive Center Proposal by CG Kunkle <unitdate type="inclusive" normal="1992">1992</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="map-case" label="Drawer">242</container>
-            <container type="folder" label="Folder">11</container>
+            <container type="map-case" label="Drawer [70251590454633537]" id="0fabc0be-908d-4368-8198-7c56fdcf8d9a" altrender="map-case">242</container>
+            <container type="folder" label="Folder" parent="0fabc0be-908d-4368-8198-7c56fdcf8d9a">11</container>
             <unittitle>Riverfront designed by Susan Litts <unitdate type="inclusive" normal="2000">2000</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="map-case" label="Drawer">242</container>
-            <container type="folder" label="Folder">11</container>
+            <container type="map-case" label="Drawer [70251590454633537]" id="17f4aeed-2ba8-4f5b-9ae4-affa9a005ed4" altrender="map-case">242</container>
+            <container type="folder" label="Folder" parent="17f4aeed-2ba8-4f5b-9ae4-affa9a005ed4">11</container>
             <unittitle>Conceptual diagram of problems and solutions <unitdate type="inclusive">undated</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="map-case" label="Drawer">242</container>
-            <container type="folder" label="Folder">11</container>
+            <container type="map-case" label="Drawer [70251590454633537]" id="0bc8094a-aaad-4987-a4d5-b17e033057ea" altrender="map-case">242</container>
+            <container type="folder" label="Folder" parent="0bc8094a-aaad-4987-a4d5-b17e033057ea">11</container>
             <unittitle>Topographic analysis and potential land use <unitdate type="inclusive">undated</unitdate></unittitle>
           </did>
         </c02>
@@ -1291,36 +1339,36 @@ Nichols Arboretum (University of Michigan), Bentley Historical Library, Universi
         </did>
         <c02 level="file">
           <did>
-            <container type="map-case" label="Drawer">242</container>
-            <container type="folder" label="Folder">14</container>
+            <container type="map-case" label="Drawer [70251590454633537]" id="50573bc4-5ad9-46f3-9d1f-0ac3dffb3942" altrender="map-case">242</container>
+            <container type="folder" label="Folder" parent="50573bc4-5ad9-46f3-9d1f-0ac3dffb3942">14</container>
             <unittitle>Aerial Photographs [folder 14]</unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="map-case" label="Drawer">242</container>
-            <container type="folder" label="Folder">12</container>
+            <container type="map-case" label="Drawer [70251590454633537]" id="23ddfac4-e7f0-47ce-bead-c8689be76f1a" altrender="map-case">242</container>
+            <container type="folder" label="Folder" parent="23ddfac4-e7f0-47ce-bead-c8689be76f1a">12</container>
             <unittitle>Design for gates by the Department of Landscape Design <unitdate type="inclusive">undated</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="map-case" label="Drawer">242</container>
-            <container type="folder" label="Folder">13</container>
+            <container type="map-case" label="Drawer [70251590454633537]" id="58cc4aa9-be33-4236-8c34-852eb9d3b9c7" altrender="map-case">242</container>
+            <container type="folder" label="Folder" parent="58cc4aa9-be33-4236-8c34-852eb9d3b9c7">13</container>
             <unittitle>Drawing of Burnham House by Kemnitz <unitdate type="inclusive">undated</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="map-case" label="Drawer">242</container>
-            <container type="folder" label="Folder">13</container>
+            <container type="map-case" label="Drawer [70251590454633537]" id="4b987944-31d2-4c8a-b005-41614ffb9b58" altrender="map-case">242</container>
+            <container type="folder" label="Folder" parent="4b987944-31d2-4c8a-b005-41614ffb9b58">13</container>
             <unittitle>Federated Commemorative Wild Flower Garden <unitdate type="inclusive" normal="1955">1955</unitdate></unittitle>
           </did>
         </c02>
         <c02 level="file">
           <did>
-            <container type="map-case" label="Drawer">242</container>
-            <container type="folder" label="Folder">13</container>
+            <container type="map-case" label="Drawer [70251590454633537]" id="ddce6829-97ad-4740-a5c8-7d464badebd2" altrender="map-case">242</container>
+            <container type="folder" label="Folder" parent="ddce6829-97ad-4740-a5c8-7d464badebd2">13</container>
             <unittitle>Original of Nichols Arboretum logo <unitdate type="inclusive" normal="1990" certainty="approximate">circa 1990</unitdate></unittitle>
           </did>
         </c02>
